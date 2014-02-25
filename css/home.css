@@ -1,0 +1,145 @@
+.jumbotron{
+  background-color: transparent;
+  padding: 0;
+  margin-top:30px;
+}
+img.hero-image{
+  z-index: 0;
+  top:0;
+}
+.hero-container{
+  position: relative;
+  padding:0;
+}
+.hero-title{
+  z-index: 1;
+  position: static;
+  position: relative;
+  top:60%;
+  left:0;
+  padding-left:15px;
+  padding-right:15px;
+}
+@media (min-width: 768px) {
+  .jumbotron .hero-title {
+    position: absolute;  
+    left:10%;
+    background-color: rgba(0,0,0,.25)
+  }
+  .jumbotron{
+    background-color: transparent;
+    padding: 0;
+    margin-top:0;
+  }
+}
+.hero-title h1{
+  width:100%;
+  font-family: "Helvetica Neue", sans-serif;
+  color:#333;
+  text-transform: uppercase;
+  font-weight: 800;
+  font-size: 20pt;
+}
+@media (min-width: 768px) {
+  .jumbotron h1 {
+    font-size: 32pt;
+  letter-spacing: 3px;
+    color:#fff;
+  }
+}
+.hero-title p.sub-title{
+  font-family: "Helvetica Neue", sans-serif;
+  text-transform: uppercase;
+  line-height: 22pt;
+  color:#333;
+  font-size: 12pt;
+  font-weight: 800;
+  font-size: 14pt;
+}
+@media (min-width: 768px) {
+  .jumbotron p.sub-title {
+    font-size: 20pt;
+    color:#fff;
+  }
+}
+.jumbotron p.author{
+  z-index: 2;
+  font-family: "Helvetica Neue", sans-serif;
+  color:#333;
+  text-transform: uppercase;
+  font-size: 10pt;
+  font-weight: 200;
+}
+
+@media (min-width: 768px) {
+  .jumbotron p.author {
+    font-size: 14pt;
+    color:#fff;
+  }
+}
+.dcac-hero-button{
+  background-color: #eee;
+  border-radius: 5px;
+  color:#333;
+  padding:2px;
+}
+.dcac-hero-button:hover{
+  background-color: #333;
+  color:#eee;
+}
+.navbar-inverse{
+  height: 30px;
+}
+@media (min-width: 768px){
+  .navbar-inverse{
+    height: 125px;
+    /*background-color: rgba(51,51,51,.9);*/
+    background-color: transparent;
+    border-bottom: none;
+    z-index: 4;
+  }
+}
+
+.navbar-brand{
+  background: url('../img/logo-sm.png') 15px 15px no-repeat;
+  height:110px;
+  width:138px;
+}
+@media (min-width: 768px){
+  .navbar-brand{
+    background: url('../img/logo.png') 15px 15px no-repeat;
+  }
+}
+.navbar .nav > li > a{
+  line-height: 6;
+  /*margin-top: 35px;*/
+}
+.nav > li {
+  font-size: 12pt;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.nav > li > a:hover,
+.nav > li > a:focus {
+  background-color: transparent;
+}
+.sub-review {
+  font-size: 12pt;
+  text-transform: uppercase;
+}
+@media (min-width: 768px){
+  h2.sub-review{
+    font-size:12pt;
+    margin-top: 10px; 
+    margin-bottom: 30px;
+  }
+}
+.sub-review{
+  width:100%;
+}
+.thumbnail{
+  border:none;padding:0;
+}
+.col-md-6{
+  padding-left: 0;
+}
