@@ -6,7 +6,7 @@ categories: reviews
 image: wolf-of-wall-street04.jpg
 author: Casey Tourangeau
 
-excerpt: This is where ht eshort description will go.
+excerpt: This is where the short description will go.
 ---
 
 Dear Jordan Belfort, Actor,
