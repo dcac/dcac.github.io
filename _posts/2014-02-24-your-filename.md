@@ -2,8 +2,7 @@
 published: true
 layout: review
 title: The Wolf of Wall Street
-date: 
-  "Tue Dec 24 2013 19:00:00 GMT-0500 (EST)": null
+date: {}
 categories: reviews
 image: "wolf-of-wall-street04.jpg"
 author: Casey Tourangeau
