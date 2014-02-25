@@ -8,7 +8,7 @@ author: Casey Tourangeau
 status: Priority Post (4.5/5)
 stars: 4.5
 excerpt: This is where the short description will go.
-published: false
+published: true
 ---
 
 ###Dear Jordan Belfort, Actor,
