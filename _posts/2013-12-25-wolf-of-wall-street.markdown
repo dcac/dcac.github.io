@@ -1,6 +1,6 @@
 ---
 layout: review
-title:  "The Wolf of Wal Street"
+title:  "The Wolf of Wall Street"
 date:   2013-12-25
 categories: reviews
 image: wolf-of-wall-street04.jpg
