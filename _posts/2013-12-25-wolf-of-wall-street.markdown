@@ -5,6 +5,8 @@ date:   2013-12-25
 categories: reviews
 image: wolf-of-wall-street04.jpg
 author: Casey Tourangeau
+status: Priority Post (4.5/5)
+stars: 4.5
 
 excerpt: This is where the short description will go.
 ---
@@ -29,5 +31,6 @@ And that’s what it really boils down to in The Wolf of Wall Street: it’s tol
 
 As much as you may have thought you owned the world, this isn’t really your movie, is it? It’s Scorsese’s, and he gets the last word. In that final scene, when you make your cameo, the final shot of the film implicates not only you, but all of us. That’s The Wolf of Wall Street’s last and best joke: that the victims want you to keep conning them so they might someday learn how to con someone else. 
 (Hopefully) seeing it clearly,
+
 -Casey
-Status: Priority Post (4.5/5)   
+ 
