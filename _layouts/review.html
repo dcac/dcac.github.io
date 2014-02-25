@@ -26,14 +26,54 @@
 
     </head>
     <body>
-
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
+  <button id="menu-toggle" class="site-nav" >Dear Cast &amp; Crew Navigation</button>
+  <div id="wrapper">
+    <section>
+      <nav>
+         <!-- Sidebar -->
+          <div id="sidebar-wrapper">
+              <ul class="sidebar-nav">
+                  <li ><a href="#" class="content-header"><a href="#"><span class="glyphicon glyphicon-search"></span></a></li>
+                  <li><a href="#">Reviews</a>
+                  </li>
+                  <li><a href="#">Features</a>
+                  </li>
+                  <li><a href="#">Podcast</a>
+                  </li>
+                  <li><a href="#">Contact</a>
+                  </li>
+              </ul>
           </div>
-
-          {{ content }}
+      </nav>
+    </section>
+     
+    <div id="page-content-wrapper">
+      <div class="container-shadow" id="main-container">
+        <button class="down-arrow animated bounce"></button>
+        <article>
+          <div id="title">
+            <img id="image" src="img/article/{{ page.image }}" />
+            <section id="main-title" class="title">
+              <button id="menu-toggle-top" class="logo-black">Dear Cast &amp; Crew Navigation</button>
+              <button class="twitter"></button>
+              <button class="facebook"></button>
+              <h1 class="hero">{{ page.title }}</h1>
+              <h2 class="hero">
+                By: {{ page.author }}
+                Mailed on: {{ page.date }}
+              </h2>
+            </section> 
+          </div><!-- title -->
+          <section class="main-copy">
+            <div id="body-text">
+              {{ content }}
+            </div><!-- body-text -->
+          </section>
+        </article>
+      
+      </div><!-- main-container -->
+    </div><!-- page-content-wrapper -->
+  </div><!-- wrapper -->
 
   <section id="footer">
     <footer class="footer">
