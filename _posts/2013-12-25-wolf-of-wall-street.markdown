@@ -1,18 +1,20 @@
 ---
 layout: review
-title:  "The Wolf of Wall Street"
-date:   2013-12-25
+title: The Wolf of Wall Street
+date: {}
 categories: reviews
-image: wolf-of-wall-street04.jpg
+image: "wolf-of-wall-street04.jpg"
 author: Casey Tourangeau
 status: Priority Post (4.5/5)
 stars: 4.5
-
 excerpt: This is where the short description will go.
+published: false
 ---
 
-Dear Jordan Belfort, Actor,
+###Dear Jordan Belfort, Actor,
+
 Well this is quite the thing, isn’t it? After living a life of remorseless debauchery, having swindled untold thousands, getting busted, serving time, and then documenting it all in the inevitable tell-all book, you now find yourself the focus of a Martin Scorsese film! You could even say that you’re the hero of the piece, since your onscreen alter ego (played by Leonardo DiCaprio) appears in almost every scene.
+
 If you believe some of the critical reaction, it would also seem that this is exactly what’s wrong with The Wolf of Wall Street. Here is a film that shows the worst of…well, pretty much everything—yet offers no judgment, establishes no true north on the moral compass so that audiences can guide themselves through the despicable proceedings. Scorsese even goes so far as to cast you in a small role. Is this a tip of the hat to you? Are the filmmakers tacitly approving your actions?
 
 It’s a ridiculous argument. It assumes a level of knowledge about who you are that is unlikely for anyone who doesn’t do a little research beforehand (I only realized that you played the part while browsing the credits afterward). No, this extra-textual information has no bearing on the film itself. Lets talk, instead, about what’s actually happens in The Wolf of Wall Street.
@@ -33,4 +35,3 @@ As much as you may have thought you owned the world, this isn’t really your mo
 (Hopefully) seeing it clearly,
 
 -Casey
- 
