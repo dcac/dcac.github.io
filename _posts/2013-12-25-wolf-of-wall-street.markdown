@@ -3,7 +3,8 @@ layout: review
 title:  "The Wolf of Wal Street"
 date:   2013-12-25
 categories: reviews
-image: wolf.jpg
+image: wolf-of-wall-street04.jpg
+author: Casey Tourangeau
 
 excerpt: This is where ht eshort description will go.
 ---
