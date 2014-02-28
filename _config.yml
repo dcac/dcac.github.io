@@ -4,8 +4,8 @@ pygments: true
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://prose.github.io/starter/'
-  relativeLinks: 'http://dcac.github.io/starter/links.jsonp'
+  siteurl: 'http://dcac.github.io/'
+  relativeLinks: 'http://dcac.github.io/'
   media: 'media'
   ignore:
     - index.md
