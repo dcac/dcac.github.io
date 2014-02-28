@@ -3,72 +3,42 @@ markdown: redcarpet
 pygments: true
 
 prose:
-  rooturl: '_posts'
-  siteurl: 'http://dcac.github.io/'
-  relativeLinks: 'http://dcac.github.io/'
-  media: 'media'
-  ignore:
-    - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes
+  rooturl: 'source/_posts'
+  siteurl: 'http://techblog.trunkclub.com'
+  media: 'assets'
   metadata:
-    _posts:
+    source/_posts:
       - name: "layout"
         field:
           element: "hidden"
-          value: "page"
-      - name: "category"
-        field:
-          element: "hidden"
-          value: "review"
+          value: "post"
       - name: "title"
         field:
           element: "text"
           label: "Title"
           value: ""
+          type: "text"
       - name: "author"
         field:
           element: "text"
-          label: "Authore"
+          label: "Author"
           value: ""
-      - name: "addressee"
+          placeholder: "Trunk Botterson"
+          type: "text"
+      - name: "categories"
         field:
-          element: "text"
-          label: "Addressee"
-          value: ""
-      - name: "status"
+          element: "multiselect"
+          label: "Post Category"
+          placeholder: "Create or choose"
+          alterable: true
+      - name: "comments"
         field:
-          element: "text"
-          label: "Status"
-          value: ""
-	  - name: "exerpt"
-        field:
-          element: "text"
-          label: "Exerpt"
-          value: ""
- 	  - name: "position"
-        field:
-          element: "text"
-          label: "Position"
-          value: ""
- - name: "tags"
+          element: checkbox
+          label: "Comments"
+          value: "true"
+      - name: "tags"
         field:
           element: "multiselect"
           label: "Add Tags"
           placeholder: "Choose Tags"
-          options:
-            - name: "Letter"
-              value: "letter"
-            - name: "Essay"
-              value: "essay"
-    _posts/static:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""
+          alterable: true
