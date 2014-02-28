@@ -27,3 +27,8 @@ prose:
           element: "text"
           label: "Addressee"
           value: ""
+      - name: "status"
+        field:
+          element: "text"
+          label: "Status"
+          value: ""
