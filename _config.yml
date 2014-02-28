@@ -4,7 +4,7 @@ name: Dear Cast & Crew
 markdown: redcarpet
 pygments: true
 
-<<<<<<< HEAD
+
 # Disqus Comments
 disqus_short_name: dearcastandrew
 disqus_show_comment_count: false
@@ -59,4 +59,4 @@ prose:
           element: "textarea"
           label: "Exerpt"
           value: ""
->>>>>>> FETCH_HEAD
+
