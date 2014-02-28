@@ -6,7 +6,7 @@ prose:
   rooturl: '_posts'
   siteurl: 'http://dcac.github.io/'
   relativeLinks: 'http://dcac.github.io/'
-  media: 'media'
+  media: 'img'
   ignore:
     - index.md
     - _config.yml
