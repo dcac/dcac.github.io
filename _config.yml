@@ -37,8 +37,3 @@ prose:
           element: "textarea"
           label: "Exerpt"
           value: ""
- 	  - name: "position"
-        field:
-          element: "text"
-          label: "Position"
-          value: ""
