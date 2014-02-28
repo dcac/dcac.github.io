@@ -1,3 +1,70 @@
 name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://prose.github.io/starter/'
+  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "review"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "author"
+        field:
+          element: "text"
+          label: "Authore"
+          value: ""
+      - name: "addressee"
+        field:
+          element: "text"
+          label: "Addressee"
+          value: ""
+      - name: "status"
+        field:
+          element: "text"
+          label: "Status"
+          value: ""
+	  - name: "exerpt"
+        field:
+          element: "text"
+          label: "Exerpt"
+          value: ""
+ 	  - name: "position"
+        field:
+          element: "text"
+          label: "Position"
+          value: ""
+ - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Letter"
+              value: "letter"
+            - name: "Essay"
+              value: "essay"
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
