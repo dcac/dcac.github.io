@@ -2,9 +2,7 @@ baseurl: /starter
 permalink: pretty
 name: Dear Cast & Crew
 markdown: redcarpet
-pygments: true# Disqus Comments
-disqus_short_name: dearcastandrew
-disqus_show_comment_count: false
+pygments: true
 
 =======
 prose:
