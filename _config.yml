@@ -1,7 +1,6 @@
-name: Your New Jekyll Site
+name: Dear Cast & Crew
 markdown: redcarpet
 pygments: true
-
 
 prose:
   rooturl: '_posts'
