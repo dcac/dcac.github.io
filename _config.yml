@@ -3,3 +3,11 @@ permalink: pretty
 name: Dear Cast & Crew
 markdown: redcarpet
 pygments: true
+
+
+=======
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://dcac.github.io/'
+  media: '/img/article'
