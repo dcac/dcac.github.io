@@ -12,10 +12,6 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "post"
-      - name: "category"
-        field:
-          element: "hidden"
           value: "review"
       - name: "title"
         field:
