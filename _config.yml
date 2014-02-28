@@ -29,6 +29,11 @@ prose:
           element: "text"
           label: "Addressee"
           value: ""
+      - name: "position"
+        field:
+          element: "text"
+          label: "Position"
+          value: ""
       - name: "status"
         field:
           element: "text"
