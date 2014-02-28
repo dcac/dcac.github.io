@@ -13,13 +13,37 @@ prose:
         field:
           element: "hidden"
           value: "post"
-    _posts/static:
-      - name: "layout"
+      - name: "category"
         field:
           element: "hidden"
           value: "review"
-      - name: "permalink"
+      - name: "title"
         field:
           element: "text"
-          label: "Permalink"
+          label: "Title"
+          value: ""
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          value: ""
+      - name: "addressee"
+        field:
+          element: "text"
+          label: "Addressee"
+          value: ""
+      - name: "status"
+        field:
+          element: "text"
+          label: "Status"
+          value: ""
+	  - name: "exerpt"
+        field:
+          element: "text"
+          label: "Exerpt"
+          value: ""
+ 	  - name: "position"
+        field:
+          element: "text"
+          label: "Position"
           value: ""
