@@ -34,6 +34,16 @@ prose:
           element: "text"
           label: "Status"
           value: ""
+      - name: "stars"
+        field:
+          element: "text"
+          label: "Stars"
+          value: ""
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
+          value: ""
       - name: "exerpt"
         field:
           element: "textarea"
