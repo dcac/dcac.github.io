@@ -22,3 +22,8 @@ prose:
           element: "text"
           label: "Author"
           value: ""
+      - name: "addressee"
+        field:
+          element: "text"
+          label: "Addressee"
+          value: ""
