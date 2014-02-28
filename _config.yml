@@ -6,37 +6,51 @@ pygments: true
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://prose.github.io/starter/'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
-  media: 'media'
-  ignore:
-    - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes
+  siteurl: 'http://dcac.github.io/'
+  media: '/img/article'  
   metadata:
     _posts:
       - name: "layout"
         field:
           element: "hidden"
-          value: "blog"
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-    _posts/static:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "permalink"
+          value: "review"
+      - name: "title"
         field:
           element: "text"
-          label: "Permalink"
+          label: "Title"
+          value: ""
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          value: ""
+      - name: "addressee"
+        field:
+          element: "text"
+          label: "Addressee"
+          value: ""
+      - name: "position"
+        field:
+          element: "text"
+          label: "Position"
+          value: ""
+      - name: "status"
+        field:
+          element: "text"
+          label: "Status"
+          value: ""
+      - name: "stars"
+        field:
+          element: "text"
+          label: "Stars"
+          value: ""
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
+          value: ""
+      - name: "exerpt"
+        field:
+          element: "textarea"
+          label: "Exerpt"
           value: ""
