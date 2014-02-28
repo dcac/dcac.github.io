@@ -10,7 +10,8 @@ pygments: true
 prose:
   rooturl: '_posts'
   siteurl: 'http://dcac.github.io/'
-  media: '/img/article'  metadata:
+  media: '/img/article'  
+  metadata:
     _posts:
       - name: "layout"
         field:
