@@ -1,3 +1,7 @@
 name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
+
+# Disqus Comments
+disqus_short_name: dearcastandrew
+disqus_show_comment_count: false

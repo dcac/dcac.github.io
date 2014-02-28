@@ -39,7 +39,6 @@ $(document).ready(function () {
   }).bind('resize',function() {
   	winResized();
   });
-  
   $(function () {
     $('#image').css({
       top : $(window).height()
@@ -50,6 +49,7 @@ $(document).ready(function () {
         'width':(($(window).width()))+'px',
         'overflow':'hidden'
       });
+      
           $('button.down-arrow').css({'left':(($(window).width()/2))+'px'});
  // This is used to create a 145px gutter on the left side for the DC&C logo - not necessary with title bar.
 /*
@@ -135,5 +135,13 @@ $(document).ready(function () {
     $.fn.contentshare.defaults.shareable.on('mouseup',function(){
         $.fn.contentshare.showTooltip();
     });            
+ 
+ $(document).ready(function(){
+    $(document).scroll(function() {
+        var alpha = Math.min(0.5 + 0.4 * $(this).scrollTop() / 210, 0.9);
+        var channel = Math.round(alpha * 255);
+        $("div.navbar").css('background-color', 'rgb(' + channel + ',' + channel + ',' + channel + ')');
+    });
+});
   
 }); 

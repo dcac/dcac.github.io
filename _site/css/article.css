@@ -1,8 +1,7 @@
 *:focus {outline: none;}
 
-.container-shadow {
-  box-shadow: 0px 0px 10px 5px #000;
-  margin-bottom: 250px;
+.container-fluid{
+  background-color: #fff;
 }
 .sticky{
   position: fixed;
@@ -31,7 +30,6 @@ p::selection{
   height:110px;
   color: transparent;
   border: none;
-  margin:15px 0 0 15px;
   margin:10px 0 0 10px;
   transition: all .5s ease 0s;
   transition-delay: .5s;
@@ -116,11 +114,7 @@ section.title{
   z-index: 2;
   text-align: left;
   margin: 0 auto;
-
   width:100%;
-@media (min-width: 768px) {
-  width:700px;
-}
   padding: 0;
 }
 h1.hero {
@@ -135,11 +129,7 @@ h1.hero {
   letter-spacing: 3px;
   text-align: left;
   margin: 0 auto;
-
   width:100%;
-@media (min-width: 768px) {
-  width:700px;
-}
   padding: 0;
 }
 article h1.black{
@@ -183,9 +173,6 @@ h1.top{
   text-align: left;
   margin: 0 auto;
   width:100%;
-@media (min-width: 768px) {
-  width:700px;
-}
   padding: 0;
   margin-top: 12px;
   line-height: 24pt;
@@ -197,9 +184,6 @@ h2.hero {
   text-align: left;
   margin: 0 auto;
   width:100%;
-@media (min-width: 768px) {
-  width:700px;
-}
   font-size: 14pt;
   line-height: 30pt;
   font-family: "Helvetica Neue", "Helvetica",sans-serif;
@@ -216,9 +200,6 @@ h2.top{
   text-align: left;
   margin: 0 auto;
   width:100%;
-@media (min-width: 768px) {
-  width:700px;
-}
   padding: 0;
   letter-spacing: 0px;
   line-height: 18pt;
@@ -237,11 +218,7 @@ article h3 {
   font-style: italic;
   text-align: left;
   margin: 0 auto;
-
   width:100%;
-@media (min-width: 768px) {
-  width:700px;
-}
   font-size: 18pt;
   line-height: 24pt;
   font-family: "Georgia", "Helvetica",sans-serif;
@@ -250,17 +227,13 @@ article h3 {
 
 }
 article p{
-  text-align: left;
+  text-align:left;
   position: relative;
   color:#333;
   font-size: 14pt;
   line-height: 24pt;
   font-family: "Georgia", "Helvetica",sans-serif;
-
   width:100%;
-@media (min-width: 768px) {
-  width:700px;
-}
   margin: 0 auto;
   margin-top: 20pt;
   font-weight: 100;
@@ -338,7 +311,7 @@ button.footer{
   color:transparent;
   width:175px;
   height:150px;
-  display: relative;
+  position: relative ;
   float: left;
   top:0;
   left:0;
@@ -402,4 +375,25 @@ input.search{
   margin: 0;
   line-height: 10px;
   clear:left;
+}
+@media (min-width: 768px) {
+  section.title,h1.hero,h1.top,h2.hero,h2.top,
+  article h3,article p{
+    width:700px;
+  }
+  article p{
+  padding-left: 0;
+  padding-right: 0;
+  }
+  .container-fluid {
+  padding-right: 0;
+  padding-left: 0;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: transparent;
+  }
+  .container-shadow {
+  box-shadow: 0px 0px 10px 5px #000;
+  margin-bottom: 250px;
+  }
 }
