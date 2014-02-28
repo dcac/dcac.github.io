@@ -32,8 +32,8 @@ prose:
           element: "text"
           label: "Status"
           value: ""
-      - name: "status"
+      - name: "exerpt"
         field:
           element: "textarea"
-          label: "Status"
+          label: "Exerpt"
           value: ""
