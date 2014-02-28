@@ -3,14 +3,3 @@ permalink: pretty
 name: Dear Cast & Crew
 markdown: redcarpet
 pygments: true
-
-
-# Disqus Comments
-disqus_short_name: dearcastandrew
-disqus_show_comment_count: false
-=======
-prose:
-  rooturl: '_posts'
-  siteurl: 'http://dcac.github.io/'
-  media: '/img/article'
-  
