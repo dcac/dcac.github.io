@@ -12,7 +12,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "review"
+          value: "post"
       - name: "category"
         field:
           element: "hidden"
