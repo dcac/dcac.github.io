@@ -4,7 +4,7 @@ published: false
 title: 3 Days to Kill
 exerpt: null
 author: Christopher Redmond
-addressee: Christophe CHatel
+addressee: Christophe Chatel
 status: Standard Delivery (3/5)
 stars: "3"
 image: "3-days-to-kill.jpg"
