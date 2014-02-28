@@ -14,6 +14,10 @@ prose:
     - /_includes
   metadata:
     _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
       - name: "category"
         field:
           element: "hidden"
