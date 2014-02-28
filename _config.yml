@@ -32,8 +32,8 @@ prose:
           element: "text"
           label: "Status"
           value: ""
-	  - name: "exerpt"
+ 	  - name: "position"
         field:
           element: "text"
-          label: "Exerpt"
+          label: "Position"
           value: ""
