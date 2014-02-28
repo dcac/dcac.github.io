@@ -32,8 +32,3 @@ prose:
           element: "text"
           label: "Status"
           value: ""
- 	  - name: "position"
-        field:
-          element: "text"
-          label: "Position"
-          value: ""
