@@ -7,6 +7,7 @@ author: Christohper Redmond
 addressee: Christophe Chatel
 status: Standard Delivery (3/5)
 stars: "3"
+image: "3-days-to-kill.jpg"
 ---
 
 ![](/img/article/3-days-to-kill.jpg)I’ll be honest, I’ve never heard of a “ripper” before. But you can’t possibly be the first crewmember dedicated solely to tearing fabric to simulate knife slashes and bullet holes. But in a check of no less than a dozen recent action films, I couldn’t find anyone else with your title. Even stranger, the costume department on 3 Days to Kill required not one, but two of you carpet killers (say hi to Mathieu Chatagnon, would you?). Which made me wonder: is there some hidden level of detail and precision in director McG’s latest joint that I’m missing out on? Am I just not able to see that he’s treading (or shredding) new ground?
