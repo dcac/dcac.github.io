@@ -12,7 +12,7 @@ prose:
   siteurl: 'http://dcac.github.io/'
   media: '/img/article'  
   metadata:
-    
+    _posts:
       - name: "exerpt"
         field:
           element: "textarea"
