@@ -12,3 +12,8 @@ prose:
         field:
           element: "hidden"
           value: "review"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
