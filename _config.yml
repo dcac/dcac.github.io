@@ -1,3 +1,5 @@
+baseurl: /starter
+permalink: pretty
 name: Dear Cast & Crew
 markdown: redcarpet
 pygments: true
