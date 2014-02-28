@@ -84,7 +84,7 @@ div.col-md-6.col-pad-remove:hover div.review-text .author{
   -ms-transition:.75s;
   -moz-transition:.75s;
   -webkit-transition:.75s;
-  background-color: transparent;
+  color: #fff;
   display: inline;
 }
 
@@ -118,7 +118,7 @@ div.col-md-6.col-pad-remove:hover div.review-text .author{
     -webkit-transition:.75s;
   }
   .addressee, .author{
-    opacity: 0;
+    color: transparent;
   }
   .navbar-brand{
     background: url('../img/logo.png') 15px 15px no-repeat;
