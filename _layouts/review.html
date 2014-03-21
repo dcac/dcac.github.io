@@ -1,97 +1,72 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-        <title>Dear Cast & Crew • {{ page.title }}</title>
-	<meta name="description" content="" />
-  <meta name="keywords" content="" />
-	<meta name="robots" content="" />
-	
-	
-  <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
-	<script type="text/javascript" src="/bootstrap/js/bootstrap.js"></script>
-	<script type="text/javascript" src="/js/waypoints.js"></script>
-	<script type="text/javascript" src="/js/waypoints-sticky.min.js"></script>
-  <script type="text/javascript" src="/js/jquery.tooltipster.min.js"></script>
-	<script type="text/javascript" src="/js/contentshare.ct.js"></script>
-	<script type="text/javascript" src="/js/js.js"></script>
-	
-	<link href="/bootstrap/css/bootstrap.css" type="text/css" rel="stylesheet" />
-	<link href="/css/article.css" type="text/css" rel="stylesheet" />
-	<link href="/css/animate.css" type="text/css" rel="stylesheet" />
-	<link href="/css/simple-sidebar.css" type="text/css" rel="stylesheet" />
-	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
+---
+layout: default
+---
+<button id="menu-toggle" class="site-nav" >Dear Cast &amp; Crew Navigation</button>
+<div id="wrapper">
+<section>
+  <nav>
+     <!-- Sidebar -->
+      <div id="sidebar-wrapper">
+          <ul class="sidebar-nav">
+              <li ><a href="#" class="content-header"><a href="#"><span class="glyphicon glyphicon-search"></span></a></li>
+              <li><a href="#">Reviews</a>
+              </li>
+              <li><a href="#">Features</a>
+              </li>
+              <li><a href="#">Podcast</a>
+              </li>
+              <li><a href="#">Contact</a>
+              </li>
+          </ul>
+      </div>
+  </nav>
+</section>
+ 
+<div id="page-content-wrapper">
+  <div class="container-shadow" id="main-container">
+    <button class="down-arrow animated bounce"></button>
+    <article>
+      <div id="title">
+        {% if page.image ==  %}<img id="image" src="/img/article/{{ page.path | path: %title }}.jpg" />
+        {% else %}<img id="image" src="/img/article/{{ page.image }}" />{% endif %}
+        <section id="main-title" class="title">
+          <button id="menu-toggle-top" class="logo-black">Dear Cast &amp; Crew Navigation</button>
+          <button class="twitter"></button>
+          <button class="facebook"></button>
+          <h1 class="hero">{{ page.title }}</h1>
+          <h2 class="hero">
+            By: {{ page.author }}
+            Mailed on: {{ page.date | date: "%B %d, %Y" }}
+          </h2>
+        </section> 
+      </div><!-- title -->
+      <section class="main-copy">
+        <div id="body-text">
+          <h3>Dear {{ page.addressee }}, {{  page.position }},</h3>
+             <span class="stars">{{ page.stars }}</span>
+          
+          {{ content }}
 
-    </head>
-    <body>
-  <button id="menu-toggle" class="site-nav" >Dear Cast &amp; Crew Navigation</button>
-  <div id="wrapper">
-    <section>
-      <nav>
-         <!-- Sidebar -->
-          <div id="sidebar-wrapper">
-              <ul class="sidebar-nav">
-                  <li ><a href="#" class="content-header"><a href="#"><span class="glyphicon glyphicon-search"></span></a></li>
-                  <li><a href="#">Reviews</a>
-                  </li>
-                  <li><a href="#">Features</a>
-                  </li>
-                  <li><a href="#">Podcast</a>
-                  </li>
-                  <li><a href="#">Contact</a>
-                  </li>
-              </ul>
-          </div>
-      </nav>
-    </section>
-     
-    <div id="page-content-wrapper">
-      <div class="container-shadow" id="main-container">
-        <button class="down-arrow animated bounce"></button>
-        <article>
-          <div id="title">
-            {% if page.image ==  %}<img id="image" src="/img/article/{{ page.path | path: %title }}.jpg" />
-            {% else %}<img id="image" src="/img/article/{{ page.image }}" />{% endif %}
-            <section id="main-title" class="title">
-              <button id="menu-toggle-top" class="logo-black">Dear Cast &amp; Crew Navigation</button>
-              <button class="twitter"></button>
-              <button class="facebook"></button>
-              <h1 class="hero">{{ page.title }}</h1>
-              <h2 class="hero">
-                By: {{ page.author }}
-                Mailed on: {{ page.date | date: "%B %d, %Y" }}
-              </h2>
-            </section> 
-          </div><!-- title -->
-          <section class="main-copy">
-            <div id="body-text">
-              <h3>Dear {{ page.addressee }}, {{  page.position }},</h3>
-                 <span class="stars">{{ page.stars }}</span>
-              
-              {{ content }}
+          <p><strong><em>Status: {% if page.stars < 1.5 %}
+          Junk mail
+          {% elsif page.stars >= 1.5 and page.stars < 2.5 %}
+          Return to sender
+          {% elsif page.stars >= 2.5 and page.stars < 3.5 %}
+          Standard delivery
+          {% elsif page.stars >= 3.5 and page.stars < 4.5  %}
+          Air mail
+          {% elsif page.stars >= 4.5 %}
+          Priority post
+          {% endif %} ({{ page.stars }}/5)</em></strong></p>
 
-	          <p><strong><em>Status: {% if page.stars < 1.5 %}
-	          Junk mail
-	          {% elsif page.stars >= 1.5 and page.stars < 2.5 %}
-	          Return to sender
-	          {% elsif page.stars >= 2.5 and page.stars < 3.5 %}
-	          Standard delivery
-	          {% elsif page.stars >= 3.5 and page.stars < 4.5  %}
-	          Air mail
-	          {% elsif page.stars >= 4.5 %}
-	          Priority post
-	          {% endif %} ({{ page.stars }}/5)</em></strong></p>
-
-            </div><!-- body-text -->
-        <p><a href="{{ page.previous.url }}">{{ page.previous.title }}</a>  |  <a href="{{ page.next.url }}">{{ page.next.title }}</a> </p>
-          </section>
-         <div class="comments-bg">
-            <div class="comments">
-              <div id="disqus_thread" class="disqus_thread"></div>
-            </div>
-         </div>
+        </div><!-- body-text -->
+    <p><a href="{{ page.previous.url }}">{{ page.previous.title }}</a>  |  <a href="{{ page.next.url }}">{{ page.next.title }}</a> </p>
+      </section>
+     <div class="comments-bg">
+        <div class="comments">
+          <div id="disqus_thread" class="disqus_thread"></div>
+        </div>
+     </div>
 <script type="text/javascript">
 var disqus_shortname = 'dearcastandcrew';
 (function() {
@@ -158,5 +133,3 @@ dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
         $("#menu-toggle").removeClass("sidebar-active");
     });
     </script>
-</body>
-</html>
