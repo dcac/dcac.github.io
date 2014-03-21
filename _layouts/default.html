@@ -7,18 +7,18 @@
     <title>Dear Cast & Crew</title>
 
     <!-- Bootstrap -->
-    <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Fontawesome 4.0.3 -->
+    <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 
    <!-- Custom styles for this template -->
-    <link href="css/home.css" rel="stylesheet">
-
-    <!-- Just for debugging purposes. Don't actually copy this line! -->
-    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <link href="/css/home.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+      <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
 
@@ -36,7 +36,7 @@
           <a class="navbar-brand" href="#"></a>
         </div>
         <div class="navbar-collapse collapse">
-          <ul class="nav nav-justified">     
+          <ul class="nav nav-justified">
             <li><a href="#" class="navbar-link">Reviews</a></li>
             <li><a href="#" class="navbar-link">Features</a></li>
             <li><a href="#" class="navbar-link">Podcast</a></li>
@@ -71,38 +71,38 @@
       {% endfor %}</a>
     </div>
 
-  <div class="container">
-    <!-- Example row of columns -->
-    <div class="row">
-    <div class="col-md-8">
-
+    <div class="container">
+      <!-- Example row of columns -->
       <div class="row">
-{% for post in site.posts offset:1 limit:6 %}
-          <div class="col-md-6 col-pad-remove">
-            <a href="{{ post.url }}" class="thumbnail">
-              <img src="img/article/{{ post.image }}" alt="{{ post.title }}" clas="sub-review" /></a>
-            <div class="review-text">
-              <p>{{ post.title }} &#9733;&#9733;<br />
-                <span class="addressee">Dear {{ post.addressee }}, {{ post.position }}</span><br />
-                <span class="author">By {{ post.author }}&nbsp;&nbsp;|&nbsp;&nbsp;{{ post.date | date: "%B %d, %Y" }}</span>
-              </p>
-            </div>
-          </div>
-{% endfor %}
-      </div>
-  </div>
-  <div class="col-md-4">
-    <div class="row" style="background-color:#eee">
-      <strong>This is some sort of extra content - more reviews/glossary/etc.</strong>
-      <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-      <br /><br /><br /><br /><br /><br /><br /><br />
-    </div>
-    <div class="row">
-      <a href="#" class="thumbnail"><img src="img/netflix.png" alt="Netflix ad"/></a>
-    </div>
-  </div>
-</div>
+        <div class="col-md-8">
 
+          <div class="row">
+            {% for post in site.posts offset:1 limit:6 %}
+              <div class="col-md-6 col-pad-remove">
+                <a href="{{ post.url }}" class="thumbnail">
+                  <img src="img/article/{{ post.image }}" alt="{{ post.title }}" clas="sub-review" />
+                </a>
+                <div class="review-text">
+                  <p>{{ post.title }} &#9733;&#9733;<br />
+                    <span class="addressee">Dear {{ post.addressee }}, {{ post.position }}</span><br />
+                    <span class="author">By {{ post.author }}&nbsp;&nbsp;|&nbsp;&nbsp;{{ post.date | date: "%B %d, %Y" }}</span>
+                  </p>
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="row" style="background-color:#eee">
+            <strong>This is some sort of extra content - more reviews/glossary/etc.</strong>
+            <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+            <br /><br /><br /><br /><br /><br /><br /><br />
+          </div>
+          <div class="row">
+            <a href="#" class="thumbnail"><img src="img/netflix.png" alt="Netflix ad"/></a>
+          </div>
+        </div>
+      </div>
 
       <hr>
 
@@ -110,13 +110,13 @@
         <p>&copy; Company 2014</p>
       </footer>
     </div> <!-- /container -->
-    
-  <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
-	<script type="text/javascript" src="bootstrap/js/bootstrap.js"></script>
-	<script type="text/javascript" src="js/waypoints.js"></script>
-	<script type="text/javascript" src="js/waypoints-sticky.min.js"></script>
-  <script type="text/javascript" src="js/jquery.tooltipster.min.js"></script>
-	<script type="text/javascript" src="js/contentshare.ct.js"></script>
-	<script type="text/javascript" src="js/js.js"></script>
+
+    <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
+  	<script type="text/javascript" src="/vendor/bootstrap/js/bootstrap.js"></script>
+  	<script type="text/javascript" src="/vendor/waypoints/waypoints.js"></script>
+  	<script type="text/javascript" src="/vendor/waypoints/waypoints-sticky.min.js"></script>
+    <script type="text/javascript" src="/vendor/tooltipster/jquery.tooltipster.min.js"></script>
+  	<script type="text/javascript" src="/vendor/contentshare/contentshare.ct.js"></script>
+  	<script type="text/javascript" src="/js/main.js"></script>
   </body>
 </html>
