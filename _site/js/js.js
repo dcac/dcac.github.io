@@ -128,7 +128,7 @@ $(document).ready(function () {
 
 // Initialize contentshare.js variables
     $("p").contentshare({
-      shareIcons : ["img/fb.png","img/tw.png"],
+      shareIcons : ["/img/fb.png","/img/tw.png"],
       shareLinks : ["http://www.facebook.com/sharer.php?s=100&p[url]="+document.URL+"&p[title]="+document.title+"&p[summary]={{text}}" , "http://twitter.com/intent/tweet?text={{text}}%0a" + window.location.href],
       minLength  : 1,
     });
@@ -142,6 +142,17 @@ $(document).ready(function () {
         var channel = Math.round(alpha * 255);
         $("div.navbar").css('background-color', 'rgb(' + channel + ',' + channel + ',' + channel + ')');
     });
+});
+
+//Star ratings generator script
+
+$.fn.stars = function() {
+    return $(this).each(function() {
+        $(this).html($('<span />').width(Math.max(0, (Math.min(5, parseFloat($(this).html())))) * 16));
+    });
+}
+$(function() {
+    $('span.stars').stars();
 });
   
 }); 

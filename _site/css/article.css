@@ -117,6 +117,16 @@ section.title{
   width:100%;
   padding: 0;
 }
+span.stars, span.stars span {
+    display: block;
+    background: url(../img/article/star.png) 0 -16px repeat-x;
+    width: 200px;
+    height: 16px;
+}
+
+span.stars span {
+    background-position: 0 0;
+}
 h1.hero {
   position: relative;
   z-index: 2;
@@ -396,4 +406,15 @@ input.search{
   box-shadow: 0px 0px 10px 5px #000;
   margin-bottom: 250px;
   }
+}
+.comments-bg{
+  width:100%;
+  background-color: #eee;
+  margin-top:30px;
+}
+.comments{
+  max-width: 800px;
+  margin: 0 auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
