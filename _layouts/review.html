@@ -52,7 +52,8 @@
         <button class="down-arrow animated bounce"></button>
         <article>
           <div id="title">
-            <img id="image" src="/img/article/{{ page.image }}" />
+            {% if page.image ==  %}<img id="image" src="/img/article/{{ page.path | path: %title }}.jpg" />
+            {% else %}<img id="image" src="/img/article/{{ page.image }}" />{% endif %}
             <section id="main-title" class="title">
               <button id="menu-toggle-top" class="logo-black">Dear Cast &amp; Crew Navigation</button>
               <button class="twitter"></button>
@@ -67,16 +68,44 @@
           <section class="main-copy">
             <div id="body-text">
               <h3>Dear {{ page.addressee }}, {{  page.position }},</h3>
+                 <span class="stars">{{ page.stars }}</span>
               
               {{ content }}
 
-	          <p><strong><em>Status: {{ page.status }}</em></strong></p>
+	          <p><strong><em>Status: {% if page.stars < 1.5 %}
+	          Junk mail
+	          {% elsif page.stars >= 1.5 and page.stars < 2.5 %}
+	          Return to sender
+	          {% elsif page.stars >= 2.5 and page.stars < 3.5 %}
+	          Standard delivery
+	          {% elsif page.stars >= 3.5 and page.stars < 4.5  %}
+	          Air mail
+	          {% elsif page.stars >= 4.5 %}
+	          Priority post
+	          {% endif %} ({{ page.stars }}/5)</em></strong></p>
 
             </div><!-- body-text -->
+        <p><a href="{{ page.previous.url }}">{{ page.previous.title }}</a>  |  <a href="{{ page.next.url }}">{{ page.next.title }}</a> </p>
           </section>
+         <div class="comments-bg">
+            <div class="comments">
+              <div id="disqus_thread" class="disqus_thread"></div>
+            </div>
+         </div>
+<script type="text/javascript">
+var disqus_shortname = 'dearcastandcrew';
+(function() {
+var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
         </article>
       
       </div><!-- main-container -->
+      
     </div><!-- page-content-wrapper -->
   </div><!-- wrapper -->
 

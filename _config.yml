@@ -1,5 +1,5 @@
-baseurl: http://dcac.github.io/
-permalink: pretty
+
+permalink: /:year/:month/:day/:title
 name: Dear Cast & Crew
 markdown: redcarpet
 pygments: true
