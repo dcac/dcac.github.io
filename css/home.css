@@ -20,18 +20,7 @@ img.hero-image{
   padding-left:15px;
   padding-right:15px;
 }
-@media (min-width: 768px) {
-  .jumbotron .hero-title {
-    position: absolute;  
-    left:10%;
-    background-color: rgba(0,0,0,.25)
-  }
-  .jumbotron{
-    background-color: transparent;
-    padding: 0;
-    margin-top:0;
-  }
-}
+
 .hero-title h1{
   width:100%;
   font-family: "Helvetica Neue", sans-serif;
@@ -40,13 +29,7 @@ img.hero-image{
   font-weight: 800;
   font-size: 20pt;
 }
-@media (min-width: 768px) {
-  .jumbotron h1 {
-    font-size: 32pt;
-  letter-spacing: 3px;
-    color:#fff;
-  }
-}
+
 .hero-title p.sub-title{
   font-family: "Helvetica Neue", sans-serif;
   text-transform: uppercase;
@@ -56,12 +39,7 @@ img.hero-image{
   font-weight: 800;
   font-size: 14pt;
 }
-@media (min-width: 768px) {
-  .jumbotron p.sub-title {
-    font-size: 20pt;
-    color:#fff;
-  }
-}
+
 .jumbotron p.author{
   z-index: 2;
   font-family: "Helvetica Neue", sans-serif;
@@ -71,12 +49,7 @@ img.hero-image{
   font-weight: 200;
 }
 
-@media (min-width: 768px) {
-  .jumbotron p.author {
-    font-size: 14pt;
-    color:#fff;
-  }
-}
+
 .dcac-hero-button{
   background-color: #eee;
   border-radius: 5px;
@@ -90,26 +63,31 @@ img.hero-image{
 .navbar-inverse{
   height: 30px;
 }
-@media (min-width: 768px){
-  .navbar-inverse{
-    height: 125px;
-    /*background-color: rgba(51,51,51,.9);*/
-    background-color: transparent;
-    border-bottom: none;
-    z-index: 4;
-  }
-}
 
 .navbar-brand{
   background: url('../img/logo-sm.png') 15px 15px no-repeat;
   height:110px;
   width:138px;
 }
-@media (min-width: 768px){
-  .navbar-brand{
-    background: url('../img/logo.png') 15px 15px no-repeat;
-  }
+div.col-md-6.col-pad-remove{
+  margin-bottom: 30px;
 }
+div.col-md-6.col-pad-remove:hover div.review-text{
+  -webkit-transform:translateY(-80px);
+  color:#fff;
+  background: url('../img/trans.png');
+}
+div.col-md-6.col-pad-remove:hover div.review-text .addressee, 
+div.col-md-6.col-pad-remove:hover div.review-text .author{
+  opacity: 1;
+  -o-transition:.75s;
+  -ms-transition:.75s;
+  -moz-transition:.75s;
+  -webkit-transition:.75s;
+  color: #fff;
+  display: inline;
+}
+
 .navbar .nav > li > a{
   line-height: 6;
   /*margin-top: 35px;*/
@@ -126,12 +104,54 @@ img.hero-image{
 .sub-review {
   font-size: 12pt;
   text-transform: uppercase;
+  padding: 10px;
 }
 @media (min-width: 768px){
-  h2.sub-review{
+  div.review-text{
+  position: absolute;
     font-size:12pt;
-    margin-top: 10px; 
+    margin-top: -10px;
     margin-bottom: 30px;
+    -o-transition:.75s;
+    -ms-transition:.75s;
+    -moz-transition:.75s;
+    -webkit-transition:.75s;
+  }
+  .addressee, .author{
+    color: transparent;
+  }
+  .navbar-brand{
+    background: url('../img/logo.png') 15px 15px no-repeat;
+  }
+  .navbar-inverse{
+    height: 125px;
+    /*background-color: rgba(51,51,51,.9);*/
+    background-color: transparent;
+    border-bottom: none;
+    z-index: 4;
+  }
+  .jumbotron p.author {
+    font-size: 14pt;
+    color:#fff;
+  }
+  .jumbotron p.sub-title {
+    font-size: 20pt;
+    color:#fff;
+  }
+  .jumbotron h1 {
+    font-size: 32pt;
+  letter-spacing: 3px;
+    color:#fff;
+  }
+  .jumbotron .hero-title {
+    position: absolute;  
+    left:10%;
+    background-color: rgba(0,0,0,.25)
+  }
+  .jumbotron{
+    background-color: transparent;
+    padding: 0;
+    margin-top:0;
   }
 }
 .sub-review{
@@ -142,4 +162,7 @@ img.hero-image{
 }
 .col-md-6{
   padding-left: 0;
+}
+.col-feature{
+  margin-bottom: 15px;
 }

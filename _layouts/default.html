@@ -1,44 +1,37 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{page.title}}</title>
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+    <!-- Bootstrap -->
+    <link href="/vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+    <!-- Fontawesome 4.0.3 -->
+    <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 
-    </head>
-    <body>
+   <!-- Custom styles for this template -->
+    <link href="/css/home.css" rel="stylesheet">
 
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
-          </div>
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
 
-          {{ content }}
+  <body>
 
-          <div class="footer">
-            <div class="contact">
-              <p>
-                Your Name<br />
-                What You Are<br />
-                you@example.com
-              </p>
-            </div>
-            <div class="contact">
-              <p>
-                <a href="https://github.com/yourusername">github.com/yourusername</a><br />
-                <a href="https://twitter.com/yourusername">twitter.com/yourusername</a><br />
-              </p>
-            </div>
-          </div>
-        </div>
+    {{content}}
 
-    </body>
+    <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
+  	<script type="text/javascript" src="/vendor/bootstrap/js/bootstrap.js"></script>
+  	<script type="text/javascript" src="/vendor/waypoints/waypoints.js"></script>
+  	<script type="text/javascript" src="/vendor/waypoints/waypoints-sticky.min.js"></script>
+    <script type="text/javascript" src="/vendor/tooltipster/jquery.tooltipster.min.js"></script>
+  	<script type="text/javascript" src="/vendor/contentshare/contentshare.ct.js"></script>
+  	<script type="text/javascript" src="/js/main.js"></script>
+  </body>
 </html>

@@ -1,8 +1,7 @@
 *:focus {outline: none;}
 
-.container-shadow {
-  box-shadow: 0px 0px 10px 5px #000;
-  margin-bottom: 250px;
+.container-fluid{
+  background-color: #fff;
 }
 .sticky{
   position: fixed;
@@ -31,7 +30,6 @@ p::selection{
   height:110px;
   color: transparent;
   border: none;
-  margin:15px 0 0 15px;
   margin:10px 0 0 10px;
   transition: all .5s ease 0s;
   transition-delay: .5s;
@@ -116,8 +114,18 @@ section.title{
   z-index: 2;
   text-align: left;
   margin: 0 auto;
-  width:700px;
+  width:100%;
   padding: 0;
+}
+span.stars, span.stars span {
+    display: block;
+    background: url(../img/article/star.png) 0 -16px repeat-x;
+    width: 200px;
+    height: 16px;
+}
+
+span.stars span {
+    background-position: 0 0;
 }
 h1.hero {
   position: relative;
@@ -131,7 +139,7 @@ h1.hero {
   letter-spacing: 3px;
   text-align: left;
   margin: 0 auto;
-  width:700px;
+  width:100%;
   padding: 0;
 }
 article h1.black{
@@ -174,7 +182,7 @@ h1.top{
   letter-spacing: 1px;
   text-align: left;
   margin: 0 auto;
-  width:700px;
+  width:100%;
   padding: 0;
   margin-top: 12px;
   line-height: 24pt;
@@ -185,7 +193,7 @@ h2.hero {
   color: #fff; 
   text-align: left;
   margin: 0 auto;
-  width:700px;
+  width:100%;
   font-size: 14pt;
   line-height: 30pt;
   font-family: "Helvetica Neue", "Helvetica",sans-serif;
@@ -201,7 +209,7 @@ h2.top{
   font-family: "Helvetica Neue", "Helvetica",sans-serif;
   text-align: left;
   margin: 0 auto;
-  width:700px;
+  width:100%;
   padding: 0;
   letter-spacing: 0px;
   line-height: 18pt;
@@ -220,7 +228,7 @@ article h3 {
   font-style: italic;
   text-align: left;
   margin: 0 auto;
-  width:700px;
+  width:100%;
   font-size: 18pt;
   line-height: 24pt;
   font-family: "Georgia", "Helvetica",sans-serif;
@@ -229,13 +237,13 @@ article h3 {
 
 }
 article p{
-  text-align: left;
+  text-align:left;
   position: relative;
   color:#333;
   font-size: 14pt;
   line-height: 24pt;
   font-family: "Georgia", "Helvetica",sans-serif;
-  width:700px;
+  width:100%;
   margin: 0 auto;
   margin-top: 20pt;
   font-weight: 100;
@@ -313,7 +321,7 @@ button.footer{
   color:transparent;
   width:175px;
   height:150px;
-  display: relative;
+  position: relative ;
   float: left;
   top:0;
   left:0;
@@ -377,4 +385,36 @@ input.search{
   margin: 0;
   line-height: 10px;
   clear:left;
+}
+@media (min-width: 768px) {
+  section.title,h1.hero,h1.top,h2.hero,h2.top,
+  article h3,article p{
+    width:700px;
+  }
+  article p{
+  padding-left: 0;
+  padding-right: 0;
+  }
+  .container-fluid {
+  padding-right: 0;
+  padding-left: 0;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: transparent;
+  }
+  .container-shadow {
+  box-shadow: 0px 0px 10px 5px #000;
+  margin-bottom: 250px;
+  }
+}
+.comments-bg{
+  width:100%;
+  background-color: #eee;
+  margin-top:30px;
+}
+.comments{
+  max-width: 800px;
+  margin: 0 auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
