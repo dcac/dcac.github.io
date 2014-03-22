@@ -1,5 +1,7 @@
 ---
 layout: default
+css: article.css
+
 ---
 <button id="menu-toggle" class="site-nav" >Dear Cast &amp; Crew Navigation</button>
 <div id="wrapper">
@@ -115,21 +117,3 @@ dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
       </div>
     </footer>
   </section>
-   <script>
-    $("#menu-toggle").click(function(e) {
-        e.preventDefault();
-        $("#wrapper").toggleClass("active");
-        $("#footer").toggleClass("sidebar-active");
-        $("#main-title").toggleClass("sidebar-active");
-        $("#page-content-wrapper").toggleClass("sidebar-active");
-        $("#menu-toggle").toggleClass("sidebar-active");
-    });
-    $("#page-content-wrapper").click(function(e) {
-        e.preventDefault();
-        $("#wrapper").removeClass("active");
-        $("#footer").removeClass("sidebar-active");
-        $("#main-title").removeClass("sidebar-active");
-        $("#page-content-wrapper").removeClass("sidebar-active");
-        $("#menu-toggle").removeClass("sidebar-active");
-    });
-    </script>
