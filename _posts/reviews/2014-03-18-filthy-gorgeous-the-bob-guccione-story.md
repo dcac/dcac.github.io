@@ -1,18 +1,4 @@
 ---
-<<<<<<< HEAD
-published: true
-categories: reviews
-image: filthy-gorgeous-the-bob-guccione-story.jpg
-author: Casey Tourangeau
-stars: 2.5
-excerpt: 
-position: Music Supervisor
-addressee: Michael Perlmutter
-layout: review
-title: "Filthy Gorgeous: The Bob Guccione Story"
-comments: true
-tags: [Bob Guccione, documentary, Letters, omni, penthouse]
-=======
 layout: review
 published: true
 categories: reviews
@@ -33,7 +19,6 @@ tags:
   - omni
   - penthouse
 exerpt: null
->>>>>>> FETCH_HEAD
 ---
 
 <p>I was hoping to not write this letter to you. Not writing to you would have meant that Barry Aldrich&rsquo;s documentary <em>Filthy Gorgeous: The Bob Guccione Story</em> had made some interesting choices (successful or not) and didn&rsquo;t simply rip off its musical stylings from <em>Boogie Nights.</em> Sadly, as the films opened with <em>Penthouse </em>founder Bob Guccione photographing a nude model, The Chakachas&rsquo; <em>Jungle Fever</em> started to play and I felt my heart sink.</p>
