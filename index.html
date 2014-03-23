@@ -20,7 +20,7 @@ css: home.css
         <li><a href="#" class="navbar-link">Reviews</a></li>
         <li><a href="#" class="navbar-link">Features</a></li>
         <li><a href="#" class="navbar-link">Podcast</a></li>
-        <li><a href="#" class="navbar-link"><span class="glyphicon glyphicon-search"></span></a></li>
+        <li><a href="#" class="navbar-link"><i class="fa-search"></i></a></li>
       </ul>
 
       <!--form class="navbar-form navbar-right" role="form">
@@ -84,47 +84,48 @@ css: home.css
       </div>
     </div>
   </div>
-  		<div id="search" class="text-center">
-  <form action="/search" method="get">
-    <input type="text" id="search-query" class="search-query" name="q" placeholder="Search" autocomplete="off">
-  </form>
-</div>
-
-<section id="search-results">
-  <div class="entries">
+<div id="search-modal" class="search-modal">
+  <div id="search" class="text-center">
+    <form action="/search" method="get">
+      <input type="text" id="search-query" class="search-query" name="q" placeholder="Search" autocomplete="off">
+    </form>
   </div>
-</section>
-
-{% raw %}
-<script id="search-results-template" type="text/mustache">
-  {{#entries}}
-    <article>
-      <h3>
-        {{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}
-        <a href="{{url}}">{{title}}</a></h3>
-    </article>
-  {{/entries}}
-</script>
-{% endraw %}
-
-<script src="/js/search.min.js" type="text/javascript" charset="utf-8"></script>
-
-
-<script type="text/javascript">
-  $(function() {
-    $('#search-query').lunrSearch({
-      index:    '/search.json',
-      results:  '#search-results',
-      entries:  '.entries',
-      template: '#search-results-template'
-    });
-  });
-</script>
-	</article>
-
-</div>
   
-    <script type="text/javascript">
+  <section id="search-results">
+    <div class="entries">
+    </div>
+  </section>
+  
+  {% raw %}
+  <script id="search-results-template" type="text/mustache">
+    {{#entries}}
+      <article>
+        <h3>
+          {{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}
+          <a href="{{url}}">{{title}}</a></h3>
+      </article>
+    {{/entries}}
+  </script>
+  {% endraw %}
+  
+  <script src="/js/search.min.js" type="text/javascript" charset="utf-8"></script>
+  
+  
+  <script type="text/javascript">
+    $(function() {
+      $('#search-query').lunrSearch({
+        index:    '/search.json',
+        results:  '#search-results',
+        entries:  '.entries',
+        template: '#search-results-template'
+      });
+    });
+  </script>
+  	</article>
+  
+  </div>
+</div>  
+<script type="text/javascript">
   var _gauges = _gauges || [];
   (function() {
 	if (window.location.hostname == 'localhost') return;
