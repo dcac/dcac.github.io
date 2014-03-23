@@ -142,17 +142,7 @@ $(document).ready(function () {
         var channel = Math.round(alpha * 255);
         $("div.navbar").css('background-color', 'rgb(' + channel + ',' + channel + ',' + channel + ')');
     });
-});
+  });
 
-//Star ratings generator script
-
-$.fn.stars = function() {
-    return $(this).each(function() {
-        $(this).html($('<span />').width(Math.max(0, (Math.min(5, parseFloat($(this).html())))) * 16));
-    });
-}
-$(function() {
-    $('span.stars').stars();
-});
   
 }); 
