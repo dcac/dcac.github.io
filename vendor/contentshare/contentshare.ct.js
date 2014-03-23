@@ -19,7 +19,7 @@ Modified by Casey to getContent() before tooltip is shown.
                 //disabled var to enable Edit>Copy
                 //var selection = this.getSelection();
                 for(var i=0;i<opts.shareLinks.length;i++){
-                    content+='<a href="'+opts.shareLinks[i].replace("{{text}}", this.getSelection())+'" '+((opts.newTab)?"target=\"_blank\"":"")+'><img src="'+opts.shareIcons[i]+'" '+((i!=0)?"style=\"margin-left:5px\"":"")+'/></a>';
+                    content+='<a href="'+opts.shareLinks[i]+this.getSelection()+'" '+((opts.newTab)?"target=\"_blank\"":"")+'><i class=\"fa '+opts.shareIcons[i]+'" '+((i!=0)?"style=\"margin-left:5px\"":"")+'></i></a>';
                 }
                 return content;
             },

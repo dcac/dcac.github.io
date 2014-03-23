@@ -128,7 +128,7 @@ $(document).ready(function () {
 
 // Initialize contentshare.js variables
     $("p").contentshare({
-      shareIcons : ["/img/fb.png","/img/tw.png"],
+        shareIcons : ["fa-facebook","fa-twitter"],
       shareLinks : ["http://www.facebook.com/sharer.php?s=100&p[url]="+document.URL+"&p[title]="+document.title+"&p[summary]={{text}}" , "http://twitter.com/intent/tweet?text={{text}}%0a" + window.location.href],
       minLength  : 1,
     });

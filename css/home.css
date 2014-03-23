@@ -101,6 +101,7 @@ div.col-md-6.col-pad-remove:hover div.review-text .author{
 
 .navbar .nav > li > a{
   line-height: 6;
+  color:#fff;
   /*margin-top: 35px;*/
 }
 .nav > li {
@@ -273,4 +274,17 @@ input.search{
   margin: 0;
   line-height: 10px;
   clear:left;
+}
+/* search modal styles */
+
+.search-modal{
+  width: 100%;
+  height:100%;
+  background-color: #000;
+  opacity: .75;
+  display: none;
+  z-index: 2500;
+  position: fixed;
+  top:0;
+  left:0;
 }

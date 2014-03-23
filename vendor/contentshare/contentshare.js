@@ -16,7 +16,7 @@
             getContent : function() {
                 var content="";
                 for(var i=0;i<opts.shareLinks.length;i++){
-                    content+='<a href="'+opts.shareLinks[i]+this.getSelection()+'" '+((opts.newTab)?"target=\"_blank\"":"")+'><img src="'+opts.shareIcons[i]+'" '+((i!=0)?"style=\"margin-left:5px\"":"")+'/></a>';
+                    content+='<a href="'+opts.shareLinks[i]+this.getSelection()+'" '+((opts.newTab)?"target=\"_blank\"":"")+'><i class=\"'+opts.shareIcons[i]+'" '+((i!=0)?"style=\"margin-left:5px\"":"")+'></i></a>';
                 }
                 return content;
             },
