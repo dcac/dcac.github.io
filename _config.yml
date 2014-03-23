@@ -4,6 +4,20 @@ name: Dear Cast & Crew
 markdown: redcarpet
 pygments: true
 
+lunr_search:
+  excludes: [rss.xml, atom.xml]
+
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
+    include_posts:
+        - "/index.html"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
+
 prose:
   rooturl: '_posts'
   siteurl: 'http://dcac.github.io/'
