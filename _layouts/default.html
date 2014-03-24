@@ -14,6 +14,7 @@
   	<link href="/css/animate.css" type="text/css" rel="stylesheet" />
   	<link href="/css/simple-sidebar.css" type="text/css" rel="stylesheet" />
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
+  	<link href="/css/global.css" type="text/css" rel="stylesheet" />
 
 
    <!-- Custom styles for this template -->	
@@ -66,14 +67,75 @@
       </div>
     </footer>
   </section>
+  
+  <!-- Search modal overlay -->
+  
+  <div id="search-modal" class="search-modal">
+    <div><button class="close-x"></button></div>
+    <div id="search" class="search-form">
+      <form action="/search" method="get">
+        <input type="text" id="search-query" class="search-query" name="q" placeholder="type to search" autocomplete="off" autofocus>
+      </form>
+    </div>
+    
+    <section id="search-results" class="search-results">
+      <div class="entries">
+      </div>
+    </section>
+    
+    {% raw %}
+    <script id="search-results-template" class="search-results-template" type="text/mustache">
+      {{#entries}}
+        <article>
+          <h3>
+            {{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}
+            <a href="{{url}}">{{title}}</a></h3>
+        </article>
+      {{/entries}}
+    </script>
+    {% endraw %}
+    
+    <script src="/js/search.min.js" type="text/javascript" charset="utf-8"></script>
+    
+    
+    <script type="text/javascript">
+      $(function() {
+        $('#search-query').lunrSearch({
+          index:    '/search.json',
+          results:  '#search-results',
+          entries:  '.entries',
+          template: '#search-results-template'
+        });
+      });
+    </script>
+    	</article>
+  
+  </div>
+</div>  
+<script type="text/javascript">
+  var _gauges = _gauges || [];
+  (function() {
+	if (window.location.hostname == 'localhost') return;
+	
+    var t   = document.createElement('script');
+    t.type  = 'text/javascript';
+    t.async = true;
+    t.id    = 'gauges-tracker';
+    t.setAttribute('data-site-id', '4e5d0698f5a1f52b46000001');
+    t.src = '//secure.gaug.es/track.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(t, s);
+  })();
+</script>
 
+<!-- Search -->
 
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
-	<script src="/vendor/lunr.js" type="text/javascript" charset="utf-8"></script>
-	<script src="/vendor/mustache.js" type="text/javascript" charset="utf-8"></script>
-	<script src="/vendor/date.format.js" type="text/javascript" charset="utf-8"></script>
-	<script src="/vendor/URI.min.js" type="text/javascript" charset="utf-8"></script>
-	<script src="/vendor/jquery.lunr.search.js" type="text/javascript" charset="utf-8"></script>
+  	<script src="/vendor/lunr.js" type="text/javascript" charset="utf-8"></script>
+  	<script src="/vendor/mustache.js" type="text/javascript" charset="utf-8"></script>
+  	<script src="/vendor/date.format.js" type="text/javascript" charset="utf-8"></script>
+  	<script src="/vendor/URI.min.js" type="text/javascript" charset="utf-8"></script>
+  	<script src="/vendor/jquery.lunr.search.js" type="text/javascript" charset="utf-8"></script>
   	<script type="text/javascript" src="/vendor/bootstrap/js/bootstrap.js"></script>
   	<script type="text/javascript" src="/vendor/waypoints/waypoints.js"></script>
   	<script type="text/javascript" src="/vendor/waypoints/waypoints-sticky.min.js"></script>
@@ -96,6 +158,12 @@
         $("#main-title").removeClass("sidebar-active");
         $("#page-content-wrapper").removeClass("sidebar-active");
         $("#menu-toggle").removeClass("sidebar-active");
+    });
+    $('#search-toggle').click(function(){
+        $("#search-modal").css("display","block");
+    });
+    $('button.close-x').click(function(){
+        $("#search-modal").css("display","none");
     });
     </script>
   </body>

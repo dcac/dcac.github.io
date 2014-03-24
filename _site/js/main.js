@@ -108,8 +108,7 @@ $(document).ready(function () {
      $('h1').removeClass('hero');
      $('h2').removeClass('hero');
      $('section.title').removeClass('title');
-     $('button.facebook').css({'display':'block'});
-     $('button.twitter').css({'display':'block'});
+     $('p.article-share').css({'display':'block'});
      $('#menu-toggle-top').css({'display':'block'});
     });
 
@@ -121,8 +120,7 @@ $(document).ready(function () {
      $('h1').addClass('hero');
      $('h2').addClass('hero');
      $('#main-title').addClass('title');
-     $('button.facebook').css({'display':'none'});
-     $('button.twitter').css({'display':'none'});
+     $('p.article-share').css({'display':'none'});
      $('#menu-toggle-top').css({'display':'none'});
     });
 

@@ -46,7 +46,9 @@ module Jekyll
           :url => entry.url,
           :date => entry.date,
           :categories => entry.categories,
-          :body => entry.body
+          :author => entry.author,
+          #turned off body indexing for page load speed
+          #:body => entry.body
         }
         
         puts 'Indexed ' << "#{entry.title} (#{entry.url})"

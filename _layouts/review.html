@@ -9,7 +9,9 @@ css: article.css
      <!-- Sidebar -->
       <div id="sidebar-wrapper">
           <ul class="sidebar-nav">
-              <li ><a href="#" class="content-header"><a href="#"><span class="glyphicon glyphicon-search"></span></a></li>
+              <li ><a href="#" class="content-header"></a>
+              </li>
+              <li><a href="#"><i class="fa fa-search" id="search-toggle"></i></a></li>
               <li><a href="#">Reviews</a>
               </li>
               <li><a href="#">Features</a>
@@ -32,13 +34,15 @@ css: article.css
         {% else %}<img id="image" src="/img/article/{{ page.image }}" />{% endif %}
         <section id="main-title" class="title">
           <button id="menu-toggle-top" class="logo-black">Dear Cast &amp; Crew Navigation</button>
-          <button class="twitter"></button>
-          <button class="facebook"></button>
           <h1 class="hero">{{ page.title }}</h1>
           <h2 class="hero">
-            By: {{ page.author }} <br />
-            Mailed on: {{ page.date | date: "%B %d, %Y" }}
+            By: {{ page.author }}&nbsp;&nbsp;|&nbsp;&nbsp;Mailed on: {{ page.date | date: "%B %d, %Y" }}
           </h2>
+          <p class="article-share">
+          
+            <a href="https://twitter.com/intent/tweet?text=Dear {{ page.addressee }}, {{  page.position }} for {{ page.title }}%0A{{ {{ page.path }}/"><i class="fa fa-twitter"></i></a>
+            <i class="fa fa-facebook"></i>
+          </p>
         </section> 
       </div><!-- title -->
       <section class="main-copy">

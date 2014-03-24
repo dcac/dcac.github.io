@@ -254,29 +254,21 @@ social
 
 */
 
-button.twitter{
-  background: url('../img/article/twitter.png') no-repeat;
-  width:45px;
+p.article-share{
+  width:100px;
   height:35px;
   display: none;
   border: none;
   position: absolute;
   right: 65px;
   margin-right: 100px;
-  top:22px;
+  top:0px;
+  color:#333;
+  font-size: 35px;
 }
-button.facebook{
-  background: url('../img/article/fb.png') no-repeat;
-  width:45px;
-  height:40px;
-  display: none;
-  border: none;
-  margin-right: 50px;
-  right: 50px;
-  top:20px;
-  position: absolute;
+p.article-share i{
+  margin-left: 15px;
 }
-
 /*
 
  css testing
