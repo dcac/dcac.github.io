@@ -250,9 +250,8 @@ div.col-md-6.col-pad-remove:hover div.review-text .author{
   .row{
     margin-bottom: 65px;
   }
-  .film-credits{
+  div.film-credits{
     background-color: #ccc;
-    margin: 0;
     margin-bottom: 25px;
   }
   div.film-credits h1{
@@ -289,8 +288,10 @@ div.col-md-6.col-pad-remove:hover div.review-text .author{
   div.film-credits article a {
     margin-left: 10px;
   }
-  span.film-credits-nav{
+  div.film-credits-nav{
     text-align:center;
+    background-color: #999;
+    color: #eee;
   }
 
 }
