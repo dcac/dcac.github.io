@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Act of Valor"
 comments: true
-tags: [action, Henchmen, Navy SEALS, non-actors, Postcards]
+categories: [action, Henchmen, Navy SEALS, non-actors, Postcards]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf74f0/1336620903453/actofvalor.jpg" alt="" /></span></span></p>
 <p><span style="font-size:120%;"><em><strong>Dear Anthony Carone,</strong> Yacht Henchman #1,</em></span></p>

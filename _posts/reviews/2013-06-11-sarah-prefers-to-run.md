@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Sarah Prefers to Run"
 comments: true
-tags: [Canadian film, Cannes, Chloe Robichaud, Letters, Quebec, queer]
+categories: [Canadian film, Cannes, Chloe Robichaud, Letters, Quebec, queer]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/6/11/sarah-prefers-to-run.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7857/1370981369467/Sarah%20prefers%20to%20run.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Bruno-Pierre Houle,</strong> Art Director,</span></em></p>

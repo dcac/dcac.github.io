@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Out of the Furnace"
 comments: true
-tags: [Casey Affleck, Christian Bale, drama, fighting, Stand-In, Uncategorized, war]
+categories: [Casey Affleck, Christian Bale, drama, fighting, Stand-In, Uncategorized, war]
 ---
 <div><p><span class="full-image-block ssNonEditable"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7917/1386256661089/Out%20of%20the%20Furnace.jpg" alt="" /></span></p>
 <p><em style="font-size:130%;"><strong>Dear Carmen Frank Roberts III,</strong> Fight Scene Stand-In,</em></p>

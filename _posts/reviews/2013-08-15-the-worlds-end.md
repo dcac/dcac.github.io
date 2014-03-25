@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The World's End"
 comments: true
-tags: [apocalypose, beer, comedy, Edgar Wright, end of the world, Essays, Newton Haven, sci-fi, Simon Pegg, The World's End]
+categories: [apocalypose, beer, comedy, Edgar Wright, end of the world, Essays, Newton Haven, sci-fi, Simon Pegg, The World's End]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/8/15/the-worlds-end.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7891/1376594080008/The%20World's%20End.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><strong><em>Dear Luke J. Scott, </em></strong><em>Teenager #3<strong>,</strong></em></span></p>

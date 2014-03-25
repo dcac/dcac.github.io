@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Sessions"
 comments: true
-tags: [boobs, Breasts, Breathing Lessons, Helen Hunts, John Hawkes, Letters, naked, nipple, nude, Oscar, The Sessions, tits]
+categories: [boobs, Breasts, Breathing Lessons, Helen Hunts, John Hawkes, Letters, naked, nipple, nude, Oscar, The Sessions, tits]
 ---
 <div><p><strong><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/11/23/the-sessions.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf773b/1353730945143/The%20Sessions2.jpg" alt="" /></a></span></span></strong></p>
 <p><em><span style="font-size:130%;"><strong>Dear Helen Hunt&rsquo;s Breasts</strong>, Stars</span></em></p>

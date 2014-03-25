@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Dark Knight Rises"
 comments: true
-tags: [action, Anne Hathaway, Christian Bale, Christopher Nolan, comics, Letters, The Dark Knight Rises]
+categories: [action, Anne Hathaway, Christian Bale, Christopher Nolan, comics, Letters, The Dark Knight Rises]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/7/27/the-dark-knight-rises.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf75e6/1343394924323/dark-knight-rises-2.jpg" alt="" /></a></span></span> <strong><em style="font-size:120%;"></em></strong></p>
 <p><strong><em style="font-size:120%;">Dear Recipient,</em></strong></p>

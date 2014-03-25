@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Kill Your Darlings"
 comments: true
-tags: [based on a true story, bio, drama, inspired by, Kill Your Darlings, story, true, Uncategorized]
+categories: [based on a true story, bio, drama, inspired by, Kill Your Darlings, story, true, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/11/26/kill-your-darlings.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7911/1385475251463/Kill%20Youe%20Darlings.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><em><strong>Dear Randall Poster</strong>, Music Supervisor,</em></span></p>

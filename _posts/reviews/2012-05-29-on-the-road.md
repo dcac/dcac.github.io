@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Cannes 2012: On The Road"
 comments: true
-tags: [Cannes, Festivals, jack kerouc, k-stew, kristen stewart, on the road]
+categories: [Cannes, Festivals, jack kerouc, k-stew, kristen stewart, on the road]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/5/28/on-the-road.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7588/1338261149787/On%20the%20Road.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:120%;"><strong><em>Dear Talia Evtushenko, </em></strong><em>Dance Consultant,</em> </span></p>

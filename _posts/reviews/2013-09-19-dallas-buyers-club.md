@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Dallas Buyers Club"
 comments: true
-tags: [TIFF13, AIDS, AZT, bisexual, Dallas Buyers CLub, homophobic, homosexual, Jared Leto, Jennifer Garner, Letters, MMatthew McConaughey, Oscars 2014, TIFF]
+categories: [TIFF13, AIDS, AZT, bisexual, Dallas Buyers CLub, homophobic, homosexual, Jared Leto, Jennifer Garner, Letters, MMatthew McConaughey, Oscars 2014, TIFF]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/9/19/dallas-buyers-club.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78c9/1379599814039/Dallas%20Buyers%20Club.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Wendy Cohen</strong>, Product Placement</em></p>

@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Synecdoche, New York"
 comments: true
-tags: [Arthouse, Charlie Kauffman, Philip Seymour Hoffman, Uncategorized]
+categories: [Arthouse, Charlie Kauffman, Philip Seymour Hoffman, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/8/21/synecdoche-new-york.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7617/1345555561053/Synecdoche%20New%20York.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><em><strong>Dear Karl Sison,</strong> Dirt Removal</em></span></p>

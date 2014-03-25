@@ -234,7 +234,7 @@ dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
   <div id="search-modal" class="search-modal">
     <div><button class="close-x"></button></div>
     <div id="search" class="search-form">
-      <form action="/search" method="get">
+      <form method="get">
         <input type="text" id="search-query" class="search-query" name="q" placeholder="type to search" autocomplete="off" autofocus>
       </form>
     </div>
@@ -248,9 +248,10 @@ dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
     <script id="search-results-template" class="search-results-template" type="text/mustache">
       {{#entries}}
         <article>
-          <h3>
+          <p class="search-result">
+            <a href="{{url}}">{{title}}</a><br />
             {{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}
-            <a href="{{url}}">{{title}}</a></h3>
+          </p>
         </article>
       {{/entries}}
     </script>

@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Art of the Steal"
 comments: true
-tags: [TIFF13, Canadian, Capper, Heist, Jay Baruchel, Jonothan Sobol, Kurt Russell, Letters, Matt Dillon, Ocean's 11, The Art of Steal, TIFF, Toronto International Film Festival]
+categories: [TIFF13, Canadian, Capper, Heist, Jay Baruchel, Jonothan Sobol, Kurt Russell, Letters, Matt Dillon, Ocean's 11, The Art of Steal, TIFF, Toronto International Film Festival]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/9/20/the-art-of-steal.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78cb/1379692649004/The%20Art%20of%20Steal.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Geoff Ashenhurst,</strong> Editor,</em></p>

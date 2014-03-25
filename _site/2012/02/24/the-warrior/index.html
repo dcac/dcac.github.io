@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>The Warrior</title>
+    <title>Warrior</title>
 
     <!-- Bootstrap -->
     <link href="/vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -61,16 +61,16 @@
     <button class="down-arrow animated bounce"></button>
     <article>
       <div id="title">
-        <img id="image" src="/img/article/the-warrior.jpg" />
+        <img id="image" src="/img/article/warrior.jpg" />
         <section id="main-title" class="title">
           <button id="menu-toggle-top" class="logo-black">Dear Cast &amp; Crew Navigation</button>
-          <h1 class="hero">The Warrior</h1>
+          <h1 class="hero">Warrior</h1>
           <h2 class="hero">
             By: Jared Young&nbsp;&nbsp;|&nbsp;&nbsp;Mailed on: February 24, 2012
           </h2>
           <p class="article-share">
           
-            <a href="https://twitter.com/intent/tweet?text=Dear Bryan Callen, Himself for The Warrior%0A/"><i class="fa fa-twitter"></i></a>
+            <a href="https://twitter.com/intent/tweet?text=Dear Bryan Callen, Himself for Warrior%0A/"><i class="fa fa-twitter"></i></a>
             <i class="fa fa-facebook"></i>
           </p>
         </section> 
@@ -170,7 +170,7 @@ dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
   <div id="search-modal" class="search-modal">
     <div><button class="close-x"></button></div>
     <div id="search" class="search-form">
-      <form action="/search" method="get">
+      <form method="get">
         <input type="text" id="search-query" class="search-query" name="q" placeholder="type to search" autocomplete="off" autofocus>
       </form>
     </div>
@@ -184,9 +184,10 @@ dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
     <script id="search-results-template" class="search-results-template" type="text/mustache">
       {{#entries}}
         <article>
-          <h3>
+          <p class="search-result">
+            <a href="{{url}}">{{title}}</a><br />
             {{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}
-            <a href="{{url}}">{{title}}</a></h3>
+          </p>
         </article>
       {{/entries}}
     </script>

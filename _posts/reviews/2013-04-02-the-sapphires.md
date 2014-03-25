@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Sapphires"
 comments: true
-tags: [Australian, Chris Dowd, drama, historical, Letters, Motown, music]
+categories: [Australian, Chris Dowd, drama, historical, Letters, Motown, music]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/4/2/the-sapphires.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7804/1364921675053/the-sapphires.jpg" alt="" /></a></span></span></p>
 <p><em><span style="color:black;"><span style="font-size:120%;"><strong>Dear Lisa Savage,</strong> Archive Researcher,</span>&nbsp;</span></em></p>

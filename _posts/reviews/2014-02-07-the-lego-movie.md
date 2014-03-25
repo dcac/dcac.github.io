@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The LEGO Movie"
 comments: true
-tags: [Animation, Chris Pratt, comedy, Elizabeth Banks, LEGO, Letters, Morgan Freeman, Will Arnett]
+categories: [Animation, Chris Pratt, comedy, Elizabeth Banks, LEGO, Letters, Morgan Freeman, Will Arnett]
 ---
 <div><p><span class="full-image-block ssNonEditable"><a href="/letters/2014/2/7/the-lego-movie.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7958/1391784834133/the-lego-movie.jpg" alt="" /></a></span></p>
 <p><span style="font-size:120%;"><strong><em>Dear Kristen Anderson</em></strong><em>, Digital Set Designer,</em></span></p>

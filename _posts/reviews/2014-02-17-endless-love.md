@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Endless Love"
 comments: true
-tags: [bruce greenwood, romance, Romantic, Uncategorized]
+categories: [bruce greenwood, romance, Romantic, Uncategorized]
 ---
 <div><p><span style="font-size:120%;"><strong><em><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/2/17/endless-love.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7964/1392648374333/endless-love.jpg" alt="" /></a></span></span></em></strong></span></p>
 <p><span style="font-size:120%;"><strong><em>Dear Shane Garner,</em></strong><em> Set Decoration/On Set Dresser,</em></span></p>

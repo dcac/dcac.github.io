@@ -37,7 +37,7 @@ css: home.css
       <h1>{{ post.title }}</h1>
       <p class="sub-title">Dear {{ post.addressee }}, {{ post.position }}</p>
       <p class="author">By {{ post.author }}</p>
-      <p><a class="btn dcac-hero-button" role="button" href="#">Read more &raquo;</a></p>
+      <p><a class="btn dcac-hero-button" role="button" href="{{ post.url }}">Read more &raquo;</a></p>
     </div>
   </div>
   {% endfor %}</a>
@@ -46,32 +46,50 @@ css: home.css
   <!-- Example row of columns -->
   <div class="row">
     <div class="col-md-8">
-
-      <div class="row">
-        {% for post in site.posts offset:1 limit:6 %}
-          <div class="col-md-6 col-pad-remove">
-            <a href="{{ post.url }}" class="thumbnail">
-              <img src="img/article/{{ post.image }}" alt="{{ post.title }}" clas="sub-review" />
-            </a>
-            <div class="review-text">
-              <p>{{ post.title }} &#9733;&#9733;<br />
-                <span class="addressee">Dear {{ post.addressee }}, {{ post.position }}</span><br />
-                <span class="author">By {{ post.author }}&nbsp;&nbsp;|&nbsp;&nbsp;{{ post.date | date: "%B %d, %Y" }}</span>
-              </p>
-            </div>
-          </div>
-        {% endfor %}
+{% for post in site.posts offset:1 limit:6 %}
+  {% assign loopindex = forloop.index | modulo: 2 %}
+  {% if loopindex == 1 %}
+    <div class="row">
+     <div class="col-md-6 col-pad-remove">
+      <a href="{{ post.url }}" class="thumbnail">
+        <img src="img/article/{{ post.image }}" alt="{{ post.title }}" clas="sub-review" />
+      </a>
+      <a href="{{ post.url }}"><div class="review-text">
+        <h1>{{ post.title }}</h1>
+        <h2 class="addressee">Dear {{ post.addressee }}, {{ post.position }}</span></h2>
+        <h2 class="author">By {{ post.author }}</h2>
+      </div>
+      </a>
+    </div>
+  {% else %}
+    <div class="col-md-6 col-pad-remove">
+        <a href="{{ post.url }}" class="thumbnail">
+          <img src="img/article/{{ post.image }}" alt="{{ post.title }}" clas="sub-review" />
+        </a>
+        <a href="{{ post.url }}"><div class="review-text">
+          <h1>{{ post.title }}</h1>
+          <h2 class="addressee">Dear {{ post.addressee }}, {{ post.position }}</span></h2>
+          <h2 class="author">By {{ post.author }}</h2>
+        </div>
+        </a>
       </div>
     </div>
+  {% endif %}
+{% endfor %}
+    </div>
     <div class="col-md-4">
-      <div class="row" style="background-color:#eee">
-        <strong>This is some sort of extra content - more reviews/glossary/etc.</strong>
-        <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-        <br /><br /><br /><br /><br /><br /><br /><br />
-      </div>
-      <div class="row">
-        <a href="#" class="thumbnail"><img src="img/netflix.png" alt="Netflix ad"/></a>
-      </div>
+        <div class="film-credits">
+          <h1>DC&C Glossary</h1>
+          <article>
+            <h1 class=film-credits-title>Supervising Sound Editor</h1>
+            <h2 class="film-credits-description">Someone with the power to, apparently, possess others into committing rape.</h2>
+            <a role="button">More</a>
+          </article>
+            <span class="film-credits-nav"><i class="fa fa-chevron-left film-credit-previous"></i><i class="fa fa-chevron-right film-credit-next"></i></span>
+        </div>
+        <div class="ad-space">
+          <a href="#" class="thumbnail"><img src="img/netflix.png" alt="Netflix ad"/></a>
+        </div>
     </div>
   </div>
 </div> <!-- /container -->

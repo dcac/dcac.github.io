@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Dictator"
 comments: true
-tags: [Ben Kingsley, comedy, Letters, netflix.ca, Sacha Baron Cohen, The Dictator]
+categories: [Ben Kingsley, comedy, Letters, netflix.ca, Sacha Baron Cohen, The Dictator]
 ---
 <div><p><span class="full-image-block ssNonEditable"><a href="/letters/2012/5/15/the-dictator.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7574/1337101295043/the-dictator.jpg" alt="" /></a></span></p>
 <p><span style="font-size:110%;"><em style="font-size:120%;"><strong>Dear Mark Behar,</strong> Sacha Baron Cohen&rsquo;s Personal Bodyguard, </em></span></p>

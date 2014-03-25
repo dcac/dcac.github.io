@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Mirror, Mirror"
 comments: true
-tags: [fantasy, Julia Roberts, Letters, oscars]
+categories: [fantasy, Julia Roberts, Letters, oscars]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/1/22/mirror-mirror.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf779b/1358891922537/mirror-mirror.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:120%;"><em><strong>Dear Eiko Ishioka,</strong> Costume Designer,&nbsp;</em></span></p>

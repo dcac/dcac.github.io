@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Hangover Part 3"
 comments: true
-tags: [Bradley Cooper, comedy, Ed Helms, heather graham, Letters, zack galifianakis]
+categories: [Bradley Cooper, comedy, Ed Helms, heather graham, Letters, zack galifianakis]
 ---
 <div><p><span class="full-image-block ssNonEditable"><a href="/letters/2013/5/24/the-hangover-part-3.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7833/1369429274267/the-hangover-3.jpg" alt="" /></a></span></p>
 <p><em><span style="font-size:120%;"><strong>Dear Bryant Powell, </strong>Stand-In for Zach Galifiankis,&nbsp;</span></em></p>

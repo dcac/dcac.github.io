@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Killing Them Softly"
 comments: true
-tags: [action, Andrew Dominik, Brad Pitt, Cannes, crime, economic crisis, economy, ganger, Killing Them Softly, Letters, mob, Scoot McNairy, Tarantino]
+categories: [action, Andrew Dominik, Brad Pitt, Cannes, crime, economic crisis, economy, ganger, Killing Them Softly, Letters, mob, Scoot McNairy, Tarantino]
 ---
 <div><p class="MsoNormal"><em style="font-size:130%;"><strong><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/11/30/killing-them-softly.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7748/1354287827567/Killing%20Them%20Softly.jpg" alt="" /></a></span></span></strong></em></p>
 <p class="MsoNormal"><em style="font-size:130%;"><strong>Dear Philip J. Strina</strong>, Business and Legal Affairs </em></p>

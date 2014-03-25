@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Artist"
 comments: true
-tags: [black and white, Brnice Bejo, comedy, Jean Dujardin, john goodman, Letters, Michel Hazanavicius, oscars, silent]
+categories: [black and white, Brnice Bejo, comedy, Jean Dujardin, john goodman, Letters, Michel Hazanavicius, oscars, silent]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/3/2/the-artist.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf74e4/1336621222517/theartist.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:120%;"><em><strong>Dear Valeria Ghiran, </strong>boom operator,</em></span></p>

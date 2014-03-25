@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Pumping Iron"
 comments: true
-tags: [arnold schwarzenegger, bodybuilding, documentary, Early Arnold, First Film, Letters]
+categories: [arnold schwarzenegger, bodybuilding, documentary, Early Arnold, First Film, Letters]
 ---
 <div><p><em><strong style="font-size:120%;"><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/11/20/pumping-iron.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7725/1353431630813/pumping-iron.jpg" alt="" /></a></span></span>Dear Arnold Schwarzenegger,</strong><span style="font-size:120%;"> as Himself</span></em></p>
 <p>As someone who was eleven years old in 1991, I can tell you this: in 1991, every eleven year-old wanted to be Eddie Furlong. Sweet bangs, skateboard skills, a laptop that could hack a bank machine, and his own personal cyborg assassin&mdash;he had it all. By the end of <em>Terminator 2: Judgment Day</em>, when (spoiler alert) you sacrifice yourself to destroy the computer chip inside your head that will give rise to sentient digital overlord SkyNet, it&rsquo;s clear that you&rsquo;ve become a proxy for young John Connor&rsquo;s absent father, who, (double spoiler alert) you killed in the first film.&nbsp;</p>

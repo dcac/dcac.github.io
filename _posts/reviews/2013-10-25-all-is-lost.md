@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "All is Lost"
 comments: true
-tags: [Oscars 2014, Uncategorized]
+categories: [Oscars 2014, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78f5/1382710263057/all-is-lost.jpg" alt="" /></span></p>
 <p><span style="font-size:120%;"><em><strong>Dear Avery Bederman,</strong> Shark Chum Thrower,</em></span></p>

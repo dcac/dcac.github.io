@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Trouble With The Curve"
 comments: true
-tags: [baseball, clint eastwood, drama, extras, john goodman, Letters, sports]
+categories: [baseball, clint eastwood, drama, extras, john goodman, Letters, sports]
 ---
 <div><p><span class="full-image-block ssNonEditable"><a href="/letters/2012/9/26/trouble-with-the-curve.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7691/1348677251022/trouble-with-the-curve.jpg" alt="" /></a></span></p>
 <p><em style="font-size:120%;"><span style="font-size:120%;"><strong>Dear Geoffrey Milcat,</strong> Casting Director,</span></em></p>

@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "5 Broken Cameras"
 comments: true
-tags: [documentary, Emad Burnat, Israel, Letters, oscars, Palestine]
+categories: [documentary, Emad Burnat, Israel, Letters, oscars, Palestine]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/2/21/5-broken-cameras.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf77c9/1361458893737/5-broken-cameras.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:120%;"><em><strong>Dear Emad Burnat,</strong> Director,&nbsp;</em></span></p>

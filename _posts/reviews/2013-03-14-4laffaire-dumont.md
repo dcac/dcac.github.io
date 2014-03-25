@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "L'affaire Dumont"
 comments: true
-tags: [based on, Canadian, history, inspired by, L'affaire Dumont, Letters, prison, true story, wrongfully accused]
+categories: [based on, Canadian, history, inspired by, L'affaire Dumont, Letters, prison, true story, wrongfully accused]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/3/14/laffaire-dumont.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf77ef/1363275825034/L'affaire%20Dumont.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><strong><em>Dear Jean-Patrick Joseph,</em></strong><em> Special Equipment Supplier,</em></span></p>

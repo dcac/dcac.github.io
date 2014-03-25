@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Pitch Perfect"
 comments: true
-tags: [a cappella, Anna Kendrick, comedy, musical, PItch Perfect, Rebel Wilson, Uncategorized]
+categories: [a cappella, Anna Kendrick, comedy, musical, PItch Perfect, Rebel Wilson, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="www.dearcastandcrew.com/letters/2012/10/3/pitch-perfect.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76b8/1349270845557/Pitch%20Perfect.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Steve Schatz,</strong> Re-recording Mix Technician</span></em></p>

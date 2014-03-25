@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Lucky One"
 comments: true
-tags: [James Dever, Louisiana, marines, Nicholas Sparks, romance, Scott Hicks, The Lucky One, Uncategorized, Zac Efron]
+categories: [James Dever, Louisiana, marines, Nicholas Sparks, romance, Scott Hicks, The Lucky One, Uncategorized, Zac Efron]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/4/26/the-lucky-one.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf754b/1336617866727/lucky-one.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:120%;"><em><strong>Dear James D. Dever,</strong> Military Technical Advisor</em></span></p>

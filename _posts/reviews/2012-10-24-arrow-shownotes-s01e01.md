@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Arrow — Shownotes S01E01"
 comments: true
-tags: [Arrow, comics, Shownotes]
+categories: [Arrow, comics, Shownotes]
 ---
 <div><p><span class="full-image-block ssNonEditable"><a href="/letters/2012/10/24/arrow-shownotes.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76df/1351103788048/arrow-s1e1.jpg" alt="" /></a></span></p>
 <p><span style="font-size:120%;"><strong><em>Dear Cast and Crew of Arrow,</em></strong><em> S1E01 &ndash; &ldquo;Pilot&rdquo;</em><em>&nbsp;</em></span></p>

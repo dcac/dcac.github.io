@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Ruby Sparks"
 comments: true
-tags: [comedy, fantasy, Letters, netflix.ca, Paul Dano, romance, Zoe Kazan]
+categories: [comedy, fantasy, Letters, netflix.ca, Paul Dano, romance, Zoe Kazan]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/5/15/ruby-sparks.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf782f/1368651182013/Ruby%20Sparks.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Zoe Kazan</strong>, Writer/Actress/Executive Producer,</span></em></p>

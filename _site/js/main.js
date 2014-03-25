@@ -134,13 +134,23 @@ $(document).ready(function () {
         $.fn.contentshare.showTooltip();
     });            
  
- $(document).ready(function(){
-    $(document).scroll(function() {
-        var alpha = Math.min(0.5 + 0.4 * $(this).scrollTop() / 210, 0.9);
-        var channel = Math.round(alpha * 255);
-        $("div.navbar").css('background-color', 'rgb(' + channel + ',' + channel + ',' + channel + ')');
-    });
-  });
-
-  
+// Change the main navbar on scroll
+    //$(document).scroll(function() {
+        //var alpha = Math.min(0.5 + 0.4 * $(this).scrollTop() / 210, 0.9);
+        //var channel = Math.round(alpha * 255);
+        //$("div.navbar").css('background-color', 'rgb(' + channel + ',' + channel + ',' + channel + ')');
+       // $("div.navbar").css('height', '50px');
+    //});
+    $('#main-container').waypoint(function() {
+      $("div.navbar").css('height', '50px');
+      $("a.navbar-link").css('height', '50px');
+      $("a.navbar-brand").css('height', '50px');
+      $("a.navbar-brand").css('background', 'url(\'../img/logo-sm.png\') 10px 15px no-repeat');
+    }, { offset: 25 });
+    $('#main-container').waypoint(function() {
+      $("div.navbar").css('height', '125px');
+      $("a.navbar-link").css('height', '125px');
+      $("a.navbar-brand").css('height', '125px');
+      $("a.navbar-brand").css('background', 'url(\'../img/logo.png\') 15px 15px no-repeat');
+    }, { offset: 120 });
 }); 

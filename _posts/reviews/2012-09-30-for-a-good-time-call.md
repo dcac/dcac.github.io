@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "For a Good Time, Call..."
 comments: true
-tags: [Ari Raynor, comedy, For a good time call, Justin Travis, Lauren Miller, Review, Seth Rogan, Uncategorized]
+categories: [Ari Raynor, comedy, For a good time call, Justin Travis, Lauren Miller, Review, Seth Rogan, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/9/30/for-a-good-time-call.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76aa/1349015639173/For%20a%20Good%20Time%20Call.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Sarah Sprawls</strong>, Set Decorator</em></p>

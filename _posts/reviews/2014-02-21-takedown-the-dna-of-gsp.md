@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Takedown: The DNA of GSP"
 comments: true
-tags: [Canadian, documentary, fighting, George St. Pierre, GSP, Letters, mixed martial arts, MMA, UFC]
+categories: [Canadian, documentary, fighting, George St. Pierre, GSP, Letters, mixed martial arts, MMA, UFC]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/2/21/takedown-the-dna-of-gsp.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf796a/1392989626487/Takedown.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Koo Atswali,</strong> Rights Clearance,</em></p>

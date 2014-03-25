@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Missing Picture"
 comments: true
-tags: [cambodia, khmer rouge, Letters, Oscars 2014, pol pot, The Missing Picture]
+categories: [cambodia, khmer rouge, Letters, Oscars 2014, pol pot, The Missing Picture]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/3/1/the-missing-picture.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf797a/1393699777094/The%20Missing%20Picture.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Sarith Mang</strong>, Sculptor,</em></p>

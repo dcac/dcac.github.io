@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Armstrong Lie"
 comments: true
-tags: [Alex Gibney, documentary, lance armstrong, Letters, livestong]
+categories: [Alex Gibney, documentary, lance armstrong, Letters, livestong]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/2/26/the-armstrong-lie.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7974/1393439479537/The%20Armstrong%20Lie.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Benjamin Murray,</strong> Smoke Artist,</em></p>

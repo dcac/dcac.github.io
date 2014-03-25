@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Christmas in Connecticut"
 comments: true
-tags: [arnold schwarzenegger, Christmas in Connecticut, connecticut, ddirector, directorial debut, Early Arnold, Early Arnold, junk, made-for-TV, midnight movie, specia, The Room, Tommy Wiseau]
+categories: [arnold schwarzenegger, Christmas in Connecticut, connecticut, ddirector, directorial debut, Early Arnold, Early Arnold, junk, made-for-TV, midnight movie, specia, The Room, Tommy Wiseau]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/12/17/christmas-in-connecticut.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7765/1355844349827/Christmas%20in%20Connecticut.jpg" alt="" /></a></span></span></p>
 <p><strong><em style="font-size:130%;">Dear Arnold Schwarzenegger, Director</em></strong></p>

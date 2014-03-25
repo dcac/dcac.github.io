@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "TIFF: Blackbird"
 comments: true
-tags: [Award, Canadian, gun, Jake Howell, Jason Buxton, Review, school, shooting, TIFF, Uncategorized, violence]
+categories: [Award, Canadian, gun, Jake Howell, Jason Buxton, Review, school, shooting, TIFF, Uncategorized, violence]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/9/25/blackbird.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf768d/1348582494697/Blackbird.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><em><strong>Dear Keith Currie,</strong> Gun Wrangler,</em></span></p>

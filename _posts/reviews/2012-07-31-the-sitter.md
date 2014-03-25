@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Sitter"
 comments: true
-tags: [comedy, Jonah Hill, Letters, netflix.ca, Zip.ca]
+categories: [comedy, Jonah Hill, Letters, netflix.ca, Zip.ca]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/7/31/the-sitter.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf75e8/1343761237507/the-sitter.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:120%;"><span style="font-size:120%;"><strong>Dear David Paulin, </strong>Costume Ager/Dyer</span></em></p>

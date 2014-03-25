@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "THE CONJURING"
 comments: true
-tags: [Air Mail, ghosts, horror, james wan, patrick wilson, summer of 2013, suspense, the conjuring, Uncategorized, vera farmiga]
+categories: [Air Mail, ghosts, horror, james wan, patrick wilson, summer of 2013, suspense, the conjuring, Uncategorized, vera farmiga]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/7/23/the-conjuring.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf787d/1374603775587/image_template_conjuring.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><em style="font-size:120%;"><span style="font-size:80%;"><strong>Dear Mark Meyers, </strong>Camera Operator,</span></em></span></p>

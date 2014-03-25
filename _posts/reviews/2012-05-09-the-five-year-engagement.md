@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Five-Year Engagement"
 comments: true
-tags: [Emily Blunt, Five Year Engagement, Jason Segel, Letters, Romantic Comedy]
+categories: [Emily Blunt, Five Year Engagement, Jason Segel, Letters, Romantic Comedy]
 ---
 <div><p><span class="full-image-block ssNonEditable"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7565/1336595582653/five-year-engagment.jpg" alt="" /></span></p>
 <p><em><span style="font-size:120%;"><strong>Dear Zachariah Kucynski, </strong>Food Stylist,</span></em></p>

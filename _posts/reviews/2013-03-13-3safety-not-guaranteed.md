@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Safety Not Guaranteed"
 comments: true
-tags: [aubrey plaza, drama, independent, Letters, Mark Duplass, sci-fi]
+categories: [aubrey plaza, drama, independent, Letters, Mark Duplass, sci-fi]
 ---
 <div><p><em style="font-size:120%;"><strong><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/3/13/safety-not-guaranteed.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf77ea/1363206023733/safety-not-guaranteed.jpg" alt="" /></a></span></span>Dear Marguerite Philips,</strong> Music Supervisor,</em></p>
 <p>Like a lovelorn schoolboy with a pet falcon on his shoulder and vintage Coronet midget camera around his neck, the influence of Wes Anderson is present in every frame of <em>Safety Not Guaranteed</em>. It&rsquo;s subtle, but it&rsquo;s there: the center-framed shots, the self-conscious eclecticism, the tippy-toed dance on the precipice of absurdity&mdash;these are the seeds from which director Colin Treverrow has grown his first feature film. And what defines a Wes Anderson film more powerfully than its music?&nbsp;</p>

@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Star Trek Into Darkness"
 comments: true
-tags: [Benedict Cumberpatch, blockbuster, Chris Pine, j.j. Abrams, Letters, Oscars 2014, sci-fi, Sequel, Star Trek, summer, Zachary Quinto]
+categories: [Benedict Cumberpatch, blockbuster, Chris Pine, j.j. Abrams, Letters, Oscars 2014, sci-fi, Sequel, Star Trek, summer, Zachary Quinto]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/5/16/star-trek-into-darkness.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7831/1368734025873/Star%20Trek%20Into%20Darkness.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Fritz Beck</strong>, Lighting Artist,</em></p>

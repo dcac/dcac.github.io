@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Rock of Ages"
 comments: true
-tags: [Alec Baldwin, comedy, hair, hair metal, Letters, musical, Rock of Ages, Romantic Comedy, Tom Cruise]
+categories: [Alec Baldwin, comedy, hair, hair metal, Letters, musical, Rock of Ages, Romantic Comedy, Tom Cruise]
 ---
 <div><p><span class="full-image-block ssNonEditable"><a href="/letters/2012/6/15/rock-of-ages.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf759b/1339786903473/RockofAges.jpg" alt="" /></a></span></p>
 <p><em style="font-size:120%;"><strong>Dear Sean Flanigan,</strong> Key Hair Stylist&nbsp;</em></p>

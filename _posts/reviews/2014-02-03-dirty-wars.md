@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Dirty Wars"
 comments: true
-tags: [Afghanistan, dirty, documentary, Jeremy Scahill, Letters, Oscars 2014, u.s. military, war, wars]
+categories: [Afghanistan, dirty, documentary, Jeremy Scahill, Letters, Oscars 2014, u.s. military, war, wars]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/2/3/dirty-wars.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7952/1391436824077/Dirty%20Wars.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><em><strong>Dear Rick Rowley</strong>, Director and Cinematographer,</em></span></p>

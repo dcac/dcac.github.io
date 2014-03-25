@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Counselor"
 comments: true
-tags: [Brad Pitt, Cameron Diaz, drama, drugs, Javier Bardem, Letters, Michael Fassbender, Penelope Cruz, ridley scott]
+categories: [Brad Pitt, Cameron Diaz, drama, drugs, Javier Bardem, Letters, Michael Fassbender, Penelope Cruz, ridley scott]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/11/6/the-counselor.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78fd/1383800020079/The%20Counselor.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Ali Moshref,</strong> Completion Guarantor,</em></p>

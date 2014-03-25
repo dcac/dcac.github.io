@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Les Misérables"
 comments: true
-tags: [Anne Hathaway, Fanien, Hugh Jackman, I Dreamed a Dream, Jean Valjean, Les Mis, Les Miserables, Les Misrables, Letters, On My Own, One More Day, Russel Crow, Susan Boyle]
+categories: [Anne Hathaway, Fanien, Hugh Jackman, I Dreamed a Dream, Jean Valjean, Les Mis, Les Miserables, Les Misrables, Letters, On My Own, One More Day, Russel Crow, Susan Boyle]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/1/2/les-miserables.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7783/1357159272183/Les%20Miserables.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Dad</strong>, Reluctant Audience Member (and Real-Life Javert),</em></p>

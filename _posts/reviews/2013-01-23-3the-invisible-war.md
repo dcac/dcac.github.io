@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Invisible War"
 comments: true
-tags: [NotInvisible, documentary, invisible, Invisible War, Letters, military, not, rape, scandal, sex, sexual assualt, U.S., women]
+categories: [NotInvisible, documentary, invisible, Invisible War, Letters, military, not, rape, scandal, sex, sexual assualt, U.S., women]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/1/23/the-invisible-war.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf779f/1358973926042/The%20Invisible%20War.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Jonathan Dana</strong>, Distribution Advisor</em></p>

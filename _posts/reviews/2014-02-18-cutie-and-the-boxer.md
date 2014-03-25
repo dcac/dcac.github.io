@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Cutie and the Boxer"
 comments: true
-tags: [artist, biography, biopic, documentary, Letters, Oscars 2014]
+categories: [artist, biography, biopic, documentary, Letters, Oscars 2014]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/2/18/cutie-and-the-boxer.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7966/1392731773337/Cutie%20and%20the%20Boxer.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Noriko Shinohara</strong>, Artist,</em></p>

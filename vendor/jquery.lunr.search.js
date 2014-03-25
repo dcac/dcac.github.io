@@ -48,8 +48,11 @@
     LunrSearch.prototype.createIndex = function() {
       return lunr(function() {
         this.field('title', { boost: 10 });
+        /* turned off body indexing for page load speed
         this.field('body');
-        this.ref('id');      
+        */
+        this.field('categories'); 
+        this.ref('id');
       });
     };
     

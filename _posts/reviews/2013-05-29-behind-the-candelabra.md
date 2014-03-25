@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Behind the Candelabra"
 comments: true
-tags: [based on, bio, biography, Cannes, Dan Aakroyd, Festivals, HBO, inspired by, Liberace, Matt Damon, Michael Douglas, Rob Lowe, True based]
+categories: [based on, bio, biography, Cannes, Dan Aakroyd, Festivals, HBO, inspired by, Liberace, Matt Damon, Michael Douglas, Rob Lowe, True based]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/5/29/behind-the-candelabra.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7845/1369832357277/Behind%20the%20Candelabra.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><em><strong>Dear Greg Fusak</strong>, Best Boy,</em></span></p>

@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Battleship"
 comments: true
-tags: [action, battleship, Letters, negative]
+categories: [action, battleship, Letters, negative]
 ---
 <div><p class="Body1"><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/5/18/battleship.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7578/1337372083097/battleship.jpg" alt="" /></a></span></span></p>
 <p class="Body1"><span style="font-size:120%;"><strong><em>Dear Marvin Williams,</em></strong><em> Second Second Assistant Director</em></span></p>

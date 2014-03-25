@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Ernest and Celestine"
 comments: true
-tags: [Animation, Letters, oscars, Oscars 2014]
+categories: [Animation, Letters, oscars, Oscars 2014]
 ---
 <div><p><span class="full-image-block ssNonEditable"><a href="/letters/2014/2/19/ernest-and-celestine.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7968/1392843679283/ernest-and-celestine.jpg" alt="" /></a></span></p>
 <p><em style="font-size:120%;"><strong>Dear Zaza and Zyk,</strong> Production Designers,</em></p>

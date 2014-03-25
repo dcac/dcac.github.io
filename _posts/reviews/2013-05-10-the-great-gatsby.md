@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Great Gatsby"
 comments: true
-tags: [adaptation, Baz Lurhmann, Beyonc, Beyonce, Carey Mulligan, hip hop, Jay-Z, Leonardo DiCaprio, Letters, Oscars 2014, The Great Gatsby, Tobey Maguire]
+categories: [adaptation, Baz Lurhmann, Beyonc, Beyonce, Carey Mulligan, hip hop, Jay-Z, Leonardo DiCaprio, Letters, Oscars 2014, The Great Gatsby, Tobey Maguire]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/5/10/the-great-gatsby.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf782b/1368223957197/The%20Great%20Gatsby.jpg" alt="" /></a></span></span></p>
 <p><em><strong><span style="font-size:130%;">Dear Shawn &ldquo;Jay-Z&rdquo; Carter,</span></strong><span style="font-size:130%;"> Executive Producer,</span></em></p>

@@ -10,7 +10,7 @@ layout: review
 title: "300: Rise of an Empire"
 author: Jared Young
 comments: true
-tags: [300: Rise of an empire, action, fantasy, historical, Letters, Sequel]
+categories: [300: Rise of an empire, action, fantasy, historical, Letters, Sequel]
 ---
 
 <p>You were a pretty savvy guy, and lived though a great age of Hellenic theater, so you&rsquo;re probably familiar with how the facts of history can be bent and stretched by a dramatist. And there&rsquo;s no better way to measure what values are held most sacred by a particular culture than to observe <em>how</em> those facts are bent and stretched. Back in 472 BCE when the Aeschylus dramatized the events of the Greco-Persian War in the <em>The Persians</em>, his concern was for divine retribution. Ideas of fate and morality were a popular theme back then (his play even won first prize at that year&rsquo;s Dionysian festival). You didn&rsquo;t get a mention in that one, but you&rsquo;re a big part of a new piece of drama&mdash;it&rsquo;s called <em>300: Rise of an Empire</em>, and it&rsquo;s, uh&#8230;a movie. Which is like a play, but projected onto a wall. Like a living painting. You see, we&rsquo;ve figured out how to refract light onto a surface in order to capture the image of&#8230;</p>

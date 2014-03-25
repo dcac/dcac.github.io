@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Philomena"
 comments: true
-tags: [drama, events, inspired by, Letters, Oscars 2014, real, true story]
+categories: [drama, events, inspired by, Letters, Oscars 2014, real, true story]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/1/28/philomena.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf794a/1390885627068/Philomena.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Barbara Jefford</strong>, Actress,</span></em></p>

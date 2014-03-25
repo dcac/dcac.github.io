@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "A Royal Affair"
 comments: true
-tags: [A Royal Affair, Best, Danish, drama, foreign language, historic, Letters, Mad Mikkelson, Oscar, royalty]
+categories: [A Royal Affair, Best, Danish, drama, foreign language, historic, Letters, Mad Mikkelson, Oscar, royalty]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/2/13/a-royal-affair.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf77b9/1360790013067/A%20Royal%20Affair.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Roman Spacil, </strong>Swordmaster, </span></em></p>

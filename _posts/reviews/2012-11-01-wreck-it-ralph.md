@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Wreck-It Ralph"
 comments: true
-tags: [Animation, comedy, Letters, video games]
+categories: [Animation, comedy, Letters, video games]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/11/1/wreck-it-ralph.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76eb/1351798241091/wreck-it-ralph.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:120%;"><strong><em>Dear Matthew F. Schnittker,</em></strong><em> Senior Software Engineer,&nbsp;</em></span>&nbsp;</p>

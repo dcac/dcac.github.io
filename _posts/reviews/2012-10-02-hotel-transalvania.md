@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Hotel Transalvania"
 comments: true
-tags: [Adamn Sandler, bikini, boobs, Hotel Transavania, naked, nude, Selena Gomez, sexy, shower, Uncategorized]
+categories: [Adamn Sandler, bikini, boobs, Hotel Transavania, naked, nude, Selena Gomez, sexy, shower, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><a href="/letters/2012/10/2/hotel-transalvania.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76ae/1349185326537/Hotel%20Transalvania.jpg" alt="" /></a></span></p>
 <p><em style="font-size:130%;"><strong>Dear Michelle Murdocca,</strong> Producer</em></p>

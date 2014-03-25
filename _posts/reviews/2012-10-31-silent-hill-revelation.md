@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Silent Hill : Revelation"
 comments: true
-tags: [adaptation, Adelaide Clemens, Canadian, contact lens, gamer, horro, Kit Harrington, Sean Bean, Sequel, SIlent Hill, Uncategorized, video game]
+categories: [adaptation, Adelaide Clemens, Canadian, contact lens, gamer, horro, Kit Harrington, Sean Bean, Sequel, SIlent Hill, Uncategorized, video game]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/10/31/silent-hill-revelation.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76e6/1351709343967/Silent%20Hill%20Revelation.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Mandy Ketcheson</strong>, Contact Lens Technician</span></em></p>

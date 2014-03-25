@@ -10,7 +10,7 @@ addressee: Wayback Machine
 layout: review
 title: "Mr. Peabody & Sherman"
 comments: true
-tags: [animated, comedy, Family, Letters]
+categories: [animated, comedy, Family, Letters]
 ---
 
 <p><span style="color:black;">Hate to start this letter by putting you to work, but you&rsquo;re a time machine, you should have seen this coming.</span></p>

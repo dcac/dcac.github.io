@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Wind Rises"
 comments: true
-tags: [Letters, Oscars 2014, Studio Ghibli, The Wind Rises]
+categories: [Letters, Oscars 2014, Studio Ghibli, The Wind Rises]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/2/28/the-wind-rises.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7978/1393596204095/The%20Wind%20Rises.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><strong><em>Dear Takeshi Seyama,</em></strong><em> Editor, </em></span></p>

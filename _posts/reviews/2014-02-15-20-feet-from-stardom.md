@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "20 Feet From Stardom"
 comments: true
-tags: [documentary, Letters, music, Oscars 2014]
+categories: [documentary, Letters, music, Oscars 2014]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/2/15/20-feet-from-stardom.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7962/1392505299011/20%20Feet%20From%20Stardom.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><em><strong>Dear Gil Friesen,</strong> Producer,</em></span></p>

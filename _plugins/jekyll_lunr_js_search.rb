@@ -46,8 +46,7 @@ module Jekyll
           :url => entry.url,
           :date => entry.date,
           :categories => entry.categories,
-          :author => entry.author,
-          #turned off body indexing for page load speed
+          # turned off body indexing for page load speed
           #:body => entry.body
         }
         

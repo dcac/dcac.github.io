@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "John Carter"
 comments: true
-tags: [Andrew Stanton, costumes, Disney, fantasy, John Cartyer, Letters, Lynn Collins, sci-fi, sexy, Taylor Kitch]
+categories: [Andrew Stanton, costumes, Disney, fantasy, John Cartyer, Letters, Lynn Collins, sci-fi, sexy, Taylor Kitch]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf74fe/1336620430447/johncarter.jpg" alt="" /></span></span></p>
 <p><span style="font-size:120%;"><em><strong>Dear Anthony Drewett,</strong> Costume Fitter,</em></span></p>

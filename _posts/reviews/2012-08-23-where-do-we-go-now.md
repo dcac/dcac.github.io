@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Where Do We Go Now?"
 comments: true
-tags: [Award, Cannes, comedy, drama, Foreign, Letters, Nadine Labaki, netflix.ca, TIFF]
+categories: [Award, Cannes, comedy, drama, Foreign, Letters, Nadine Labaki, netflix.ca, TIFF]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/8/23/where-do-we-go-now.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7620/1345732258043/Where%20Do%20We%20Go%20Now.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><em><strong>Dear C&eacute;dric Deloche, </strong>Dialogue Editor</em></span></p>

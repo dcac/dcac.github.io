@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Monuments Men"
 comments: true
-tags: [Bill Murry, cate blanchett, drama, George Clooney, john goodman, Letters, Matt Damon, world war 2]
+categories: [Bill Murry, cate blanchett, drama, George Clooney, john goodman, Letters, Matt Damon, world war 2]
 ---
 <div><p><span class="full-image-block ssNonEditable"><a href="/letters/2014/2/10/the-monuments-men.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf795c/1392084872107/the-monuments-men.jpg" alt="" /></a></span></p>
 <p><span style="font-size:120%;"><strong><em>Dear Jina Jay, </em></strong><em>Casting,</em></span></p>

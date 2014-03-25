@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Cosmopolis"
 comments: true
-tags: [Breaking Dawn, Canadian, Cannes, Cosmopolis, Cronenberg, David, Robert Pattinson, Twilight, Uncategorized]
+categories: [Breaking Dawn, Canadian, Cannes, Cosmopolis, Cronenberg, David, Robert Pattinson, Twilight, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/7/17/cosmopolis.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf75bc/1342530416016/Cosmopolis3.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><em><strong>Dear Archie Rodrigues,</strong> Travel Agent</em></span></p>

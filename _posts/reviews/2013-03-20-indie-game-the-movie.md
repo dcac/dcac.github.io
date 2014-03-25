@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Indie Game: The Movie"
 comments: true
-tags: [Braid, Canadian, documentary, Fez, independent, Letters, Super Meat Boy, SXSW, video games]
+categories: [Braid, Canadian, documentary, Fez, independent, Letters, Super Meat Boy, SXSW, video games]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/3/20/indie-game-the-movie.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf77f1/1363808832697/Indie%20Game.jpg" alt="" /></a></span></span></p>
 <p><strong><em style="font-size:120%;"><span style="font-size:120%;">Dear Captain_404,</span></em></strong><em><span style="font-size:120%;"> Kickstarter Contributor</span>,</em></p>

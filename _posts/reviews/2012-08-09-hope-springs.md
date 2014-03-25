@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Hope Springs"
 comments: true
-tags: [comedy, David Frankel, Hope Springs, Letters, Meryl Streep, romance, Romantic Comedy, Tommy Lee Jones]
+categories: [comedy, David Frankel, Hope Springs, Letters, Meryl Streep, romance, Romantic Comedy, Tommy Lee Jones]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/8/9/hope-springs.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf75f6/1344542250813/hope-springs.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:120%;"><strong>Dear Tim Van Horn, Scott Winston, and JD Yepes,</strong> Digital Compositors,</em></p>

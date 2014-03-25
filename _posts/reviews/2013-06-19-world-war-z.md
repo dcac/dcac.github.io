@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "World War Z"
 comments: true
-tags: [action, Brad Pitt, horror, Letters, Marc Forster, zombies]
+categories: [action, Brad Pitt, horror, Letters, Marc Forster, zombies]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/6/19/world-war-z.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7864/1371650194227/world-war-z.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:120%;"><strong>Dear Marc Forster,</strong> Director,</span>&nbsp;</em></p>

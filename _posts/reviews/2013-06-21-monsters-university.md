@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Monsters University"
 comments: true
-tags: [Animation, Letters, MOnsters University, Pixar, Prequel, Sequel]
+categories: [Animation, Letters, MOnsters University, Pixar, Prequel, Sequel]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/6/21/monsters-university.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7869/1371839897078/Monsters%20University.jpg" alt="" /></a></span></span></p>
 <p class="Body1"><span style="font-size:130%;"><strong><em>Dear Tom Myers,</em></strong><em> Sound Designer,</em></span></p>

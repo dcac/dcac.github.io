@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Great Beauty"
 comments: true
-tags: [foreign language, italian, italy, Letters, Oscars 2014, rome, The great beauty]
+categories: [foreign language, italian, italy, Letters, Oscars 2014, rome, The great beauty]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/2/27/the-great-beauty.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7976/1393513326045/The%20Great%20Beauty.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><em><strong>Dear Alessandro Brambilla,</strong> Steadicam Operator,&nbsp; </em></span></p>

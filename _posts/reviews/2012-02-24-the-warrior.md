@@ -1,16 +1,16 @@
 ---
 published: true
-categories: reviews
-image: the-warrior.jpg
+categories: [reviews,letters,fighting]
+image: warrior.jpg
 author: Jared Young
 stars: 
 excerpt: 
 position: Himself
 addressee: Bryan Callen
 layout: review
-title: "The Warrior"
+title: "Warrior"
 comments: true
-tags: [Actor, Letters, Letters]
+categories: [Actor, Letters]
 ---
 <p>I think you&rsquo;ll agree,there&rsquo;s one thing sports movies often have trouble getting right, particularly those that aspire to verisimilitude: the voice of the broadcaster. I&rsquo;m talking about the announcers, the color commentators, the play-by-play men. The guys who describe, in the most melodramatic, bombastic manner possible, exactly what is happening right in front of your eyes.</p>
 <p>The drama of sports can be measured in two equal parts: the sudden occurrence of something unexpected, and how that unexpected moment is called. Watch the 1980 Olympic hockey semi-finals or George Foreman&rsquo;s surprise knockdown of Joe Frazier with the audio turned off; it&rsquo;s certainly a different experience. Perhaps no less significant, athletically, but palpably less thrilling. Al Michaels made a career out of his incredulous rhetorical question, and Howard Cosell&rsquo;s breathless bellowing has probably been recorded on a wax disc sent into deep space as a message of our cultural complexity to alien civilizations.</p>

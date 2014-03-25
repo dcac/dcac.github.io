@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Inside Llewyn Davis"
 comments: true
-tags: [60s, Animal, cat, Coen Brothers, Ethan Coeh, Joel Coen, Letters, music, Oscar Issac, Oscars 2014, pet, trainer]
+categories: [60s, Animal, cat, Coen Brothers, Ethan Coeh, Joel Coen, Letters, music, Oscar Issac, Oscars 2014, pet, trainer]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/1/22/inside-llewyn-davis.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7944/1390408834187/Inside%20Llewn%20Davis.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><em><strong>Dear Dawn Barkan</strong>, Head Animal Trainer,</em></span></p>

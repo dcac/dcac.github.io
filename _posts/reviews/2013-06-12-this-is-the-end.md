@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "This is the End"
 comments: true
-tags: [apocalypse, comedy, Craig Robinson, Danny McBride, James Franco, Jay Baruchel, Letters, Seth Rogan]
+categories: [apocalypse, comedy, Craig Robinson, Danny McBride, James Franco, Jay Baruchel, Letters, Seth Rogan]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/6/12/this-is-the-end.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7859/1371052893523/this-is-the-end.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:120%;"><span style="font-size:120%;"><strong>Dear James Rawlings,</strong> Photo Double, </span></em></p>

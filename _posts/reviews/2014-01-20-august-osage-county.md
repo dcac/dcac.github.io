@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "August: Osage County"
 comments: true
-tags: [adaptation, drama, Julia Roberts, Letters, Meryl Streep, Oscars 2014]
+categories: [adaptation, drama, Julia Roberts, Letters, Meryl Streep, Oscars 2014]
 ---
 <div><p><span class="full-image-block ssNonEditable"><a href="/letters/2014/1/20/august-osage-county.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7940/1390230397627/AugustOsage.jpg" alt="" /></a></span></p>
 <p><em style="font-size:120%;"><span style="font-size:120%;"><strong>Dear Ceri Thomas,</strong> Mix Technician,</span></em></p>

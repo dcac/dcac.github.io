@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "American Reunion"
 comments: true
-tags: [American, Basket Case, comedy, Green Day, Pie, Reunion, Sequel, Uncategorized]
+categories: [American, Basket Case, comedy, Green Day, Pie, Reunion, Sequel, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf751e/1336618820055/americanreunion.jpg" alt="" /></span></span></p>
 <p><span style="font-size:120%;"><em><strong>Dear Jojo Villanueva,</strong> Music Supervisor,&nbsp;</em></span></p>

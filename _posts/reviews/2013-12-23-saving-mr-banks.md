@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Saving Mr. Banks"
 comments: true
-tags: [Colin Farrell, drama, Emma Thompson, Letters, Mary Poppins, Oscars 2014, P.L. Travers, Paul Giamatti, Tom Hanks, Walt Disney]
+categories: [Colin Farrell, drama, Emma Thompson, Letters, Mary Poppins, Oscars 2014, P.L. Travers, Paul Giamatti, Tom Hanks, Walt Disney]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/12/23/saving-mr-banks.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7925/1387812913387/saving-mr-banks.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:120%;"><span style="font-size:120%;"><strong>Dear Thomas McCarty, </strong>Set Lighting Technician: Disneyland Resorts,</span></em></p>

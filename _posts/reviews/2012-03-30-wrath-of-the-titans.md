@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Wrath of the Titans"
 comments: true
-tags: [fantasy, Letters, Sam Worthington, Wrath of the Titans]
+categories: [fantasy, Letters, Sam Worthington, Wrath of the Titans]
 ---
 <div><p><span class="full-image-block ssNonEditable"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7517/1336619047157/wrathofthetitans.jpg" alt="" /></span></p>
 <p><span style="font-size:120%;"><em><strong>Dear Steven Denyer, </strong>Visual Effects Artist #143</em></span></p>

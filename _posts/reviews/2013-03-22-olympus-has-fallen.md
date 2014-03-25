@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Olympus Has Fallen"
 comments: true
-tags: [Aaron Eckart, action, composer, Gerard Butler, Letters, president, white house]
+categories: [Aaron Eckart, action, composer, Gerard Butler, Letters, president, white house]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/3/22/olympus-has-fallen.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf77f5/1363965634647/Olympus%20Has%20Fallen.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Trevor Morris</strong>, Composer,</em></p>

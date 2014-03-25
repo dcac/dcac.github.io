@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Salmon Fishing in Yemen"
 comments: true
-tags: [New Releases, Romantic Comedy, Uncategorized]
+categories: [New Releases, Romantic Comedy, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7cf1/1336619507085/salmonfishing.jpg" alt="" /></span></p>
 <p><span style="font-size:120%;"><strong>Dear Paula Jack,</strong> Dialect Coach,</span></p>

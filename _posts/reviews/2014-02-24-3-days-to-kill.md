@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "3 Days to Kill"
 comments: true
-tags: [action, amber heard, kevin costner, Letters, mcg]
+categories: [action, amber heard, kevin costner, Letters, mcg]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/2/24/3-days-to-kill.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7970/1393250943084/3%20Days%20to%20Kill.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Christophe Chatel,</strong> Ripper,</em></p>

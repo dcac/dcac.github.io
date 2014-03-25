@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Wolf of Wall Street"
 comments: true
-tags: [biopic, comedy, Jonah Hill, Leonardo DiCaprio, Letters, Martin Scorsese, Matthew McConaughey, Oscars 2014]
+categories: [biopic, comedy, Jonah Hill, Leonardo DiCaprio, Letters, Martin Scorsese, Matthew McConaughey, Oscars 2014]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/1/7/the-wolf-of-wall-street.html?SSScrollPosition=0"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7933/1389067382098/wolf-of-wall-street.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:120%;"><strong><em>Dear Jordan Belfort,</em></strong><em> Actor,</em></span></p>

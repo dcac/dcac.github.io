@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Impossible"
 comments: true
-tags: [Boxing Day, Disaster, Ewan McGregor, inpired by, Letters, Namoi Watts, natural, Oscar, The Impossible, true events, true story, tsunami, water]
+categories: [Boxing Day, Disaster, Ewan McGregor, inpired by, Letters, Namoi Watts, natural, Oscar, The Impossible, true events, true story, tsunami, water]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/1/15/the-impossible.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf778e/1358263653193/The%20Impossible.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Dolofo Mart&iacute;n Crespo</strong>, Water Supervisor,</span></em></p>

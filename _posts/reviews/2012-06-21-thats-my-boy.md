@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "That's My Boy"
 comments: true
-tags: [Adam Sandler, comedy, Happy Madison, Letters]
+categories: [Adam Sandler, comedy, Happy Madison, Letters]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/6/21/thats-my-boy.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf759f/1340294630867/thats-my-boy.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:120%;"><strong>Dear Ronit Ravich-Boss,</strong> Script Supervisor,</span></em></p>

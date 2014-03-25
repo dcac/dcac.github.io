@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "How I Live Now"
 comments: true
-tags: [adaptation, coming of age, drama, Letters, U.K., world war 3, world war three, WW3, WWIII, YA, young aduklt]
+categories: [adaptation, coming of age, drama, Letters, U.K., world war 3, world war three, WW3, WWIII, YA, young aduklt]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/12/9/how-i-live-now.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7919/1386608657069/How%20I%20Live%20Now.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Nadia Luthera,</strong> Accommodations Coordinator,</span></em></p>

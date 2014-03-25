@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Vampire Academy"
 comments: true
-tags: [horror, Letters, teen, Vampire Academy]
+categories: [horror, Letters, teen, Vampire Academy]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/2/10/vampire-academy.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf795a/1392049586056/Vampire%20Academy.jpg" alt="" /></a></span></span></p>
 <p class="normal"><em style="font-size:130%;"><strong>Dear Daniel Waters,</strong> Screenwriter,</em></p>

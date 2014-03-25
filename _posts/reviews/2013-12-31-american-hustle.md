@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "American Hustle"
 comments: true
-tags: [70s, Amy Adams, Bradley Cooper, Christian Bale, David O. Russell, drama, Jennifer Lawrence, Letters, Oscars 2014]
+categories: [70s, Amy Adams, Bradley Cooper, Christian Bale, David O. Russell, drama, Jennifer Lawrence, Letters, Oscars 2014]
 ---
 <div><p><span style="font-size:120%;"><strong><em><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/12/31/american-hustle.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf792d/1388602395003/American%20Hustle.jpg" alt="" /></a></span></span></em></strong></span></p>
 <p><span style="font-size:120%;"><strong><em>Dear Kathrine Gordon, </em></strong><em>Department Head Hair Stylist</em>,</span></p>

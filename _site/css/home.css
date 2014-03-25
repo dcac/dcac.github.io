@@ -1,18 +1,21 @@
 *:focus {outline: none;}
 
+a:hover{
+  text-decoration: none;
+}
+
 .main-container{
   background-color: #fff;
   width:100%;
 }
-  .container-shadow {
-  box-shadow: 0px 0px 10px 5px #000;
+.container-shadow {
   margin-bottom: 250px;
-  }
+}
 
 .jumbotron{
   background-color: transparent;
   padding: 0;
-  margin-top:30px;
+  margin-top:125px;
 }
 img.hero-image{
   z-index: 0;
@@ -39,34 +42,62 @@ img.hero-image{
   text-transform: uppercase;
   font-weight: 800;
   font-size: 20pt;
+  line-height: 18pt;
 }
 
 .hero-title p.sub-title{
-  font-family: "Helvetica Neue", sans-serif;
-  text-transform: uppercase;
+  font-family: "Georgia", "Helvetica",sans-serif;
   line-height: 22pt;
   color:#333;
   font-size: 12pt;
   font-weight: 800;
   font-size: 14pt;
+  font-style: italic;
 }
 
 .jumbotron p.author{
   z-index: 2;
-  font-family: "Helvetica Neue", sans-serif;
   color:#333;
-  text-transform: uppercase;
+  font-family: "Georgia", "Helvetica",sans-serif;
   font-size: 10pt;
   font-weight: 200;
 }
+.col-md-6 img, .col-md-4{
+  display: none;
+}
+.col-md-6{
+  border-top: 1px solid #333;
+  background-color: #eee;
+}
+div.review-text{
+}
 
-
+div.review-text h1{
+  font-size:16pt;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 5px;
+}
+div.review-text h2{
+  font-size:10pt;
+  color: #333;
+  font-family: "Georgia", "Helvetica",sans-serif;
+  margin-top: 0;
+}
+div.review-text h2.addressee{
+  font-size:12pt;
+  font-style: italic;
+}
+div.review-text h2.author{
+  margin-bottom: 5px;
+}
 .dcac-hero-button{
   background-color: #eee;
   border-radius: 5px;
   color:#333;
   padding:2px;
 }
+
 .dcac-hero-button:hover{
   background-color: #333;
   color:#eee;
@@ -80,15 +111,16 @@ img.hero-image{
   height:110px;
   width:138px;
 }
-div.col-md-6.col-pad-remove{
-  margin-bottom: 30px;
-}
-div.col-md-6.col-pad-remove:hover div.review-text{
+/*div.col-md-6.col-pad-remove{
+  margin-bottom: 0;
+  margin-right: 0;  
+}*/
+/*div.col-md-6.col-pad-remove:hover div.review-text{
   -webkit-transform:translateY(-80px);
   color:#fff;
   background: url('../img/trans.png');
-}
-div.col-md-6.col-pad-remove:hover div.review-text .addressee, 
+}*/
+/*div.col-md-6.col-pad-remove:hover div.review-text .addressee, 
 div.col-md-6.col-pad-remove:hover div.review-text .author{
   opacity: 1;
   -o-transition:.75s;
@@ -97,11 +129,12 @@ div.col-md-6.col-pad-remove:hover div.review-text .author{
   -webkit-transition:.75s;
   color: #fff;
   display: inline;
-}
+}*/
 
 .navbar .nav > li > a{
   line-height: 6;
   color:#fff;
+  background-color: #333;
   /*margin-top: 35px;*/
 }
 .nav > li {
@@ -111,7 +144,7 @@ div.col-md-6.col-pad-remove:hover div.review-text .author{
 }
 .nav > li > a:hover,
 .nav > li > a:focus {
-  background-color: transparent;
+  background-color: #333;
 }
 .sub-review {
   font-size: 12pt;
@@ -120,17 +153,31 @@ div.col-md-6.col-pad-remove:hover div.review-text .author{
 }
 @media (min-width: 768px){
   div.review-text{
-  position: absolute;
-    font-size:12pt;
-    margin-top: -10px;
-    margin-bottom: 30px;
+    width:300px;
+    padding: 0 10px;
     -o-transition:.75s;
     -ms-transition:.75s;
     -moz-transition:.75s;
     -webkit-transition:.75s;
   }
-  .addressee, .author{
-    color: transparent;
+  .container{
+    width:960px;
+  }
+    div.review-text h1{
+    font-size:16pt;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 5px;
+  }
+    div.review-text h2{
+    font-size:10pt;
+    color: #333;
+    font-family: "Georgia", "Helvetica",sans-serif;
+    margin-top: 0;
+  }
+  div.review-text h2.addressee{
+    font-size:12pt;
+    font-style: italic;
   }
   .navbar-brand{
     background: url('../img/logo.png') 15px 15px no-repeat;
@@ -138,45 +185,119 @@ div.col-md-6.col-pad-remove:hover div.review-text .author{
   .navbar-inverse{
     height: 125px;
     /*background-color: rgba(51,51,51,.9);*/
-    background-color: transparent;
+    background-color: #333;
     border-bottom: none;
     z-index: 4;
   }
   .jumbotron p.author {
     font-size: 14pt;
     color:#fff;
+    text-transform: none;
+    text-shadow: 0 0 2px #333;
+    font-family: "Georgia", "Helvetica",sans-serif;
+  }
+  .navbar, .navbar-brand{
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
   }
   .jumbotron p.sub-title {
     font-size: 20pt;
     color:#fff;
+    text-shadow: 0 0 2px #333;
+    font-family: "Georgia", "Helvetica",sans-serif;
+    text-transform: none;
+    font-weight: 100;
+    font-style: italic;
   }
   .jumbotron h1 {
     font-size: 32pt;
-  letter-spacing: 3px;
+    line-height: 28pt;
+    letter-spacing: 3px;
     color:#fff;
+    text-shadow: 0 0 2px #333;
   }
   .jumbotron .hero-title {
     position: absolute;  
     left:10%;
-    background-color: rgba(0,0,0,.25)
+    /*background-color: rgba(0,0,0,.25)*/
   }
   .jumbotron{
-    background-color: transparent;
+    background-color: #fff;
     padding: 0;
-    margin-top:0;
+    margin-top:155px;  
   }
+  .col-md-6 img, .col-md-8{
+    display: block;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .col-md-6{
+    border-top: none;
+    background-color: transparent;
+  }
+  .col-md-4{
+    display: block;
+    padding-right: 0;
+  }
+  .sub-review{
+    width:100%;
+  }
+  .col-feature{
+    margin-bottom: 25px;
+  }
+  .row{
+    margin-bottom: 65px;
+  }
+  .film-credits{
+    background-color: #ccc;
+    margin: 0;
+    margin-bottom: 25px;
+  }
+  div.film-credits h1{
+    margin:0;
+    font-size: 10pt;
+    line-height: 20pt;
+    font-family: "Helvetica Neue", "Helvetica",sans-serif;
+    font-weight: 100;
+    letter-spacing: 2px;
+    color: 333;
+    display: block;
+    text-align: center;
+  }
+  article h1.film-credits-title{
+    font-size: 14pt;
+    font-style: italic;
+    font-family: "Georgia", serif;
+    font-weight: 100;
+    color: #333;
+    display: block;
+    text-align: left;
+    margin-left: 10px;
+  }
+  article h2.film-credits-description{
+    font-size: 12pt;
+    line-height: 20pt;
+    font-family: "Georgia", serif;
+    font-weight: 100;
+    color: #333;
+    display: block;
+    text-align: left;
+    margin-left: 10px;
+  }
+  div.film-credits article a {
+    margin-left: 10px;
+  }
+  span.film-credits-nav{
+    text-align:center;
+  }
+
 }
-.sub-review{
-  width:100%;
-}
+
 .thumbnail{
-  border:none;padding:0;
-}
-.col-md-6{
-  padding-left: 0;
-}
-.col-feature{
-  margin-bottom: 15px;
+  border:none;
+  padding:0;
 }
 
 /* Footer Syles
@@ -191,7 +312,7 @@ div.col-md-6.col-pad-remove:hover div.review-text .author{
   height:250px;
   text-align: center;
   display: block;
-  background-color:#333333;
+  background-color:#333;
   transition: all 0.4s ease 0s;
 }
 #footer.active{

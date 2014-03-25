@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Book Thief"
 comments: true
-tags: [adaptation, book, Letters, nazis, novel, Oscars 2014, The book thief, world war 2, wwII]
+categories: [adaptation, book, Letters, nazis, novel, Oscars 2014, The book thief, world war 2, wwII]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/1/20/the-book-thief.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7942/1390253114097/The%20Book%20Thief.jpg" alt="" /></a></span></span></p>
 <p class="normal"><em style="font-size:130%;"><strong>Dear Lucien Stephenson,</strong> Snow Effects Supervisor,</em></p>

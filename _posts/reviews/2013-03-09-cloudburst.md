@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Cloudburst"
 comments: true
-tags: [Academy Award, Brenda Fricker, Canadian, cinema, gay, GLBT, lesbian, Letters, Olympia Dukakis, queer, winner]
+categories: [Academy Award, Brenda Fricker, Canadian, cinema, gay, GLBT, lesbian, Letters, Olympia Dukakis, queer, winner]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/3/9/cloudburst.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf77e6/1362833477051/Cloudburst.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Tim Webber</strong>, Craft Services</em></p>

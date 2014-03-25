@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Machete Kills"
 comments: true
-tags: [action, appeal, boobs, Breasts, Letters, Machete Kills, naked, nude, nudity, Robert Rodriguez, Sequel, sex, spoof]
+categories: [action, appeal, boobs, Breasts, Letters, Machete Kills, naked, nude, nudity, Robert Rodriguez, Sequel, sex, spoof]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/10/9/machete-kills.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78e4/1381330884563/Machete%20Kills.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Elise and Electra Avellan</strong>, &ldquo;Actors&rdquo;,</span></em></p>

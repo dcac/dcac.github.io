@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Dream House"
 comments: true
-tags: [Daniel Craig, Dream House, Jim Sheridan, junk, Naomi Watts, negative, Rachel Weisz, Review, Uncategorized]
+categories: [Daniel Craig, Dream House, Jim Sheridan, junk, Naomi Watts, negative, Rachel Weisz, Review, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/8/16/dream-house.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf760a/1345124372087/Dream%20House.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><em><strong>Dear Debra Gibson,</strong> Payroll Accountant</em></span></p>

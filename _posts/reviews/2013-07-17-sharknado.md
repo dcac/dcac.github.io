@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Sharknado"
 comments: true
-tags: [sharknado, horror, Letters, low budget, mockbuster, movie, sci-fi, sharks, special, syfy, Thunder Levin, TV]
+categories: [sharknado, horror, Letters, low budget, mockbuster, movie, sci-fi, sharks, special, syfy, Thunder Levin, TV]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/7/17/sharknado.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7879/1374066056023/Sharknado2.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Thunder Levin</strong>, Writer,</span></em></p>

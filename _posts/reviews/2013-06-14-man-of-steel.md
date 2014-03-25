@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Man of Steel"
 comments: true
-tags: [comics, Letters, Russel Crow, Superman, Zack Snyder]
+categories: [comics, Letters, Russel Crow, Superman, Zack Snyder]
 ---
 <div><p>&nbsp;</p>
 <p class="Body1"><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/6/14/man-of-steel.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf785d/1371239367005/man-of-steel.jpg" alt="" /></a></span></span></p>

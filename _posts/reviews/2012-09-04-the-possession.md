@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Possession"
 comments: true
-tags: [horror, Uncategorized]
+categories: [horror, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/9/4/the-possession.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76f8/1346781491004/The%20Possession.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Ryan Mains, </strong>Trainee Assistant Location Manager,</span></em></p>

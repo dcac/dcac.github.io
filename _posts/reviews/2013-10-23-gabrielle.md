@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Gabrielle"
 comments: true
-tags: [Canadian, drama, Gabrielle, Letters, mentally challenged, Quebec, Robert Charlebois]
+categories: [Canadian, drama, Gabrielle, Letters, mentally challenged, Quebec, Robert Charlebois]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/10/23/gabrielle.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78f0/1382535940557/Gabrielle.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Robert Charlebois,</strong> Special Appearance Maker,</em></p>

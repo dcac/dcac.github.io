@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Dark Knight Rises"
 comments: true
-tags: [Bane, Batman, Christopher Nolan, DKR, Review, secrets, security, set, TDKR, The Dark Knight Rises, Uncategorized]
+categories: [Bane, Batman, Christopher Nolan, DKR, Review, secrets, security, set, TDKR, The Dark Knight Rises, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/7/19/the-dark-knight-rises.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf75dd/1342709650597/The%20Dark%20Knight%20Rises%20Bane.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><em><strong>Dear Jason Devil,</strong> Set Security,</em></span></p>

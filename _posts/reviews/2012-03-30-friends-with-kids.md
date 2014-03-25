@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Friends with Kids"
 comments: true
-tags: [Adam Scott, Chris O'Dowd, comedy, Ensemble, Friends with Kids, Jennifer Westfeldt, Jon Hamm, Kristen Wiig, Letters, Maya Rudolph, netflix.ca]
+categories: [Adam Scott, Chris O'Dowd, comedy, Ensemble, Friends with Kids, Jennifer Westfeldt, Jon Hamm, Kristen Wiig, Letters, Maya Rudolph, netflix.ca]
 ---
 <div><p><span class="full-image-block ssNonEditable"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7514/1336619293083/friendswithkids.jpg" alt="" /></span></p>
 <p><span style="font-size:130%;"><em><strong>Dear Tiffany Little Canfield</strong>, Casting Director,</em></span></p>

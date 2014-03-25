@@ -13,12 +13,12 @@ input[type=text]{
   border-top: 0;
   border-left: 0;
   border-right: 0;
-  border-bottom: 0.5px
+  border-bottom: 1px;
   border-color: #fff;
   background: transparent;
   font-size: 36pt;
   color: #fff;
-  font-family: "Helvetica Neue", Helvetica;
+  font-family: "Helvetica Neue", "Helvetica",sans-serif;
 }
 .search-results{
   width:80%;
@@ -28,6 +28,26 @@ input[type=text]{
   color:#fff;
 }
 
+.search-modal-icon{
+  font-size: 24pt;
+  float: left;
+  color:#fff;
+}
+p.search-result{
+  font-size: 24px;
+  font-family: "Helvetica Neue", "Helvetica",sans-serif;
+  color:#fff;
+  letter-spacing: 1px;
+  line-height: 26px;
+  margin-top: 20px;
+}
+p.search-result a{
+  font-weight: bold;
+  text-decoration: none;
+}
+p.search-result a:hover{
+  text-decoration: underline;
+}
 .search-modal{
   width: 100%;
   height:100%;
@@ -36,6 +56,7 @@ input[type=text]{
   position: fixed;
   top:0;
   left:0;
+  overflow: scroll;
 }
 #search-modal{
   display: none;

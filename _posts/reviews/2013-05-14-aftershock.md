@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Aftershock"
 comments: true
-tags: [aftershock, CHile, Disaster, earthquake, Eli Roth, horror, independent, Letters, low budget, movie, tsunami]
+categories: [aftershock, CHile, Disaster, earthquake, Eli Roth, horror, independent, Letters, low budget, movie, tsunami]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/5/14/aftershock.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf782d/1368535770021/Aftershock.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Contanza Garcia</strong>, Make-up and Tattoo Artist,</span></em></p>

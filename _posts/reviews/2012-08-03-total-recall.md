@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Total Recall"
 comments: true
-tags: [aaction, Colin Farrell, Jessica Biel, Kate Beckinsale, Len Wiseman, Philip K. Dick, Remake, sci-fi, Total recall, Uncategorized]
+categories: [aaction, Colin Farrell, Jessica Biel, Kate Beckinsale, Len Wiseman, Philip K. Dick, Remake, sci-fi, Total recall, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/8/3/total-recall.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf75ec/1344019761317/Total%20Recall.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><em><strong>Dear Andy Potter,</strong> Environment Artist,</em></span></p>

@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Good Ol' Freda"
 comments: true
-tags: [documentary, fan club, Freda Kelly, Letters, music, The Beatles]
+categories: [documentary, fan club, Freda Kelly, Letters, music, The Beatles]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/9/25/good-ol-freda.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78ce/1380118656827/Good%20Ol'%20Freda.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><em><strong>Dear Helen Kearns</strong>, Editor and Co-Producer,</em></span></p>

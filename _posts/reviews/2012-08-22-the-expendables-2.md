@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Expendables 2"
 comments: true
-tags: [action, arnold schwarzenegger, bruce willis, chuck norris, expendables, Jason Statham, Letters, sylvester stallone]
+categories: [action, arnold schwarzenegger, bruce willis, chuck norris, expendables, Jason Statham, Letters, sylvester stallone]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/8/22/the-expendables-2.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf761a/1353420877177/expendables-2.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:120%;"><em><strong>Dear Brian Wentzel,</strong> Key Armourer</em></span></p>

@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Wanderlust"
 comments: true
-tags: [Paul Rudd, Postcards, Stand-In, Wanderlust]
+categories: [Paul Rudd, Postcards, Stand-In, Wanderlust]
 ---
 <div><p><strong><span class="full-image-block ssNonEditable"><span><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf74ee/1336621148013/wander.jpg" alt="" /></span></span></strong></p>
 <p><span style="font-size:120%;"><em><strong>Dear Michael Dean,</strong> Stand-In for Mr. Rudd</em></span></p>

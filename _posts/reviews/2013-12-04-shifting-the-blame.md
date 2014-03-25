@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Shifting the Blame"
 comments: true
-tags: [drama, EU FIlm Festival 2013, EUFF, Festivals, Germany, Letters, Shifting the Blame]
+categories: [drama, EU FIlm Festival 2013, EUFF, Festivals, Germany, Letters, Shifting the Blame]
 ---
 <div><p style="text-align:center;"><em><a href="/letters/tag/eu-film-festival-2013"><span style="text-decoration:underline;"><strong>2013 European Union Film Festival coverage</strong></span></a></em></p>
 <p><span class="full-image-block ssNonEditable"><a href="/letters/2013/12/4/shifting-the-blame.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7915/1386167644517/Shifting%20the%20Blame.jpg" alt="" /></a></span></p>

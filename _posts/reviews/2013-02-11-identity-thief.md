@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Identity Thief"
 comments: true
-tags: [comedy, Jason Bateman, Letters, Melissa McCarthy]
+categories: [comedy, Jason Bateman, Letters, Melissa McCarthy]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/2/11/identity-thief.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf77b4/1360617771587/identity-thief.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:120%;"><strong><em>Dear Jason Bateman,</em> Actor,</strong></span></p>

@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Lone Survivor"
 comments: true
-tags: [courage, events, inspired by, Letters, Lone survivor, military, Oscars 2014, Peter Berg, survivor, true, true story, war]
+categories: [courage, events, inspired by, Letters, Lone survivor, military, Oscars 2014, Peter Berg, survivor, true, true story, war]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/1/9/lone-survivor.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7935/1389280118867/Lone%20Survivor.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Timothy C. Sullivan,</strong> Development Executive,</span></em></p>

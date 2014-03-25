@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Here Comes the Boom"
 comments: true
-tags: [Bas Rutten, Boom operator, fat, fighter, Henry Winkle, Here Comes the Boom, Kevin James, MMA, Salma Hayek, UFC, Uncategorized]
+categories: [Bas Rutten, Boom operator, fat, fighter, Henry Winkle, Here Comes the Boom, Kevin James, MMA, Salma Hayek, UFC, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/10/12/here-comes-the-boom.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76cc/1350051225002/Here%20Comes%20the%20Boom.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Joel Reidy,</strong> Boom Operator</span></em></p>

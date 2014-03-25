@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Avengers"
 comments: true
-tags: [action, Avengers, Captain America, Chris Evans, Chris Hemsworth, comics, Hulk, Iron Man, Joss Whedon, Letters, Mark Ruffalo, Robert Downey Jr., Thor]
+categories: [action, Avengers, Captain America, Chris Evans, Chris Hemsworth, comics, Hulk, Iron Man, Joss Whedon, Letters, Mark Ruffalo, Robert Downey Jr., Thor]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/5/10/the-avengers.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7567/1336708071357/Avengers.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:120%;"><em><strong>Dear Jared Young, Age 12, </strong>Future Reviewer of The Avengers,</em></span></p>

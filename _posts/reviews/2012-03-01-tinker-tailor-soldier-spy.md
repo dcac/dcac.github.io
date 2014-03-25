@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Tinker Tailor Soldier Spy"
 comments: true
-tags: [Letters, Letters, Screenwriter, Tinker Tailor Soldier Spy]
+categories: [Letters, Letters, Screenwriter, Tinker Tailor Soldier Spy]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf74e7/1336621312093/tinkertaylor.jpg" alt="" /></span></span></p>
 <p><span style="font-size:120%;"><em><strong>Dear Peter Straughan,</strong> Screenwriter,</em></span></p>

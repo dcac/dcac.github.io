@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "You're Next"
 comments: true
-tags: [bloody, comedy, composer, dark, home invasion, horror, Letters, music, score, thriller]
+categories: [bloody, comedy, composer, dark, home invasion, horror, Letters, music, score, thriller]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/8/27/youre-next.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78a1/1377610436817/You're%20Next.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><strong><em>Dear Mads Heldtberg</em></strong><em>, Composer</em></span></p>

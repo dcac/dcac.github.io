@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Downhill Racer"
 comments: true
-tags: [Criterion Collection, Letters to the Dead, Natalie Wood, Robert Redford, Uncategorized, Zip.ca]
+categories: [Criterion Collection, Letters to the Dead, Natalie Wood, Robert Redford, Uncategorized, Zip.ca]
 ---
 <div><p><span class="full-image-block ssNonEditable"><a href="/letters/2012/5/14/downhill-racer.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7572/1337017140055/Downhill%20Racer.jpg" alt="" /></a></span></p>
 <p><em style="font-size:120%;"><span style="font-size:120%;"><strong>Dear Natalie Wood, </strong>Production Assistant,</span></em></p>

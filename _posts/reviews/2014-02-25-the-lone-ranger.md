@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Lone Ranger"
 comments: true
-tags: [Letters, Oscars 2014]
+categories: [Letters, Oscars 2014]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/2/25/the-lone-ranger.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7972/1393342054071/The%20Lone%20Ranger.jpg" alt="" /></a></span></span></p>
 <p class="Body"><em style="font-size:130%;"><strong>Dear Mike Thurman,</strong> Set Dressing Gangboss,</em></p>

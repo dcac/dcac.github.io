@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "ParaNorman"
 comments: true
-tags: [Animation, claymation, comedy, Family, Uncategorized]
+categories: [Animation, claymation, comedy, Family, Uncategorized]
 ---
 <div><p><strong><em><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/8/20/paranorman.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7611/1345479641373/paranorman.jpg" alt="" /></a></span></span></em></strong></p>
 <p><strong><em><span style="font-size:120%;">Dear Liz Allen,</span></em></strong><em><span style="font-size:120%;"> Silicone Caster,</span></em></p>

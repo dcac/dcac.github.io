@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Jeff, Who Lives at Home"
 comments: true
-tags: [comedy, Ed Helms, Jason Segel, Letters, mumblecore, netflix.ca, Susan Sarandon]
+categories: [comedy, Ed Helms, Jason Segel, Letters, mumblecore, netflix.ca, Susan Sarandon]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/1/16/jeff-who-lives-at-home.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7790/1358364823083/Jeff%20WHo%20Lives%20at%20Home.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:120%;"><span style="font-size:120%;"><strong>Dear Jacob Bryce,</strong> Ukulele Soloist on the Song &#8220;Dents&#8221; by The Acorn,</span></em></p>

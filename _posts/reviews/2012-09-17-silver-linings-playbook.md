@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "TIFF: Silver Linings Playbook"
 comments: true
-tags: [Audience award, Bradley Cooper, buzz, Chris Tucker, David O. Russell, Jacki Weaver, Jennifer Lawrence, Julia Stiles, Oscar, Robert DeNiro, TIFF, Uncategorized]
+categories: [Audience award, Bradley Cooper, buzz, Chris Tucker, David O. Russell, Jacki Weaver, Jennifer Lawrence, Julia Stiles, Oscar, Robert DeNiro, TIFF, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/9/17/silver-linings-playbook.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7658/1347907510417/Silver%20Linings%20Playbook.jpg" alt="" /></a></span></span></p>
 <p><em><strong><span style="font-size:130%;">Dear Devin Donegan, </span></strong><span style="font-size:130%;">Key Video Assist</span></em></p>

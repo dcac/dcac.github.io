@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "Dark Shadows"
 comments: true
-tags: [comedy, horror, Jonny Depp, Letters, Tim Burton]
+categories: [comedy, horror, Jonny Depp, Letters, Tim Burton]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/5/11/dark-shadows.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf756a/1336757682082/Dark%20Shadows1.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:120%;"><em><strong>Dear Richard Wild,</strong> Weather Consultant,</em></span></p>

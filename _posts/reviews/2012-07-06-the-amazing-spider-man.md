@@ -10,7 +10,7 @@ addressee:
 layout: review
 title: "The Amazing Spider-Man"
 comments: true
-tags: [action, Amazing Spider-Man, Andrew Garfield, comics, Emma Stone, Letters, Marc Webb, Sam Raimi]
+categories: [action, Amazing Spider-Man, Andrew Garfield, comics, Emma Stone, Letters, Marc Webb, Sam Raimi]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/7/6/the-amazing-spider-man.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf75a8/1341581324447/amazing-spider-man.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:120%;"><em><strong>Dear James Horner,</strong> Compos</em>er</span></p>
