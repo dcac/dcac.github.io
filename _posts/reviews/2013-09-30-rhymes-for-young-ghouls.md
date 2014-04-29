@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Rhymes for Young Ghouls"
 comments: true
-categories: [Canada, Canadian, cinema, First Nation, Jeff Barnaby, Letters, native, TIFF, Toronto International Film Festival, writer/director, Zboriginal]
+tags: [Canada, Canadian, cinema, First Nation, Jeff Barnaby, Letters, native, TIFF, Toronto International Film Festival, writer/director, Zboriginal]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/9/30/rhymes-for-young-ghouls.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78d2/1380553773035/Rhymes%20for%20Young%20Ghouls.jpg" alt="" /></a></span></span></p>
 <p class="Normal1"><em style="font-size:130%;"><strong>Dear Jeff Barnaby,</strong> Writer/Director,</em></p>

@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image: cloud-atlas.jpg
 author: 
 stars: 5
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "TIFF: Cloud Atlas"
 comments: true
-categories: [Cloud Atlas, fantasy, Halle Berry, Hugh Grant, Jim Broadbent, Premiere, Reviews, sci-fi, Susan Sarandon, TIFF, Tom Hanks, Uncategorized, Wachowskis]
+tags: [Cloud Atlas, fantasy, Halle Berry, Hugh Grant, Jim Broadbent, Premiere, Reviews, sci-fi, Susan Sarandon, TIFF, Tom Hanks, Uncategorized, Wachowskis]
 ---
 <p><em><span style="font-size:130%;"><strong>Dear Glynn Henderson,</strong> Safety Consultant</span></em></p>
 <p>I&rsquo;m so glad nobody listened to you. <em>Cloud Atlas </em>is unbelievably ambitious, unusually paced and virtually indescribable. The story gleefully spans centuries but snubs chronology, relentlessly repurposes actors, mixes genres and genders, and seems to basically disregard everything we&rsquo;ve seen before about how to make an epic. Hollywood filmmaking until this point might one day be referred to as B.C.A. (Before Cloud Atlas). &nbsp;Whatever advice you provided for playing it safe clearly fell on deaf ears. This might be the most dangerous film ever made.</p>

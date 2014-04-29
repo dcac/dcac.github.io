@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Only God Forgives"
 comments: true
-categories: [art house, bangkok, boxing, Cannes, hey girl, Letters, muay thai, only god forgives, Ryan Gosling, thailand, violent]
+tags: [art house, bangkok, boxing, Cannes, hey girl, Letters, muay thai, only god forgives, Ryan Gosling, thailand, violent]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/8/1/only-god-forgives.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf787f/1375383138593/Only%20God%20Forgives.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Kapong &lsquo;Shi&rsquo; Kornporiphan,</strong> Still Photographer,</span></em></p>

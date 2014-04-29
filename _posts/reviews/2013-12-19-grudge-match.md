@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Grudge Match"
 comments: true
-categories: [Bechdel Test, boxing, comedy, drama, feminist, junk, Letters]
+tags: [Bechdel Test, boxing, comedy, drama, feminist, junk, Letters]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/12/19/grudge-match.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7920/1387467186657/Grudge%20Match.jpg" alt="" /></a></span></span></p>
 <p class="normal"><em><span style="font-size:130%;"><strong>Dear Brigitte Fauchaux,</strong> Video Graphics Designer,</span></em></p>

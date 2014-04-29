@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "The Paperboy"
 comments: true
-categories: [drama, Lee Daniels, Letters, Matthew McConaughey, Nicole Kidman, Zac Efron]
+tags: [drama, Lee Daniels, Letters, Matthew McConaughey, Nicole Kidman, Zac Efron]
 ---
 <div><p><span style="font-size:120%;"><strong><em><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/10/26/the-paperboy.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76e4/1351275666627/paperboy.jpg" alt="" /></a></span></span>Dear Dennis Grzesik, </em></strong><em>Sound Mixer: Additional Photography</em>,</span></p>
 <p>I&rsquo;d like to know what the panic in director Lee Daniels&rsquo; voice sounded like when he assembled the team for additional photography on <em>The Paperboy.</em> Because &ndash; and I&rsquo;m taking a bit of a guess about the additional sound you mixed &ndash; but I&rsquo;m willing to bet that it was Macy Gray&rsquo;s voiceover.</p>

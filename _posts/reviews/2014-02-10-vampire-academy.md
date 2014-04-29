@@ -1,21 +1,20 @@
 ---
 published: true
-categories: reviews
-image:
-author: 
-stars: 
+imdb: tt1686821
+image: vampire-academy.jpg
+author: Di Golding
+stars: 1.5
 excerpt: 
-position: 
-addressee: 
+position: Screenwriter
+addressee: Daniel Waters
 layout: review
+categories: reviews
 title: "Vampire Academy"
 comments: true
-categories: [horror, Letters, teen, Vampire Academy]
+tags: [horror, Letters, teen, Vampire Academy]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/2/10/vampire-academy.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf795a/1392049586056/Vampire%20Academy.jpg" alt="" /></a></span></span></p>
-<p class="normal"><em style="font-size:130%;"><strong>Dear Daniel Waters,</strong> Screenwriter,</em></p>
 <p class="normal">A film with the title &lsquo;<em>Vampire Academy&rsquo;</em> is a license to print money. The only other two words likely to get the core demographic this excited might be &#8216;Free Uggs&#8217;. You could have written this script on a cocktail napkin, drunk, and it still would have put Lulu Lemon-clad butts in the seats. Unfortunately, you did something even worse. You actually tried to write a vampire movie that didn&rsquo;t suck&mdash;and you failed.</p>
-<p class="normal">It&rsquo;s even more disappointing given the film&rsquo;s pedigree, which I stupidly allowed to get my hopes up. Sadder still is that this movie will probably gross more than ten times the GDP of Burundi, which might lead you to confuse popularity with quality.</p>
+<p>It&rsquo;s even more disappointing given the film&rsquo;s pedigree, which I stupidly allowed to get my hopes up. Sadder still is that this movie will probably gross more than ten times the GDP of Burundi, which might lead you to confuse popularity with quality.</p>
 <p class="normal">The director &ndash; your brother Mark &ndash; has helmed two of the better teen-targeted films of the 2000s. <em>Freaky Friday</em> and <em>Mean Girls</em> were both notable for transcending their target demo. Maybe if you hadn&rsquo;t written one of the sharpest, funniest, darkest teen films of all time, I wouldn&rsquo;t have anticipated that you and your brother might once again achieve teen movie nirvana. Could it be that your inspirational well was already sucked dry by writing such dark-souled vampiric female characters in <em>Heathers</em>? Your next script, <em>Hudson Hawk</em>, failed spectacularly and later became a cult classic (but at least has the self-respect to be popular ironically).</p>
 <p class="normal">Your convoluted plot is explained as breathlessly as a fifteen year-old girl might describe a spat at the spring formal; there are good guys and bad guys and bad good guys and good bad guys. Rose Hathaway is a 17-year-old half-human/half-vampire Dhampir, training to be a guardian to her best friend, Lissa, who is a peaceful, mortal vampire of royal blood who must be protected from the Strigoi (aka. the undead, immortal vampires). It&rsquo;s all rather exhausting, and none of it really matters unless you care about the players, which is impossible since you&rsquo;ve drawn them so palely.</p>
 <p class="normal">As I watched Rose valiantly attempt to spit out your Aaron Sorkin-lite rapid-fire dialogue, I was reminded of that other firecracker of a teen heroine, Veronica Mars, a wise beyond her years go-getter. But unlike Veronica, Rose isn&rsquo;t given lines with any crackle or nuance, and spends her time either delivering or receiving exposition. She does much of this in a too-tight sports bra while her trainer/love interest, Dmitri (Danila Kozlovsky), struggles to provide vital plot information in his thick Russian accent. This Baltic Taylor Kitsch is physically perfect for the role, but way out of his depth. Couldn&rsquo;t you have gone easier on the poor hunk during the on-set rewrites? Or gone easier on us? Subtitles maybe?</p>
@@ -24,5 +23,3 @@ categories: [horror, Letters, teen, Vampire Academy]
 <p class="normal">I get the feeling you wanted <em>Vampire Academy</em> to be the vampire movie for the cool kids and the cool parents. To be the Un-<em>Twilight</em>. You&rsquo;re pretty explicit about it, in fact: voice-over assures us early on that the vampires in this world &ldquo;don&rsquo;t sparkle&rdquo;. But they don&rsquo;t exactly shine either. You and I both know this film will make a mint regardless of whether it&rsquo;s good or not, and maybe you&rsquo;re okay with that. But I have a feeling that the guy known for creating clever films for those on the fringe might not feel comfortable knowing he&rsquo;s made a middling blockbuster for everybody.</p>
 <p class="normal">Sitting this dance out,</p>
 <p class="normal">Di</p>
-<p class="normal"><em><strong>Status: Return to Sender (1.5/5)</strong></em></p>
-<p>&nbsp;</p></div>

@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "The Hospital"
 comments: true
-categories: [drama, George C. Scott, Letters, Paddy Chaefsky, Zip.ca]
+tags: [drama, George C. Scott, Letters, Paddy Chaefsky, Zip.ca]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/6/14/the-hospital.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf759d/1340051303117/the-hospital.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:120%;"><em><strong>Dear Howard Gottfried,</strong> Producer</em></span></p>

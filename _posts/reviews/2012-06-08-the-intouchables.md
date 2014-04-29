@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "The Intouchables"
 comments: true
-categories: [comedy, drama, French, Intouchables, Letters]
+tags: [comedy, drama, French, Intouchables, Letters]
 ---
 <div><p><span class="full-image-block ssNonEditable"><a href="/letters/2012/6/8/the-intouchables.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7593/1339187400094/Intouchables.JPG" alt="" /></a></span></p>
 <p><span style="font-size:130%;"> </span></p>

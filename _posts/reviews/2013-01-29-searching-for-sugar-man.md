@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Searching for Sugar Man"
 comments: true
-categories: [documentary, Letters, oscars, Sixto Rodriguez]
+tags: [documentary, Letters, oscars, Sixto Rodriguez]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/1/29/searching-for-sugar-man.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf77a9/1359491955473/searching-for-sugar-man.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:120%;"><strong><em>Dear Per Nystr&ouml;m,</em></strong><em> Supervising Sound Editor,</em></span></p>

@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Thor: The Dark World"
 comments: true
-categories: [Uncategorized]
+tags: [Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7901/1383925070977/Thor%20The%20Dark%20World.jpg" alt="" /></span></p>
 <p><em style="font-size:120%;"><span style="font-size:120%;"><strong>Dear Magdalena Kusowska, </strong>Concept Artist,</span></em></p>

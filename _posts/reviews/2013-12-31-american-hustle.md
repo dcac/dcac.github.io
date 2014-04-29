@@ -1,19 +1,17 @@
 ---
 published: true
-categories: reviews
-image:
-author: 
-stars: 
+image: american-hustle.jpg
+author: Casey Tourangeau
+stars: 3.5
 excerpt: 
-position: 
-addressee: 
+position: Head Hair Stylist
+addressee: Kathrine Gordon
 layout: review
+categories: reviews
 title: "American Hustle"
 comments: true
-categories: [70s, Amy Adams, Bradley Cooper, Christian Bale, David O. Russell, drama, Jennifer Lawrence, Letters, Oscars 2014]
+tags: [70s, Amy Adams, Bradley Cooper, Christian Bale, David O. Russell, drama, Jennifer Lawrence, Letters, Oscars 2014]
 ---
-<div><p><span style="font-size:120%;"><strong><em><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/12/31/american-hustle.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf792d/1388602395003/American%20Hustle.jpg" alt="" /></a></span></span></em></strong></span></p>
-<p><span style="font-size:120%;"><strong><em>Dear Kathrine Gordon, </em></strong><em>Department Head Hair Stylist</em>,</span></p>
 <p>David O. Russell&rsquo;s <em>American Hustle</em> opens with a scene in which Christian Bale, playing conman Irving Rosenfeld, laboriously styles an impressive combover designed by you. This ritual is clearly part of his warm-up before a con, his way of building up his own confidence before working on a mark&rsquo;s. We&rsquo;re never really sure if he thinks he&rsquo;s fooling anyone &ndash; that bald spot is just too big to hide &ndash; but that&rsquo;s kind of the point. As an audience, we&rsquo;re being set up for the long con, never sure when someone is genuine or not, and whether they know we know they&rsquo;re being genuine or not. That&rsquo;s both the fun and frustration of <em>American Hustle</em>.&nbsp;</p>
 <p>Set in late 70s New York, <em>American Hustle</em> is a sort-of-true, sort-of-made-up (an introductory title card playfully states &ldquo;Some of this actually happened.&rdquo;) tale inspired by the real FBI &ldquo;Abscam&rdquo; sting operation. Rosenfeld, a glass salesman/dry-cleaning owner/conman, specializes in duping desperate people into paying him advances on loans that don&rsquo;t exist. It&rsquo;s a disco-era version of today&rsquo;s email scams except his partner, Sydney Prosser (Amy Adams), pretends to be a British bank executive instead of a deposed Nigerian prince.&nbsp; The trick to making people want to give you their money, Rosenfeld says, is to say &ldquo;No&rdquo; over and over. The more you say it, the more they want to give you their money.</p>
 <p>When someone finally does says no back to them, it&rsquo;s FBI agent Richie DiMaso (Bradley Cooper), who uses the threat of jail time to force Rosenfeld and Prosser into working for him, using their skills to catch bigger fish. Obsessed with making a name for himself in the bureau, DiMaso keeps upping the ante, from small time hoods to local congressmen state senators, and even the Mafia. Pulled into this is Camden, New Jersey mayor Carmine Polito (Jeremy Renner) and Rosenfeld&rsquo;s wife Rosalyn (Jennifer Lawrence).</p>
@@ -23,4 +21,3 @@ categories: [70s, Amy Adams, Bradley Cooper, Christian Bale, David O. Russell, d
 <p>And in a movie about the con &ndash;- the ones we play on ourselves as well as others &ndash; everything needs to hold together as the credits roll. It all needs to make sense in the rear view, so you walk away believing. As hard as it works to keep everything in place, American Hustle ends with enough loose strands that it looks a little too thrown together instead of what it wants to be: elegant.</p>
 <p>Just trying to keep everything in place,</p>
 <p>Casey</p>
-<p><strong><em>Status: Air Mail (3.5/5)</em></strong></p></div>

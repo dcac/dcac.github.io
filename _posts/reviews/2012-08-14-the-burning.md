@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "The Burning"
 comments: true
-categories: [horror, jason alexander, Letters, summer camp, Summer Camp]
+tags: [horror, jason alexander, Letters, summer camp, Summer Camp]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/8/14/the-burning.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7604/1344962176643/the-burning.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:120%;"><strong>Letters from Slasher Camp:&nbsp;</strong>Dear Jason Alexander, Actor,</em><br /> <br /> Ah, Jason. I can&#8217;t help but regret that you weren&#8217;t the leading man in <em>The Burning</em>. How amazing would it be to have a young George Can&#8217;t-Stand-Ya going toe-to-toe with Cropsy, the deranged killer described in the film as having &ldquo;a face like a fucking Big Mac, overdone!&#8221;?</p>

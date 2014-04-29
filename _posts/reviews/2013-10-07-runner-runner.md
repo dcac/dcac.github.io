@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Runner Runner"
 comments: true
-categories: [Ben Affleck, Costa Rica, crocodile, Gambling, Justin Timberlake, Letters, online, Runner Runner]
+tags: [Ben Affleck, Costa Rica, crocodile, Gambling, Justin Timberlake, Letters, online, Runner Runner]
 ---
 <div><p><span class="full-image-block ssNonEditable"><a href="/letters/2013/10/7/runner-runner.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78df/1381161897107/Runner%20Runner.jpg" alt="" /></a></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Crocodile</strong>, Performer</span></em></p>

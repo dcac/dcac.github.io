@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Fast & Furious 6"
 comments: true
-categories: [action, Car, Chris Ludacris Bridges, fast, Fast and Furious 6, furious, Jordana Brewster, Letters, Paul Walker, Sequel, Sung Kang, Tyrese Gibson, Vin Disel]
+tags: [action, Car, Chris Ludacris Bridges, fast, Fast and Furious 6, furious, Jordana Brewster, Letters, Paul Walker, Sequel, Sung Kang, Tyrese Gibson, Vin Disel]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/5/27/fast-furious-6.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7835/1369679074016/Fast%20and%20Furious%206.jpg" alt="" /></a></span></span></p>
 <p><em><strong><span style="font-size:130%;">Dear David C.P. Chan,</span></strong><strong style="font-size:130%;"> </strong><span style="font-size:130%;">Action Sequence Designer,</span></em></p>

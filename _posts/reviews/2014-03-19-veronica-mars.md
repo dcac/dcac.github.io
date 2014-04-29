@@ -1,6 +1,6 @@
 ---
 published: true
-categories: reviews
+imdb: tt2771372
 image: veronica-mars.jpg
 author: Di Golding
 stars: 2.5
@@ -8,9 +8,10 @@ excerpt:
 position: Theme Song	
 addressee: '"We Used to Be Friends"'
 layout: review
+categories: reviews
 title: "Veronica Mars"
 comments: true
-categories: [Kickstarter, Kristen Bell, Letters, TV, Veronica Mars]
+tags: [Kickstarter, Kristen Bell, Letters, TV, Veronica Mars]
 ---
 <p>Last year, when <em>Veronica Mars</em> creator Rob Thomas and series star Kristen Bell launched their Kickstarter campaign to finance a feature-length <em>Veronica Mar</em>s film, it was the show&rsquo;s loyal fans who brought it back to life. I was a fan, too, but your opening lyrics encapsulated how I felt about the whole endeavor:</p>
 <p style="padding-left:30px;"><em>A long time ago, we used to be friends</em></p>

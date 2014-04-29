@@ -1,16 +1,17 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
-stars: 
+stars: 4
 excerpt: 
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "The Hunger Games"
 comments: true
-categories: [Jennifer Lawrence, Kelly Doty, Letters, netflix.ca, Post-Prouction Intern, Review, The Hunger Games]
+streaming: true
+tags: [Jennifer Lawrence, Kelly Doty, Letters, netflix.ca, Post-Prouction Intern, Review, The Hunger Games]
 ---
 <div><p><span class="full-image-block ssNonEditable"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf750d/1336619375093/hungergames.jpg" alt="" /></span></p>
 <p><em style="font-size:120%;"><span style="font-size:120%;"><strong>Dear Kelly Doty,</strong> Post-Production Intern,</span></em></p>

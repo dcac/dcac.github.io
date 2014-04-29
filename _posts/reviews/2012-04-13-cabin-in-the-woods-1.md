@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Cabin in the Woods"
 comments: true
-categories: [Cabin in the Woods, comedy, horror, Joss Whedon, Letters, negative, Review 2]
+tags: [Cabin in the Woods, comedy, horror, Joss Whedon, Letters, negative, Review 2]
 ---
 <div><p><span class="full-image-block ssNonEditable"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7537/1336617633673/cabin.jpg" alt="" /></span></p>
 <p><em style="font-size:90%;">Warning: Split opinions! Also see <a href="/letters/2012/4/13/cabin-in-the-woods.html">Jared Young&#8217;s review</a>.</em></p>

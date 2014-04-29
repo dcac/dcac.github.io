@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Lee Daniels' The Butler"
 comments: true
-categories: [Forest Whitaker, Harvey Weinstein, Lee Daniels, Letters, Oprah, Oscar, The Butler]
+tags: [Forest Whitaker, Harvey Weinstein, Lee Daniels, Letters, Oprah, Oscar, The Butler]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/9/5/lee-daniels-the-butler.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78af/1378386368047/Lee%20Daniels%20The%20Butler.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><em><strong>Dear Harvey Weinstein</strong>, Executive Producer,</em></span></p>

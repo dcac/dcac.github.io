@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Captain Phillips"
 comments: true
-categories: [Oscars 2014, Uncategorized]
+tags: [Oscars 2014, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78ea/1382124465079/captain-phillips.jpg" alt="" /></span></p>
 <p><em style="font-size:130%;"><strong style="font-size:90%;">Dear Chris Basso, Transportation Captain,</strong></em></p>

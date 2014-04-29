@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "I'm an Old Communist Hag"
 comments: true
-categories: [communist, dictator, EU Film Festival, EU FIlm Festival 2013, EUFF, Festivals, Letters, Romania, Romanian]
+tags: [communist, dictator, EU Film Festival, EU FIlm Festival 2013, EUFF, Festivals, Letters, Romania, Romanian]
 ---
 <div><p style="text-align:center;"><em><a href="/letters/tag/eu-film-festival-2013"><span style="text-decoration:underline;"><strong>2013 European Union Film Festival coverage</strong></span></a></em></p>
 <p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/11/25/im-an-old-communist-hag.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf790f/1385391470163/I'm%20an%20Old%20Communist%20Hag.jpg" alt="" /></a></span></span></p>

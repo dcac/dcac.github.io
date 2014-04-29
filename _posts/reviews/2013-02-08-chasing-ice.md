@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Chasing Ice"
 comments: true
-categories: [Before My Time, Best song, Extreme Ice Survey, J. Ralph, James Balog, lapse, Letters, Oscar, photography, Scarlett Johansson, time]
+tags: [Before My Time, Best song, Extreme Ice Survey, J. Ralph, James Balog, lapse, Letters, Oscar, photography, Scarlett Johansson, time]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/2/8/chasing-ice.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf77b2/1360357179383/Chasing%20Ice.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Austin Post</strong>, Time-Lapse Photographer,</em></p>

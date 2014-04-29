@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Inch'Allah"
 comments: true
-categories: [Anas Barbeau-Lavalette, Canadian, conflict, doctor, drama, Israel, Kim McGraw, Letters, medicine, Middle East, Palestine]
+tags: [Anas Barbeau-Lavalette, Canadian, conflict, doctor, drama, Israel, Kim McGraw, Letters, medicine, Middle East, Palestine]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/3/1/inchallah.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf77da/1362170321407/Inch'Allah.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><em><strong>Dear Kim McGraw</strong>, Producer</em></span></p>

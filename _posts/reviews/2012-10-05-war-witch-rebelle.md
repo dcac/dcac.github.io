@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "War Witch (Rebelle)"
 comments: true
-categories: [Africa, Berlinale, Canada, Canadian, child soldier, Congo, Kim Nguyen, Oscar, Rachel Mwanza, Rebelle, Uncategorized, war, War Witch]
+tags: [Africa, Berlinale, Canada, Canadian, child soldier, Congo, Kim Nguyen, Oscar, Rachel Mwanza, Rebelle, Uncategorized, war, War Witch]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/10/5/war-witch-rebelle.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76c2/1349441309011/War%20Witch.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Lucie Bourgouin,</strong> Release Coordinator</em></p>

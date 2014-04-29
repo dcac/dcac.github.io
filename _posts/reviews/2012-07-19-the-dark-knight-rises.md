@@ -1,19 +1,17 @@
 ---
 published: true
-categories: reviews
-image:
-author: 
-stars: 
+image: the-dark-knight-rises.jpg
+author: Christopher Redmond
+stars: 4.5
 excerpt: 
-position: 
-addressee: 
+position: Set Security
+addressee: Jason Devil
 layout: review
+categories: reviews
 title: "The Dark Knight Rises"
 comments: true
-categories: [Bane, Batman, Christopher Nolan, DKR, Review, secrets, security, set, TDKR, The Dark Knight Rises, Uncategorized]
+tags: [Bane, Batman, Christopher Nolan, DKR, Review, secrets, security, set, TDKR, The Dark Knight Rises]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/7/19/the-dark-knight-rises.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf75dd/1342709650597/The%20Dark%20Knight%20Rises%20Bane.jpg" alt="" /></a></span></span></p>
-<p><span style="font-size:130%;"><em><strong>Dear Jason Devil,</strong> Set Security,</em></span></p>
 <p>My poor Devil dressed in black. You bore the brunt of an unprecedented frenzy. Not only did you guard precious secrets from a rabid public, but you dealt with elaborate battle sequences involving thousands of people. With so much action on set and years of anticipation, how could you, one man, possibly keep everyone and everything safe? You can&rsquo;t. That&rsquo;s the reality. Even the greatest among us must have limits. We now understand that Batman is just a man and <em>The Dark Knight Rises</em> is just a film.</p>
 <p>And that&rsquo;s okay. In fact, it&rsquo;s a relief.</p>
 <p>This epic, conclusive entry to Christopher Nolan&rsquo;s so-real-you-feel-it superhero saga continues to take itself very seriously. That&rsquo;s what works. Most of the film seriously kicks ass. But as you know, it also means the fans will get so very <em>serious</em> about the whole show*. So everything needs to be handled carefully, from getting the story just right, to dealing with sneaky spies snapping photos on set. The consequence of mishandling even a small detail would have a ripple effect through both real and imagined worlds. The Internet is like an underground society that will ruthlessly claw out any vulnerable piece of information, both before and after the film comes out. So at this point, it&rsquo;s time you let your guard down, and let me defend Gotham for a while. Or at least do my best.</p>
@@ -23,6 +21,4 @@ categories: [Bane, Batman, Christopher Nolan, DKR, Review, secrets, security, se
 <p>That&rsquo;s really all the eager public who harassed you wanted to know &ndash; can this film possibly live up to the previous one? Let&rsquo;s put it this way &ndash;it&rsquo;s a thrilling, ambitious, big-scale climax to an outstanding trilogy. The dramatic structure borrows a lot from <em>The Dark Knight</em>, and the story brings back many elements from <em>Batman Begins</em>. So the short answer is yes, it can withstand the hype, but it can&rsquo;t surpass it. The overall stakes are raised, but as advertised, the legend must end.&nbsp;</p>
 <p>Sincerely,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Priority Post (4.5/5)</em></strong></p>
 <p><em>*Editor&rsquo;s Note: We here at DC&amp;C try to avoid the hype leading up to big movies, so that our critical eye remains sharp and our initial enthusiasm unabated. Still, our strict editorial guidelines require that someone other than the original author must proof each review. In this case, Christopher was the only one to witness the sneak preview, meaning some poor soul had to step up and read this before seeing the movie. Your editor was bribed with both beer and popcorn to complete his task. If there are mistakes, it is because the keyboard was slick with tears, and the monitor blurry. Cry, for innocence lost too soon.</em></p>
-<p><em><span class="full-image-block ssNonEditable"><span><a href="http://www.zip.ca/browse/title.aspx?f=titleId%28204358%29"><img style="width:225px;" src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7bc3/1343245704065/Rent-it-on-Zip.png" alt="" /></a></span></span><br /></em></p></div>

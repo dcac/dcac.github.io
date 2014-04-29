@@ -51,8 +51,12 @@
         /* turned off body indexing for page load speed
         this.field('body');
         */
-        this.field('categories'); 
+        this.field('categories');
         this.ref('id');
+        this.field('author');
+        this.field('addressee');
+        this.field('position');
+        //this.field('tags'); 
       });
     };
     

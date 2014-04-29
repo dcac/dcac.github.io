@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Despicable Me 2"
 comments: true
-categories: [Animation, comedy, Family, Kristen Wiig, Letters, Oscars 2014, Steve Carrell]
+tags: [Animation, comedy, Family, Kristen Wiig, Letters, Oscars 2014, Steve Carrell]
 ---
 <div><p><span style="font-size:120%;"><strong><em><br /><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/7/5/despicable-me-2.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7873/1373040408933/despicable-me-2.jpg" alt="" /></a></span></span>Dear Katie Ballentine,</em></strong><em> Marketing Consultant,</em></span></p>
 <p>It makes sense to me that a film like <em>Despicable Me 2</em> would need a marketing consultant. I don&rsquo;t mean that as a shot at the film&rsquo;s quality; I&rsquo;m talking about public perception of animated films in general. When it comes to summer releases, animated films, as far as moviegoers seem to be concerned, fall into two basic tags: the one from Pixar, and everything else. With <em>Despicable Me 2</em> opening only a week and a half after Pixar&rsquo;s own <em>Monsters University</em>, I&rsquo;m sure you had your marketing work cut out for you.&nbsp;</p>

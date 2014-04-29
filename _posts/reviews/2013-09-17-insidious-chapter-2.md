@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Insidious Chapter 2"
 comments: true
-categories: [horror, Insidious Chapter 2, Leigh Whannell, Letters, Sequel]
+tags: [horror, Insidious Chapter 2, Leigh Whannell, Letters, Sequel]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/9/17/insidious-chapter-2.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78c2/1379424349077/Insidious%20Chapter%202.jpg" alt="" /></a></span></span></p>
 <p><strong><em style="font-size:130%;">Dear Leigh Whannell, </em></strong><em style="font-size:130%;">Screenwriter,</em></p>

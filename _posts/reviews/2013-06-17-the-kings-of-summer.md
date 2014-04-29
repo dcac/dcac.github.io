@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "The Kings of Summer"
 comments: true
-categories: [Letters, Nick Offerman, Nick Robinson, Sundance, The Kings of Summer]
+tags: [Letters, Nick Offerman, Nick Robinson, Sundance, The Kings of Summer]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/6/17/the-kings-of-summer.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7862/1371501879993/The%20Kings%20of%20Summer.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Tyler B. Robinson,</strong> Production Designer,</span></em></p>

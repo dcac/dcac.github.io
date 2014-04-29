@@ -1,3 +1,9 @@
+.container-shadow {
+  box-shadow: 0px 0px 10px 5px #000;
+  margin-bottom: 250px;
+  background-color: #fff;
+}
+
 /* search modal styles */
 
 #search{
@@ -7,9 +13,10 @@
 .search-form{
   width:80%;
   margin: 0 auto;
+  background: transparent;
 }
 
-input[type=text]{
+input[type=text], input[type=text]:focus{
   border-top: 0;
   border-left: 0;
   border-right: 0;
@@ -19,6 +26,8 @@ input[type=text]{
   font-size: 36pt;
   color: #fff;
   font-family: "Helvetica Neue", "Helvetica",sans-serif;
+  padding: 0;
+  margin: 0;
 }
 .search-results{
   width:80%;
@@ -33,13 +42,22 @@ input[type=text]{
   float: left;
   color:#fff;
 }
-p.search-result{
-  font-size: 24px;
-  font-family: "Helvetica Neue", "Helvetica",sans-serif;
-  color:#fff;
-  letter-spacing: 1px;
-  line-height: 26px;
-  margin-top: 20px;
+div.search-results-article{
+  margin-top: 25px;
+  display: block;
+  position: relative;
+  float: none !important;
+  clear: both;
+  border-top: solid 1px #333;
+  width:500px;
+}
+div.search-result{
+  display: block;
+  margin-left: 20px;
+  float: left;
+  margin-top: 15px;
+  margin-bottom: 25px;
+  width:350px;
 }
 p.search-result a{
   font-weight: bold;
@@ -47,6 +65,59 @@ p.search-result a{
 }
 p.search-result a:hover{
   text-decoration: underline;
+}
+h1.search-title{
+  font-size: 20pt;
+  font-family: "Helvetica Neue", "Helvetica",sans-serif;
+  color:#fff;
+  letter-spacing: 1px;
+  margin-top: 0;
+}
+ p.search-author{
+  font-size: 10pt;
+  font-family: "Georgia",serif;
+  color:#fff;
+  line-height: 14pt;
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+p.search-addressee{
+  font-size: 14pt;
+  font-family: "Georgia",serif;
+  color:#fff;
+  line-height: 14pt;
+  font-style: italic;
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+p.search-date{
+  font-size: 10pt;
+  font-family: "Georgia",serif;
+  color:#fff;
+  line-height: 14pt;
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+div.search-image{
+  width:100px;
+  height:100px;
+  background-size: 100px;
+  display: block;
+  background-color: #fff;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  overflow: hidden;
+  float: left;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+div.search-image img{
+  width:180px;
+  display: block;
+  max-width: 300px;
+  margin-left: -50px;
+  float: left;
 }
 .search-modal{
   width: 100%;
@@ -72,4 +143,15 @@ p.search-result a:hover{
   right:20px;
   color: transparent;
   border: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* side menu */
+
+.menu-header {
+  height: 65px;
+  line-height: 65px;
+  background: url('../img/article/logo-sm.png') no-repeat;
+  display: block;
 }

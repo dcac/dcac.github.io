@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "A Good Old Fashioned Orgy"
 comments: true
-categories: [comedy, Ensemble, Orgy, Uncategorized]
+tags: [comedy, Ensemble, Orgy, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/7/26/a-good-old-fashioned-orgy.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf75e4/1343334088577/A%20Good%20Old%20Fashion%20Orgy.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><em><strong>Dear Andy Bader,</strong> Camera Loader,</em></span></p>

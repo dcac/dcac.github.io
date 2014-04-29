@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "12 Years a Slave"
 comments: true
-categories: [12 years a slave, Benedict Cumberbatch, Brad Pitt, Letters, Michael Fassbender, Oscars 2014, Paul Dano, Paul Giamatti, Sarah Paulson, steve mcqueen]
+tags: [12 years a slave, Benedict Cumberbatch, Brad Pitt, Letters, Michael Fassbender, Oscars 2014, Paul Dano, Paul Giamatti, Sarah Paulson, steve mcqueen]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/11/13/12-years-a-slave.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7903/1384351541008/12%20Years%20a%20Slave.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Michael S. Martin,</strong> Property Master,</span></em></p>

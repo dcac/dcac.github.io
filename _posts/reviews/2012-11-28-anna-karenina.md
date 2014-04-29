@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Anna Karenina"
 comments: true
-categories: [adaptation, Anna Karenina, Epic, Joe Wright, Keira Knightly, Leo Tolstoy, Rassian, romance, Uncategorized]
+tags: [adaptation, Anna Karenina, Epic, Joe Wright, Keira Knightly, Leo Tolstoy, Rassian, romance, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/11/28/anna-karenina.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7744/1354120757783/Anna%20Karenia.jpg" alt="" /></a></span></span></p>
 <p><em><span><span style="color:#010101;font-size:130%;"><strong>Dear Denis Khoroshko,</strong> Ballroom Guest (uncredited)</span></span></em></p>

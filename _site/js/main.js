@@ -16,7 +16,7 @@ $(document).ready(function () {
   });
  
   function winResized() {
-  	var $image=$('#image');
+  	var $image=$('#story-title');
   	if ($image.size()) {
   		var ww=$(window).width();
   		var wh=$(window).height();
@@ -26,11 +26,8 @@ $(document).ready(function () {
   		var iwr=Math.round(iw*f);
   		var ihr=Math.round(ih*f);
   		$image.css({
-  			'position':'absolute',
   			'width': iwr,
   			'height': ihr,
-  			'left': (Math.round(ww-iwr)/2)+'px',
-  			'top': (Math.round(wh-ihr)/2)+'px'
   		});
   	}
   }
@@ -40,15 +37,16 @@ $(document).ready(function () {
   	winResized();
   });
   $(function () {
-    $('#image').css({
-      top : $(window).height()
+    $('#story-title').css({
+        'height':(($(window).height()))+'px',
+        'width':(($(window).width()))+'px',
     });
     $(function(){
       $('#title').css({
         'height':(($(window).height()))+'px',
         'width':(($(window).width()))+'px',
         'overflow':'hidden'
-      });
+    });
       
           $('button.down-arrow').css({'left':(($(window).width()/2))+'px'});
  // This is used to create a 145px gutter on the left side for the DC&C logo - not necessary with title bar.
@@ -153,4 +151,60 @@ $(document).ready(function () {
       $("a.navbar-brand").css('height', '125px');
       $("a.navbar-brand").css('background', 'url(\'../img/logo.png\') 15px 15px no-repeat');
     }, { offset: 120 });
+ 
+ //The folllowing is to get the right side bar to become hwne it hits the viewport top 
+    
+
+ 
+    var row = $("#row-height");
+    var siderow = $("#side-row");
+    var side = $("#side-column");
+    var sidebar = $("#home-sidebar");
+    //Stick the home sidebar to the top when reached
+    $('#home-sidebar').waypoint(function(direction) {
+      if (direction === 'down') {
+        sidebar.css({
+          position:"fixed",
+          top: "75px"
+        });
+        siderow.css({
+          height: row.height()
+        });
+       //alert("size="+scrollDifferential)
+      }
+      else if (direction === 'up') {
+        sidebar.css({
+          position:"absolute",
+          top: "0",
+          bottom: "auto"
+        });
+        siderow.css({
+          height: row.height()
+        });
+      }
+    },{
+      offset: 75 // Apply "stuck" when element 75px from top
+    });
+    $("#row-height").waypoint(function(direction){
+      if (direction === 'down') {
+        sidebar.css({
+          position:"absolute",
+          bottom: "0",
+          top: "auto"
+        });
+        siderow.css({
+          height: row.height()
+        });
+      }
+      else 
+      if (direction === 'up') {
+        sidebar.css({
+          position:"fixed",
+          top: "75px"
+        });
+      }
+    },{
+      offset: $.waypoints('viewportHeight')-row.height()-110
+    });
+    
 }); 

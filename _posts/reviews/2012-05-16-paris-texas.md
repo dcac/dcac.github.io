@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Paris, Texas"
 comments: true
-categories: [Cannes, Criterion Collection, Uncategorized, Wim Wenders, Zip.ca]
+tags: [Cannes, Criterion Collection, Uncategorized, Wim Wenders, Zip.ca]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/5/16/paris-texas.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7576/1337204636013/Paris%20Texas.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:120%;"><em><strong>Dear Homer Albin, </strong></em><em>Driver,</em></span></p>

@@ -1,19 +1,18 @@
 ---
 published: true
-categories: reviews
-image:
-author: 
-stars: 
+imdb: tt1490017
+image: the-lego-movie.jpg
+author: Casey Tourangeau
+stars: 4.5
 excerpt: 
-position: 
-addressee: 
+position:  Digital Set Designer
+addressee: Kristen Anderson
 layout: review
+categories: reviews
 title: "The LEGO Movie"
 comments: true
-categories: [Animation, Chris Pratt, comedy, Elizabeth Banks, LEGO, Letters, Morgan Freeman, Will Arnett]
+tags: [Animation, Chris Pratt, comedy, Elizabeth Banks, LEGO, Letters, Morgan Freeman, Will Arnett]
 ---
-<div><p><span class="full-image-block ssNonEditable"><a href="/letters/2014/2/7/the-lego-movie.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7958/1391784834133/the-lego-movie.jpg" alt="" /></a></span></p>
-<p><span style="font-size:120%;"><strong><em>Dear Kristen Anderson</em></strong><em>, Digital Set Designer,</em></span></p>
 <p>I have to admit that I was a bit depressed when I heard that <em>The LEGO Movie</em> was being animated digitally. Particularly because LEGO itself &mdash; the bricks and plates, the classic minifigures&mdash;would seem to be a dream tool for creating an old-fashioned stop motion movie.&nbsp;</p>
 <p>But I totally understand that modern production costs must have dictated that such a quaint approach was too time-consuming and (more importantly) too costly for what might be considered a two-hour toy commercial. But when you designed the sets for the movie, you clearly did so in consideration of the real-world limitations the <em>actual</em> LEGO bricks would have imposed. The&nbsp; buildings, rooms, the double-decker couches, Abraham Lincoln&rsquo;s flying chair&mdash;they&rsquo;re all built with the same absurd creativity that an 8-year old in the basement brings to playing with LEGO. And, thanks to you, every frame of <em>The LEGO Movie</em> is infused with that sense of joy.</p>
 <p>That came as a relief to me. I wouldn&rsquo;t say that I was dreading <em>The LEGO Movie</em>, exactly. Its pedigree is solid: directors and co-writers Christopher Miller and Phil Lord were responsible for the kid-favourite <em>Cloudy With a Chance of Meatballs</em> (the first one, not the <a href="/letters/2013/10/1/cloudy-with-a-chance-of-meatballs-2.html"><em>terrible second one</em></a>) as well as the not-at-all-kid-friendly <a href="/letters/2012/3/15/sxsw-postcard-21-jump-street.html"><em>21 Jump Street</em></a> (another movie that was far better than expected). And the voice talent &ndash; which includes Chris Pratt, Elizabeth Banks, Will Arnett, Will Ferrel, Nick Offerman, Charlie Day, and Morgan Freeman to name a very few &ndash; is top-notch. Still, LEGO is a product with such a large and rabid following that everyone involved could have been forgiven for treating the actual movie as an afterthought (you know, as long as it met its financial expectations).</p>
@@ -25,4 +24,3 @@ categories: [Animation, Chris Pratt, comedy, Elizabeth Banks, LEGO, Letters, Mor
 <p>But these are minor quibbles, the two or three blue bricks in an otherwise yellow castle wall. The execution may not be perfect, but that structure will stand strong.</p>
 <p>Going to look for my 1980s spaceman,</p>
 <p>Casey</p>
-<p><strong><em>Status: Priority Post (4.5/5)</em></strong></p></div>

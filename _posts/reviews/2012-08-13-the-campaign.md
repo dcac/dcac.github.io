@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "The Campaign"
 comments: true
-categories: [comedy, poiltics, the campaign, Uncategorized, will ferrell, zack galifianakis]
+tags: [comedy, poiltics, the campaign, Uncategorized, will ferrell, zack galifianakis]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/8/13/the-campaign.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7601/1344874267099/the-campaign.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:120%;"><span style="font-size:120%;"><strong>Dear Steven Clawson,</strong> photo double/stand in for Dan Aykroyd</span></em></p>

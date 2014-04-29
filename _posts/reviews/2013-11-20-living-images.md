@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Living Images"
 comments: true
-categories: [Estonia, EU FIlm Festival 2013, EUFF, European, European Union, Festivals, Film, Letters]
+tags: [Estonia, EU FIlm Festival 2013, EUFF, European, European Union, Festivals, Film, Letters]
 ---
 <div><p class="Body" style="text-align:center;"><a href="/letters/tag/eu-film-festival-2013"><strong><em><span style="font-size:120%;">2013 European Union Film Festival coverage</span></em></strong></a></p>
 <p class="Body"><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/11/20/living-images.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf790a/1384967123023/living-images.jpg" alt="" /></a></span></span></p>

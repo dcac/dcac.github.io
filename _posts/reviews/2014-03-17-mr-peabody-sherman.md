@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image: mr-peabody-sherman.jpg
 author: Di Golding
 stars: 4
@@ -8,9 +7,10 @@ excerpt:
 position: Plot Device
 addressee: Wayback Machine 
 layout: review
+categories: reviews
 title: "Mr. Peabody & Sherman"
 comments: true
-categories: [animated, comedy, Family, Letters]
+tags: [animated, comedy, Family, Letters]
 ---
 
 <p><span style="color:black;">Hate to start this letter by putting you to work, but you&rsquo;re a time machine, you should have seen this coming.</span></p>

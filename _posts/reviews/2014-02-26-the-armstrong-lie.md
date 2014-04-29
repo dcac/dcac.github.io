@@ -1,19 +1,18 @@
 ---
 published: true
-categories: reviews
-image:
-author: 
+imdb: tt1638364
+image: the-armstrong-lie.jpg
+author: Christopher Redmond
 stars: 
 excerpt: 
-position: 
-addressee: 
+position: Smoke Artist
+addressee: Benjamin Murray
 layout: review
+categories: reviews
 title: "The Armstrong Lie"
 comments: true
-categories: [Alex Gibney, documentary, lance armstrong, Letters, livestong]
+tags: [Alex Gibney, documentary, lance armstrong, Letters, livestong]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/2/26/the-armstrong-lie.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7974/1393439479537/The%20Armstrong%20Lie.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Benjamin Murray,</strong> Smoke Artist,</em></p>
 <p>Funny, I don&rsquo;t remember seeing any smoke in <em>The Armstrong Lie</em>. I mean, sure, there are lots of proverbial smoke and mirrors in this story of seven-time Tour de France champion Lance Armstrong. And, yes, it&rsquo;s safe to say that there&rsquo;s a smoke-like dark cloud that will forever overshadow Armstrong&rsquo;s legacy. But Oscar-winning director Alex Gibney is not prone to such literal, stylized, Errol Morris-like re-enactments in his films. Instead, he tells the story of the disgraced super cyclist as a straight-up, old-school, talking-head, journalistic documentary. Or so it seems.&nbsp; Like Armstrong, it appears that the secret to your success was to covertly manipulate the laws of nature.</p>
 <p>Didn&rsquo;t you guys learn anything from making this film?</p>
 <p>Why would you need to amplify a scandal that is essentially sports world&rsquo;s equivalent of faking the moon landing? Yes, Armstrong really did survive a severely advanced cancer. But the rest of the story &ndash; the one about a cyclist who, after his recovery, somehow became an even <em>better</em> athlete and completely dominated his field for years &ndash; needs an asterisk the size of Armstrong&rsquo;s once lemon-sized testicle.&nbsp;</p>
@@ -25,4 +24,3 @@ categories: [Alex Gibney, documentary, lance armstrong, Letters, livestong]
 <p>Behind digital smoke, perhaps?</p>
 <p>Quitting while I&rsquo;m ahead,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Standard Delivery (3/5)</em></strong></p></div>

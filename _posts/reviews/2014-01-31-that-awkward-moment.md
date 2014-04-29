@@ -1,19 +1,17 @@
 ---
 published: true
-categories: reviews
-image:
-author: 
-stars: 
+image: that-awkward-moment.jpg
+author: Christopher Redmond
+stars: 2
 excerpt: 
-position: 
-addressee: 
+position: Makeup Artist for Mr. Efron
+addressee: Joseph Farulla
 layout: review
+categories: reviews
 title: "That Awkward Moment"
 comments: true
-categories: [assistant, Letters, Make-up, makeup, Mr. Efron, naked, nude, personal, pretty, Zac Efron]
+tags: [assistant, Letters, Make-up, makeup, Mr. Efron, naked, nude, personal, pretty, Zac Efron]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/1/30/that-awkward-moment.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf794e/1391132176293/That%20Awkward%20Moment.jpg" alt="" /></a></span></span></p>
-<p class="Body"><em style="font-size:130%;"><strong>Dear Joseph Farulla</strong>, Makeup Artist for Mr. Efron,</em></p>
 <p class="Body">You ever wonder why someone like Zac Efron has a hard time shaking his &ldquo;pretty-boy&rdquo; reputation? No? No guesses? Let me give you a hint. See there&rsquo;s a certain class of male Hollywood A-lister that decides he needs to have his very own dedicated make-up artist. Leonardo Dicaprio. Tom Cruise. Bradley Cooper. Brad Pitt. Despite not requiring any prostheses or aging effects (to look older, anyway), in 2013 these men refused to risk the acting trailer&rsquo;s roulette make-up chair. Some of them have earned that luxury, I suppose. &ldquo;Mr. Efron&rdquo; has not. But the fact he still hired you for a performance that&rsquo;s trying to make him seem like &ldquo;just one of the guys&rdquo; crystallizes everything that&rsquo;s wrong with <em>That Awkward Moment</em>.</p>
 <p class="Body">Let me explain.</p>
 <p class="Body">For most men, imperfections are what endear to our onscreen heroes: Bill Murray&rsquo;s pockmarks, Bruce Willis&rsquo; hairline, Christian Bale&rsquo;s eye wart (warning: if you haven&rsquo;t noticed that one yet, it henceforth can ever be unseen). This un-airbrushed reality acts like a subliminal reassurance that our boyish crushes are based purely on strength of character. We&rsquo;re shallow and insecure creatures, after all, and wouldn&rsquo;t want our affections to be mistaken for anything other than platonic. So in a movie about an extreme three-way bromance, these types of insights matter. We don&rsquo;t have a friend like Zac Efron, and we don&rsquo;t want a friend like Zac Efron. Miles Teller? Maybe. Michael B. Jordan? We should be so lucky.</p>
@@ -23,4 +21,3 @@ categories: [assistant, Letters, Make-up, makeup, Mr. Efron, naked, nude, person
 <p class="Body">No, I&rsquo;m afraid there&rsquo;s just no saving the boy. Or his movies.</p>
 <p class="Body">Blushing,</p>
 <p>Christopher</p>
-<p class="Body"><strong><em>Status: Return to Sender (2/5)</em></strong></p></div>

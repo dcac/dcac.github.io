@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image: pacific-rim.jpg
 author: Cory Hagart
 stars: 3.5
@@ -8,9 +7,10 @@ excerpt:
 position: Fight Choreographer and Designer
 addressee: Bradley Allan
 layout: review
+categories: reviews
 title: "Pacific Rim"
 comments: true
-categories: [action, blockbuster, Letters, Pacific Rim, sci-fi, summer]
+tags: [action, blockbuster, Letters, Pacific Rim, sci-fi, summer]
 ---
 <p>You, more than anyone, can understand why I thought this would be just like all the other big summer movies I&rsquo;ve seen lately: a big CGI-slam-bang-action-fest, and a bit of a bummer.&nbsp; So imagine my surprise: despite the fact that <em>Pacific Rim</em> contains almost every single clich&eacute; of a 2013 summer blockbuster movie, it isn&rsquo;t this year&rsquo;s <a href="/letters/2012/5/18/battleship.html">Battleship</a>. It&rsquo;s actually a huge pile of block-busting fun.</p>
 <p>How is that even possible? The story consists of humankind&rsquo;s last desperate battle against impossible aliens rising up out of the sea, where all hope lies with giant (and <a href="http://veryaware.com/2013/04/awesome-infographic-the-jaegers-from-pacific-rim-are-big-big-big/">I mean freakin&rsquo; huge</a>) robots and some sick and troubled people. Director Guillermo del Toro and screenwriter Travis Beacham obviously sent you <a href="http://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_(anime)">some anime</a> references before production. The influences are clear, but instead of any name-checks, they simply borrowed to give their story shape and heft. In fact, the key thread that seems to tie the film together is the actual fighting.</p>

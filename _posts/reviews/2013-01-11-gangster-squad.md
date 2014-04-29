@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Gangster Squad"
 comments: true
-categories: [Anthony Mackie, Emma Stone, Gangster Squad, Giovanni Ribisi, Josh Brolin, Letters, Michael Pena, Nick Nolte, Robert Patrick, Ryan Gosling]
+tags: [Anthony Mackie, Emma Stone, Gangster Squad, Giovanni Ribisi, Josh Brolin, Letters, Michael Pena, Nick Nolte, Robert Patrick, Ryan Gosling]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/1/10/gangster-squad.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf778c/1357876228012/Gangster%20Squad.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><em><strong>Dear Jasper Randall</strong>, Vocal Contractor</em></span></p>

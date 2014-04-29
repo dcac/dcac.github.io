@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Stay Hungry"
 comments: true
-categories: [arnold schwarzenegger, bob rafelson, body-building, cinema, drama, Early Arnold, Jeff Bridges, Letters, sally field, seventies]
+tags: [arnold schwarzenegger, bob rafelson, body-building, cinema, drama, Early Arnold, Jeff Bridges, Letters, sally field, seventies]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/11/14/stay-hungry.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf770b/1352906585039/stay-hungry.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:120%;"><strong><em>Dear Arnold Schwarzenegger,</em></strong><em> Actor,</em></span></p>

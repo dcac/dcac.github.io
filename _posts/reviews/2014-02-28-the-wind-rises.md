@@ -1,19 +1,18 @@
 ---
 published: true
-categories: reviews
-image:
-author: 
-stars: 
+imdb: tt2013293
+image: the-wind-rises.jpg
+author: Nat Master
+stars: 2.5
 excerpt: 
-position: 
-addressee: 
+position: Editor
+addressee: Takeshi Seyama
 layout: review
+categories: reviews
 title: "The Wind Rises"
 comments: true
-categories: [Letters, Oscars 2014, Studio Ghibli, The Wind Rises]
+tags: [Letters, Oscars 2014, Studio Ghibli, The Wind Rises]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/2/28/the-wind-rises.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7978/1393596204095/The%20Wind%20Rises.jpg" alt="" /></a></span></span></p>
-<p><span style="font-size:130%;"><strong><em>Dear Takeshi Seyama,</em></strong><em> Editor, </em></span></p>
 <p>Studio Ghibli&rsquo;s offerings are usually a pretty solid bet for me, Takeshi. They always have just the right amount of newness, weirdness, and cuteness for me to kill a couple of hours without dwelling on the film for very long after. And if nothing else, I can sit back and enjoy the pretty colours. However, <em>The Wind Rises</em> had me dwelling. It had me dwelling for quite a while.</p>
 <p>You helped Hayao Miyazaki&rsquo;s cut together elements of history, romance, nostalgia, and fantasy on one of his undeniably gorgeous canvases, but they all jostle for attention in a film that doesn&rsquo;t seem to know what kind of story it wants to tell.</p>
 <p>The story it does tell &ndash; the fanciful biography of WWII-era aircraft engineer Jiro Horikoshi, a boy with his head in the clouds who went on to design fighter planes for the Japanese military &ndash; spans about twenty years. You carry us through the timeline with a pace that matches the wind.</p>
@@ -22,4 +21,3 @@ categories: [Letters, Oscars 2014, Studio Ghibli, The Wind Rises]
 <p>While I would have preferred that you and Miyazaki lingered on some of the more poignant moments in the film, I was happy enough to relinquish control to the wind. And to you. It was, if nothing else, beautiful to watch.&nbsp;</p>
 <p>Floating off,</p>
 <p>Nat</p>
-<p><strong><em>Status: Standard Delivery (2.5/5</em></strong>)</p></div>

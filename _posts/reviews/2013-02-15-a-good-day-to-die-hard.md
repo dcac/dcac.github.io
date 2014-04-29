@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "A Good Day to Die Hard"
 comments: true
-categories: [action, bruce willis, Die Hard, John McTiernan, Letters, Sequel, shitty sequels]
+tags: [action, bruce willis, Die Hard, John McTiernan, Letters, Sequel, shitty sequels]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/2/15/a-good-day-to-die-hard.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf77bd/1360959674993/a-good-day-to-die-hard.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:120%;"><em style="font-weight:bold;">Dear John McTiernan,</em> Director of <em>Die Hard,</em></span></p>

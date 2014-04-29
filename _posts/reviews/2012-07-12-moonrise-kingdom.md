@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Moonrise Kingdom"
 comments: true
-categories: [Bill Murry, Cannes, Color, Colour, Correction, Kingdom, Moonrise, Timing, Uncategorized, Wed Anderson]
+tags: [Bill Murry, Cannes, Color, Colour, Correction, Kingdom, Moonrise, Timing, Uncategorized, Wed Anderson]
 ---
 <div><p><span class="full-image-block ssNonEditable"><a href="/letters/2012/7/12/moonrise-kingdom.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf75b0/1342097282583/Moonrise%20Kingdom.jpg" alt="" /></a></span></p>
 <p><span style="font-size:140%;"><em><strong>Dear Lee Wimer, </strong>Color Timer,</em></span></p>

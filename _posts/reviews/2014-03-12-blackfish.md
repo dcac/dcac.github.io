@@ -1,6 +1,6 @@
 ---
 published: true
-categories: reviews
+imdb: tt2545118
 image: blackfish.jpg
 author: Di Golding
 stars: 3
@@ -8,9 +8,10 @@ excerpt:
 position: Celebrity Shill
 addressee: James Earl Jones
 layout: review
+categories: reviews
 title: "Blackfish"
 comments: true
-categories: [blackfish, documentary, Letters, netflix]
+tags: [blackfish, documentary, Letters, netflix]
 ---
 
 <p><span style="color:black;">Did you enjoy your visit to Seaworld as much as I did? Judging from the footage in the cheesy info-spot that was shown on the Jumbotron at Shamu Stadium, it sure looks like you did. This, of course, was back in the 80s. I was there in &lsquo;81, and had my picture taken with Shamu. I even bought a plush whale toy <em>and</em> a Seaworld hat that I wore non-stop for the next year. Like most 8 year-olds, I thought Shamu was a superstar. I didn&rsquo;t consider the circumstances under which he and the other animal performers lived. But hey, it was the 80s&mdash;people smoked on planes and used baby oil instead of sunscreen. We didn&rsquo;t know any better. <br /></span></p>

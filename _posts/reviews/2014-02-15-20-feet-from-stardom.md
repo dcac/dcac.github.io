@@ -1,19 +1,18 @@
 ---
 published: true
-categories: reviews
-image:
-author: 
-stars: 
+imdb: tt2396566
+image: 20-feet-from-stardom.jpg
+author: Di Golding
+stars: 3
 excerpt: 
-position: 
-addressee: 
+position: Producer
+addressee: Gil Friesen
 layout: review
+categories: reviews
 title: "20 Feet From Stardom"
 comments: true
-categories: [documentary, Letters, music, Oscars 2014]
+tags: [documentary, Letters, music, Oscars 2014]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/2/15/20-feet-from-stardom.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7962/1392505299011/20%20Feet%20From%20Stardom.jpg" alt="" /></a></span></span></p>
-<p><span style="font-size:130%;"><em><strong>Dear Gil Friesen,</strong> Producer,</em></span></p>
 <p><span style="color:black;">When you passed away in 2012 at the age of 75, you were eulogized by <em>Rolling Stone</em> magazine as the legendary A&amp;M record executive who introduced the world to acts like The Police, Soundgarden, and Janet Jackson. You were remembered as the man who started A&amp;M&rsquo;s movie division in the early 80s and produced the beloved film <em>The Breakfast Club</em>. You were one of the founding partners of ESPN&rsquo;s Classic Sports channel. You were known and remembered by titans in the music industry, including Sting, Herb Alpert, and Joe Cocker. </span></p>
 <p><span style="color:black;">And yet most people have never heard of you. <br /></span></p>
 <p><span style="color:black;">The same can be said of the women featured in your final produced film, which shines a spotlight on the (ironically) unsung heroes of the music industry: session vocalists, or as they are more universally known, backup singers. When you hear the voices of Darlene Love, Merry Clayton, Lisa Fischer, Tata Vega and others, you can&rsquo;t help but wonder why they aren&rsquo;t massive stars. Bruce Springsteen, Stevie Wonder, and Mick Jagger are just a few of the rock gods interviewed in the doc, and they seem just as confused as I was by the lack of notoriety given to these incredible singers. Indeed, it&rsquo;s impossible not to have respect for the women responsible for some of the catchiest vocal hooks in pop music history. Like you, Gil, these women seem to be renowned only by industry insiders. I wonder: was it this kinship that drew you to the project?</span></p>
@@ -23,4 +22,3 @@ categories: [documentary, Letters, music, Oscars 2014]
 <p><em><span style="color:black;">20 Feet From Stardom</span></em><span style="color:black;"> aims for the heart, hoping, it seems, to duplicate the success of last year&rsquo;s Oscar winner <em>Searching For Sugarman</em>, another doc that profiles a singer who shoulda- coulda-woulda been a huge star. Unfortunately, the aim is off here. Where <em>Searching</em> takes the audience on a magical mystery tour, <em>20 Feet</em> languishes behind the music. Sure, it has a great beat, and you can dance to it, but it&rsquo;s more of a one-hit wonder than a timeless classic.</span></p>
 <p><span style="color:black;">RIP with the VIPs, <br /></span></p>
 <p><span style="color:black;">Di</span></p>
-<p><strong><em><span style="color:black;">Status: Standard Delivery (3/5)</span></em></strong></p></div>

@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "The Phantom Father"
 comments: true
-categories: [Barry Gifford, EU Film Festival, EUFF, European Union, Festivals, Letters, Marcel Lures, Romania]
+tags: [Barry Gifford, EU Film Festival, EUFF, European Union, Festivals, Letters, Marcel Lures, Romania]
 ---
 <div><p><span class="full-image-block ssNonEditable"><a href="/letters/2012/11/22/the-phantom-father.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf772f/1353594433017/the-phantom-father.jpg" alt="" /></a></span></p>
 <p><span style="font-size:120%;"><strong><em>Dear Barry Gifford,</em></strong><em>&nbsp;Co-writer and Actor,</em></span></p>

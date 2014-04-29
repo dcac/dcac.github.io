@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Frankenweenie"
 comments: true
-categories: [Animation, Christopher Lee, Disney, horror, Letters, Tim Burton]
+tags: [Animation, Christopher Lee, Disney, horror, Letters, Tim Burton]
 ---
 <div><p class="Body1"><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/1/25/frankenweenie.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf77a6/1359131401303/frankenweenie.jpg" alt="" /></a></span></span></p>
 <p class="Body1"><em style="font-size:120%;"><span style="font-size:120%;"><strong>Dear Christopher Lee</strong>, Movie Dracula (archive footage, uncredited)</span></em></p>

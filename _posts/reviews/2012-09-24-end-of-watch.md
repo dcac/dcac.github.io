@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "TIFF: End of Watch"
 comments: true
-categories: [Anna Kendrick, David Ayer, Jake Gyllenhaal, Michael Pena, TIFF, Uncategorized]
+tags: [Anna Kendrick, David Ayer, Jake Gyllenhaal, Michael Pena, TIFF, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/9/24/end-of-watch.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf768b/1348513180717/End%20of%20Watch.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Jake Avignone,</strong> Camera Operator</em></p>

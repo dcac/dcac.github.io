@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Prometheus"
 comments: true
-categories: [Alien, Charlize Theron, Letters, netflix.ca, Noomi Rapace, Prometheus, Ridely Scott]
+tags: [Alien, Charlize Theron, Letters, netflix.ca, Noomi Rapace, Prometheus, Ridely Scott]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/6/12/prometheus.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7595/1339507517403/prometheus.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:120%;"><strong>Dear Jon Spaihts and Damon Lindelof,</strong> Screenwriters,</em></p>

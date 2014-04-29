@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Closed Circuit"
 comments: true
-categories: [CLosed Circuit, electrician, electricity, Eric Nana, Letters, Rebecca Hall, spy, thriller]
+tags: [CLosed Circuit, electrician, electricity, Eric Nana, Letters, Rebecca Hall, spy, thriller]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/8/30/closed-circuit.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78a6/1377869649917/Closed%20Circuit.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><strong><em>Dear Wailoon Chung,</em></strong><em> Electrician,</em></span></p>

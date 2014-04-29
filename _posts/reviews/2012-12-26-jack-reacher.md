@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Jack Reacher"
 comments: true
-categories: [action, adaptation, Christopher McQuarrie, Jack Reacher, Lee Child, Letters, novel, Tom Cruise, Werner Herzog]
+tags: [action, adaptation, Christopher McQuarrie, Jack Reacher, Lee Child, Letters, novel, Tom Cruise, Werner Herzog]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/12/26/jack-reacher.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7779/1356549741843/Jack%20Reacher.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><strong><em>Dear Mindy Marin,</em></strong><em> Casting</em></span></p>

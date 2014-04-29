@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "After Earth"
 comments: true
-categories: [Jaden Smith, Letters, M. Knight Shyamalan, sci-fi, Will Smith]
+tags: [Jaden Smith, Letters, M. Knight Shyamalan, sci-fi, Will Smith]
 ---
 <div><p><em style="font-size:120%;"><span style="font-size:120%;"><strong><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/6/7/after-earth.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7854/1370625480247/after-earth.jpg" alt="" /></a></span></span>Dear Jaden Smith&rsquo;s Eyebrows,</strong> Principal Actors,</span></em></p>
 <p>That was a hell of a workout for you guys.</p>

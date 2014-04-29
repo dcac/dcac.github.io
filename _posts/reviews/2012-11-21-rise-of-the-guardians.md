@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Rise of the Guardians"
 comments: true
-categories: [8 year old, child, Letters, Review, Rise of the Guardians, Santa]
+tags: [8 year old, child, Letters, Review, Rise of the Guardians, Santa]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/11/21/rise-of-the-guardians.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf772b/1353507493517/Rise%20of%20the%20Guardians1.jpg" alt="" /></a></span></span></p>
 <p><em><strong style="font-size:130%;">Dear Santa,</strong></em></p>

@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Jack Ryan: Shadow Recruit"
 comments: true
-categories: [action, Chris Pine, Jack Ryan, Kenneth Brannagh, Letters, Tom Clancy]
+tags: [action, Chris Pine, Jack Ryan, Kenneth Brannagh, Letters, Tom Clancy]
 ---
 <div><p><em style="font-size:120%;"><span style="font-size:120%;"><strong><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/1/17/jack-ryan-shadow-recruit.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf793e/1389970673967/jack-ryan-shadow-recruit-b.jpg" alt="" /></a></span></span></strong></span></em></p>
 <p><em style="font-size:120%;"><span style="font-size:120%;"><strong>Dear Deborah Aquila,</strong> Casting Director,&nbsp;</span></em></p>

@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "How To Survive A Plague"
 comments: true
-categories: [Act UP, activist, AIDS, archival, documentary, fight, Letters, Occupy, Oscar, protest, Tea Party]
+tags: [Act UP, activist, AIDS, archival, documentary, fight, Letters, Occupy, Oscar, protest, Tea Party]
 ---
 <div><div id="_mcePaste"><span class="full-image-block ssNonEditable"><a href="/letters/2013/2/26/how-to-survive-a-plague.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf77d5/1361907029096/How%20to%20Survive%20a%20Plague.jpg" alt="" /></a></span></div>
 <div style="font-size:120%;"><span style="font-size:120%;"><em><strong>Dear Stephen Winter, </strong>Story Editor,</em></span></div>

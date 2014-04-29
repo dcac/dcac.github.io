@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Spring Breakers"
 comments: true
-categories: [bikini, harmony korine, Letters, Selena Gomez, Spring Break, vanessa hudgens]
+tags: [bikini, harmony korine, Letters, Selena Gomez, Spring Break, vanessa hudgens]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/3/28/spring-breakers.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7801/1364485727717/Spring%20Breakers.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Brandon Thompson</strong>, Marketing Director </em></p>

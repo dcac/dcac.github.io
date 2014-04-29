@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Hercules in New York"
 comments: true
-categories: [arnold schwarzenegger, Early Arnold, First Film, Hercules in New York, Uncategorized, Zip.ca]
+tags: [arnold schwarzenegger, Early Arnold, First Film, Hercules in New York, Uncategorized, Zip.ca]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/11/6/hercules-in-new-york.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76ff/1352238627393/Hercules%20in%20New%20York.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Arnold Strong (n&eacute;e Schwarzenegger)</strong>, Actor</em></p>

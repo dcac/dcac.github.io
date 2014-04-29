@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "The To-Do List"
 comments: true
-categories: [2 live crew, aubrey plaza, comedy, luther campbell, me so horny, sex, teen, to-do list, Uncategorized]
+tags: [2 live crew, aubrey plaza, comedy, luther campbell, me so horny, sex, teen, to-do list, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7881/1375455914407/to-do-list.jpg" alt="" /></span></p>
 <p><em style="font-size:120%;"><span style="font-size:110%;"><strong>Dear Luther Campbell</strong>, Lead Singer of 2 Live Crew,</span></em></p>

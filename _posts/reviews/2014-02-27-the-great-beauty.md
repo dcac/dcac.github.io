@@ -1,19 +1,18 @@
 ---
 published: true
-categories: reviews
-image:
-author: 
-stars: 
+imdb: tt2358891
+image: the-great-beauty.jpg
+author: Christopher Redmond
+stars: 3.5
 excerpt: 
-position: 
-addressee: 
+position: Steadicam Operator
+addressee: Alessandro Brambilla 
 layout: review
+categories: reviews
 title: "The Great Beauty"
 comments: true
-categories: [foreign language, italian, italy, Letters, Oscars 2014, rome, The great beauty]
+tags: [foreign language, italian, italy, Letters, Oscars 2014, rome, The great beauty]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/2/27/the-great-beauty.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7976/1393513326045/The%20Great%20Beauty.jpg" alt="" /></a></span></span></p>
-<p><span style="font-size:130%;"><em><strong>Dear Alessandro Brambilla,</strong> Steadicam Operator,&nbsp; </em></span></p>
 <p>You didn&rsquo;t waste any time before showing off, did you? Your smooth, floating camera carries us straight into the heart of Rome, the once-great city so central to <em>The Great Beauty</em>.</p>
 <p>Like a ghost, we float through beautiful ruins, parks, and palaces. You glide past the sculpted busts of great men as sculpted, busty women smoke cigarettes beside them. Tourists and overweight locals take pictures and carelessly wash themselves in majestic fountains. Over and around the water we go, to a chorus of women singing a funereal hymn. And then <em>smash cut</em> to a party. The wild, decadent (and apparently pretty typical) party that changes everything for our hero Jep.</p>
 <p>In the same way your shake-resistant rig keeps the action perfectly framed, Jep&rsquo;s 65<sup>th</sup> birthday party allows him to finally see his life clearly. The excitement and debauchery that drew him to the city as a young man is still there, but it no longer resonates with him. Call it a three-quarter-life crisis. You follow Jep on a conga line as he takes it all in, but there&rsquo;s a hint of melancholy on actor Toni Servillo&rsquo;s face.</p>
@@ -23,4 +22,3 @@ categories: [foreign language, italian, italy, Letters, Oscars 2014, rome, The g
 <p>More power to you. Not everything should have to crumble, right?&nbsp;</p>
 <p>Holding steady,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Air Mail (3.5/5)</em></strong></p></div>

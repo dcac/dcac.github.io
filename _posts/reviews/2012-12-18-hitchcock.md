@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Hitchcock"
 comments: true
-categories: [Alfred, all-time, Anthony Hopkins, best film, Ed Geins, Hichcock, Letters, Psycho, Scarlett Johansson, Sight and Sount, undefined, Vertigo]
+tags: [Alfred, all-time, Anthony Hopkins, best film, Ed Geins, Hichcock, Letters, Psycho, Scarlett Johansson, Sight and Sount, undefined, Vertigo]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/12/18/hitchcock.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf776a/1355843975733/Hitchcock2.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Emma Jacobs</strong>, Blonde Fan,</span></em></p>

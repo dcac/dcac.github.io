@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Zero Dark Thirty"
 comments: true
-categories: [controversy, drama, Jessica Chastain, Kathryn Bigelow, Letters, war]
+tags: [controversy, drama, Jessica Chastain, Kathryn Bigelow, Letters, war]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/1/18/zero-dark-thirty.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7795/1358513768067/zero-dark-thirty.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:120%;"><span style="font-size:120%;"><strong>Dear Barry Rice,</strong> Technical Consultant,</span></em></p>

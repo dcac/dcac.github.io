@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "We're the Millers"
 comments: true
-categories: [comedy, jason sudeikis, jennifer aniston, Letters, We're the Millers]
+tags: [comedy, jason sudeikis, jennifer aniston, Letters, We're the Millers]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/8/15/were-the-millers.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf788f/1376574129947/We're%20the%20Millers.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Mary Sunshine</strong>, Production Accountant,</em></p>

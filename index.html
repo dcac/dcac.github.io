@@ -1,95 +1,134 @@
 ---
 layout: default
-title: Dear Cast & Crew
 css: home.css
+title:
 ---
-
-<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="#"></a>
-    </div>
-    <div class="navbar-collapse collapse">
-      <ul class="nav nav-justified">
-        <li><a href="#" class="navbar-link">Reviews</a></li>
-        <li><a href="#" class="navbar-link">Features</a></li>
-        <li><a href="#" class="navbar-link">Podcast</a></li>
-        <li><a href="#" class="navbar-link" ><i class="fa fa-search" id="search-toggle"></i></a></li>
-      </ul>
-    </div><!--/.navbar-collapse -->
-  </div>
-</div>
-
-
-<div class="container-shadow" id="main-container">
-<!-- Main jumbotron for a primary marketing message or call to action -->
-<div class="jumbotron">
-{% for post in site.posts limit:1 %}
-  <a href="{{ post.url }}"><div class="container hero-container">
-    <img class="img-responsive hero-image" src="img/article/{{ post.image }}" alt="{{ post.title }}" />
-    <div class="hero-title">
-      <h1>{{ post.title }}</h1>
-      <p class="sub-title">Dear {{ post.addressee }}, {{ post.position }}</p>
-      <p class="author">By {{ post.author }}</p>
-      <p><a class="btn dcac-hero-button" role="button" href="{{ post.url }}">Read more &raquo;</a></p>
-    </div>
-  </div>
-  {% endfor %}</a>
-</div>
-<div class="container">
-  <!-- Example row of columns -->
-  <div class="row">
-    <div class="col-md-8">
-{% for post in site.posts offset:1 limit:6 %}
-  {% assign loopindex = forloop.index | modulo: 2 %}
-  {% if loopindex == 1 %}
-    <div class="row">
-     <div class="col-md-6 col-pad-remove">
-      <a href="{{ post.url }}" class="thumbnail">
-        <img src="img/article/{{ post.image }}" alt="{{ post.title }}" clas="sub-review" />
-      </a>
-      <a href="{{ post.url }}"><div class="review-text">
-        <h1>{{ post.title }}</h1>
-        <h2 class="addressee">Dear {{ post.addressee }}, {{ post.position }}</span></h2>
-        <h2 class="author">By {{ post.author }}</h2>
+    <div class="container-shadow" id="main-container">
+      <div class="row">
+        <div class="large-12 columns">
+          <div class="hero-container">
+          {% for post in site.posts limit:1 %}
+            <a href="{{ post.url }}"><img class="hero-image" src="img/article/{{ post.image }}" alt="{{ post.title }}" /></a>
+            <div class="hero-title">
+              <a href="{{ post.url }}">
+                <h1>{{ post.title }}</h1>
+                <h2 class="star-rating">{% for i in (1..post.stars) %}<i class="fa fa-star"></i>{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<i class="fa fa-star-half-o"></i>{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<i class="fa fa-star-o"></i>{% endfor %}{% endif %}</h2>
+                <h2 class="addressee">Dear {{ post.addressee }}, {{ post.position }}</h2>
+                <h2 class="author">By {{ post.author }}</h2>
+              </a>
+              <p><a class="btn dcac-hero-button" role="button" href="{{ post.url }}">Read more ></a></p>
+            </div>
+         {% endfor %}
+          </div>
+        </div>
       </div>
-      </a>
-    </div>
-  {% else %}
-    <div class="col-md-6 col-pad-remove">
-        <a href="{{ post.url }}" class="thumbnail">
-          <img src="img/article/{{ post.image }}" alt="{{ post.title }}" clas="sub-review" />
-        </a>
-        <a href="{{ post.url }}"><div class="review-text">
-          <h1>{{ post.title }}</h1>
-          <h2 class="addressee">Dear {{ post.addressee }}, {{ post.position }}</span></h2>
-          <h2 class="author">By {{ post.author }}</h2>
+  
+      <div class="row" id="row-height">
+        <div class="large-8 medium-8 columns">
+          {% for post in site.posts offset:1 limit:4 %}
+          {% assign loopindex = forloop.index | modulo: 2 %}
+          {% if loopindex == 1 %}
+           <div class="row">
+          {% endif %}
+             <div class="post-list large-6 medium-6 columns">
+              <a href="{{ post.url }}" class="thumbnail"><img src="/img/article/thumb/{{ post.image }}" alt="{{ post.title }}" /></a>
+              <a href="{{ post.url }}">
+                <div class="review-text">
+                  <h1>{{ post.title }}</h1>
+                  <h2 class="star-rating">{% for i in (1..post.stars) %}<i class="fa fa-star"></i>{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<i class="fa fa-star-half-o"></i>{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<i class="fa fa-star-o"></i>{% endfor %}{% endif %}</h2>
+                  <h2 class="addressee">Dear {{ post.addressee }}, {{ post.position }}</h2>
+                  <h2 class="author">By {{ post.author }}{{ post._ga }}</h2>
+                </div>
+              </a>
+            </div>
+          {% assign loopindex = forloop.index | modulo: 2 %}
+          {% if loopindex != 1 %}
+            </div>
+          {% endif %}
+          {% endfor %}
+          {% for post in site.posts offset:5 limit:1 %}
+            <div class="row">
+              <div class="post-list large-6 medium-6 columns">
+                <a href="{{ post.url }}" class="thumbnail"><img src="/img/article/thumb/{{ post.image }}" alt="{{ post.title }}" /></a>
+              </div>
+              <div class="post-list large-6 medium-6 columns">
+              <a href="{{ post.url }}">
+                  <div class="review-text">
+                    <h1>{{ post.title }}</h1>
+                    <h2 class="star-rating">{% for i in (1..post.stars) %}<i class="fa fa-star"></i>{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<i class="fa fa-star-half-o"></i>{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<i class="fa fa-star-o"></i>{% endfor %}{% endif %}</h2>
+                    <h2 class="addressee">Dear {{ post.addressee }}, {{ post.position }}</h2>
+                    <h2 class="author">By {{ post.author }}{{ post._ga }}</h2>
+                  </div>
+                </a>
+              </div>
+          </div>
+          {% endfor %}
+          {% for post in site.posts offset:6 limit:4 %}
+          {% assign loopindex = forloop.index | modulo: 2 %}
+          {% if loopindex == 1 %}
+           <div class="row">
+          {% endif %}
+             <div class="post-list large-6 medium-6 columns">
+              <a href="{{ post.url }}" class="thumbnail"><img src="/img/article/thumb/{{ post.image }}" alt="{{ post.title }}" /></a>
+              <a href="{{ post.url }}">
+                <div class="review-text">
+                  <h1>{{ post.title }}</h1>
+                  <h2 class="star-rating">{% for i in (1..post.stars) %}<i class="fa fa-star"></i>{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<i class="fa fa-star-half-o"></i>{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<i class="fa fa-star-o"></i>{% endfor %}{% endif %}</h2>
+                  <h2 class="addressee">Dear {{ post.addressee }}, {{ post.position }}</h2>
+                  <h2 class="author">By {{ post.author }}{{ post._ga }}</h2>
+                </div>
+              </a>
+            </div>
+          {% assign loopindex = forloop.index | modulo: 2 %}
+          {% if loopindex != 1 %}
+          </div>
+          {% endif %}
+          {% endfor %}
         </div>
-        </a>
+  
+        <div class="large-4 medium-4 columns">
+          <div class="row">
+          <div class="large-12 medium-12 columns" id="side-row">
+          <div id="home-sidebar" class="home-sidebar">
+            <div class="film-credits" id="film-credits">
+            </div>
+            <div class="ad-space">
+              <a href="#" class="thumbnail"><img src="img/netflix_small.png" alt="Netflix ad"/></a>
+            </div>
+            <div class="now-streaming">
+              <h1 class="now-streaming-title">Now Streaming</h1>
+              <ul class="now-streaming-list">
+              {% for post in site.posts reversed %}{% if post.streaming == true %}
+            		<li class="now-streaming-title"><a href="{{ post.url }}"><span class="star-rating">{% for i in (1..post.stars) %}<i class="fa fa-star"></i>{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<i class="fa fa-star-half-o"></i>{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<i class="fa fa-star-o"></i>{% endfor %}{% endif %}</span> {{ post.title }} </a></li>
+                {% endif %}{% endfor %}
+              </ul>
+            </div>
+          </div>
+        </div>
+        </div>
+        </div>
+      </div>
+      
+      <div class="row">
+        <div class="more-reviews">More Reviews</div>
+          <div class="row" id="load-posts-area">
+            {% for post in site.posts offset:10 limit:6 %}
+             <div class="post large-4 medium-4 columns">
+              <a href="{{ post.url }}" class="thumbnail"><img src="/img/article/thumb/{{ post.image }}" alt="{{ post.title }}" /></a>
+              <a href="{{ post.url }}">
+                <div class="review-text">
+                  <h1>{{ post.title }}</h1>
+                  <h2 class="star-rating">{% for i in (1..post.stars) %}<i class="fa fa-star"></i>{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<i class="fa fa-star-half-o"></i>{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<i class="fa fa-star-o"></i>{% endfor %}{% endif %}</h2>
+                  <h2 class="addressee">Dear {{ post.addressee }}, {{ post.position }}</h2>
+                  <h2 class="author">By {{ post.author }}{{ post._ga }}</h2>
+                </div>
+              </a>
+            </div>
+          {% endfor %}
+          </div>
+          <div class="load-posts-div">
+            <button id="load-posts" class="load-posts-button">More Reviews</button>
+            <button id="goto-posts" class="goto-posts-button">Browse All Reviews ></button>
+          </div>
       </div>
     </div>
-  {% endif %}
-{% endfor %}
-    </div>
-    <div class="col-md-4">
-        <div class="film-credits">
-          <h1>DC&C Glossary</h1>
-          <article>
-            <h1 class=film-credits-title>Supervising Sound Editor</h1>
-            <h2 class="film-credits-description">Someone with the power to, apparently, possess others into committing rape.</h2>
-            <a role="button">More</a>
-          </article>
-            <div class="film-credits-nav"><i class="fa fa-chevron-left film-credit-previous"></i><i class="fa fa-chevron-right film-credit-next"></i></div>
-        </div>
-        <div class="ad-space">
-          <a href="#" class="thumbnail"><img src="img/netflix.png" alt="Netflix ad"/></a>
-        </div>
-    </div>
-  </div>
-</div> <!-- /container -->

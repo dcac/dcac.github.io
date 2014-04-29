@@ -1,16 +1,17 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
-stars: 
+stars: 4
 excerpt: 
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Monsieur Lazhar"
 comments: true
-categories: [Canadian, Letters]
+streaming: true
+tags: [Canadian, Letters]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf74f5/1336620842597/monsieurlazhar.jpg" alt="" /></span></span></p>
 <p><span style="font-size:120%;"><em><strong>Dear Laurent Boye, </strong>International Publicist,</em></span></p>

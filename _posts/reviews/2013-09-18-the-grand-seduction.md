@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "The Grand Seduction"
 comments: true
-categories: [TIFF13, Canadian, Don McKellar, english, La Grande sduction, Letters, Quebec, Remake, Taylor Kitch, the grand seduction, TIFF, Toronto International Film Festival]
+tags: [TIFF13, Canadian, Don McKellar, english, La Grande sduction, Letters, Quebec, Remake, Taylor Kitch, the grand seduction, TIFF, Toronto International Film Festival]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/9/18/the-grand-seduction.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78c5/1379518113001/The%20Grand%20Seduction.jpg" alt="" /></a></span></span></p>
 <p><em><strong style="font-size:130%;">Dear Guy Lalande, </strong><span style="font-size:130%;">Production Designer,</span></em></p>

@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "The Bourne Legacy"
 comments: true
-categories: [Bourne Legacy, Jason Bourse, Jeremy renner, Rachel Weisz, Reboot, Tony Gilroy, Uncategorized]
+tags: [Bourne Legacy, Jason Bourse, Jeremy renner, Rachel Weisz, Reboot, Tony Gilroy, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/8/10/the-bourne-legacy.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf75fa/1344603299627/The%20Bourne%20Legacy.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Giuseppe Chisari,</strong> Character Rigger</em></p>

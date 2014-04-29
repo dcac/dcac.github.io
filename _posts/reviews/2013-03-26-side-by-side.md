@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Side By Side"
 comments: true
-categories: [Christopher Nolan, Danny Boyle, David Fincher, David Lynch, digital, documentary, Film, George Lucas, James Cameron, Letters, Martin Scorsese, Red, video]
+tags: [Christopher Nolan, Danny Boyle, David Fincher, David Lynch, digital, documentary, Film, George Lucas, James Cameron, Letters, Martin Scorsese, Red, video]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/3/26/side-by-side.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf77fb/1364321044367/Side%20By%20Side.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Chris Cassidy</strong>, Cinematographer</em></p>

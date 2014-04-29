@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Roller Town"
 comments: true
-categories: [Andrew Bush, Canada, Canadian film, comedy, Kayla Lorette, Mark Little, Picnicface, Roller Town, Scott Vrooman, Uncategorized]
+tags: [Andrew Bush, Canada, Canadian film, comedy, Kayla Lorette, Mark Little, Picnicface, Roller Town, Scott Vrooman, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/10/4/roller-town.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76bf/1349355388433/Roller%20Town.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Lonnie Kleinman,</strong> Random Phrase Generator,</span></em></p>

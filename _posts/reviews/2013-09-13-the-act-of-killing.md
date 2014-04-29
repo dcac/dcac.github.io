@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "The Act of Killing"
 comments: true
-categories: [2013, Best, documentary, Film, indonesia, Letters, Oscars 2014, The Act of Killing]
+tags: [2013, Best, documentary, Film, indonesia, Letters, Oscars 2014, The Act of Killing]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/9/13/the-act-of-killing.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78bd/1379083725087/The%20Act%20of%20Killing.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Anonymous</strong>, Crew Member,</em></p>

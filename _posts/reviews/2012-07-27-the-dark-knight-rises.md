@@ -1,19 +1,17 @@
 ---
 published: true
-categories: reviews
-image:
-author: 
+image: the-dark-knight-rises-2.jpg
+author: Jared Young
 stars: 
 excerpt: 
 position: 
-addressee: 
+addressee: Recipient
 layout: review
+categories: reviews
 title: "The Dark Knight Rises"
 comments: true
-categories: [action, Anne Hathaway, Christian Bale, Christopher Nolan, comics, Letters, The Dark Knight Rises]
+tags: [action, Anne Hathaway, Christian Bale, Christopher Nolan, comics, Letters, The Dark Knight Rises]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/7/27/the-dark-knight-rises.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf75e6/1343394924323/dark-knight-rises-2.jpg" alt="" /></a></span></span> <strong><em style="font-size:120%;"></em></strong></p>
-<p><strong><em style="font-size:120%;">Dear Recipient,</em></strong></p>
 <p>Rumor has it that you recently asked one of the prison guards how <em>The Dark Knight Rises</em> ends. You haven&rsquo;t seen the film in its entirety (and hopefully never will), so I thought I&rsquo;d tell you a bit about the movie with which, for obvious and appalling reasons, you will forever be associated.</p>
 <p>Does it live up to expectations? Of course it doesn&rsquo;t. It couldn&rsquo;t. Sitting in the theater last Thursday, as the impatient throng fidgeted and twitched and laughed too hard at their own jokes, I had the strange sense of having been there before, of remembering a future memory. In retrospect, I know why. From bits of hearsay and gossip, trailer clips, score samples, set photos, and two decades of reading Batman comics, I had already constructed the movie in my head. And it was perfect. Indistinct, but perfect. Or, more accurately, perfect because it <em>was</em> indistinct.</p>
 <p>I was set up for disappointment. At every moment the film onscreen diverged from the one I&rsquo;d unconsciously contrived, I found myself bitterly unsatisfied. Which doesn&rsquo;t make <em>The Dark Knight Rises</em> a bad movie. In fact, it&rsquo;s a very good movie. Just not the one I&rsquo;d been expecting.</p>
@@ -29,4 +27,4 @@ categories: [action, Anne Hathaway, Christian Bale, Christopher Nolan, comics, L
 <p>You, though&mdash;you don&rsquo;t get a second chance. You made your choice. Your disappointment led you to throw away any future opportunity you might have to experience the good things human beings are capable of experiencing: to love, to be loved, to be thrilled, to be surprised, to know the joyous burden of being a husband or a father, to be decent to the indecent, to show compassion for the uncompassionate, and, far down the list, to sit in a dark theater among friends and fellow geeks, absurdly excited to witness a thing as frivolous (and momentous) as a new Batman movie. Life&rsquo;s small pleasures become apparent only when you accept that they occur in wholly unexpected ways. And, in that manner, they&rsquo;re never disappointing.</p>
 <p>Oh, but you wanted to know how the movie ended, didn&rsquo;t you?</p>
 <p>Okay, well, goodbye.</p>
-<p>Jared Young</p></div>
+<p>Jared Young</p>

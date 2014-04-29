@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Blue Jasmine"
 comments: true
-categories: [Blue Jasmine, comedy, drama, Letters, Oscars 2014, Woody Allen]
+tags: [Blue Jasmine, comedy, drama, Letters, Oscars 2014, Woody Allen]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/8/26/blue-jasmine.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf789d/1377523049317/Blue%20Jamsine.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><strong><em>Dear Sally Hawkins, </em></strong><em>Actress</em></span></p>

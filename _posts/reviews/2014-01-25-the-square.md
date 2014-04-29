@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "The Square"
 comments: true
-categories: [documentary, Egypt, Letters, netflix, Oscars 2014, protest, The Square]
+tags: [documentary, Egypt, Letters, netflix, Oscars 2014, protest, The Square]
 ---
 <div><p><span class="full-image-block ssNonEditable"><a href="/letters/2014/1/25/the-square.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7946/1390670137027/The%20Square.jpg" alt="" /></a></span></p>
 <p class="Body"><span style="font-size:130%;"><strong><em>Dear Christopher de la Torre</em></strong><em>, Editor,</em></span></p>

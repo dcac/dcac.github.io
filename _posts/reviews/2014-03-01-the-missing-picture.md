@@ -1,18 +1,18 @@
 ---
 published: true
-categories: reviews
-image:
-author: 
-stars: 
+imdb: tt2852470
+image: the-missing-picture.jpg
+author: Cristopher Redmond
+stars: 4.5
 excerpt: 
-position: 
-addressee: 
+position: Sculptor
+addressee: Sarith Mang
 layout: review
+categories: reviews
 title: "The Missing Picture"
 comments: true
-categories: [cambodia, khmer rouge, Letters, Oscars 2014, pol pot, The Missing Picture]
+tags: [cambodia, khmer rouge, Letters, Oscars 2014, pol pot, The Missing Picture]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/3/1/the-missing-picture.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf797a/1393699777094/The%20Missing%20Picture.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Sarith Mang</strong>, Sculptor,</em></p>
 <p>I don&rsquo;t think I&rsquo;ve ever met a film fan who doesn&rsquo;t get nostalgic over claymation. For many born prior to the 1990s, it gave their childhood memories weight and warmth. I assume this is why director Rithy Panh chose you to be the star of <em>The Missing Picture</em>. Or maybe &ndash; and more likely &ndash; your clay figurines were the only way he could stomach recreating the horrors he endured at the hands of the Khmer Rouge.</p>
 <p>Before you correct me, I realize this film is not exactly &ldquo;claymation,&rdquo; but rather a unique filmmaking approach that uses archival footage and tableau designs of your clay figurines&mdash; sometimes combining both to create a sense of motion. For the most part, however, Pahn is trying to recreate still images: moments from his life that are burned into his memory but have been erased from all physical records.&nbsp; The scale of suffering is so grand that only by miniaturizing everything can he process what happened.&nbsp;&nbsp;</p>
@@ -21,4 +21,3 @@ categories: [cambodia, khmer rouge, Letters, Oscars 2014, pol pot, The Missing P
 <p>It&rsquo;s not the first documentary this year to find imaginative ways to <a href="/letters/2013/9/13/the-act-of-killing.html">reenact a genocide</a>, nor is it the first film to explore the use of small figurines as a form of <a href="http://www.imdb.com/title/tt1391092/?ref_=nv_sr_1">trauma therapy</a>. Still, it feels as fresh and revelatory as a documentary can be.</p>
 <p>Thanks for helping fill in the picture,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Priority Post (4.5/5)</em></strong></p></div>

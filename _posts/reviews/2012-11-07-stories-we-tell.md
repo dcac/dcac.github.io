@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Stories We Tell"
 comments: true
-categories: [Canadian, Diane Polley, documentary, Family, Letters to the Dead, NFB, ONF, personal, Sarah POlley, Stories We Tell, Uncategorized]
+tags: [Canadian, Diane Polley, documentary, Family, Letters to the Dead, NFB, ONF, personal, Sarah POlley, Stories We Tell, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/11/7/stories-we-tell.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7703/1352306329038/Stories%20We%20Tell2.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Diane Polley,</strong> Documentary Subject</em></p>

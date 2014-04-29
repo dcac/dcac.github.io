@@ -1,9 +1,14 @@
 
-permalink: /:year/:month/:day/:title
+#permalink: 
+permalink: /:categories/:year/:month/:day/:title.html
 name: Dear Cast & Crew
 markdown: redcarpet
 pygments: true
 
+
+paginate: 10
+
+  
 lunr_search:
   excludes: [rss.xml, atom.xml]
 
@@ -17,6 +22,18 @@ sitemap:
         - "/index.html"
     change_frequency_name: "change_frequency"
     priority_name: "priority"
+
+jekyll_ga:
+  service_account_email: 821215216920-pv14re1k4v8d42l20ssgkqlhreod7m5k@developer.gserviceaccount.com 
+  key_file: e1b673f867420911f20306bda171945af21e7a33-privatekey.p12  # service account private key file
+  key_secret: notasecret    # service account private key's password
+  profileID: ga:59905121        # profile ID 
+  start: last month         # Beginning of report
+  end: now                  # End of report
+  metric: ga:pageviews      # Metric code
+  segment:                  # optional
+  filters:                  # optional
+  sort: true                # Sort posts by this metric
 
 prose:
   rooturl: '_posts'

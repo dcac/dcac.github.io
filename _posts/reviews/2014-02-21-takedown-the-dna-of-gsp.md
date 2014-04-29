@@ -1,19 +1,18 @@
 ---
 published: true
-categories: reviews
-image:
-author: 
-stars: 
+imdb: tt2626102
+image: takedown-the-dna-of-gsp.jpg
+author: Christopher Redmond
+stars: 3.5
 excerpt: 
-position: 
-addressee: 
+position: Rights Clearance
+addressee: Koo Atswali
 layout: review
+categories: reviews
 title: "Takedown: The DNA of GSP"
 comments: true
-categories: [Canadian, documentary, fighting, George St. Pierre, GSP, Letters, mixed martial arts, MMA, UFC]
+tags: [Canadian, documentary, fighting, George St. Pierre, GSP, Letters, mixed martial arts, MMA, UFC]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/2/21/takedown-the-dna-of-gsp.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf796a/1392989626487/Takedown.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Koo Atswali,</strong> Rights Clearance,</em></p>
 <p>You, of all people, will understand why I might go in to a film like <em>Takedown: The DNA of GSP</em> &nbsp;with a bit of skepticism. &nbsp;The UFC is fiercely protective of their macho image, so a documentary about one of their biggest stars is bound to be about as revealing as a Justin Bieber concert film. In order to show the biggest fights of George St. Pierre&rsquo;s career, and the intense training that preceded them, the UFC&rsquo;s full cooperation must have been a pre-requisite. Which means this film is less a documentary than it is branded content, designed to sell the sport, and no better than the <em>The Ultimate Fighter</em> reality series&mdash;or anything else on Spike TV. &nbsp;</p>
 <p>So I should congratulate you in a job well done. Because I&rsquo;m sold. On your film, anyway. Not so much mixed martial arts.</p>
 <p>It&rsquo;s a brutal way to make a living, after all.&nbsp; St. Pierre himself puts it nicely during an archival interview when he says he&rsquo;s fighting for legitimacy as an athlete because, unlike hockey or football, &ldquo;you can&rsquo;t say I&rsquo;m gonna <em>play</em> MMA. It&rsquo;s not a game.&rdquo; And it&rsquo;s those stakes that helped me invest in St. Pierre as a protagonist (his being Canadian doesn&rsquo;t hurt, either). More interestingly, unlike most action heroes, he&rsquo;s not invincible (GSP&rsquo;s DNA is often leaking out all over his face). He&rsquo;s not even undefeated. In fact, his own trainer admits that St. Pierre&rsquo;s not the best at any particular fighting style. It&rsquo;s his work ethic and ability to actually <em>mix</em> the martial arts that makes him so dangerous.&nbsp; That, and his ability to channel OCD into a rigorous training routine.</p>
@@ -22,4 +21,3 @@ categories: [Canadian, documentary, fighting, George St. Pierre, GSP, Letters, m
 <p>Or maybe it was treated that way because you weren&rsquo;t able to acquire the rights.&nbsp; But don&rsquo;t tell me. I don&rsquo;t want it to tarnish the film&rsquo;s precious image.</p>
 <p>Clearing out,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Air Mail (3.5/5)</em></strong></p></div>

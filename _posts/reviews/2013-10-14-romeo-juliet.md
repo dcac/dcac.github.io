@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Romeo & Juliet"
 comments: true
-categories: [adaptation, classic, Downton Abbey, drama, Juliet, Letters, love, romance, Romeo]
+tags: [adaptation, classic, Downton Abbey, drama, Juliet, Letters, love, romance, Romeo]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/10/14/romeo-juliet.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78e6/1381771650453/Romeo%20and%20Juliet.jpg" alt="" /></a></span></span></p>
 <p class="Default"><em><span style="font-size:130%;"><strong>Dear Julian Fellowes</strong>, Writer and Producer,</span></em></p>

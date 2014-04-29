@@ -1,6 +1,6 @@
 ---
 published: true
-categories: reviews
+imdb: tt2369135
 image: need-for-speed.jpg
 author: Christopher Redmond
 stars: 2.5
@@ -8,9 +8,10 @@ excerpt:
 position: Sustainability Consultant
 addressee: Matt Rusk
 layout: review
+categories: reviews
 title: "Need for Speed"
 comments: true
-categories: [action, adaptation, Letters, need for speed]
+tags: [action, adaptation, Letters, need for speed]
 ---
 
 <p>Muscle cars. What other modern frivolity mocks both environmentalism and common sense? The answer is simple: <em>movies</em> about muscle cars (says the <a href="/letters/2013/5/27/fast-furious-6.html"><em>Fast &amp; Furious</em> apologist</a>). Yet Dreamworks, Disney, Electronic Arts, along with the other makers of <em>Need for Speed,</em> hired you to help cut back their carbon footprint.&nbsp; Good on them. In fact, they really take the whole reduce, reuse, and recycle thing to heart.</p>

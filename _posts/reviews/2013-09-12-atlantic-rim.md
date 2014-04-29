@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image: atlantic-rim.jpg
 author: Kelan Young 
 stars: 1 
@@ -8,9 +7,10 @@ excerpt:
 position: Actor
 addressee: Graham Greene
 layout: review
+categories: reviews
 title: "Atlantic Rim"
 comments: true
-categories: [atlantic rim, blockbuster, graham green, imitation, knock off, Letters, mockbuster, pcific rim, ripoff]
+tags: [atlantic rim, blockbuster, graham green, imitation, knock off, Letters, mockbuster, pcific rim, ripoff]
 ---
 <p style="text-align:center;">Part of <em>Dear Cast and Crew</em>&#8217;s <a href="/events/2013/9/12/mockbuster-series.html">Mockbusters Series</a></p>
 <p>I can&#8217;t help but wonder, Graham, if you were familiar with the &#8216;mockbuster&#8217; genre prior to being cast in <em>Atlantic Rim</em>. It certainly is a clever word, evoking memories of such classic satires as <em>Airplane</em> and <em>The Naked Gun</em>. Heck, perhaps your agent even pitched this project to you as a sharp-witted, Zucker Brothers-style parody of this summer&rsquo;s blockbuster <a href="/letters/2013/7/11/pacific-rim.html"><em>Pacific Rim</em>.</a></p>

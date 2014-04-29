@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Before Midnight"
 comments: true
-categories: [Before Midnight, Ethan Hawke, Julie Delpy, Letters, Oscars 2014, Richard Linklater, Sequel]
+tags: [Before Midnight, Ethan Hawke, Julie Delpy, Letters, Oscars 2014, Richard Linklater, Sequel]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/6/27/before-midnight.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf786d/1372341500647/Before%20Midnight2.jpg" alt="" /></a></span></span></p>
 <p><em><span style="color:black;font-size:130%;" lang="EN-GB"><strong>Dear Seamus Davey-Fitzpatrick,</strong> Actor,</span></em></p>

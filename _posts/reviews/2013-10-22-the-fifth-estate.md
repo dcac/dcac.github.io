@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "The Fifth Estate"
 comments: true
-categories: [based on, Benedict Cumberbatch, Bill Condon, Daniel Bruhl, inspired by, Julian assange, the fifth estate, thriller, true events, true story, Uncategorized, wikileaks]
+tags: [based on, Benedict Cumberbatch, Bill Condon, Daniel Bruhl, inspired by, Julian assange, the fifth estate, thriller, true events, true story, Uncategorized, wikileaks]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/10/22/the-fifth-estate.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78ee/1382450753357/The%20Fifth%20Estate.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Shaun Yue</strong>, Screen Graphics Designer,</span></em></p>

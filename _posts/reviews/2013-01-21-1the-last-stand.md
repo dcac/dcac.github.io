@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "The Last Stand"
 comments: true
-categories: [action, arnold schwarzenegger, comedy, Jee-woon Kim, Johnny Knoxville, Kim Jee-woon, Korean, Letters, Luis Guzman, Peter Stormare, Southy Korea, The Last Stand, transalation]
+tags: [action, arnold schwarzenegger, comedy, Jee-woon Kim, Johnny Knoxville, Kim Jee-woon, Korean, Letters, Luis Guzman, Peter Stormare, Southy Korea, The Last Stand, transalation]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/1/21/the-last-stand.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7797/1358805873823/The%20Last%20Stand.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Jacob J. Yoo</strong>, Screenplay Translator,</span></em></p>

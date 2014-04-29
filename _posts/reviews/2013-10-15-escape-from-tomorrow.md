@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Escape from Tomorrow"
 comments: true
-categories: [black and white, company, countdown, court, Disney, Escape from Tomorrow, independent, lawsuit, Letters, movie, sue, sued, Walter Disney]
+tags: [black and white, company, countdown, court, Disney, Escape from Tomorrow, independent, lawsuit, Letters, movie, sue, sued, Walter Disney]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/10/15/escape-from-tomorrow.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78e8/1381858494623/Escape%20from%20Tommorow.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Christopher L. Perez,</strong> Clearance Counsel,</span></em></p>

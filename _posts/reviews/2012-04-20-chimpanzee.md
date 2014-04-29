@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Chimpanzee"
 comments: true
-categories: [BBC, Chimpanzees, Disney, Letters, lovely, Narration, Tim Allen]
+tags: [BBC, Chimpanzees, Disney, Letters, lovely, Narration, Tim Allen]
 ---
 <div><p><span class="full-image-block ssNonEditable"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7535/1336617935597/chimpanzee.jpg" alt="" /></span></p>
 <p><span style="font-size:120%;"><em><strong>Dear Tim Allen,</strong> Narrator,</em></span></p>

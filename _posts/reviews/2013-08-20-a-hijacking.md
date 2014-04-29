@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "A HIJACKING"
 comments: true
-categories: [a hijacking, acting, action, Actor, danish cinema, Review, soren malling, suspense, thriller, Uncategorized]
+tags: [a hijacking, acting, action, Actor, danish cinema, Review, soren malling, suspense, thriller, Uncategorized]
 ---
 <div><p><span class="full-image-block ssNonEditable"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7894/1377019951051/A%20Hijacking.jpg" alt="" /></span></p>
 <p><em style="font-size:130%;"><strong>Dear Soren Malling</strong><strong>,</strong> Actor,</em></p>

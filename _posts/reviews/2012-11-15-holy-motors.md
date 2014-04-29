@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Holy Motors"
 comments: true
-categories: [Cannes, CFI, EU Film Festival, EUFF, European Union, Festivals, Foreign, France, French, Holy Motors, Leos Caraz]
+tags: [Cannes, CFI, EU Film Festival, EUFF, European Union, Festivals, Foreign, France, French, Holy Motors, Leos Caraz]
 ---
 <div><p><strong><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/11/15/holy-motors.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf770e/1352993840837/Holy%20Motors%202.jpg" alt="" /></a></span></span></strong></p>
 <p><em><span style="font-size:130%;"><strong>Dear Mathilde Profit</strong>, Continuity</span></em></p>

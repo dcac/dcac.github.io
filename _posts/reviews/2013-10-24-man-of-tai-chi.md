@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Man of Tai Chi"
 comments: true
-categories: [China, debut, director, directorial, fight, fighting, first, hong kong, Keanu Reeves, kung-fu, Letters, martial arts, Tiger Chen]
+tags: [China, debut, director, directorial, fight, fighting, first, hong kong, Keanu Reeves, kung-fu, Letters, martial arts, Tiger Chen]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/10/24/man-of-tai-chi.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78f2/1382623133088/Man%20of%20Tai%20Chi.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Mike Leeder,</strong> Fighter Casting,</em></p>

@@ -1,19 +1,18 @@
 ---
 published: true
-categories: reviews
-image:
-author: 
-stars: 
+imdb: tt2355540
+image: cutie-and-the-boxer.jpg
+author: Jennifer Mulligan
+stars: 4
 excerpt: 
-position: 
-addressee: 
+position: Artist
+addressee: Noriko Shinohara
 layout: review
+categories: reviews
 title: "Cutie and the Boxer"
 comments: true
-categories: [artist, biography, biopic, documentary, Letters, Oscars 2014]
+tags: [artist, biography, biopic, documentary, Letters, Oscars 2014]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/2/18/cutie-and-the-boxer.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7966/1392731773337/Cutie%20and%20the%20Boxer.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Noriko Shinohara</strong>, Artist,</em></p>
 <p>You&#8217;re a brave woman, being an artist married to another artist for so long. Your husband, Ushio &ndash; who we come to know as Bullie in the animated &#8220;art brought to life&#8221; segments of the documentary <em>Cutie and The Boxer</em> &ndash; seems like he&#8217;s been a bit of a handful the past thirty-nine years or so.</p>
 <p>I think you&rsquo;re aware that maybe you should have found someone a little more responsible than a temperamental avant-garde artist, and now recovered alcoholic, as your life partner. But I have to commend you. Many people would not have put up with his ways for so long&mdash;especially considering his attitude towards artistic relationships that dictates &#8220;the average one has to support the genius.&rdquo; When you showed up, he knew he needed someone like you to keep him afloat. That&#8217;s why he asked you to stay. That&#8217;s why you&rsquo;ve stayed. And that&#8217;s why you fell in love with him.</p>
 <p>Wait. Maybe he <em>is</em> a genius.</p>
@@ -26,4 +25,3 @@ categories: [artist, biography, biopic, documentary, Letters, Oscars 2014]
 <p>Thank you for having such an open life, and for allowing me to have a glimpse of it.</p>
 <p>Truly,</p>
 <p>Jennifer</p>
-<p><strong><em>Status: Air Mail (4/5)</em></strong></p></div>

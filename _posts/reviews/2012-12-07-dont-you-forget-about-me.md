@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Don't You Forget About Me"
 comments: true
-categories: [Canadian, documentary, Letters, Letters to the Dead, netflix.ca]
+tags: [Canadian, documentary, Letters, Letters to the Dead, netflix.ca]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/12/7/dont-you-forget-about-me.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7758/1354902455423/Don't%20You%20Forget%20About%20Me.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear John Hughes,</strong> In Memory Of.</em></p>

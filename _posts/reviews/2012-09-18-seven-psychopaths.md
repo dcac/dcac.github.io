@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "TIFF: Seven Psychopaths"
 comments: true
-categories: [2012, Audience award, Christopher Walken, Colin Farrell, Martin McDonagh, Midnight Madness, Sam Rockwell, TIFF, Uncategorized, Woody Harrelson]
+tags: [2012, Audience award, Christopher Walken, Colin Farrell, Martin McDonagh, Midnight Madness, Sam Rockwell, TIFF, Uncategorized, Woody Harrelson]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/9/18/seven-psychopaths.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf766e/1347982563913/Seven%20Psychopaths.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Elena Balshem, </strong>Costume Shopper</span></em></p>

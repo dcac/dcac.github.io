@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "Catching Fire"
 comments: true
-categories: [Catching Fire, drama, dystopia, fantasy, Letters, teen, The Hunger Games]
+tags: [Catching Fire, drama, dystopia, fantasy, Letters, teen, The Hunger Games]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/11/21/catching-fire.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf790c/1385090490075/Catching%20Fire.jpg" alt="" /></a></span></span></p>
 <p class="Body"><em><span style="font-size:130%;"><strong>Dear Dominic Drane,</strong> Crowd Supervisor,</span></em></p>

@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "The Villain"
 comments: true
-categories: [Ann Margaret, arnold schwarzenegger, Cactus Jack, comedy, Early Arnold, Early Arnold, Kirk Douglas, Looney Toones, Real-life, spoof, The Villain, Western]
+tags: [Ann Margaret, arnold schwarzenegger, Cactus Jack, comedy, Early Arnold, Early Arnold, Kirk Douglas, Looney Toones, Real-life, spoof, The Villain, Western]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/11/27/the-villain.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7740/1354027553082/The%20Villain.jpg" alt="" /></a></span></span></p>
 <p><em style="font-size:130%;"><strong>Dear Arnold Schwarzenegger,</strong> Handsome Stranger</em></p>

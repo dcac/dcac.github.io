@@ -1,6 +1,5 @@
 ---
 published: true
-categories: reviews
 image:
 author: 
 stars: 
@@ -8,9 +7,10 @@ excerpt:
 position: 
 addressee: 
 layout: review
+categories: reviews
 title: "The Boxing Girls of Kabul"
 comments: true
-categories: [Afghanistan, Canadian, Canadian Screen Awards, documentary, Kabul, Letters]
+tags: [Afghanistan, Canadian, Canadian Screen Awards, documentary, Kabul, Letters]
 ---
 <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/3/6/the-boxing-girls-of-kabul.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf77dc/1362593949417/bixing.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:120%;"><em><strong>Dear Ariel Nasr,</strong> Filmmaker</em></span></p>
