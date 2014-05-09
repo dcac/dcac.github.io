@@ -1,0 +1,69 @@
+caseyt:
+  name: Casey Tourangeau
+  email: casey@dearcastandcrew.com
+  twitter: RolloTomasi73
+  image: dude.png
+  bio: 'When Casey studied Film Theory in University, his secret shame was that he was (and still is) an unabashed Spielberg fan. His secret shame now is that he writes movie reviews for a blog.'
+
+christopherr:
+  name: Christopher Redmond
+  profiled: true
+  email: christopher@dearcastandcrew.com
+  twitter: film500
+  image: dude.png
+  bio: 'During a nomadic childhood, Christopher used to pad his letters to friends with personal film reviews. They made the envelopes impressively thick and, in his mind, more valuable. Then at 23, he landed his first paid film position as the Assistant (to the) Executive Producer of a movie-of-the-week. The dream had finally become a reality. And that reality slowly became a little too real. So for 2011, Christopher successfully retreated back into fantasy with Film500 – where he watched and reviewed 500 feature films in one year. Take that, real world.'
+
+jaredy:
+  name: Jared Young
+  profiled: true
+  email: jared@dearcastandcrew.com
+  twitter: JaredAYoung
+  image: dude.png
+  bio: 'Jared’s reviews have appeared in the Toronto Star, Bangkok Post, and other places. His <a href="http://youngmiscellanea.com/">other writing</a> can be found in places like Maisonneuve, Descant, The Fiddlehead, The Ottawa Citizen, and has been anthologized by McSweeney’s. He likes movies. But he failed out of film school. So, you know, take it all with a grain of salt.'
+
+coryh:
+  name: Cory Haggart
+  profiled: true
+  email: cory@dearcastandcrew.com
+  twitter: 
+  image: dude.png
+  bio: 'Growing up in California involves high-dosage film-watching. In suburban towns with nothing to do, that goes double. Opening night for Pulp Fiction meant that fifteen people showed up and all but three walked out. “It was just so profane.” Living in Europe has even different demands: when you don’t know what to do with your life, the only things left to rent on a Friday night, alone, are the films of Tarkovsky or Russ Meyer. With a bottle of wine, that’s some good cultural learnin’. Despite his experiences, Cory knows nothing about movies.'
+  
+dig:
+  name: Di Golding
+  profiled: true
+  email:
+  twitter:
+  image: chick.png
+  
+kelany:
+  name: Kelan Young
+  profiled: true
+  email:
+  twitter:
+  image: dude.png
+ 
+natm:
+  name: Nat Master
+  email:
+  twitter:
+  
+stefane:
+  name: Stefan Ellison
+  email:
+  twitter:
+
+jenniferm:
+  name: Jennifer Mulligan
+  email:
+  twitter:
+  
+erinc:
+  name: Erin Curtin
+  email:
+  twitter:
+  
+test:
+  name: Test Author
+  email:
+  twitter:

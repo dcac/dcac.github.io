@@ -1,0 +1,13 @@
+    <div class="row">
+      <div class="section-title">
+        <h1>{{ page.section }}</h1>
+        <section>
+          <ul class="section-right-nav">
+            <li class="section-right-nav"><a href="/features/"{% if page.title == "Features" %} class="current"{% endif %}>All Features</a></li>
+            <li class="section-right-nav"><a href="/features/essays/"{% if page.title == "Essays" %} class="current"{% endif %}>Essays</a></li>
+            <li class="section-right-nav"><a href="/features/series/"{% if page.title == "Series" %} class="current"{% endif %}>Series</a></li>
+            <li class="section-right-nav"><a href="/features/lists/"{% if page.title == "Lists" %} class="current"{% endif %}>Lists</a></li>
+          </ul>
+        </section>
+      </div>
+    </div>

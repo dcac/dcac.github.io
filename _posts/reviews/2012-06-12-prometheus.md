@@ -1,0 +1,29 @@
+---
+published: true
+image:
+author: test 
+stars: 
+excerpt: 
+position: 
+addressee: 
+layout: review
+categories:
+  - reviews
+  - streaming
+  - on-video
+title: "Prometheus"
+comments: true
+tags: [Alien, Charlize Theron, Letters, netflix.ca, Noomi Rapace, Prometheus, Ridely Scott]
+---
+<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/6/12/prometheus.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7595/1339507517403/prometheus.jpg" alt="" /></a></span></span></p>
+<p><em style="font-size:120%;"><strong>Dear Jon Spaihts and Damon Lindelof,</strong> Screenwriters,</em></p>
+<p>I&rsquo;m writing you a letter. It&rsquo;s also a movie review. That&rsquo;s what we do here: write movie reviews in the form of personal correspondence. I&rsquo;m about to review <em>Prometheus</em>, the film that you both co-wrote. I was disappointed by it. Mostly because of your screenplay. It&rsquo;s a screenplay that, unfortunately, doesn&rsquo;t mince words. See, sometimes words need to be minced. Or else you end up with something like this: a letter that is a movie review that is written exclusively as exposition and is therefore interminable to sit through.</p>
+<p><em>Let me get this straight</em>&hellip;you were hired to write the screenplay for <em>Prometheus</em>, the not-quite-a-prequel prequel to <em>Alien</em>, which would be Ridley Scott&rsquo;s decades-late return to sci-fi, the genre that launched his career &ndash; who, despite recent evidence to the contrary (see <em>Robin Hood</em>), still possesses the craftsmanship to conjure beautiful and coherent big-screen spectacle &ndash; and the best you could do for him was to construct a generic scientific-mission-in-space-gone-wrong plot around philosophical questions about the origin of mankind that seem lifted straight from the term paper of a precocious junior high school kid?</p>
+<p><em>Hold on a second. You&rsquo;re telling me</em>&hellip;that you have at your disposal a willing crew of A-list actors, including Noomi Rapace, Idris Elba, Charlize Theron, and Michael Fassbender (who figuratively &ndash; then literally &ndash; channels Peter O&rsquo;Toole), and you&rsquo;re able to do nothing more than reduce them all to attractive exposition delivery devices who constantly describe what his happening onscreen (often <em>while</em> it is happening) and are motivated only by the conveniences of the plot?</p>
+<p><em>Okay, I think I&rsquo;ve figured it out</em>&hellip;you don&rsquo;t trust the audience. Or maybe you didn&rsquo;t trust Ridley Scott, in his advanced age, to tell a lucid story with his images. Why else, when Fassbender obscures his video feed from Charlize Theron&rsquo;s corporate overseer, thereby cutting her off from the sortie to the alien ruins, does she proclaim indignantly to the empty room: &ldquo;That bastard; he cut me off.&rdquo; And why, long after the audience has discovered that a certain character has secretly been on the ship the whole time, another character observes, in a moment of redundant epiphany: &ldquo;You&rsquo;ve been here on the ship the whole time!&rdquo; These lines, and countless others like them, are self-conscious footnotes. They are clearly coming from you, the writers, the architects of the story. It&rsquo;s like you formatted the screenplay in reverse and Ridley Scott filmed the dialogue and had the actors speak the scene descriptions. It&rsquo;s that famous writerly advice expressed in antithesis: telling, not showing.</p>
+<p><em>You want to know why I&rsquo;m being so hard on you guys?</em>&hellip;because there are some truly great moments in <em>Prometheus</em>. Potentially <em>iconic</em> moments. But it&rsquo;s telling, don&rsquo;t you think, that the film&rsquo;s most captivating sequences are the ones that occur in silence: the magnificent opening credits sequence, the ensuing extraterrestrial sacrifice ritual, and, shortly thereafter, David bicycling through the silent space-cruiser, studying ancient languages and shooting hoops. It&rsquo;s telling, too, that these moments occur in the first half of the film; the assembled talent &ndash; from the impeccable production design to the breathtaking digital cinematography &ndash; are able to disguise the incompetency of your screenplay for only so long.</p>
+<p><em>So, in case you didn&rsquo;t get it, let me explain</em>&hellip;you&rsquo;ve written one of the most visually stunning radio plays I&rsquo;ve ever had the pleasure of watching&mdash;and the misfortune of listening to. You leave a lot of questions unanswered, and not in the good, <em>2001: A Space Odyssey</em> kind of way. I get the feeling this open-endedness was meant to elicit debate, but, unfortunately, the only debates to be had are about the gaping holes in logic.</p>
+<p><em>I&rsquo;ll tell you what you did wrong</em>&hellip;you wrote a whole lot of dialogue that begins with &ldquo;Let me get this straight&hellip;&rdquo; and&nbsp; &ldquo;So what you&rsquo;re telling me is&hellip;&rdquo; and other rhetorical qualifiers, and while it might do wonders to explain the mechanics of the narrative, it does nothing to impel the characters, humanize them, or provide any insight into the mess of pseudo-profound musings you implant, like so many stillborn xenomorph fetuses, into their chest cavities&mdash;which remain, I was disappointed to observe, thoroughly unexploded.&nbsp;</p>
+<p>This is the part where the letter ends,</p>
+<p>Jared</p>
+<p><strong>Status: return to sender (2/5)</strong></p></div>
