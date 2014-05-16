@@ -12,14 +12,9 @@ $(document).ready(function () {
     if ($image.size()) {
       var ww=$(window).width();
       var wh=$(window).height();
-      var iw=$image.width();
-      var ih=$image.height();
-      var f=Math.max(ww/iw,wh/ih);
-      var iwr=Math.round(iw*f);
-      var ihr=Math.round(ih*f);
       $image.css({
-      'width': iwr,
-      'height': ihr
+      'width': ww,
+      'height': wh
       });
     }
   }
@@ -41,7 +36,7 @@ $(document).ready(function () {
         'padding-left':'145px'
       });
       $('#down-arrow').css({'left':(($(window).width()/2))+'px'});
-      $('#main-title').css({'width':(($(window).width()))+'px'});
+      $('#main-title').css({'width':(($(window).width()))-145+'px'});
      // $('#body-text').css({'width':(($(window).width()))+'px'});
       $(window).resize(function(){
         $('#story-title').css({'height':(($(window).height()))+'px'});

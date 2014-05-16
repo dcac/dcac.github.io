@@ -1,0 +1,151 @@
+//Hero image and copy
+
+img.hero-image{
+  .title-img; 
+}
+.hero-container{
+  position: relative;
+  padding:0;
+}
+div.hero-title{
+  z-index: 1;
+  top: 60%;
+  left: 0;
+  padding-left: @15px;
+  padding-right:@15px;
+  position: absolute;
+}
+.hero-title h1{
+  .hero-title-text;
+  @media @mobile{
+    .mobile-text;
+  }
+}
+.hero-title h2.author,.hero-title h2.addressee,.hero-title h2.star-rating{
+  .hero-byline;
+  @media @mobile{
+    .mobile-text;
+  }
+}
+//Review grid blocks
+
+.post{
+  .review-block(1.25,20rem);
+}
+.post-list{
+  .review-block(3.75rem);
+}
+
+div.review-text{
+  padding:0 5px;
+  margin-top: .6rem;
+  .animation;
+}
+div.review-text h1{
+  .review-grid-head;
+}
+div.review-text h2.author{
+  .review-grid-byline(@text-small);
+}
+div.review-text h2.star-rating{
+  .review-grid-byline(@text-small);
+}
+div.review-text h2.addressee{
+  .review-grid-byline;
+  font-style: italic;
+}
+.post-list{
+  margin-bottom: 2.5rem;
+}
+.home-feature{
+  margin-bottom: 3rem;
+}
+div.review-text p,div.review-text h2.star-rating {
+  .review-grid-excerpt;
+}
+p{
+  font-family: @serif;
+  color: @dark-grey;
+}
+a{
+  display: block;
+}
+a:hover{
+  text-decoration: none;
+}
+.more-reviews{
+  .grid-divider;
+}
+.load-posts-div,.goto-posts-div{
+  text-align: center;
+}
+.load-posts-button{
+  .home-button;
+}
+.goto-posts-button{
+  .home-button(none);
+}
+.row{
+  margin-bottom: @45px;
+}
+//Sidebars
+
+div.film-credits{
+  background-color: @light-mid-grey;
+  margin-bottom: @25px;
+  min-height:@1px*200;
+  position: relative;
+  padding-top: @10px;
+}
+div.film-credits h1{
+  .sidebar-head;
+}
+article h1.film-credits-title{
+  .sidebar-head;
+  margin-top:@10px;
+}
+article h2.film-credits-description{
+  font-size: @text-regular;
+  line-height: @20px;
+  font-family: @serif;
+  font-weight: 100;
+  color: @dark-grey;
+  display: block;
+  text-align: left;
+  margin-left: @10px;
+}
+div.film-credits article a {
+  margin-left: @10px;
+}
+div.film-credits-nav{
+  text-align:center;
+  background-color: @side-grey;
+  color: @light-grey;
+  position: absolute;
+  bottom: 0;
+  width:100%;
+}
+div.now-streaming{
+  background-color: @light-mid-grey;
+  margin-bottom: @25px;
+  margin-top: 0;
+  padding-top: @15px;
+}
+.now-streaming h1{
+  .sidebar-head;
+}
+ul.now-streaming-list{
+  list-style: none;
+}
+
+ul.now-streaming-list li.now-streaming-title span.star-rating{
+  color:@dark-grey;
+  font-size: @text-small;
+}
+li.now-streaming-title a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  font-size: @text-regular;
+  color:@dark-grey;
+}
