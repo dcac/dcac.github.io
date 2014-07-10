@@ -1,19 +1,19 @@
 ---
 published: true
-image:
+imdb: tt0080097
+image: the-villain.jpg
 author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+stars: 2
+excerpt: "I&rsquo;m actually nervous writing this. During my most impressionable years, you were the hero that loomed largest in my imagination. A diligently glued together <em>Terminator 2</em> poster-sized puzzle hung proudly on my wall for years. Arnold-themed action figures, trading cards, and books filled my room while I excitedly worked my way through your back-catalogue of R-rated adventures. I never understood how my parents seemed to give any VHS tape with your face on it a free pass, even though so few of your films were suitable for a child. Maybe they somehow only saw <em>The Villain</em>, and forever associated you with harmless, over-the-top slapstick humour, and misguided attempts at bringing cartoon sensibilities to real-life."
+position: Hansome Stranger
+addressee: Arnold Schwarzenegger
 layout: review
-categories: reviews
+categories: 
+  - reviews
 title: "The Villain"
 comments: true
 tags: [Ann Margaret, arnold schwarzenegger, Cactus Jack, comedy, Early Arnold, Early Arnold, Kirk Douglas, Looney Toones, Real-life, spoof, The Villain, Western]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/11/27/the-villain.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7740/1354027553082/The%20Villain.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Arnold Schwarzenegger,</strong> Handsome Stranger</em></p>
 <p>I&rsquo;m actually nervous writing this. During my most impressionable years, you were the hero that loomed largest in my imagination. A diligently glued together <em>Terminator 2</em> poster-sized puzzle hung proudly on my wall for years. Arnold-themed action figures, trading cards, and books filled my room while I excitedly worked my way through your back-catalogue of R-rated adventures. I never understood how my parents seemed to give any VHS tape with your face on it a free pass, even though so few of your films were suitable for a child. Maybe they somehow only saw <em>The Villain</em>, and forever associated you with harmless, over-the-top slapstick humour, and misguided attempts at bringing cartoon sensibilities to real-life.</p>
 <p>It&rsquo;s very unlikely. Most people &ndash; and many fans &ndash; have never seen or even heard of this film. By the time your stardom hit my personal orbit, your authorized biographies gleefully started your career (and myth) with <em>Conan the Barbarian</em>. In fact, that&rsquo;s what inspired the <a href="/letters/tag/early-arnold">Early Arnold</a> series on <em>Dear Cast and Crew</em> &ndash; my selfish desire to finally, truly, see all your films. I remember some early films being mentioned in those books without significant information or images, like <a href="/letters/2012/11/6/hercules-in-new-york.html"><em>Hercules in New York</em></a> (which at least <em>sounds</em> macho and on-brand) and the documentary <a href="/letters/2012/11/20/pumping-iron.html"><em>Pumping Iron</em></a>. In the past weeks, I&rsquo;ve learned why the first film is better remembered for its funny title, and why the latter is a cult classic and critical success. <a href="/letters/2012/11/14/stay-hungry.html"><em>Stay Hungry</em></a> was lost in the middle, even though it allowed you to play a laid-back version of yourself and co-starred both Jeff Bridges and Sally Fields.</p>
 <p>Then came <em>The Villain</em>.</p>
@@ -24,4 +24,3 @@ tags: [Ann Margaret, arnold schwarzenegger, Cactus Jack, comedy, Early Arnold, E
 <p>When I was 8 years old and saw T-1000 stabbing a man through-a-milk-carton-through-the-mouth, I actually puked. But like a true Arnold-holic, I wiped my chin and came back for more. It only tested my resolve and pushed my personal limits. Seeing <em>The Villain</em> as a younger viewer might have helped me kick the habit of you but at this point, it&rsquo;s too late. I&rsquo;m in it for the long haul.</p>
 <p>Forever yours,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Return to Sender (2/5)</em></strong></p></div>

@@ -1,11 +1,12 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt1707386
+image: les-miserables.jpg
+author: christopherr 
+stars: 4.5
+excerpt: "&ldquo;It was actually pretty good&hellip; for a chick flick.&rdquo; &ndash; Doug Redmond"
+position: "Reluctant Audience Member (and Real-Life Javert)"
+addressee: Dad 
 layout: review
 categories: reviews
 title: "Les Misérables"

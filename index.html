@@ -5,25 +5,32 @@ home: true
 ---
       
       {% include top-nav.html %}
-      <div class="row">
-        <div class="large-12 columns">
-          <div class="hero-container">
-          {% for post in site.posts limit:1 %}
-          {% assign author = site.data.authors[post.author] %}
-            <a href="{{ post.url }}"><img class="hero-image" src="img/article/{{ post.image }}" alt="{{ post.title }}" /></a>
-            <div class="hero-title">
-              <a href="{{ post.url }}">
-                <h1>{{ post.title }}</h1>
-                <h2 class="star-rating">{% for i in (1..post.stars) %}<i class="fa fa-star"></i>{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<i class="fa fa-star-half-o"></i>{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<i class="fa fa-star-o"></i>{% endfor %}{% endif %}</h2>
-                <h2 class="addressee">Dear {{ post.addressee }}, {{ post.position }}</h2>
-                <h2 class="author">By {{ author.name }}</h2>
-              </a>
-              <p><a class="btn dcac-hero-button" role="button" href="{{ post.url }}">Read more ></a></p>
+      {% for post in site.posts limit:1 %}
+      {% assign author = site.data.authors[post.author] %}
+      <section id="hero-home">
+        <div id="story-title" class="title-info">
+          <a href="{{ post.url }}">
+            <div class="title-img" style="background-image:url(/img/article/{{ post.image }});"></div>
+            <div class="row">
+              <div class="large-12 medium-12 small-12 columns home-title-height">
+                <div class="hero-title-text">
+                  <h1 class="hero-home">{{ post.title }}</h1>
+                  <h2 class="hero-addressee-home">
+                    Dear {{ post.addressee }}, {{ post.position }}
+                  </h2>
+                  <h2 class="hero-author-home">
+                    By {{ author.name }}
+                  </h2>
+                  <div class="large-star-rating-home">
+                    {% for i in (1..post.stars) %}<img class="star-large" src="/img/global/star-blue.svg" />{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<img class="star-large" src="/img/global/star-blue-half.svg" />{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img class="star-large" src="/img/global/star-white.svg" />{% endfor %}{% endif %}
+                  </div>
+                </div>
+              </div>
             </div>
-         {% endfor %}
-          </div>
+          </a>
         </div>
-      </div>
+      </section>
+      {% endfor %}
   
       <div class="row" id="row-height">
         <div class="large-8 medium-8 columns">
@@ -34,15 +41,7 @@ home: true
            <div class="row">
           {% endif %}
              <div class="post-list large-6 medium-6 columns grow">
-              <a href="{{ post.url }}" class="thumbnail"><img src="/img/article/thumb/{{ post.image }}" alt="{{ post.title }}" /></a>
-              <a href="{{ post.url }}">
-                <div class="review-text">
-                  <h1>{{ post.title }}</h1>
-                  <h2 class="star-rating">{% for i in (1..post.stars) %}<i class="fa fa-star"></i>{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<i class="fa fa-star-half-o"></i>{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<i class="fa fa-star-o"></i>{% endfor %}{% endif %}</h2>
-                  <h2 class="addressee">Dear {{ post.addressee }}, {{ post.position }}</h2>
-                  <h2 class="author">By {{ author.name }}{{ post._ga }}</h2>
-                </div>
-              </a>
+              {% include post-grid/post.html %}
             </div>
           {% assign loopindex = forloop.index | modulo: 2 %}
           {% if loopindex != 1 %}
@@ -52,21 +51,8 @@ home: true
           {% for post in site.categories['features'] limit:1 %}
           {% assign author = site.data.authors[post.author] %}
             <div class="row">
-              <div class="large-6 medium-6 columns home-feature">
-                <a href="{{ post.url }}" class="thumbnail"><img src="/img/features/thumb/{{ post.image }}" alt="{{ post.title }}" /></a>
-              </div>
-              <div class="large-6 medium-6 columns home-feature">
-              <a href="{{ post.url }}">
-                  <div class="review-text">
-                    <h1>{{ post.title }}</h1>
-                    <!--<h2 class="star-rating">{% for i in (1..post.stars) %}<i class="fa fa-star"></i>{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<i class="fa fa-star-half-o"></i>{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<i class="fa fa-star-o"></i>{% endfor %}{% endif %}</h2>
-                    <h2 class="addressee">Dear {{ post.addressee }}, {{ post.position }}</h2>-->
-                    <h2 class="author">By {{ author.name }}{{ post._ga }}</h2>
-                    <p>{{ post.excerpt }}</p>
-                  </div>
-                </a>
-              </div>
-          </div>
+              {% include post-grid/post-feature.html %}
+            </div>
           {% endfor %}
           {% for post in site.posts offset:5 limit:4 %}
           {% assign author = site.data.authors[post.author] %}
@@ -75,15 +61,7 @@ home: true
            <div class="row">
           {% endif %}
              <div class="post-list large-6 medium-6 columns">
-              <a href="{{ post.url }}" class="thumbnail"><img src="/img/article/thumb/{{ post.image }}" alt="{{ post.title }}" /></a>
-              <a href="{{ post.url }}">
-                <div class="review-text">
-                  <h1>{{ post.title }}</h1>
-                  <h2 class="star-rating">{% for i in (1..post.stars) %}<i class="fa fa-star"></i>{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<i class="fa fa-star-half-o"></i>{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<i class="fa fa-star-o"></i>{% endfor %}{% endif %}</h2>
-                  <h2 class="addressee">Dear {{ post.addressee }}, {{ post.position }}</h2>
-                  <h2 class="author">By {{ author.name }}{{ post._ga }}</h2>
-                </div>
-              </a>
+              {% include post-grid/post.html %}
             </div>
           {% assign loopindex = forloop.index | modulo: 2 %}
           {% if loopindex != 1 %}
@@ -121,20 +99,12 @@ home: true
             {% for post in site.posts offset:9 limit:6 %}
             {% assign author = site.data.authors[post.author] %}
              <div class="post large-4 medium-4 columns">
-              <a href="{{ post.url }}" class="thumbnail"><img src="/img/article/thumb/{{ post.image }}" alt="{{ post.title }}" /></a>
-              <a href="{{ post.url }}">
-                <div class="review-text">
-                  <h1>{{ post.title }}</h1>
-                  <h2 class="star-rating">{% for i in (1..post.stars) %}<i class="fa fa-star"></i>{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<i class="fa fa-star-half-o"></i>{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<i class="fa fa-star-o"></i>{% endfor %}{% endif %}</h2>
-                  <h2 class="addressee">Dear {{ post.addressee }}, {{ post.position }}</h2>
-                  <h2 class="author">By {{ author.name }}{{ post._ga }}</h2>
-                </div>
-              </a>
+              {% include post-grid/post.html %}
             </div>
           {% endfor %}
           </div>
           <div class="load-posts-div">
             <button id="load-posts" class="load-posts-button">More Reviews</button>
-            <button id="goto-posts" class="goto-posts-button" href="/reviews/">Browse All Reviews ></button>
+            <button id="goto-posts" class="goto-posts-button">Browse All Reviews ></button>
           </div>
       </div>

@@ -18,13 +18,16 @@ $mm_fontSize: 14px !default;
 $mm_subpanelOffset: 40% !default;
 
 //	Colors
-$mm_baseBg: #333 !default;
+$mm_baseBg: #636467 !default;
 $mm_pageShadow: 0 0 20px rgba( 0, 0, 0, 0.5 ) !default;
 $mm_color: rgba( 255, 255, 255, 0.6 ) !default;
 $mm_dimmedColor: rgba( 255, 255, 255, 0.3 ) !default;
 $mm_emphasizedBg: rgba( 0, 0, 0, 0.1 ) !default;
 $mm_highlightedBg: rgba( 255, 255, 255, 0.05 ) !default;
 $mm_borderColor: rgba( 0, 0, 0, 0.15 ) !default;
+
+// Text
+$_mm_large_text: 700 18px/40px 'Helvetica Neue LT Std',Helvetica, serif;
 
 
 

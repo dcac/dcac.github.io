@@ -1,13 +1,15 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt1772341
+image: wreck-it-ralph.jpg
+author: jaredy 
+stars: 3
+excerpt: "The system specifications you designed for <em>Wreck-It Ralph</em> are solid. Fed up with the repetition and drudgery of his day job, a block-headed coin-op arcade video game villain goes rogue in an attempt to win the accolades and attention that are, by nature of his programming, beyond his reach. Classic redemption story. You have a linear journey with an integrated end-goal: Ralph proceeds to invade the other arcade games and unwittingly puts all of the machines in danger of being put out of order (the video game equivalent of an extinction-level-event). If only there was more to it than that."
+position: Senior Software Engineer
+addressee: Matthew F. Schnittker
 layout: review
-categories: reviews
+categories:
+  - reviews
 title: "Wreck-It Ralph"
 comments: true
 tags: [Animation, comedy, Letters, video games]
@@ -22,4 +24,3 @@ tags: [Animation, comedy, Letters, video games]
 <p><em>Wreck-It Ralph</em> is good. It works. It&rsquo;s functional. But it&rsquo;s a perfect example of how a half-developed idea<em> </em>can&rsquo;t be corrected after the fact with advanced algorithms and detailed documentation. No, even in software engineering you have to be bold to be great.&nbsp;</p>
 <p>Sincerely,&nbsp;</p>
 <p>Jared Young</p>
-<p><strong><em>Status: Standard Delivery (3/5)</em></strong></p></div>

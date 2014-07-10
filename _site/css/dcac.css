@@ -5,6 +5,12 @@ html,
 body {
   height: auto;
 }
+body {
+  background-color: #636467;
+}
+nav#menu-left {
+  display: none;
+}
 /* Colours */
 .grid-divider {
   font-family: "Georgia", serif;
@@ -33,8 +39,52 @@ body {
 .text-shadow {
   text-shadow: 0 0 0.125rem #333333;
 }
+.container-shadow {
+  background-color: #fff;
+  z-index: 2;
+  min-height: 100%;
+  position: relative;
+}
+.margin-fix {
+  margin-top: -45px;
+}
+.review-fix {
+  margin-bottom: 45px;
+}
+#nav-test {
+  display: block;
+  /* margin-top: -100px; */
+  height: 120px;
+  position: fixed;
+  z-index: 0;
+  width: 275px;
+  padding-top: 40px;
+  text-align: center;
+}
+img.side-home-link {
+  height: 70px;
+  width: 166px;
+  display: block;
+  margin: 0 auto;
+}
+#menu-left {
+  top: 120px;
+}
 img.hero-image {
   z-index: 0;
+  height: 31.25rem;
+  width: 100%;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center;
 }
 .hero-container {
   position: relative;
@@ -49,7 +99,7 @@ div.hero-title {
   position: absolute;
 }
 .hero-title h1 {
-  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   color: #ffffff;
   font-weight: 800;
   font-size: 2.25rem;
@@ -57,6 +107,10 @@ div.hero-title {
   text-transform: uppercase;
   position: relative;
   text-shadow: 0 0 2px #333333;
+  text-align: center;
+  bottom: 50px;
+  position: absolute;
+  width: 100%;
 }
 @media only screen and (max-width: 767px) {
   .hero-title h1 {
@@ -82,9 +136,101 @@ div.hero-title {
     color: #333333;
   }
 }
+.hero-title-text {
+  text-align: center;
+  bottom: 50px;
+  position: absolute;
+  width: 100%;
+}
+#hero-home {
+  height: 500px;
+  margin-bottom: 45px;
+}
+.home-title-height {
+  height: 500px;
+}
+h1.hero-home {
+  color: #ffffff;
+  font-size: 6.25rem;
+  line-height: 4.375rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-weight: 700;
+  text-shadow: 0 0 2px #333333;
+}
+h2.hero-addressee-home {
+  color: #ffffff;
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 0.875rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  text-shadow: 0 0 2px #333333;
+}
+h2.hero-author-home {
+  color: #ffffff;
+  font-size: 0.875rem;
+  line-height: 1rem;
+  font-family: "Georgia", serif;
+  text-shadow: 0 0 2px #333333;
+  font-style: italic;
+}
+.large-star-rating-home {
+  display: block;
+  color: #59c2ef;
+  font-size: 1.5rem;
+  letter-spacing: 0.3125rem;
+  margin-top: 1.25rem;
+}
+.star-large {
+  display: inline;
+  height: 1.5rem;
+  margin-left: 0.25rem;
+  margin-right: 0.25rem;
+  -webkit-filter: drop-shadow(0 0 0.125rem #939598);
+  filter: drop-shadow(0 0 0.125rem #939598);
+}
+.star-small {
+  display: inline;
+  height: 1.125rem;
+  margin-right: 0.3125rem;
+  -webkit-filter: drop-shadow(0 0 0.125rem #939598);
+  filter: drop-shadow(0 0 0.125rem #939598);
+}
+.post-image {
+  position: relative;
+}
+.post-image img {
+  z-index: 0;
+}
+.corner-stamp {
+  background: url('../img/global/stamp-white.svg') no-repeat 0px 0px;
+  background-size: cover;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: block;
+  position: absolute;
+  top: 1.25rem;
+  right: 1.25rem;
+  color: transparent;
+  border: none;
+  padding: 0;
+  margin: 0;
+  z-index: 2;
+  -webkit-filter: drop-shadow(0 0 0.125rem #939598);
+  filter: drop-shadow(0 0 0.125rem #939598);
+}
+.small-star-rating {
+  position: absolute;
+  display: block;
+  color: #59c2ef;
+  font-size: 1.125rem;
+  letter-spacing: 0.3125rem;
+  bottom: 0.9375rem;
+  left: 0.9375rem;
+  z-index: 2;
+}
 .post {
   margin-bottom: 1.25;
-  min-height: 20rem;
+  min-height: 15.625rem;
 }
 .post-list {
   margin-bottom: 3.75rem;
@@ -100,37 +246,33 @@ div.review-text {
   transition: 0.5s;
 }
 div.review-text h1 {
-  font-size: 1rem;
-  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  font-size: 1.125rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   line-height: 0.9375rem;
-  color: #333333;
+  color: #000000;
   margin: 0;
 }
 div.review-text h2.author {
   font-size: 0.75rem;
   font-family: "Georgia", serif;
-  font-weight: 200;
-  color: #333333;
+  color: #939598;
   margin: 0;
-  margin-top: 0.3125rem;
+  font-style: italic;
 }
 div.review-text h2.star-rating {
   font-size: 0.75rem;
-  font-family: "Georgia", serif;
-  font-weight: 200;
-  color: #333333;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  color: #939598;
   margin: 0;
-  margin-top: 0.3125rem;
+  font-weight: 750;
 }
 div.review-text h2.addressee {
-  font-size: 0.875rem;
-  font-family: "Georgia", serif;
-  font-weight: 200;
-  color: #333333;
+  font-size: 0.75rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  color: #939598;
   margin: 0;
-  margin-top: 0.3125rem;
-  font-style: italic;
+  font-weight: bold;
 }
 .post-list {
   margin-bottom: 2.5rem;
@@ -150,9 +292,6 @@ div.review-text h2.star-rating {
 p {
   font-family: "Georgia", serif;
   color: #333333;
-}
-a {
-  display: block;
 }
 a:hover {
   text-decoration: none;
@@ -181,7 +320,7 @@ a:hover {
   padding-left: 4.6875rem;
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
-  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 0.875rem;
   letter-spacing: .1rem;
   margin-bottom: 0.9375rem;
@@ -200,7 +339,7 @@ a:hover {
   padding-left: 4.6875rem;
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
-  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 0.875rem;
   letter-spacing: .1rem;
   margin-bottom: 0.9375rem;
@@ -209,7 +348,7 @@ a:hover {
   text-transform: uppercase;
   display: none;
 }
-.row {
+.row-bottom-margin {
   margin-bottom: 2.8125rem;
 }
 div.film-credits {
@@ -221,12 +360,11 @@ div.film-credits {
 }
 div.film-credits h1 {
   margin: 0;
-  font-size: 0.875rem;
-  line-height: 0.625rem;
-  font-family: "Georgia", serif;
-  font-weight: 200;
-  letter-spacing: 0.125rem;
-  color: #333333;
+  font-size: 1.5rem;
+  line-height: 1.25rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-weight: 700;
+  color: #000000;
   display: block;
   text-align: center;
   text-transform: uppercase;
@@ -234,12 +372,11 @@ div.film-credits h1 {
 }
 article h1.film-credits-title {
   margin: 0;
-  font-size: 0.875rem;
-  line-height: 0.625rem;
-  font-family: "Georgia", serif;
-  font-weight: 200;
-  letter-spacing: 0.125rem;
-  color: #333333;
+  font-size: 1.5rem;
+  line-height: 1.25rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-weight: 700;
+  color: #000000;
   display: block;
   text-align: center;
   text-transform: uppercase;
@@ -247,11 +384,11 @@ article h1.film-credits-title {
   margin-top: 0.625rem;
 }
 article h2.film-credits-description {
-  font-size: 0.875rem;
-  line-height: 1.25rem;
-  font-family: "Georgia", serif;
+  font-size: 0.625rem;
+  line-height: 0.75rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 100;
-  color: #333333;
+  color: #636466;
   display: block;
   text-align: left;
   margin-left: 0.625rem;
@@ -275,12 +412,11 @@ div.now-streaming {
 }
 .now-streaming h1 {
   margin: 0;
-  font-size: 0.875rem;
-  line-height: 0.625rem;
-  font-family: "Georgia", serif;
-  font-weight: 200;
-  letter-spacing: 0.125rem;
-  color: #333333;
+  font-size: 1.5rem;
+  line-height: 1.25rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-weight: 700;
+  color: #000000;
   display: block;
   text-align: center;
   text-transform: uppercase;
@@ -300,9 +436,12 @@ li.now-streaming-title a {
   font-size: 0.875rem;
   color: #333333;
 }
+#page nav {
+  display: none;
+}
 .full-black {
   width: 100%;
-  background-color: #333333;
+  background-color: #ffffff;
 }
 @media only screen and (max-width: 767px) {
   .full-black {
@@ -311,41 +450,64 @@ li.now-streaming-title a {
 }
 .section-header {
   width: 100%;
-  background: #333333 url('../img/logo-xl-white.png') no-repeat 0px 25px;
-  height: 200px;
+  margin-left: 0.9375rem;
+  margin-right: 0.9375rem;
+  margin-top: 1.75rem;
+  margin-bottom: 1.75rem;
 }
 section.top-nav {
-  color: #eeeeee;
-  font-size: 12pt;
-  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  color: #939598;
+  font-size: 0.75rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   text-transform: uppercase;
-  letter-spacing: 2px;
   position: relative;
   height: 100%;
   width: 100%;
 }
+a.logo-link {
+  background: #ffffff url('../img/global/dcac-full-logo.svg') no-repeat 0;
+  background-size: cover;
+  height: 4.375rem;
+  width: 10.25rem;
+  display: block;
+}
+.top-search-toggle {
+  font-size: 0.875rem;
+  color: #939598;
+}
 section.top-nav ul {
-  left: 200px;
   position: absolute;
-  bottom: 10px;
+  font-size: 0.75rem;
+  font-weight: bold;
+  bottom: 0;
+  right: 1.875rem;
+  margin: 0;
+  display: table;
+  width: auto;
 }
 section.top-nav ul li,
 section.top-nav ul li a {
-  display: inline;
+  display: table-cell;
   list-style: none;
-  margin-right: 25px;
-  color: #ffffff;
+  color: #939598;
+  vertical-align: bottom;
+  height: 0.75rem;
+  line-height: 0.625rem;
+}
+section.top-nav ul li a.slash {
+  background: url('../img/global/slash.svg') 0.625rem 0 no-repeat;
+  padding-left: 1.875rem;
 }
 section.top-nav a:hover {
-  text-decoration: underline;
+  color: #000000;
 }
 .section-title {
   width: 100%;
-  border-bottom: 1px solid black;
+  border-bottom: 0.0625rem solid #000000;
   position: relative;
 }
 .section-title h1 {
-  font-size: 0.875rem;
+  font-size: 2.25rem;
   line-height: 2rem;
   font-family: "Georgia", serif;
   font-weight: 100;
@@ -368,94 +530,144 @@ section.top-nav a:hover {
     position: fixed;
   }
 }
+.mini-search-link {
+  background-color: transparent;
+  font-size: 18px;
+}
+.top-bar-section {
+  background: transparent;
+}
 .mini-top-nav-visible {
   display: block;
   margin-top: 0;
 }
-.container-shadow {
-  box-shadow: 0 0 0.625rem 0.3125rem #000000;
-  margin-bottom: 15.625rem;
+.dcac-logo {
+  background: url('../img/global/dcac-logo.svg') 0 no-repeat;
+  display: block;
+}
+.top-bar .name {
+  height: 35px;
+  width: 35px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+ul.title-area h1 {
+  font-size: 0.625rem;
+}
+.top-bar .name h1 a {
+  color: transparent;
+}
+.top-bar {
   background-color: #ffffff;
+  border-bottom: 1px solid black;
+}
+.mm-fixed-bottom {
+  z-index: 0;
+  background-color: #636467;
+  width: 100%;
 }
 #footer {
-  position: fixed;
+  /*   position:fixed; */
   bottom: 0;
   left: 0;
   z-index: -1;
   width: 100%;
-  height: 15.625rem;
-  text-align: center;
+  height: 11.5625rem;
   display: block;
-  background-color: #333333;
-  transition: all 0.4s ease 0s;
+  -webkit-transition: none 0.4s ease;
+  -moz-transition: none 0.4s ease;
+  -ms-transition: none 0.4s ease;
+  -o-transition: none 0.4s ease;
+  transition: none 0.4s ease;
+  -webkit-transition-property: top, right, bottom, left, border;
+  -moz-transition-property: top, right, bottom, left, border;
+  -ms-transition-property: top, right, bottom, left, border;
+  -o-transition-property: top, right, bottom, left, border;
+  transition-property: top, right, bottom, left, border;
 }
-#footer.active {
-  margin-left: 15.625rem;
-}
-footer {
+.footer {
   position: relative;
   margin: 0 auto;
   width: 60rem;
-  height: 15.625rem;
+  height: 11.5625rem;
 }
-button.footer {
-  border: none;
-  background: url('../img/logo-xl-white.png') 0px 0px no-repeat;
-  color: transparent;
-  width: 175px;
-  height: 150px;
-  position: relative;
+.footer-block {
+  width: auto;
   float: left;
-  top: 0;
-  left: 0;
-  margin-right: 50px;
+  margin-top: 3.125rem;
+  margin-bottom: 1.5625rem;
+  border-right: 1px solid #c7c8ca;
+  margin-right: 1.5625rem;
 }
 footer ul {
   list-style: none;
-  margin-left: 200px;
-  margin-top: 50px;
-  text-align: left;
-}
-.stretch {
-  width: 100%;
-  display: inline-block;
-  font-size: 0;
-  line-height: 0;
-  height: 0.0625rem;
+  display: table;
   margin: 0;
-  background-color: #fff;
 }
-footer ul li {
+footer ul li,
+h1.footer-head {
   font-size: 12pt;
   line-height: 20pt;
-  font-family: "Helvetica Neue", "Helvetica", sans-serif;
-  font-weight: 200;
-  letter-spacing: 2px;
-  text-transform: uppercase;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-weight: bold;
   color: #fff;
-  float: left;
-  display: inline-block;
-  zoom: 1;
+  display: table-cell;
+  padding-right: 1.5625rem;
   vertical-align: top;
-  margin-right: 40px;
+}
+footer ul li.social {
+  height: 3.125rem;
+  width: auto;
+  display: table-cell;
+  vertical-align: middle;
+  padding-right: 1.5625rem;
+  margin: 0;
+  padding-left: 0;
+}
+a.social-twitter {
+  background: url('../img/footer/twitter.png') 0 0 no-repeat;
+  width: 33px;
+  height: 27px;
+  display: block;
+}
+a.social-facebook {
+  background: url('../img/footer/facebook.png') 0 0 no-repeat;
+  width: 14px;
+  height: 30px;
+  display: block;
+}
+a.social-letterboxd {
+  background: url('../img/footer/letterboxd.png') 0 0 no-repeat;
+  width: 30px;
+  height: 30px;
+  display: block;
+}
+a.social-rss {
+  background: url('../img/footer/rss.png') 0 0 no-repeat;
+  width: 27px;
+  height: 27px;
+  display: block;
 }
 footer ul li > ul {
   margin-top: 5px;
   margin-left: 0;
 }
 footer ul li > ul li {
-  font-size: 10pt;
-  line-height: 14pt;
+  font-size: 0.75rem;
+  line-height: 1rem;
   text-transform: none;
-  font-weight: 200;
-  letter-spacing: 1px;
-  color: #fff;
+  font-weight: 750;
+  color: #c7c8ca;
   display: block;
   float: none;
   margin-right: 0;
+  text-align: left;
 }
 footer a {
   color: #fff;
+}
+footer ul li > ul li a {
+  color: #c7c8ca;
 }
 footer a:hover {
   color: #fff;
@@ -463,9 +675,9 @@ footer a:hover {
 }
 footer .copyright {
   font-size: 0.75rem;
-  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 200;
-  color: #fff;
+  color: #c7c8ca;
   display: block;
   text-align: left;
   margin: 0;
@@ -509,7 +721,7 @@ input[type=text]:focus {
   background: transparent;
   font-size: 2.25rem;
   color: #fff;
-  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   padding: 0;
   margin: 0;
 }
@@ -552,7 +764,7 @@ p.search-result a:hover {
 h1.search-title {
   font-size: 1.5rem;
   line-height: 1.375rem;
-  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   color: #fff;
   letter-spacing: 0.0625rem;
   margin-top: 0;
@@ -705,14 +917,20 @@ p::selection {
   right: 5rem;
   text-shadow: 0 0 0.125rem #333333;
 }
+#story-title {
+  height: 31.25rem;
+}
 #title {
   display: block;
   position: relative;
   padding: 0;
   margin: 0;
 }
-#title-img {
-  height: 100%;
+.title-info {
+  position: relative;
+}
+.title-img {
+  height: 31.25rem;
   width: 100%;
   display: block;
   position: absolute;
@@ -727,9 +945,9 @@ p::selection {
   background-position: center;
 }
 #body-text {
-  margin-top: 0.9375rem;
+  margin-top: 0;
   background-color: #fff;
-  padding-top: 7.8125rem;
+  padding-top: 3.75rem;
 }
 #image {
   z-index: 0;
@@ -748,7 +966,6 @@ article {
   top: 0;
   width: 100%;
   z-index: 1;
-  background-color: #fff;
 }
 article img {
   /*max-width: 1600px; 
@@ -762,19 +979,59 @@ article img {
 img.scrolled {
   opacity: 0;
 }
-.main-title {
+.main-title,
+.main-title-home {
   position: relative;
-  top: 60%;
+  bottom: 3.125rem;
   z-index: 2;
   text-align: left;
   margin: 0 auto;
   width: 100%;
+  max-width: 62.5rem;
   padding: 0;
+  margin-top: 18.75rem;
+}
+.main-title-home {
+  text-align: center;
+}
+.review-status {
+  color: #ffffff;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-size: 1.375rem;
+  line-height: 1.25rem;
+  font-weight: 700;
+  position: absolute;
+  bottom: 67px;
+  text-shadow: 0 0 0.125rem #333333;
+}
+.review-people {
+  position: absolute;
+  bottom: 50px;
+}
+.large-star-rating {
+  display: block;
+  color: #59c2ef;
+  font-size: 1.5rem;
+  letter-spacing: 0.3125rem;
+  margin-top: 0.625rem;
+}
+.title-divider {
+  border: 0;
+  height: 0.0625rem;
+  background: #ffffff;
+  width: 12.5rem;
+}
+.review-stamp {
+  width: 2.375rem;
+  height: 2.375rem;
+  float: left;
+  margin-right: 0.625rem;
+  -webkit-filter: drop-shadow(0 0 0.125rem #939598);
+  filter: drop-shadow(0 0 0.125rem #939598);
 }
 .film-info {
-  padding: 0.625rem;
-  background-color: #999999;
-  margin-top: 1.875rem;
+  padding: 0;
+  margin-top: 0;
 }
 h1.film {
   position: relative;
@@ -783,56 +1040,55 @@ h1.film {
   font-size: 1rem;
   line-height: 1.25rem;
   text-transform: uppercase;
-  font-family: "Helvetica Neue", "Helvetica", sans-serif;
-  font-weight: 500;
-  letter-spacing: 0.1875rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-weight: 700;
   text-align: center;
 }
 .imdb-category {
   position: relative;
   z-index: 2;
-  color: #fff;
-  font-size: 0.625rem;
-  line-height: 0.875rem;
-  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  color: #939598;
+  font-size: 0.75rem;
+  line-height: 1.375rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   text-align: right;
-  font-weight: 500;
+  font-weight: 700;
   padding: 0 !important;
-  margin-top: 0.625rem !important;
 }
 .imdb-data {
   position: relative;
   z-index: 2;
-  color: #333333;
-  font-size: 0.625rem;
-  line-height: 0.875rem;
-  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  color: #000;
+  font-size: 1.25rem;
+  line-height: 1.375rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   text-align: left;
-  margin-top: 0.625rem !important;
+  font-weight: 700;
 }
 .imdb-info-row {
-  border-top: 1px solid #666666;
-  margin-bottom: 0.625rem !important;
-  margin-top: 0.625rem !important;
+  border-top: 1px solid #c6c8ca;
+  margin-bottom: 0.9375rem !important;
+  margin-top: 0.9375rem !important;
   margin-left: 0 !important;
   margin-right: 0 !important;
 }
+.no-border {
+  border: none;
+}
 .imdb-img {
-  margin-bottom: 0.625rem !important;
-  margin-top: 0.625rem !important;
-  padding-left: 0.625rem !important;
-  padding-right: 0.625rem !important;
+  margin-bottom: 15px !important;
+  margin-top: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
 }
 h1.hero {
   position: relative;
   z-index: 2;
   color: #fff;
-  font-size: 3rem;
-  line-height: 3.25rem;
-  text-transform: uppercase;
-  font-family: "Helvetica Neue", "Helvetica", sans-serif;
-  font-weight: 500;
-  letter-spacing: 0.1875rem;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-weight: 700;
   text-align: left;
   margin: 0 auto;
   width: 100%;
@@ -856,7 +1112,7 @@ article h1.black {
   font-size: 24pt;
   text-transform: uppercase;
   font-weight: 600;
-  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   background-color: #ddd;
   opacity: .95;
   border-bottom: solid #333333 0.125rem;
@@ -875,8 +1131,7 @@ h1.top {
   font-size: 1.25rem;
   text-transform: uppercase;
   font-weight: 600;
-  font-family: "Helvetica Neue", "Helvetica", sans-serif;
-  letter-spacing: 0.0625rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   text-align: left;
   margin: 0 auto;
   width: 100%;
@@ -884,7 +1139,8 @@ h1.top {
   margin-top: 0.75rem;
   line-height: 1.5rem;
 }
-h2.hero {
+h2.hero-author,
+h2.hero-date {
   position: relative;
   z-index: 2;
   color: #fff;
@@ -892,11 +1148,19 @@ h2.hero {
   margin: 0 auto;
   width: 100%;
   font-size: 1rem;
-  line-height: 1.875rem;
+  line-height: 1.125rem;
   font-family: "Georgia", serif;
   font-weight: 200;
-  letter-spacing: 0.125rem;
-  text-shadow: 0 0 5px #333333;
+  text-shadow: 0 0 0.125rem #333333;
+}
+h2.hero-date {
+  font-size: 0.875rem;
+  font-style: italic;
+  line-height: 1rem;
+}
+h2 a {
+  display: inline;
+  color: #ffffff;
 }
 h2.top {
   position: relative;
@@ -904,13 +1168,12 @@ h2.top {
   font-size: 0.75rem;
   text-transform: none;
   font-weight: 200;
-  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   text-align: left;
   margin: 0 auto;
   width: 100%;
   max-width: 100%;
   padding: 0;
-  letter-spacing: 0px;
   line-height: 18pt;
 }
 #arrow {
@@ -924,7 +1187,6 @@ h2.top {
 h3 {
   position: relative;
   color: #333333;
-  font-style: italic;
   text-align: left;
   margin: 0 auto;
   width: 100%;
@@ -932,22 +1194,51 @@ h3 {
   line-height: 36pt;
   font-family: "Georgia", serif;
   font-weight: 200;
-  letter-spacing: 2px;
+  letter-spacing: normal;
 }
 .body-addressee {
   margin-bottom: 15px;
+}
+h3 span.addressee {
+  color: #ffffff;
+  text-align: left;
+  font-size: 1.875rem;
+  line-height: 3.125rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-weight: 700;
+  text-shadow: 0 0 2px #333333;
+}
+h3 span.position {
+  color: #ffffff;
+  text-align: left;
+  font-size: 6.25rem;
+  line-height: 5rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-weight: 700;
+  text-shadow: 0 0 2px #333333;
+}
+#review-copy p.intro {
+  text-align: left;
+  position: relative;
+  color: #333333;
+  font-size: 1rem;
+  line-height: 1.25rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-weight: 700;
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 1.25rem;
 }
 #review-copy p {
   text-align: left;
   position: relative;
   color: #333333;
-  font-size: 1rem;
-  line-height: 1.5rem;
-  font-family: "Georgia", serif;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   width: 100%;
   margin: 0 auto;
   margin-top: 1.25rem;
-  font-weight: 100;
 }
 /*
 
@@ -970,13 +1261,14 @@ p.article-share i {
   margin-left: 0.9375rem;
 }
 .up-next {
-  background-color: #cccccc;
+  background-color: #e6e7e8;
   margin-top: 3.125rem;
+  padding-top: 45px;
 }
 h1.up-next {
   color: #fff;
   font-weight: 500;
-  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   line-height: 2.25rem;
   font-size: 2.25rem;
   text-transform: uppercase;
@@ -1005,11 +1297,6 @@ h1.up-next {
     padding-left: 0;
     padding-right: 0;
   }
-  .container-shadow {
-    box-shadow: 0px 0px 0.625rem 0.3125rem #000000;
-    margin-bottom: 15.625rem;
-    background-color: #fff;
-  }
 }
 .comments-bg {
   width: 100%;
@@ -1020,4 +1307,100 @@ h1.up-next {
   margin: 0 auto;
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
+}
+/* Section titles and Nav */
+ul.section-right-nav {
+  line-height: 1;
+  list-style: none;
+  display: inline;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  margin-bottom: 5px;
+}
+li.section-right-nav {
+  font-size: 14pt;
+  font-family: "Helvetica Neue", sans-serif;
+  color: #333;
+  font-weight: 200;
+  text-align: left;
+  margin-left: 10px;
+  list-style: none;
+  display: inline;
+  margin-bottom: 0;
+}
+li.section-right-nav a {
+  display: inline;
+  color: #999;
+}
+li.section-right-nav a:hover,
+li.section-right-nav a.current {
+  display: inline;
+  color: #333;
+}
+.section-grid {
+  height: auto;
+}
+.section-post {
+  min-height: 275px;
+  margin-bottom: 25px;
+}
+div.section-review-text h1 {
+  font-size: 12pt;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 5px;
+}
+div.section-review-text h2 {
+  font-size: 10pt;
+  color: #333;
+  font-family: "Georgia", serif;
+  margin-top: 0;
+}
+div.section-review-text h2.addressee {
+  font-size: 10pt;
+  font-style: italic;
+}
+div.section-review-text h2.author {
+  margin-bottom: 5px;
+}
+div.section-review-text h2.author {
+  margin-bottom: 5px;
+}
+ul.pagination {
+  display: inline-block;
+}
+ul.pagination li {
+  font-size: 10pt;
+  display: inline;
+  background-color: #eee;
+  color: #333;
+  padding: 1px;
+  border: 1px solid #333;
+  min-width: 25px;
+  text-align: center;
+  font-family: "Helvetica Neue", sans-serif;
+}
+ul.pagination li.current {
+  font-size: 10pt;
+  display: inline;
+  background-color: #666;
+  color: #eee;
+  padding: 1px;
+  border: 1px solid #333;
+  min-width: 25px;
+  text-align: center;
+}
+ul.pagination li.off {
+  font-size: 10pt;
+  background-color: #eee;
+  color: #999;
+}
+ul.pagination li a {
+  display: inline;
+  color: #333;
+  padding: 1px;
+}
+.center {
+  text-align: center;
 }

@@ -1,11 +1,12 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt1462769
+image: the-odd-life-of-timothy-green.jpg
+author: christopherr
+stars: 3.5
+excerpt: "I bet you were inspired to storyboard this whole film with just a good ol&rsquo; fashioned pencil. First of all for narrative congruity, since the classic wood and lead scribbler plays a central role in the film."
+position: Storyboard Artist
+addressee: Chris Hunter
 layout: review
 categories:
   - reviews
@@ -15,8 +16,6 @@ title: "The Odd Life of Timothy Green"
 comments: true
 tags: [Chris Hunter, Disney, Family, Jennifer Garner, Joel Edgerton, Stroryboard, Timothy Green, Uncategorized]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/8/15/the-odd-life-of-timothy-green.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7606/1345036513173/The%20Odd%20Life%20of%20Timothy%20green.jpg" alt="" /></a></span></span></p>
-<p><span style="font-size:130%;"><strong><em>Dear Chris Hunter,</em></strong><em> Storyboard Artist</em></span></p>
 <p>I bet you were inspired to storyboard this whole film with just a good ol&rsquo; fashioned pencil. First of all for narrative congruity, since the classic wood and lead scribbler plays a central role in the film. But more importantly because this Disney production is determined to take us back to the basics of storytelling. Despite all the technological tools at your team&rsquo;s disposal, <em>The Odd Life of Timothy Green</em> is an intimate story, drawn with a light touch and a lot of care.</p>
 <p>And an unhealthy obsession with pencils.</p>
 <p>You first rough out the picture of a one-horse American town, where Jim Green (Joel Edgerton) works on the assembly line of the town&rsquo;s pencil factory, while his wife Cindy (Jennifer Garner) curates the pencil museum.&nbsp; The two aspiring parents, unable to conceive a child, decide to pencil-in their imaginary offspring&rsquo;s qualities (ex: &ldquo;He&rsquo;s a Picasso with a pencil!&rdquo;) and bury them in a back yard memorial box. Then comes a mysterious storm, a magical child with leaves on his legs, and, eventually, a major problem that will be solved with a homemade pencil. On paper, this kind of quirk would read as heavy-handed in even a Tim Burton or Guy Maddin film, but here it&rsquo;s all played out with an impressively straight face.</p>
@@ -25,4 +24,3 @@ tags: [Chris Hunter, Disney, Family, Jennifer Garner, Joel Edgerton, Stroryboard
 <p>Unfortunately, some of the peripheral plot details remain a bit sketchy; and yes Garner is basically tracing her performance from <em>Juno</em>. The final picture might not be a stoke of genius, but the restraint from making <em>The Odd Life of Timothy Green</em> too colourful goes a long way.</p>
 <p>Your pencil pal,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Air Mail (3.5/5)</em></strong></p></div>

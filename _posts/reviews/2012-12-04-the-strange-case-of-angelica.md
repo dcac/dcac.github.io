@@ -1,19 +1,18 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt1282153
+image: the-strange-case-of-angelica.jpg
+author: jaredy 
+stars: 4
+excerpt: "You must tell me your secret. Echinacea? Gene supplements? Cryogenic freezing? It&rsquo;s not that I find it amazing that you&rsquo;ve lived to the ripe old age 103; no, Chinese peasants and Indian yogis do it all the time. What I find amazing is that you&rsquo;ve maintained your artistic faculties to this late stage, and &ndash; perhaps <em>more</em> amazingly &ndash; are using them to pose questions about the very act of filmmaking that, after more than eight decades behind the camera, you&rsquo;re still engaged in."
+position: Director
+addressee: Manoel de Oliveira
 layout: review
 categories: reviews
 title: "The Strange Case of Angelica"
 comments: true
 tags: [drama, EU Film Festival, EUFF, European Union, Festivals, Letters, Manoel de Oliveira, Portugal]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/12/4/the-strange-case-of-angelica.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7756/1354634690071/strange-case-of-angelica.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:120%;"><strong>Dear Manoel de Oliveira,</strong> Director,&nbsp;</em></p>
 <p>You must tell me your secret. Echinacea? Gene supplements? Cryogenic freezing? It&rsquo;s not that I find it amazing that you&rsquo;ve lived to the ripe old age 103; no, Chinese peasants and Indian yogis do it all the time. What I find amazing is that you&rsquo;ve maintained your artistic faculties to this late stage, and &ndash; perhaps <em>more</em> amazingly &ndash; are using them to pose questions about the very act of filmmaking that, after more than eight decades behind the camera, you&rsquo;re still engaged in.</p>
 <p>There&rsquo;s a distinct timelessness to your 2010 film <em>The Strange Case of Angelica</em>. And I suspect it&rsquo;s more than just the usual encroachment of Europe&rsquo;s hefty cultural history. It&rsquo;s impossible to tell, in the opening few scenes, what year the film takes places in. Only later, as we follow a sleek modern sedan cruising through the streets of a contemporary Portuguese city, is it clear we are rooted in the present.</p>
 <p>But only sort of. Right, Manny?&nbsp;</p>
@@ -27,5 +26,3 @@ tags: [drama, EU Film Festival, EUFF, European Union, Festivals, Letters, Manoel
 <p>She counterpoints: &ldquo;They&#8217;re the only ones who do it the old way. Now we use machines.&rdquo;</p>
 <p>Yes, everyone else is obsessed with the machinery, but you, Manoel&mdash; you&rsquo;re doing it the old way. Bravo!</p>
 <p>Com carinho,</p>
-<p>Jared Young&nbsp;</p>
-<p><em><strong>Status: Air Mail (4/5)</strong></em></p></div>

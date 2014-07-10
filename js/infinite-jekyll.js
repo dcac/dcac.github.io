@@ -88,7 +88,7 @@ $(function() {
        maxHeight = $(this).height() > maxHeight ? $(this).height() : maxHeight;
     });
       $('.post').css({'display':'block'});
-      $('.post').css({'height': '350px'});
+      $('.post').css({'height': '275px'});
       callback();
     });
   }

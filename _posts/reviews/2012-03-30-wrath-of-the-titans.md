@@ -1,11 +1,12 @@
 ---
 published: true
-image:
-author: 
+imdb: tt1646987
+image: wrath-of-the-titans.jpg
+author: christopherr
 stars: 2
-excerpt: 
-position: 
-addressee: 
+excerpt: "I&rsquo;m sorry for assigning you a number &ndash; it&rsquo;s the only way I could identify you among the CGI craftsmen who lost a year of their life to Jonathan Liebesman&rsquo;s <em>Wrath of the Titans</em>. It&rsquo;s also fitting because, well, that crowded, never-ending credit crawl looked more like a holocaust memorial than a professional title listing."
+position: Visual Effects Artist #143
+addressee: Steven Denyer
 layout: review
 categories:
   - reviews
@@ -16,8 +17,6 @@ comments: true
 streaming: true
 tags: [fantasy, Letters, Sam Worthington, Wrath of the Titans]
 ---
-<div><p><span class="full-image-block ssNonEditable"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7517/1336619047157/wrathofthetitans.jpg" alt="" /></span></p>
-<p><span style="font-size:120%;"><em><strong>Dear Steven Denyer, </strong>Visual Effects Artist #143</em></span></p>
 <p>I&rsquo;m sorry for assigning you a number &ndash; it&rsquo;s the only way I could identify you among the CGI craftsmen who lost a year of their life to Jonathan Liebesman&rsquo;s <em>Wrath of the Titans</em>. It&rsquo;s also fitting because, well, that crowded, never-ending credit crawl looked more like a holocaust memorial than a professional title listing.</p>
 <p>So let&rsquo;s take a minute to mourn your loss. If you&rsquo;re one of the lucky ones, you got away with animating part of the opening village attack by a two-headed chimera. You know, that fleeting seven-second-long take where the audience could temporarily follow the action.  Was that you?</p>
 <p>No, chances are yours was among the fallen efforts that built the overly complicated labyrinth, of which we only ever experience a few corridors. Maybe you were on thankless dust and smoke detail, clouding over everyone else&rsquo;s designs. If not, perhaps you spent sleepless nights bringing the Minotaur to life, only to have it completely obscured by shadows and incompetent editing. Worst of all, could it be that your tireless effort was put to the service of animating Kronos, duped into believing that working on the ultimate villain would offer the biggest payoff? If so, you must be painfully disappointed.</p>
@@ -27,5 +26,3 @@ tags: [fantasy, Letters, Sam Worthington, Wrath of the Titans]
 <p>Yikes. Maybe you needed a few more animators after all.</p>
 <p>Ones and zeros,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Return to Sender (2/5)</em></strong></p>
-<p><strong><em><span class="full-image-block ssNonEditable"><span><a href="http://www.zip.ca/Browse/Title.aspx?f=titleId%28203959%29"><img style="width:225px;" src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7bb5/1343245704065/Rent-it-on-Zip.png" alt="" /></a></span></span><br /></em></strong></p></div>

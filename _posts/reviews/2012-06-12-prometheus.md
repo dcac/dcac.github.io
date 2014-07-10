@@ -1,11 +1,12 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt1446714
+image: prometheus.jpg
+author: jaredy
+stars: 2
+excerpt: "I&rsquo;m writing you a letter. It&rsquo;s also a movie review. That&rsquo;s what we do here: write movie reviews in the form of personal correspondence. I&rsquo;m about to review <em>Prometheus</em>, the film that you both co-wrote. I was disappointed by it. Mostly because of your screenplay. It&rsquo;s a screenplay that, unfortunately, doesn&rsquo;t mince words. See, sometimes words need to be minced. Or else you end up with something like this: a letter that is a movie review that is written exclusively as exposition and is therefore interminable to sit through."
+position: Screenwriters
+addressee: Jon Spaihts and Damon Lindelof
 layout: review
 categories:
   - reviews
@@ -15,8 +16,6 @@ title: "Prometheus"
 comments: true
 tags: [Alien, Charlize Theron, Letters, netflix.ca, Noomi Rapace, Prometheus, Ridely Scott]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/6/12/prometheus.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7595/1339507517403/prometheus.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:120%;"><strong>Dear Jon Spaihts and Damon Lindelof,</strong> Screenwriters,</em></p>
 <p>I&rsquo;m writing you a letter. It&rsquo;s also a movie review. That&rsquo;s what we do here: write movie reviews in the form of personal correspondence. I&rsquo;m about to review <em>Prometheus</em>, the film that you both co-wrote. I was disappointed by it. Mostly because of your screenplay. It&rsquo;s a screenplay that, unfortunately, doesn&rsquo;t mince words. See, sometimes words need to be minced. Or else you end up with something like this: a letter that is a movie review that is written exclusively as exposition and is therefore interminable to sit through.</p>
 <p><em>Let me get this straight</em>&hellip;you were hired to write the screenplay for <em>Prometheus</em>, the not-quite-a-prequel prequel to <em>Alien</em>, which would be Ridley Scott&rsquo;s decades-late return to sci-fi, the genre that launched his career &ndash; who, despite recent evidence to the contrary (see <em>Robin Hood</em>), still possesses the craftsmanship to conjure beautiful and coherent big-screen spectacle &ndash; and the best you could do for him was to construct a generic scientific-mission-in-space-gone-wrong plot around philosophical questions about the origin of mankind that seem lifted straight from the term paper of a precocious junior high school kid?</p>
 <p><em>Hold on a second. You&rsquo;re telling me</em>&hellip;that you have at your disposal a willing crew of A-list actors, including Noomi Rapace, Idris Elba, Charlize Theron, and Michael Fassbender (who figuratively &ndash; then literally &ndash; channels Peter O&rsquo;Toole), and you&rsquo;re able to do nothing more than reduce them all to attractive exposition delivery devices who constantly describe what his happening onscreen (often <em>while</em> it is happening) and are motivated only by the conveniences of the plot?</p>
@@ -26,4 +25,3 @@ tags: [Alien, Charlize Theron, Letters, netflix.ca, Noomi Rapace, Prometheus, Ri
 <p><em>I&rsquo;ll tell you what you did wrong</em>&hellip;you wrote a whole lot of dialogue that begins with &ldquo;Let me get this straight&hellip;&rdquo; and&nbsp; &ldquo;So what you&rsquo;re telling me is&hellip;&rdquo; and other rhetorical qualifiers, and while it might do wonders to explain the mechanics of the narrative, it does nothing to impel the characters, humanize them, or provide any insight into the mess of pseudo-profound musings you implant, like so many stillborn xenomorph fetuses, into their chest cavities&mdash;which remain, I was disappointed to observe, thoroughly unexploded.&nbsp;</p>
 <p>This is the part where the letter ends,</p>
 <p>Jared</p>
-<p><strong>Status: return to sender (2/5)</strong></p></div>

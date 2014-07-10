@@ -1,18 +1,18 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt1815862
+image: after-earth.jpg
+author: caseyt
+stars: 2
+excerpt: "That was a hell of a workout for you guys."
+position: Principal Actors
+addressee: Jaden Smith's Eyebrows
 layout: review
 categories: reviews
 title: "After Earth"
 comments: true
 tags: [Jaden Smith, Letters, M. Knight Shyamalan, sci-fi, Will Smith]
 ---
-<div><p><em style="font-size:120%;"><span style="font-size:120%;"><strong><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/6/7/after-earth.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7854/1370625480247/after-earth.jpg" alt="" /></a></span></span>Dear Jaden Smith&rsquo;s Eyebrows,</strong> Principal Actors,</span></em></p>
 <p>That was a hell of a workout for you guys.</p>
 <p>It doesn&rsquo;t seem fair. <em>After</em> <em>Earth</em> wasn&rsquo;t supposed to be your movie. It was supposed to be Jaden Smith&rsquo;s leading-lad coming out party, conceived, produced, and starring his leading-man dad, Will. But as soon as Jaden delivered his first lines as Kitai, a wannabe warrior living in a distant future, you must have realized how much his performance would rely on you.</p>
 <p>Answer: a lot.</p>
@@ -26,4 +26,3 @@ tags: [Jaden Smith, Letters, M. Knight Shyamalan, sci-fi, Will Smith]
 <p>Still, I&rsquo;m glad you guys brought your A-game. No one else did.</p>
 <p>Frowningly,</p>
 <p>Casey</p>
-<p><strong><em>Status: Return to sender (2/5)</em></strong></p></div>

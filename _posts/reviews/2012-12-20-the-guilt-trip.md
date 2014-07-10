@@ -1,13 +1,16 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt1694020
+image: the-guilt-trip.jpg
+author: jaredy
+stars: 3
+excerpt: "It&rsquo;s a good thing they invented the Internet. How else would someone like you, who diligently lists off the hard work of others, ever get any recognition of your own? When the credits for <em>The Guilt Trip</em> rolled, your name was nowhere to be seen &ndash; even though you were directly responsible for getting all those names out there."
+position: Credits Administrator (Uncredited)
+addressee: Daniel Villagomez
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - streaming
 title: "The Guilt Trip"
 comments: true
 tags: [Anne Fletcher, Barbara Streisand, comedy, Letters, mother, road trip, Seth Rogan, son, The Guilt Trip]

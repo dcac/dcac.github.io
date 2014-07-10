@@ -1,47 +1,73 @@
 //Top nav
+  #page nav {
+    display: none;
+}
   .full-black{
     width: 100%;
-    background-color: @dark-grey;
+    background-color: @white;
     @media @mobile{
       display:none;
     }
   }
   .section-header{
     width:100%;
-    background: @dark-grey @logo-xl-white no-repeat 0px 25px;
-    height: 200px;
+    margin-left: @15px;
+    margin-right: @15px;
+    margin-top: @1px*28;
+    margin-bottom: @1px*28;
   }
   section.top-nav{
-    color: @light-grey;
-    font-size: 12pt;
+    color: #939598;
+    font-size: @text-small;
     font-family: @sans-serif;
     text-transform: uppercase;
-    letter-spacing: 2px;
     position: relative;
     height: 100%;
     width: 100%;
   }
+  a.logo-link{
+    background: @white @logo-xl-white no-repeat 0;
+    background-size: cover;
+    height: @1px*70;
+    width:@1px*164;
+    display: block;
+  }
+  .top-search-toggle{
+    font-size: @1px*14;
+    color:#939598;
+  }
   section.top-nav ul {
-    left: 200px;
     position: absolute;
-    bottom: 10px;
+    font-size: @text-small;
+    font-weight: bold;
+    bottom: 0;
+    right: @1px*30;
+    margin: 0;
+    display:table;
+    width:auto;
   }
   section.top-nav ul li, section.top-nav ul li a {
-    display: inline;
+    display: table-cell;
     list-style: none;
-    margin-right: 25px;
-    color: @white;
+    color: #939598;
+    vertical-align: bottom;
+    height:@text-small;
+    line-height: @text-tiny; 
+  }
+  section.top-nav ul li a.slash{
+    background: url('../img/global/slash.svg') @10px 0 no-repeat;
+    padding-left: @1px*30;
   }
   section.top-nav a:hover{
-    text-decoration: underline;
+    color: @black;
   }
   .section-title{
     width: 100%;
-    border-bottom: 1px solid black;
+    border-bottom: @1px solid black;
     position: relative;
   }
   .section-title h1{
-    font-size: @text-regular;
+    font-size: @text-large;
     line-height: @1px*32;
     font-family: @serif;
     font-weight: 100;
@@ -62,96 +88,147 @@
       position:fixed;
     }
   }
+  .mini-search-link{
+    background-color: transparent;
+    font-size: 18px;
+  }
+//Clear the foundtaion style
+.top-bar-section{
+  background: transparent;
+}
+
   .mini-top-nav-visible{
     display:block;
     margin-top:0;
   }
-
-.container-shadow {
-  box-shadow: 0 0 @10px @5px #000;
-  margin-bottom: @1px*250;
-  background-color: @white;
+  .dcac-logo{
+    background: url('../img/global/dcac-logo.svg') 0 no-repeat;
+    display: block;
+  }
+  .top-bar .name{
+    height:35px;
+    width:35px;
+    margin-left: 5px;
+    margin-top: 5px;
+  }
+  ul.title-area h1{
+    font-size: @text-tiny;
+  }
+  .top-bar .name h1 a{
+    color: transparent;
+  }
+  .top-bar{
+    background-color: @white;
+    border-bottom: 1px solid black;
+  }
+.mm-fixed-bottom{
+  z-index: 0;
+  background-color: #636467;
+  width:100%;  
 }
 #footer{
-  position:fixed;
+/*   position:fixed; */
   bottom: 0;
   left: 0;
   z-index:-1;
   width: 100%;
-  height:@1px*250;
-  text-align: center;
+  height:@1px*185;
   display: block;
-  background-color: @dark-grey;
-  transition: all 0.4s ease 0s;
+  //background-color: @dark-grey;
+  -webkit-transition: none 0.4s ease;
+  -moz-transition: none 0.4s ease;
+  -ms-transition: none 0.4s ease;
+  -o-transition: none 0.4s ease;
+  transition: none 0.4s ease;
+  -webkit-transition-property: top, right, bottom, left, border;
+  -moz-transition-property: top, right, bottom, left, border;
+  -ms-transition-property: top, right, bottom, left, border;
+  -o-transition-property: top, right, bottom, left, border;
+  transition-property: top, right, bottom, left, border; 
 }
-#footer.active{
-  margin-left: @1px*250;
-}
-footer{
+.footer{
   position:relative;
   margin: 0 auto;
   width: @1px*960;
-  height: @1px*250;
+  height: @1px*185;
 }
-button.footer{
-  border:none;
-  background: @logo-xl-white 0px 0px no-repeat;
-  color:transparent;
-  width:175px;
-  height:150px;
-  position: relative;
-  float: left;
-  top:0;
-  left:0;
-  margin-right: 50px;
+.footer-block{
+  width: auto;
+  float:left;
+  margin-top: @50px;
+  margin-bottom: @25px;
+  border-right: 1px solid #c7c8ca;
+  margin-right: @25px;
 }
 footer ul{
   list-style: none;
-  margin-left: 200px;
-  margin-top: 50px;
-  text-align: left;
-}
-.stretch{
-  width: 100%;
-  display: inline-block;
-  font-size: 0;
-  line-height: 0;
-  height: @1px;
+  display:table;
   margin: 0;
-  background-color: #fff;
 }
-footer ul li{
+footer ul li,h1.footer-head{
   font-size: 12pt;
   line-height: 20pt;
   font-family: @sans-serif;
-  font-weight: 200;
-  letter-spacing: 2px;
-  text-transform: uppercase;
+  font-weight:bold;
   color: #fff;
-  float: left;
-  display: inline-block;
-  zoom:1;
+  display: table-cell;
+  padding-right: @25px;
+  //zoom:1;
   vertical-align: top;
-  margin-right: 40px;
+}
+footer ul li.social{
+  height: @1px*50;
+  width:auto;
+  display: table-cell;
+  vertical-align: middle;
+  padding-right: @25px;
+  margin: 0;
+  padding-left: 0;
+}
+a.social-twitter{
+  background: url('../img/footer/twitter.png') 0 0 no-repeat;
+  width:33px;
+  height:27px;
+  display: block;
+}
+a.social-facebook{
+  background: url('../img/footer/facebook.png') 0 0 no-repeat;
+  width:14px;
+  height:30px;
+  display: block;
+}
+a.social-letterboxd{
+  background: url('../img/footer/letterboxd.png') 0 0 no-repeat;
+  width:30px;
+  height:30px;
+  display: block;
+}
+a.social-rss{
+  background: url('../img/footer/rss.png') 0 0 no-repeat;
+  width:27px;
+  height:27px;
+  display: block;
 }
 footer ul li > ul{
   margin-top: 5px;
   margin-left: 0;
 }
 footer ul li > ul li{
-  font-size: 10pt;
-  line-height: 14pt;
+  font-size: @text-small;
+  line-height: @1px*16;
   text-transform: none;
-  font-weight: 200;
-  letter-spacing: 1px;
-  color: #fff;
+  font-weight: 750;
+  color: #c7c8ca;
   display: block;
   float: none;
   margin-right: 0;
+  text-align: left;
 }
 footer a{
   color: #fff;
 }
+footer ul li > ul li a{
+  color: #c7c8ca;}
 footer a:hover{
   color: #fff;
   text-transform: underline;
@@ -160,7 +237,7 @@ footer .copyright{
   font-size: @text-small;
   font-family: @sans-serif;
   font-weight: 200;
-  color: #fff;
+  color: #c7c8ca;
   display: block;
   text-align: left;
   margin: 0;

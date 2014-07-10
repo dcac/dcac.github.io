@@ -188,8 +188,10 @@ html.mm-blocking
 }
 .mm-list
 {
-	font: inherit;
-	font-size: $mm_fontSize;
+
+  font: $_mm_large_text;
+	//font-size: $mm_fontSize;
+	
 
 	a,
 	a:hover

@@ -1,11 +1,12 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt1990314
+image: robot-and-frank.jpg
+author: caseyt
+stars: 3
+excerpt: "Are you surprised? Writing to the person responsible for any kind vegetation used on a movie set, might seem an odd choice for a movie like <em>Robot &amp; Frank</em>, which is set in the &nbsp;&ldquo;near future,&rdquo; (as the film describes it)."
+position: Greensman
+addressee: Will Sheck
 layout: review
 categories:
   - reviews
@@ -15,8 +16,6 @@ title: "Robot & Frank"
 comments: true
 tags: [buddy, crime, Frank Langella, Letters, Susan Sarandon]
 ---
-<div><p class="Body1"><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/8/31/robot-frank.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76fd/1346427716307/robot-and-frank.jpg" alt="" /></a></span></span></p>
-<p class="Body1"><span style="font-size:120%;"><strong><em>Dear Will Sheck,</em></strong><em> Greensman,</em></span></p>
 <p class="Body1">Are you surprised? Writing to the person responsible for any kind vegetation used on a movie set, might seem an odd choice for a movie like <em>Robot &amp; Frank</em>, which is set in the &nbsp;&ldquo;near future,&rdquo; (as the film describes it). It&rsquo;s usually other crew members, like the futurists, concept designers, or effects people who take on responsibility for realizing a fantasy world. Thankfully, this future vision is made up of small distinctions from our present time. Mostly things are smaller (cars that are half the size of current Smart cars, cellphones are made of a single pane of glass, even micro-loans have evolved to nano-loans). Your work, though, and the care that it requires, represents the best of this little movie, which thrives despite some weedy patches.</p>
 <p class="Body1">Frank, played by the reliably strong Frank Langella, is a man growing old by himself who has begun suffering memory loss, which makes it difficult for him to do the one thing he loves the most: break into people&rsquo;s homes and steal. He&rsquo;s a mostly-retired (they&rsquo;re never really retire, do they?) cat burglar. Living by himself in a house on the outskirts of an unnamed town, Frank spends his days walking into town, flirting with the librarian (Susan Sarandon), and engaging in some minor shoplifting. The memory loss, however, is becoming more pronounced&mdash;to the point that one of his grown sons, Hunter (James Marsden), decides that Frank needs a helper to not only take physical care of Frank and his house, but to also establish a routine and diet that will at least slow the memory loss. Enter Robot.</p>
 <p class="Body1">One of Robot&rsquo;s main activities for Frank falls squarely into your artistic domain: gardening. It (Robot has a male voice provided by Peter Saarsgard, but is always referred to as an &lsquo;it&rsquo;) digs up a patch in the lawn, and plants some garden vegetables: tomatoes, cucumbers, etc. And as this garden flourishes&mdash;even with Frank&rsquo;s indifference to Robot and its urge to contribute&mdash;Frank&rsquo;s mental state begins to improve. Now this isn&rsquo;t tied to the garden directly, as Robot also has Frank eating better (steamed vegetables equal more greenery), and doing more physical activity; but the continued shots of Robot watering and tending to the garden, as well as the growth of the plants themselves, line up with Frank&rsquo;s return to a version of his old self.</p>
@@ -26,4 +25,3 @@ tags: [buddy, crime, Frank Langella, Letters, Susan Sarandon]
 <p class="Body1">Does all of this add up to a profound, circle of life-type statement? In a word, no. But that&#8217;s okay. <em>Robot &amp; Frank</em>&rsquo;s goals aren&rsquo;t that high. It&rsquo;s content to do just enough work to let one flower bloom, even if other buds have to be discarded along the way.</p>
 <p class="Body1">Rakishly yours,</p>
 <p class="Body1">Casey</p>
-<p class="Body1"><em><strong>Status: Standard Delivery (3/5)</strong></em></p></div>

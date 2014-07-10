@@ -15,8 +15,7 @@
     <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
-<!--   	<link href="/css/global.css" type="text/css" rel="stylesheet" /> -->
-  	
+    
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -26,6 +25,7 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
+      $('nav#menu-left').css({'display':'block'});
     });
 		</script>
 
@@ -43,30 +43,31 @@
 
 
   <body>
-      <nav id="menu-left">
+  <div id="nav-test"><a href="/"><img src="/img/global/dcac-full-logo-white.svg" class="side-home-link" /></a></div>
+  <nav id="menu-left">
     <!-- Sidebar Nav -->
       <ul>
-        <li><a href="#" id="side-search-toggle"><i class="fa fa-search" id=""></i></a></li>
-                            <li><a href="/reviews/">Reviews</a>
+        <li><a href="#" id="side-search-toggle"><i class="fa fa-search"></i> Search</a></li>
+                            <li class="text"><a href="/reviews/">Reviews</a>
             <ul>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="#">Features</a>
+                    <li><a href="/features/">Features</a>
             <ul>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>
-                    <li><a href="#">Podcast</a>
+<!--                     <li><a href="#">Podcast</a>
             <ul>
               <li><a href="#">Archive</a></li>
             </ul>
-          </li>
-                    <li><a href="#">About</a>
+          </li> -->
+                    <li><a href="/about/">About</a>
             <ul>
               <li><a href="/about/writers/">Writers</a></li>
               <li><a href="/about/contact/">Contact</a></li>
@@ -76,101 +77,159 @@
     <!-- End Sidebar Nav -->
     </nav>
     <div class="container-shadow" id="main-container">    
-      
-      <div id="nav-button-container">
-        <button class="left-off-canvas-toggle mm-fixed-top" id="nav-toggle" >Dear Cast &amp; Crew Navigation</button>
+             
+<div class="full-black">
+      <div class="row collapse">
+        <div class="section-header">
+          <section class="top-nav" id="top-nav">
+            <a href="/" class="logo-link"></a>
+            <ul>
+              <li><a href="/reviews/">Reviews</a></li>
+              <li><a href="/features/" class="slash">Features</a></li>
+              <!-- <li><a href="/podcast/">Podcast</a></li> -->
+              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
+            </ul>
+          </section>
+        </div>
       </div>
-      <div class="row full-width collapse">
-        <div class="large-12 medium-12 small-12 columns">
-          <div id="story-title">
-            <div id="title-img" style="background-image:url(/img/article/);">
-              <section id="main-title" class="main-title ">
-                <div class="row collapse" style="z-index:15;">
-                 <div class="large-12 medium-12 small-12 columns">
-                    <button id="menu-toggle-top" class="logo-black">Dear Cast &amp; Crew Navigation</button>
-                    <h1 class="hero">The Artist</h1>
-                    <h2 class="hero">
-                      By: </a>&nbsp;&nbsp;|&nbsp;&nbsp;Mailed on: March 02, 2012
-                    </h2>
-                    <p class="article-share">
-                      <a href="https://twitter.com/intent/tweet?text=Dear  ,  for The Artist%0A"><i class="fa fa-twitter"></i></a>
-                      <a href="#"><i class="fa fa-facebook"></i></a>
-                    </p>
-                  </div>
+    </div>
+        
+    <div class="mini-top-nav-hidden mm-fixed-top" id="mini-top-nav">
+      <nav class="top-bar" data-topbar>
+        <ul class="title-area">
+          <li class="name dcac-logo" id="nav-toggle">
+            <h1><a href="#">Dear Cast & Crew</a></h1>
+          </li>
+        </ul>
+        <section class="top-bar-section">
+          <!-- Right Nav Section -->
+          <ul class="right">
+            <li class="search" id="mini-top-search-toggle"><a href="#" class="mini-search-link"><i class="fa fa-search"></i></a></li>
+          </ul>
+        </section>
+      </nav>
+    </div>
+
+      <section>
+        <div id="story-title" class="title-info" data-equalizer>
+          <div class="title-img" style="background-image:url(/img/article/the-artist.jpg);"></div>
+          <div class="row" data-equalizer-watch >
+            <div class="large-4 medium-4 small-4 columns" data-equalizer-watch>
+              <div class="review-status">
+                <h1 class="hero">The Artist</h1>
+                <h2 class="hero-author">
+                  By <a href="/about/writers/christopherr">Christopher Redmond</a>
+                </h2>
+                <h2 class="hero-date">
+                  Mailed on March 02, 2012
+                </h2>
+                <hr class="title-divider" />
+                <img src="/img/global/stamp.svg" class="standard review-stamp" />
+                Priority<br />Post<br />
+                    <div class="large-star-rating">
+                      <img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue.svg" />
                 </div>
-              </section>
-              <button class="down-arrow animated bounce" id="down-arrow"></button>
+              </div>
+            </div>
+            <div class="large-8 medium-8 small-8 columns" data-equalizer-watch>
+              <div class="review-people">
+                <h3><span class="addressee">Dear Valeria Ghiran</span><br />
+                  <span class="position">Boom Operator</span>
+                </h3>
+              </div>
             </div>
           </div>
-        </div><!-- title -->
-      </div>
-      <section class="main-copy">
-        <div class="row" id="body-text">
-          <div class="body-addressee large-12 medium-12 columns">
-            <h3>Dear , ,</h3>
-          </div>
         </div>
+      </section>
+      <section id="body-text">
         <div class="row">
-          <div class="large-8 medium-8 columns" id="review-copy">
-            <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/3/2/the-artist.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf74e4/1336621222517/theartist.jpg" alt="" /></a></span></span></p>
-<p><span style="font-size:120%;"><em><strong>Dear Valeria Ghiran, </strong>boom operator,</em></span></p>
-<p>First, let me apologize. I said some things I didn&rsquo;t mean when I heard you were going to work on a black and white silent film. <em>It&rsquo;s Always Sunny in Philadelphia </em>has been such a solid gig for you, and <em>Justified</em>was just getting good! But I know you&rsquo;ve always wanted to work on a real Hollywood film. Technically<em>The Artist</em> is French, and there&rsquo;s no talking, but who&rsquo;s laughing now, right?</p>
-<p>I bet nobody even blinked seeing you walk around with your big pole and microphone for the entire 35 days. I wouldn&rsquo;t have. Boom operators are like the bellybuttons of film sets &ndash; we just accept they exist and have a place. Sometimes they even serve a purpose. Other times, it&rsquo;s just nice when producers gloss over the crew list. Am I right? So give me the skinny baby, dish up some dirt from behind-the-scenes!</p>
-<p>For example, I know director Michel Hazanavicius is married to B&eacute;r&eacute;nice B&eacute;jo, but there&rsquo;s no way her and Jean Dujarin weren&rsquo;t up to some &ldquo;French&rdquo; business between takes. I don&rsquo;t think I&rsquo;ve ever loved an onscreen couple as much as I did the two of them. His eyes, her smile &ndash; no offense, but I think your &ldquo;sound&rdquo; abilities would have only ruined what they had going. Good call to stay away.</p>
-<p>I hope you snuck into B&eacute;jo&rsquo;s trailer to slip on one sleeve of her coat and touch yourself though. I would have. She managed to turn something that sounds creepy into the most beautiful moment of the film. She would have been totally flattered to find you playing with her clothes. Europeans are always so much more direct. You probably figured that out during the cute homage to your boom operating skills when Dujardin kept ruining those takes on purpose. He totally gets you &ndash; I hope you got his number.</p>
-<p>Also, I&rsquo;ve been meaning to ask &ndash; what the hell was John Goodman actually saying? I assume you recorded all that gold for the DVD extras. My guess is he was speaking German, because he would blow-hard for a good 30 seconds and the title card would just say something like &ldquo;Darleen!&rdquo; Classic John.</p>
-<p>Maybe you can help me understand one part that bothered me. I don&rsquo;t know how the whole sound department hierarchy works (besides the fact you&rsquo;re at the bottom), but can you tell your bosses that using the <em>Vertigo</em> score killed the ending for Hitchcock fans? Depriving people of a climax after such a stimulating ordeal is akin to, well, trying to now take Kim Novak seriously. But everyone has critics. Your film, however, has fewer than most. Deservedly so.</p>
-<p>Imagine &ndash; you&rsquo;ve finally worked on something that your sweetheart mother, pretentious father, colour blind brother and deaf Grandma all equally enjoy. Take some credit Val, and don&rsquo;t be so offended by all the praise for this brilliant and unlikely &ldquo;silent&rdquo; hit. That scene, with the sound &ndash; you nailed it. The audience at my screening was so quiet you could hear a cup drop. So stop being so damn modest in all your interviews. You made a point in that negative space &ndash; just like the arrow in the FedEx logo. To me, your contribution was loud and clear.</p>
-<p>Somewhat sincerely,<br />Christopher</p>
-<p><em><strong>Status: Priority Post (5/5)</strong></em></p>
-<p><span class="full-image-block ssNonEditable"><span><span>&nbsp;</span></span></span></p></div>
-
-          </div>
           <div class="large-4 medium-4 columns" id="film-row">
             <div id="review-sidebar">
               <div id="film-info" class="film-info">
-                <h1 class="film" id="imdb-title"></h1>
-                <p>
-                  <strong><em>Priority post</em></strong><br />
-                  <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
-                </p>
-              </div>
+             </div>
             </div>
+          </div>
+          <div class="large-8 medium-8 columns" id="review-copy">
+            <p class="intro">Dear Valeria Ghiran</p>
+            <p class="intro">First, let me apologize. I said some things I didn&rsquo;t mean when I heard you were going to work on a black and white silent film. <em>It&rsquo;s Always Sunny in Philadelphia </em>has been such a solid gig for you, and <em>Justified</em>was just getting good! But I know you&rsquo;ve always wanted to work on a real Hollywood film. Technically<em>The Artist</em> is French, and there&rsquo;s no talking, but who&rsquo;s laughing now, right?</p>
+
+<p>I bet nobody even blinked seeing you walk around with your big pole and microphone for the entire 35 days. I wouldn&rsquo;t have. Boom operators are like the bellybuttons of film sets &ndash; we just accept they exist and have a place. Sometimes they even serve a purpose. Other times, it&rsquo;s just nice when producers gloss over the crew list. Am I right? So give me the skinny baby, dish up some dirt from behind-the-scenes!</p>
+
+<p>For example, I know director Michel Hazanavicius is married to B&eacute;r&eacute;nice B&eacute;jo, but there&rsquo;s no way her and Jean Dujarin weren&rsquo;t up to some &ldquo;French&rdquo; business between takes. I don&rsquo;t think I&rsquo;ve ever loved an onscreen couple as much as I did the two of them. His eyes, her smile &ndash; no offense, but I think your &ldquo;sound&rdquo; abilities would have only ruined what they had going. Good call to stay away.</p>
+
+<p>I hope you snuck into B&eacute;jo&rsquo;s trailer to slip on one sleeve of her coat and touch yourself though. I would have. She managed to turn something that sounds creepy into the most beautiful moment of the film. She would have been totally flattered to find you playing with her clothes. Europeans are always so much more direct. You probably figured that out during the cute homage to your boom operating skills when Dujardin kept ruining those takes on purpose. He totally gets you &ndash; I hope you got his number.</p>
+
+<p>Also, I&rsquo;ve been meaning to ask &ndash; what the hell was John Goodman actually saying? I assume you recorded all that gold for the DVD extras. My guess is he was speaking German, because he would blow-hard for a good 30 seconds and the title card would just say something like &ldquo;Darleen!&rdquo; Classic John.</p>
+
+<p>Maybe you can help me understand one part that bothered me. I don&rsquo;t know how the whole sound department hierarchy works (besides the fact you&rsquo;re at the bottom), but can you tell your bosses that using the <em>Vertigo</em> score killed the ending for Hitchcock fans? Depriving people of a climax after such a stimulating ordeal is akin to, well, trying to now take Kim Novak seriously. But everyone has critics. Your film, however, has fewer than most. Deservedly so.</p>
+
+<p>Imagine &ndash; you&rsquo;ve finally worked on something that your sweetheart mother, pretentious father, colour blind brother and deaf Grandma all equally enjoy. Take some credit Val, and don&rsquo;t be so offended by all the praise for this brilliant and unlikely &ldquo;silent&rdquo; hit. That scene, with the sound &ndash; you nailed it. The audience at my screening was so quiet you could hear a cup drop. So stop being so damn modest in all your interviews. You made a point in that negative space &ndash; just like the arrow in the FedEx logo. To me, your contribution was loud and clear.</p>
+
+<p>Somewhat sincerely,<br />Christopher</p>
+
           </div>
         </div>
         <div id="up-next" class="up-next">
-          <div class="row collapse">      
-            <div class="row">
-              <div class="large-12 medium-12 columns">
-                <h1 class="up-next">Up Next</h1>
-              </div>
-            </div>
-            <div class="row">
-              <div class="large-2 medium-2 columns">
-                  &nbsp;
-              </div>
+          <div class="row">
+          
+            
               <div class="large-4 medium-4 columns">
-                <a href="/content/2012/03/01/tinker-tailor-soldier-spy.html"><img src="/img/article/thumb/tinker-tailor-soldier-spy.jpg" alt="The Artist" /></a>
-                <a href="/content/2012/03/01/tinker-tailor-soldier-spy.html">
+                <a href="/content/2014/03/19/veronica-mars.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/veronica-mars.jpg" alt="Veronica Mars" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/19/veronica-mars.html">
                   <div class="review-text">
-                    <h1>Tinker Tailor Soldier Spy</h1>
-                    <h2><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-o"></i><i class="fa fa-star-o"></i></h2>
+                    <h1>Veronica Mars</h1>
+                    <h2 class="addressee">Dear "We Used to Be Friends", Theme Song</h2>
+                    <h2 class="author">By Di Golding</h2>
                   </div>
                 </a>
               </div>
+          
+            
               <div class="large-4 medium-4 columns">
-                <a href="/content/2012/03/02/wanderlust.html"><img src="/img/article/thumb/" alt="The Artist" /></a>
-                <a href="/content/2012/03/02/wanderlust.html">
+                <a href="/content/2014/03/18/filthy-gorgeous-the-bob-guccione-story.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/filthy-gorgeous-the-bob-guccione-story.jpg" alt="Filthy Gorgeous: The Bob Guccione Story" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/18/filthy-gorgeous-the-bob-guccione-story.html">
                   <div class="review-text">
-                    <h1>Wanderlust</h1>
-                    <h2><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
+                    <h1>Filthy Gorgeous: The Bob Guccione Story</h1>
+                    <h2 class="addressee">Dear Michael Perlmutter, Music Supervisor</h2>
+                    <h2 class="author">By Casey Tourangeau</h2>
                   </div>
                 </a>
               </div>
-              <div class="large-2 medium-2 columns">
-                &nbsp;
+          
+            
+              <div class="large-4 medium-4 columns">
+                <a href="/content/2014/03/17/mr-peabody-sherman.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/mr-peabody-sherman.jpg" alt="Mr. Peabody & Sherman" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/17/mr-peabody-sherman.html">
+                  <div class="review-text">
+                    <h1>Mr. Peabody & Sherman</h1>
+                    <h2 class="addressee">Dear Wayback Machine, Plot Device</h2>
+                    <h2 class="author">By Di Golding</h2>
+                  </div>
+                </a>
               </div>
-            </div>
+          
           </div>
         </div>
       </section>
@@ -178,7 +237,6 @@
         <div class="comments">
         <div id="disqus_thread" class="disqus_thread"></div>
       </div>
-       </div>
       <script type="text/javascript">
       var disqus_shortname = 'dearcastandcrew';
       (function() {
@@ -191,77 +249,104 @@
       <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
       <!--preview HTML for home page scroll-->
     <div class="post large-4 medium-4 columns" style="display:none;">
-      <a href="/content/2012/03/02/the-artist.html"><img src="/img/article/thumb/" alt="The Artist" /></a>
+      
       <a href="/content/2012/03/02/the-artist.html">
-        <div class="review-text">
-          <h1>The Artist</h1>
-          <h2><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></h2>
-          <h2 class="addressee">Dear , </h2>
-          <h2 class="author">By </h2>
-        </div>
-      </a>
+                  <div class="post-image">
+                    <img src="/img/article/thumb/the-artist.jpg" alt="The Artist" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2012/03/02/the-artist.html">
+                  <div class="review-text">
+                    <h1>The Artist</h1>
+                    <h2 class="addressee">Dear Valeria Ghiran, Boom Operator</h2>
+                    <h2 class="author">By Christopher Redmond</h2>
+                  </div>
+                </a>
     </div>
     <script>
     //get the movie info from IMDB
     $.ajax({
-      url: "http://omdbapi.com/?i=",
+      
+      url: "http://omdbapi.com/?i=tt1655442",
       dataType: 'jsonp',
       success: function(data) {
-        var title=data.Title;
-        $('#imdb-title').append(title);
-        var html = '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Directed by:</div><div class="imdb-data large-8 medium-8 columns">' + data.Director +'</div>';
+        var html = '<div class="row imdb-info-row no-border full-width">';
+        html += '<img class="imdb-img" src="' +data.Poster +'" />';
+        html += '<span class="imdb-category">Directed by</span><br /><span class="imdb-data">' + data.Director.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Written by:</div><div class="imdb-data large-8 medium-8 columns">' + data.Writer.replace(/\,/g, '<br />') +'</div>';
+        html += '<span class="imdb-category">Written by</span><br /><span class="imdb-data">';
+        var writers = data.Writer;
+        var writers_array = writers.split(',');
+
+        for(var i = 0; i < writers_array.length; i++) {
+           // Trim the excess whitespace.
+           writers_array[i] = writers_array[i].replace(/^\s*/, "").replace(/\s*$/, "");
+           // Add additional code here, such as:
+           if ((writers_array[i].indexOf('characters') == -1) && (writers_array[i].indexOf('story') == -1) && (writers_array[i].indexOf('creator') == -1) && (writers_array[i].indexOf('screen story') == -1) && (writers_array[i].indexOf('television story') == -1) && (writers_array[i].indexOf('article') == -1) && ((writers_array[i].indexOf('play') == -1) || (writers_array[i].indexOf('screenplay') > -1)) && (writers_array[i].indexOf('song') == -1) && (writers_array[i].indexOf('uncredited') == -1) && (writers_array[i].indexOf('also') == -1) && (writers_array[i].indexOf('book') == -1) && (writers_array[i].indexOf('novel') == -1) && (writers_array[i].indexOf('based on') == -1)){
+           html += writers_array[i].replace('(screenplay)', '').replace('(written by)', '').replace('(written for the screen by)', '') + '<br />';
+           }
+        }
+        html += '</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Starring:</div><div class="imdb-data large-8 medium-8 columns">'+ data.Actors.replace(/\,/g, '<br />') +'</div>';
+        html += '<span class="imdb-category">Starring<br /></span><span class="imdb-data">'+ data.Actors.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
-        html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-img large-12 medium-12 columns"><img class="imdb-img" src="' +data.Poster +'" /></div>';
         $('#film-info').append(html);
         html += '</div>';
       }
     });
     </script>
-      <section id="footer">
-          <div class="row collapse">
-      <footer class="footer">
-        <button class="footer"></button>
-        <ul>
-                              <li><a href="/reviews/">Reviews</a>
+      </div>
+    </div>
+<div id="footer">
+      <footer class="mm-fixed-bottom">
+        <div class="footer">
+          <div class="footer-block">
+            <ul>
+                                  <li class="text"><a href="/reviews/">Reviews</a>
             <ul>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="#">Features</a>
+                    <li><a href="/features/">Features</a>
             <ul>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>
-                    <li><a href="#">Podcast</a>
+<!--                     <li><a href="#">Podcast</a>
             <ul>
               <li><a href="#">Archive</a></li>
             </ul>
-          </li>
-                    <li><a href="#">About</a>
+          </li> -->
+                    <li><a href="/about/">About</a>
             <ul>
               <li><a href="/about/writers/">Writers</a></li>
               <li><a href="/about/contact/">Contact</a></li>
             </ul>
           </li>
-          <li><a href="#" id="footer-search-toggle"><i class="fa fa-search" id=""></i> Search</a></li>
-        </ul>
-        <span class="stretch"></span>
-        <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+            </ul>
+          </div>
+          <div class="footer-block">
+            <h1 class="footer-head">Follow</h1>
+            <ul class="social">
+              <li class="social"><a class="social-twitter"></a></li>
+              <li class="social"><a class="social-facebook"></a></li>
+              <li class="social"><a class="social-letterboxd"></a></li>
+              <li class="social"><a class="social-rss"></a></li>
+            </ul>
+          </div>
+          <span class="stretch"></span>
+          <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+        </div>
       </footer>
-    </div>
-    </section>
     </div>
   
   <!-- Search modal overlay -->

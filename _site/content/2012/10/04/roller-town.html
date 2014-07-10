@@ -15,8 +15,7 @@
     <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
-<!--   	<link href="/css/global.css" type="text/css" rel="stylesheet" /> -->
-  	
+    
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -26,6 +25,7 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
+      $('nav#menu-left').css({'display':'block'});
     });
 		</script>
 
@@ -43,30 +43,31 @@
 
 
   <body>
-      <nav id="menu-left">
+  <div id="nav-test"><a href="/"><img src="/img/global/dcac-full-logo-white.svg" class="side-home-link" /></a></div>
+  <nav id="menu-left">
     <!-- Sidebar Nav -->
       <ul>
-        <li><a href="#" id="side-search-toggle"><i class="fa fa-search" id=""></i></a></li>
-                            <li><a href="/reviews/">Reviews</a>
+        <li><a href="#" id="side-search-toggle"><i class="fa fa-search"></i> Search</a></li>
+                            <li class="text"><a href="/reviews/">Reviews</a>
             <ul>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="#">Features</a>
+                    <li><a href="/features/">Features</a>
             <ul>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>
-                    <li><a href="#">Podcast</a>
+<!--                     <li><a href="#">Podcast</a>
             <ul>
               <li><a href="#">Archive</a></li>
             </ul>
-          </li>
-                    <li><a href="#">About</a>
+          </li> -->
+                    <li><a href="/about/">About</a>
             <ul>
               <li><a href="/about/writers/">Writers</a></li>
               <li><a href="/about/contact/">Contact</a></li>
@@ -76,101 +77,161 @@
     <!-- End Sidebar Nav -->
     </nav>
     <div class="container-shadow" id="main-container">    
-      
-      <div id="nav-button-container">
-        <button class="left-off-canvas-toggle mm-fixed-top" id="nav-toggle" >Dear Cast &amp; Crew Navigation</button>
+             
+<div class="full-black">
+      <div class="row collapse">
+        <div class="section-header">
+          <section class="top-nav" id="top-nav">
+            <a href="/" class="logo-link"></a>
+            <ul>
+              <li><a href="/reviews/">Reviews</a></li>
+              <li><a href="/features/" class="slash">Features</a></li>
+              <!-- <li><a href="/podcast/">Podcast</a></li> -->
+              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
+            </ul>
+          </section>
+        </div>
       </div>
-      <div class="row full-width collapse">
-        <div class="large-12 medium-12 small-12 columns">
-          <div id="story-title">
-            <div id="title-img" style="background-image:url(/img/article/);">
-              <section id="main-title" class="main-title ">
-                <div class="row collapse" style="z-index:15;">
-                 <div class="large-12 medium-12 small-12 columns">
-                    <button id="menu-toggle-top" class="logo-black">Dear Cast &amp; Crew Navigation</button>
-                    <h1 class="hero">Roller Town</h1>
-                    <h2 class="hero">
-                      By: Test Author</a>&nbsp;&nbsp;|&nbsp;&nbsp;Mailed on: October 04, 2012
-                    </h2>
-                    <p class="article-share">
-                      <a href="https://twitter.com/intent/tweet?text=Dear  ,  for Roller Town%0A"><i class="fa fa-twitter"></i></a>
-                      <a href="#"><i class="fa fa-facebook"></i></a>
-                    </p>
-                  </div>
+    </div>
+        
+    <div class="mini-top-nav-hidden mm-fixed-top" id="mini-top-nav">
+      <nav class="top-bar" data-topbar>
+        <ul class="title-area">
+          <li class="name dcac-logo" id="nav-toggle">
+            <h1><a href="#">Dear Cast & Crew</a></h1>
+          </li>
+        </ul>
+        <section class="top-bar-section">
+          <!-- Right Nav Section -->
+          <ul class="right">
+            <li class="search" id="mini-top-search-toggle"><a href="#" class="mini-search-link"><i class="fa fa-search"></i></a></li>
+          </ul>
+        </section>
+      </nav>
+    </div>
+
+      <section>
+        <div id="story-title" class="title-info" data-equalizer>
+          <div class="title-img" style="background-image:url(/img/article/roller-town.jpg);"></div>
+          <div class="row" data-equalizer-watch >
+            <div class="large-4 medium-4 small-4 columns" data-equalizer-watch>
+              <div class="review-status">
+                <h1 class="hero">Roller Town</h1>
+                <h2 class="hero-author">
+                  By <a href="/about/writers/christopherr">Christopher Redmond</a>
+                </h2>
+                <h2 class="hero-date">
+                  Mailed on October 04, 2012
+                </h2>
+                <hr class="title-divider" />
+                <img src="/img/global/stamp.svg" class="standard review-stamp" />
+                Air<br />Mail<br />
+                    <div class="large-star-rating">
+                      <img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue-half.svg" /><img class="star-large" src="/img/global/star-white.svg" />
                 </div>
-              </section>
-              <button class="down-arrow animated bounce" id="down-arrow"></button>
+              </div>
+            </div>
+            <div class="large-8 medium-8 small-8 columns" data-equalizer-watch>
+              <div class="review-people">
+                <h3><span class="addressee">Dear Lonnie Kleinman</span><br />
+                  <span class="position">Random Phrase Generator</span>
+                </h3>
+              </div>
             </div>
           </div>
-        </div><!-- title -->
-      </div>
-      <section class="main-copy">
-        <div class="row" id="body-text">
-          <div class="body-addressee large-12 medium-12 columns">
-            <h3>Dear , ,</h3>
-          </div>
         </div>
+      </section>
+      <section id="body-text">
         <div class="row">
-          <div class="large-8 medium-8 columns" id="review-copy">
-            <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/10/4/roller-town.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76bf/1349355388433/Roller%20Town.jpg" alt="" /></a></span></span></p>
-<p><em><span style="font-size:130%;"><strong>Dear Lonnie Kleinman,</strong> Random Phrase Generator,</span></em></p>
-<p>&ldquo;Roller disco double dicker.&rdquo; That was you, wasn&rsquo;t it? Or are you the type of gal who threatens to &ldquo;ground up like pepper&rdquo; your misbehaving shame-baby? No, these rather hilarious and random lines are from the twisted minds of Picnicface, the online comedy troupe behind <em>Roller Town</em>. You, on the other hand, are simply one of the many donors who helped make their big screen debut possible. The other self-credited benefactors include raptor tamers, fruit hypnotizers, and pepperoni stick samurais. And if any of you had actually showed up on-set, you undoubtedly would have been included in this everything-plus-the-kitchen-sink-plus-the-hair-in the-drain comedy.</p>
-<p><em>Roller Town</em> is a tour-de-<em>farce</em> by Generation YouTube&rsquo;s Canadian wunderkinds. Picnicface got their own Comedy Network TV series, but stepping into film is always much more daunting (as their forebears from like <em>Saturday Night Live</em> and <em>The Kids in the Hall </em>can attest). Rarely can specialists in short-form humor successfully stretch a skit over an hour and a half.</p>
-<p>Well, I LOL&rsquo;ed &ndash; for real &ndash; multiple times. So something obviously worked.</p>
-<p>The year is 1970-something, and disco isn&rsquo;t just dying, it&rsquo;s being murdered. No-nonsense arcade pushers are forcing Mouth Wheel machines (aka Pac-Man) into the small town roller discos of Canada. They&rsquo;re doing more than just killing the funk&mdash;they&rsquo;re killing people, and even themselves, to prove how ridiculously serious they are. The only man brave enough to roll up against them is Leo (Mark Little), a defiant skater who for some reason is constantly, humiliatingly, rejected by the Royal Roller Academy.&nbsp; Now he gets a chance to finally prove his groove. Along the way, he also attempts to win over Julia (Kayla Lorette), the girl of his dreams. And there you have it: all the mandatory plot points to ride out a feature film. But who cares? It&rsquo;s the random stops along the way that make this film worthwhile.</p>
-<p>Leo&rsquo;s facemashing during a makeout session with Julia. The seven belts Grandpa wears over his sweatpants. A hobo corn-fucker hiding in the fields. And, of course, the musical disco interludes. These are just a few arbitrary examples of what, against all logic, worked for me. The film as a whole suffers from numerous trappings of a low budget feature: the sound design is weak, the cinematography is inconsistent, and the scale always feels limited. But when it comes to comedy, there&rsquo;s only one objective measurement that matters. Laughter. And more than a few jokes land right where they&rsquo;re supposed to. Even the romance manages a strange brew of chemistry. I&rsquo;ll be damned if I didn&rsquo;t fall for Julia&rsquo;s crooked smile by the end of it all.</p>
-<p>So check your watch, brave supporter, and sing along with me: &ldquo;It&rsquo;s a quarter to dick. It&rsquo;s a half past pussy. It&rsquo;s fuck o&rsquo;clock!&rdquo;. No? Not random enough for you?</p>
-<p>Arbitrarily yours,</p>
-<p>Christopher</p>
-<p><strong><em>Status: Air Mail (3.5/5)</em></strong></p>
-<p>P.S. Is it too late to donate, or can I still get my own <a href="http://www.youtube.com/watch?v=8hW-e6vrM-U&amp;feature=player_embedded">personalized sexy rap video</a>?</p></div>
-
-          </div>
           <div class="large-4 medium-4 columns" id="film-row">
             <div id="review-sidebar">
               <div id="film-info" class="film-info">
-                <h1 class="film" id="imdb-title"></h1>
-                <p>
-                  <strong><em></em></strong><br />
-                  <i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
-                </p>
-              </div>
+             </div>
             </div>
+          </div>
+          <div class="large-8 medium-8 columns" id="review-copy">
+            <p class="intro">Dear Lonnie Kleinman</p>
+            <p class="intro">&ldquo;Roller disco double dicker.&rdquo; That was you, wasn&rsquo;t it? Or are you the type of gal who threatens to &ldquo;ground up like pepper&rdquo; your misbehaving shame-baby? No, these rather hilarious and random lines are from the twisted minds of Picnicface, the online comedy troupe behind <em>Roller Town</em>. You, on the other hand, are simply one of the many donors who helped make their big screen debut possible. The other self-credited benefactors include raptor tamers, fruit hypnotizers, and pepperoni stick samurais. And if any of you had actually showed up on-set, you undoubtedly would have been included in this everything-plus-the-kitchen-sink-plus-the-hair-in the-drain comedy.</p>
+
+<p><em>Roller Town</em> is a tour-de-<em>farce</em> by Generation YouTube&rsquo;s Canadian wunderkinds. Picnicface got their own Comedy Network TV series, but stepping into film is always much more daunting (as their forebears from like <em>Saturday Night Live</em> and <em>The Kids in the Hall </em>can attest). Rarely can specialists in short-form humor successfully stretch a skit over an hour and a half.</p>
+
+<p>Well, I LOL&rsquo;ed &ndash; for real &ndash; multiple times. So something obviously worked.</p>
+
+<p>The year is 1970-something, and disco isn&rsquo;t just dying, it&rsquo;s being murdered. No-nonsense arcade pushers are forcing Mouth Wheel machines (aka Pac-Man) into the small town roller discos of Canada. They&rsquo;re doing more than just killing the funk&mdash;they&rsquo;re killing people, and even themselves, to prove how ridiculously serious they are. The only man brave enough to roll up against them is Leo (Mark Little), a defiant skater who for some reason is constantly, humiliatingly, rejected by the Royal Roller Academy.&nbsp; Now he gets a chance to finally prove his groove. Along the way, he also attempts to win over Julia (Kayla Lorette), the girl of his dreams. And there you have it: all the mandatory plot points to ride out a feature film. But who cares? It&rsquo;s the random stops along the way that make this film worthwhile.</p>
+
+<p>Leo&rsquo;s facemashing during a makeout session with Julia. The seven belts Grandpa wears over his sweatpants. A hobo corn-fucker hiding in the fields. And, of course, the musical disco interludes. These are just a few arbitrary examples of what, against all logic, worked for me. The film as a whole suffers from numerous trappings of a low budget feature: the sound design is weak, the cinematography is inconsistent, and the scale always feels limited. But when it comes to comedy, there&rsquo;s only one objective measurement that matters. Laughter. And more than a few jokes land right where they&rsquo;re supposed to. Even the romance manages a strange brew of chemistry. I&rsquo;ll be damned if I didn&rsquo;t fall for Julia&rsquo;s crooked smile by the end of it all.</p>
+
+<p>So check your watch, brave supporter, and sing along with me: &ldquo;It&rsquo;s a quarter to dick. It&rsquo;s a half past pussy. It&rsquo;s fuck o&rsquo;clock!&rdquo;. No? Not random enough for you?</p>
+
+<p>Arbitrarily yours,</p>
+
+<p>Christopher</p>
+
+<p><p>P.S. Is it too late to donate, or can I still get my own <a href="http://www.youtube.com/watch?v=8hW-e6vrM-U&amp;feature=player_embedded">personalized sexy rap video</a>?</p></div></p>
+
           </div>
         </div>
         <div id="up-next" class="up-next">
-          <div class="row collapse">      
-            <div class="row">
-              <div class="large-12 medium-12 columns">
-                <h1 class="up-next">Up Next</h1>
-              </div>
-            </div>
-            <div class="row">
-              <div class="large-2 medium-2 columns">
-                  &nbsp;
-              </div>
+          <div class="row">
+          
+            
               <div class="large-4 medium-4 columns">
-                <a href="/content/2012/10/03/pitch-perfect.html"><img src="/img/article/thumb/" alt="Roller Town" /></a>
-                <a href="/content/2012/10/03/pitch-perfect.html">
+                <a href="/content/2014/03/19/veronica-mars.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/veronica-mars.jpg" alt="Veronica Mars" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/19/veronica-mars.html">
                   <div class="review-text">
-                    <h1>Pitch Perfect</h1>
-                    <h2><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
+                    <h1>Veronica Mars</h1>
+                    <h2 class="addressee">Dear "We Used to Be Friends", Theme Song</h2>
+                    <h2 class="author">By Di Golding</h2>
                   </div>
                 </a>
               </div>
+          
+            
               <div class="large-4 medium-4 columns">
-                <a href="/content/2012/10/05/war-witch-rebelle.html"><img src="/img/article/thumb/" alt="Roller Town" /></a>
-                <a href="/content/2012/10/05/war-witch-rebelle.html">
+                <a href="/content/2014/03/18/filthy-gorgeous-the-bob-guccione-story.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/filthy-gorgeous-the-bob-guccione-story.jpg" alt="Filthy Gorgeous: The Bob Guccione Story" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/18/filthy-gorgeous-the-bob-guccione-story.html">
                   <div class="review-text">
-                    <h1>War Witch (Rebelle)</h1>
-                    <h2><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
+                    <h1>Filthy Gorgeous: The Bob Guccione Story</h1>
+                    <h2 class="addressee">Dear Michael Perlmutter, Music Supervisor</h2>
+                    <h2 class="author">By Casey Tourangeau</h2>
                   </div>
                 </a>
               </div>
-              <div class="large-2 medium-2 columns">
-                &nbsp;
+          
+            
+              <div class="large-4 medium-4 columns">
+                <a href="/content/2014/03/17/mr-peabody-sherman.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/mr-peabody-sherman.jpg" alt="Mr. Peabody & Sherman" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/17/mr-peabody-sherman.html">
+                  <div class="review-text">
+                    <h1>Mr. Peabody & Sherman</h1>
+                    <h2 class="addressee">Dear Wayback Machine, Plot Device</h2>
+                    <h2 class="author">By Di Golding</h2>
+                  </div>
+                </a>
               </div>
-            </div>
+          
           </div>
         </div>
       </section>
@@ -178,7 +239,6 @@
         <div class="comments">
         <div id="disqus_thread" class="disqus_thread"></div>
       </div>
-       </div>
       <script type="text/javascript">
       var disqus_shortname = 'dearcastandcrew';
       (function() {
@@ -191,77 +251,104 @@
       <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
       <!--preview HTML for home page scroll-->
     <div class="post large-4 medium-4 columns" style="display:none;">
-      <a href="/content/2012/10/04/roller-town.html"><img src="/img/article/thumb/" alt="Roller Town" /></a>
+      
       <a href="/content/2012/10/04/roller-town.html">
-        <div class="review-text">
-          <h1>Roller Town</h1>
-          <h2><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
-          <h2 class="addressee">Dear , </h2>
-          <h2 class="author">By Test Author</h2>
-        </div>
-      </a>
+                  <div class="post-image">
+                    <img src="/img/article/thumb/roller-town.jpg" alt="Roller Town" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2012/10/04/roller-town.html">
+                  <div class="review-text">
+                    <h1>Roller Town</h1>
+                    <h2 class="addressee">Dear Lonnie Kleinman, Random Phrase Generator</h2>
+                    <h2 class="author">By Christopher Redmond</h2>
+                  </div>
+                </a>
     </div>
     <script>
     //get the movie info from IMDB
     $.ajax({
-      url: "http://omdbapi.com/?i=",
+      
+      url: "http://omdbapi.com/?i=tt1732730",
       dataType: 'jsonp',
       success: function(data) {
-        var title=data.Title;
-        $('#imdb-title').append(title);
-        var html = '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Directed by:</div><div class="imdb-data large-8 medium-8 columns">' + data.Director +'</div>';
+        var html = '<div class="row imdb-info-row no-border full-width">';
+        html += '<img class="imdb-img" src="' +data.Poster +'" />';
+        html += '<span class="imdb-category">Directed by</span><br /><span class="imdb-data">' + data.Director.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Written by:</div><div class="imdb-data large-8 medium-8 columns">' + data.Writer.replace(/\,/g, '<br />') +'</div>';
+        html += '<span class="imdb-category">Written by</span><br /><span class="imdb-data">';
+        var writers = data.Writer;
+        var writers_array = writers.split(',');
+
+        for(var i = 0; i < writers_array.length; i++) {
+           // Trim the excess whitespace.
+           writers_array[i] = writers_array[i].replace(/^\s*/, "").replace(/\s*$/, "");
+           // Add additional code here, such as:
+           if ((writers_array[i].indexOf('characters') == -1) && (writers_array[i].indexOf('story') == -1) && (writers_array[i].indexOf('creator') == -1) && (writers_array[i].indexOf('screen story') == -1) && (writers_array[i].indexOf('television story') == -1) && (writers_array[i].indexOf('article') == -1) && ((writers_array[i].indexOf('play') == -1) || (writers_array[i].indexOf('screenplay') > -1)) && (writers_array[i].indexOf('song') == -1) && (writers_array[i].indexOf('uncredited') == -1) && (writers_array[i].indexOf('also') == -1) && (writers_array[i].indexOf('book') == -1) && (writers_array[i].indexOf('novel') == -1) && (writers_array[i].indexOf('based on') == -1)){
+           html += writers_array[i].replace('(screenplay)', '').replace('(written by)', '').replace('(written for the screen by)', '') + '<br />';
+           }
+        }
+        html += '</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Starring:</div><div class="imdb-data large-8 medium-8 columns">'+ data.Actors.replace(/\,/g, '<br />') +'</div>';
+        html += '<span class="imdb-category">Starring<br /></span><span class="imdb-data">'+ data.Actors.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
-        html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-img large-12 medium-12 columns"><img class="imdb-img" src="' +data.Poster +'" /></div>';
         $('#film-info').append(html);
         html += '</div>';
       }
     });
     </script>
-      <section id="footer">
-          <div class="row collapse">
-      <footer class="footer">
-        <button class="footer"></button>
-        <ul>
-                              <li><a href="/reviews/">Reviews</a>
+      </div>
+    </div>
+<div id="footer">
+      <footer class="mm-fixed-bottom">
+        <div class="footer">
+          <div class="footer-block">
+            <ul>
+                                  <li class="text"><a href="/reviews/">Reviews</a>
             <ul>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="#">Features</a>
+                    <li><a href="/features/">Features</a>
             <ul>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>
-                    <li><a href="#">Podcast</a>
+<!--                     <li><a href="#">Podcast</a>
             <ul>
               <li><a href="#">Archive</a></li>
             </ul>
-          </li>
-                    <li><a href="#">About</a>
+          </li> -->
+                    <li><a href="/about/">About</a>
             <ul>
               <li><a href="/about/writers/">Writers</a></li>
               <li><a href="/about/contact/">Contact</a></li>
             </ul>
           </li>
-          <li><a href="#" id="footer-search-toggle"><i class="fa fa-search" id=""></i> Search</a></li>
-        </ul>
-        <span class="stretch"></span>
-        <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+            </ul>
+          </div>
+          <div class="footer-block">
+            <h1 class="footer-head">Follow</h1>
+            <ul class="social">
+              <li class="social"><a class="social-twitter"></a></li>
+              <li class="social"><a class="social-facebook"></a></li>
+              <li class="social"><a class="social-letterboxd"></a></li>
+              <li class="social"><a class="social-rss"></a></li>
+            </ul>
+          </div>
+          <span class="stretch"></span>
+          <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+        </div>
       </footer>
-    </div>
-    </section>
     </div>
   
   <!-- Search modal overlay -->

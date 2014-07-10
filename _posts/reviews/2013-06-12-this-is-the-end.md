@@ -1,19 +1,18 @@
 ---
 published: true
-image:
+imdb: tt1245492
+image: this-is-the-end.jpeg
 author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+stars: 4.5
+excerpt: "Don&rsquo;t you think there&rsquo;s something dangerous in the very premise of <em>This Is The End</em>? "
+position: Photo Double
+addressee: James Rawlings
 layout: review
 categories: reviews
 title: "This is the End"
 comments: true
 tags: [apocalypse, comedy, Craig Robinson, Danny McBride, James Franco, Jay Baruchel, Letters, Seth Rogan]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/6/12/this-is-the-end.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7859/1371052893523/this-is-the-end.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:120%;"><span style="font-size:120%;"><strong>Dear James Rawlings,</strong> Photo Double, </span></em></p>
 <p>Don&rsquo;t you think there&rsquo;s something dangerous in the very premise of <em>This Is The End</em>? A special effects meta-comedy featuring young Hollywood stars playing (versions of) themselves? Doesn&rsquo;t it sound kind of self-indulgent, prideful, decadent&mdash;a big inside joke that the audience will never be more than fractionally a party to? Even more worrisome: Seth Rogen co-wrote and co-directed the movie with his best pal<em> </em>Evan Goldberg, cast all his friends from <a href="http://movies.netflix.com/WiMovie/Freaks_and_Geeks/70253797?trkid=1889703"><em>Freaks and Geeks</em></a> and <a href="http://movies.netflix.com/WiMovie/Undeclared/70253798?trkid=1889703"><em>Undeclared</em></a><em>,</em> and, from start to finish, stuffed the film so full of cameos that it risks playing out like an episode of TMZ irradiated by gamma rays.</p>
 <p>But big risks like this offer big rewards. And just as much as Rogen and Goldberg (and the rest of the cast) take a chance by putting themselves (literally) in the middle of a big-budget apocalypse scenario, so too does the audience bear a good amount of risk in watching it unfold: there&rsquo;s nothing more unpleasant than spending two hours (and twelve bucks) watching a bunch of attractive people cracking wise and having fun with no concern for whether the audience is having fun, too (see <em>Ocean&rsquo;s Twelve</em>).</p>
 <p>But you and the filmmakers (and me and my fellow filmgoers) can rest easy. Even though its artistic ambitions aren&rsquo;t lofty, even though it&rsquo;s one of those crowd-pleasing, impossible-to-quantify, eye-of-the-beholder-type movies (like all pure comedies are), I&rsquo;m pretty comfortable saying <em>This Is The End</em> is the best flick I&rsquo;ve seen so far this year.</p>
@@ -26,4 +25,3 @@ tags: [apocalypse, comedy, Craig Robinson, Danny McBride, James Franco, Jay Baru
 <p>And, in the end, that&rsquo;s all that really matters.</p>
 <p>Sincerely,</p>
 <p>Jared Young</p>
-<p><strong><em>Status: Priority Post</em><em> (4.5/5</em><em>)</em></strong></p></div>

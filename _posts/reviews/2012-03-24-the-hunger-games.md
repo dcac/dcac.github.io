@@ -1,11 +1,12 @@
 ---
 published: true
-image:
-author: 
+imdb: tt1392170
+image: the-hunger-games.jpg
+author: christopherr
 stars: 4
-excerpt: 
-position: 
-addressee: 
+excerpt: "As your first big gig in Hollywood, you really landed the jackpot.  First, you got to be the envy of your jealous friends, who undoubtedly  tried to claw out every detail of how the filmmakers would adapt Suzanne  Collin&rsquo;s wildly popular novel The Hunger Games. More importantly  though, while you were busy running around getting coffee for the  editors, colourists, and data managers, I hope you picked up a little  something for yourself: like a lesson in how the pressures of catering  to a rabid fan-base doesn&rsquo;t have to result in pandering to a common  denominator."
+position: Post-Production Intern
+addressee: Kelly Doty
 layout: review
 categories:
   - reviews
@@ -16,8 +17,6 @@ comments: true
 streaming: true
 tags: [Jennifer Lawrence, Kelly Doty, Letters, netflix.ca, Post-Prouction Intern, Review, The Hunger Games]
 ---
-<div><p><span class="full-image-block ssNonEditable"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf750d/1336619375093/hungergames.jpg" alt="" /></span></p>
-<p><em style="font-size:120%;"><span style="font-size:120%;"><strong>Dear Kelly Doty,</strong> Post-Production Intern,</span></em></p>
 <p>As your first big gig in Hollywood, you really landed the jackpot.  First, you got to be the envy of your jealous friends, who undoubtedly  tried to claw out every detail of how the filmmakers would adapt Suzanne  Collin&rsquo;s wildly popular novel The Hunger Games. More importantly  though, while you were busy running around getting coffee for the  editors, colourists, and data managers, I hope you picked up a little  something for yourself: like a lesson in how the pressures of catering  to a rabid fan-base doesn&rsquo;t have to result in pandering to a common  denominator.</p>
 <p>But that doesn&rsquo;t mean the producers didn&rsquo;t fight hard to sell this is a family-friendly adventure flick. Luckily, a story about teenagers forced into a battle royale death match can only be sanitized so much. And you can&rsquo;t alienate your core audience, who, like the citizens of Panem, want their blood, but can be won over by an unlikely love story. To pull this off, the film would need a sparkle of <em>Twilight&rsquo;s</em> romance, a world as vivid as <em>Harry Potter</em>&rsquo;s, and moments of moral cynicism that could have come straight from the back alleys of Gotham city.</p>
 <p>These are all decisions that are laboured over during scriptwriting and shooting, but the last word always rests in post-production. You&rsquo;re like the film&rsquo;s own sinister Gamemakers, who have the ability to twist and amend events in whatever way suits the studio&rsquo;s final agenda. And you won.</p>
@@ -29,5 +28,3 @@ tags: [Jennifer Lawrence, Kelly Doty, Letters, netflix.ca, Post-Prouction Intern
 <p>So there you have it, a killer r&eacute;sume credit and hopefully a window into what works in post-production. Nice work if you can get it, eh?</p>
 <p>With sugar,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Air Mail (4/5)</em></strong></p>
-<p><strong><em><span class="full-image-block ssNonEditable"><span><a href="http://www.zip.ca/browse/title.aspx?f=titleId%28204047%29"><img style="width:225px;" src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7d91/1343245704065/Rent-it-on-Zip.png" alt="" /></a></span></span><br /></em></strong></p></div>

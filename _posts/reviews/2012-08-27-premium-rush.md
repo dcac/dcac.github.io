@@ -1,11 +1,12 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt1547234
+image: premium-rush.jpg
+author: christopherr
+stars: 4
+excerpt: "Who knew parked cars could be so dangerous? Cyclists, that&rsquo;s who. We who ride recumbent constantly fear illegally pulled-over obstacles and swinging door booby traps that clog the arteries of a city." 
+position: Parking Coordinator
+addressee: Kerry Clark
 layout: review
 categories:
   - reviews
@@ -15,8 +16,6 @@ title: "Premium Rush"
 comments: true
 tags: [action, Cycling, Cyclist, David Koepp, JGL, Joseph Gordon-Levitt, Premium Rush, Uncategorized]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/8/27/premium-rush.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7622/1346086559483/Premium%20Rush2.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Kerry Clark,</strong> Parking Coordinator</em></p>
 <p>Who knew parked cars could be so dangerous? Cyclists, that&rsquo;s who. We who ride recumbent constantly fear illegally pulled-over obstacles and swinging door booby traps that clog the arteries of a city. It&rsquo;s about time someone found a way to translate the speed and hazards of the road into a full-tilt action feature. It&rsquo;s also one of the most exciting and kinetic action films of the year. I just hope you were paying attention.</p>
 <p>On one hand, you and the real-life superhero&mdash;literally a man in tights&mdash;of <em>Premium Rush</em> seem like the yin and yang of transportation. Wilee (Joseph Gordon-Levitt) is named after the Coyote, but he&rsquo;s more like the Road Runner. As a fixed gear, steel frame, no brakes bicycle courier, he squeezes through the seams of the city and lives for a new rush every hour. By contrast, you block off huge sections of the street for a fleet of equipment trucks, craft cars and actor&rsquo;s trailers. Less sexy, sure, but at least it&rsquo;s safe. When Wilee unknowingly picks up a package worth a lot of money to the Chinese mafia, he&rsquo;s suddenly trying to outride good cops, bad cops, fellow couriers, and worst of all &ndash; New York City itself. Basically the same big honking mess you had to deal with every day.</p>
 <p>In fact, you two have more in common than you might think. Figuring out where to put your vehicle becomes one of the most inventive conceits of co-writer and director David Koepp&rsquo;s storytelling. &ldquo;Wilee vision&rdquo;, as I&rsquo;ll call it, slows down reality and simulates the potential outcomes of various paths. Beyond being a fun way to add violence to a film with a relatively low body count, the visual trick helps the audience understand the risks of the road. That might double as a kick-ass public service announcement, but the primary purpose is to keep your pulse pounding. And it works.</p>
@@ -24,4 +23,3 @@ tags: [action, Cycling, Cyclist, David Koepp, JGL, Joseph Gordon-Levitt, Premium
 <p>That said, I trust after working on this film that you realize the implications of your job. Putting a car in the wrong place at the wrong time can be deadly. But in this case, it&rsquo;s also entertaining as hell.</p>
 <p>Ride on,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Air Mail (4/5)</em></strong></p></div>

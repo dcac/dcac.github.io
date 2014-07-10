@@ -15,8 +15,7 @@
     <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
-<!--   	<link href="/css/global.css" type="text/css" rel="stylesheet" /> -->
-  	
+    
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -26,6 +25,7 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
+      $('nav#menu-left').css({'display':'block'});
     });
 		</script>
 
@@ -43,30 +43,31 @@
 
 
   <body>
-      <nav id="menu-left">
+  <div id="nav-test"><a href="/"><img src="/img/global/dcac-full-logo-white.svg" class="side-home-link" /></a></div>
+  <nav id="menu-left">
     <!-- Sidebar Nav -->
       <ul>
-        <li><a href="#" id="side-search-toggle"><i class="fa fa-search" id=""></i></a></li>
-                            <li><a href="/reviews/">Reviews</a>
+        <li><a href="#" id="side-search-toggle"><i class="fa fa-search"></i> Search</a></li>
+                            <li class="text"><a href="/reviews/">Reviews</a>
             <ul>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="#">Features</a>
+                    <li><a href="/features/">Features</a>
             <ul>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>
-                    <li><a href="#">Podcast</a>
+<!--                     <li><a href="#">Podcast</a>
             <ul>
               <li><a href="#">Archive</a></li>
             </ul>
-          </li>
-                    <li><a href="#">About</a>
+          </li> -->
+                    <li><a href="/about/">About</a>
             <ul>
               <li><a href="/about/writers/">Writers</a></li>
               <li><a href="/about/contact/">Contact</a></li>
@@ -76,102 +77,161 @@
     <!-- End Sidebar Nav -->
     </nav>
     <div class="container-shadow" id="main-container">    
-      
-      <div id="nav-button-container">
-        <button class="left-off-canvas-toggle mm-fixed-top" id="nav-toggle" >Dear Cast &amp; Crew Navigation</button>
+             
+<div class="full-black">
+      <div class="row collapse">
+        <div class="section-header">
+          <section class="top-nav" id="top-nav">
+            <a href="/" class="logo-link"></a>
+            <ul>
+              <li><a href="/reviews/">Reviews</a></li>
+              <li><a href="/features/" class="slash">Features</a></li>
+              <!-- <li><a href="/podcast/">Podcast</a></li> -->
+              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
+            </ul>
+          </section>
+        </div>
       </div>
-      <div class="row full-width collapse">
-        <div class="large-12 medium-12 small-12 columns">
-          <div id="story-title">
-            <div id="title-img" style="background-image:url(/img/article/);">
-              <section id="main-title" class="main-title ">
-                <div class="row collapse" style="z-index:15;">
-                 <div class="large-12 medium-12 small-12 columns">
-                    <button id="menu-toggle-top" class="logo-black">Dear Cast &amp; Crew Navigation</button>
-                    <h1 class="hero">Margaret</h1>
-                    <h2 class="hero">
-                      By: Test Author</a>&nbsp;&nbsp;|&nbsp;&nbsp;Mailed on: August 01, 2012
-                    </h2>
-                    <p class="article-share">
-                      <a href="https://twitter.com/intent/tweet?text=Dear  ,  for Margaret%0A"><i class="fa fa-twitter"></i></a>
-                      <a href="#"><i class="fa fa-facebook"></i></a>
-                    </p>
-                  </div>
+    </div>
+        
+    <div class="mini-top-nav-hidden mm-fixed-top" id="mini-top-nav">
+      <nav class="top-bar" data-topbar>
+        <ul class="title-area">
+          <li class="name dcac-logo" id="nav-toggle">
+            <h1><a href="#">Dear Cast & Crew</a></h1>
+          </li>
+        </ul>
+        <section class="top-bar-section">
+          <!-- Right Nav Section -->
+          <ul class="right">
+            <li class="search" id="mini-top-search-toggle"><a href="#" class="mini-search-link"><i class="fa fa-search"></i></a></li>
+          </ul>
+        </section>
+      </nav>
+    </div>
+
+      <section>
+        <div id="story-title" class="title-info" data-equalizer>
+          <div class="title-img" style="background-image:url(/img/article/margaret.jpg);"></div>
+          <div class="row" data-equalizer-watch >
+            <div class="large-4 medium-4 small-4 columns" data-equalizer-watch>
+              <div class="review-status">
+                <h1 class="hero">Margaret</h1>
+                <h2 class="hero-author">
+                  By <a href="/about/writers/christopherr">Christopher Redmond</a>
+                </h2>
+                <h2 class="hero-date">
+                  Mailed on August 01, 2012
+                </h2>
+                <hr class="title-divider" />
+                <img src="/img/global/stamp.svg" class="standard review-stamp" />
+                Priority<br />Post<br />
+                    <div class="large-star-rating">
+                      <img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue-half.svg" />
                 </div>
-              </section>
-              <button class="down-arrow animated bounce" id="down-arrow"></button>
+              </div>
+            </div>
+            <div class="large-8 medium-8 small-8 columns" data-equalizer-watch>
+              <div class="review-people">
+                <h3><span class="addressee">Dear Cory Poccia</span><br />
+                  <span class="position">Post-Production Coordinator</span>
+                </h3>
+              </div>
             </div>
           </div>
-        </div><!-- title -->
-      </div>
-      <section class="main-copy">
-        <div class="row" id="body-text">
-          <div class="body-addressee large-12 medium-12 columns">
-            <h3>Dear , ,</h3>
-          </div>
         </div>
+      </section>
+      <section id="body-text">
         <div class="row">
-          <div class="large-8 medium-8 columns" id="review-copy">
-            <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/8/1/margaret.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf75ea/1343843400093/Margaret.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Cory Poccia,</strong> Post-Production Coordinator,</em></p>
-<p>Wow. I hope you claimed some serious overtime. <em>Margaret </em>was meant for release in 2007, and after legal battles and re-cuts to change the film&rsquo;s length, the rest of us finally have a chance, five years, later to see Kenneth Logerman&rsquo;s sophomore directorial effort. Amazingly, and against the odds, your heavy workload paid off. This film was worth the wait. And even, dare I say, worth the weight.</p>
-<p>You have to concede that as a matter of standard practice, no small-scale drama has any business stretching out to three hours. Bloated movie spectacles are sometimes given a free pass, but most audience members still cry foul. &nbsp;So clearly no major studio would tolerate that runtime for a simple story about an intemperate New York girl&rsquo;s struggle to deal with a horrific traffic accident. The final, non-director&rsquo;s-cut version clocks in at about two and a half hours. That might sound long, but everything about this film feels just right. Well done.</p>
-<p>Oscar-winning actress Anna Paquin gives a career high performance with an infuriatingly compelling character study. From the first five minutes, in her casual exchanges with other teenagers, she sheds all the airs usually put on by too-smart teenage performances. Like Xavier Dolan&rsquo;s approach in <em>I Killed My Mother</em>, the self-awareness is so well disguised, we&rsquo;re magnetically drawn to the main character&rsquo;s imbalances. She&rsquo;s clearly not stupid, but definitely not as clever as she thinks. Every confident decision and emotional outburst is therefore layered with tension. It must have hurt to see anything land on your cutting room floor. And if you&rsquo;re like me, you were probably also in constant agony over how much she reminded you of &ldquo;someone you know&rdquo;, even if that &ldquo;someone&rdquo; was just your general feelings about teenagers today.</p>
-<p>In fact, there&rsquo;s scarcely a sour note in this entire film. Every performance, no matter how small, seems to be bringing a lifetime of understanding to their understated performances. J. Smith-Cameron, in particular, is heartbreaking as a struggling actress and mother who trying to keep it all together. So many of the other actors&mdash;Mark Ruffalo, Jean Renoir, Matthew Broderick, Allison Janney, Matt Damon&mdash;would feel like they&rsquo;re making extended cameos if they weren&rsquo;t so convincing and integral to adding dimensions to Paquin&rsquo;s character. Even director Kenneth Logerman as the distracted but caring father has a broken cadence to his delivery that feels extremely authentic, like a classic Phillip Seymour Hoffman performance.</p>
-<p>It&rsquo;s no wonder there was so much drama over the editing. The struggle was not about reducing the story to its core elements &ndash; that would be easy. It&rsquo;s about ending a beautifully woven tapestry before its pattern is long enough cover every corner of the room.</p>
-<p>Dividing the film into mini-series &agrave; la <em>Mildred Pierce</em> might have made sense. The story doesn&rsquo;t offer any false resolutions along the way, but side stories about a disoriented girl losing her virginity or political debates in the classroom create a perspective to see the complicated emotional big picture, but they do feel self-contained. And at least one extended exterior shot of Paquin&rsquo;s character walking into a hazy distance already has the feeling of an episode ending, right before she decides to deal with her tragedy in damaging ways. This is easy to say now that the film is not getting a proper theatrical release anyway. But let&rsquo;s focus on the positive &ndash; the film is finally out there.</p>
-<p>And sure, coordinating this backstage parade must have had some perks. You probably met Anthony Minghella, Syndey Pollack, and even Martin Scorsese who were all pulled at some point in to help edit this film. But you must be relived to finally share your work before the actors age even more noticeably, and while at least the one of those directorial legends is still alive to see the finished product.</p>
-<p>Forever yours,</p>
-<p>Christopher</p>
-<p><strong><em>Status: 4.5/5 Priority Post</em></strong></p>
-<p><strong><em><span class="full-image-block ssNonEditable"><span><a href="http://www.zip.ca/browse/title.aspx?f=titleId%28203348%29"><img style="width:225px;" src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7d4d/1343245704065/Rent-it-on-Zip.png" alt="" /></a></span></span><br /></em></strong></p></div>
-
-          </div>
           <div class="large-4 medium-4 columns" id="film-row">
             <div id="review-sidebar">
               <div id="film-info" class="film-info">
-                <h1 class="film" id="imdb-title"></h1>
-                <p>
-                  <strong><em></em></strong><br />
-                  <i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
-                </p>
-              </div>
+             </div>
             </div>
+          </div>
+          <div class="large-8 medium-8 columns" id="review-copy">
+            <p class="intro">Dear Cory Poccia</p>
+            <p class="intro">Wow. I hope you claimed some serious overtime. <em>Margaret </em>was meant for release in 2007, and after legal battles and re-cuts to change the film&rsquo;s length, the rest of us finally have a chance, five years, later to see Kenneth Logerman&rsquo;s sophomore directorial effort. Amazingly, and against the odds, your heavy workload paid off. This film was worth the wait. And even, dare I say, worth the weight.</p>
+
+<p>You have to concede that as a matter of standard practice, no small-scale drama has any business stretching out to three hours. Bloated movie spectacles are sometimes given a free pass, but most audience members still cry foul. &nbsp;So clearly no major studio would tolerate that runtime for a simple story about an intemperate New York girl&rsquo;s struggle to deal with a horrific traffic accident. The final, non-director&rsquo;s-cut version clocks in at about two and a half hours. That might sound long, but everything about this film feels just right. Well done.</p>
+
+<p>Oscar-winning actress Anna Paquin gives a career high performance with an infuriatingly compelling character study. From the first five minutes, in her casual exchanges with other teenagers, she sheds all the airs usually put on by too-smart teenage performances. Like Xavier Dolan&rsquo;s approach in <em>I Killed My Mother</em>, the self-awareness is so well disguised, we&rsquo;re magnetically drawn to the main character&rsquo;s imbalances. She&rsquo;s clearly not stupid, but definitely not as clever as she thinks. Every confident decision and emotional outburst is therefore layered with tension. It must have hurt to see anything land on your cutting room floor. And if you&rsquo;re like me, you were probably also in constant agony over how much she reminded you of &ldquo;someone you know&rdquo;, even if that &ldquo;someone&rdquo; was just your general feelings about teenagers today.</p>
+
+<p>In fact, there&rsquo;s scarcely a sour note in this entire film. Every performance, no matter how small, seems to be bringing a lifetime of understanding to their understated performances. J. Smith-Cameron, in particular, is heartbreaking as a struggling actress and mother who trying to keep it all together. So many of the other actors&mdash;Mark Ruffalo, Jean Renoir, Matthew Broderick, Allison Janney, Matt Damon&mdash;would feel like they&rsquo;re making extended cameos if they weren&rsquo;t so convincing and integral to adding dimensions to Paquin&rsquo;s character. Even director Kenneth Logerman as the distracted but caring father has a broken cadence to his delivery that feels extremely authentic, like a classic Phillip Seymour Hoffman performance.</p>
+
+<p>It&rsquo;s no wonder there was so much drama over the editing. The struggle was not about reducing the story to its core elements &ndash; that would be easy. It&rsquo;s about ending a beautifully woven tapestry before its pattern is long enough cover every corner of the room.</p>
+
+<p>Dividing the film into mini-series &agrave; la <em>Mildred Pierce</em> might have made sense. The story doesn&rsquo;t offer any false resolutions along the way, but side stories about a disoriented girl losing her virginity or political debates in the classroom create a perspective to see the complicated emotional big picture, but they do feel self-contained. And at least one extended exterior shot of Paquin&rsquo;s character walking into a hazy distance already has the feeling of an episode ending, right before she decides to deal with her tragedy in damaging ways. This is easy to say now that the film is not getting a proper theatrical release anyway. But let&rsquo;s focus on the positive &ndash; the film is finally out there.</p>
+
+<p>And sure, coordinating this backstage parade must have had some perks. You probably met Anthony Minghella, Syndey Pollack, and even Martin Scorsese who were all pulled at some point in to help edit this film. But you must be relived to finally share your work before the actors age even more noticeably, and while at least the one of those directorial legends is still alive to see the finished product.</p>
+
+<p>Forever yours,</p>
+
+<p>Christopher</p>
+
           </div>
         </div>
         <div id="up-next" class="up-next">
-          <div class="row collapse">      
-            <div class="row">
-              <div class="large-12 medium-12 columns">
-                <h1 class="up-next">Up Next</h1>
-              </div>
-            </div>
-            <div class="row">
-              <div class="large-2 medium-2 columns">
-                  &nbsp;
-              </div>
+          <div class="row">
+          
+            
               <div class="large-4 medium-4 columns">
-                <a href="/content/2012/07/31/the-sitter.html"><img src="/img/article/thumb/" alt="Margaret" /></a>
-                <a href="/content/2012/07/31/the-sitter.html">
+                <a href="/content/2014/03/19/veronica-mars.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/veronica-mars.jpg" alt="Veronica Mars" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/19/veronica-mars.html">
                   <div class="review-text">
-                    <h1>The Sitter</h1>
-                    <h2><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
+                    <h1>Veronica Mars</h1>
+                    <h2 class="addressee">Dear "We Used to Be Friends", Theme Song</h2>
+                    <h2 class="author">By Di Golding</h2>
                   </div>
                 </a>
               </div>
+          
+            
               <div class="large-4 medium-4 columns">
-                <a href="/content/2012/08/03/total-recall.html"><img src="/img/article/thumb/" alt="Margaret" /></a>
-                <a href="/content/2012/08/03/total-recall.html">
+                <a href="/content/2014/03/18/filthy-gorgeous-the-bob-guccione-story.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/filthy-gorgeous-the-bob-guccione-story.jpg" alt="Filthy Gorgeous: The Bob Guccione Story" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/18/filthy-gorgeous-the-bob-guccione-story.html">
                   <div class="review-text">
-                    <h1>Total Recall</h1>
-                    <h2><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
+                    <h1>Filthy Gorgeous: The Bob Guccione Story</h1>
+                    <h2 class="addressee">Dear Michael Perlmutter, Music Supervisor</h2>
+                    <h2 class="author">By Casey Tourangeau</h2>
                   </div>
                 </a>
               </div>
-              <div class="large-2 medium-2 columns">
-                &nbsp;
+          
+            
+              <div class="large-4 medium-4 columns">
+                <a href="/content/2014/03/17/mr-peabody-sherman.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/mr-peabody-sherman.jpg" alt="Mr. Peabody & Sherman" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/17/mr-peabody-sherman.html">
+                  <div class="review-text">
+                    <h1>Mr. Peabody & Sherman</h1>
+                    <h2 class="addressee">Dear Wayback Machine, Plot Device</h2>
+                    <h2 class="author">By Di Golding</h2>
+                  </div>
+                </a>
               </div>
-            </div>
+          
           </div>
         </div>
       </section>
@@ -179,7 +239,6 @@
         <div class="comments">
         <div id="disqus_thread" class="disqus_thread"></div>
       </div>
-       </div>
       <script type="text/javascript">
       var disqus_shortname = 'dearcastandcrew';
       (function() {
@@ -192,77 +251,104 @@
       <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
       <!--preview HTML for home page scroll-->
     <div class="post large-4 medium-4 columns" style="display:none;">
-      <a href="/content/2012/08/01/margaret.html"><img src="/img/article/thumb/" alt="Margaret" /></a>
+      
       <a href="/content/2012/08/01/margaret.html">
-        <div class="review-text">
-          <h1>Margaret</h1>
-          <h2><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
-          <h2 class="addressee">Dear , </h2>
-          <h2 class="author">By Test Author</h2>
-        </div>
-      </a>
+                  <div class="post-image">
+                    <img src="/img/article/thumb/margaret.jpg" alt="Margaret" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2012/08/01/margaret.html">
+                  <div class="review-text">
+                    <h1>Margaret</h1>
+                    <h2 class="addressee">Dear Cory Poccia, Post-Production Coordinator</h2>
+                    <h2 class="author">By Christopher Redmond</h2>
+                  </div>
+                </a>
     </div>
     <script>
     //get the movie info from IMDB
     $.ajax({
-      url: "http://omdbapi.com/?i=",
+      
+      url: "http://omdbapi.com/?i=tt0466893",
       dataType: 'jsonp',
       success: function(data) {
-        var title=data.Title;
-        $('#imdb-title').append(title);
-        var html = '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Directed by:</div><div class="imdb-data large-8 medium-8 columns">' + data.Director +'</div>';
+        var html = '<div class="row imdb-info-row no-border full-width">';
+        html += '<img class="imdb-img" src="' +data.Poster +'" />';
+        html += '<span class="imdb-category">Directed by</span><br /><span class="imdb-data">' + data.Director.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Written by:</div><div class="imdb-data large-8 medium-8 columns">' + data.Writer.replace(/\,/g, '<br />') +'</div>';
+        html += '<span class="imdb-category">Written by</span><br /><span class="imdb-data">';
+        var writers = data.Writer;
+        var writers_array = writers.split(',');
+
+        for(var i = 0; i < writers_array.length; i++) {
+           // Trim the excess whitespace.
+           writers_array[i] = writers_array[i].replace(/^\s*/, "").replace(/\s*$/, "");
+           // Add additional code here, such as:
+           if ((writers_array[i].indexOf('characters') == -1) && (writers_array[i].indexOf('story') == -1) && (writers_array[i].indexOf('creator') == -1) && (writers_array[i].indexOf('screen story') == -1) && (writers_array[i].indexOf('television story') == -1) && (writers_array[i].indexOf('article') == -1) && ((writers_array[i].indexOf('play') == -1) || (writers_array[i].indexOf('screenplay') > -1)) && (writers_array[i].indexOf('song') == -1) && (writers_array[i].indexOf('uncredited') == -1) && (writers_array[i].indexOf('also') == -1) && (writers_array[i].indexOf('book') == -1) && (writers_array[i].indexOf('novel') == -1) && (writers_array[i].indexOf('based on') == -1)){
+           html += writers_array[i].replace('(screenplay)', '').replace('(written by)', '').replace('(written for the screen by)', '') + '<br />';
+           }
+        }
+        html += '</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Starring:</div><div class="imdb-data large-8 medium-8 columns">'+ data.Actors.replace(/\,/g, '<br />') +'</div>';
+        html += '<span class="imdb-category">Starring<br /></span><span class="imdb-data">'+ data.Actors.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
-        html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-img large-12 medium-12 columns"><img class="imdb-img" src="' +data.Poster +'" /></div>';
         $('#film-info').append(html);
         html += '</div>';
       }
     });
     </script>
-      <section id="footer">
-          <div class="row collapse">
-      <footer class="footer">
-        <button class="footer"></button>
-        <ul>
-                              <li><a href="/reviews/">Reviews</a>
+      </div>
+    </div>
+<div id="footer">
+      <footer class="mm-fixed-bottom">
+        <div class="footer">
+          <div class="footer-block">
+            <ul>
+                                  <li class="text"><a href="/reviews/">Reviews</a>
             <ul>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="#">Features</a>
+                    <li><a href="/features/">Features</a>
             <ul>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>
-                    <li><a href="#">Podcast</a>
+<!--                     <li><a href="#">Podcast</a>
             <ul>
               <li><a href="#">Archive</a></li>
             </ul>
-          </li>
-                    <li><a href="#">About</a>
+          </li> -->
+                    <li><a href="/about/">About</a>
             <ul>
               <li><a href="/about/writers/">Writers</a></li>
               <li><a href="/about/contact/">Contact</a></li>
             </ul>
           </li>
-          <li><a href="#" id="footer-search-toggle"><i class="fa fa-search" id=""></i> Search</a></li>
-        </ul>
-        <span class="stretch"></span>
-        <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+            </ul>
+          </div>
+          <div class="footer-block">
+            <h1 class="footer-head">Follow</h1>
+            <ul class="social">
+              <li class="social"><a class="social-twitter"></a></li>
+              <li class="social"><a class="social-facebook"></a></li>
+              <li class="social"><a class="social-letterboxd"></a></li>
+              <li class="social"><a class="social-rss"></a></li>
+            </ul>
+          </div>
+          <span class="stretch"></span>
+          <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+        </div>
       </footer>
-    </div>
-    </section>
     </div>
   
   <!-- Search modal overlay -->

@@ -15,8 +15,7 @@
     <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
-<!--   	<link href="/css/global.css" type="text/css" rel="stylesheet" /> -->
-  	
+    
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -26,6 +25,7 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
+      $('nav#menu-left').css({'display':'block'});
     });
 		</script>
 
@@ -43,30 +43,31 @@
 
 
   <body>
-      <nav id="menu-left">
+  <div id="nav-test"><a href="/"><img src="/img/global/dcac-full-logo-white.svg" class="side-home-link" /></a></div>
+  <nav id="menu-left">
     <!-- Sidebar Nav -->
       <ul>
-        <li><a href="#" id="side-search-toggle"><i class="fa fa-search" id=""></i></a></li>
-                            <li><a href="/reviews/">Reviews</a>
+        <li><a href="#" id="side-search-toggle"><i class="fa fa-search"></i> Search</a></li>
+                            <li class="text"><a href="/reviews/">Reviews</a>
             <ul>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="#">Features</a>
+                    <li><a href="/features/">Features</a>
             <ul>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>
-                    <li><a href="#">Podcast</a>
+<!--                     <li><a href="#">Podcast</a>
             <ul>
               <li><a href="#">Archive</a></li>
             </ul>
-          </li>
-                    <li><a href="#">About</a>
+          </li> -->
+                    <li><a href="/about/">About</a>
             <ul>
               <li><a href="/about/writers/">Writers</a></li>
               <li><a href="/about/contact/">Contact</a></li>
@@ -76,101 +77,159 @@
     <!-- End Sidebar Nav -->
     </nav>
     <div class="container-shadow" id="main-container">    
-      
-      <div id="nav-button-container">
-        <button class="left-off-canvas-toggle mm-fixed-top" id="nav-toggle" >Dear Cast &amp; Crew Navigation</button>
+             
+<div class="full-black">
+      <div class="row collapse">
+        <div class="section-header">
+          <section class="top-nav" id="top-nav">
+            <a href="/" class="logo-link"></a>
+            <ul>
+              <li><a href="/reviews/">Reviews</a></li>
+              <li><a href="/features/" class="slash">Features</a></li>
+              <!-- <li><a href="/podcast/">Podcast</a></li> -->
+              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
+            </ul>
+          </section>
+        </div>
       </div>
-      <div class="row full-width collapse">
-        <div class="large-12 medium-12 small-12 columns">
-          <div id="story-title">
-            <div id="title-img" style="background-image:url(/img/article/);">
-              <section id="main-title" class="main-title ">
-                <div class="row collapse" style="z-index:15;">
-                 <div class="large-12 medium-12 small-12 columns">
-                    <button id="menu-toggle-top" class="logo-black">Dear Cast &amp; Crew Navigation</button>
-                    <h1 class="hero">The Campaign</h1>
-                    <h2 class="hero">
-                      By: Test Author</a>&nbsp;&nbsp;|&nbsp;&nbsp;Mailed on: August 13, 2012
-                    </h2>
-                    <p class="article-share">
-                      <a href="https://twitter.com/intent/tweet?text=Dear  ,  for The Campaign%0A"><i class="fa fa-twitter"></i></a>
-                      <a href="#"><i class="fa fa-facebook"></i></a>
-                    </p>
-                  </div>
+    </div>
+        
+    <div class="mini-top-nav-hidden mm-fixed-top" id="mini-top-nav">
+      <nav class="top-bar" data-topbar>
+        <ul class="title-area">
+          <li class="name dcac-logo" id="nav-toggle">
+            <h1><a href="#">Dear Cast & Crew</a></h1>
+          </li>
+        </ul>
+        <section class="top-bar-section">
+          <!-- Right Nav Section -->
+          <ul class="right">
+            <li class="search" id="mini-top-search-toggle"><a href="#" class="mini-search-link"><i class="fa fa-search"></i></a></li>
+          </ul>
+        </section>
+      </nav>
+    </div>
+
+      <section>
+        <div id="story-title" class="title-info" data-equalizer>
+          <div class="title-img" style="background-image:url(/img/article/the-campaign.jpg);"></div>
+          <div class="row" data-equalizer-watch >
+            <div class="large-4 medium-4 small-4 columns" data-equalizer-watch>
+              <div class="review-status">
+                <h1 class="hero">The Campaign</h1>
+                <h2 class="hero-author">
+                  By <a href="/about/writers/coryh">Cory Haggart</a>
+                </h2>
+                <h2 class="hero-date">
+                  Mailed on August 13, 2012
+                </h2>
+                <hr class="title-divider" />
+                <img src="/img/global/stamp.svg" class="standard review-stamp" />
+                Air<br />Mail<br />
+                    <div class="large-star-rating">
+                      <img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue-half.svg" /><img class="star-large" src="/img/global/star-white.svg" />
                 </div>
-              </section>
-              <button class="down-arrow animated bounce" id="down-arrow"></button>
+              </div>
+            </div>
+            <div class="large-8 medium-8 small-8 columns" data-equalizer-watch>
+              <div class="review-people">
+                <h3><span class="addressee">Dear Steven Clawson</span><br />
+                  <span class="position">Photo Double/Stand-in for Dan Aykroyd</span>
+                </h3>
+              </div>
             </div>
           </div>
-        </div><!-- title -->
-      </div>
-      <section class="main-copy">
-        <div class="row" id="body-text">
-          <div class="body-addressee large-12 medium-12 columns">
-            <h3>Dear , ,</h3>
-          </div>
         </div>
+      </section>
+      <section id="body-text">
         <div class="row">
-          <div class="large-8 medium-8 columns" id="review-copy">
-            <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/8/13/the-campaign.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7601/1344874267099/the-campaign.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:120%;"><span style="font-size:120%;"><strong>Dear Steven Clawson,</strong> photo double/stand in for Dan Aykroyd</span></em></p>
-<p>Are you a real double, or do you stand in for one? In <em>The Campaign</em> it seems doubly weird that you&rsquo;d pose as Dan, because he&rsquo;s already playing a character that&rsquo;s a parody of someone in real life. So you work as a person playing a person imitating a person that echoes a character. Is it even possible to have so many layers and not compromise them all? This comedy-cum-parody-slash-satire-plus-jingoistic heartwarmer provides the answer: &ldquo;No.&rdquo; But the movie takes some big risks, and I found myself rooting for it many times, even if I wasn&rsquo;t laughing along as often as I&rsquo;d like.</p>
-<p>The entire plot is one of stand-ins and poseurs. Your Dan Akroyd plays Wade Motch, one of the uber-Kapitalistisch billionaire brothers who start the movie pulling the political strings for Cam Brady (Will Farell), a multiple-term, lazy, corrupt senator from North Carolina. When Cam takes things too far, the Motch brothers turn to their list of potential new candidates. They select Zack Galifianakis&rsquo; Marty Huggins, an effeminate local tour guide who happens to be the son of a local political figure &ndash; a replacement for his <em>other</em> son&shy;. Proving that anyone can stand in for congressional candidate, the Motch brothers send in campaign manager Dylan McDermott, whose alpha-male aggression easily transforms Marty into a successful (and wretched) American political candidate.</p>
-<p>Confused? You should be. Luckily, in <em>The Campaign,</em> the details don&rsquo;t matter much. The film sticks to enough familiar tropes that you always know who to root for at any given moment. It&rsquo;s still a neat trick, where the recurring theme is how the political machine transforms and grinds down each player in turn. Each character reveals a split identity, both betraying and being betrayed by the people he or she believes in. As characters strive heroically for their dreams and ideals, they face the true terrible costs of their behaviour. &nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>Does that make it sound a like <em>The Campaign</em> has the moral gravitas of a Nolan Batman movie? Steven, you know better. Being on set must have been hilarious. Everyone seems to be having fun, and the movie&rsquo;s surprises and bigger laughs feel like off-script ad-libs&shy;. The speeches and campaign ads stand out with bits that I am sure never made it into any script, for any movie, ever.</p>
-<p>In a big summer movie&mdash;the kind that is usually focused-grouped within an inch of its life&mdash;it feels risky to leave so much to chance. But that really wasn&rsquo;t the big risk of all. Your character (or the character for whose actor you stand in) has a real life version. That would be either David or Charles Koch, two gentlemen brothers actively engaged in shaping American politics from atop giant piles of money and the largest privately held corporation in the U.S. Those two are easily worth more than the entire Warner Brothers movie studio that produced this little movie. This makes the <em>The Campaign </em>very existence surprising &shy;&mdash; it spits in the eye of two American gods. I have to give it some credit for bravery.</p>
-<p><span style="color:black;" lang="EN-CA">But despite the comedy and the bravery, this movie ends up having a bit of an identity crisis. Is it biting political commentary? It&rsquo;s doesn&rsquo;t chomp down nearly hard enough. Is it light slapstick, baby-punching silliness? The heavier themes weigh it down too much for that. Is it a soothing salve to the American consciousness that despite current troubles, everything&rsquo;s going to be ok? It is way too barbed and observant to leave anyone feeling too comfortable with the world as it stands. It&rsquo;s hard to see a possible fix that doesn&rsquo;t require throwing the whole thing out and starting again. Risking Batman again, maybe it&rsquo;s the comedy we deserve, but not the one we need.</span></p>
-<p><span style="color:black;" lang="EN-CA">Duplicitously Yours,</span></p>
-<p><span style="color:black;" lang="EN-CA">Cory</span><span style="color:black;">&nbsp;</span></p>
-<p><em><span style="color:black;" lang="EN-CA"><strong>Status: Air Mail (</strong></span><span style="color:black;" lang="EN-CA"><strong>3.5/5)</strong></span></em></p>
-<p><em><span style="color:black;" lang="EN-CA"><strong><span class="full-image-block ssNonEditable"><span><a href="http://www.zip.ca/browse/title.aspx?f=titleId%28204311%29"><img style="width:225px;" src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7da4/1343245704065/Rent-it-on-Zip.png" alt="" /></a></span></span><br /></strong></span></em></p></div>
-
-          </div>
           <div class="large-4 medium-4 columns" id="film-row">
             <div id="review-sidebar">
               <div id="film-info" class="film-info">
-                <h1 class="film" id="imdb-title"></h1>
-                <p>
-                  <strong><em></em></strong><br />
-                  <i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
-                </p>
-              </div>
+             </div>
             </div>
+          </div>
+          <div class="large-8 medium-8 columns" id="review-copy">
+            <p class="intro">Dear Steven Clawson</p>
+            <p class="intro">Are you a real double, or do you stand in for one? In <em>The Campaign</em> it seems doubly weird that you&rsquo;d pose as Dan, because he&rsquo;s already playing a character that&rsquo;s a parody of someone in real life. So you work as a person playing a person imitating a person that echoes a character. Is it even possible to have so many layers and not compromise them all? This comedy-cum-parody-slash-satire-plus-jingoistic heartwarmer provides the answer: &ldquo;No.&rdquo; But the movie takes some big risks, and I found myself rooting for it many times, even if I wasn&rsquo;t laughing along as often as I&rsquo;d like.</p>
+
+<p>The entire plot is one of stand-ins and poseurs. Your Dan Akroyd plays Wade Motch, one of the uber-Kapitalistisch billionaire brothers who start the movie pulling the political strings for Cam Brady (Will Farell), a multiple-term, lazy, corrupt senator from North Carolina. When Cam takes things too far, the Motch brothers turn to their list of potential new candidates. They select Zack Galifianakis&rsquo; Marty Huggins, an effeminate local tour guide who happens to be the son of a local political figure &ndash; a replacement for his <em>other</em> son&shy;. Proving that anyone can stand in for congressional candidate, the Motch brothers send in campaign manager Dylan McDermott, whose alpha-male aggression easily transforms Marty into a successful (and wretched) American political candidate.</p>
+
+<p>Confused? You should be. Luckily, in <em>The Campaign,</em> the details don&rsquo;t matter much. The film sticks to enough familiar tropes that you always know who to root for at any given moment. It&rsquo;s still a neat trick, where the recurring theme is how the political machine transforms and grinds down each player in turn. Each character reveals a split identity, both betraying and being betrayed by the people he or she believes in. As characters strive heroically for their dreams and ideals, they face the true terrible costs of their behaviour. &nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<p>Does that make it sound a like <em>The Campaign</em> has the moral gravitas of a Nolan Batman movie? Steven, you know better. Being on set must have been hilarious. Everyone seems to be having fun, and the movie&rsquo;s surprises and bigger laughs feel like off-script ad-libs&shy;. The speeches and campaign ads stand out with bits that I am sure never made it into any script, for any movie, ever.</p>
+
+<p>In a big summer movie&mdash;the kind that is usually focused-grouped within an inch of its life&mdash;it feels risky to leave so much to chance. But that really wasn&rsquo;t the big risk of all. Your character (or the character for whose actor you stand in) has a real life version. That would be either David or Charles Koch, two gentlemen brothers actively engaged in shaping American politics from atop giant piles of money and the largest privately held corporation in the U.S. Those two are easily worth more than the entire Warner Brothers movie studio that produced this little movie. This makes the <em>The Campaign </em>very existence surprising &shy;&mdash; it spits in the eye of two American gods. I have to give it some credit for bravery.</p>
+
+<p><span style="color:black;" lang="EN-CA">But despite the comedy and the bravery, this movie ends up having a bit of an identity crisis. Is it biting political commentary? It&rsquo;s doesn&rsquo;t chomp down nearly hard enough. Is it light slapstick, baby-punching silliness? The heavier themes weigh it down too much for that. Is it a soothing salve to the American consciousness that despite current troubles, everything&rsquo;s going to be ok? It is way too barbed and observant to leave anyone feeling too comfortable with the world as it stands. It&rsquo;s hard to see a possible fix that doesn&rsquo;t require throwing the whole thing out and starting again. Risking Batman again, maybe it&rsquo;s the comedy we deserve, but not the one we need.</span></p>
+
+<p><span style="color:black;" lang="EN-CA">Duplicitously Yours,</span></p>
+
+<p><p><span style="color:black;" lang="EN-CA">Cory</span>&lt;span </p>
+
           </div>
         </div>
         <div id="up-next" class="up-next">
-          <div class="row collapse">      
-            <div class="row">
-              <div class="large-12 medium-12 columns">
-                <h1 class="up-next">Up Next</h1>
-              </div>
-            </div>
-            <div class="row">
-              <div class="large-2 medium-2 columns">
-                  &nbsp;
-              </div>
+          <div class="row">
+          
+            
               <div class="large-4 medium-4 columns">
-                <a href="/content/2012/08/10/the-bourne-legacy.html"><img src="/img/article/thumb/" alt="The Campaign" /></a>
-                <a href="/content/2012/08/10/the-bourne-legacy.html">
+                <a href="/content/2014/03/19/veronica-mars.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/veronica-mars.jpg" alt="Veronica Mars" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/19/veronica-mars.html">
                   <div class="review-text">
-                    <h1>The Bourne Legacy</h1>
-                    <h2><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
+                    <h1>Veronica Mars</h1>
+                    <h2 class="addressee">Dear "We Used to Be Friends", Theme Song</h2>
+                    <h2 class="author">By Di Golding</h2>
                   </div>
                 </a>
               </div>
+          
+            
               <div class="large-4 medium-4 columns">
-                <a href="/content/2012/08/14/the-burning.html"><img src="/img/article/thumb/" alt="The Campaign" /></a>
-                <a href="/content/2012/08/14/the-burning.html">
+                <a href="/content/2014/03/18/filthy-gorgeous-the-bob-guccione-story.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/filthy-gorgeous-the-bob-guccione-story.jpg" alt="Filthy Gorgeous: The Bob Guccione Story" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/18/filthy-gorgeous-the-bob-guccione-story.html">
                   <div class="review-text">
-                    <h1>The Burning</h1>
-                    <h2><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
+                    <h1>Filthy Gorgeous: The Bob Guccione Story</h1>
+                    <h2 class="addressee">Dear Michael Perlmutter, Music Supervisor</h2>
+                    <h2 class="author">By Casey Tourangeau</h2>
                   </div>
                 </a>
               </div>
-              <div class="large-2 medium-2 columns">
-                &nbsp;
+          
+            
+              <div class="large-4 medium-4 columns">
+                <a href="/content/2014/03/17/mr-peabody-sherman.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/mr-peabody-sherman.jpg" alt="Mr. Peabody & Sherman" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/17/mr-peabody-sherman.html">
+                  <div class="review-text">
+                    <h1>Mr. Peabody & Sherman</h1>
+                    <h2 class="addressee">Dear Wayback Machine, Plot Device</h2>
+                    <h2 class="author">By Di Golding</h2>
+                  </div>
+                </a>
               </div>
-            </div>
+          
           </div>
         </div>
       </section>
@@ -178,7 +237,6 @@
         <div class="comments">
         <div id="disqus_thread" class="disqus_thread"></div>
       </div>
-       </div>
       <script type="text/javascript">
       var disqus_shortname = 'dearcastandcrew';
       (function() {
@@ -191,77 +249,104 @@
       <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
       <!--preview HTML for home page scroll-->
     <div class="post large-4 medium-4 columns" style="display:none;">
-      <a href="/content/2012/08/13/the-campaign.html"><img src="/img/article/thumb/" alt="The Campaign" /></a>
+      
       <a href="/content/2012/08/13/the-campaign.html">
-        <div class="review-text">
-          <h1>The Campaign</h1>
-          <h2><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
-          <h2 class="addressee">Dear , </h2>
-          <h2 class="author">By Test Author</h2>
-        </div>
-      </a>
+                  <div class="post-image">
+                    <img src="/img/article/thumb/the-campaign.jpg" alt="The Campaign" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2012/08/13/the-campaign.html">
+                  <div class="review-text">
+                    <h1>The Campaign</h1>
+                    <h2 class="addressee">Dear Steven Clawson, Photo Double/Stand-in for Dan Aykroyd</h2>
+                    <h2 class="author">By Cory Haggart</h2>
+                  </div>
+                </a>
     </div>
     <script>
     //get the movie info from IMDB
     $.ajax({
-      url: "http://omdbapi.com/?i=",
+      
+      url: "http://omdbapi.com/?i=tt1790886",
       dataType: 'jsonp',
       success: function(data) {
-        var title=data.Title;
-        $('#imdb-title').append(title);
-        var html = '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Directed by:</div><div class="imdb-data large-8 medium-8 columns">' + data.Director +'</div>';
+        var html = '<div class="row imdb-info-row no-border full-width">';
+        html += '<img class="imdb-img" src="' +data.Poster +'" />';
+        html += '<span class="imdb-category">Directed by</span><br /><span class="imdb-data">' + data.Director.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Written by:</div><div class="imdb-data large-8 medium-8 columns">' + data.Writer.replace(/\,/g, '<br />') +'</div>';
+        html += '<span class="imdb-category">Written by</span><br /><span class="imdb-data">';
+        var writers = data.Writer;
+        var writers_array = writers.split(',');
+
+        for(var i = 0; i < writers_array.length; i++) {
+           // Trim the excess whitespace.
+           writers_array[i] = writers_array[i].replace(/^\s*/, "").replace(/\s*$/, "");
+           // Add additional code here, such as:
+           if ((writers_array[i].indexOf('characters') == -1) && (writers_array[i].indexOf('story') == -1) && (writers_array[i].indexOf('creator') == -1) && (writers_array[i].indexOf('screen story') == -1) && (writers_array[i].indexOf('television story') == -1) && (writers_array[i].indexOf('article') == -1) && ((writers_array[i].indexOf('play') == -1) || (writers_array[i].indexOf('screenplay') > -1)) && (writers_array[i].indexOf('song') == -1) && (writers_array[i].indexOf('uncredited') == -1) && (writers_array[i].indexOf('also') == -1) && (writers_array[i].indexOf('book') == -1) && (writers_array[i].indexOf('novel') == -1) && (writers_array[i].indexOf('based on') == -1)){
+           html += writers_array[i].replace('(screenplay)', '').replace('(written by)', '').replace('(written for the screen by)', '') + '<br />';
+           }
+        }
+        html += '</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Starring:</div><div class="imdb-data large-8 medium-8 columns">'+ data.Actors.replace(/\,/g, '<br />') +'</div>';
+        html += '<span class="imdb-category">Starring<br /></span><span class="imdb-data">'+ data.Actors.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
-        html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-img large-12 medium-12 columns"><img class="imdb-img" src="' +data.Poster +'" /></div>';
         $('#film-info').append(html);
         html += '</div>';
       }
     });
     </script>
-      <section id="footer">
-          <div class="row collapse">
-      <footer class="footer">
-        <button class="footer"></button>
-        <ul>
-                              <li><a href="/reviews/">Reviews</a>
+      </div>
+    </div>
+<div id="footer">
+      <footer class="mm-fixed-bottom">
+        <div class="footer">
+          <div class="footer-block">
+            <ul>
+                                  <li class="text"><a href="/reviews/">Reviews</a>
             <ul>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="#">Features</a>
+                    <li><a href="/features/">Features</a>
             <ul>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>
-                    <li><a href="#">Podcast</a>
+<!--                     <li><a href="#">Podcast</a>
             <ul>
               <li><a href="#">Archive</a></li>
             </ul>
-          </li>
-                    <li><a href="#">About</a>
+          </li> -->
+                    <li><a href="/about/">About</a>
             <ul>
               <li><a href="/about/writers/">Writers</a></li>
               <li><a href="/about/contact/">Contact</a></li>
             </ul>
           </li>
-          <li><a href="#" id="footer-search-toggle"><i class="fa fa-search" id=""></i> Search</a></li>
-        </ul>
-        <span class="stretch"></span>
-        <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+            </ul>
+          </div>
+          <div class="footer-block">
+            <h1 class="footer-head">Follow</h1>
+            <ul class="social">
+              <li class="social"><a class="social-twitter"></a></li>
+              <li class="social"><a class="social-facebook"></a></li>
+              <li class="social"><a class="social-letterboxd"></a></li>
+              <li class="social"><a class="social-rss"></a></li>
+            </ul>
+          </div>
+          <span class="stretch"></span>
+          <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+        </div>
       </footer>
-    </div>
-    </section>
     </div>
   
   <!-- Search modal overlay -->

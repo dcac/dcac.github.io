@@ -15,8 +15,7 @@
     <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
-<!--   	<link href="/css/global.css" type="text/css" rel="stylesheet" /> -->
-  	
+    
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -26,6 +25,7 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
+      $('nav#menu-left').css({'display':'block'});
     });
 		</script>
 
@@ -43,30 +43,31 @@
 
 
   <body>
-      <nav id="menu-left">
+  <div id="nav-test"><a href="/"><img src="/img/global/dcac-full-logo-white.svg" class="side-home-link" /></a></div>
+  <nav id="menu-left">
     <!-- Sidebar Nav -->
       <ul>
-        <li><a href="#" id="side-search-toggle"><i class="fa fa-search" id=""></i></a></li>
-                            <li><a href="/reviews/">Reviews</a>
+        <li><a href="#" id="side-search-toggle"><i class="fa fa-search"></i> Search</a></li>
+                            <li class="text"><a href="/reviews/">Reviews</a>
             <ul>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="#">Features</a>
+                    <li><a href="/features/">Features</a>
             <ul>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>
-                    <li><a href="#">Podcast</a>
+<!--                     <li><a href="#">Podcast</a>
             <ul>
               <li><a href="#">Archive</a></li>
             </ul>
-          </li>
-                    <li><a href="#">About</a>
+          </li> -->
+                    <li><a href="/about/">About</a>
             <ul>
               <li><a href="/about/writers/">Writers</a></li>
               <li><a href="/about/contact/">Contact</a></li>
@@ -76,102 +77,161 @@
     <!-- End Sidebar Nav -->
     </nav>
     <div class="container-shadow" id="main-container">    
-      
-      <div id="nav-button-container">
-        <button class="left-off-canvas-toggle mm-fixed-top" id="nav-toggle" >Dear Cast &amp; Crew Navigation</button>
+             
+<div class="full-black">
+      <div class="row collapse">
+        <div class="section-header">
+          <section class="top-nav" id="top-nav">
+            <a href="/" class="logo-link"></a>
+            <ul>
+              <li><a href="/reviews/">Reviews</a></li>
+              <li><a href="/features/" class="slash">Features</a></li>
+              <!-- <li><a href="/podcast/">Podcast</a></li> -->
+              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
+            </ul>
+          </section>
+        </div>
       </div>
-      <div class="row full-width collapse">
-        <div class="large-12 medium-12 small-12 columns">
-          <div id="story-title">
-            <div id="title-img" style="background-image:url(/img/article/);">
-              <section id="main-title" class="main-title ">
-                <div class="row collapse" style="z-index:15;">
-                 <div class="large-12 medium-12 small-12 columns">
-                    <button id="menu-toggle-top" class="logo-black">Dear Cast &amp; Crew Navigation</button>
-                    <h1 class="hero">Safe</h1>
-                    <h2 class="hero">
-                      By: Test Author</a>&nbsp;&nbsp;|&nbsp;&nbsp;Mailed on: May 08, 2012
-                    </h2>
-                    <p class="article-share">
-                      <a href="https://twitter.com/intent/tweet?text=Dear  ,  for Safe%0A"><i class="fa fa-twitter"></i></a>
-                      <a href="#"><i class="fa fa-facebook"></i></a>
-                    </p>
-                  </div>
+    </div>
+        
+    <div class="mini-top-nav-hidden mm-fixed-top" id="mini-top-nav">
+      <nav class="top-bar" data-topbar>
+        <ul class="title-area">
+          <li class="name dcac-logo" id="nav-toggle">
+            <h1><a href="#">Dear Cast & Crew</a></h1>
+          </li>
+        </ul>
+        <section class="top-bar-section">
+          <!-- Right Nav Section -->
+          <ul class="right">
+            <li class="search" id="mini-top-search-toggle"><a href="#" class="mini-search-link"><i class="fa fa-search"></i></a></li>
+          </ul>
+        </section>
+      </nav>
+    </div>
+
+      <section>
+        <div id="story-title" class="title-info" data-equalizer>
+          <div class="title-img" style="background-image:url(/img/article/safe.jpg);"></div>
+          <div class="row" data-equalizer-watch >
+            <div class="large-4 medium-4 small-4 columns" data-equalizer-watch>
+              <div class="review-status">
+                <h1 class="hero">Safe</h1>
+                <h2 class="hero-author">
+                  By <a href="/about/writers/christopherr">Christopher Redmond</a>
+                </h2>
+                <h2 class="hero-date">
+                  Mailed on May 08, 2012
+                </h2>
+                <hr class="title-divider" />
+                <img src="/img/global/stamp.svg" class="standard review-stamp" />
+                Air<br />Mail<br />
+                    <div class="large-star-rating">
+                      <img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue-half.svg" /><img class="star-large" src="/img/global/star-white.svg" />
                 </div>
-              </section>
-              <button class="down-arrow animated bounce" id="down-arrow"></button>
+              </div>
+            </div>
+            <div class="large-8 medium-8 small-8 columns" data-equalizer-watch>
+              <div class="review-people">
+                <h3><span class="addressee">Dear Mike Groner</span><br />
+                  <span class="position">Insurance Broker</span>
+                </h3>
+              </div>
             </div>
           </div>
-        </div><!-- title -->
-      </div>
-      <section class="main-copy">
-        <div class="row" id="body-text">
-          <div class="body-addressee large-12 medium-12 columns">
-            <h3>Dear , ,</h3>
-          </div>
         </div>
+      </section>
+      <section id="body-text">
         <div class="row">
-          <div class="large-8 medium-8 columns" id="review-copy">
-            <div><p><strong><span class="full-image-block ssNonEditable" style="display:inline !important;"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7563/1336590421397/safe-1.jpg" alt="" /></span></strong></p>
-<p><span style="font-size:120%;"><em><strong>Dear Mike Groner, </strong>Insurance Broker</em></span></p>
-<p>Be honest: you must go into a cold sweat when you see a Jason Statham film come across your desk. Everything that makes his films work surely makes your job a living nightmare.</p>
-<p>No other action star over the past decade has been so dedicated and single-minded in their pursuit of pure testosterone-fueled action heroics. Sure, <em>Safe</em> breaks the mold from time-to-time by offering us deeper moments of vulnerability, but only as a explosive counterpoint to what&rsquo;s next.&nbsp;</p>
-<p>For me, it started early on when director Boaz Yakin used that long take to force, on cue, a tear from Statham&rsquo;s eye. We know he does his own stunts, but producing his own tears? Impressive stuff. At this point, as you first read the script, it&rsquo;s possible you believed you had a nice comfortable drama on your hands; nothing but standard liabilities to worry about.&nbsp; You may have even thought, as the narrative folds in a young Asian wiz-kid, that this generation was finally getting their <em>Cop and a Half</em>. &nbsp;Fortunately, you didn&rsquo;t get off so easy.</p>
-<p><span class="full-image-block ssNonEditable"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7d9e/1336590439997/safe-2.jpg" alt="" /></span></p>
-<p>The paternal instinct Statham displays for the film&rsquo;s code-cracking McGuffin (Catherine Chan) is designed less to show his vulnerability than to offer a purpose for his no-holds-barred protection of her. Such character development was just enough to keep me invested during the one-man war he wages against the Russian Mafia, Chinese Crimelords, and the corrupt New York Police force. From your point of view, sure, it&rsquo;s just a mounting pile of paperwork. But for the rest of us, I promise, it&rsquo;s much more thrilling.</p>
-<p>The action pieces come hard and fast, brought to life by efficient choreography that helps the action feel exciting and (cover your eyes!) dangerous.&nbsp; The hand-held yet surprisingly fluid cinematography certainly helps make the risks feel realistic. By the time the mid-town shoot-out rolled around, I had to remind myself that equipment is just as liable as people on-set.&nbsp;</p>
-<p>Man, you must have hated this film.</p>
-<p>I&rsquo;m sure you learned your lesson. If you&rsquo;re looking to minimize damage claims, steer clear of any and all Jason Statham vehicles (including <em>actual</em> vehicles). He never branches out into family comedies or takes a romantic tangent &ndash; what would be the point? His career is perfectly <em>Safe</em> right where it is.</p>
-<p>Danger is his middle name,</p>
-<p>Christopher</p>
-<p><strong><em>Status: 3.5 / 5 &ndash; Air Mail</em></strong></p></div>
-
-          </div>
           <div class="large-4 medium-4 columns" id="film-row">
             <div id="review-sidebar">
               <div id="film-info" class="film-info">
-                <h1 class="film" id="imdb-title"></h1>
-                <p>
-                  <strong><em></em></strong><br />
-                  <i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
-                </p>
-              </div>
+             </div>
             </div>
+          </div>
+          <div class="large-8 medium-8 columns" id="review-copy">
+            <p class="intro">Dear Mike Groner</p>
+            <p class="intro">Be honest: you must go into a cold sweat when you see a Jason Statham film come across your desk. Everything that makes his films work surely makes your job a living nightmare.</p>
+
+<p>No other action star over the past decade has been so dedicated and single-minded in their pursuit of pure testosterone-fueled action heroics. Sure, <em>Safe</em> breaks the mold from time-to-time by offering us deeper moments of vulnerability, but only as a explosive counterpoint to what&rsquo;s next.&nbsp;</p>
+
+<p>For me, it started early on when director Boaz Yakin used that long take to force, on cue, a tear from Statham&rsquo;s eye. We know he does his own stunts, but producing his own tears? Impressive stuff. At this point, as you first read the script, it&rsquo;s possible you believed you had a nice comfortable drama on your hands; nothing but standard liabilities to worry about.&nbsp; You may have even thought, as the narrative folds in a young Asian wiz-kid, that this generation was finally getting their <em>Cop and a Half</em>. &nbsp;Fortunately, you didn&rsquo;t get off so easy.</p>
+
+<p>The paternal instinct Statham displays for the film&rsquo;s code-cracking McGuffin (Catherine Chan) is designed less to show his vulnerability than to offer a purpose for his no-holds-barred protection of her. Such character development was just enough to keep me invested during the one-man war he wages against the Russian Mafia, Chinese Crimelords, and the corrupt New York Police force. From your point of view, sure, it&rsquo;s just a mounting pile of paperwork. But for the rest of us, I promise, it&rsquo;s much more thrilling.</p>
+
+<p>The action pieces come hard and fast, brought to life by efficient choreography that helps the action feel exciting and (cover your eyes!) dangerous.&nbsp; The hand-held yet surprisingly fluid cinematography certainly helps make the risks feel realistic. By the time the mid-town shoot-out rolled around, I had to remind myself that equipment is just as liable as people on-set.&nbsp;</p>
+
+<p>Man, you must have hated this film.</p>
+
+<p>I&rsquo;m sure you learned your lesson. If you&rsquo;re looking to minimize damage claims, steer clear of any and all Jason Statham vehicles (including <em>actual</em> vehicles). He never branches out into family comedies or takes a romantic tangent &ndash; what would be the point? His career is perfectly <em>Safe</em> right where it is.</p>
+
+<p>Danger is his middle name,</p>
+
+<p>Christopher</p>
+
           </div>
         </div>
         <div id="up-next" class="up-next">
-          <div class="row collapse">      
-            <div class="row">
-              <div class="large-12 medium-12 columns">
-                <h1 class="up-next">Up Next</h1>
-              </div>
-            </div>
-            <div class="row">
-              <div class="large-2 medium-2 columns">
-                  &nbsp;
-              </div>
+          <div class="row">
+          
+            
               <div class="large-4 medium-4 columns">
-                <a href="/content/2012/05/07/shame.html"><img src="/img/article/thumb/" alt="Safe" /></a>
-                <a href="/content/2012/05/07/shame.html">
+                <a href="/content/2014/03/19/veronica-mars.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/veronica-mars.jpg" alt="Veronica Mars" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/19/veronica-mars.html">
                   <div class="review-text">
-                    <h1>Shame</h1>
-                    <h2><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
+                    <h1>Veronica Mars</h1>
+                    <h2 class="addressee">Dear "We Used to Be Friends", Theme Song</h2>
+                    <h2 class="author">By Di Golding</h2>
                   </div>
                 </a>
               </div>
+          
+            
               <div class="large-4 medium-4 columns">
-                <a href="/content/2012/05/09/the-five-year-engagement.html"><img src="/img/article/thumb/" alt="Safe" /></a>
-                <a href="/content/2012/05/09/the-five-year-engagement.html">
+                <a href="/content/2014/03/18/filthy-gorgeous-the-bob-guccione-story.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/filthy-gorgeous-the-bob-guccione-story.jpg" alt="Filthy Gorgeous: The Bob Guccione Story" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/18/filthy-gorgeous-the-bob-guccione-story.html">
                   <div class="review-text">
-                    <h1>The Five-Year Engagement</h1>
-                    <h2><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
+                    <h1>Filthy Gorgeous: The Bob Guccione Story</h1>
+                    <h2 class="addressee">Dear Michael Perlmutter, Music Supervisor</h2>
+                    <h2 class="author">By Casey Tourangeau</h2>
                   </div>
                 </a>
               </div>
-              <div class="large-2 medium-2 columns">
-                &nbsp;
+          
+            
+              <div class="large-4 medium-4 columns">
+                <a href="/content/2014/03/17/mr-peabody-sherman.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/mr-peabody-sherman.jpg" alt="Mr. Peabody & Sherman" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/17/mr-peabody-sherman.html">
+                  <div class="review-text">
+                    <h1>Mr. Peabody & Sherman</h1>
+                    <h2 class="addressee">Dear Wayback Machine, Plot Device</h2>
+                    <h2 class="author">By Di Golding</h2>
+                  </div>
+                </a>
               </div>
-            </div>
+          
           </div>
         </div>
       </section>
@@ -179,7 +239,6 @@
         <div class="comments">
         <div id="disqus_thread" class="disqus_thread"></div>
       </div>
-       </div>
       <script type="text/javascript">
       var disqus_shortname = 'dearcastandcrew';
       (function() {
@@ -192,77 +251,104 @@
       <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
       <!--preview HTML for home page scroll-->
     <div class="post large-4 medium-4 columns" style="display:none;">
-      <a href="/content/2012/05/08/safe.html"><img src="/img/article/thumb/" alt="Safe" /></a>
+      
       <a href="/content/2012/05/08/safe.html">
-        <div class="review-text">
-          <h1>Safe</h1>
-          <h2><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
-          <h2 class="addressee">Dear , </h2>
-          <h2 class="author">By Test Author</h2>
-        </div>
-      </a>
+                  <div class="post-image">
+                    <img src="/img/article/thumb/safe.jpg" alt="Safe" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2012/05/08/safe.html">
+                  <div class="review-text">
+                    <h1>Safe</h1>
+                    <h2 class="addressee">Dear Mike Groner, Insurance Broker</h2>
+                    <h2 class="author">By Christopher Redmond</h2>
+                  </div>
+                </a>
     </div>
     <script>
     //get the movie info from IMDB
     $.ajax({
-      url: "http://omdbapi.com/?i=",
+      
+      url: "http://omdbapi.com/?i=tt1656190",
       dataType: 'jsonp',
       success: function(data) {
-        var title=data.Title;
-        $('#imdb-title').append(title);
-        var html = '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Directed by:</div><div class="imdb-data large-8 medium-8 columns">' + data.Director +'</div>';
+        var html = '<div class="row imdb-info-row no-border full-width">';
+        html += '<img class="imdb-img" src="' +data.Poster +'" />';
+        html += '<span class="imdb-category">Directed by</span><br /><span class="imdb-data">' + data.Director.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Written by:</div><div class="imdb-data large-8 medium-8 columns">' + data.Writer.replace(/\,/g, '<br />') +'</div>';
+        html += '<span class="imdb-category">Written by</span><br /><span class="imdb-data">';
+        var writers = data.Writer;
+        var writers_array = writers.split(',');
+
+        for(var i = 0; i < writers_array.length; i++) {
+           // Trim the excess whitespace.
+           writers_array[i] = writers_array[i].replace(/^\s*/, "").replace(/\s*$/, "");
+           // Add additional code here, such as:
+           if ((writers_array[i].indexOf('characters') == -1) && (writers_array[i].indexOf('story') == -1) && (writers_array[i].indexOf('creator') == -1) && (writers_array[i].indexOf('screen story') == -1) && (writers_array[i].indexOf('television story') == -1) && (writers_array[i].indexOf('article') == -1) && ((writers_array[i].indexOf('play') == -1) || (writers_array[i].indexOf('screenplay') > -1)) && (writers_array[i].indexOf('song') == -1) && (writers_array[i].indexOf('uncredited') == -1) && (writers_array[i].indexOf('also') == -1) && (writers_array[i].indexOf('book') == -1) && (writers_array[i].indexOf('novel') == -1) && (writers_array[i].indexOf('based on') == -1)){
+           html += writers_array[i].replace('(screenplay)', '').replace('(written by)', '').replace('(written for the screen by)', '') + '<br />';
+           }
+        }
+        html += '</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Starring:</div><div class="imdb-data large-8 medium-8 columns">'+ data.Actors.replace(/\,/g, '<br />') +'</div>';
+        html += '<span class="imdb-category">Starring<br /></span><span class="imdb-data">'+ data.Actors.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
-        html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-img large-12 medium-12 columns"><img class="imdb-img" src="' +data.Poster +'" /></div>';
         $('#film-info').append(html);
         html += '</div>';
       }
     });
     </script>
-      <section id="footer">
-          <div class="row collapse">
-      <footer class="footer">
-        <button class="footer"></button>
-        <ul>
-                              <li><a href="/reviews/">Reviews</a>
+      </div>
+    </div>
+<div id="footer">
+      <footer class="mm-fixed-bottom">
+        <div class="footer">
+          <div class="footer-block">
+            <ul>
+                                  <li class="text"><a href="/reviews/">Reviews</a>
             <ul>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="#">Features</a>
+                    <li><a href="/features/">Features</a>
             <ul>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>
-                    <li><a href="#">Podcast</a>
+<!--                     <li><a href="#">Podcast</a>
             <ul>
               <li><a href="#">Archive</a></li>
             </ul>
-          </li>
-                    <li><a href="#">About</a>
+          </li> -->
+                    <li><a href="/about/">About</a>
             <ul>
               <li><a href="/about/writers/">Writers</a></li>
               <li><a href="/about/contact/">Contact</a></li>
             </ul>
           </li>
-          <li><a href="#" id="footer-search-toggle"><i class="fa fa-search" id=""></i> Search</a></li>
-        </ul>
-        <span class="stretch"></span>
-        <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+            </ul>
+          </div>
+          <div class="footer-block">
+            <h1 class="footer-head">Follow</h1>
+            <ul class="social">
+              <li class="social"><a class="social-twitter"></a></li>
+              <li class="social"><a class="social-facebook"></a></li>
+              <li class="social"><a class="social-letterboxd"></a></li>
+              <li class="social"><a class="social-rss"></a></li>
+            </ul>
+          </div>
+          <span class="stretch"></span>
+          <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+        </div>
       </footer>
-    </div>
-    </section>
     </div>
   
   <!-- Search modal overlay -->

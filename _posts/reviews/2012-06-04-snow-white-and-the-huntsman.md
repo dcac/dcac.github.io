@@ -1,11 +1,12 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt1735898
+image: snow-white-and-the-huntsman.jpg
+author: christopherr
+stars: 4
+excerpt: "I&rsquo;m sorry, but no one knows you. Yet as &#8220;the Producer of <em>Alice in Wonderland</em>&rdquo;, you&rsquo;ve given yourself top billing in the <em>Snow White and the Huntsman</em> ad campaign. What a lame way to promote this bold and striking re-imagining of a classic fairy tale."
+position: Producer
+addressee: Joe Roth
 layout: review
 categories:
   - reviews
@@ -15,8 +16,6 @@ title: "Snow White and the Huntsman"
 comments: true
 tags: [Hunstman, Joe Roth, k-stew, kristen stewart, Letters, Lord of the Rings, LOTR, Snow, SWATH, White]
 ---
-<div><p><span class="full-image-block ssNonEditable"><a href="/letters/2012/6/4/snow-white-and-the-huntsman.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf758a/1338835759257/Snow%20White%20and%20the%20Huntsman.jpg" alt="" /></a></span></p>
-<p><span style="font-size:120%;"><em><strong>Dear Joe Roth</strong>, </em><em>Producer</em></span></p>
 <p>I&rsquo;m sorry, but no one knows you. Yet as &#8220;the Producer of <em>Alice in Wonderland</em>&rdquo;, you&rsquo;ve given yourself top billing in the <em>Snow White and the Huntsman</em> ad campaign. What a lame way to promote this bold and striking re-imagining of a classic fairy tale. Was there really no one on the crew you could have used to align the film with its true inspiration, <em>Lord of the Rings</em>?</p>
 <p>Why not instead advertise that you have three-time Academy Award winner Colleen Atwood on board, who out-does her previous costume designs in this film and is a slam-dunk for Oscar number four?&nbsp; Or Andrew Ackland-Snow, who also art directed every one of the <em>Harry Potter</em> films? The man even has &ldquo;Snow&rdquo; in his name, dammit! Stretch it even farther if you have to:</p>
 <p>From the Storyboard Artist of <em>The Dark Knight</em></p>
@@ -33,5 +32,3 @@ tags: [Hunstman, Joe Roth, k-stew, kristen stewart, Letters, Lord of the Rings, 
 <p>See, how easy that was?</p>
 <p>Yours truly,</p>
 <p>Christopher</p>
-<p><em><strong>Delivery: 4/5 (Air Mail)</strong></em></p>
-<p><em><strong><span class="full-image-block ssNonEditable"><span><a href="http://www.zip.ca/Browse/Title.aspx?f=titleId%28204071%29"><img style="width:225px;" src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7c91/1343245704065/Rent-it-on-Zip.png" alt="" /></a></span></span><br /></strong></em></p></div>

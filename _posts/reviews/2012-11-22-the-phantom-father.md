@@ -1,19 +1,18 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt1382728
+image: the-phantom-father.jpg
+author: caseyt 
+stars: 2
+excerpt: "Like the main character in <em>The Phantom Father</em>, I felt compelled to do some research about history. Specifically, your history. I was curious how someone with a decidedly non-Romanian name gets not only a small role, but a co-writer credit on a Romanian film. And then I felt shame. You wrote <em>Wild at Heart</em>! And <em>Lost Highway</em>! I love David Lynch &ndash; I should know this!"
+position: Co-writer and Actor
+addressee: Barry Giffords
 layout: review
 categories: reviews
 title: "The Phantom Father"
 comments: true
 tags: [Barry Gifford, EU Film Festival, EUFF, European Union, Festivals, Letters, Marcel Lures, Romania]
 ---
-<div><p><span class="full-image-block ssNonEditable"><a href="/letters/2012/11/22/the-phantom-father.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf772f/1353594433017/the-phantom-father.jpg" alt="" /></a></span></p>
-<p><span style="font-size:120%;"><strong><em>Dear Barry Gifford,</em></strong><em>&nbsp;Co-writer and Actor,</em></span></p>
 <p>Like the main character in <em>The Phantom Father</em>, I felt compelled to do some research about history. Specifically, your history. I was curious how someone with a decidedly non-Romanian name gets not only a small role, but a co-writer credit on a Romanian film. And then I felt shame. You wrote <em>Wild at Heart</em>! And <em>Lost Highway</em>! I love David Lynch &ndash; I should know this!</p>
 <p>With that embarrassing hole in my cinematic knowledge filled in, the pieces quickly fell into place. Your involvement with the movie suddenly made a lot more sense: the road movie structure; the off-the-wall gangster characters; the maybe-they-are, maybe-they-aren&rsquo;t dream sequences. Only one thing seemed to not fit; how did this become a romantic comedy?</p>
 <p>I&rsquo;m guessing this is where director and co-writer Lucian Georgescu comes in. He must have thought it would help to lighten the mood by focusing on blossoming love. Well, if he did, he was wrong. It&rsquo;s not so much that this aspect is bad&mdash;the slow and tentative relationship feels honest&mdash;it&rsquo;s that when everything else comes in, the movie completely derails.</p>
@@ -24,4 +23,3 @@ tags: [Barry Gifford, EU Film Festival, EUFF, European Union, Festivals, Letters
 <p>So yes, Barry, I&rsquo;m throwing all of this back to you because, as the original source for this material, you must know where things came apart. Right? Maybe you can even describe it all to me, DVD commentary-style, as I watch the movie again. The same way a character in <em>The Phantom Father</em>, in a key moment, explains exactly what we&rsquo;re seeing in an old silent film, instead of letting the images tell the story. You know, the way movies are supposed to work.</p>
 <p>Dreamily&mdash;or not?&mdash;yours,</p>
 <p>Casey</p>
-<p><strong><em>Status: Return to Sender (2/5)</em></strong></p></div>

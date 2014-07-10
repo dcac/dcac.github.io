@@ -1,5 +1,6 @@
 ---
 published: true
+imdb: tt2740710
 image: atlantic-rim.jpg
 author: kelany
 stars: 1 
@@ -11,7 +12,7 @@ categories:
   - reviews
   - current-releases
   - series
-series: mockbusters
+series-name: mockbusters
 title: "Atlantic Rim"
 comments: true
 tags: [atlantic rim, blockbuster, graham green, imitation, knock off, Letters, mockbuster, pcific rim, ripoff]

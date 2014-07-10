@@ -11,7 +11,7 @@ categories:
   - reviews
   - current-releases
   - series
-series: mockbusters
+series-name: mockbusters
 title: "Thunderstorm: The Return of Thor"
 comments: true
 tags: [comics, Letters, mockbuster, Mockbusters, ray besharah, Thor]

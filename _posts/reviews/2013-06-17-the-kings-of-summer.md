@@ -1,19 +1,18 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt2179116
+image: the-kings-of-summer.jpg
+author: christopherr
+stars: 4.5
+excerpt: "Even if you end up having a long and illustrious career in Hollywood, I&rsquo;ll bet good money that <em>The Kings of Summer </em>will forever be your calling card. Every frame feels carefully populated with joy, heartbreak, and hope. Your production design in this film isn&rsquo;t just impressive &ndash; it&rsquo;s moving. Like an emotional time capsule, each set piece transported me back into adolescence. Not by recreating a specific era, but by evoking an overall feeling. That&rsquo;s a rare gift to get from a film."
+position: Production Designer
+addressee: Tyler B. Robinson
 layout: review
 categories: reviews
 title: "The Kings of Summer"
 comments: true
 tags: [Letters, Nick Offerman, Nick Robinson, Sundance, The Kings of Summer]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/6/17/the-kings-of-summer.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7862/1371501879993/The%20Kings%20of%20Summer.jpg" alt="" /></a></span></span></p>
-<p><em><span style="font-size:130%;"><strong>Dear Tyler B. Robinson,</strong> Production Designer,</span></em></p>
 <p>Even if you end up having a long and illustrious career in Hollywood, I&rsquo;ll bet good money that <em>The Kings of Summer </em>will forever be your calling card. Every frame feels carefully populated with joy, heartbreak, and hope. Your production design in this film isn&rsquo;t just impressive &ndash; it&rsquo;s moving. Like an emotional time capsule, each set piece transported me back into adolescence. Not by recreating a specific era, but by evoking an overall feeling. That&rsquo;s a rare gift to get from a film.</p>
 <p>Frankly, I never wanted to leave this rebellious teenage world you built in the wilderness.</p>
 <p>If that wasn&rsquo;t enough, I think you&rsquo;ve also patented a hot new architectural style: shabby nostalgia chic. And boy, does it work.&nbsp;</p>
@@ -23,4 +22,3 @@ tags: [Letters, Nick Offerman, Nick Robinson, Sundance, The Kings of Summer]
 <p>The final film swings back and forth in style and tone, too, but ultimately everything comes wonderfully together.</p>
 <p>Championing this film by design,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Priority Post (4.5/5)</em></strong></p></div>

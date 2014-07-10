@@ -1,11 +1,12 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt0087884
+image: paris-texas.jpg
+author: christopherr
+stars: 4.5
+excerpt: "Not much glory in the transportation department, I know. The long drives to and from the airport, the daily errands, the interminable waiting around on set.&nbsp; But while you were sitting bored in the driver&rsquo;s seat, watching through the windshield as Wim Wender&rsquo;s atmospheric, elliptical and hypnotic film <em>Paris, Texas</em> was being shot, you were unknowingly witnessing a masterpiece take shape before your eyes."
+position: Driver
+addressee: Homer Albin
 layout: review
 categories:
   - reviews
@@ -15,8 +16,6 @@ title: "Paris, Texas"
 comments: true
 tags: [Cannes, Criterion Collection, Uncategorized, Wim Wenders, Zip.ca]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/5/16/paris-texas.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7576/1337204636013/Paris%20Texas.jpg" alt="" /></a></span></span></p>
-<p><span style="font-size:120%;"><em><strong>Dear Homer Albin, </strong></em><em>Driver,</em></span></p>
 <p>Not much glory in the transportation department, I know. The long drives to and from the airport, the daily errands, the interminable waiting around on set.&nbsp; But while you were sitting bored in the driver&rsquo;s seat, watching through the windshield as Wim Wender&rsquo;s atmospheric, elliptical and hypnotic film <em>Paris, Texas</em> was being shot, you were unknowingly witnessing a masterpiece take shape before your eyes.&nbsp;</p>
 <p>Yet you might have thought Harry Dean Stanton was being extremely rude, sitting silently in the back seat as you peppered him with questions. I can tell you now that it wasn&rsquo;t contempt for the crew. It was method acting. Channeling the enigma of Travis Henderson that he so gracefully presents throughout the film undoubtedly took focus. But I&rsquo;ll understand if you felt as alienated as Dean Stockwell&rsquo;s character who comes to rescue Travis from the desert. No one likes getting the silent treatment.</p>
 <p>But think of this - it&rsquo;s a truism that the more we learn about a character, the less interesting they become. So a delicate balance must be maintained to keep an audience invested in someone who so adamantly denies them even the smallest shred of personal information. We know Travis has a 7-year-old son, but we don&rsquo;t understand how he could have abandoned him, and everyone else, for four years. We can see that he&rsquo;s damaged and disillusioned, but any reasons provided would probably just further frustrate us. As a narrative puzzle, Travis is ours to rebuild with only a few corner pieces to guide us. Luckily, those pieces are compelling enough to keep us along for the ride.</p>
@@ -26,5 +25,3 @@ tags: [Cannes, Criterion Collection, Uncategorized, Wim Wenders, Zip.ca]
 <p>In the end, I hope you enjoyed your quiet drives through the desert, and appreciated the contrast between the busy city highways featured later in the film. And if you were stuck manning your vehicle while the crew shot the strip club finale, I hope you also discovered how valuable a little silence can be.</p>
 <p>Sincerely,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Priority Post (4.5/5)</em></strong></p>
-<p><strong><em><span class="full-image-block ssNonEditable"><span><a href="http://www.zip.ca/Browse/Title.aspx?f=clid(109066)"><img style="width:225px;" src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7cfe/1343245454095/Rent-it-on-Zip.png" alt="" /></a></span></span><br /></em></strong></p></div>

@@ -5,7 +5,7 @@ image: endless-love.jpg
 author: caseyt
 stars: 2
 excerpt: 
-position: Set Decoration/On Set Dresser
+position: Set Decoration/On-Set Dresser
 addressee: Shane Garner
 layout: review
 categories: [reviews,current-releases]

@@ -15,8 +15,7 @@
     <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
-<!--   	<link href="/css/global.css" type="text/css" rel="stylesheet" /> -->
-  	
+    
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -26,6 +25,7 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
+      $('nav#menu-left').css({'display':'block'});
     });
 		</script>
 
@@ -43,13 +43,11 @@
 
 
   <body>
-    {% include left-nav.html %}
-    <div class="container-shadow" id="main-container">    
-      {{content}}
-      <section id="footer">
-      {% include footer.html %}
-    </section>
+{% include left-nav.html %}
+    <div class="container-shadow{% if post.layout == "review" %} review-fix{% endif %}" id="main-container">    
+      {{layout}}{{content}}
     </div>
+{% include footer.html %}
   
   <!-- Search modal overlay -->
   

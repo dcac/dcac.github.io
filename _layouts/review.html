@@ -1,90 +1,60 @@
 ---
 layout: default
-css: article.css
 ---
+     {% include top-nav.html %}
 {% assign author = site.data.authors[page.author] %}
-      <div id="nav-button-container">
-        <button class="left-off-canvas-toggle mm-fixed-top" id="nav-toggle" >Dear Cast &amp; Crew Navigation</button>
-      </div>
-      <div class="row full-width collapse">
-        <div class="large-12 medium-12 small-12 columns">
-          <div id="story-title">
-            <div id="title-img" style="background-image:url(/img/article/{{ page.image }});">
-              <section id="main-title" class="main-title ">
-                <div class="row collapse" style="z-index:15;">
-                 <div class="large-12 medium-12 small-12 columns">
-                    <button id="menu-toggle-top" class="logo-black">Dear Cast &amp; Crew Navigation</button>
-                    <h1 class="hero">{{ page.title }}</h1>
-                    <h2 class="hero">
-                      By: {% if author.profiled %}<a href="/about/writers/{{ page.author }}">{% endif %}{{ author.name }}{% if author.profiled %}</a>{% endif %}</a>&nbsp;&nbsp;|&nbsp;&nbsp;Mailed on: {{ page.date | date: "%B %d, %Y" }}
-                    </h2>
-                    <p class="article-share">
-                      <a href="https://twitter.com/intent/tweet?text=Dear  {{ page.addressee }}, {{  page.position }} for {{ page.title }}%0A{{ {{ page.url }}"><i class="fa fa-twitter"></i></a>
-                      <a href="#"><i class="fa fa-facebook"></i></a>
-                    </p>
-                  </div>
+      <section>
+        <div id="story-title" class="title-info" data-equalizer>
+          <div class="title-img" style="background-image:url(/img/article/{{ page.image }});"></div>
+          <div class="row" data-equalizer-watch >
+            <div class="large-4 medium-4 small-4 columns" data-equalizer-watch>
+              <div class="review-status">
+                <h1 class="hero">{{ page.title }}</h1>
+                <h2 class="hero-author">
+                  By {% if author.profiled %}<a href="/about/writers/{{ page.author }}">{% endif %}{{ author.name }}{% if author.profiled %}</a>{% endif %}
+                </h2>
+                <h2 class="hero-date">
+                  Mailed on {{ page.date | date: "%B %d, %Y" }}
+                </h2>
+                <hr class="title-divider" />
+                <img src="/img/global/stamp.svg" class="standard review-stamp" />
+                {% if page.stars < 1.5 %}Junk<br />Mail{% elsif page.stars >= 1.5 and page.stars < 2.5 %}Return to<br />Sender{% elsif page.stars >= 2.5 and page.stars < 3.5 %}Standard<br />Delivery{% elsif page.stars >= 3.5 and page.stars < 4.5  %}Air<br />Mail{% elsif page.stars >= 4.5 %}Priority<br />Post{% endif %}<br />
+                    <div class="large-star-rating">
+                      {% for i in (1..page.stars) %}<img class="star-large" src="/img/global/star-blue.svg" />{% endfor %}{% assign half_star = page.stars | modulo:1 %}{% if half_star > 0 %}<img class="star-large" src="/img/global/star-blue-half.svg" />{% endif %}{% assign empty_stars = 5 | minus: page.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img class="star-large" src="/img/global/star-white.svg" />{% endfor %}{% endif %}
                 </div>
-              </section>
-              <button class="down-arrow animated bounce" id="down-arrow"></button>
+              </div>
+            </div>
+            <div class="large-8 medium-8 small-8 columns" data-equalizer-watch>
+              <div class="review-people">
+                <h3><span class="addressee">Dear {{ page.addressee }}</span><br />
+                  <span class="position">{{ page.position }}</span>
+                </h3>
+              </div>
             </div>
           </div>
-        </div><!-- title -->
-      </div>
-      <section class="main-copy">
-        <div class="row" id="body-text">
-          <div class="body-addressee large-12 medium-12 columns">
-            <h3>Dear {{ page.addressee }}, {{  page.position }},</h3>
-          </div>
         </div>
+      </section>
+      <section id="body-text">
         <div class="row">
-          <div class="large-8 medium-8 columns" id="review-copy">
-            {{ content }}
-          </div>
           <div class="large-4 medium-4 columns" id="film-row">
             <div id="review-sidebar">
               <div id="film-info" class="film-info">
-                <h1 class="film" id="imdb-title"></h1>
-                <p>
-                  <strong><em>{% if page.stars < 1.5 %}Junk mail{% elsif page.stars >= 1.5 and page.stars < 2.5 %}Return to sender{% elsif page.stars >= 2.5 and page.stars < 3.5 %}Standard delivery{% elsif page.stars >= 3.5 and page.stars < 4.5  %}Air mail{% elsif page.stars >= 4.5 %}Priority post{% endif %}</em></strong><br />
-                  {% for i in (1..page.stars) %}<i class="fa fa-star"></i>{% endfor %}{% assign half_star = page.stars | modulo:1 %}{% if half_star > 0 %}<i class="fa fa-star-half-o"></i>{% endif %}{% assign empty_stars = 5 | minus: page.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<i class="fa fa-star-o"></i>{% endfor %}{% endif %}
-                </p>
-              </div>
+             </div>
             </div>
+          </div>
+          <div class="large-8 medium-8 columns" id="review-copy">
+            <p class="intro">Dear {{ page.addressee }}</p>
+            {{ content | replace_first: '<p>','<p class="intro">' }}
           </div>
         </div>
         <div id="up-next" class="up-next">
-          <div class="row collapse">      
-            <div class="row">
-              <div class="large-12 medium-12 columns">
-                <h1 class="up-next">Up Next</h1>
-              </div>
-            </div>
-            <div class="row">
-              <div class="large-2 medium-2 columns">
-                  &nbsp;
-              </div>
+          <div class="row">
+          {% for post in site.related_posts limit: 3 %}
+            {% assign author = site.data.authors[post.author] %}
               <div class="large-4 medium-4 columns">
-                <a href="{{ page.previous.url }}"><img src="/img/article/thumb/{{ page.previous.image }}" alt="{{ page.title }}" /></a>
-                <a href="{{ page.previous.url }}">
-                  <div class="review-text">
-                    <h1>{{ page.previous.title }}</h1>
-                    <h2>{% for i in (1..page.previous.stars) %}<i class="fa fa-star"></i>{% endfor %}{% assign half_star = page.previous.stars | modulo:1 %}{% if half_star > 0 %}<i class="fa fa-star-half-o"></i>{% endif %}{% assign empty_stars = 5 | minus: page.previous.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<i class="fa fa-star-o"></i>{% endfor %}{% endif %}</h2>
-                  </div>
-                </a>
+                {% include post-grid/post.html %}
               </div>
-              <div class="large-4 medium-4 columns">
-                <a href="{{ page.next.url }}"><img src="/img/article/thumb/{{ page.next.image }}" alt="{{ page.title }}" /></a>
-                <a href="{{ page.next.url }}">
-                  <div class="review-text">
-                    <h1>{{ page.next.title }}</h1>
-                    <h2>{% for i in (1..page.next.stars) %}<i class="fa fa-star"></i>{% endfor %}{% assign half_star = page.next.stars | modulo:1 %}{% if half_star > 0 %}<i class="fa fa-star-half-o"></i>{% endif %}{% assign empty_stars = 5 | minus: page.next.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<i class="fa fa-star-o"></i>{% endfor %}{% endif %}</h2>
-                  </div>
-                </a>
-              </div>
-              <div class="large-2 medium-2 columns">
-                &nbsp;
-              </div>
-            </div>
+          {% endfor %}
           </div>
         </div>
       </section>
@@ -92,7 +62,6 @@ css: article.css
         <div class="comments">
         <div id="disqus_thread" class="disqus_thread"></div>
       </div>
-       </div>
       <script type="text/javascript">
       var disqus_shortname = 'dearcastandcrew';
       (function() {
@@ -105,37 +74,41 @@ css: article.css
       <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
       <!--preview HTML for home page scroll-->
     <div class="post large-4 medium-4 columns" style="display:none;">
-      <a href="{{ page.url }}"><img src="/img/article/thumb/{{ page.image }}" alt="{{ page.title }}" /></a>
-      <a href="{{ page.url }}">
-        <div class="review-text">
-          <h1>{{ page.title }}</h1>
-          <h2>{% for i in (1..page.stars) %}<i class="fa fa-star"></i>{% endfor %}{% assign half_star = page.stars | modulo:1 %}{% if half_star > 0 %}<i class="fa fa-star-half-o"></i>{% endif %}{% assign empty_stars = 5 | minus: page.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<i class="fa fa-star-o"></i>{% endfor %}{% endif %}</h2>
-          <h2 class="addressee">Dear {{ page.addressee }}, {{ page.position }}</h2>
-          <h2 class="author">By {{ author.name }}</h2>
-        </div>
-      </a>
+      {% assign author = site.data.authors[page.author] %}
+      {% include post-grid/page.html %}
     </div>
     <script>
     //get the movie info from IMDB
     $.ajax({
+      
       url: "http://omdbapi.com/?i={{ page.imdb }}",
       dataType: 'jsonp',
       success: function(data) {
-        var title=data.Title;
-        $('#imdb-title').append(title);
-        var html = '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Directed by:</div><div class="imdb-data large-8 medium-8 columns">' + data.Director +'</div>';
+        var html = '<div class="row imdb-info-row no-border full-width">';
+        html += '<img class="imdb-img" src="' +data.Poster +'" />';
+        html += '<span class="imdb-category">Directed by</span><br /><span class="imdb-data">' + data.Director.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Written by:</div><div class="imdb-data large-8 medium-8 columns">' + data.Writer.replace(/\,/g, '<br />') +'</div>';
+        html += '<span class="imdb-category">Written by</span><br /><span class="imdb-data">';
+        var writers = data.Writer;
+        var writers_array = writers.split(',');
+
+        for(var i = 0; i < writers_array.length; i++) {
+           // Trim the excess whitespace.
+           writers_array[i] = writers_array[i].replace(/^\s*/, "").replace(/\s*$/, "");
+           // Add additional code here, such as:
+           if ((writers_array[i].indexOf('characters') == -1) && (writers_array[i].indexOf('story') == -1) && (writers_array[i].indexOf('creator') == -1) && (writers_array[i].indexOf('screen story') == -1) && (writers_array[i].indexOf('television story') == -1) && (writers_array[i].indexOf('article') == -1) && ((writers_array[i].indexOf('play') == -1) || (writers_array[i].indexOf('screenplay') > -1)) && (writers_array[i].indexOf('song') == -1) && (writers_array[i].indexOf('uncredited') == -1) && (writers_array[i].indexOf('also') == -1) && (writers_array[i].indexOf('book') == -1) && (writers_array[i].indexOf('novel') == -1) && (writers_array[i].indexOf('based on') == -1)){
+           html += writers_array[i].replace('(screenplay)', '').replace('(written by)', '').replace('(written for the screen by)', '') + '<br />';
+           }
+        }
+        html += '</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Starring:</div><div class="imdb-data large-8 medium-8 columns">'+ data.Actors.replace(/\,/g, '<br />') +'</div>';
+        html += '<span class="imdb-category">Starring<br /></span><span class="imdb-data">'+ data.Actors.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
-        html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-img large-12 medium-12 columns"><img class="imdb-img" src="' +data.Poster +'" /></div>';
         $('#film-info').append(html);
         html += '</div>';
       }
     });
     </script>
+      </div>

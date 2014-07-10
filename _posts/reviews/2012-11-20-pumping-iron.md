@@ -1,18 +1,18 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt0076578
+image: pumping-iron.jpg
+author: jaredy 
+stars: 4
+excerpt: "As someone who was eleven years old in 1991, I can tell you this: in 1991, every eleven year-old wanted to be Eddie Furlong. Sweet bangs, skateboard skills, a laptop that could hack a bank machine, and his own personal cyborg assassin&mdash;he had it all. By the end of <em>Terminator 2: Judgment Day</em>, when (spoiler alert) you sacrifice yourself to destroy the computer chip inside your head that will give rise to sentient digital overlord SkyNet, it&rsquo;s clear that you&rsquo;ve become a proxy for young John Connor&rsquo;s absent father, who, (double spoiler alert) you killed in the first film."
+position: as Himself 
+addressee: Arnold Schwarzenegger
 layout: review
 categories: reviews
 title: "Pumping Iron"
 comments: true
 tags: [arnold schwarzenegger, bodybuilding, documentary, Early Arnold, First Film, Letters]
 ---
-<div><p><em><strong style="font-size:120%;"><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/11/20/pumping-iron.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7725/1353431630813/pumping-iron.jpg" alt="" /></a></span></span>Dear Arnold Schwarzenegger,</strong><span style="font-size:120%;"> as Himself</span></em></p>
 <p>As someone who was eleven years old in 1991, I can tell you this: in 1991, every eleven year-old wanted to be Eddie Furlong. Sweet bangs, skateboard skills, a laptop that could hack a bank machine, and his own personal cyborg assassin&mdash;he had it all. By the end of <em>Terminator 2: Judgment Day</em>, when (spoiler alert) you sacrifice yourself to destroy the computer chip inside your head that will give rise to sentient digital overlord SkyNet, it&rsquo;s clear that you&rsquo;ve become a proxy for young John Connor&rsquo;s absent father, who, (double spoiler alert) you killed in the first film.&nbsp;</p>
 <p>Throughout your career, that&rsquo;s what you&rsquo;ve been to me: a father figure. Even in movies like <em>Predator</em>, there&rsquo;s a paternal spirit to the way you take control of your strike team when the flayed bodies begin to appear. In <em>Commando</em>, there&rsquo;s not even a patriarchal analogy to untangle: you&rsquo;re a father, maiming and murdering and cracking wise in search of your kidnapped daughter.&nbsp;</p>
 <p>But the big surprise of <em>Pumping Iron</em> &ndash; the 1977 documentary that chronicles the regimens and routines of a group of bodybuilders as they train in preparation of the Mr. Olympia contest in Pretoria, South Africa &ndash; isn&rsquo;t your youthful exuberance or frightening steroidal girth.&nbsp;</p>
@@ -26,6 +26,3 @@ tags: [arnold schwarzenegger, bodybuilding, documentary, Early Arnold, First Fil
 <p>There&rsquo;s a reason Lou Ferrigno didn&rsquo;t go on to star in high-concept Ivan Reitman comedies and James Cameron blockbusters. And the reason is clear in the final moments of <em>Pumping Iron. </em>As the winner of the 1975 Mr. Olympia contest is about to be announced, it&rsquo;s not the earnest, hard-working underdog we&rsquo;re pulling for. We&rsquo;re hoping the bad guy wins. And, for the next three decades, he will. &nbsp;</p>
 <p>Sincerely,&nbsp;</p>
 <p>Jared Young</p>
-<p><strong><em>Status: Air Mail (4/5)</em></strong></p>
-<p><strong><em><span class="full-image-block ssNonEditable"><span><a href="http://www.zip.ca/Browse/Title.aspx?f=titleId%28107813%29"><img style="width:225px;" src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7cec/1343245704065/Rent-it-on-Zip.png" alt="" /></a></span></span><br /></em></strong></p>
-<div></div></div>

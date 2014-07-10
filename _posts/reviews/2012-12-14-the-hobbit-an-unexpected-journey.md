@@ -1,18 +1,18 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt0903624
+image: the-hobbit-an-unexpected-journey.jpg
+author: caseyt 
+stars: 3
+excerpt: "I know, I know: it seems like I should write this letter to a member of the camera team, not someone from the editorial department. <em>The Hobbit: An Unexpected Journey</em>&rsquo;s use of high frame-rate photography&mdash;capturing images at 48 frames per second rather than the traditional 24&mdash;has generated almost as much pre-release buzz as Peter Jackson&rsquo;s return to Middle Earth itself."
+position: Apprentice Editor 
+addressee: Andy Campion
 layout: review
 categories: reviews
 title: "The Hobbit: An Unexpected Journey"
 comments: true
 tags: [adventure, andy seriks, fantasy, ian mckellan, Letters, Lord of the Rings, peter jackson, the hobit]
 ---
-<div><p><strong><em><span class="full-image-block ssNonEditable"><a href="/letters/2012/12/14/the-hobbit-an-unexpected-journey.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7760/1355499557323/the-hobbit-an-unexpected-journey.jpg" alt="" /></a></span><span style="font-size:130%;">Dear Andy Campion,</span></em></strong><span style="font-size:130%;"><em> Apprentice Editor,</em></span></p>
 <p>I know, I know: it seems like I should write this letter to a member of the camera team, not someone from the editorial department. <em>The Hobbit: An Unexpected Journey</em>&rsquo;s use of high frame-rate photography&mdash;capturing images at 48 frames per second rather than the traditional 24&mdash;has generated almost as much pre-release buzz as Peter Jackson&rsquo;s return to Middle Earth itself.</p>
 <p>So, let&rsquo;s just address that up front: how does it look? Not very good, I&rsquo;m afraid. While it&rsquo;s true that the higher rate offers a stunning sharpness and clarity, it doesn&rsquo;t look very much like a movie. In fact, it looks a lot like video&mdash;video from 30 years ago. The combination of higher frames and 3D seems to have had the opposite effect Jackson intended: characters feel separated from the background, even when they&rsquo;re being shot on a real set; images appear overly bright in a way that recalls BBC theatre productions of the late 70s. The result is maddeningly distracting. Even though Jackson and his crew are using the same awesome New Zealand landscapes and locations as they did in the <em>Lord of the Rings</em> Trilogy, I couldn&rsquo;t get lost in them like I did with those films.</p>
 <p>But this letter isn&rsquo;t supposed to be about frame rates and new technologies. I don&rsquo;t begrudge Jackson his desire to push cinema in new directions. It&rsquo;s entirely possible that ten years from now we&rsquo;ll look back on <em>The Hobbit</em> in the same way as <em>The Jazz Singer</em>: as an important (if flawed) foray into a new era of cinematic storytelling. And maybe we&rsquo;ll have a chuckle at all of our overwrought hand-wringing.</p>
@@ -27,4 +27,3 @@ tags: [adventure, andy seriks, fantasy, ian mckellan, Letters, Lord of the Rings
 <p>Wow, this letter is close to three times the length of what we usually write here. Maybe <em>The Hobbit: An Unexpected Journey</em> inspired me more than I realized.</p>
 <p>Long-windedly yours,</p>
 <p>Casey</p>
-<p><strong>Status: Standard delivery (3/5)</strong></p></div>

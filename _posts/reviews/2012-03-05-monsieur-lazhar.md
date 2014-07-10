@@ -1,11 +1,12 @@
 ---
 published: true
-image:
-author: 
+imdb: tt2011971
+image: monsieur-lazhar.jpg
+author: christopherr
 stars: 4
-excerpt: 
-position: 
-addressee: 
+excerpt: "Somebody&rsquo;s been busy the past few months! Let me start by congratulating you on the Best Foreign Language Film Oscar nomination for <em>Monsieur Lazar</em>. Getting the Academy to sit through another Canadian film about isolation and depression could not have been easy. Sure, there&rsquo;s no weird sex or snowshoes, but opening with a teacher hanging herself in a classroom? You were probably tempted to lock the exits. Lucky for you, the story subverts expectations and turns into a genuine crowd pleaser within about five minutes. At that point, the film does a pretty good job of selling itself."
+position: International Publicist
+addressee: Laurent Boye
 layout: review
 categories:
   - reviews
@@ -16,8 +17,6 @@ comments: true
 streaming: true
 tags: [streaming,Canadian, Letters]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf74f5/1336620842597/monsieurlazhar.jpg" alt="" /></span></span></p>
-<p><span style="font-size:120%;"><em><strong>Dear Laurent Boye, </strong>International Publicist,</em></span></p>
 <p>Somebody&rsquo;s been busy the past few months! Let me start by congratulating you on the Best Foreign Language Film Oscar nomination for <em>Monsieur Lazar</em>. Getting the Academy to sit through another Canadian film about isolation and depression could not have been easy. Sure, there&rsquo;s no weird sex or snowshoes, but opening with a teacher hanging herself in a classroom? You were probably tempted to lock the exits. Lucky for you, the story subverts expectations and turns into a genuine crowd pleaser within about five minutes. At that point, the film does a pretty good job of selling itself.</p>
 <p>But let&rsquo;s go back to when you first heard writer and director Philippe Falardeau was turning a one-man play into a feature film. I imagine everyone at Telefilm was reaching for red markers. Theatre icon Daniel McIvor adapted his own solo stage effort but didn&rsquo;t exactly bring down the <em>House</em>. International sensation Robert Lepage tried, but is now in self-imposed cinematic exile from <em>The Far Side of the Moon</em>. Even by Canadian standards, the initial odds of success were stacked pretty heavy against Falardeau.</p>
 <p>His last feature, <em>It&rsquo;s Not Me I Swear!,</em> certainly proved how emotionally effective he could make an eccentric visual pallet and melancholy characters. But although you can now promote him as one of Canada&rsquo;s most dependable directors, no one gets a financing carte blanche in our subsidized industry (contrary to what your detractors on Sun TV have said). So at what point did you know you might have a critical and commercial hit on your hands?</p>
@@ -30,5 +29,3 @@ tags: [streaming,Canadian, Letters]
 <p>With glowing hearts,</p>
 <p>Christopher</p>
 <p>P.S. Smart move taking your name off <em>Burlesque</em>.</p>
-<p><em><strong>Status: Air Mail (4/5)</strong></em></p>
-<p><em><strong><span class="full-image-block ssNonEditable"><span><a href="http://www.zip.ca/Browse/Title.aspx?f=titleId%28204181%29"><img style="width:225px;" src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7c17/1343245704065/Rent-it-on-Zip.png" alt="" /></a></span></span><br /></strong></em></p></div>

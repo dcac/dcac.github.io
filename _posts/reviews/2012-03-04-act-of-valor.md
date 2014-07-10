@@ -1,17 +1,16 @@
 ---
 published: true
-image:
-author: 
+imdb: tt1591479
+image: act-of-valor
+author: christopherr
 stars: 3
-excerpt: 
-position: 
-addressee: 
+excerpt: "I&rsquo;m so glad I killed your ass.<strong> </strong><em>Act of Valor&rsquo;s</em> first-person shooter cinematography perfectly fed my fantasy of pulling the trigger &ndash; for America! Who cares that <em>Call of Duty: Army Approved </em>is just a big-screen military recruitment video? I&rsquo;ve already signed up."
+position: Henchmen
+addressee: Anthony Carone
 layout: review
 categories:
   - reviews
   - streaming
-  - on-video
-  - on-video
 title: "Act of Valor"
 comments: true
 streaming: true

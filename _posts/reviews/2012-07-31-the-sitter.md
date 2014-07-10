@@ -1,11 +1,12 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt1366344
+image: the-sitter
+author: coryh 
+stars: 2
+excerpt: "Hi there. I am surprised you were required for this movie. Yours sounds like a job more befitting an historical epic or meticulous art film."
+position: Costume Ager/Dyer
+addressee: David Paulin
 layout: review
 categories:
   - reviews
@@ -15,8 +16,6 @@ title: "The Sitter"
 comments: true
 tags: [comedy, Jonah Hill, Letters, netflix.ca, Zip.ca]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/7/31/the-sitter.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf75e8/1343761237507/the-sitter.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:120%;"><span style="font-size:120%;"><strong>Dear David Paulin, </strong>Costume Ager/Dyer</span></em></p>
 <p>Hi there. I am surprised you were required for this movie. Yours sounds like a job more befitting an historical epic or meticulous art film. You&rsquo;re not just making the clothes&mdash;you&rsquo;re giving everything the proper aging by hand. That has to serve a purpose. But if the rest of the movie is just going through the motions, what exactly did they need you for?</p>
 <p>In <em>The Sitter</em>, Jonah Hill plays Noah, a funny-but-lazyboned dropout that gets guilted into babysitting for his mom&#8217;s friend. The baby-sat kids, in this particular case, are essentially a Fox News list of top domestic threats: one is gay, one is slutty, and one is an immigrant. They exist in the movie as problems to solve, hurdles for our Noah to overcome: suburbanite versions of the ghosts from <em>A Christmas Carol</em>.</p>
 <p>But before he can start on that, his girlfriend Marisa (played by the hopefully-intentionally-irritating Ari Graynor) calls asking him to bring cocaine to a party in far-off Brooklyn, for which he will be rewarded with sex. Noah pathetically (but understandably) tries to do just that. Then everything goes wrong. Then it seems to get better. Then it gets even worse.</p>
@@ -27,6 +26,4 @@ tags: [comedy, Jonah Hill, Letters, netflix.ca, Zip.ca]
 <p>If that doesn&#8217;t creep the hell out of you, you aren&#8217;t paying attention.</p>
 <p>Sincere Regards,</p>
 <p>Cory</p>
-<p><strong>2/5 Return to Sender&nbsp;</strong></p>
 <p>*Though in this case, it&#8217;s a fabulous dark-chocolate-covered cherry popsicle thanks to Karl the drug dealer, played by Sam Rockwell. He always brings it to everything he does, and this case, it seems like he dropped out of an entirely different movie (dessert) just to screw with everyone.</p>
-<p><span class="full-image-block ssNonEditable"><a href="http://www.zip.ca/Browse/Title.aspx?f=titleId(110619)"><img style="width:225px;" src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7d88/1343245454095/Rent-it-on-Zip.png" alt="" /></a></span></p></div>

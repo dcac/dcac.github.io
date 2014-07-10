@@ -1,11 +1,12 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt1195478
+image: the-five-year-engagement.jpg
+author: caseyt 
+stars: 4
+excerpt: "Poaching an egg is tricky business. Getting that perfect oval shape, the firm whites and thick-but-runny yolk&mdash;it takes practice. Lots of practice."
+position: Food Stylist
+addressee: Zachariah Kucynski
 layout: review
 categories:
   - reviews
@@ -15,8 +16,6 @@ title: "The Five-Year Engagement"
 comments: true
 tags: [Emily Blunt, Five Year Engagement, Jason Segel, Letters, Romantic Comedy]
 ---
-<div><p><span class="full-image-block ssNonEditable"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7565/1336595582653/five-year-engagment.jpg" alt="" /></span></p>
-<p><em><span style="font-size:120%;"><strong>Dear Zachariah Kucynski, </strong>Food Stylist,</span></em></p>
 <p><span style="color:black;">Poaching an egg is tricky business. Getting that perfect oval shape, the firm whites and thick-but-runny yolk</span>&mdash;<span style="color:black;">it takes practice. Lots of practice.</span></p>
 <p><span style="color:black;">Why do I mention this? Because, in the goofily charming introduction to our characters in </span><em>The Five-Year Engagement</em><span style="color:black;">, we meet Tom (Jason Segel) as he prepares a pair of perfectly poached eggs. This may be the first time I&#8217;ve ever seen food preparation used as character development. It&#8217;s immediately clear that this isn&#8217;t the standard man-child that populates much of producer Judd Apatow&#8217;s work.</span></p>
 <p><span style="color:black;">No, Tom is an accomplished chef living and working in San Francisco, on the path to being head chef at a new it-restaurant. He&#8217;s also recently engaged to prospective psychology grad student Violet (Emily Blunt). In other words, his souffl</span><span style="color:black;">&eacute;</span><span style="color:black;"> is on the rise.</span></p>
@@ -26,4 +25,3 @@ tags: [Emily Blunt, Five Year Engagement, Jason Segel, Letters, Romantic Comedy]
 <p><span style="color:black;">Delicious.</span></p>
 <p><span style="color:black;">Hungrily,</span></p>
 <p><span style="color:black;">Casey</span></p>
-<p><strong><span style="color:black;">Status: Air Mail (4/5)</span></strong><strong></strong></p></div>

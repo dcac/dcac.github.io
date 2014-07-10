@@ -1,11 +1,12 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt0337692
+image: on-the-road.jpg
+author: christopherr
+stars: 3.5
+excerpt: "Friedrich Nietzsche often mused about how dance can express what words cannot. Especially when it comes to liberating a restless spirit with immediate results. No wonder director Walter Salles relied so heavily on your expertise in adapting one of the 20th century’s most groundbreaking pieces of English prose."
+position: Dance Consultant
+addressee: Talia Evtushenko
 layout: review
 categories:
   - reviews
@@ -26,4 +27,3 @@ tags: [Cannes, Festivals, jack kerouc, k-stew, kristen stewart, on the road]
 <p>I found great inspiration in this crescendo of movement. The script’s pacing is not always as graceful, but road movies seldom are. The genre demands that characters rotate dance partners every few miles, and here we have memorable appearances by Viggo Mortensen, Amy Adams, Kirsten Dunst, Steve Buscemi, and many others. While none of them make the final curtain call, I think everyone deserves to take a modest bow. It was, after all, a very unorthodox beat you were forced to follow.</p>
 <p>Fan of your fancy footwork,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Air Mail (3.5/5)</em></strong></p></div>

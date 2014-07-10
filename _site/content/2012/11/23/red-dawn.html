@@ -15,8 +15,7 @@
     <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
-<!--   	<link href="/css/global.css" type="text/css" rel="stylesheet" /> -->
-  	
+    
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -26,6 +25,7 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
+      $('nav#menu-left').css({'display':'block'});
     });
 		</script>
 
@@ -43,30 +43,31 @@
 
 
   <body>
-      <nav id="menu-left">
+  <div id="nav-test"><a href="/"><img src="/img/global/dcac-full-logo-white.svg" class="side-home-link" /></a></div>
+  <nav id="menu-left">
     <!-- Sidebar Nav -->
       <ul>
-        <li><a href="#" id="side-search-toggle"><i class="fa fa-search" id=""></i></a></li>
-                            <li><a href="/reviews/">Reviews</a>
+        <li><a href="#" id="side-search-toggle"><i class="fa fa-search"></i> Search</a></li>
+                            <li class="text"><a href="/reviews/">Reviews</a>
             <ul>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="#">Features</a>
+                    <li><a href="/features/">Features</a>
             <ul>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>
-                    <li><a href="#">Podcast</a>
+<!--                     <li><a href="#">Podcast</a>
             <ul>
               <li><a href="#">Archive</a></li>
             </ul>
-          </li>
-                    <li><a href="#">About</a>
+          </li> -->
+                    <li><a href="/about/">About</a>
             <ul>
               <li><a href="/about/writers/">Writers</a></li>
               <li><a href="/about/contact/">Contact</a></li>
@@ -76,103 +77,165 @@
     <!-- End Sidebar Nav -->
     </nav>
     <div class="container-shadow" id="main-container">    
-      
-      <div id="nav-button-container">
-        <button class="left-off-canvas-toggle mm-fixed-top" id="nav-toggle" >Dear Cast &amp; Crew Navigation</button>
+             
+<div class="full-black">
+      <div class="row collapse">
+        <div class="section-header">
+          <section class="top-nav" id="top-nav">
+            <a href="/" class="logo-link"></a>
+            <ul>
+              <li><a href="/reviews/">Reviews</a></li>
+              <li><a href="/features/" class="slash">Features</a></li>
+              <!-- <li><a href="/podcast/">Podcast</a></li> -->
+              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
+            </ul>
+          </section>
+        </div>
       </div>
-      <div class="row full-width collapse">
-        <div class="large-12 medium-12 small-12 columns">
-          <div id="story-title">
-            <div id="title-img" style="background-image:url(/img/article/);">
-              <section id="main-title" class="main-title ">
-                <div class="row collapse" style="z-index:15;">
-                 <div class="large-12 medium-12 small-12 columns">
-                    <button id="menu-toggle-top" class="logo-black">Dear Cast &amp; Crew Navigation</button>
-                    <h1 class="hero">Red Dawn</h1>
-                    <h2 class="hero">
-                      By: Test Author</a>&nbsp;&nbsp;|&nbsp;&nbsp;Mailed on: November 23, 2012
-                    </h2>
-                    <p class="article-share">
-                      <a href="https://twitter.com/intent/tweet?text=Dear  ,  for Red Dawn%0A"><i class="fa fa-twitter"></i></a>
-                      <a href="#"><i class="fa fa-facebook"></i></a>
-                    </p>
-                  </div>
+    </div>
+        
+    <div class="mini-top-nav-hidden mm-fixed-top" id="mini-top-nav">
+      <nav class="top-bar" data-topbar>
+        <ul class="title-area">
+          <li class="name dcac-logo" id="nav-toggle">
+            <h1><a href="#">Dear Cast & Crew</a></h1>
+          </li>
+        </ul>
+        <section class="top-bar-section">
+          <!-- Right Nav Section -->
+          <ul class="right">
+            <li class="search" id="mini-top-search-toggle"><a href="#" class="mini-search-link"><i class="fa fa-search"></i></a></li>
+          </ul>
+        </section>
+      </nav>
+    </div>
+
+      <section>
+        <div id="story-title" class="title-info" data-equalizer>
+          <div class="title-img" style="background-image:url(/img/article/red-dawn.jpg);"></div>
+          <div class="row" data-equalizer-watch >
+            <div class="large-4 medium-4 small-4 columns" data-equalizer-watch>
+              <div class="review-status">
+                <h1 class="hero">Red Dawn</h1>
+                <h2 class="hero-author">
+                  By <a href="/about/writers/christopherr">Christopher Redmond</a>
+                </h2>
+                <h2 class="hero-date">
+                  Mailed on November 23, 2012
+                </h2>
+                <hr class="title-divider" />
+                <img src="/img/global/stamp.svg" class="standard review-stamp" />
+                Standard<br />Delivery<br />
+                    <div class="large-star-rating">
+                      <img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue-half.svg" /><img class="star-large" src="/img/global/star-white.svg" /><img class="star-large" src="/img/global/star-white.svg" />
                 </div>
-              </section>
-              <button class="down-arrow animated bounce" id="down-arrow"></button>
+              </div>
+            </div>
+            <div class="large-8 medium-8 small-8 columns" data-equalizer-watch>
+              <div class="review-people">
+                <h3><span class="addressee">Dear Lindsay Dougherty</span><br />
+                  <span class="position">Dispatcher</span>
+                </h3>
+              </div>
             </div>
           </div>
-        </div><!-- title -->
-      </div>
-      <section class="main-copy">
-        <div class="row" id="body-text">
-          <div class="body-addressee large-12 medium-12 columns">
-            <h3>Dear , ,</h3>
-          </div>
         </div>
+      </section>
+      <section id="body-text">
         <div class="row">
-          <div class="large-8 medium-8 columns" id="review-copy">
-            <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/11/23/red-dawn.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7731/1353694348767/Red%20Dawn.jpg" alt="" /></a></span></span></p>
-<p><em><span style="font-size:130%;"><strong>Dear Lindsay Dougherty,</strong> Dispatcher</span></em></p>
-<p>Here&rsquo;s a cute piece of professional trivia for you: do you know where the distress signal &ldquo;Mayday mayday mayday!&rdquo; comes from?&nbsp; It&rsquo;s derived from the French term &ldquo;venez <em>m&rsquo;aidez</em>&rdquo;, which means &ldquo;come help me&rdquo;. Someone obviously thought, hey if it worked for someone else, why create something original? It doesn&rsquo;t even have to make sense anymore. In fact, it&rsquo;s cooler if it doesn&rsquo;t. Hmm. I wonder if there&rsquo;s a parallel I can draw between this and the remake of <em>Red Dawn</em>&hellip;</p>
-<p>Forget it, that might require me to use my brain.</p>
-<p>Instead, let&rsquo;s just talk just about what makes this movie implausible and awesome: the premise. Without any warning, foreign soldiers parachute into a small American town and unleash hell. A group of average teenagers escape into the hills and use guerilla tactics to fight off the invading army. U.S. solider Jed Eckert (Chris Hemsworth) establishes his fighting credentials early and awkwardly, lest we forget later on. He then leads the rag-tag band of rebels called Wolverines through a series of coordinated assaults, no doubt inspired by his recent combat experience in Iraq.</p>
-<p>For someone who lives in Canada, I find this all utter fantasy and rather invigorating. I&rsquo;m not interested or qualified to criticize the film&rsquo;s unrealistic portrayals of violence or warfare. So I&rsquo;m the target market. There were certainly moments in <em>Red Dawn</em> that hit the spot&mdash;namely, seeing all those parachutes fall from the sky, along with a few early attack sequences.</p>
-<p>I am, however, fairly well-versed in cinema. This is why my brain started putting out its own distress calls.</p>
-<p>Unconvincing performances! Lazy plot machinations! Incomprehensibly shot hand-to-hand combat sequences (and somehow a career stunt coordinator, Dan Bradley, directed this)! There&rsquo;s also a strange failure to commit the film to a tone &ndash; is it supposed to be horrifying or glorifying? Is the reluctance to vilify the villains an attempt at being even-handed, or simply the fearful result of real-world retaliation? That might have been the case with China (see the not-so-subtle 2008 Olympic <a href="http://www.youtube.com/watch?v=JsDY1Ha83M8">opening ceremonies</a>), but extensive post-production efforts to change the enemy to North Korea rendered that threat more absurd. Which is also a big detriment to the film.</p>
-<p>The original <em>Red Dawn</em> (1984) tried to stir up American fears about the Soviets that had all-but disappeared by that point. Still, I&rsquo;ll never forget the opening scene, with students dangling from a broken window after being mowed-down by machine-gun fire. The way the characters dealt with a fellow Wolverine who was bugged with a tracking device also left a sick feeling in my gut. That film is far from a masterpiece, but it helped me understand something about a guerilla war &ndash; it&rsquo;s messy, grotesque, and makes people to unforgivable things. The new <em>Red Dawn</em> avoids ever going down that dark road.</p>
-<p>Instead, the film goes for big bangs and introduces a late McGuffin mission to undo the enemy&rsquo;s advantage. Then the set pieces start to feel perfunctory and predictable, even if things aren&rsquo;t tied up with a neat bow at the end (that just feels like sequel bait).&nbsp; The big idea behind the film seems to capitalize on an exciting premise by just piling on more action.&nbsp; So if you thought <em>Rambo: First Blood II</em> was an improvement over <em>First Blood</em>, then you&rsquo;ll love the new <em>Red Dawn</em>. And if you&rsquo;re a sucker for action like me, you might also find your emotions involuntarily drafted into certain moments.</p>
-<p>After all, it&rsquo;s hard not to feel answer the call to battle.</p>
-<p>Over and out,</p>
-<p>Christopher</p>
-<p><strong><em>Status: Standard Delivery (2.5/5)</em></strong></p></div>
-
-          </div>
           <div class="large-4 medium-4 columns" id="film-row">
             <div id="review-sidebar">
               <div id="film-info" class="film-info">
-                <h1 class="film" id="imdb-title"></h1>
-                <p>
-                  <strong><em></em></strong><br />
-                  <i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
-                </p>
-              </div>
+             </div>
             </div>
+          </div>
+          <div class="large-8 medium-8 columns" id="review-copy">
+            <p class="intro">Dear Lindsay Dougherty</p>
+            <p class="intro">Here&rsquo;s a cute piece of professional trivia for you: do you know where the distress signal &ldquo;Mayday mayday mayday!&rdquo; comes from?&nbsp; It&rsquo;s derived from the French term &ldquo;venez <em>m&rsquo;aidez</em>&rdquo;, which means &ldquo;come help me&rdquo;. Someone obviously thought, hey if it worked for someone else, why create something original? It doesn&rsquo;t even have to make sense anymore. In fact, it&rsquo;s cooler if it doesn&rsquo;t. Hmm. I wonder if there&rsquo;s a parallel I can draw between this and the remake of <em>Red Dawn</em>&hellip;</p>
+
+<p>Forget it, that might require me to use my brain.</p>
+
+<p>Instead, let&rsquo;s just talk just about what makes this movie implausible and awesome: the premise. Without any warning, foreign soldiers parachute into a small American town and unleash hell. A group of average teenagers escape into the hills and use guerilla tactics to fight off the invading army. U.S. solider Jed Eckert (Chris Hemsworth) establishes his fighting credentials early and awkwardly, lest we forget later on. He then leads the rag-tag band of rebels called Wolverines through a series of coordinated assaults, no doubt inspired by his recent combat experience in Iraq.</p>
+
+<p>For someone who lives in Canada, I find this all utter fantasy and rather invigorating. I&rsquo;m not interested or qualified to criticize the film&rsquo;s unrealistic portrayals of violence or warfare. So I&rsquo;m the target market. There were certainly moments in <em>Red Dawn</em> that hit the spot&mdash;namely, seeing all those parachutes fall from the sky, along with a few early attack sequences.</p>
+
+<p>I am, however, fairly well-versed in cinema. This is why my brain started putting out its own distress calls.</p>
+
+<p>Unconvincing performances! Lazy plot machinations! Incomprehensibly shot hand-to-hand combat sequences (and somehow a career stunt coordinator, Dan Bradley, directed this)! There&rsquo;s also a strange failure to commit the film to a tone &ndash; is it supposed to be horrifying or glorifying? Is the reluctance to vilify the villains an attempt at being even-handed, or simply the fearful result of real-world retaliation? That might have been the case with China (see the not-so-subtle 2008 Olympic <a href="http://www.youtube.com/watch?v=JsDY1Ha83M8">opening ceremonies</a>), but extensive post-production efforts to change the enemy to North Korea rendered that threat more absurd. Which is also a big detriment to the film.</p>
+
+<p>The original <em>Red Dawn</em> (1984) tried to stir up American fears about the Soviets that had all-but disappeared by that point. Still, I&rsquo;ll never forget the opening scene, with students dangling from a broken window after being mowed-down by machine-gun fire. The way the characters dealt with a fellow Wolverine who was bugged with a tracking device also left a sick feeling in my gut. That film is far from a masterpiece, but it helped me understand something about a guerilla war &ndash; it&rsquo;s messy, grotesque, and makes people to unforgivable things. The new <em>Red Dawn</em> avoids ever going down that dark road.</p>
+
+<p>Instead, the film goes for big bangs and introduces a late McGuffin mission to undo the enemy&rsquo;s advantage. Then the set pieces start to feel perfunctory and predictable, even if things aren&rsquo;t tied up with a neat bow at the end (that just feels like sequel bait).&nbsp; The big idea behind the film seems to capitalize on an exciting premise by just piling on more action.&nbsp; So if you thought <em>Rambo: First Blood II</em> was an improvement over <em>First Blood</em>, then you&rsquo;ll love the new <em>Red Dawn</em>. And if you&rsquo;re a sucker for action like me, you might also find your emotions involuntarily drafted into certain moments.</p>
+
+<p>After all, it&rsquo;s hard not to feel answer the call to battle.</p>
+
+<p>Over and out,</p>
+
+<p>Christopher</p>
+
           </div>
         </div>
         <div id="up-next" class="up-next">
-          <div class="row collapse">      
-            <div class="row">
-              <div class="large-12 medium-12 columns">
-                <h1 class="up-next">Up Next</h1>
-              </div>
-            </div>
-            <div class="row">
-              <div class="large-2 medium-2 columns">
-                  &nbsp;
-              </div>
+          <div class="row">
+          
+            
               <div class="large-4 medium-4 columns">
-                <a href="/content/2012/11/22/the-phantom-father.html"><img src="/img/article/thumb/" alt="Red Dawn" /></a>
-                <a href="/content/2012/11/22/the-phantom-father.html">
+                <a href="/content/2014/03/19/veronica-mars.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/veronica-mars.jpg" alt="Veronica Mars" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/19/veronica-mars.html">
                   <div class="review-text">
-                    <h1>The Phantom Father</h1>
-                    <h2><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
+                    <h1>Veronica Mars</h1>
+                    <h2 class="addressee">Dear "We Used to Be Friends", Theme Song</h2>
+                    <h2 class="author">By Di Golding</h2>
                   </div>
                 </a>
               </div>
+          
+            
               <div class="large-4 medium-4 columns">
-                <a href="/content/2012/11/24/the-sessions.html"><img src="/img/article/thumb/" alt="Red Dawn" /></a>
-                <a href="/content/2012/11/24/the-sessions.html">
+                <a href="/content/2014/03/18/filthy-gorgeous-the-bob-guccione-story.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/filthy-gorgeous-the-bob-guccione-story.jpg" alt="Filthy Gorgeous: The Bob Guccione Story" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/18/filthy-gorgeous-the-bob-guccione-story.html">
                   <div class="review-text">
-                    <h1>The Sessions</h1>
-                    <h2><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
+                    <h1>Filthy Gorgeous: The Bob Guccione Story</h1>
+                    <h2 class="addressee">Dear Michael Perlmutter, Music Supervisor</h2>
+                    <h2 class="author">By Casey Tourangeau</h2>
                   </div>
                 </a>
               </div>
-              <div class="large-2 medium-2 columns">
-                &nbsp;
+          
+            
+              <div class="large-4 medium-4 columns">
+                <a href="/content/2014/03/17/mr-peabody-sherman.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/mr-peabody-sherman.jpg" alt="Mr. Peabody & Sherman" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/17/mr-peabody-sherman.html">
+                  <div class="review-text">
+                    <h1>Mr. Peabody & Sherman</h1>
+                    <h2 class="addressee">Dear Wayback Machine, Plot Device</h2>
+                    <h2 class="author">By Di Golding</h2>
+                  </div>
+                </a>
               </div>
-            </div>
+          
           </div>
         </div>
       </section>
@@ -180,7 +243,6 @@
         <div class="comments">
         <div id="disqus_thread" class="disqus_thread"></div>
       </div>
-       </div>
       <script type="text/javascript">
       var disqus_shortname = 'dearcastandcrew';
       (function() {
@@ -193,77 +255,104 @@
       <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
       <!--preview HTML for home page scroll-->
     <div class="post large-4 medium-4 columns" style="display:none;">
-      <a href="/content/2012/11/23/red-dawn.html"><img src="/img/article/thumb/" alt="Red Dawn" /></a>
+      
       <a href="/content/2012/11/23/red-dawn.html">
-        <div class="review-text">
-          <h1>Red Dawn</h1>
-          <h2><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
-          <h2 class="addressee">Dear , </h2>
-          <h2 class="author">By Test Author</h2>
-        </div>
-      </a>
+                  <div class="post-image">
+                    <img src="/img/article/thumb/red-dawn.jpg" alt="Red Dawn" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2012/11/23/red-dawn.html">
+                  <div class="review-text">
+                    <h1>Red Dawn</h1>
+                    <h2 class="addressee">Dear Lindsay Dougherty, Dispatcher</h2>
+                    <h2 class="author">By Christopher Redmond</h2>
+                  </div>
+                </a>
     </div>
     <script>
     //get the movie info from IMDB
     $.ajax({
-      url: "http://omdbapi.com/?i=",
+      
+      url: "http://omdbapi.com/?i=tt1234719",
       dataType: 'jsonp',
       success: function(data) {
-        var title=data.Title;
-        $('#imdb-title').append(title);
-        var html = '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Directed by:</div><div class="imdb-data large-8 medium-8 columns">' + data.Director +'</div>';
+        var html = '<div class="row imdb-info-row no-border full-width">';
+        html += '<img class="imdb-img" src="' +data.Poster +'" />';
+        html += '<span class="imdb-category">Directed by</span><br /><span class="imdb-data">' + data.Director.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Written by:</div><div class="imdb-data large-8 medium-8 columns">' + data.Writer.replace(/\,/g, '<br />') +'</div>';
+        html += '<span class="imdb-category">Written by</span><br /><span class="imdb-data">';
+        var writers = data.Writer;
+        var writers_array = writers.split(',');
+
+        for(var i = 0; i < writers_array.length; i++) {
+           // Trim the excess whitespace.
+           writers_array[i] = writers_array[i].replace(/^\s*/, "").replace(/\s*$/, "");
+           // Add additional code here, such as:
+           if ((writers_array[i].indexOf('characters') == -1) && (writers_array[i].indexOf('story') == -1) && (writers_array[i].indexOf('creator') == -1) && (writers_array[i].indexOf('screen story') == -1) && (writers_array[i].indexOf('television story') == -1) && (writers_array[i].indexOf('article') == -1) && ((writers_array[i].indexOf('play') == -1) || (writers_array[i].indexOf('screenplay') > -1)) && (writers_array[i].indexOf('song') == -1) && (writers_array[i].indexOf('uncredited') == -1) && (writers_array[i].indexOf('also') == -1) && (writers_array[i].indexOf('book') == -1) && (writers_array[i].indexOf('novel') == -1) && (writers_array[i].indexOf('based on') == -1)){
+           html += writers_array[i].replace('(screenplay)', '').replace('(written by)', '').replace('(written for the screen by)', '') + '<br />';
+           }
+        }
+        html += '</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Starring:</div><div class="imdb-data large-8 medium-8 columns">'+ data.Actors.replace(/\,/g, '<br />') +'</div>';
+        html += '<span class="imdb-category">Starring<br /></span><span class="imdb-data">'+ data.Actors.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
-        html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-img large-12 medium-12 columns"><img class="imdb-img" src="' +data.Poster +'" /></div>';
         $('#film-info').append(html);
         html += '</div>';
       }
     });
     </script>
-      <section id="footer">
-          <div class="row collapse">
-      <footer class="footer">
-        <button class="footer"></button>
-        <ul>
-                              <li><a href="/reviews/">Reviews</a>
+      </div>
+    </div>
+<div id="footer">
+      <footer class="mm-fixed-bottom">
+        <div class="footer">
+          <div class="footer-block">
+            <ul>
+                                  <li class="text"><a href="/reviews/">Reviews</a>
             <ul>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="#">Features</a>
+                    <li><a href="/features/">Features</a>
             <ul>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>
-                    <li><a href="#">Podcast</a>
+<!--                     <li><a href="#">Podcast</a>
             <ul>
               <li><a href="#">Archive</a></li>
             </ul>
-          </li>
-                    <li><a href="#">About</a>
+          </li> -->
+                    <li><a href="/about/">About</a>
             <ul>
               <li><a href="/about/writers/">Writers</a></li>
               <li><a href="/about/contact/">Contact</a></li>
             </ul>
           </li>
-          <li><a href="#" id="footer-search-toggle"><i class="fa fa-search" id=""></i> Search</a></li>
-        </ul>
-        <span class="stretch"></span>
-        <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+            </ul>
+          </div>
+          <div class="footer-block">
+            <h1 class="footer-head">Follow</h1>
+            <ul class="social">
+              <li class="social"><a class="social-twitter"></a></li>
+              <li class="social"><a class="social-facebook"></a></li>
+              <li class="social"><a class="social-letterboxd"></a></li>
+              <li class="social"><a class="social-rss"></a></li>
+            </ul>
+          </div>
+          <span class="stretch"></span>
+          <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+        </div>
       </footer>
-    </div>
-    </section>
     </div>
   
   <!-- Search modal overlay -->

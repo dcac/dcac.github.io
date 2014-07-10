@@ -68,7 +68,6 @@ html.mm-opened #mm-blocker, html.mm-blocking #mm-blocker {
 
 .mm-menu {
   background: inherit;
-  background: url('../img/article/logo-sm.png') no-repeat;
   display: none;
   overflow: hidden;
   height: 100%;
@@ -118,8 +117,7 @@ html.mm-opened #mm-blocker, html.mm-blocking #mm-blocker {
   margin: 0; }
 
 .mm-list {
-  font: inherit;
-  font-size: 14px; }
+  font: 700 18px/40px 'Helvetica Neue LT Std', Helvetica, serif; }
   .mm-list a, .mm-list a:hover {
     text-decoration: none; }
   .mm-list > li {
@@ -239,7 +237,7 @@ html.mm-opened .mm-page {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); }
 
 .mm-ismenu {
-  background: #333;
+  background: #636467;
   color: rgba(255, 255, 255, 0.6); }
 
 .mm-menu .mm-list > li:after {

@@ -1,0 +1,15 @@
+<a href="{{ post.url }}">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/{{ post.image }}" alt="{{ post.title }}" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating">{% for i in (1..post.stars) %}<img src="/img/global/star-blue.svg" class="star-small" />{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<img src="/img/global/star-blue-half.svg" class="star-small" />{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img src="/img/global/star-white.svg" class="star-small" />{% endfor %}{% endif %}</div>
+                  </div>
+                </a>
+                
+                <a href="{{ post.url }}">
+                  <div class="review-text">
+                    <h1>{{ post.title }}</h1>
+                    <h2 class="addressee">Dear {{ post.addressee }}, {{ post.position }}</h2>
+                    <h2 class="author">By {{ author.name }}</h2>
+                  </div>
+                </a>

@@ -1,5 +1,6 @@
 ---
 published: true
+imdb: tt1663662
 image: pacific-rim.jpg
 author: Cory Hagart
 stars: 3.5

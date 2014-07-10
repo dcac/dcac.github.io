@@ -1,11 +1,14 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt1232200
+image: thats-my-boy.jpg
+author: jaredy
+stars: 1
+excerpt: "I&rsquo;m going to list some numbers for you. Tell me if they seem significant.</p>
+<p>3, 14, 19, 10.</p>
+<p>No, it&rsquo;s not a list of scene numbers for you to keep track of."
+position: Script Supervisor
+addressee: Ronit Ravich-Boss
 layout: review
 categories:
   - reviews
@@ -15,8 +18,6 @@ title: "That's My Boy"
 comments: true
 tags: [Adam Sandler, comedy, Happy Madison, Letters]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/6/21/thats-my-boy.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf759f/1340294630867/thats-my-boy.jpg" alt="" /></a></span></span></p>
-<p><em><span style="font-size:120%;"><strong>Dear Ronit Ravich-Boss,</strong> Script Supervisor,</span></em></p>
 <p>I&rsquo;m going to list some numbers for you. Tell me if they seem significant.</p>
 <p>3, 14, 19, 10.</p>
 <p>No, it&rsquo;s not a list of scene numbers for you to keep track of. Nor is it a secret code that has to be punched into an underground supercomputer to keep the world from exploding, or the cipher that reveals the true historical birthplace of Jesus Christ. These are, in chronological order, the Rotten Tomatoes scores for your last four films. I don&rsquo;t think either of us will be surprised when the critical consensus for <em>That&rsquo;s My Boy</em> continues the trend.</p>
@@ -28,4 +29,3 @@ tags: [Adam Sandler, comedy, Happy Madison, Letters]
 <p>But, hey, in this economy you have to take what you can get, right? And I have respect for what you do. Keeping track of all that semen surely wasn&rsquo;t easy.</p>
 <p>Sincerely,</p>
 <p>Jared Young</p>
-<p><strong>Status: Junk Mail (1/5)</strong></p></div>

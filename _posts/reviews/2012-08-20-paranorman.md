@@ -1,11 +1,12 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt1623288
+image: paranorman.jpg
+author: caseyt
+stars: 4
+excerpt: "I have to admit, I was surprised. In this post-<em>Toy Story </em>world, where computer animation has become the expected norm, you can forgive one for becoming slightly normalized to the unceasing advances of technology. "
+position: Silicone Caster
+addressee: Liz Allen
 layout: review
 categories:
   - reviews
@@ -15,8 +16,6 @@ title: "ParaNorman"
 comments: true
 tags: [Animation, claymation, comedy, Family, Uncategorized]
 ---
-<div><p><strong><em><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/8/20/paranorman.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7611/1345479641373/paranorman.jpg" alt="" /></a></span></span></em></strong></p>
-<p><strong><em><span style="font-size:120%;">Dear Liz Allen,</span></em></strong><em><span style="font-size:120%;"> Silicone Caster,</span></em></p>
 <p>I have to admit, I was surprised. In this post-<em>Toy Story </em>world, where computer animation has become the expected norm, you can forgive one for becoming slightly normalized to the unceasing advances of technology. Every new animated movie seems to come accompanied by new innovations in realism: hair, clothes, even fingerprints. So I was surprised to still marvel at just how tangible everything looked, and felt, in <em>ParaNorman</em>.</p>
 <p>The story&mdash;about a boy who is an outcast in his town for seeing and communicating with the ghosts&mdash;may be otherworldly, but everything looks like something you can reach out and grab. Which makes sense &ndash; your job as a silicone caster is to actually <em>make</em> the models and puppets used in the stop-motion animation.* The actual physical objects would of course look like, well, actual physical objects and not just a collection of pixels. But the characters in <em>ParaNorman</em> almost pop off the screen. And I&rsquo;m not referring to the 3D.&nbsp;</p>
 <p>I&rsquo;m convinced it &rsquo;s more than physicality that created this illusion. There&rsquo;s a wonderful sense of what I&rsquo;d call relaxed anarchy in the characters. Stop-motion animation is a meticulous process that has to be planned down to the fraction of a second. But here, interactions and details, whether it&rsquo;s a casual game of catch with a dog&rsquo;s ghost, or something as small as the unhinged jaw of a recently-risen zombie, feel unforced and natural (as much as those can feel natural).</p>
@@ -24,5 +23,4 @@ tags: [Animation, claymation, comedy, Family, Uncategorized]
 <p>While the story elements themselves aren&#8217;t exactly new&mdash;and probably not the easiest to translate to a family film (it does have its share of small-scale chills)&mdash;<em>ParaNorman</em>&nbsp;fortunately knows how to mold them into a unique creation.</p>
 <p>Tangibly yours,</p>
 <p>Casey</p>
-<p><strong>Rating: Air Mail (4/5)</strong></p>
 <p>*Speaking of which, the post-credits time-lapse sequence that shows the amount of work in creating just one of these characters is worth sticking around for.&nbsp;</p></div>

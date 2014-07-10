@@ -1,19 +1,18 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt1996264
+image: for-a-good-time-call.jpg
+author: coryh
+stars: 4
+excerpt: "Every movie asks us to believe in a unique little world. Some movies do it by grabbing you by the lapels and driving its proverbial forehead through yours."
+position: Set Decorator
+addressee: Sarah Sprawls
 layout: review
 categories: reviews
 title: "For a Good Time, Call..."
 comments: true
 tags: [Ari Raynor, comedy, For a good time call, Justin Travis, Lauren Miller, Review, Seth Rogan, Uncategorized]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/9/30/for-a-good-time-call.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76aa/1349015639173/For%20a%20Good%20Time%20Call.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Sarah Sprawls</strong>, Set Decorator</em></p>
 <p>Every movie asks us to believe in a unique little world. Some movies do it by grabbing you by the lapels and driving its proverbial forehead through yours. Others just sit in the corner, crying, and guilting you into asking &ldquo;What&rsquo;s wrong?&rdquo; <em>For a Good Time, Call&hellip; </em>dumps a bunch of brightly colored Skittles in your hands, cranks the tunes, gives you a smirk, slaps your ass, and hollers, &ldquo;Let&rsquo;s go ride ponies!&rdquo; And lo, I <em>did</em> believe.</p>
 <p>Your job is to help make this happen. Every little visual detail on set needs to contribute&mdash;anything out of place can hinder our belief. It&rsquo;s your job to smooth them out, make these little filmmaking necessities go unnoticed. Sounds bad, I know, but I was looking for faults. I almost couldn&rsquo;t believe that a movie this slight could carry me along so easily.</p>
 <p>The plot is very straightforward. College acquaintances Lauren (Lauren Miller) and Katie (Ari Graynor) share an unfortunate incident that causes them to instantly dislike each other.&nbsp; The harsh financial realities of living in NYC motivate them to swallow their pride and move into together. This allows them to make ends meet and to start to become friends.</p>
@@ -23,4 +22,3 @@ tags: [Ari Raynor, comedy, For a good time call, Justin Travis, Lauren Miller, R
 <p>Wow, listen to me. I was surprised and not the least bit disappointed. I sat down and watched a movie that was fun and light, but without any of the shortcuts or sad societal clich&eacute;s that make me want to tear my hair out.</p>
 <p>Call me anytime.</p>
 <p>Cory</p>
-<p><strong><em>Status: Air Mail (4/5)</em></strong></p></div>

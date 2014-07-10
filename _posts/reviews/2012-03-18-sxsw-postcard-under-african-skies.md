@@ -1,22 +1,21 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt2112868
+image: under-african-skies.jpeg
+author: caseyt
+stars: 4
+excerpt: "Editing a documentary&mdash;especially one with so much musical performance&mdash;is a truly difficult task. And you made it look easy. Those scenes of Paul Simon reuniting with the South African musicians from <em>Graceland</em>? Masterful&mdash;they perfectly captured the joy of these artists playing together."
+position: Editor
+addressee: Joshua L. Pearson
 layout: review
 categories:
   - reviews
   - streaming
   - on-video
-title: "SXSW Postcard: Under African Skies"
+title: "Under African Skies"
 comments: true
 tags: [streaming,concert, documentary, Joe Berlinger, Paul Simon, Postcards, SXSW]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf752a/1336620075647/underafricanskies.jpg" alt="" /></span></span></p>
-<p><span style="font-size:120%;"><em><strong>Dear Joshua L. Pearson,</strong> Editor</em></span></p>
 <p>Screw you man.</p>
 <p>No, seriously.</p>
 <p>Editing a documentary&mdash;especially one with so much musical performance&mdash;is a truly difficult task. And you made it look easy. Those scenes of Paul Simon reuniting with the South African musicians from <em>Graceland</em>? Masterful&mdash;they perfectly captured the joy of these artists playing together</p>
@@ -25,5 +24,3 @@ tags: [streaming,concert, documentary, Joe Berlinger, Paul Simon, Postcards, SXS
 <p>So in summary: screw you.</p>
 <p>Yours in annoyance,</p>
 <p>Casey the Bitter <em>&nbsp;</em></p>
-<p><strong> </strong></p>
-<p><strong>4/5 - Air Mail</strong></p></div>

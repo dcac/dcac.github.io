@@ -15,8 +15,7 @@
     <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
-<!--   	<link href="/css/global.css" type="text/css" rel="stylesheet" /> -->
-  	
+    
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -26,6 +25,7 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
+      $('nav#menu-left').css({'display':'block'});
     });
 		</script>
 
@@ -43,30 +43,31 @@
 
 
   <body>
-      <nav id="menu-left">
+  <div id="nav-test"><a href="/"><img src="/img/global/dcac-full-logo-white.svg" class="side-home-link" /></a></div>
+  <nav id="menu-left">
     <!-- Sidebar Nav -->
       <ul>
-        <li><a href="#" id="side-search-toggle"><i class="fa fa-search" id=""></i></a></li>
-                            <li><a href="/reviews/">Reviews</a>
+        <li><a href="#" id="side-search-toggle"><i class="fa fa-search"></i> Search</a></li>
+                            <li class="text"><a href="/reviews/">Reviews</a>
             <ul>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="#">Features</a>
+                    <li><a href="/features/">Features</a>
             <ul>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>
-                    <li><a href="#">Podcast</a>
+<!--                     <li><a href="#">Podcast</a>
             <ul>
               <li><a href="#">Archive</a></li>
             </ul>
-          </li>
-                    <li><a href="#">About</a>
+          </li> -->
+                    <li><a href="/about/">About</a>
             <ul>
               <li><a href="/about/writers/">Writers</a></li>
               <li><a href="/about/contact/">Contact</a></li>
@@ -76,106 +77,169 @@
     <!-- End Sidebar Nav -->
     </nav>
     <div class="container-shadow" id="main-container">    
-      
-      <div id="nav-button-container">
-        <button class="left-off-canvas-toggle mm-fixed-top" id="nav-toggle" >Dear Cast &amp; Crew Navigation</button>
+             
+<div class="full-black">
+      <div class="row collapse">
+        <div class="section-header">
+          <section class="top-nav" id="top-nav">
+            <a href="/" class="logo-link"></a>
+            <ul>
+              <li><a href="/reviews/">Reviews</a></li>
+              <li><a href="/features/" class="slash">Features</a></li>
+              <!-- <li><a href="/podcast/">Podcast</a></li> -->
+              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
+            </ul>
+          </section>
+        </div>
       </div>
-      <div class="row full-width collapse">
-        <div class="large-12 medium-12 small-12 columns">
-          <div id="story-title">
-            <div id="title-img" style="background-image:url(/img/article/);">
-              <section id="main-title" class="main-title ">
-                <div class="row collapse" style="z-index:15;">
-                 <div class="large-12 medium-12 small-12 columns">
-                    <button id="menu-toggle-top" class="logo-black">Dear Cast &amp; Crew Navigation</button>
-                    <h1 class="hero">The Strange Case of Angelica</h1>
-                    <h2 class="hero">
-                      By: Test Author</a>&nbsp;&nbsp;|&nbsp;&nbsp;Mailed on: December 04, 2012
-                    </h2>
-                    <p class="article-share">
-                      <a href="https://twitter.com/intent/tweet?text=Dear  ,  for The Strange Case of Angelica%0A"><i class="fa fa-twitter"></i></a>
-                      <a href="#"><i class="fa fa-facebook"></i></a>
-                    </p>
-                  </div>
+    </div>
+        
+    <div class="mini-top-nav-hidden mm-fixed-top" id="mini-top-nav">
+      <nav class="top-bar" data-topbar>
+        <ul class="title-area">
+          <li class="name dcac-logo" id="nav-toggle">
+            <h1><a href="#">Dear Cast & Crew</a></h1>
+          </li>
+        </ul>
+        <section class="top-bar-section">
+          <!-- Right Nav Section -->
+          <ul class="right">
+            <li class="search" id="mini-top-search-toggle"><a href="#" class="mini-search-link"><i class="fa fa-search"></i></a></li>
+          </ul>
+        </section>
+      </nav>
+    </div>
+
+      <section>
+        <div id="story-title" class="title-info" data-equalizer>
+          <div class="title-img" style="background-image:url(/img/article/the-strange-case-of-angelica.jpg);"></div>
+          <div class="row" data-equalizer-watch >
+            <div class="large-4 medium-4 small-4 columns" data-equalizer-watch>
+              <div class="review-status">
+                <h1 class="hero">The Strange Case of Angelica</h1>
+                <h2 class="hero-author">
+                  By <a href="/about/writers/jaredy">Jared Young</a>
+                </h2>
+                <h2 class="hero-date">
+                  Mailed on December 04, 2012
+                </h2>
+                <hr class="title-divider" />
+                <img src="/img/global/stamp.svg" class="standard review-stamp" />
+                Air<br />Mail<br />
+                    <div class="large-star-rating">
+                      <img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-white.svg" />
                 </div>
-              </section>
-              <button class="down-arrow animated bounce" id="down-arrow"></button>
+              </div>
+            </div>
+            <div class="large-8 medium-8 small-8 columns" data-equalizer-watch>
+              <div class="review-people">
+                <h3><span class="addressee">Dear Manoel de Oliveira</span><br />
+                  <span class="position">Director</span>
+                </h3>
+              </div>
             </div>
           </div>
-        </div><!-- title -->
-      </div>
-      <section class="main-copy">
-        <div class="row" id="body-text">
-          <div class="body-addressee large-12 medium-12 columns">
-            <h3>Dear , ,</h3>
-          </div>
         </div>
+      </section>
+      <section id="body-text">
         <div class="row">
-          <div class="large-8 medium-8 columns" id="review-copy">
-            <div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/12/4/the-strange-case-of-angelica.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7756/1354634690071/strange-case-of-angelica.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:120%;"><strong>Dear Manoel de Oliveira,</strong> Director,&nbsp;</em></p>
-<p>You must tell me your secret. Echinacea? Gene supplements? Cryogenic freezing? It&rsquo;s not that I find it amazing that you&rsquo;ve lived to the ripe old age 103; no, Chinese peasants and Indian yogis do it all the time. What I find amazing is that you&rsquo;ve maintained your artistic faculties to this late stage, and &ndash; perhaps <em>more</em> amazingly &ndash; are using them to pose questions about the very act of filmmaking that, after more than eight decades behind the camera, you&rsquo;re still engaged in.</p>
-<p>There&rsquo;s a distinct timelessness to your 2010 film <em>The Strange Case of Angelica</em>. And I suspect it&rsquo;s more than just the usual encroachment of Europe&rsquo;s hefty cultural history. It&rsquo;s impossible to tell, in the opening few scenes, what year the film takes places in. Only later, as we follow a sleek modern sedan cruising through the streets of a contemporary Portuguese city, is it clear we are rooted in the present.</p>
-<p>But only sort of. Right, Manny?&nbsp;</p>
-<p>Anachronisms reign throughout; Isaac &ndash; a Jewish photographer who is summoned to the estate of a wealthy family to take a portrait of their recently deceased daughter &ndash; uses a 60s-era Leica, and his studio is decidedly analog: a lot of plastic bins filled with chemicals, developing proofs clothes-pinned to hanging wires. Ancient funerary customs are observed, yet references are made to the current European economic crisis and the study of antimatter. &nbsp;</p>
-<p>And still, this film feels a half-century old. At least.&nbsp;</p>
-<p>Why? The camera is heavy, rooted to the ground. With very few exceptions, it never tilts; never pans; never tracks. You&rsquo;ve cut this story together from a series of carefully composed static shots. This aesthetic is reflected tonally. Your dialogue is straightforward; your plotting is linear. Some elements suffer this approach (Isaac&rsquo;s relationship with his wisecracking lady landlord feels like something from a bad sitcom). Others, however, are buoyed by it. In the middle act, you conjure a strange dream sequence that might seem absurd except for how perfectly it represents the ideas at the heart of your film: the tension between new and old.&nbsp;</p>
-<p>Funny how one might watch this and, not knowing the filmmaker is a centenarian, accuse the auteur of not knowing enough about film theory. But it&#8217;s the opposite of that, isn&#8217;t it? It&#8217;s not a lack that we see onscreen; rather a stripping-down to the essentials. In fact, one of Isaac&rsquo;s fellow lodgers uses an apt filmic metaphor in that discussion about the duality of matter and antimatter: &ldquo;No big special effects, like on a Hollywood movie.&rdquo;</p>
-<p>I guess, then, your advice about defying the laws of aging is right there in the film: the old is the fundament upon which everything new is built.&nbsp;</p>
-<p>When Isaac gazes out of his window, one afternoon, and spies a group of laborers working in the vineyards on the other side of the river, his landlady asks him why he&rsquo;s so interested in watching them &ldquo;work the old-fashioned way.&rdquo;&nbsp;</p>
-<p>Isaac tells her: &ldquo;Old-fashioned work interests me.&rdquo;&nbsp;</p>
-<p>She counterpoints: &ldquo;They&#8217;re the only ones who do it the old way. Now we use machines.&rdquo;</p>
-<p>Yes, everyone else is obsessed with the machinery, but you, Manoel&mdash; you&rsquo;re doing it the old way. Bravo!</p>
-<p>Com carinho,</p>
-<p>Jared Young&nbsp;</p>
-<p><em><strong>Status: Air Mail (4/5)</strong></em></p></div>
-
-          </div>
           <div class="large-4 medium-4 columns" id="film-row">
             <div id="review-sidebar">
               <div id="film-info" class="film-info">
-                <h1 class="film" id="imdb-title"></h1>
-                <p>
-                  <strong><em></em></strong><br />
-                  <i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
-                </p>
-              </div>
+             </div>
             </div>
+          </div>
+          <div class="large-8 medium-8 columns" id="review-copy">
+            <p class="intro">Dear Manoel de Oliveira</p>
+            <p class="intro">You must tell me your secret. Echinacea? Gene supplements? Cryogenic freezing? It&rsquo;s not that I find it amazing that you&rsquo;ve lived to the ripe old age 103; no, Chinese peasants and Indian yogis do it all the time. What I find amazing is that you&rsquo;ve maintained your artistic faculties to this late stage, and &ndash; perhaps <em>more</em> amazingly &ndash; are using them to pose questions about the very act of filmmaking that, after more than eight decades behind the camera, you&rsquo;re still engaged in.</p>
+
+<p>There&rsquo;s a distinct timelessness to your 2010 film <em>The Strange Case of Angelica</em>. And I suspect it&rsquo;s more than just the usual encroachment of Europe&rsquo;s hefty cultural history. It&rsquo;s impossible to tell, in the opening few scenes, what year the film takes places in. Only later, as we follow a sleek modern sedan cruising through the streets of a contemporary Portuguese city, is it clear we are rooted in the present.</p>
+
+<p>But only sort of. Right, Manny?&nbsp;</p>
+
+<p>Anachronisms reign throughout; Isaac &ndash; a Jewish photographer who is summoned to the estate of a wealthy family to take a portrait of their recently deceased daughter &ndash; uses a 60s-era Leica, and his studio is decidedly analog: a lot of plastic bins filled with chemicals, developing proofs clothes-pinned to hanging wires. Ancient funerary customs are observed, yet references are made to the current European economic crisis and the study of antimatter. &nbsp;</p>
+
+<p>And still, this film feels a half-century old. At least.&nbsp;</p>
+
+<p>Why? The camera is heavy, rooted to the ground. With very few exceptions, it never tilts; never pans; never tracks. You&rsquo;ve cut this story together from a series of carefully composed static shots. This aesthetic is reflected tonally. Your dialogue is straightforward; your plotting is linear. Some elements suffer this approach (Isaac&rsquo;s relationship with his wisecracking lady landlord feels like something from a bad sitcom). Others, however, are buoyed by it. In the middle act, you conjure a strange dream sequence that might seem absurd except for how perfectly it represents the ideas at the heart of your film: the tension between new and old.&nbsp;</p>
+
+<p>Funny how one might watch this and, not knowing the filmmaker is a centenarian, accuse the auteur of not knowing enough about film theory. But it&#8217;s the opposite of that, isn&#8217;t it? It&#8217;s not a lack that we see onscreen; rather a stripping-down to the essentials. In fact, one of Isaac&rsquo;s fellow lodgers uses an apt filmic metaphor in that discussion about the duality of matter and antimatter: &ldquo;No big special effects, like on a Hollywood movie.&rdquo;</p>
+
+<p>I guess, then, your advice about defying the laws of aging is right there in the film: the old is the fundament upon which everything new is built.&nbsp;</p>
+
+<p>When Isaac gazes out of his window, one afternoon, and spies a group of laborers working in the vineyards on the other side of the river, his landlady asks him why he&rsquo;s so interested in watching them &ldquo;work the old-fashioned way.&rdquo;&nbsp;</p>
+
+<p>Isaac tells her: &ldquo;Old-fashioned work interests me.&rdquo;&nbsp;</p>
+
+<p>She counterpoints: &ldquo;They&#8217;re the only ones who do it the old way. Now we use machines.&rdquo;</p>
+
+<p>Yes, everyone else is obsessed with the machinery, but you, Manoel&mdash; you&rsquo;re doing it the old way. Bravo!</p>
+
+<p>Com carinho,</p>
+
           </div>
         </div>
         <div id="up-next" class="up-next">
-          <div class="row collapse">      
-            <div class="row">
-              <div class="large-12 medium-12 columns">
-                <h1 class="up-next">Up Next</h1>
-              </div>
-            </div>
-            <div class="row">
-              <div class="large-2 medium-2 columns">
-                  &nbsp;
-              </div>
+          <div class="row">
+          
+            
               <div class="large-4 medium-4 columns">
-                <a href="/content/2012/12/03/nashville-shownotes-s01e07.html"><img src="/img/article/thumb/" alt="The Strange Case of Angelica" /></a>
-                <a href="/content/2012/12/03/nashville-shownotes-s01e07.html">
+                <a href="/content/2014/03/19/veronica-mars.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/veronica-mars.jpg" alt="Veronica Mars" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/19/veronica-mars.html">
                   <div class="review-text">
-                    <h1>Nashville — Shownotes S01E07</h1>
-                    <h2><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
+                    <h1>Veronica Mars</h1>
+                    <h2 class="addressee">Dear "We Used to Be Friends", Theme Song</h2>
+                    <h2 class="author">By Di Golding</h2>
                   </div>
                 </a>
               </div>
+          
+            
               <div class="large-4 medium-4 columns">
-                <a href="/content/2012/12/07/dont-you-forget-about-me.html"><img src="/img/article/thumb/" alt="The Strange Case of Angelica" /></a>
-                <a href="/content/2012/12/07/dont-you-forget-about-me.html">
+                <a href="/content/2014/03/18/filthy-gorgeous-the-bob-guccione-story.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/filthy-gorgeous-the-bob-guccione-story.jpg" alt="Filthy Gorgeous: The Bob Guccione Story" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/18/filthy-gorgeous-the-bob-guccione-story.html">
                   <div class="review-text">
-                    <h1>Don't You Forget About Me</h1>
-                    <h2><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
+                    <h1>Filthy Gorgeous: The Bob Guccione Story</h1>
+                    <h2 class="addressee">Dear Michael Perlmutter, Music Supervisor</h2>
+                    <h2 class="author">By Casey Tourangeau</h2>
                   </div>
                 </a>
               </div>
-              <div class="large-2 medium-2 columns">
-                &nbsp;
+          
+            
+              <div class="large-4 medium-4 columns">
+                <a href="/content/2014/03/17/mr-peabody-sherman.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/mr-peabody-sherman.jpg" alt="Mr. Peabody & Sherman" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/17/mr-peabody-sherman.html">
+                  <div class="review-text">
+                    <h1>Mr. Peabody & Sherman</h1>
+                    <h2 class="addressee">Dear Wayback Machine, Plot Device</h2>
+                    <h2 class="author">By Di Golding</h2>
+                  </div>
+                </a>
               </div>
-            </div>
+          
           </div>
         </div>
       </section>
@@ -183,7 +247,6 @@
         <div class="comments">
         <div id="disqus_thread" class="disqus_thread"></div>
       </div>
-       </div>
       <script type="text/javascript">
       var disqus_shortname = 'dearcastandcrew';
       (function() {
@@ -196,77 +259,104 @@
       <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
       <!--preview HTML for home page scroll-->
     <div class="post large-4 medium-4 columns" style="display:none;">
-      <a href="/content/2012/12/04/the-strange-case-of-angelica.html"><img src="/img/article/thumb/" alt="The Strange Case of Angelica" /></a>
+      
       <a href="/content/2012/12/04/the-strange-case-of-angelica.html">
-        <div class="review-text">
-          <h1>The Strange Case of Angelica</h1>
-          <h2><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
-          <h2 class="addressee">Dear , </h2>
-          <h2 class="author">By Test Author</h2>
-        </div>
-      </a>
+                  <div class="post-image">
+                    <img src="/img/article/thumb/the-strange-case-of-angelica.jpg" alt="The Strange Case of Angelica" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2012/12/04/the-strange-case-of-angelica.html">
+                  <div class="review-text">
+                    <h1>The Strange Case of Angelica</h1>
+                    <h2 class="addressee">Dear Manoel de Oliveira, Director</h2>
+                    <h2 class="author">By Jared Young</h2>
+                  </div>
+                </a>
     </div>
     <script>
     //get the movie info from IMDB
     $.ajax({
-      url: "http://omdbapi.com/?i=",
+      
+      url: "http://omdbapi.com/?i=tt1282153",
       dataType: 'jsonp',
       success: function(data) {
-        var title=data.Title;
-        $('#imdb-title').append(title);
-        var html = '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Directed by:</div><div class="imdb-data large-8 medium-8 columns">' + data.Director +'</div>';
+        var html = '<div class="row imdb-info-row no-border full-width">';
+        html += '<img class="imdb-img" src="' +data.Poster +'" />';
+        html += '<span class="imdb-category">Directed by</span><br /><span class="imdb-data">' + data.Director.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Written by:</div><div class="imdb-data large-8 medium-8 columns">' + data.Writer.replace(/\,/g, '<br />') +'</div>';
+        html += '<span class="imdb-category">Written by</span><br /><span class="imdb-data">';
+        var writers = data.Writer;
+        var writers_array = writers.split(',');
+
+        for(var i = 0; i < writers_array.length; i++) {
+           // Trim the excess whitespace.
+           writers_array[i] = writers_array[i].replace(/^\s*/, "").replace(/\s*$/, "");
+           // Add additional code here, such as:
+           if ((writers_array[i].indexOf('characters') == -1) && (writers_array[i].indexOf('story') == -1) && (writers_array[i].indexOf('creator') == -1) && (writers_array[i].indexOf('screen story') == -1) && (writers_array[i].indexOf('television story') == -1) && (writers_array[i].indexOf('article') == -1) && ((writers_array[i].indexOf('play') == -1) || (writers_array[i].indexOf('screenplay') > -1)) && (writers_array[i].indexOf('song') == -1) && (writers_array[i].indexOf('uncredited') == -1) && (writers_array[i].indexOf('also') == -1) && (writers_array[i].indexOf('book') == -1) && (writers_array[i].indexOf('novel') == -1) && (writers_array[i].indexOf('based on') == -1)){
+           html += writers_array[i].replace('(screenplay)', '').replace('(written by)', '').replace('(written for the screen by)', '') + '<br />';
+           }
+        }
+        html += '</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Starring:</div><div class="imdb-data large-8 medium-8 columns">'+ data.Actors.replace(/\,/g, '<br />') +'</div>';
+        html += '<span class="imdb-category">Starring<br /></span><span class="imdb-data">'+ data.Actors.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
-        html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-img large-12 medium-12 columns"><img class="imdb-img" src="' +data.Poster +'" /></div>';
         $('#film-info').append(html);
         html += '</div>';
       }
     });
     </script>
-      <section id="footer">
-          <div class="row collapse">
-      <footer class="footer">
-        <button class="footer"></button>
-        <ul>
-                              <li><a href="/reviews/">Reviews</a>
+      </div>
+    </div>
+<div id="footer">
+      <footer class="mm-fixed-bottom">
+        <div class="footer">
+          <div class="footer-block">
+            <ul>
+                                  <li class="text"><a href="/reviews/">Reviews</a>
             <ul>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="#">Features</a>
+                    <li><a href="/features/">Features</a>
             <ul>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>
-                    <li><a href="#">Podcast</a>
+<!--                     <li><a href="#">Podcast</a>
             <ul>
               <li><a href="#">Archive</a></li>
             </ul>
-          </li>
-                    <li><a href="#">About</a>
+          </li> -->
+                    <li><a href="/about/">About</a>
             <ul>
               <li><a href="/about/writers/">Writers</a></li>
               <li><a href="/about/contact/">Contact</a></li>
             </ul>
           </li>
-          <li><a href="#" id="footer-search-toggle"><i class="fa fa-search" id=""></i> Search</a></li>
-        </ul>
-        <span class="stretch"></span>
-        <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+            </ul>
+          </div>
+          <div class="footer-block">
+            <h1 class="footer-head">Follow</h1>
+            <ul class="social">
+              <li class="social"><a class="social-twitter"></a></li>
+              <li class="social"><a class="social-facebook"></a></li>
+              <li class="social"><a class="social-letterboxd"></a></li>
+              <li class="social"><a class="social-rss"></a></li>
+            </ul>
+          </div>
+          <span class="stretch"></span>
+          <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+        </div>
       </footer>
-    </div>
-    </section>
     </div>
   
   <!-- Search modal overlay -->

@@ -1,9 +1,10 @@
 ---
 published: true
-image: the-dark-knight-rises.jpg
+imdb: tt1345836
+image:  the-dark-knight-rises.jpg
 author: christopherr
 stars: 4.5
-excerpt: 
+excerpt: "My poor Devil dressed in black. You bore the brunt of an unprecedented frenzy. Not only did you guard precious secrets from a rabid public, but you dealt with elaborate battle sequences involving thousands of people."
 position: Set Security
 addressee: Jason Devil
 layout: review

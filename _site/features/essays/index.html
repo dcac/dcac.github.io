@@ -15,8 +15,7 @@
     <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
-<!--   	<link href="/css/global.css" type="text/css" rel="stylesheet" /> -->
-  	
+    
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -26,6 +25,7 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
+      $('nav#menu-left').css({'display':'block'});
     });
 		</script>
 
@@ -43,30 +43,31 @@
 
 
   <body>
-      <nav id="menu-left">
+  <div id="nav-test"><a href="/"><img src="/img/global/dcac-full-logo-white.svg" class="side-home-link" /></a></div>
+  <nav id="menu-left">
     <!-- Sidebar Nav -->
       <ul>
-        <li><a href="#" id="side-search-toggle"><i class="fa fa-search" id=""></i></a></li>
-                            <li><a href="/reviews/">Reviews</a>
+        <li><a href="#" id="side-search-toggle"><i class="fa fa-search"></i> Search</a></li>
+                            <li class="text"><a href="/reviews/">Reviews</a>
             <ul>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="#">Features</a>
+                    <li><a href="/features/">Features</a>
             <ul>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>
-                    <li><a href="#">Podcast</a>
+<!--                     <li><a href="#">Podcast</a>
             <ul>
               <li><a href="#">Archive</a></li>
             </ul>
-          </li>
-                    <li><a href="#">About</a>
+          </li> -->
+                    <li><a href="/about/">About</a>
             <ul>
               <li><a href="/about/writers/">Writers</a></li>
               <li><a href="/about/contact/">Contact</a></li>
@@ -76,23 +77,25 @@
     <!-- End Sidebar Nav -->
     </nav>
     <div class="container-shadow" id="main-container">    
-              <div class="full-black">
-      <div class="row">
+            
+<div class="full-black">
+      <div class="row collapse">
         <div class="section-header">
           <section class="top-nav" id="top-nav">
+            <a href="/" class="logo-link"></a>
             <ul>
               <li><a href="/reviews/">Reviews</a></li>
-              <li><a href="/features/">Features</a></li>
-              <li><a href="/podcast/">Podcast</a></li>
-              <li><a href="/about/">About</a></li>
-              <li><a href="#" id="top-search-toggle"?<i class="fa fa-search"></i><a></li>
+              <li><a href="/features/" class="slash">Features</a></li>
+              <!-- <li><a href="/podcast/">Podcast</a></li> -->
+              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
             </ul>
           </section>
         </div>
       </div>
     </div>
-    
-    <div class="mini-top-nav-hidden" id="mini-top-nav">
+        
+    <div class="mini-top-nav-hidden mm-fixed-top" id="mini-top-nav">
       <nav class="top-bar" data-topbar>
         <ul class="title-area">
           <li class="name dcac-logo" id="nav-toggle">
@@ -102,7 +105,7 @@
         <section class="top-bar-section">
           <!-- Right Nav Section -->
           <ul class="right">
-            <li class="search" id="mini-top-search-toggle'"><a href="#"><i class="fa fa-search"></i></a></li>
+            <li class="search" id="mini-top-search-toggle"><a href="#" class="mini-search-link"><i class="fa fa-search"></i></a></li>
           </ul>
         </section>
       </nav>
@@ -123,86 +126,10 @@
 
       <div class="row posts-grid" id="posts-grid">
         
-        
-         <div class="section-post large-4 medium-4 columns">
-          <a href="/content/2013/06/06/out-of-darkness-revisiting-the-wrath-of-khan.html" class="thumbnail"><img src="/img/article/thumb/" alt="Out of Darkness: Revisiting The Wrath of Khan" /></a>
-          <a href="/content/2013/06/06/out-of-darkness-revisiting-the-wrath-of-khan.html">
-            <div class="section-review-text">
-              <h1>Out of Darkness: Revisiting The Wrath of Khan</h1>
-              <h2 class="star-rating"><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
-              <h2 class="author">By Jared Young</h2>
-            </div>
-          </a>
-        </div>
-        
-        
-         <div class="section-post large-4 medium-4 columns">
-          <a href="/content/2013/02/18/finding-god-in-the-films-of-2012-pt2.html" class="thumbnail"><img src="/img/article/thumb/" alt="Finding God in the Films of 2012 - Pt.2" /></a>
-          <a href="/content/2013/02/18/finding-god-in-the-films-of-2012-pt2.html">
-            <div class="section-review-text">
-              <h1>Finding God in the Films of 2012 - Pt.2</h1>
-              <h2 class="star-rating"><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
-              <h2 class="author">By Christopher Redmond</h2>
-            </div>
-          </a>
-        </div>
-        
-        
-         <div class="section-post large-4 medium-4 columns">
-          <a href="/content/2013/02/18/finding-god-in-the-films-of-2012-pt-3.html" class="thumbnail"><img src="/img/article/thumb/" alt="Finding God in the FIlms of 2012 - Pt. 3" /></a>
-          <a href="/content/2013/02/18/finding-god-in-the-films-of-2012-pt-3.html">
-            <div class="section-review-text">
-              <h1>Finding God in the FIlms of 2012 - Pt. 3</h1>
-              <h2 class="star-rating"><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
-              <h2 class="author">By Christopher Redmond</h2>
-            </div>
-          </a>
-        </div>
-        
-        
-         <div class="section-post large-4 medium-4 columns">
-          <a href="/content/2013/02/18/finding-god-in-the-films-of-2012-pt-1.html" class="thumbnail"><img src="/img/article/thumb/" alt="Finding God in the Films of 2012 - Pt. 1" /></a>
-          <a href="/content/2013/02/18/finding-god-in-the-films-of-2012-pt-1.html">
-            <div class="section-review-text">
-              <h1>Finding God in the Films of 2012 - Pt. 1</h1>
-              <h2 class="star-rating"><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
-              <h2 class="author">By Christopher Redmond</h2>
-            </div>
-          </a>
-        </div>
-        
-        
-         <div class="section-post large-4 medium-4 columns">
-          <a href="/content/2012/12/13/the-make-up-of-2012-pt-2.html" class="thumbnail"><img src="/img/article/thumb/" alt="The Make-Up of 2012 - Pt. 2" /></a>
-          <a href="/content/2012/12/13/the-make-up-of-2012-pt-2.html">
-            <div class="section-review-text">
-              <h1>The Make-Up of 2012 - Pt. 2</h1>
-              <h2 class="star-rating"><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
-              <h2 class="author">By Christopher Redmond</h2>
-            </div>
-          </a>
-        </div>
-        
-        
-         <div class="section-post large-4 medium-4 columns end">
-          <a href="/content/2012/12/12/the-make-up-of-2012-pt-1.html" class="thumbnail"><img src="/img/article/thumb/" alt="The Make-Up of 2012 - Pt. 1" /></a>
-          <a href="/content/2012/12/12/the-make-up-of-2012-pt-1.html">
-            <div class="section-review-text">
-              <h1>The Make-Up of 2012 - Pt. 1</h1>
-              <h2 class="star-rating"><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
-              <h2 class="author">By Christopher Redmond</h2>
-            </div>
-          </a>
-        </div>
-        
       </div>
       <div class="row center">
         <ul class="pagination">
             
-            
-              <li class="current">1</li>
-            
-          
           
             <li class="previous off"><i class="fa fa-step-backward"></i></li>
           
@@ -211,43 +138,52 @@
           
         </ul>
       </div>
-      <section id="footer">
-          <div class="row collapse">
-      <footer class="footer">
-        <button class="footer"></button>
-        <ul>
-                              <li><a href="/reviews/">Reviews</a>
+    </div>
+<div id="footer">
+      <footer class="mm-fixed-bottom">
+        <div class="footer">
+          <div class="footer-block">
+            <ul>
+                                  <li class="text"><a href="/reviews/">Reviews</a>
             <ul>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="#">Features</a>
+                    <li><a href="/features/">Features</a>
             <ul>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>
-                    <li><a href="#">Podcast</a>
+<!--                     <li><a href="#">Podcast</a>
             <ul>
               <li><a href="#">Archive</a></li>
             </ul>
-          </li>
-                    <li><a href="#">About</a>
+          </li> -->
+                    <li><a href="/about/">About</a>
             <ul>
               <li><a href="/about/writers/">Writers</a></li>
               <li><a href="/about/contact/">Contact</a></li>
             </ul>
           </li>
-          <li><a href="#" id="footer-search-toggle"><i class="fa fa-search" id=""></i> Search</a></li>
-        </ul>
-        <span class="stretch"></span>
-        <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+            </ul>
+          </div>
+          <div class="footer-block">
+            <h1 class="footer-head">Follow</h1>
+            <ul class="social">
+              <li class="social"><a class="social-twitter"></a></li>
+              <li class="social"><a class="social-facebook"></a></li>
+              <li class="social"><a class="social-letterboxd"></a></li>
+              <li class="social"><a class="social-rss"></a></li>
+            </ul>
+          </div>
+          <span class="stretch"></span>
+          <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+        </div>
       </footer>
-    </div>
-    </section>
     </div>
   
   <!-- Search modal overlay -->

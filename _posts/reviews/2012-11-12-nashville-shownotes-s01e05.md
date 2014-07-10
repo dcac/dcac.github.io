@@ -1,7 +1,8 @@
 ---
 published: true
-image:
-author: test 
+imdb: 
+image: 
+author: christopherr 
 stars: 
 excerpt: 
 position: 

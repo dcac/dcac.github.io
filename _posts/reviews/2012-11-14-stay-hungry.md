@@ -1,19 +1,18 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt0075268
+image: stay-hungry.jpg
+author: caseyt
+stars: 3
+excerpt: "Arnold dials it back and for a role that's not only a good fit, but also provides the opportunity to work with a big name director, requiring more than just his Mr. Universe credentials."
+position: Actor
+addressee: Arnold Schwarzenegger
 layout: review
 categories: reviews
 title: "Stay Hungry"
 comments: true
 tags: [arnold schwarzenegger, bob rafelson, body-building, cinema, drama, Early Arnold, Jeff Bridges, Letters, sally field, seventies]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/11/14/stay-hungry.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf770b/1352906585039/stay-hungry.jpg" alt="" /></a></span></span></p>
-<p><span style="font-size:120%;"><strong><em>Dear Arnold Schwarzenegger,</em></strong><em> Actor,</em></span></p>
 <p>So here we are, seven years after the release of <em>Hercules in New York.</em> It looks like the, shall we say, <a href="/letters/2012/11/6/hercules-in-new-york.html">&ldquo;interesting&rdquo; way that film turned</a> out forced you to rethink your Hollywood career trajectory. Instead of rushing headlong into leading roles, it seems you dialed it back and looked for roles that were not only a good fit, but also provided the opportunity to work with some big name directors. Roles that required more than just your Mr. Universe credentials.</p>
 <p>First, and maybe due to your experience being overdubbed in <em>Hercules, </em>you took a very minor and speechless part in Robert Altman&rsquo;s classic neo-noir <em>The Long Goodbye</em>. Sure, the uncredited role of &ldquo;Hood in Augustine&#8217;s Office&rdquo; probably didn&rsquo;t turn any casting agent heads, but working with the hot, post-<em>MASH,</em> post-<em>McCabe &amp; Mrs. Miller</em> Altman must have been its own reward. This was the 70s, after all, and directors were Hollywood&rsquo;s new stars. If nothing else, it had to have been a master class on the new way to make films.</p>
 <p>After that, we come to <em>Stay Hungry.</em></p>
@@ -24,5 +23,3 @@ tags: [arnold schwarzenegger, bob rafelson, body-building, cinema, drama, Early 
 <p>Just more bad than I wanted it to be.</p>
 <p>Flexingly yours,&nbsp;</p>
 <p>Casey</p>
-<p><strong><em>Status: Standard Delivery (3/5)</em></strong></p>
-<div><strong><em><span class="full-image-block ssNonEditable"><span><a href="http://www.zip.ca/Browse/Title.aspx?f=titleId%28109299%29"><img style="width:225px;" src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7c1b/1343245704065/Rent-it-on-Zip.png" alt="" /></a></span></span><br /></em></strong></div></div>

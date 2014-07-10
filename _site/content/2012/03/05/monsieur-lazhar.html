@@ -15,8 +15,7 @@
     <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
-<!--   	<link href="/css/global.css" type="text/css" rel="stylesheet" /> -->
-  	
+    
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -26,6 +25,7 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
+      $('nav#menu-left').css({'display':'block'});
     });
 		</script>
 
@@ -43,30 +43,31 @@
 
 
   <body>
-      <nav id="menu-left">
+  <div id="nav-test"><a href="/"><img src="/img/global/dcac-full-logo-white.svg" class="side-home-link" /></a></div>
+  <nav id="menu-left">
     <!-- Sidebar Nav -->
       <ul>
-        <li><a href="#" id="side-search-toggle"><i class="fa fa-search" id=""></i></a></li>
-                            <li><a href="/reviews/">Reviews</a>
+        <li><a href="#" id="side-search-toggle"><i class="fa fa-search"></i> Search</a></li>
+                            <li class="text"><a href="/reviews/">Reviews</a>
             <ul>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="#">Features</a>
+                    <li><a href="/features/">Features</a>
             <ul>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>
-                    <li><a href="#">Podcast</a>
+<!--                     <li><a href="#">Podcast</a>
             <ul>
               <li><a href="#">Archive</a></li>
             </ul>
-          </li>
-                    <li><a href="#">About</a>
+          </li> -->
+                    <li><a href="/about/">About</a>
             <ul>
               <li><a href="/about/writers/">Writers</a></li>
               <li><a href="/about/contact/">Contact</a></li>
@@ -76,105 +77,167 @@
     <!-- End Sidebar Nav -->
     </nav>
     <div class="container-shadow" id="main-container">    
-      
-      <div id="nav-button-container">
-        <button class="left-off-canvas-toggle mm-fixed-top" id="nav-toggle" >Dear Cast &amp; Crew Navigation</button>
+             
+<div class="full-black">
+      <div class="row collapse">
+        <div class="section-header">
+          <section class="top-nav" id="top-nav">
+            <a href="/" class="logo-link"></a>
+            <ul>
+              <li><a href="/reviews/">Reviews</a></li>
+              <li><a href="/features/" class="slash">Features</a></li>
+              <!-- <li><a href="/podcast/">Podcast</a></li> -->
+              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
+            </ul>
+          </section>
+        </div>
       </div>
-      <div class="row full-width collapse">
-        <div class="large-12 medium-12 small-12 columns">
-          <div id="story-title">
-            <div id="title-img" style="background-image:url(/img/article/);">
-              <section id="main-title" class="main-title ">
-                <div class="row collapse" style="z-index:15;">
-                 <div class="large-12 medium-12 small-12 columns">
-                    <button id="menu-toggle-top" class="logo-black">Dear Cast &amp; Crew Navigation</button>
-                    <h1 class="hero">Monsieur Lazhar</h1>
-                    <h2 class="hero">
-                      By: </a>&nbsp;&nbsp;|&nbsp;&nbsp;Mailed on: March 05, 2012
-                    </h2>
-                    <p class="article-share">
-                      <a href="https://twitter.com/intent/tweet?text=Dear  ,  for Monsieur Lazhar%0A"><i class="fa fa-twitter"></i></a>
-                      <a href="#"><i class="fa fa-facebook"></i></a>
-                    </p>
-                  </div>
+    </div>
+        
+    <div class="mini-top-nav-hidden mm-fixed-top" id="mini-top-nav">
+      <nav class="top-bar" data-topbar>
+        <ul class="title-area">
+          <li class="name dcac-logo" id="nav-toggle">
+            <h1><a href="#">Dear Cast & Crew</a></h1>
+          </li>
+        </ul>
+        <section class="top-bar-section">
+          <!-- Right Nav Section -->
+          <ul class="right">
+            <li class="search" id="mini-top-search-toggle"><a href="#" class="mini-search-link"><i class="fa fa-search"></i></a></li>
+          </ul>
+        </section>
+      </nav>
+    </div>
+
+      <section>
+        <div id="story-title" class="title-info" data-equalizer>
+          <div class="title-img" style="background-image:url(/img/article/monsieur-lazhar.jpg);"></div>
+          <div class="row" data-equalizer-watch >
+            <div class="large-4 medium-4 small-4 columns" data-equalizer-watch>
+              <div class="review-status">
+                <h1 class="hero">Monsieur Lazhar</h1>
+                <h2 class="hero-author">
+                  By <a href="/about/writers/christopherr">Christopher Redmond</a>
+                </h2>
+                <h2 class="hero-date">
+                  Mailed on March 05, 2012
+                </h2>
+                <hr class="title-divider" />
+                <img src="/img/global/stamp.svg" class="standard review-stamp" />
+                Air<br />Mail<br />
+                    <div class="large-star-rating">
+                      <img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-blue.svg" /><img class="star-large" src="/img/global/star-white.svg" />
                 </div>
-              </section>
-              <button class="down-arrow animated bounce" id="down-arrow"></button>
+              </div>
+            </div>
+            <div class="large-8 medium-8 small-8 columns" data-equalizer-watch>
+              <div class="review-people">
+                <h3><span class="addressee">Dear Laurent Boye</span><br />
+                  <span class="position">International Publicist</span>
+                </h3>
+              </div>
             </div>
           </div>
-        </div><!-- title -->
-      </div>
-      <section class="main-copy">
-        <div class="row" id="body-text">
-          <div class="body-addressee large-12 medium-12 columns">
-            <h3>Dear , ,</h3>
-          </div>
         </div>
+      </section>
+      <section id="body-text">
         <div class="row">
-          <div class="large-8 medium-8 columns" id="review-copy">
-            <div><p><span class="full-image-block ssNonEditable"><span><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf74f5/1336620842597/monsieurlazhar.jpg" alt="" /></span></span></p>
-<p><span style="font-size:120%;"><em><strong>Dear Laurent Boye, </strong>International Publicist,</em></span></p>
-<p>Somebody&rsquo;s been busy the past few months! Let me start by congratulating you on the Best Foreign Language Film Oscar nomination for <em>Monsieur Lazar</em>. Getting the Academy to sit through another Canadian film about isolation and depression could not have been easy. Sure, there&rsquo;s no weird sex or snowshoes, but opening with a teacher hanging herself in a classroom? You were probably tempted to lock the exits. Lucky for you, the story subverts expectations and turns into a genuine crowd pleaser within about five minutes. At that point, the film does a pretty good job of selling itself.</p>
-<p>But let&rsquo;s go back to when you first heard writer and director Philippe Falardeau was turning a one-man play into a feature film. I imagine everyone at Telefilm was reaching for red markers. Theatre icon Daniel McIvor adapted his own solo stage effort but didn&rsquo;t exactly bring down the <em>House</em>. International sensation Robert Lepage tried, but is now in self-imposed cinematic exile from <em>The Far Side of the Moon</em>. Even by Canadian standards, the initial odds of success were stacked pretty heavy against Falardeau.</p>
-<p>His last feature, <em>It&rsquo;s Not Me I Swear!,</em> certainly proved how emotionally effective he could make an eccentric visual pallet and melancholy characters. But although you can now promote him as one of Canada&rsquo;s most dependable directors, no one gets a financing carte blanche in our subsidized industry (contrary to what your detractors on Sun TV have said). So at what point did you know you might have a critical and commercial hit on your hands?</p>
-<p><span class="full-image-block ssNonEditable"><span><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7c15/1336797904039/lazhar-2.jpg" alt="" /></span></span></p>
-<p>Casting Fellag as the titular star was probably a good start. The Algerian actor is apparently famous in his homeland as a comedian, but I would have never guessed. His dramatic performance is subtle, layered and enchanting in a way our native gag specialists (Jim Carrey, Mike Myers, Patrick Huard, etc.) always fall short when crossing genres. I know playing against type makes your job a nightmare, but in this case, the North American public&rsquo;s unfamiliarity only helped the character&rsquo;s authenticity. But please tell him that around here, only rock stars and wrestlers get to go by one name.</p>
-<p>I am confused, however, why you abandoned the Canadian poster, featuring the teacher walking alone down a hallway with a &ldquo;papier poisson&rdquo; taped to his back. It was such a simple and poetic moment from the film that captured the essence of his struggle to fit into his foreign home. Americans love fish-out-of-water stories too, yet the smiling family portrait with his students, when taken out of context, has far less dramatic and thematic relevance. I also struggle to understand how it helps the film commercially. But at least you stuck with a French title. Calling the film Mr. Lazhar would have robbed the story of some French post-colonial undertones, and just plain sounded banal. Kind of like why perfume companies don&rsquo;t translate &ldquo;eau de toilette.&rdquo;</p>
-<p><span class="full-image-block ssNonEditable"><span><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7c16/1336797924667/lazhar-3.jpg" alt="" /></span></span></p>
-<p>The young actors, however, did deserve more prominence in the publicity I suppose. &Eacute;milien N&eacute;ron, as the troubled Simon, absolutely nails his climactic scene that is a lynch pin for the whole story. Each of the other student performances also feel refreshingly age appropriate and honest. So while I&rsquo;m able to appreciate their importance after the fact, I think the film&rsquo;s success in Canada proves the right poster can help the film appeal to a wider demographic than <em>Half Nelson</em>, or even <em>Dead Poets Society</em>.</p>
-<p>I&rsquo;ve now seen the film twice with vastly different audiences. First with critics at a steely press and industry screening during the Toronto International Film Festival, and again months later with patriotic cheerleaders at one of Heritage Minister James Moore&rsquo;s swanky Parliament Hill movie nights. In both cases, my own sample exit polls found people agreed the film was more moving <em>because</em> of the director&rsquo;s resistance to sentimentality.  The American poster does just the opposite, but I suppose getting the Yanks to swallow a French Canadian pill requires a lot of sugar.  So here&rsquo;s hoping you find continued success south of the border.</p>
-<p>With glowing hearts,</p>
-<p>Christopher</p>
-<p>P.S. Smart move taking your name off <em>Burlesque</em>.</p>
-<p><em><strong>Status: Air Mail (4/5)</strong></em></p>
-<p><em><strong><span class="full-image-block ssNonEditable"><span><a href="http://www.zip.ca/Browse/Title.aspx?f=titleId%28204181%29"><img style="width:225px;" src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7c17/1343245704065/Rent-it-on-Zip.png" alt="" /></a></span></span><br /></strong></em></p></div>
-
-          </div>
           <div class="large-4 medium-4 columns" id="film-row">
             <div id="review-sidebar">
               <div id="film-info" class="film-info">
-                <h1 class="film" id="imdb-title"></h1>
-                <p>
-                  <strong><em>Air mail</em></strong><br />
-                  <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i>
-                </p>
-              </div>
+             </div>
             </div>
+          </div>
+          <div class="large-8 medium-8 columns" id="review-copy">
+            <p class="intro">Dear Laurent Boye</p>
+            <p class="intro">Somebody&rsquo;s been busy the past few months! Let me start by congratulating you on the Best Foreign Language Film Oscar nomination for <em>Monsieur Lazar</em>. Getting the Academy to sit through another Canadian film about isolation and depression could not have been easy. Sure, there&rsquo;s no weird sex or snowshoes, but opening with a teacher hanging herself in a classroom? You were probably tempted to lock the exits. Lucky for you, the story subverts expectations and turns into a genuine crowd pleaser within about five minutes. At that point, the film does a pretty good job of selling itself.</p>
+
+<p>But let&rsquo;s go back to when you first heard writer and director Philippe Falardeau was turning a one-man play into a feature film. I imagine everyone at Telefilm was reaching for red markers. Theatre icon Daniel McIvor adapted his own solo stage effort but didn&rsquo;t exactly bring down the <em>House</em>. International sensation Robert Lepage tried, but is now in self-imposed cinematic exile from <em>The Far Side of the Moon</em>. Even by Canadian standards, the initial odds of success were stacked pretty heavy against Falardeau.</p>
+
+<p>His last feature, <em>It&rsquo;s Not Me I Swear!,</em> certainly proved how emotionally effective he could make an eccentric visual pallet and melancholy characters. But although you can now promote him as one of Canada&rsquo;s most dependable directors, no one gets a financing carte blanche in our subsidized industry (contrary to what your detractors on Sun TV have said). So at what point did you know you might have a critical and commercial hit on your hands?</p>
+
+<p><span class="full-image-block ssNonEditable"><span><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7c15/1336797904039/lazhar-2.jpg" alt="" /></span></span></p>
+
+<p>Casting Fellag as the titular star was probably a good start. The Algerian actor is apparently famous in his homeland as a comedian, but I would have never guessed. His dramatic performance is subtle, layered and enchanting in a way our native gag specialists (Jim Carrey, Mike Myers, Patrick Huard, etc.) always fall short when crossing genres. I know playing against type makes your job a nightmare, but in this case, the North American public&rsquo;s unfamiliarity only helped the character&rsquo;s authenticity. But please tell him that around here, only rock stars and wrestlers get to go by one name.</p>
+
+<p>I am confused, however, why you abandoned the Canadian poster, featuring the teacher walking alone down a hallway with a &ldquo;papier poisson&rdquo; taped to his back. It was such a simple and poetic moment from the film that captured the essence of his struggle to fit into his foreign home. Americans love fish-out-of-water stories too, yet the smiling family portrait with his students, when taken out of context, has far less dramatic and thematic relevance. I also struggle to understand how it helps the film commercially. But at least you stuck with a French title. Calling the film Mr. Lazhar would have robbed the story of some French post-colonial undertones, and just plain sounded banal. Kind of like why perfume companies don&rsquo;t translate &ldquo;eau de toilette.&rdquo;</p>
+
+<p><span class="full-image-block ssNonEditable"><span><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7c16/1336797924667/lazhar-3.jpg" alt="" /></span></span></p>
+
+<p>The young actors, however, did deserve more prominence in the publicity I suppose. &Eacute;milien N&eacute;ron, as the troubled Simon, absolutely nails his climactic scene that is a lynch pin for the whole story. Each of the other student performances also feel refreshingly age appropriate and honest. So while I&rsquo;m able to appreciate their importance after the fact, I think the film&rsquo;s success in Canada proves the right poster can help the film appeal to a wider demographic than <em>Half Nelson</em>, or even <em>Dead Poets Society</em>.</p>
+
+<p>I&rsquo;ve now seen the film twice with vastly different audiences. First with critics at a steely press and industry screening during the Toronto International Film Festival, and again months later with patriotic cheerleaders at one of Heritage Minister James Moore&rsquo;s swanky Parliament Hill movie nights. In both cases, my own sample exit polls found people agreed the film was more moving <em>because</em> of the director&rsquo;s resistance to sentimentality.  The American poster does just the opposite, but I suppose getting the Yanks to swallow a French Canadian pill requires a lot of sugar.  So here&rsquo;s hoping you find continued success south of the border.</p>
+
+<p>With glowing hearts,</p>
+
+<p>Christopher</p>
+
+<p>P.S. Smart move taking your name off <em>Burlesque</em>.</p>
+
           </div>
         </div>
         <div id="up-next" class="up-next">
-          <div class="row collapse">      
-            <div class="row">
-              <div class="large-12 medium-12 columns">
-                <h1 class="up-next">Up Next</h1>
-              </div>
-            </div>
-            <div class="row">
-              <div class="large-2 medium-2 columns">
-                  &nbsp;
-              </div>
+          <div class="row">
+          
+            
               <div class="large-4 medium-4 columns">
-                <a href="/content/2012/03/04/the-grey.html"><img src="/img/article/thumb/" alt="Monsieur Lazhar" /></a>
-                <a href="/content/2012/03/04/the-grey.html">
+                <a href="/content/2014/03/19/veronica-mars.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/veronica-mars.jpg" alt="Veronica Mars" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/19/veronica-mars.html">
                   <div class="review-text">
-                    <h1>The Grey</h1>
-                    <h2><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-o"></i><i class="fa fa-star-o"></i></h2>
+                    <h1>Veronica Mars</h1>
+                    <h2 class="addressee">Dear "We Used to Be Friends", Theme Song</h2>
+                    <h2 class="author">By Di Golding</h2>
                   </div>
                 </a>
               </div>
+          
+            
               <div class="large-4 medium-4 columns">
-                <a href="/content/2012/03/05/project-x.html"><img src="/img/article/thumb/" alt="Monsieur Lazhar" /></a>
-                <a href="/content/2012/03/05/project-x.html">
+                <a href="/content/2014/03/18/filthy-gorgeous-the-bob-guccione-story.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/filthy-gorgeous-the-bob-guccione-story.jpg" alt="Filthy Gorgeous: The Bob Guccione Story" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/18/filthy-gorgeous-the-bob-guccione-story.html">
                   <div class="review-text">
-                    <h1>Project X</h1>
-                    <h2><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
+                    <h1>Filthy Gorgeous: The Bob Guccione Story</h1>
+                    <h2 class="addressee">Dear Michael Perlmutter, Music Supervisor</h2>
+                    <h2 class="author">By Casey Tourangeau</h2>
                   </div>
                 </a>
               </div>
-              <div class="large-2 medium-2 columns">
-                &nbsp;
+          
+            
+              <div class="large-4 medium-4 columns">
+                <a href="/content/2014/03/17/mr-peabody-sherman.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/mr-peabody-sherman.jpg" alt="Mr. Peabody & Sherman" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/17/mr-peabody-sherman.html">
+                  <div class="review-text">
+                    <h1>Mr. Peabody & Sherman</h1>
+                    <h2 class="addressee">Dear Wayback Machine, Plot Device</h2>
+                    <h2 class="author">By Di Golding</h2>
+                  </div>
+                </a>
               </div>
-            </div>
+          
           </div>
         </div>
       </section>
@@ -182,7 +245,6 @@
         <div class="comments">
         <div id="disqus_thread" class="disqus_thread"></div>
       </div>
-       </div>
       <script type="text/javascript">
       var disqus_shortname = 'dearcastandcrew';
       (function() {
@@ -195,77 +257,104 @@
       <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
       <!--preview HTML for home page scroll-->
     <div class="post large-4 medium-4 columns" style="display:none;">
-      <a href="/content/2012/03/05/monsieur-lazhar.html"><img src="/img/article/thumb/" alt="Monsieur Lazhar" /></a>
+      
       <a href="/content/2012/03/05/monsieur-lazhar.html">
-        <div class="review-text">
-          <h1>Monsieur Lazhar</h1>
-          <h2><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i></h2>
-          <h2 class="addressee">Dear , </h2>
-          <h2 class="author">By </h2>
-        </div>
-      </a>
+                  <div class="post-image">
+                    <img src="/img/article/thumb/monsieur-lazhar.jpg" alt="Monsieur Lazhar" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2012/03/05/monsieur-lazhar.html">
+                  <div class="review-text">
+                    <h1>Monsieur Lazhar</h1>
+                    <h2 class="addressee">Dear Laurent Boye, International Publicist</h2>
+                    <h2 class="author">By Christopher Redmond</h2>
+                  </div>
+                </a>
     </div>
     <script>
     //get the movie info from IMDB
     $.ajax({
-      url: "http://omdbapi.com/?i=",
+      
+      url: "http://omdbapi.com/?i=tt2011971",
       dataType: 'jsonp',
       success: function(data) {
-        var title=data.Title;
-        $('#imdb-title').append(title);
-        var html = '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Directed by:</div><div class="imdb-data large-8 medium-8 columns">' + data.Director +'</div>';
+        var html = '<div class="row imdb-info-row no-border full-width">';
+        html += '<img class="imdb-img" src="' +data.Poster +'" />';
+        html += '<span class="imdb-category">Directed by</span><br /><span class="imdb-data">' + data.Director.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Written by:</div><div class="imdb-data large-8 medium-8 columns">' + data.Writer.replace(/\,/g, '<br />') +'</div>';
+        html += '<span class="imdb-category">Written by</span><br /><span class="imdb-data">';
+        var writers = data.Writer;
+        var writers_array = writers.split(',');
+
+        for(var i = 0; i < writers_array.length; i++) {
+           // Trim the excess whitespace.
+           writers_array[i] = writers_array[i].replace(/^\s*/, "").replace(/\s*$/, "");
+           // Add additional code here, such as:
+           if ((writers_array[i].indexOf('characters') == -1) && (writers_array[i].indexOf('story') == -1) && (writers_array[i].indexOf('creator') == -1) && (writers_array[i].indexOf('screen story') == -1) && (writers_array[i].indexOf('television story') == -1) && (writers_array[i].indexOf('article') == -1) && ((writers_array[i].indexOf('play') == -1) || (writers_array[i].indexOf('screenplay') > -1)) && (writers_array[i].indexOf('song') == -1) && (writers_array[i].indexOf('uncredited') == -1) && (writers_array[i].indexOf('also') == -1) && (writers_array[i].indexOf('book') == -1) && (writers_array[i].indexOf('novel') == -1) && (writers_array[i].indexOf('based on') == -1)){
+           html += writers_array[i].replace('(screenplay)', '').replace('(written by)', '').replace('(written for the screen by)', '') + '<br />';
+           }
+        }
+        html += '</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-category large-4 medium-4 columns">Starring:</div><div class="imdb-data large-8 medium-8 columns">'+ data.Actors.replace(/\,/g, '<br />') +'</div>';
+        html += '<span class="imdb-category">Starring<br /></span><span class="imdb-data">'+ data.Actors.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
-        html += '<div class="row imdb-info-row">';
-        html += '<div class="imdb-img large-12 medium-12 columns"><img class="imdb-img" src="' +data.Poster +'" /></div>';
         $('#film-info').append(html);
         html += '</div>';
       }
     });
     </script>
-      <section id="footer">
-          <div class="row collapse">
-      <footer class="footer">
-        <button class="footer"></button>
-        <ul>
-                              <li><a href="/reviews/">Reviews</a>
+      </div>
+    </div>
+<div id="footer">
+      <footer class="mm-fixed-bottom">
+        <div class="footer">
+          <div class="footer-block">
+            <ul>
+                                  <li class="text"><a href="/reviews/">Reviews</a>
             <ul>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="#">Features</a>
+                    <li><a href="/features/">Features</a>
             <ul>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>
-                    <li><a href="#">Podcast</a>
+<!--                     <li><a href="#">Podcast</a>
             <ul>
               <li><a href="#">Archive</a></li>
             </ul>
-          </li>
-                    <li><a href="#">About</a>
+          </li> -->
+                    <li><a href="/about/">About</a>
             <ul>
               <li><a href="/about/writers/">Writers</a></li>
               <li><a href="/about/contact/">Contact</a></li>
             </ul>
           </li>
-          <li><a href="#" id="footer-search-toggle"><i class="fa fa-search" id=""></i> Search</a></li>
-        </ul>
-        <span class="stretch"></span>
-        <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+            </ul>
+          </div>
+          <div class="footer-block">
+            <h1 class="footer-head">Follow</h1>
+            <ul class="social">
+              <li class="social"><a class="social-twitter"></a></li>
+              <li class="social"><a class="social-facebook"></a></li>
+              <li class="social"><a class="social-letterboxd"></a></li>
+              <li class="social"><a class="social-rss"></a></li>
+            </ul>
+          </div>
+          <span class="stretch"></span>
+          <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+        </div>
       </footer>
-    </div>
-    </section>
     </div>
   
   <!-- Search modal overlay -->

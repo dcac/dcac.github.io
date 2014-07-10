@@ -1,11 +1,12 @@
 ---
 published: true
-image:
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+imdb: tt1194173
+image: the-bourne-legacy.jpg
+author: christopherr
+stars: 2.5
+excerpt: "Well, well, look who they brought in to save the Bourne franchise. First you try to make us forget Arnold Schwarzenegger with a new <em>Total Recall</em>, and now you pull a fancypants switcheroo on Matt Damon."
+position: Character Rigger
+addressee: Giuseppe Chisari
 layout: review
 categories:
   - reviews
@@ -15,8 +16,6 @@ title: "The Bourne Legacy"
 comments: true
 tags: [Bourne Legacy, Jason Bourse, Jeremy renner, Rachel Weisz, Reboot, Tony Gilroy, Uncategorized]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/8/10/the-bourne-legacy.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf75fa/1344603299627/The%20Bourne%20Legacy.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Giuseppe Chisari,</strong> Character Rigger</em></p>
 <p>Well, well, look who they brought in to save the Bourne franchise. First you try to make us forget Arnold Schwarzenegger with a new <em>Total Recall</em>, and now you pull a fancypants switcheroo on Matt Damon. Nice try, Mr. &ldquo;Character Rigger&rdquo;, but just because you&rsquo;re an expert at tampering with another writer&rsquo;s original creations doesn&rsquo;t mean I&rsquo;ll swallow whatever you&rsquo;re feeding me. I&rsquo;m going to slowly, unevenly, and predictably rebel against your Hollywood mind-control program, and then give you a lot less action than expected.</p>
 <p>How do you like them oranges?</p>
 <p>The first part of <em>The Bourne Legacy</em> makes sure Jason The Forgetful Superspy is credited as the original problem with the government&rsquo;s top secret Treadstone program. Your next trick is to run sideways with the Bourne-iverse, having the events of <em>The Bourne Ultimatum</em> happen in tandem with the program&rsquo;s implosion in <em>Legacy</em>.&nbsp; It&rsquo;s like they say; you can take the Jason out of the Bourne movies, but you can&rsquo;t take the Bourne movies out of Jason. This part is well played.</p>
@@ -27,4 +26,3 @@ tags: [Bourne Legacy, Jason Bourse, Jeremy renner, Rachel Weisz, Reboot, Tony Gi
 <p>Sincerely,</p>
 <p>Christopher</p>
 <p>P.S. I may not have looked up the actual definition of your job&hellip;</p>
-<p><strong><em>Status: Standard Delivery (2.5/5)</em></strong></p></div>
