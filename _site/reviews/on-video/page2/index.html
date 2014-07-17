@@ -8,7 +8,7 @@
     
     <!-- Foundation 5.0 -->
     
-    <link rel="stylesheet" href="/css/app.css" />
+    <link rel="stylesheet" href="/css/foundation.css" />
     
     <!-- Fontawesome 4.0.3 -->
     
@@ -107,9 +107,16 @@
           <ul class="right">
             <li class="search" id="mini-top-search-toggle"><a href="#" class="mini-search-link"><i class="fa fa-search"></i></a></li>
           </ul>
+          <ul class="left">
+            
+            
+            <li><a href="/content/2014/03/19/veronica-mars.html" class="latest-review"><strong>Latest post:</strong></span> <em>Veronica Mars</em> - Dear "We Used to Be Friends", Theme Song</a></li>
+            
+          </ul>
         </section>
       </nav>
     </div>
+
           <div class="row row-bottom-margin">
       <div class="section-title">
         <h1>Reviews</h1>
@@ -483,9 +490,30 @@
               <li class="social"><a class="social-rss"></a></li>
             </ul>
           </div>
+          <div class="footer-block no-border">
+            <h1 class="footer-head">Subscribe</h1>
+          <!-- Begin MailChimp Signup Form -->
+            <div id="mc_embed_signup">
+              <form action="//dearcastandcrew.us8.list-manage.com/subscribe/post?u=c5759767eda31141b0220d04a&amp;id=e7cdc6d7ce" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+              <div class="newsletter-signup">
+    <!--           	<label for="mce-EMAIL">Email Address </label> -->
+              	<input type="email" value="" name="EMAIL" class="required email left" id="mce-EMAIL" />
+              	<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+              </div>
+              	<div id="mce-responses" class="clear">
+              		<div class="response" id="mce-error-response" style="display:none"></div>
+              		<div class="response" id="mce-success-response" style="display:none"></div>
+              	</div>
+              	<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                  <div style="position: absolute; left: -5000px;"><input type="text" name="b_c5759767eda31141b0220d04a_e7cdc6d7ce" tabindex="-1" value=""></div>
+              </form>
+            </div>
+          </div>
           <span class="stretch"></span>
+          <hr />
           <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
         </div>
+<!--End mc_embed_signup-->
       </footer>
     </div>
   
@@ -598,14 +626,22 @@
       
     </script>
     <script type="text/javascript" src="/bower_components/foundation/js/foundation.min.js"></script>
+    <script type="text/javascript" src="/bower_components/foundation/js/foundation/foundation.equalizer.js"></script>
     <script type="text/javascript" src="/js/app.js"></script>
   	<script type="text/javascript" src="/vendor/waypoints/waypoints.js"></script>
   	<script type="text/javascript" src="/js/infinite-jekyll.js"></script>
   	<script type="text/javascript" src="/js/film-roles.js"></script>
     <script type="text/javascript" src="/vendor/tooltipster/jquery.tooltipster.min.js"></script>
   	<script type="text/javascript" src="/vendor/contentshare/contentshare.ct.js"></script>
+  	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
+    $(window).stellar({
+      horizontalScrolling: false,
+      verticalOffset: 0,
+      horizontalOffset: 0,
+  		hideDistantElements: false
+    });
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

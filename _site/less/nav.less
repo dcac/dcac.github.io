@@ -11,8 +11,8 @@
   }
   .section-header{
     width:100%;
-    margin-left: @15px;
-    margin-right: @15px;
+    padding-left: @15px;
+    padding-right: @15px;
     margin-top: @1px*28;
     margin-bottom: @1px*28;
   }
@@ -65,12 +65,13 @@
     width: 100%;
     border-bottom: @1px solid black;
     position: relative;
+    margin-top: @1px*45;
   }
   .section-title h1{
     font-size: @text-large;
-    line-height: @1px*32;
-    font-family: @serif;
-    font-weight: 100;
+    line-height: @1px*24;
+    font-family: @sans-serif;
+    font-weight: 700;
     color: @dark-grey;
     display: block;
     text-align: left;
@@ -78,29 +79,44 @@
     margin-bottom: @5px;
   }
   .mini-top-nav-hidden{
-    display:none;
+    display:hidden;
     position: absolute;
     top:-(@1px*50);
+    width:100%;
     @media @mobile{
       display:block;
       margin-top:0;
       top:0;
       position:fixed;
     }
-  }
-  .mini-search-link{
-    background-color: transparent;
-    font-size: 18px;
-  }
-//Clear the foundtaion style
-.top-bar-section{
-  background: transparent;
-}
-
+  }  
   .mini-top-nav-visible{
     display:block;
     margin-top:0;
   }
+  .mini-search-link{
+    background-color: transparent;
+    font-size: 18px;
+    color:@black;
+    position: relative;
+  }
+/*
+  a.latest-review{
+    font-family: @sans-serif;
+    font-size: @text-small;
+    color:#939598;
+    position: relative;
+  }
+  a.latest-review:hover,a.latest-review:active{
+    color:#5BC2EF;
+    background-color: transparent;
+    position: relative;
+  }
+*/
+//Clear the foundtaion style
+.top-bar-section{
+  background: transparent;
+}
   .dcac-logo{
     background: url('../img/global/dcac-logo.svg') 0 no-repeat;
     display: block;
@@ -156,9 +172,12 @@
   width: auto;
   float:left;
   margin-top: @50px;
-  margin-bottom: @25px;
-  border-right: 1px solid #c7c8ca;
+  margin-bottom:@10px;
+  border-right: 1px solid #808285;
   margin-right: @25px;
+}
+.no-border{
+  border:none;
 }
 footer ul{
   list-style: none;
@@ -184,6 +203,12 @@ footer ul li.social{
   padding-right: @25px;
   margin: 0;
   padding-left: 0;
+}
+footer hr{
+  background:#808285;
+  height:1px;
+  border: none;
+  margin: 0 0 @10px 0;
 }
 a.social-twitter{
   background: url('../img/footer/twitter.png') 0 0 no-repeat;
@@ -255,6 +280,43 @@ div.author{
 }
 .author img{
   height: 125px;
+}
+div.newsletter-signup{
+  width:320px;
+  float: left;
+  margin-top:5px;
+}
+.newsletter-signup input[type=email]{
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: @1px;
+  border-color: #f00;
+  background: #575758;
+  font-size: @text-regular;
+  color: #fff;
+  font-family: @sans-serif;
+  padding: 9px;
+  padding-left: 57px;
+  margin: 0;
+  width:290px;
+  background: #575758 url('../img/footer/email.png') 9px 8px no-repeat;
+  
+}
+.newsletter-signup input[type=submit]{
+  border-top: 1px;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: @1px;
+  border-color: #f00;
+  background: transparent;
+  font-size: @text-tiny;
+  color: #f00;
+  font-family: @sans-serif;
+  padding: 0;
+  margin: 0;
+  width: auto;
+  display: none;
 }
 
 /* side menu */

@@ -15,7 +15,7 @@ $(document).ready(function () {
       $image.css({
       'width': ww,
       //'height': wh
-      'height': '500px'
+      //'height': '500px'
       });
     }
   }
@@ -106,6 +106,7 @@ $(function(){
 //Home Page scripts
     
 // Change the main navbar on scroll
+/*
     $('#main-container').waypoint(function() {
       $("div.navbar").css('height', '50px');
       $("a.navbar-link").css('height', '50px');
@@ -118,6 +119,7 @@ $(function(){
       $("a.navbar-brand").css('height', '125px');
       $("a.navbar-brand").css('background', 'url(\'../img/logo.png\') 15px 15px no-repeat');
     }, { offset: 120 });
+*/
     
     // Display the small top nav when the large header scrolls offscreen
     $("#top-nav").waypoint(function(direction){
@@ -125,16 +127,17 @@ $(function(){
         $('#mini-top-nav').addClass('fixed');
         $('#mini-top-nav').addClass('mini-top-nav-visible');
         $('#mini-top-nav').removeClass('mini-top-nav-hidden');
-        $('#mini-top-nav').slideDown(1000);
+        $('#mini-top-nav.mini-top-nav-visible').slideDown(250);
       }
       else if (direction === "up"){
         $('#mini-top-nav').removeClass('fixed');
         $('#mini-top-nav').removeClass('mini-top-nav-visible');
         $('#mini-top-nav').addClass('mini-top-nav-hidden');
-        $('#mini-top-nav').slideUp(400);
+        $('#mini-top-nav.mini-top-nav-visible').slideUp(250);
       }
     },{
-      offset: function() { return $(this).height() * -1; }
+      //offset: function() { return $(this).height() * -1; }
+      offset:-500
     });
 //  $('.svg-inject').svgInject();
 });

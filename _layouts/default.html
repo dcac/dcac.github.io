@@ -8,7 +8,7 @@
     
     <!-- Foundation 5.0 -->
     
-    <link rel="stylesheet" href="/css/app.css" />
+    <link rel="stylesheet" href="/css/foundation.css" />
     
     <!-- Fontawesome 4.0.3 -->
     
@@ -158,14 +158,22 @@
       
     </script>
     <script type="text/javascript" src="/bower_components/foundation/js/foundation.min.js"></script>
+    <script type="text/javascript" src="/bower_components/foundation/js/foundation/foundation.equalizer.js"></script>
     <script type="text/javascript" src="/js/app.js"></script>
   	<script type="text/javascript" src="/vendor/waypoints/waypoints.js"></script>
   	<script type="text/javascript" src="/js/infinite-jekyll.js"></script>
   	<script type="text/javascript" src="/js/film-roles.js"></script>
     <script type="text/javascript" src="/vendor/tooltipster/jquery.tooltipster.min.js"></script>
   	<script type="text/javascript" src="/vendor/contentshare/contentshare.ct.js"></script>
+  	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
+    $(window).stellar({
+      horizontalScrolling: false,
+      verticalOffset: 0,
+      horizontalOffset: 0,
+  		hideDistantElements: false
+    });
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

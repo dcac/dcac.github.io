@@ -53,6 +53,9 @@ p::selection{
 }
 #story-title{
   height: @1px*500;
+  @media @mobile{
+    height: auto;
+  }
 }
 #title{
   display: block;
@@ -62,6 +65,9 @@ p::selection{
 }
 .title-info{
   position: relative;
+  @media @mobile{
+    margin-top:45px;
+  }
 }
 .title-img{
   height: @1px*500;
@@ -77,6 +83,10 @@ p::selection{
   -o-background-size: cover;
   background-size: cover;
   background-position: center;
+  height: @1px*500;
+  @media @mobile{
+    height: @1px*300;
+  }
 }
 
 #body-text{ 
@@ -134,11 +144,41 @@ img.scrolled {
   font-weight: 700;
   position: absolute;
   bottom: 67px;
-  .text-shadow
+  .text-shadow;
+  @media @mobile{
+    position: relative;
+    bottom: 0;
+    background-color: #666;
+    margin-top: 300px;
+  }
+}
+.status-container{
+  @media @mobile{
+    position: absolute;
+    top: @1px*18;
+    right:0;
+    font-size: @text-regular;
+    line-height: 24px;
+    white-space:nowrap;
+  }
+}
+.status-container br{
+  @media @mobile{
+    content: '';
+  }
+}
+.status-container br:after{
+  @media @mobile{
+    content: ' ';
+  }
 }
 .review-people{
   position: absolute;
   bottom: 50px;
+  @media @mobile{
+    position: relative;
+    bottom: 0;
+  }
 }
 .large-star-rating{
   display: block;
@@ -146,6 +186,9 @@ img.scrolled {
   font-size:@1px*24;
   letter-spacing:@5px;
   margin-top: @10px;
+  @media @mobile{
+    margin-top: @1px*2;
+  }
 }
 .title-divider{
   border: 0;
@@ -160,6 +203,10 @@ img.scrolled {
   margin-right: @10px;
   -webkit-filter: drop-shadow( 0 0 @1px*2 #939598 );
     filter: drop-shadow( 0 0 @1px*2 #939598 );
+  @media @mobile{
+    width: @1px*19;
+    height: @1px*19;
+  }
 }
 .film-info{
   padding: 0;
@@ -230,6 +277,14 @@ h1.hero {
   width:100%;
   padding: 0;
   .text-shadow;
+  @media @mobile{
+    top: @1px*5;
+    right:0;
+    font-size: @text-regular;
+    line-height: normal;
+    white-space:nowrap;
+    left:@15px;
+  }
 }
 article h1.black{
   color:@dark-grey;
@@ -287,11 +342,25 @@ h2.hero-author, h2.hero-date {
   font-family: @serif;
   font-weight: 200;
   .text-shadow;
+  @media @mobile{
+    top: @1px*5;
+    font-size: @text-small;
+    line-height: normal;
+    white-space:nowrap;
+    position: relative;
+    left:@15px;
+  }
 }
 h2.hero-date{
   font-size: @text-regular;
   font-style: italic;
   line-height: @1px*16;
+  @media @mobile{
+    top: @1px*5;
+    font-size: @text-tiny;
+    line-height: normal;
+    white-space:nowrap;
+  }
 }
 h2 a{
   display:inline;
@@ -321,15 +390,9 @@ h2.top{
 }
  h3 {
   position: relative;
-  color: @dark-grey; 
   text-align: left;
   margin: 0 auto;
   width:100%;
-  font-size: 24pt;
-  line-height: 36pt;
-  font-family: @serif;
-  font-weight: 200;
-  letter-spacing: normal;
 }
 .body-addressee{
   margin-bottom:15px;
@@ -342,6 +405,15 @@ h3 span.addressee{
   font-family: @sans-serif;
   font-weight: 700;
   text-shadow: 0 0 2px @dark-grey;
+  @media @mobile{
+    color: @white; 
+    text-align: left;
+    font-size: @1px*24;
+    line-height: @1px*14;
+    font-family: @sans-serif;
+    font-weight: 700;
+    text-shadow: 0 0 2px @dark-grey;
+  }
 }
 h3 span.position{
   color: @white; 
@@ -351,6 +423,15 @@ h3 span.position{
   font-family: @sans-serif;
   font-weight: 700;
   text-shadow: 0 0 2px @dark-grey;
+  @media @mobile{
+    color: @white; 
+    text-align: left;
+    font-size: @1px*50;
+    line-height: @1px*50;
+    font-family: @sans-serif;
+    font-weight: 700;
+    text-shadow: 0 0 2px @dark-grey;
+  }
 }
 #review-copy p.intro{
   text-align:left;
@@ -400,6 +481,7 @@ p.article-share i{
   background-color: #e6e7e8;
   margin-top: @50px;
   padding-top: 45px;
+  padding-bottom: 45px;
 }
 h1.up-next{
   color:#fff;

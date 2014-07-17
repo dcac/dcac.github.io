@@ -3063,11 +3063,11 @@ meta.foundation-mq-topbar {
   .top-bar-section ul li > a {
     display: block;
     width: 100%;
-    color: #000;
+/*     color: #000; */
     padding: 12px 0 12px 0;
     padding-left: 15px;
-    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
-/*     font-size: 0.8125rem; */
+/*    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+     font-size: 0.8125rem; */
     font-weight: normal;
     text-transform: none;
 /*     background: #333;  */
@@ -3076,37 +3076,57 @@ meta.foundation-mq-topbar {
       font-size: 0.8125rem;
       padding-right: 15px;
       padding-left: 15px;
-      background-color: #008CBA;
-      border-color: #007295;
-      color: #fff; }
+/*       background-color: #008CBA; */
+  /*
+    border-color: #007295;
+      color: #fff; 
+*/
+      }
       .top-bar-section ul li > a.button:hover, .top-bar-section ul li > a.button:focus {
-        background-color: #007295; }
+/*         background-color: #007295;  */
+        }
       .top-bar-section ul li > a.button:hover, .top-bar-section ul li > a.button:focus {
-        color: #fff; }
+/*         color: #fff;  */
+     }
     .top-bar-section ul li > a.button.secondary {
+/*
       background-color: #e7e7e7;
       border-color: #b9b9b9;
-      color: #333; }
+      color: #333;  */
+
+      }
       .top-bar-section ul li > a.button.secondary:hover, .top-bar-section ul li > a.button.secondary:focus {
-        background-color: #b9b9b9; }
+/*         background-color: #b9b9b9;  */
+        }
       .top-bar-section ul li > a.button.secondary:hover, .top-bar-section ul li > a.button.secondary:focus {
-        color: #333; }
+/*         color: #333;  */
+        }
     .top-bar-section ul li > a.button.success {
-      background-color: #43AC6A;
+ /*
+     background-color: #43AC6A;
       border-color: #368a54;
-      color: #fff; }
+      color: #fff;
+*/ 
+      }
       .top-bar-section ul li > a.button.success:hover, .top-bar-section ul li > a.button.success:focus {
-        background-color: #368a54; }
+/*         background-color: #368a54;  */
+        }
       .top-bar-section ul li > a.button.success:hover, .top-bar-section ul li > a.button.success:focus {
-        color: #fff; }
+/*         color: #fff;  */
+        }
     .top-bar-section ul li > a.button.alert {
-      background-color: #f04124;
+  /*
+    background-color: #f04124;
       border-color: #cf280e;
-      color: #fff; }
+      color: #fff; 
+*/
+      }
       .top-bar-section ul li > a.button.alert:hover, .top-bar-section ul li > a.button.alert:focus {
-        background-color: #cf280e; }
+/*         background-color: #cf280e;  */
+        }
       .top-bar-section ul li > a.button.alert:hover, .top-bar-section ul li > a.button.alert:focus {
-        color: #fff; }
+/*         color: #fff;  */
+        }
   .top-bar-section ul li > button {
     font-size: 0.8125rem;
     padding-right: 15px;
@@ -3143,11 +3163,17 @@ meta.foundation-mq-topbar {
       .top-bar-section ul li > button.alert:hover, .top-bar-section ul li > button.alert:focus {
         color: #fff; }
   .top-bar-section ul li:hover:not(.has-form) > a {
-    background: #272727;
-    color: #fff; }
+    /*
+background: #272727;
+    color: #fff; 
+*/
+    }
   .top-bar-section ul li.active > a {
+/*
     background: #008CBA;
-    color: #fff; }
+    color: #fff; 
+*/
+    }
     .top-bar-section ul li.active > a:hover {
       background: #007ba0;
       color: #fff; }
@@ -3267,7 +3293,7 @@ meta.foundation-mq-topbar {
 /*       background: #333;  */
       }
       .top-bar-section li:not(.has-form) a:not(.button):hover {
-        background: #272727; }
+        /* background: #272727;  */}
     .top-bar-section li.active:not(.has-form) a:not(.button) {
       padding: 0 15px;
       line-height: 45px;
@@ -3356,11 +3382,16 @@ meta.foundation-mq-topbar {
       .top-bar-section .left li .dropdown li .dropdown {
         left: 100%; }
   .no-js .top-bar-section ul li:hover > a {
+/*
     background: #272727;
-    color: #fff; }
+    color: #fff; 
+*/
+    }
   .no-js .top-bar-section ul li:active > a {
+/*
     background: #008CBA;
-    color: #fff; }
+    color: #fff;
+*/ }
   .no-js .top-bar-section .has-dropdown:hover > .dropdown {
     display: block;
     position: static !important;

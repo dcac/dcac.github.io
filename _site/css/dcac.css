@@ -72,7 +72,6 @@ img.side-home-link {
 }
 img.hero-image {
   z-index: 0;
-  height: 31.25rem;
   width: 100%;
   display: block;
   position: absolute;
@@ -85,6 +84,12 @@ img.hero-image {
   -o-background-size: cover;
   background-size: cover;
   background-position: center;
+  height: 31.25rem;
+}
+@media only screen and (max-width: 640px) {
+  img.hero-image {
+    height: 18.75rem;
+  }
 }
 .hero-container {
   position: relative;
@@ -110,9 +115,9 @@ div.hero-title {
   text-align: center;
   bottom: 50px;
   position: absolute;
-  width: 100%;
+  width: 90%;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 640px) {
   .hero-title h1 {
     color: #333333;
   }
@@ -129,7 +134,7 @@ div.hero-title {
   margin-bottom: 0.625rem;
   position: relative;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 640px) {
   .hero-title h2.author,
   .hero-title h2.addressee,
   .hero-title h2.star-rating {
@@ -140,7 +145,7 @@ div.hero-title {
   text-align: center;
   bottom: 50px;
   position: absolute;
-  width: 100%;
+  width: 90%;
 }
 #hero-home {
   height: 500px;
@@ -187,6 +192,11 @@ h2.hero-author-home {
   margin-right: 0.25rem;
   -webkit-filter: drop-shadow(0 0 0.125rem #939598);
   filter: drop-shadow(0 0 0.125rem #939598);
+}
+@media only screen and (max-width: 640px) {
+  .star-large {
+    height: 0.75rem;
+  }
 }
 .star-small {
   display: inline;
@@ -443,15 +453,15 @@ li.now-streaming-title a {
   width: 100%;
   background-color: #ffffff;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 640px) {
   .full-black {
     display: none;
   }
 }
 .section-header {
   width: 100%;
-  margin-left: 0.9375rem;
-  margin-right: 0.9375rem;
+  padding-left: 0.9375rem;
+  padding-right: 0.9375rem;
   margin-top: 1.75rem;
   margin-bottom: 1.75rem;
 }
@@ -505,12 +515,13 @@ section.top-nav a:hover {
   width: 100%;
   border-bottom: 0.0625rem solid #000000;
   position: relative;
+  margin-top: 2.8125rem;
 }
 .section-title h1 {
   font-size: 2.25rem;
-  line-height: 2rem;
-  font-family: "Georgia", serif;
-  font-weight: 100;
+  line-height: 1.5rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-weight: 700;
   color: #333333;
   display: block;
   text-align: left;
@@ -518,11 +529,12 @@ section.top-nav a:hover {
   margin-bottom: 0.3125rem;
 }
 .mini-top-nav-hidden {
-  display: none;
+  display: hidden;
   position: absolute;
   top: -3.125rem;
+  width: 100%;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 640px) {
   .mini-top-nav-hidden {
     display: block;
     margin-top: 0;
@@ -530,16 +542,31 @@ section.top-nav a:hover {
     position: fixed;
   }
 }
-.mini-search-link {
-  background-color: transparent;
-  font-size: 18px;
-}
-.top-bar-section {
-  background: transparent;
-}
 .mini-top-nav-visible {
   display: block;
   margin-top: 0;
+}
+.mini-search-link {
+  background-color: transparent;
+  font-size: 18px;
+  color: #000000;
+  position: relative;
+}
+/*
+  a.latest-review{
+    font-family: @sans-serif;
+    font-size: @text-small;
+    color:#939598;
+    position: relative;
+  }
+  a.latest-review:hover,a.latest-review:active{
+    color:#5BC2EF;
+    background-color: transparent;
+    position: relative;
+  }
+*/
+.top-bar-section {
+  background: transparent;
 }
 .dcac-logo {
   background: url('../img/global/dcac-logo.svg') 0 no-repeat;
@@ -595,9 +622,12 @@ ul.title-area h1 {
   width: auto;
   float: left;
   margin-top: 3.125rem;
-  margin-bottom: 1.5625rem;
-  border-right: 1px solid #c7c8ca;
+  margin-bottom: 0.625rem;
+  border-right: 1px solid #808285;
   margin-right: 1.5625rem;
+}
+.no-border {
+  border: none;
 }
 footer ul {
   list-style: none;
@@ -623,6 +653,12 @@ footer ul li.social {
   padding-right: 1.5625rem;
   margin: 0;
   padding-left: 0;
+}
+footer hr {
+  background: #808285;
+  height: 1px;
+  border: none;
+  margin: 0 0 0.625rem 0;
 }
 a.social-twitter {
   background: url('../img/footer/twitter.png') 0 0 no-repeat;
@@ -696,6 +732,42 @@ div.author {
 .author img {
   height: 125px;
 }
+div.newsletter-signup {
+  width: 320px;
+  float: left;
+  margin-top: 5px;
+}
+.newsletter-signup input[type=email] {
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0.0625rem;
+  border-color: #f00;
+  background: #575758;
+  font-size: 0.875rem;
+  color: #fff;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  padding: 9px;
+  padding-left: 57px;
+  margin: 0;
+  width: 290px;
+  background: #575758 url('../img/footer/email.png') 9px 8px no-repeat;
+}
+.newsletter-signup input[type=submit] {
+  border-top: 1px;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0.0625rem;
+  border-color: #f00;
+  background: transparent;
+  font-size: 0.625rem;
+  color: #f00;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  padding: 0;
+  margin: 0;
+  width: auto;
+  display: none;
+}
 /* side menu */
 .menu-header {
   height: 65px;
@@ -707,9 +779,13 @@ div.author {
   margin-top: 6.25rem;
 }
 .search-form {
-  width: 80%;
+  width: 40%;
   margin: 0 auto;
   background: transparent;
+}
+.entries {
+  width: 50%;
+  margin: 0 auto;
 }
 input[type=text],
 input[type=text]:focus {
@@ -920,6 +996,11 @@ p::selection {
 #story-title {
   height: 31.25rem;
 }
+@media only screen and (max-width: 640px) {
+  #story-title {
+    height: auto;
+  }
+}
 #title {
   display: block;
   position: relative;
@@ -929,8 +1010,12 @@ p::selection {
 .title-info {
   position: relative;
 }
+@media only screen and (max-width: 640px) {
+  .title-info {
+    margin-top: 45px;
+  }
+}
 .title-img {
-  height: 31.25rem;
   width: 100%;
   display: block;
   position: absolute;
@@ -943,6 +1028,12 @@ p::selection {
   -o-background-size: cover;
   background-size: cover;
   background-position: center;
+  height: 31.25rem;
+}
+@media only screen and (max-width: 640px) {
+  .title-img {
+    height: 18.75rem;
+  }
 }
 #body-text {
   margin-top: 0;
@@ -1004,9 +1095,43 @@ img.scrolled {
   bottom: 67px;
   text-shadow: 0 0 0.125rem #333333;
 }
+@media only screen and (max-width: 640px) {
+  .review-status {
+    position: relative;
+    bottom: 0;
+    background-color: #666;
+    margin-top: 300px;
+  }
+}
+@media only screen and (max-width: 640px) {
+  .status-container {
+    position: absolute;
+    top: 1.125rem;
+    right: 0;
+    font-size: 0.875rem;
+    line-height: 24px;
+    white-space: nowrap;
+  }
+}
+@media only screen and (max-width: 640px) {
+  .status-container br {
+    content: '';
+  }
+}
+@media only screen and (max-width: 640px) {
+  .status-container br:after {
+    content: ' ';
+  }
+}
 .review-people {
   position: absolute;
   bottom: 50px;
+}
+@media only screen and (max-width: 640px) {
+  .review-people {
+    position: relative;
+    bottom: 0;
+  }
 }
 .large-star-rating {
   display: block;
@@ -1014,6 +1139,11 @@ img.scrolled {
   font-size: 1.5rem;
   letter-spacing: 0.3125rem;
   margin-top: 0.625rem;
+}
+@media only screen and (max-width: 640px) {
+  .large-star-rating {
+    margin-top: 0.125rem;
+  }
 }
 .title-divider {
   border: 0;
@@ -1028,6 +1158,12 @@ img.scrolled {
   margin-right: 0.625rem;
   -webkit-filter: drop-shadow(0 0 0.125rem #939598);
   filter: drop-shadow(0 0 0.125rem #939598);
+}
+@media only screen and (max-width: 640px) {
+  .review-stamp {
+    width: 1.1875rem;
+    height: 1.1875rem;
+  }
 }
 .film-info {
   padding: 0;
@@ -1095,6 +1231,16 @@ h1.hero {
   padding: 0;
   text-shadow: 0 0 0.125rem #333333;
 }
+@media only screen and (max-width: 640px) {
+  h1.hero {
+    top: 0.3125rem;
+    right: 0;
+    font-size: 0.875rem;
+    line-height: normal;
+    white-space: nowrap;
+    left: 0.9375rem;
+  }
+}
 article h1.black {
   color: #333333;
   background-color: #eeeeee;
@@ -1153,10 +1299,29 @@ h2.hero-date {
   font-weight: 200;
   text-shadow: 0 0 0.125rem #333333;
 }
+@media only screen and (max-width: 640px) {
+  h2.hero-author,
+  h2.hero-date {
+    top: 0.3125rem;
+    font-size: 0.75rem;
+    line-height: normal;
+    white-space: nowrap;
+    position: relative;
+    left: 0.9375rem;
+  }
+}
 h2.hero-date {
   font-size: 0.875rem;
   font-style: italic;
   line-height: 1rem;
+}
+@media only screen and (max-width: 640px) {
+  h2.hero-date {
+    top: 0.3125rem;
+    font-size: 0.625rem;
+    line-height: normal;
+    white-space: nowrap;
+  }
 }
 h2 a {
   display: inline;
@@ -1186,15 +1351,9 @@ h2.top {
 }
 h3 {
   position: relative;
-  color: #333333;
   text-align: left;
   margin: 0 auto;
   width: 100%;
-  font-size: 24pt;
-  line-height: 36pt;
-  font-family: "Georgia", serif;
-  font-weight: 200;
-  letter-spacing: normal;
 }
 .body-addressee {
   margin-bottom: 15px;
@@ -1208,6 +1367,17 @@ h3 span.addressee {
   font-weight: 700;
   text-shadow: 0 0 2px #333333;
 }
+@media only screen and (max-width: 640px) {
+  h3 span.addressee {
+    color: #ffffff;
+    text-align: left;
+    font-size: 1.5rem;
+    line-height: 0.875rem;
+    font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+    font-weight: 700;
+    text-shadow: 0 0 2px #333333;
+  }
+}
 h3 span.position {
   color: #ffffff;
   text-align: left;
@@ -1216,6 +1386,17 @@ h3 span.position {
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   text-shadow: 0 0 2px #333333;
+}
+@media only screen and (max-width: 640px) {
+  h3 span.position {
+    color: #ffffff;
+    text-align: left;
+    font-size: 3.125rem;
+    line-height: 3.125rem;
+    font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+    font-weight: 700;
+    text-shadow: 0 0 2px #333333;
+  }
 }
 #review-copy p.intro {
   text-align: left;
@@ -1264,6 +1445,7 @@ p.article-share i {
   background-color: #e6e7e8;
   margin-top: 3.125rem;
   padding-top: 45px;
+  padding-bottom: 45px;
 }
 h1.up-next {
   color: #fff;

@@ -15,7 +15,7 @@ $(document).ready(function () {
       $image.css({
       'width': ww,
       //'height': wh
-      'height': '500px'
+      //'height': '500px'
       });
     }
   }
