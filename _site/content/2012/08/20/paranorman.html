@@ -165,6 +165,8 @@
 
 <p>The story&mdash;about a boy who is an outcast in his town for seeing and communicating with the ghosts&mdash;may be otherworldly, but everything looks like something you can reach out and grab. Which makes sense &ndash; your job as a silicone caster is to actually <em>make</em> the models and puppets used in the stop-motion animation.* The actual physical objects would of course look like, well, actual physical objects and not just a collection of pixels. But the characters in <em>ParaNorman</em> almost pop off the screen. And I&rsquo;m not referring to the 3D.&nbsp;</p>
 
+<p>*Speaking of which, the post-credits time-lapse sequence that shows the amount of work in creating just one of these characters is worth sticking around for</p>
+
 <p>I&rsquo;m convinced it &rsquo;s more than physicality that created this illusion. There&rsquo;s a wonderful sense of what I&rsquo;d call relaxed anarchy in the characters. Stop-motion animation is a meticulous process that has to be planned down to the fraction of a second. But here, interactions and details, whether it&rsquo;s a casual game of catch with a dog&rsquo;s ghost, or something as small as the unhinged jaw of a recently-risen zombie, feel unforced and natural (as much as those can feel natural).</p>
 
 <p>All of this effort wouldn&rsquo;t amount to much without something to drive it, and thankfully <em>ParaNorman</em> also has a strong-enough story and with a great collection of talent to bring it to life. Setting up the plot in the early scenes requires some heavy lifting, but the voice work of Anna Kendrick, Casey Affleck, John Goodman, and Christopher Mintz-Plasse (playing, of all things, the school bully), and the lively score by JohnBrion (which includes a few nice nods to past zombie films) help misdirect our attention from the weighty exposition. And once the things get rolling, all that set-up pays off, leading to a quietly touching denouement relying on character rather than noisy incident. It&rsquo;s a testament to the talent of you and your colleagues that writer-director Chris Butler and director Sam Fell had the faith to let the film&rsquo;s most important moments play out on the faces of your creations.</p>
@@ -174,8 +176,6 @@
 <p>Tangibly yours,</p>
 
 <p>Casey</p>
-
-<p><p>*Speaking of which, the post-credits time-lapse sequence that shows the amount of work in creating just one of these characters is worth sticking around for.&nbsp;</p></div></p>
 
           </div>
         </div>
@@ -283,7 +283,8 @@
       dataType: 'jsonp',
       success: function(data) {
         var html = '<div class="row imdb-info-row no-border full-width">';
-        html += '<img class="imdb-img" src="' +data.Poster +'" />';
+        //html += '<img class="imdb-img" src="' +data.Poster +'" />';
+        html += '<img class="imdb-img" src="http://img.omdbapi.com/?i=tt1623288&apikey=bc6b02e2&h=500" />';
         html += '<span class="imdb-category">Directed by</span><br /><span class="imdb-data">' + data.Director.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
@@ -295,7 +296,7 @@
            // Trim the excess whitespace.
            writers_array[i] = writers_array[i].replace(/^\s*/, "").replace(/\s*$/, "");
            // Add additional code here, such as:
-           if ((writers_array[i].indexOf('characters') == -1) && (writers_array[i].indexOf('story') == -1) && (writers_array[i].indexOf('creator') == -1) && (writers_array[i].indexOf('screen story') == -1) && (writers_array[i].indexOf('television story') == -1) && (writers_array[i].indexOf('article') == -1) && ((writers_array[i].indexOf('play') == -1) || (writers_array[i].indexOf('screenplay') > -1)) && (writers_array[i].indexOf('song') == -1) && (writers_array[i].indexOf('uncredited') == -1) && (writers_array[i].indexOf('also') == -1) && (writers_array[i].indexOf('book') == -1) && (writers_array[i].indexOf('novel') == -1) && (writers_array[i].indexOf('based on') == -1)){
+           if ((writers_array[i].indexOf('characters') == -1) && (writers_array[i].indexOf('story') == -1) && (writers_array[i].indexOf('creator') == -1) && (writers_array[i].indexOf('screen story') == -1) && (writers_array[i].indexOf('television story') == -1) && (writers_array[i].indexOf('article') == -1) && (writers_array[i].indexOf('additional') == -1) && ((writers_array[i].indexOf('play') == -1) || (writers_array[i].indexOf('screenplay') > -1)) && (writers_array[i].indexOf('song') == -1) && (writers_array[i].indexOf('uncredited') == -1) && (writers_array[i].indexOf('also') == -1) && (writers_array[i].indexOf('book') == -1) && (writers_array[i].indexOf('novel') == -1) && (writers_array[i].indexOf('based on') == -1)){
            html += writers_array[i].replace('(screenplay)', '').replace('(written by)', '').replace('(written for the screen by)', '') + '<br />';
            }
         }

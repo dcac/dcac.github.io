@@ -79,38 +79,44 @@
     margin-bottom: @5px;
   }
   .mini-top-nav-hidden{
-    display:none;
+    display:hidden;
     position: absolute;
     top:-(@1px*50);
+    width:100%;
     @media @mobile{
       display:block;
       margin-top:0;
       top:0;
       position:fixed;
     }
+  }  
+  .mini-top-nav-visible{
+    display:block;
+    margin-top:0;
   }
   .mini-search-link{
     background-color: transparent;
     font-size: 18px;
     color:@black;
+    position: relative;
   }
+/*
   a.latest-review{
     font-family: @sans-serif;
     font-size: @text-small;
     color:#939598;
+    position: relative;
   }
   a.latest-review:hover,a.latest-review:active{
     color:#5BC2EF;
     background-color: transparent;
+    position: relative;
   }
+*/
 //Clear the foundtaion style
 .top-bar-section{
   background: transparent;
 }
-  .mini-top-nav-visible{
-    display:block;
-    margin-top:0;
-  }
   .dcac-logo{
     background: url('../img/global/dcac-logo.svg') 0 no-repeat;
     display: block;

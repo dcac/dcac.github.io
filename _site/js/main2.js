@@ -130,9 +130,9 @@ $(function(){
         $('#mini-top-nav.mini-top-nav-visible').slideDown(250);
       }
       else if (direction === "up"){
-        $('#mini-top-nav').removeClass('fixed');
-        $('#mini-top-nav').removeClass('mini-top-nav-visible');
-        $('#mini-top-nav').addClass('mini-top-nav-hidden');
+        //$('#mini-top-nav').removeClass('fixed');
+        //$('#mini-top-nav').removeClass('mini-top-nav-visible');
+        //$('#mini-top-nav').addClass('mini-top-nav-hidden');
         $('#mini-top-nav.mini-top-nav-visible').slideUp(250);
       }
     },{

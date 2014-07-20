@@ -17,13 +17,13 @@ var sidebar = $("#home-sidebar");
 siderow.css({
   height: row.height()
 });
-  if (sidebar.height() < ($.waypoints('viewportHeight')-75)) {
+  if (sidebar.height() < ($.waypoints('viewportHeight')-65)) {
   $('#row-height').waypoint(function(direction) {
   //alert(sidebar.width());
     if (direction === 'down') {
       sidebar.css({
         position:"fixed",
-        top: "75px",
+        top: "65px",
         width: sidebar.width()
       });
       siderow.css({
@@ -43,7 +43,7 @@ siderow.css({
       });
     }
   },{
-    offset: 75 // Apply "stuck" when element 75px from top
+    offset: 65 // Apply "stuck" when element 75px from top
   });
   $("#row-height").waypoint(function(direction){
     if (direction === 'down') {
@@ -61,11 +61,11 @@ siderow.css({
     if (direction === 'up') {
       sidebar.css({
         position:"fixed",
-        top: "75px"
+        top: "65px"
       });
     }
   },{
-    offset: $.waypoints('viewportHeight')-row.height()-110
+    offset: $.waypoints('viewportHeight')-row.height()-65
   });
 }
 
@@ -88,12 +88,12 @@ reviewSidebar.css({
 
 //If the viewport minus the top bar is arger than the sidebar, fix it in place
 
-if ($("#film-info").height() < ($.waypoints('viewportHeight')-85)) {
+if ($("#film-info").height() < ($.waypoints('viewportHeight')-65)) {
   $('#review-copy').waypoint(function(direction) {
   //alert(sidebar.width());
    if (direction === 'down') {
       reviewSidebar.css({
-        top: "85px",
+        top: "65px",
         width: reviewSidebar.width()
         
       });
@@ -114,7 +114,7 @@ if ($("#film-info").height() < ($.waypoints('viewportHeight')-85)) {
       });
     }
   },{
-    offset: 85 // Apply "stuck" when element 75px from top
+    offset: 65 // Apply "stuck" when element 65px from top
   });
   $("#review-copy").waypoint(function(direction){
     if (direction === 'down') {
@@ -128,7 +128,7 @@ if ($("#film-info").height() < ($.waypoints('viewportHeight')-85)) {
     else
     if (direction === 'up') {
       reviewSidebar.css({
-        top: "85px"
+        top: "65px"
       });
       if ($(window).width() <= 640){
          reviewSidebar.css({'position':'relative'});
@@ -138,6 +138,6 @@ if ($("#film-info").height() < ($.waypoints('viewportHeight')-85)) {
       }
     }
   },{
-    offset: $.waypoints('viewportHeight')-rowheight.height()-110
+    offset: $.waypoints('viewportHeight')-rowheight.height()-65
   });
 }

@@ -110,7 +110,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/03/19/veronica-mars.html"><strong>Latest post:</strong></span> <em>Veronica Mars</em> - Dear "We Used to Be Friends", Theme Song</a></li>
+            <li><a href="/content/2014/03/19/veronica-mars.html" class="latest-review"><strong>Latest post:</strong></span> <em>Veronica Mars</em> - Dear "We Used to Be Friends", Theme Song</a></li>
             
           </ul>
         </section>
@@ -120,7 +120,7 @@
 
       <section>
         <div id="story-title" class="title-info" data-equalizer>
-          <div class="title-img" style="background-image:url(/img/article/veronica-mars.jpg)" data-stellar-background-ratio=".25"></div>
+          <div class="title-img" style="background-image:url(/img/article/veronica-mars.jpg);" data-stellar-background-ratio=".25"></div>
           <div class="row" data-equalizer-watch >
             <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
               <div class="review-status">
@@ -288,7 +288,8 @@ But I haven&rsquo;t thought of you lately at all.</em></p>
       dataType: 'jsonp',
       success: function(data) {
         var html = '<div class="row imdb-info-row no-border full-width">';
-        html += '<img class="imdb-img" src="' +data.Poster +'" />';
+        //html += '<img class="imdb-img" src="' +data.Poster +'" />';
+        html += '<img class="imdb-img" src="http://img.omdbapi.com/?i=tt2771372&apikey=bc6b02e2&h=500" />';
         html += '<span class="imdb-category">Directed by</span><br /><span class="imdb-data">' + data.Director.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
@@ -300,7 +301,7 @@ But I haven&rsquo;t thought of you lately at all.</em></p>
            // Trim the excess whitespace.
            writers_array[i] = writers_array[i].replace(/^\s*/, "").replace(/\s*$/, "");
            // Add additional code here, such as:
-           if ((writers_array[i].indexOf('characters') == -1) && (writers_array[i].indexOf('story') == -1) && (writers_array[i].indexOf('creator') == -1) && (writers_array[i].indexOf('screen story') == -1) && (writers_array[i].indexOf('television story') == -1) && (writers_array[i].indexOf('article') == -1) && ((writers_array[i].indexOf('play') == -1) || (writers_array[i].indexOf('screenplay') > -1)) && (writers_array[i].indexOf('song') == -1) && (writers_array[i].indexOf('uncredited') == -1) && (writers_array[i].indexOf('also') == -1) && (writers_array[i].indexOf('book') == -1) && (writers_array[i].indexOf('novel') == -1) && (writers_array[i].indexOf('based on') == -1)){
+           if ((writers_array[i].indexOf('characters') == -1) && (writers_array[i].indexOf('story') == -1) && (writers_array[i].indexOf('creator') == -1) && (writers_array[i].indexOf('screen story') == -1) && (writers_array[i].indexOf('television story') == -1) && (writers_array[i].indexOf('article') == -1) && (writers_array[i].indexOf('additional') == -1) && ((writers_array[i].indexOf('play') == -1) || (writers_array[i].indexOf('screenplay') > -1)) && (writers_array[i].indexOf('song') == -1) && (writers_array[i].indexOf('uncredited') == -1) && (writers_array[i].indexOf('also') == -1) && (writers_array[i].indexOf('book') == -1) && (writers_array[i].indexOf('novel') == -1) && (writers_array[i].indexOf('based on') == -1)){
            html += writers_array[i].replace('(screenplay)', '').replace('(written by)', '').replace('(written for the screen by)', '') + '<br />';
            }
         }
@@ -454,17 +455,17 @@ But I haven&rsquo;t thought of you lately at all.</em></p>
         if(e.keyCode === 27) {
           $("#search-modal").css("display","none");
           $("body").css("overflow","auto");
-          resetForm($('#search'));
+        resetForm($('#search'));
         }
       });
       $('#nav-toggle').click(function(){
         $("#menu-left").trigger("open");
             $('#nav-button-container').css({'display':'none'});
-            $('#film-info').fadeOut('fast');
+            $('#film-row').fadeOut('fast');
       });
       $('#menu-toggle-top').click(function(){
         $("#menu-left").trigger("open");
-        $('#film-info').fadeOut('fast');
+        $('#film-row').fadeOut('fast');
       });
       $("#menu-left")
        .mmenu()
@@ -474,7 +475,7 @@ But I haven&rsquo;t thought of you lately at all.</em></p>
           function()
           {
             $('#nav-button-container').fadeIn('slow');
-            $('#film-info').fadeIn('slow');
+            $('#film-row').fadeIn('slow');
             $('#body-text').waypoint(function(){
               $('#nav-button-container').css({'display':'none'});
             });
@@ -500,7 +501,7 @@ But I haven&rsquo;t thought of you lately at all.</em></p>
   	<script type="text/javascript" src="/js/film-roles.js"></script>
     <script type="text/javascript" src="/vendor/tooltipster/jquery.tooltipster.min.js"></script>
   	<script type="text/javascript" src="/vendor/contentshare/contentshare.ct.js"></script>
-  	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.js"></script>
+  	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
     $(window).stellar({

@@ -529,9 +529,10 @@ section.top-nav a:hover {
   margin-bottom: 0.3125rem;
 }
 .mini-top-nav-hidden {
-  display: none;
+  display: hidden;
   position: absolute;
   top: -3.125rem;
+  width: 100%;
 }
 @media only screen and (max-width: 640px) {
   .mini-top-nav-hidden {
@@ -541,27 +542,31 @@ section.top-nav a:hover {
     position: fixed;
   }
 }
+.mini-top-nav-visible {
+  display: block;
+  margin-top: 0;
+}
 .mini-search-link {
   background-color: transparent;
   font-size: 18px;
   color: #000000;
+  position: relative;
 }
-a.latest-review {
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
-  font-size: 0.75rem;
-  color: #939598;
-}
-a.latest-review:hover,
-a.latest-review:active {
-  color: #5BC2EF;
-  background-color: transparent;
-}
+/*
+  a.latest-review{
+    font-family: @sans-serif;
+    font-size: @text-small;
+    color:#939598;
+    position: relative;
+  }
+  a.latest-review:hover,a.latest-review:active{
+    color:#5BC2EF;
+    background-color: transparent;
+    position: relative;
+  }
+*/
 .top-bar-section {
   background: transparent;
-}
-.mini-top-nav-visible {
-  display: block;
-  margin-top: 0;
 }
 .dcac-logo {
   background: url('../img/global/dcac-logo.svg') 0 no-repeat;
