@@ -1,10 +1,12 @@
-language: ruby
-rvm:
-- 2.1.1
-script: bundle exec jekyll build trace
-install: bundle install
-after_success: bundle exec s3_website push --headless
 env:
   global:
   - secure: Vgnu95n4MKwqbu0hrGgFO/zNkY/EU4zTafGcH8ghXsrLTEKIO65aacETEpBEfc/xWaO+++FB2dFFYUt2FBfSCiNs6n986iTttuJrLwH9sojS9cefPPe/FFTyjQ25xE32ojNOp/CUKaZwMt9hIZyS6czIkUP2Ch8/VL0PC92c8MY=
   - secure: FWucSUZsFrtVwxXCG1Tb7DoxVkakcJvbovS+6d9n+tV6Uo6XWi6K4Xbkt728CDBB0phMMoDOAnQJ5vJbM8xoCBB9x0HquYtBb0BqnAcj3vBW/36mVQeRdbMgIZuqf0QoAujY1HB1saVVDsPt1R4y1cp2cOaD/gfFGkm0P6qKtRs=
+language: ruby
+rvm:
+- 2.1.1
+before_install:
+  - export S3_CREDENTIALS="${S3_ACCESS_KEY_ID}:${S3_SECRET_KEY}"
+script: bundle exec jekyll build
+install: bundle install
+after_success: bundle exec s3_website push --headless
