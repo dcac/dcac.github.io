@@ -30,7 +30,11 @@ sitemap:
         - "/atom.xml"
         - "/feed.xml"
         - "/feed/index.xml"
-        - "vendor"
+        - "Rakefile"
+        - "Gemfile"
+        - "Gemfile.lock"
+        - "README.md"
+        - "s3_website.yml"
     include_posts:
         - "/index.html"
     change_frequency_name: "change_frequency"
