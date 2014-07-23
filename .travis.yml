@@ -3,3 +3,4 @@ rvm:
   - 2.1.1
 script: bundle exec jekyll build trace
 install: bundle install
+after_success: bundle exec s3_website push --headless
