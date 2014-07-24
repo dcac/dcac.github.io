@@ -89,9 +89,10 @@ prose:
           value: ""
       - name: "stars"
         field:
-          element: "number"
-          label: "Stars"
-          value: ""
+          element: number
+          label: Stars
+          value: 
+          type: number
       - name: "image"
         field:
           element: "text"
