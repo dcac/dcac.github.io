@@ -87,10 +87,10 @@ prose:
         field:
           element: "text"
           label: "Image"
-      - name: "exerpt"
+      - name: "excerpt"
         field:
           element: "textarea"
-          label: "Exerpt"
+          label: "Excerpt"
       - name: "stars"
         field:
           element: "number"
