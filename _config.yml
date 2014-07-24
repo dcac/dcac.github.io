@@ -86,7 +86,7 @@ prose:
         field:
           element: "select"
           label: "Starz!"
-          - options:
+          options:
           - name: '4'
             value: '4'
       - name: "image"
