@@ -84,8 +84,11 @@ prose:
           label: "Position"
       - name: "stars"
         field:
-          element: "text"
+          element: "select"
           label: "Starz!"
+          - options:
+          - name: '4'
+            value: '4'
       - name: "image"
         field:
           element: "text"
