@@ -16,20 +16,16 @@ max_age:
 
 s3_endpoint: us-east-1
 
-# exclude_from_upload:
-#    - Gemfile
-#    - Gemfile.Lock
-#    - README.md
-#    - bower.json
-#    - config.codekit
-#    - config.rb
-#    - less
-#    - scss
+exclude_from_upload:
+    - Gemfile
+    - Gemfile.Lock
+    - README.md
+    - bower.json
+    - config.codekit
+    - config.rb
+    - less
+    - scss
 #    - bower_components
-<<<<<<< HEAD
-
-=======
->>>>>>> FETCH_HEAD
 
 s3_reduced_redundancy: true
 
