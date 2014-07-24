@@ -66,38 +66,31 @@ prose:
         field:
           element: "text"
           label: "Title"
-          value: ""
       - name: "imdb"
         field:
           element: "text"
           label: "IMDB"
-          value: ""
       - name: "author"
         field:
           element: "text"
           label: "Author"
-          value: ""
       - name: "addressee"
         field:
           element: "text"
           label: "Addressee"
-          value: ""
       - name: "position"
         field:
           element: "text"
           label: "Position"
-          value: ""
       - name: "stars"
         field:
-          element: "number"
-          label: "Starz"
+          element: "text"
+          label: "Starz!"
       - name: "image"
         field:
           element: "text"
           label: "Image"
-          value: ""
       - name: "exerpt"
         field:
           element: "textarea"
           label: "Exerpt"
-          value: ""
