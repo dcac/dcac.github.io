@@ -61,6 +61,7 @@ prose:
       - name: "layout"
         field:
           element: "select"
+          label: "Layout"
           options:
           - name: "Review"
             value: "review"
@@ -90,7 +91,3 @@ prose:
         field:
           element: "textarea"
           label: "Exerpt"
-     - name: "stars2"
-       field:
-         element: "number"
-         label: "Stars"
