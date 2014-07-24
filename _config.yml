@@ -90,7 +90,7 @@ prose:
       - name: "stars"
         field:
           element: "number"
-          label: "Stars"
+          label: "Starz"
       - name: "image"
         field:
           element: "text"
