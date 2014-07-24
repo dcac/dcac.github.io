@@ -82,10 +82,10 @@ prose:
         field:
           element: "text"
           label: "Position"
-      - name: "stars"
-        field:
-          element: "text"
-          label: "Starz!"
+ #     - name: "stars"
+ #       field:
+ #         element: "text"
+ #         label: "Starz!"
       - name: "image"
         field:
           element: "text"
