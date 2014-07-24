@@ -4,7 +4,6 @@ published: true
 image: "dallas-buyers-club.jpg"
 author: christopherr
 stars: 4
-excerpt: null
 position: Product Placement
 addressee: Wendy Cohen
 categories: reviews
@@ -24,7 +23,7 @@ tags:
   - MMatthew McConaughey
   - Oscars 2014
   - TIFF
-exerpt: null
+excerpt: null
 imdb: tt0790636
 ---
 

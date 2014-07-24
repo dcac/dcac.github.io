@@ -4,7 +4,6 @@ published: true
 image: "white-house-down.jpg"
 author: test
 stars: 2
-excerpt: null
 position: Senior Pyrotechnician
 addressee: David Loveday
 categories: reviews
@@ -24,7 +23,7 @@ tags:
   - Roland Emmerich
   - WHD
   - White House Down
-exerpt: null
+excerpt: null
 imdb: tt2334879
 ---
 

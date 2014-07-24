@@ -8,7 +8,6 @@ published: true
 image: "filthy-gorgeous-the-bob-guccione-story.jpg"
 author: caseyt
 stars: 2.5
-excerpt: null
 position: Music Supervisor
 addressee: Michael Perlmutter
 title: "Filthy Gorgeous: The Bob Guccione Story"
@@ -19,7 +18,7 @@ tags:
   - Letters
   - omni
   - penthouse
-exerpt: null
+excerpt: null
 ---
 
 <p>I was hoping to not write this letter to you. Not writing to you would have meant that Barry Aldrich&rsquo;s documentary <em>Filthy Gorgeous: The Bob Guccione Story</em> had made some interesting choices (successful or not) and didn&rsquo;t simply rip off its musical stylings from <em>Boogie Nights.</em> Sadly, as the films opened with <em>Penthouse </em>founder Bob Guccione photographing a nude model, The Chakachas&rsquo; <em>Jungle Fever</em> started to play and I felt my heart sink.</p>
