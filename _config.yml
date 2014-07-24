@@ -89,7 +89,7 @@ prose:
           value: ""
       - name: "stars"
         field:
-          element: number
+          element: text
           label: Stars
           value: 
           type: number
