@@ -67,6 +67,11 @@ prose:
           element: "text"
           label: "Title"
           value: ""
+      - name: "imdb"
+        field:
+          element: "text"
+          label: "IMDB"
+          value: ""
       - name: "author"
         field:
           element: "text"
@@ -82,12 +87,7 @@ prose:
           element: "text"
           label: "Position"
           value: ""
-      - name: "status"
-        field:
-          element: "text"
-          label: "Status"
-          value: ""
-      - name: "stars"
+      - name: "number"
         field:
           element: "text"
           label: "Stars"
