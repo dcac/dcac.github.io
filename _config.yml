@@ -53,7 +53,7 @@ jekyll_ga:
   sort: true                # Sort posts by this metric
 
 prose:
-  rooturl: '_posts'
+  rooturl: '_posts/reviews'
   siteurl: 'http://dcac.github.io/'
   media: '/img/article'  
   metadata:
