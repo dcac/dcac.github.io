@@ -16,7 +16,6 @@ max_age:
 
 s3_endpoint: us-east-1
 
- exclude_from_upload:
 # exclude_from_upload:
 #    - Gemfile
 #    - Gemfile.Lock
