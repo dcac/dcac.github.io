@@ -93,5 +93,5 @@ prose:
           label: "Exerpt"
       - name: "star-rating"
         field:
-          element: "number"
+          element: "text"
           label: "Rating"
