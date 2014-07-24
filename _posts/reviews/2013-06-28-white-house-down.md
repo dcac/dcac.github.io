@@ -3,7 +3,7 @@ layout: review
 published: true
 image: "white-house-down.jpg"
 author: test
-stars: "2.5"
+stars: "2"
 excerpt: null
 position: Senior Pyrotechnician
 addressee: David Loveday
