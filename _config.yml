@@ -87,9 +87,9 @@ prose:
           element: "text"
           label: "Position"
           value: ""
-      - name: "number"
+      - name: "stars"
         field:
-          element: "text"
+          element: "number"
           label: "Stars"
           value: ""
       - name: "image"
