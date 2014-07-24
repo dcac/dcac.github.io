@@ -46,4 +46,6 @@ When everything feels fake, we&rsquo;re allowed to laugh. When things look great
 
 All fired-up,
 
-Christopher</p><p>*I&rsquo;m amazed it took me this long to finally reference my favourite film growing up.
+Christopher
+
+*I&rsquo;m amazed it took me this long to finally reference my favourite film growing up.
