@@ -91,3 +91,7 @@ prose:
         field:
           element: "textarea"
           label: "Exerpt"
+      - name: "star-rating"
+        field:
+          element: "number"
+          label: "Rating"
