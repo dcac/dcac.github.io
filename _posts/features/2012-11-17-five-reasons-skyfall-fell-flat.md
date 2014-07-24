@@ -7,7 +7,7 @@ author:
 stars: 
 excerpt: 
 position: 
-addressee: 
+addressee: James Bond Fans
 layout: review
 categories:
   - features
@@ -16,8 +16,8 @@ title: "Five Reasons Skyfall Fell Flat"
 comments: true
 tags: [Ending, essay, Essays, James Bond, Javier Bardem, Jui Dench, M, reasons, Skyfall, spoilers, top 5]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/11/16/five-reasons-skyfall-fell-flat.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf771c/1353102268687/Skyfall%20Five%20Reasons2.jpg" alt="" /></a></span></span></p>
-<p><em><span style="font-size:130%;"><strong>Dear James Bond Fans</strong>,</span></em></p>
+
+
 <p>If you haven&rsquo;t seen the new James Bond film <em>Skyfall </em>yet, do it. There&rsquo;s <a href="/letters/2012/11/9/skyfall.html">plenty to love</a> in this 23<sup>rd</sup> official installment of the series. The following, however, is a SPOILER-filled analysis of the final act to discuss why some of us at <em>Dear Cast and Crew</em> thought the ending didn&rsquo;t work.</p>
 <p>1. <strong>The film opens too big. </strong><em>Skyfall</em>, like many Bond films, begins with a spectacular action sequence. This is important, not just to satisfy the demands of the franchise, but because it calibrates audience expectations. The director, Sam Mendes, is smart enough to establish important thematics as well as scale. The first shot tells us it&rsquo;s a story about Bond being a few steps behind others and in the dark. We then learn, twice, that M is willing to sacrifice MI6 agents without hesitation to complete a mission. And as Bond suffers from a surely fatal gunshot wound, falls from a surely fatal height, and lands in a surely fatal rapid-filled river, we&rsquo;re reminded that he may be mortal.&nbsp; But each of these points end up being undermined by the end of the film. Not to mention, the rest of the film never lives up to these early action sequences. The film didn&rsquo;t need more gadgets (even if a fingerprint-activated gun and same &ldquo;gotchya!&rdquo; moment was in <em>Licence to Kill</em>) or even a bigger set piece for the climax, but we do need to feel like more is at stake.</p>
 <p>2. <strong>TMI! So much for being a &ldquo;Secret&rdquo; Agent. </strong>No other film franchise in history has the same successful track record as Bond. Not even close. Part of the appeal goes back the old narrative rule: the more we know about a character, the less interesting they become. The Bond brand, therefore, insisted their hero hide his true self behind martini preferences, non-stop adventures and a parade of beautiful women. We find out he was an orphan, raised by the Service, and always suspected he was a lonely soul trying to fake his way through a posh lifestyle. Except now <em>Skyfall</em> reveals that none of that is true. Bond was basically born at Downton Abbey. That tuxedo he wears is no longer a costume to hide the fact he&rsquo;s simply a &ldquo;blunt instrument&rdquo; (as M points out in <em>Casino Royale</em>). He&rsquo;s just reclaiming his rightful birthplace. This effectively kills the dashing, sexy, mysterious Bond in a way even guns, heights and rushing waters could not.</p>
