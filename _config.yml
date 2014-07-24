@@ -66,10 +66,6 @@ prose:
             value: "review"
           - name: "Essay"
             value: "essay"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
       - name: "imdb"
         field:
           element: "text"
