@@ -60,8 +60,12 @@ prose:
     _posts:
       - name: "layout"
         field:
-          element: "hidden"
-          value: "review"
+          element: "select"
+          options:
+          - name: "Review"
+            value: "review"
+          - name: "Essay"
+            value: "essay"
       - name: "title"
         field:
           element: "text"
@@ -90,7 +94,7 @@ prose:
         field:
           element: "textarea"
           label: "Exerpt"
-     - name: stars
+     - name: "stars"
        field:
-         element: number
-         label: Stars
+         element: "number"
+         label: "Stars"
