@@ -93,5 +93,7 @@ prose:
           label: "Exerpt"
       - name: "stars"
         field:
-          element: "text"
+          element: "number"
           label: "Rating"
+          type: "number"
+          value: "0"
