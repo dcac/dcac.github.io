@@ -3,9 +3,7 @@ layout: review
 published: true
 image: "dallas-buyers-club.jpg"
 author: christopherr
-stars: 
-  - "5"
-  - 5
+stars: ""
 excerpt: null
 position: Product Placement
 addressee: Wendy Cohen
