@@ -60,45 +60,34 @@ prose:
     _posts:
       - name: "layout"
         field:
-          element: "hidden"
-          value: "review"
-      - name: "title"
+          element: "select"
+          label: "Layout"
+          options:
+          - name: "Review"
+            value: "review"
+          - name: "Essay"
+            value: "essay"
+      - name: "imdb"
         field:
           element: "text"
-          label: "Title"
-          value: ""
+          label: "IMDB"
       - name: "author"
         field:
           element: "text"
           label: "Author"
-          value: ""
       - name: "addressee"
         field:
           element: "text"
           label: "Addressee"
-          value: ""
       - name: "position"
         field:
           element: "text"
           label: "Position"
-          value: ""
-      - name: "status"
-        field:
-          element: "text"
-          label: "Status"
-          value: ""
-      - name: "stars"
-        field:
-          element: "text"
-          label: "Stars"
-          value: ""
       - name: "image"
         field:
           element: "text"
           label: "Image"
-          value: ""
       - name: "exerpt"
         field:
           element: "textarea"
           label: "Exerpt"
-          value: ""

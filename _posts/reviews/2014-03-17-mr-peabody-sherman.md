@@ -1,19 +1,23 @@
 ---
 published: true
-image: mr-peabody-sherman.jpg
+image: "mr-peabody-sherman.jpg"
 imdb: tt0864835
 author: dig
-stars: 4
-excerpt: 
+stars: 5
+excerpt: null
 position: Plot Device
-addressee: Wayback Machine 
+addressee: Wayback Machine
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - "current-releases"
 title: "Mr. Peabody & Sherman"
 comments: true
-tags: [animated, comedy, Family, Letters]
+tags: 
+  - animated
+  - comedy
+  - Family
+  - Letters
 ---
 
 <p><span style="color:black;">Hate to start this letter by putting you to work, but you&rsquo;re a time machine, you should have seen this coming.</span></p>
