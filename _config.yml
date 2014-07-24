@@ -90,7 +90,7 @@ prose:
         field:
           element: "textarea"
           label: "Exerpt"
-     - name: "stars"
+     - name: "stars2"
        field:
          element: "number"
          label: "Stars"
