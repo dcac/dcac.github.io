@@ -82,10 +82,6 @@ prose:
         field:
           element: "text"
           label: "Position"
-     - name: "stars"
-       field:
-         element: "text"
-         label: "Stars"
       - name: "image"
         field:
           element: "text"
