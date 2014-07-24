@@ -4,11 +4,8 @@ published: true
 image: "dallas-buyers-club.jpg"
 author: test
 stars: 
-  - t
-  - .nan
-  - .nan
-  - .nan
-  - .nan
+  - "4"
+  - 4
 excerpt: null
 position: Product Placement
 addressee: Wendy Cohen
