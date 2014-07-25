@@ -1,6 +1,7 @@
 ---
 published: true
-image:
+image: 
+imdb: 
 author: caseyt 
 stars: 
 excerpt: 

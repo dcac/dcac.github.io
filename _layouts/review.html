@@ -5,7 +5,7 @@ layout: default
 {% assign author = site.data.authors[page.author] %}
       <section>
         <div id="story-title" class="title-info" data-equalizer>
-          <div class="title-img" style="background-image:url(/img/article/{{ page.image }});" data-stellar-background-ratio=".25"></div>
+          <div class="title-img" style="background-image:url(/img/article/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | downcase | replace: ' ','-' | replace: '\'',''}}.jpg{% endif %});" data-stellar-background-ratio=".25"></div>
           <div class="row" data-equalizer-watch >
             <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
               <div class="review-status">
