@@ -13,6 +13,7 @@ title: "Endless Love"
 comments: true
 tags: [Bruce Greenwood, adaptation, teen, romance, Romantic, drama]
 ---
+
 Modern filmmaking economics being what they are, I wouldn't be surprised if, when you were tasked with dressing the sets of _Endless Love_ and finding all those pieces of furniture and tchotchkes and knickknacks that appear slightly out of focus behind the main characters, you simplified things by sourcing from as few suppliers as possible. The unfortunate effect of such an approach is that every endless scene of _Endless Love_ looks like it's taking place in the pages of a catalogue.
 
 Though I suppose the strategy works since the rest of film rings just as false.
