@@ -1,0 +1,27 @@
+---
+published: true
+image: 
+imdb: 
+author:  
+stars: 
+excerpt: 
+position: 
+addressee: 
+layout: review
+categories: reviews
+title: "It's a Disaster"
+date: 2014-06-16 15:33
+comments: true
+categories: [comedy, Letters, netflix]
+---
+<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/6/16/its-a-disaster.html"><img src="http://rollotomasi73.files.wordpress.com/2014/06/its20a20disaster.jpg" alt="" /></a></span></span></p>
+<p class="Body"><em style="font-size:130%;"><strong>Dear Kristen Saints,</strong> Wardrobe Supervisor,</em></p>
+<p class="Body">What would you wear to the apocalypse? You&rsquo;ve certainly thought about it, haven&rsquo;t you? As the person responsible for all the costumes on a film shoot, you&rsquo;ve probably figured out which fabrics travel best, which will provide superior insulation, and which are most durable. Would you dress for comfort? For protection against the elements? Would you just say screw it and don the most expensive designer gown you could scrounge? Or like the disaffected Gen X/Y characters of <em>It</em><em>&rsquo;s A Disaster</em>, would you bicker and navel gaze until it&rsquo;s too late to choose?</p>
+<p class="Body">As with so many end-of-the-world comedies that have come out in the last few years, <em>It</em><em>&rsquo;s A Disaster</em> relies heavily on the conceit that humanity has become so apathetic that the impending apocalypse is just another blip on the ennui radar. The dialogue crackles with cynicism, and the performances are pitch perfect, but the stagnant cinematography and madcap one-act play staging feels cheap to the touch. Like a silk blouse hidden in a rack of polyester knock-offs, this film has all the qualities of a superior product but gets lost among uninspired conventions.</p>
+<p class="Body">Third dates are tough, especially when they involve being dragged to a couples brunch where you don&rsquo;t know anyone. Such is the case for Glen, who, during the short walk from the car to the porch, gets the Cliff&rsquo;s Notes on the social dynamics of the group he&rsquo;s about to meet for the first (and last) time. His date Tracy explains: it&rsquo;s Pete and Emma&rsquo;s house, and they&rsquo;re a little uptight; Lexi and her husband Buck are free spirits, if they sing just nod and pretend it&rsquo;s good; and whatever you do, don&rsquo;t ask Hedy and Shane about the wedding. But all is not well in this Crate &amp; Barrel world, which is apparent from the amount of hushed comments and side-eye being tossed around. When Pete and Emma bluntly announce their impending divorce, the rest of the group barely have time to register the impact when a neighbour announces that their city has been attacked with dirty bombs and the end is nigh.</p>
+<p class="Body">There are certain unique challenges surrounding the costuming of a film that takes place in the course of a single day. Because most of the characters don&rsquo;t change their outfits, you have to deal with continuity, spot cleaning, and having multiple costumes waiting and ready, just in case. You have to be over-prepared. The nonchalance displayed by the self-absorbed characters in this film is pretty much the antithesis of how you operate. When they realize that they should probably do something constructive like find a radio and tape up the windows, it&rsquo;s all just an imposition to the more pressing concerns like, did Emma or Pete have an affair? Is every guy Tracy dates crazy? and, is it pronounced <em>duc</em>k tape or <em>duct</em> tape?</p>
+<p class="Body">Despite all this fiddling while Rome burns, the characters do evolve with what little time they have left. Glen comforts Tracy by describing what their life together might have been. Hedy and Shane finally confront their wedding angst and Emma and Pete reconcile while Buck and Lexi play &lsquo;House of the Rising Sun&rsquo; on glockenspiel. It&rsquo;s the hell of couples brunch fully realized. I was amused as much as galled by the unapologetic narcissism and stunning lack of empathy exhibited by the characters of <em>It</em><em>&rsquo;s A Disaster</em>. These are people who <em>shouldn</em><em>&rsquo;t</em> survive the apocalypse. But with the embarrassment one feels when showing up to an event wearing the same outfit as someone else, I have to admit, I saw glimpses of my own behaviour reflected here. When the group decides to finally eat brunch and ingest a mixture of poison and pills to speed up the inevitable, hipster doofus Shane takes the words out of my mouth, &ldquo;If this is gonna be my last drink on earth I&rsquo;d prefer it not be a Merlot.&rdquo;</p>
+<p class="Body">It&rsquo;s understandable when making a movie about the end of the world if costumes get a little faded. Maybe next time you unpack your wardrobe truck when you get it to the set, you could put the most original and interesting pieces where the filmmaker can see them. A little inspiration can go a long way.&nbsp;</p>
+<p class="Body">Packing it in,&nbsp;</p>
+<p class="Body">Di</p>
+<p class="Body"><strong><em>Status: Standard Delivery (3/5)</em></strong></p></div>

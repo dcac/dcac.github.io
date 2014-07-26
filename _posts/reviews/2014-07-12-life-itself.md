@@ -1,0 +1,27 @@
+---
+published: true
+image: 
+imdb: 
+author:  
+stars: 
+excerpt: 
+position: 
+addressee: 
+layout: review
+categories: reviews
+title: "Life Itself"
+date: 2014-07-12 04:52
+comments: true
+categories: [documentary, film criticism, Gene Siskel, Letters, Roger Ebert, Steve James]
+---
+<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/7/12/life-itself.html"><img src="http://rollotomasi73.files.wordpress.com/2014/07/life20itself.jpg" alt="" /></a></span></span></p>
+<p><span style="font-size:120%;"><strong><em>Dear Steve Stanton,</em></strong><em> Roger Ebert&rsquo;s Narrative Voice,</em></span></p>
+<p>I was going to start this letter by asking you if it was intimidating to stand in for a voice that has meant so much to so many. But a quick perusal of <a href="http://www.imdb.com/name/nm0822812/">your resume</a> shows me that supplying such voices is your professional calling. It&rsquo;s a testament to your ability that, while watching Steve James&rsquo; documentary <em>Life Itself</em>, I simply assumed you&rsquo;d been chosen because you were a natural fit with Roger Ebert&rsquo;s voice.&nbsp;</p>
+<p>Instead of aiming for outright mimicry, you capture the essence of Ebert&mdash;his cadence, that midwestern accent&mdash;so that it never becomes distracting to hear you paired with clips of the real man. A bit of remove is a good thing. And while it&rsquo;s entertaining and touching, <em>Life Itself</em> could have used more choices like this.</p>
+<p>Of course, this choice was one born of necessity: Ebert famously lost his voice to complications due to thyroid cancer in 2006, well before the publication of <em>Life Itself</em>, his autobiography (which, besides provides many of the passages you recite, as well as the much of film&rsquo;s structure). It&rsquo;s is portrait of a life lived large, and director Steve James does&nbsp; particularly&nbsp; fine job when focusing on Ebert&rsquo;s early years and his rise to become one of the most influential voices in the history of film criticism; he transitions between a series of photos of Ebert in which the people around him change while he stays fixed at the center. This is Ebert&rsquo;s story, after all.&nbsp;</p>
+<p><em>Life Itself</em> is told mainly through two relationships in Ebert&rsquo;s life: his partnership with fellow critic Gene Siskel and his marriage to Chaz Ebert. Scenes with Chaz are used mainly as a framing device, but are also some of <em>Life Itself</em>&rsquo;s<em> </em>most powerful moments. We see the couple dealing with Ebert&rsquo;s declining health; as he comes to accept that he is near the end of his life, his wife stays a strong, calm presence.&nbsp;</p>
+<p>Ebert was known for having close relationships with some of the filmmakers he reviewed. As he became a more powerful voice in the world of film, he used his influence to champion films he knew the general public might otherwise never be exposed to. A few of his favourite filmmakers are present in <em>Life Itself,</em> most notably Martin Scorsese, Werner Herzog, Errol Morris, and Ramin Bahrani&mdash;all of whom discuss, at length, how their careers owe a debt to Ebert&rsquo;s enthusiasm.</p>
+<p>But the thing is, some of these same names are involved in the production <em>Life Itself</em> as well (Scorsese, for example, is an executive producer). Unlike you, Steve, these aren&rsquo;t simply hired guns applying their craft. There&rsquo;s an emotional connection to their subject which clearly informs their subjectivity. Much of the shots taken at Ebert and Siskel &ndash; that they simplified criticism to a binary system that left no room for nuance &ndash; are given only the most cursory attention. Sure, a damning <em>Film Comment</em> piece by Richard Corliss is referenced (and read by Corliss himself), but it is presented in a way that makes Corliss seem apologetic for it (one might infer that Corliss regretted the piece&rsquo;s tone more than its content, but James cuts away before any elaboration is made). Likewise, the years following Gene Siskel&rsquo;s death are omitted almost completely. According to<em>Life Itself</em>, <em>At the Movies</em> died with Siskel. (At this point, I&rsquo;ve mentioned Richard Roeper &ndash; Ebert&rsquo;s co-host for 8 years &ndash;&nbsp; as much as the film does. Now I&rsquo;ve mentioned him more.)&nbsp;</p>
+<p>The post-Siskel years focus more on Chaz and Roger&rsquo;s relationship. Her influence on the man was certainly life-altering, but it feels incomplete to celebrate Ebert&rsquo;s critical legacy without fully addressing its critics (and believe me, I&rsquo;m aware of the dangers of film criticism rooted in simplified <a href="/">gimmicks</a>). This is a film made mainly by people who owe Ebert a debt of gratitude. The love that comes through is infectious; most of my own issues arose in the days after seeing <em>Life Itself.</em> It succeeds on an emotional level that carries us away from the nagging questions we may have. But Roger Ebert famously said that the movies are a &ldquo;machine that generates empathy&rdquo; for our fellow human beings .That&rsquo;s why I&rsquo;m giving <em>Life Itself</em> a thumbs up.</p>
+<p>Casey</p>
+<p><strong><em>Status: Air Mail (3.5/5)</em></strong></p></div>
