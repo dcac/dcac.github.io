@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/a-good-old-fashioned-orgy.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">A Good Old Fashioned Orgy</h1>
-                <h2 class="hero-author">
-                  By <a href="/about/writers/christopherr">Christopher Redmond</a>
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on July 26, 2012
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">A Good Old Fashioned Orgy</h1>
+                  <h2 class="hero-author">
+                    By <a href="/about/writers/christopherr">Christopher Redmond</a>
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on July 26, 2012
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Standard<br />Delivery<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Andy Bader</span><br />
                   <span class="position">Camera Loader</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Andy Bader,</p>
+            <p class="intro hide-for-small">Dear Andy Bader,</p>
             <p class="intro">I&rsquo;m really sorry, Mr. Bader. If you didn&rsquo;t have a hard enough time living down that surname in grade school, I&rsquo;m guessing this cast and crew completely wore you out. Did they pretend to flatter your camera-loading skills by calling you a &ldquo;master&rdquo;? Or did they just stick to &ldquo;Handy Andy&rdquo;? Either way, I hope they didn&rsquo;t hurt your feelings. When your name so easily lends itself to masturbation jokes, it&rsquo;s hard to resist the obvious. And being subtle is clearly not a strong suit for the people involved in <em>A Good Old Fashioned Orgy</em>.</p>
 
 <p>That said, the premise of Alex Gregory and Peter Huyck&rsquo;s adult comedy is actually treated with more regard than the title might imply. Jason Sudeikis gives us a likeable party-hard who mainly gets off by showing others a good time. When his tight group of friends, entering their early 30s, realize they&rsquo;re headed different directions in life, he proposes an intimate encounter that will see their glory days go out with a bang. The month-long build up to the big event gives ample time to seduce the nay-sayers and shrink the go-getters&rsquo; firm resolve. Some rather humorous research helps the men realize that they can&rsquo;t only focus on keeping up people&rsquo;s spirits, if ya know what I mean.</p>
@@ -178,10 +181,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2012/03/30/friends-with-kids.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/friends-with-kids.jpg" alt="Friends with Kids" />
@@ -199,8 +206,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/08/02/the-to-do-list.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="The To-Do List" />
@@ -219,7 +227,7 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/10/23/eddie-the-sleepwalking-cannibal.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/eddie-the-sleepwalking-cannibal.jpg" alt="Eddie: The Sleepwalking Cannibal" />
@@ -497,12 +505,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/john-carter.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">John Carter</h1>
-                <h2 class="hero-author">
-                  By <a href="/about/writers/christopherr">Christopher Redmond</a>
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on March 09, 2012
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">John Carter</h1>
+                  <h2 class="hero-author">
+                    By <a href="/about/writers/christopherr">Christopher Redmond</a>
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on March 09, 2012
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Standard<br />Delivery<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Anthony Drewett</span><br />
                   <span class="position">Costume Fitter</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Anthony Drewett,</p>
+            <p class="intro hide-for-small">Dear Anthony Drewett,</p>
             <p class="intro">Anyone can draw slutty costumes. Apparently, even Disney. The trick is to be able to pull them off &ndash; and maybe put them back on. Loin cloths. Breast plates. Chest plates. Butt flaps. Dude, your job sounds like the bisexual dream!</p>
 
 <p>But where do you draw the line? I mean that literally &ndash; Disney must have a mathematical formula for the percentage of buttocks that can be flashed in a family film.  I&rsquo;m guessing that, like a naughty catholic schoolgirl, you had your actors tense up their shoulders and stretch out their fingertips to show every extra skin cell the rulebook would allow. Maybe that&rsquo;s why amid the hundreds of millions of dollars put into this production, my eyes were still pathetically drawn to the most carnal of human pleasures. How much of Lynn Collin&rsquo;s leg are they going to show? How&rsquo;s that old woman going to pull off that gown? Did they just digitally erase Taylor Kitch&rsquo;s buttcrack? That&rsquo;s when I knew there was a problem.</p>
@@ -174,10 +177,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2012/09/10/cloud-atlas.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/cloud-atlas.jpg" alt="TIFF: Cloud Atlas" />
@@ -195,27 +202,28 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/11/05/wadjda.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/" alt="Wadjda" />
+                    <img src="/img/article/thumb/wadjda.jpg" alt="Wadjda" />
                     <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
                   </div>
                 </a>
                 
                 <a href="/content/2013/11/05/wadjda.html">
                   <div class="review-text">
                     <h1>Wadjda</h1>
-                    <h2 class="addressee">Dear , </h2>
+                    <h2 class="addressee">Dear Abdulaziz Abdalnorr, Costume Driver</h2>
                     <h2 class="author">By Christopher Redmond</h2>
                   </div>
                 </a>
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/09/18/the-grand-seduction.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="The Grand Seduction" />
@@ -493,12 +501,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

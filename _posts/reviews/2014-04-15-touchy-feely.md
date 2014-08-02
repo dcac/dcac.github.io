@@ -1,21 +1,19 @@
 ---
 published: true
-image: 
-imdb: 
-author:  
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: touchy-feely.jpg
+imdb: tt2364949
+author: dig
+stars: 3
+excerpt: "Biking Lifestyle Consultant seems a nebulous yet professional sounding title, the kind of thing you murmur to someone you're trying to impress at a Citizen Dick concert."
+position: Biking Lifestyle Consultant
+addressee: Kelsey Wood
 layout: review
 categories: reviews
 title: "Touchy Feely"
 date: 2014-04-15 16:01
 comments: true
-categories: [drama, Ellen Page, indie, Letters, Sundance]
+tags: [drama, Ellen Page, indie, Letters, Sundance]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/4/15/touchy-feely.html"><img src="http://rollotomasi73.files.wordpress.com/2014/04/touchy-feely.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:120%;"><strong>Dear Kelsey Wood,</strong> Biking Lifestyle Consultant,</em></p>
 <p>Biking Lifestyle Consultant seems a nebulous yet professional sounding title, the kind of thing you murmur to someone you&rsquo;re trying to impress at a Citizen Dick concert. I noticed on IMDB, you&rsquo;re also listed as the sound mixer, sound designer and supervising sound editor. This is probably good for you, because curiously, we don&rsquo;t actually see any cycling in <em>Touchy Feely</em>, which leads me to believe &lsquo;biking lifestyle consultant&rsquo; doesn&rsquo;t exactly pay the rent.</p>
 <p>In the credits your name comes after a Reiki consultant, a massage therapy consultant and two dental consultants, all of whose contributions are relevant and obvious in a film about the importance and power of healing. Perhaps your skills were more &lsquo;lifestyle&rsquo; than &lsquo;biking&rsquo; and helped lay the foundation that informed the backstory for Jesse, the sensitive, New Age boyfriend of the main character. It is, after all, his casual suggestion that acts as a subtle&nbsp; catalyst that pushes the characters down their unsolicited paths.&nbsp;</p>
 <p>Abby is a thriving massage therapist who works in Seattle, one floor below her friend/mentor Bronwyn, a Reiki master. Abby&rsquo;s nebbish brother Paul, and his mousy daughter Jenny, work at Paul&rsquo;s failing dental practice. Jenny, though devoted to her dad, longs for a life of her own and a guy she can&rsquo;t have. When Jesse asks Abby to move in with him, she develops a growing aversion to human contact. As Abby&rsquo;s life and livelihood crumble, Paul&rsquo;s business booms when he suddenly gains the ability to cure people&rsquo;s pain.&nbsp;</p>
@@ -25,4 +23,3 @@ categories: [drama, Ellen Page, indie, Letters, Sundance]
 <p>There are many moments throughout the film where we see bicycles, but never in use. Jesse even works at a cycle shop and yet the frames rest against the wall, wheels frozen. If there is a polar opposite to Chekov&rsquo;s Gun, it would be Jesse&rsquo;s Bike. I kept waiting for something bigger to happen here, but wasn&rsquo;t necessarily disappointed when it didn&rsquo;t. Watching an amiable group of people whose lives are like those resting bikes that finally&nbsp; get out for a spin was joyride enough. Not the Tour de France, mind you, but a lovely Sunday in the park.&nbsp;</p>
 <p>Keep up the pace,</p>
 <p>Di</p>
-<p><strong><em>Status: Standard delivery (3/5)</em></strong></p></div>

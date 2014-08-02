@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -421,12 +422,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/humpday.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">Humpday</h1>
-                <h2 class="hero-author">
-                  By Test Author
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on February 01, 2013
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">Humpday</h1>
+                  <h2 class="hero-author">
+                    By Test Author
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on February 01, 2013
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 <br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear </span><br />
                   <span class="position"></span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear ,</p>
+            <p class="intro hide-for-small">Dear ,</p>
             <div><p class="intro"><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/2/1/humpday.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf77ae/1359756782237/Humpday.jpg" alt="" /></a></span></span></p>
 <p><em><span style="font-size:130%;"><strong>Dear Lisa Cohen</strong>, Tape to Film Transferer,</span></em><br /> <br />Film might be dead, but independent filmmakers are thriving. Director Lynn Shelton is a perfect example&mdash;she shot Humpday with some friends, on low-end professional Panasonic HVX200 cameras, and later made a big splash at film festivals after you performed your (increasingly rare) film transfer. This is an important step for artists. Projecting the film to an audience in a traditional format can elevate low-budget production qualities. And it&rsquo;s this sort of thinking that propels the absorbing comedy Humpday as it follows two straight dudes struggling with the idea of boning each other.<br /> <br />The act of having sex, of course, is secondary to the exercise of videotaping the whole experience as an &ldquo;art project&rdquo;. Best friends Ben (Mark Duplass) and Andrew (Josh Leonard) convince themselves, one drug- and alcohol-fueled night, that they could make an arresting entry into the underground &ldquo;Humpfest&rdquo; film festival by documenting their ability to overcome their sexual hang-ups.  The actual hook-up, however, is philosophized over and planned in a more sober mindset. The matter eventually morphs into a question of principals, morals, and independence when Ben&rsquo;s wife Anna (Alycia Delmore) catches wind of their plan (and reacts appropriately).<br /> <br />Humpday works so well as a dramatic comedy because it accomplishes the carefree and honest approach the two men are trying to capture in their alt-porn adventure. Lynn Shelton allows her camera operator to engage in Tom Hooper-type close-ups, as well as the freedom to pan around the room without ever breaking the moment. It&rsquo;s also credit to the actors that they can perform so naturally when the fly on the wall is buzzing right in their faces. The dialogue is repetitive and overlaps when debates become heated, but the mediocre sound quality also lends itself to the &ldquo;mumblecore&rdquo; movement that Shelton and Duplass legitimized with this film. The whole thing is a joy to watch unfold.</p>
 <p>Most importantly, the filmmaking style doesn&rsquo;t labour over lofty artistic obsessions like the two main characters do. It achieves an emotional honesty, with legitimate personal stakes that actually translate into wonderful tension and subtle displays of comedy.  It&rsquo;s ironic that the film fits so well on the Netflix platform (where I saw it).</p>
@@ -173,10 +176,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2013/03/13/safety-not-guaranteed.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="Safety Not Guaranteed" />
@@ -194,8 +201,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/03/26/side-by-side.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="Side By Side" />
@@ -214,7 +222,7 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/01/16/jeff-who-lives-at-home.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="Jeff, Who Lives at Home" />
@@ -492,12 +500,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

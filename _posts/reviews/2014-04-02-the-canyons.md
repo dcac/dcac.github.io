@@ -1,21 +1,19 @@
 ---
 published: true
-image: 
-imdb: 
-author:  
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: the-canyons.jpg
+imdb: tt2292959
+author: dig
+stars: 1.5
+excerpt: "When I first heard about The Canyons, I was morbidly curious. A Bret Easton Ellis script directed by Paul Schrader, starring porn star James Deen and America's favourite trainwreck, Lindsay Lohan?"
+position: Editor (Almost)
+addressee: Steven Soderbergh
 layout: review
 categories: reviews
 title: "The Canyons"
 date: 2014-04-02 19:08
 comments: true
-categories: [Brett Easton Ellis, controversy, drama, James Deen, Letters, Lindsay Lohan, Paul Schrader]
+tags: [Brett Easton Ellis, controversy, drama, James Deen, Letters, Lindsay Lohan, Paul Schrader]
 ---
-<div><p class="Normal1"><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/4/2/the-canyons.html"><img src="http://rollotomasi73.files.wordpress.com/2014/04/the-canyons.jpg" alt="" /></a></span></span></p>
-<p class="Normal1"><span style="font-size:120%;"><em><strong>Dear Steven Soderbergh,</strong> Editor (Almost)</em></span>,</p>
 <p class="Normal1">When I first heard about <em>The Canyons, </em>I was morbidly curious. A Bret Easton Ellis script directed by Paul Schrader, starring porn star James Deen and America&rsquo;s favourite trainwreck, Lindsay Lohan? I remember thinking to myself, <em>it&rsquo;s so crazy it just might work!</em> And less than a second later thinking: <em>it will be terrible</em>. Though the result is closer to my second thought, what I find most frustrating is that the film had the potential to be greater than the sum of it&rsquo;s parts. Is that how you felt too?</p>
 <p class="Normal1">In Stephen Rodrick&rsquo;s&nbsp; behind-the-scenes article in the New York Times, he documents Schrader&rsquo;s and Ellis&rsquo; vision of making a sexy, expensive-looking thriller on the cheap. What comes through most powerfully is James Deen&rsquo;s refreshing professionalism amid Lindsay&rsquo;s hiring, firing, re-hiring and on-set hijinx&mdash;as well as the interesting fact that when Schrader showed you his cut of the film, you offered to edit it if he gave you 72 hours. He refused, which left me wondering: what would you have done differently?</p>
 <p class="Normal1">I suppose it depends on what you might have found hiding in all the unseen footage. If what Schrader has assembled is the best he had to cut from, you may have had a difficult time even putting together a trailer. Were you confused as I was about how the guy who wrote <em>American Psycho</em> and the guy who directed <em>American Gigolo</em> ended up making a film that should have been called <em>American Tedium</em>? Or would you have renamed it <em>sex, lies and zzzzzz</em>?</p>
@@ -26,4 +24,3 @@ categories: [Brett Easton Ellis, controversy, drama, James Deen, Letters, Lindsa
 <p class="Normal1">If what I read about <em>The Canyons</em> is true, the real drama was behind the camera. So promise me this one thing: if you ever get your hands on that footage, you will assemble it into a making-of documentary. That&rsquo;s where we&rsquo;ll find a juicy story and some depth of character. No offense, but I&rsquo;d rather see that than<em> </em>another bloody <em>Ocean&rsquo;s </em>movie<em>.</em></p>
 <p class="Normal1">Sitting this hike out,</p>
 <p class="Normal1">Di</p>
-<p class="Normal1"><em><strong>Status: Return to sender (1.5/5)</strong></em></p></div>

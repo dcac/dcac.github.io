@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/the-purge.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">The Purge</h1>
-                <h2 class="hero-author">
-                  By <a href="/about/writers/christopherr">Christopher Redmond</a>
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on June 13, 2013
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">The Purge</h1>
+                  <h2 class="hero-author">
+                    By <a href="/about/writers/christopherr">Christopher Redmond</a>
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on June 13, 2013
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Standard<br />Delivery<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Aaron Becker</span><br />
                   <span class="position">Main Title Designer</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Aaron Becker,</p>
+            <p class="intro hide-for-small">Dear Aaron Becker,</p>
             <p class="intro">There&rsquo;s something rather brilliant about the set-up for <em>The Purge</em>. One night a year, all crime is made legal throughout a reconstituted United States and citizens are encouraged to &ldquo;purge&rdquo; their inner demons. Basically, it&rsquo;s a feature film treatment of George Orwell&rsquo;s &ldquo;Two Minutes Hate&rdquo; from <em>1984</em>. Security footage in your opening sequence introduces us to the concept, depicting acts of grainy savagery with convincing realism. Seeing these violent outbursts from across the country effectively ignites our imaginations about all the narrative possibilities that exist &ndash; that is, until the movie turns into a pretty standard home invasion thriller.&nbsp;</p>
 
 <p>See, despite the intriguing premise you helped establish, <em>The Purge </em>focuses exclusively on home security salesman James Sandin (Ethan Hawke). We first see him cruising around his well-to-do suburb, making sure his clients are ready for the big night. His own middle-class mansion is also fully equipped for lock-down, hoping the mechanical steel shutters will protect his wife Mary (Lena Heady), wayward daughter Zoey (Adelaide Kane) and gadget-loving son Charlie (Max Burkholder). But when bleeding heart Charlie let&rsquo;s a wounded vagrant in off the streets for protection, the family becomes the target of a group of &ldquo;hunters&rdquo; who, on principle, refuse to allow this act of sanctuary go unpunished. The result is some good moral philosophizing within the family under intense pressure, and a bold mid-point decision that dictates how the rest of the story will unfold.</p>
@@ -178,10 +181,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2013/10/03/resolution.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/resolution.jpg" alt="Resolution" />
@@ -199,8 +206,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/08/27/youre-next.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="You're Next" />
@@ -219,7 +227,7 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2014/03/04/non-stop.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/non-stop.jpg" alt="Non-Stop" />
@@ -497,12 +505,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

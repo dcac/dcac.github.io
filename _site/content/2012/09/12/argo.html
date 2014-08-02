@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/argo.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">TIFF: Argo</h1>
-                <h2 class="hero-author">
-                  By <a href="/about/writers/christopherr">Christopher Redmond</a>
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on September 12, 2012
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">TIFF: Argo</h1>
+                  <h2 class="hero-author">
+                    By <a href="/about/writers/christopherr">Christopher Redmond</a>
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on September 12, 2012
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Priority<br />Post<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Max Daly</span><br />
                   <span class="position">Researcher</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Max Daly,</p>
+            <p class="intro hide-for-small">Dear Max Daly,</p>
             <p class="intro">Hollywood has a habit of recklessly re-writing history to sell a story. It&rsquo;s entertainment, so no one&rsquo;s complaining&mdash;well, except for researchers like you. In your line of work, fudging the facts might be disastrous. But for Tony Mendez and the six American diplomats trying to sneak out of Iran during the revolution of 1979, getting a detail wrong would have been deadly. We feel those consequences to maximum effect in <em>Argo</em>, a masterfully suspenseful dramatization of the now-declassified rescue mission, reconstructed with incredible period detail by you and director Ben Affleck.</p>
 
 <p>The vintage Warner Brother&rsquo;s logo fades into a condensed history of Iran, helping us non-history-buffs catch up on the sociopolitical mood of Iran in the late 70s. The technique works beautifully, employing illustrated storyboards, that pre-production staple, to foreshadow the upcoming film-centric story. Six Americans have escaped the overrun U.S. embassy, taking refuge at the Canadian Ambassador&rsquo;s home with no way out until CIA operative Tony Mendez (Ben Affleck) cooks up a plan for them to pose as a Canadian film crew. The stakes are sky-high, not just for the individuals involved, but for two countries teetering on the edge of war.</p>
@@ -180,10 +183,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2012/10/15/argo.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/argo.jpg" alt="Argo" />
@@ -201,8 +208,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/09/25/blackbird.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/blackbird.jpg" alt="TIFF: Blackbird" />
@@ -221,7 +229,7 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/11/30/killing-them-softly.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/killing-them-softly.jpg" alt="Killing Them Softly" />
@@ -499,12 +507,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

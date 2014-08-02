@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/american-reunion.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">American Reunion</h1>
-                <h2 class="hero-author">
-                  By <a href="/about/writers/christopherr">Christopher Redmond</a>
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on April 12, 2012
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">American Reunion</h1>
+                  <h2 class="hero-author">
+                    By <a href="/about/writers/christopherr">Christopher Redmond</a>
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on April 12, 2012
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Standard<br />Delivery<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Jojo Villanueva</span><br />
                   <span class="position">Music Supervisor</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Jojo Villanueva,</p>
+            <p class="intro hide-for-small">Dear Jojo Villanueva,</p>
             <p class="intro">Do you have the time, to listen to me whine<br />About the way this film&rsquo;s stuck in &rsquo;99?<br />Pie is one those, melodramatic sequels<br />Neurotic with a tone of doubt about it.</p>
 
 <p>Sometimes I give them a free pass<br />Sometimes my mind enjoys this crap<br />But the films are adding up<br />What&rsquo;s next, three girls and a cup?<br />Am I just paranoid<br />or is this old?&nbsp;</p>
@@ -178,10 +181,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2012/10/31/silent-hill-revelation.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/silent-hill-revelation.jpg" alt="Silent Hill : Revelation" />
@@ -199,27 +206,28 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/10/01/cloudy-with-a-chance-of-meatballs-2.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/" alt="Cloudy with a Chance of Meatballs 2" />
+                    <img src="/img/article/thumb/cloudy-with-a-chance-of-meatballs.jpg" alt="Cloudy with a Chance of Meatballs 2" />
                     <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
                   </div>
                 </a>
                 
                 <a href="/content/2013/10/01/cloudy-with-a-chance-of-meatballs-2.html">
                   <div class="review-text">
                     <h1>Cloudy with a Chance of Meatballs 2</h1>
-                    <h2 class="addressee">Dear , </h2>
-                    <h2 class="author">By Test Author</h2>
+                    <h2 class="addressee">Dear Erica Rivenoja, writer</h2>
+                    <h2 class="author">By Casey Tourangeau</h2>
                   </div>
                 </a>
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/07/12/grown-ups-2.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="Grown Ups 2" />
@@ -497,12 +505,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

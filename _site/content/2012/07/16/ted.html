@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/ted.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">Ted</h1>
-                <h2 class="hero-author">
-                  By <a href="/about/writers/christopherr">Christopher Redmond</a>
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on July 16, 2012
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">Ted</h1>
+                  <h2 class="hero-author">
+                    By <a href="/about/writers/christopherr">Christopher Redmond</a>
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on July 16, 2012
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Standard<br />Delivery<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Kristen Borges</span><br />
                   <span class="position">Fur Groomer</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Kristen Borges,</p>
+            <p class="intro hide-for-small">Dear Kristen Borges,</p>
             <p class="intro">I promise right now to not refer to you as <em>Ted</em>&rsquo;s official fluffer. That would be very demeaning to your profession. And childish of me. There&rsquo;s just no room for that kind of language in a serious film review. Plus, you probably were <em>defluffing</em> half the time. Like combing Ted&rsquo;s teddy hair just right for the practical shots. Cleaning away the smell of marijuana and powdery traces of cocaine. Wiping off chocolate from his mouth after simulating oral sex with a Fudgesicle. Washing out hand-lotion that was mock semen from a gang-bang. Besides, we&rsquo;re told multiple times that, despite his rabid libido, Ted doesn&rsquo;t have a cock to fluff anyway. I mean penis. Fuck! Shit! Comedy!</p>
 
 <p>Alright, now that we have that out of our system, let&rsquo;s look at what else you were working with. First off, it must have been nice to brush up against a pop culture icon in his feature film debut. <em>Family Guy</em> creator Seth MacFarlane is the writer, director, producer, (voice)-actor and all-around appeal of this R-rated comedy. Sure it has moments of shit-on-the-floor raunchiness, but pushing boundaries in film is a lot harder than on network TV, where the Griffins have been living on the edge for better part of a decade. Here the muzzle is finally taken off, and what we get is a tough-talking teddy bear that still needs to cuddle. This sets up some warm and fuzzy moments early on, when the film is probably at its best, but still struggles to find a real heartbeat in an otherwise painfully conventional romantic comedy.</p>
@@ -178,10 +181,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2012/09/30/for-a-good-time-call.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/for-a-good-time-call.jpg" alt="For a Good Time, Call..." />
@@ -199,8 +206,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/04/26/pain-gain.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="Pain & Gain" />
@@ -219,19 +227,19 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/10/08/short-term-12.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/" alt="Short Term 12" />
+                    <img src="/img/article/thumb/short-term-12.jpg" alt="Short Term 12" />
                     <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /></div>
                   </div>
                 </a>
                 
                 <a href="/content/2013/10/08/short-term-12.html">
                   <div class="review-text">
                     <h1>Short Term 12</h1>
-                    <h2 class="addressee">Dear , </h2>
+                    <h2 class="addressee">Dear Destin Cretton, Writer and Director</h2>
                     <h2 class="author">By Jared Young</h2>
                   </div>
                 </a>
@@ -497,12 +505,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

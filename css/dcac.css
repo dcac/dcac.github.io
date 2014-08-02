@@ -88,7 +88,7 @@ img.hero-image {
 }
 @media only screen and (max-width: 640px) {
   img.hero-image {
-    height: 18.75rem;
+    height: 26.875rem;
   }
 }
 .hero-container {
@@ -185,6 +185,11 @@ h2.hero-author-home {
   letter-spacing: 0.3125rem;
   margin-top: 1.25rem;
 }
+@media only screen and (max-width: 640px) {
+  .large-star-rating-home {
+    border-top: 1px solid #fff;
+  }
+}
 .star-large {
   display: inline;
   height: 1.5rem;
@@ -195,7 +200,7 @@ h2.hero-author-home {
 }
 @media only screen and (max-width: 640px) {
   .star-large {
-    height: 0.75rem;
+    height: 1.25rem;
   }
 }
 .star-small {
@@ -247,7 +252,7 @@ h2.hero-author-home {
   min-height: auto;
 }
 div.review-text {
-  padding: 0 5px;
+  padding: 0;
   margin-top: .6rem;
   -o-transition: 0.5s;
   -ms-transition: 0.5s;
@@ -978,27 +983,12 @@ p::selection {
   opacity: 0;
   transition: all .5s ease 0s;
 }
-.down-arrow {
-  background: url('../img/down-arrow.png') no-repeat;
-  display: block;
-  width: 2.625rem;
-  height: 1.5rem;
-  z-index: 3;
-  color: transparent;
-  border: none;
-  position: absolute;
-  padding-top: 2.5rem;
-  bottom: 4.6875rem;
-  cursor: pointer;
-  right: 5rem;
-  text-shadow: 0 0 0.125rem #333333;
-}
 #story-title {
   height: 31.25rem;
 }
 @media only screen and (max-width: 640px) {
   #story-title {
-    height: auto;
+    height: 430px;
   }
 }
 #title {
@@ -1032,13 +1022,20 @@ p::selection {
 }
 @media only screen and (max-width: 640px) {
   .title-img {
-    height: 18.75rem;
+    height: 26.875rem;
   }
 }
 #body-text {
   margin-top: 0;
   background-color: #fff;
   padding-top: 3.75rem;
+}
+@media only screen and (max-width: 640px) {
+  #review-copy {
+    margin-top: 0;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
 }
 #image {
   z-index: 0;
@@ -1097,30 +1094,76 @@ img.scrolled {
 }
 @media only screen and (max-width: 640px) {
   .review-status {
-    position: relative;
+    position: absolute;
     bottom: 0;
-    background-color: #666;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
     margin-top: 300px;
+    line-height: 0;
+    width: 100%;
+    min-height: 135px;
   }
 }
 @media only screen and (max-width: 640px) {
   .status-container {
     position: absolute;
-    top: 1.125rem;
+    bottom: 1.25rem;
     right: 0;
-    font-size: 0.875rem;
-    line-height: 24px;
+    font-size: 1.375rem;
+    line-height: 22px;
     white-space: nowrap;
+    right: 40px;
   }
 }
-@media only screen and (max-width: 640px) {
-  .status-container br {
+/*
+.status-container br{
+  @media @mobile{
     content: '';
   }
 }
-@media only screen and (max-width: 640px) {
-  .status-container br:after {
+.status-container br:after{
+  @media @mobile{
     content: ' ';
+  }
+}
+*/
+.status-row {
+  height: 504px;
+}
+@media only screen and (max-width: 640px) {
+  .status-row {
+    height: 430px;
+    position: relative;
+    bottom: 0;
+  }
+}
+.people-row {
+  height: 504px;
+}
+@media only screen and (max-width: 640px) {
+  .people-row {
+    height: auto;
+    position: relative;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+}
+.title-area {
+  height: 504px;
+  position: relative;
+}
+@media only screen and (max-width: 640px) {
+  .title-area {
+    position: relative;
+    height: 430px;
+  }
+}
+@media only screen and (max-width: 640px) {
+  .title-block {
+    position: absolute;
+    bottom: 20px;
+    text-align: left;
+    left: 40px;
   }
 }
 .review-people {
@@ -1130,7 +1173,8 @@ img.scrolled {
 @media only screen and (max-width: 640px) {
   .review-people {
     position: relative;
-    bottom: 0;
+    bottom: auto;
+    margin-top: 35px;
   }
 }
 .large-star-rating {
@@ -1142,7 +1186,9 @@ img.scrolled {
 }
 @media only screen and (max-width: 640px) {
   .large-star-rating {
-    margin-top: 0.125rem;
+    margin-top: 0.625rem;
+    padding-top: 0.625rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
   }
 }
 .title-divider {
@@ -1151,6 +1197,11 @@ img.scrolled {
   background: #ffffff;
   width: 12.5rem;
 }
+@media only screen and (max-width: 640px) {
+  .title-divider {
+    display: none;
+  }
+}
 .review-stamp {
   width: 2.375rem;
   height: 2.375rem;
@@ -1158,12 +1209,6 @@ img.scrolled {
   margin-right: 0.625rem;
   -webkit-filter: drop-shadow(0 0 0.125rem #939598);
   filter: drop-shadow(0 0 0.125rem #939598);
-}
-@media only screen and (max-width: 640px) {
-  .review-stamp {
-    width: 1.1875rem;
-    height: 1.1875rem;
-  }
 }
 .film-info {
   padding: 0;
@@ -1234,11 +1279,11 @@ h1.hero {
 @media only screen and (max-width: 640px) {
   h1.hero {
     top: 0.3125rem;
-    right: 0;
-    font-size: 0.875rem;
-    line-height: normal;
+    font-size: 1.625rem;
+    line-height: 1.5rem;
     white-space: nowrap;
-    left: 0.9375rem;
+    margin: 0;
+    margin-bottom: 10px;
   }
 }
 article h1.black {
@@ -1302,12 +1347,12 @@ h2.hero-date {
 @media only screen and (max-width: 640px) {
   h2.hero-author,
   h2.hero-date {
-    top: 0.3125rem;
-    font-size: 0.75rem;
-    line-height: normal;
+    font-size: 1.0625rem;
+    line-height: 1.25rem;
     white-space: nowrap;
     position: relative;
-    left: 0.9375rem;
+    width: auto;
+    margin: 0;
   }
 }
 h2.hero-date {
@@ -1317,10 +1362,10 @@ h2.hero-date {
 }
 @media only screen and (max-width: 640px) {
   h2.hero-date {
-    top: 0.3125rem;
-    font-size: 0.625rem;
-    line-height: normal;
+    font-size: 0.9375rem;
+    line-height: 1.25rem;
     white-space: nowrap;
+    margin: 0;
   }
 }
 h2 a {
@@ -1366,16 +1411,17 @@ h3 span.addressee {
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   text-shadow: 0 0 2px #333333;
+  margin-left: 4px;
 }
 @media only screen and (max-width: 640px) {
   h3 span.addressee {
-    color: #ffffff;
+    color: #939598;
     text-align: left;
     font-size: 1.5rem;
-    line-height: 0.875rem;
+    line-height: 2.625rem;
     font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
     font-weight: 700;
-    text-shadow: 0 0 2px #333333;
+    text-shadow: none;
   }
 }
 h3 span.position {
@@ -1389,13 +1435,13 @@ h3 span.position {
 }
 @media only screen and (max-width: 640px) {
   h3 span.position {
-    color: #ffffff;
+    color: #000;
     text-align: left;
-    font-size: 3.125rem;
-    line-height: 3.125rem;
+    font-size: 4.875rem;
+    line-height: 4.25rem;
     font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
     font-weight: 700;
-    text-shadow: 0 0 2px #333333;
+    text-shadow: none;
   }
 }
 #review-copy p.intro {
@@ -1409,6 +1455,12 @@ h3 span.position {
   width: 100%;
   margin: 0 auto;
   margin-top: 1.25rem;
+}
+@media only screen and (max-width: 640px) {
+  #review-copy p.intro {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+  }
 }
 #review-copy p {
   text-align: left;
@@ -1446,17 +1498,51 @@ p.article-share i {
   margin-top: 3.125rem;
   padding-top: 45px;
   padding-bottom: 45px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
-h1.up-next {
-  color: #fff;
+div.up-next-title {
+  height: auto;
+  position: relative;
+  text-align: center;
+  overflow: hidden;
+  width: 100%;
+  margin-bottom: 25px;
+}
+h1.up-next-header {
+  z-index: 2;
+  background-color: #e6e7e8;
+  color: #000;
   font-weight: 500;
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
-  line-height: 2.25rem;
-  font-size: 2.25rem;
-  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 22px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 0;
+  margin-bottom: 0;
+  position: relative;
+  width: auto;
+  display: inline-block;
+  padding-left: 15px;
+  padding-right: 15px;
   text-align: center;
-  margin-top: 0.9375rem;
-  margin-bottom: 1.5625rem;
+}
+hr.up-next-rule {
+  z-index: 1;
+  height: 5px;
+  color: #c1c0c0;
+  background-color: #c1c0c0;
+  bottom: 15px;
+  position: absolute;
+  width: 100%;
+  display: block;
+  margin: 0;
+}
+@media only screen and (max-width: 640px) {
+  hr.up-next-rule {
+    margin: 0;
+  }
 }
 /*
 
@@ -1469,6 +1555,16 @@ h1.up-next {
   -webkit-animation: pulse 2s infinite;
   font-weight: bold;
   text-transform: uppercase;
+}
+@media only screen and (max-width: 640px) {
+  .loading p {
+    width: 90%;
+  }
+}
+@media only screen and (max-width: 640px) {
+  .main-link-small {
+    width: 300px;
+  }
 }
 @media (min-width: 768px) {
   /*section.title,h1.hero,h1.top,h2.hero,h2.top,
@@ -1489,6 +1585,11 @@ h1.up-next {
   margin: 0 auto;
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
+}
+@media only screen and (max-width: 640px) {
+  .comments {
+    width: 90%;
+  }
 }
 /* Section titles and Nav */
 ul.section-right-nav {

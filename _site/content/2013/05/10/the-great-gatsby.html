@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/the-great-gatsby.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">The Great Gatsby</h1>
-                <h2 class="hero-author">
-                  By Test Author
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on May 10, 2013
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">The Great Gatsby</h1>
+                  <h2 class="hero-author">
+                    By Test Author
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on May 10, 2013
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 <br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear </span><br />
                   <span class="position"></span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear ,</p>
+            <p class="intro hide-for-small">Dear ,</p>
             <div><p class="intro"><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/5/10/the-great-gatsby.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf782b/1368223957197/The%20Great%20Gatsby.jpg" alt="" /></a></span></span></p>
 <p><em><strong><span style="font-size:130%;">Dear Shawn &ldquo;Jay-Z&rdquo; Carter,</span></strong><span style="font-size:130%;"> Executive Producer,</span></em></p>
 <p>&lsquo;Sup Z. Sorry, I mean Mr. Carter. Ugh, that doesn&rsquo;t feel right. Your stage name commands more respect than standard honorifics in today&rsquo;s superficial, celebrity-obsessed world. Why shouldn&rsquo;t it? You&rsquo;re a self-made man. A party magnet (and magnate) who built a fortune under an assumed name while living the American dream. You&rsquo;re a modern day Jay Gatsby<em> </em>if ever there was one.</p>
@@ -179,10 +182,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2014/01/20/the-book-thief.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/the-book-thief.jpg" alt="The Book Thief" />
@@ -200,8 +207,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2014/01/20/august-osage-county.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/august-osage-county.jpg" alt="August: Osage County" />
@@ -220,7 +228,7 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2014/03/14/need-for-speed.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/need-for-speed.jpg" alt="Need for Speed" />
@@ -498,12 +506,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

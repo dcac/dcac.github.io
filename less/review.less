@@ -36,25 +36,10 @@ p::selection{
   opacity: 0;
   transition: all .5s ease 0s;
 }
-.down-arrow{
-  background: url('../img/down-arrow.png') no-repeat;
-  display: block;
-  width: @1px*42;
-  height: @1px*24;
-  z-index: 3;
-  color: transparent;
-  border: none;
-  position: absolute;
-  padding-top: @1px*40;
-  bottom: @1px*75;
-  cursor: pointer;
-  right: @1px*80;
-  .text-shadow;
-}
 #story-title{
   height: @1px*500;
   @media @mobile{
-    height: auto;
+    height: 430px;
   }
 }
 #title{
@@ -85,7 +70,7 @@ p::selection{
   background-position: center;
   height: @1px*500;
   @media @mobile{
-    height: @1px*300;
+    height: @1px*430;
   }
 }
 
@@ -94,6 +79,13 @@ p::selection{
   background-color: #fff;
   padding-top: @1px*60;
 }
+#review-copy{ 
+  @media @mobile{
+    margin-top: 0;padding-left: 40px;
+    padding-right:40px;
+  }
+}
+
 
 #image{
   z-index: 0;
@@ -146,22 +138,28 @@ img.scrolled {
   bottom: 67px;
   .text-shadow;
   @media @mobile{
-    position: relative;
-    bottom: 0;
-    background-color: #666;
+    position: absolute;
+    bottom:0;
+    left:0;
+    background-color: rgba(0,0,0,0.5);
     margin-top: 300px;
+    line-height: 0;
+    width:100%;
+    min-height: 135px;
   }
 }
 .status-container{
   @media @mobile{
     position: absolute;
-    top: @1px*18;
+    bottom: @1px*20;
     right:0;
-    font-size: @text-regular;
-    line-height: 24px;
+    font-size: @1px*22;
+    line-height: 22px;
     white-space:nowrap;
+    right:40px;
   }
 }
+/*
 .status-container br{
   @media @mobile{
     content: '';
@@ -172,12 +170,47 @@ img.scrolled {
     content: ' ';
   }
 }
+*/
+.status-row{
+  height:504px;
+  @media @mobile{
+    height:430px;
+    position: relative;
+    bottom:0;
+  }
+}
+.people-row{
+  height:504px;
+  @media @mobile{
+    height:auto;
+    position: relative;
+    padding-left:40px;
+    padding-right:40px;
+  }
+}
+.title-area{
+  height:504px;
+  position: relative;
+  @media @mobile{
+    position: relative;
+    height:430px;
+  }
+}
+.title-block{
+  @media @mobile{
+    position: absolute;
+    bottom:20px;
+    text-align: left;
+    left:40px;
+  }
+}
 .review-people{
   position: absolute;
   bottom: 50px;
   @media @mobile{
     position: relative;
-    bottom: 0;
+    bottom: auto;
+    margin-top: 35px;
   }
 }
 .large-star-rating{
@@ -187,7 +220,9 @@ img.scrolled {
   letter-spacing:@5px;
   margin-top: @10px;
   @media @mobile{
-    margin-top: @1px*2;
+    margin-top: @1px*10;
+    padding-top: @1px*10;
+    border-top: 1px solid rgba(255,255,255,0.5);
   }
 }
 .title-divider{
@@ -195,6 +230,9 @@ img.scrolled {
   height: @1px;
   background: @white;
   width: @1px*200;
+  @media @mobile{
+    display: none;
+  }
 }
 .review-stamp{
   width: @1px*38;
@@ -203,10 +241,6 @@ img.scrolled {
   margin-right: @10px;
   -webkit-filter: drop-shadow( 0 0 @1px*2 #939598 );
     filter: drop-shadow( 0 0 @1px*2 #939598 );
-  @media @mobile{
-    width: @1px*19;
-    height: @1px*19;
-  }
 }
 .film-info{
   padding: 0;
@@ -279,11 +313,11 @@ h1.hero {
   .text-shadow;
   @media @mobile{
     top: @1px*5;
-    right:0;
-    font-size: @text-regular;
-    line-height: normal;
+    font-size: @1px*26;
+    line-height: @1px*24;
     white-space:nowrap;
-    left:@15px;
+    margin: 0;
+    margin-bottom: 10px;
   }
 }
 article h1.black{
@@ -343,12 +377,12 @@ h2.hero-author, h2.hero-date {
   font-weight: 200;
   .text-shadow;
   @media @mobile{
-    top: @1px*5;
-    font-size: @text-small;
-    line-height: normal;
+    font-size: @1px*17;
+    line-height: @1px*20;
     white-space:nowrap;
     position: relative;
-    left:@15px;
+    width:auto;
+    margin: 0;
   }
 }
 h2.hero-date{
@@ -356,10 +390,10 @@ h2.hero-date{
   font-style: italic;
   line-height: @1px*16;
   @media @mobile{
-    top: @1px*5;
-    font-size: @text-tiny;
-    line-height: normal;
+    font-size: @1px*15;
+    line-height: @1px*20;
     white-space:nowrap;
+    margin:0;
   }
 }
 h2 a{
@@ -405,14 +439,15 @@ h3 span.addressee{
   font-family: @sans-serif;
   font-weight: 700;
   text-shadow: 0 0 2px @dark-grey;
+  margin-left:4px;
   @media @mobile{
-    color: @white; 
+    color: #939598; 
     text-align: left;
     font-size: @1px*24;
-    line-height: @1px*14;
+    line-height: @1px*42;
     font-family: @sans-serif;
     font-weight: 700;
-    text-shadow: 0 0 2px @dark-grey;
+    text-shadow: none;
   }
 }
 h3 span.position{
@@ -424,13 +459,13 @@ h3 span.position{
   font-weight: 700;
   text-shadow: 0 0 2px @dark-grey;
   @media @mobile{
-    color: @white; 
+    color: #000; 
     text-align: left;
-    font-size: @1px*50;
-    line-height: @1px*50;
+    font-size: @1px*78;
+    line-height: @1px*68;
     font-family: @sans-serif;
     font-weight: 700;
-    text-shadow: 0 0 2px @dark-grey;
+    text-shadow: none;
   }
 }
 #review-copy p.intro{
@@ -444,6 +479,10 @@ h3 span.position{
   width:100%;
   margin: 0 auto;
   margin-top: @20px;
+  @media @mobile{
+    font-size: @1px*18;
+    line-height: @1px*28;
+  }
 }
 #review-copy p{
   text-align:left;
@@ -482,18 +521,52 @@ p.article-share i{
   margin-top: @50px;
   padding-top: 45px;
   padding-bottom: 45px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
-h1.up-next{
-  color:#fff;
+div.up-next-title{
+  height:auto;
+  position: relative;
+  text-align: center;
+  overflow: hidden;
+  width: 100%;
+  margin-bottom: 25px;
+}
+h1.up-next-header{
+  //background-color: #e6e7e8;
+  z-index: 2;
+  background-color: #e6e7e8;
+  color:#000;
   font-weight: 500;
   font-family: @sans-serif;
-  line-height: @text-large;
-  font-size: @text-large;
-  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 22px;
   text-align: center;
-   margin-top:@15px;
-   margin-bottom:@25px;
+  margin-left:40px;
+  margin-right:40px;
+  margin-top: 0;
+  margin-bottom: 0;
+  position: relative;
+  width: auto;
+  display: inline-block;
+  padding-left: 15px;
+  padding-right:15px;
+  text-align: center;
+ }
+hr.up-next-rule{
+  z-index: 1;
+  height: 5px;
+  color: #c1c0c0;
+  background-color: #c1c0c0;
+  bottom:15px;
+  position: absolute;
+  width:100%;
+  display: block;
+  margin: 0;
+  @media @mobile{
+    margin: 0;
   }
+}
 /*
 
  css testing
@@ -505,6 +578,14 @@ h1.up-next{
   -webkit-animation:pulse 2s infinite;
   font-weight:bold;
   text-transform:uppercase;
+  @media @mobile{
+    width:90%;
+  }
+}
+.main-link-small{
+  @media @mobile{
+    width:300px;
+  }
 }
 
 @media (min-width: 768px) {
@@ -527,4 +608,7 @@ h1.up-next{
   margin: 0 auto;
   padding-top: @10px;
   padding-bottom: @10px;
+  @media @mobile{
+    width:90%;
+  }
 }

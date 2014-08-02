@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/for-a-good-time-call.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">For a Good Time, Call...</h1>
-                <h2 class="hero-author">
-                  By <a href="/about/writers/coryh">Cory Haggart</a>
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on September 30, 2012
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">For a Good Time, Call...</h1>
+                  <h2 class="hero-author">
+                    By <a href="/about/writers/coryh">Cory Haggart</a>
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on September 30, 2012
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Air<br />Mail<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Sarah Sprawls</span><br />
                   <span class="position">Set Decorator</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Sarah Sprawls,</p>
+            <p class="intro hide-for-small">Dear Sarah Sprawls,</p>
             <p class="intro">Every movie asks us to believe in a unique little world. Some movies do it by grabbing you by the lapels and driving its proverbial forehead through yours. Others just sit in the corner, crying, and guilting you into asking &ldquo;What&rsquo;s wrong?&rdquo; <em>For a Good Time, Call&hellip; </em>dumps a bunch of brightly colored Skittles in your hands, cranks the tunes, gives you a smirk, slaps your ass, and hollers, &ldquo;Let&rsquo;s go ride ponies!&rdquo; And lo, I <em>did</em> believe.</p>
 
 <p>Your job is to help make this happen. Every little visual detail on set needs to contribute&mdash;anything out of place can hinder our belief. It&rsquo;s your job to smooth them out, make these little filmmaking necessities go unnoticed. Sounds bad, I know, but I was looking for faults. I almost couldn&rsquo;t believe that a movie this slight could carry me along so easily.</p>
@@ -182,10 +185,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2012/07/16/ted.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/ted.jpg" alt="Ted" />
@@ -203,8 +210,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/06/12/this-is-the-end.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/this-is-the-end.jpeg" alt="This is the End" />
@@ -223,7 +231,7 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/12/20/the-guilt-trip.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/the-guilt-trip.jpg" alt="The Guilt Trip" />
@@ -501,12 +509,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

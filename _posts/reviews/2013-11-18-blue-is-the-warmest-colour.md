@@ -1,20 +1,18 @@
 ---
 published: true
-image: 
-imdb: 
+image: blue-is-the-warmest-colour.jpg
+imdb: tt2278871
 author: christopherr 
-stars: 
-excerpt: 
-position: 
-addressee: 
+stars: 4
+excerpt: "Many people are obsessing over the lesbian sex scenes in Blue is the Warmest Colour. They're too graphic! Too long! Too hetero!"
+position: First Assistant Director
+addressee: Monya Galbi
 layout: review
 categories: reviews
 title: "Blue is the Warmest Colour"
 comments: true
-tags: [actress, adele, blue is the warmest color, Blue is the warmest colour, Cannes 2013, controversy, first assitant firector, graphic, la vie d'adele, lesbian, Letters, novel, nudity]
+tags: [actress, adele, blue is the warmest color, Blue is the warmest colour, Cannes 2013, controversy, first assistant director, graphic, la vie d'adele, lesbian, Letters, novel, nudity]
 ---
-<div><p><span class="full-image-block ssNonEditable"><a href="/letters/2013/11/18/blue-is-the-warmest-colour.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7908/1384790799417/Blue%20is%20the%20Warmest%20Colour.jpg" alt="" /></a></span></p>
-<p class="Body"><em style="font-size:130%;"><strong>Dear Monya Galbi,</strong> First Assistant Director,</em></p>
 <p class="Body">Many people are obsessing over the lesbian sex scenes in <em>Blue is the Warmest Colour</em>. They&rsquo;re too graphic! Too long! Too <a href="http://www.slate.com/blogs/outward/2013/11/12/_lesbians_react_to_sex_scenes_in_blue_is_the_warmest_color_one_lesbian_s.html">hetero</a>! The media focus, meanwhile, has shifted to extratextual analysis about the on-set treatment of the actresses by director Abdellatif Kechiche. But you seem to have escaped the <a href="http://www.theguardian.com/film/2013/sep/25/blue-warmest-colour">controversy</a>. Not surprising, perhaps, since many people outside the industry don&rsquo;t understand the role of a First A.D. Well, lucky you. Because this film deserves to be seen and discussed, but you should probably also bear some responsibility for the faults.</p>
 <p class="Body">As you know, in filmmaking the director is the top of the creative food chain. He or she, therefore, receives an unbalanced percentage of the praise and criticism when a film is released (and shifting that balance is the very reason we write these open-letters). <em>Blue is the Warmest Colour</em> is receiving uncommon levels on both accounts &ndash; winning the prestigious 2013 Palme d&rsquo;Or at Cannes but now suffering backlash from the story&rsquo;s original author, the actresses, and even parts of the LGBT community. It would be almost impossible for anyone to see the film right now without having heard something about that. Too bad, because that shouldn&rsquo;t be leading the discussion (or a review, for that matter); but it is. So let&rsquo;s clear the air.</p>
 <p class="Body">You&rsquo;re obviously a trusted collaborator of Kechiche, having been an assistant director for his past three feature films: <em>Games of Love and Chance </em>(2003)<em>,</em> <em>The Secret of the Grain</em> (2007) and <em>Black Venus</em> (2010).&nbsp; You know how he works, and can no doubt anticipate his demands better than anyone. This is important, because you&rsquo;re the one responsible for the mechanics of the shoot, like overseeing the management of the set-ups, the schedule and the actors. If someone ever needed to pull the director aside because he was being unreasonable, it&rsquo;s you. However, if you treated your role more like an obedient servant, well then you probably thought anything goes in the service of art. Which it sounds like you did. So the next logical question is, was it worth it?</p>
@@ -23,4 +21,3 @@ tags: [actress, adele, blue is the warmest color, Blue is the warmest colour, Ca
 <p class="Body">Yet ultimately, for <em>Blue is The Warmest Colour</em>, the ends may have justified the means. But on a thousand other films where actress will be pressured to give more and bear more, that won&rsquo;t be the case. So please, don&rsquo;t be afraid to step in next time.</p>
 <p class="Body">Sincerely,</p>
 <p class="Body">Christopher&nbsp;</p>
-<p class="Body"><strong><em>Status: Air Mail (4/5)</em></strong></p></div>

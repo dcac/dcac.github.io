@@ -106,6 +106,9 @@ h2.hero-author-home{
   font-size:@1px*24;
   letter-spacing:@5px;
   margin-top: @20px;
+  @media @mobile{
+    border-top: 1px solid #fff;
+  }
 }
 .star-large{
   display: inline;
@@ -115,7 +118,7 @@ h2.hero-author-home{
   -webkit-filter: drop-shadow( 0 0 @1px*2 #939598 );
     filter: drop-shadow( 0 0 @1px*2 #939598 );
   @media @mobile{
-    height:@1px*12;
+    height:@1px*20;
   }
 }
 .star-small{
@@ -168,7 +171,7 @@ h2.hero-author-home{
 }
 
 div.review-text{
-  padding:0 5px;
+  padding:0;
   margin-top: .6rem;
   .animation;
 }

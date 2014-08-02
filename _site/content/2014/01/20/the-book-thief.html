@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/the-book-thief.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">The Book Thief</h1>
-                <h2 class="hero-author">
-                  By <a href="/about/writers/dig">Di Golding</a>
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on January 20, 2014
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">The Book Thief</h1>
+                  <h2 class="hero-author">
+                    By <a href="/about/writers/dig">Di Golding</a>
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on January 20, 2014
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Return to<br />Sender<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Lucien Stephenson</span><br />
                   <span class="position">Snow Effects Supervisor</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Lucien Stephenson,</p>
+            <p class="intro hide-for-small">Dear Lucien Stephenson,</p>
             <p class="intro">It&#39;s said that the Inuit have over fifty different words for snow. As a Canadian, I&#39;ve probably experienced all of them. This puts you and your work at a serious disadvantage. Film fans like me who live in a Northern climate know fake snow when we see it.</p>
 
 <p>We also have a complicated relationship with the white wonder. Kids eagerly anticipate the first snowfall, dreaming of school closures. Adults slog to work in the half-snow/half-rain slop that always manages to trickle an icy path down the back of your neck regardless of how well you bundle up. The same distinction can be made with World War II movies. Some hit you like an avalanche and some just leave you soggy and disappointed. <em>The Book Thief</em> lives on that slippery slope in between.</p>
@@ -184,10 +187,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2013/08/07/percy-jackson-sea-of-monsters.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="Percy Jackson: Sea of Monsters" />
@@ -205,8 +212,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/12/26/jack-reacher.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/hack-reacher.jpg" alt="Jack Reacher" />
@@ -225,7 +233,7 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2014/01/20/august-osage-county.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/august-osage-county.jpg" alt="August: Osage County" />
@@ -503,12 +511,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

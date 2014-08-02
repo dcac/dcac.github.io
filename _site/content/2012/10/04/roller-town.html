@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/roller-town.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">Roller Town</h1>
-                <h2 class="hero-author">
-                  By <a href="/about/writers/christopherr">Christopher Redmond</a>
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on October 04, 2012
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">Roller Town</h1>
+                  <h2 class="hero-author">
+                    By <a href="/about/writers/christopherr">Christopher Redmond</a>
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on October 04, 2012
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Air<br />Mail<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Lonnie Kleinman</span><br />
                   <span class="position">Random Phrase Generator</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Lonnie Kleinman,</p>
+            <p class="intro hide-for-small">Dear Lonnie Kleinman,</p>
             <p class="intro">&ldquo;Roller disco double dicker.&rdquo; That was you, wasn&rsquo;t it? Or are you the type of gal who threatens to &ldquo;ground up like pepper&rdquo; your misbehaving shame-baby? No, these rather hilarious and random lines are from the twisted minds of Picnicface, the online comedy troupe behind <em>Roller Town</em>. You, on the other hand, are simply one of the many donors who helped make their big screen debut possible. The other self-credited benefactors include raptor tamers, fruit hypnotizers, and pepperoni stick samurais. And if any of you had actually showed up on-set, you undoubtedly would have been included in this everything-plus-the-kitchen-sink-plus-the-hair-in the-drain comedy.</p>
 
 <p><em>Roller Town</em> is a tour-de-<em>farce</em> by Generation YouTube&rsquo;s Canadian wunderkinds. Picnicface got their own Comedy Network TV series, but stepping into film is always much more daunting (as their forebears from like <em>Saturday Night Live</em> and <em>The Kids in the Hall </em>can attest). Rarely can specialists in short-form humor successfully stretch a skit over an hour and a half.</p>
@@ -182,10 +185,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2012/10/05/war-witch-rebelle.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/war-witch.jpg" alt="War Witch (Rebelle)" />
@@ -203,8 +210,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/04/29/my-awkward-sexual-adventure.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="My Awkward Sexual Adventure" />
@@ -223,7 +231,7 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/08/02/the-to-do-list.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="The To-Do List" />
@@ -501,12 +509,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

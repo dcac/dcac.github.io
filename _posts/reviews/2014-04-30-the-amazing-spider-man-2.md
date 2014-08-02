@@ -1,21 +1,19 @@
 ---
 published: true
-image: 
-imdb: 
-author:  
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: the-amazing-spider-man-2.jpg
+imdb: tt1872181
+author:  emilyc
+stars: 2.5
+excerpt: "Congratulations on creating something of a cohesive narrative out of this mess."
+position: Editor 
+addressee: Pietro Scalia
 layout: review
 categories: reviews
 title: "The Amazing Spider-Man 2"
 date: 2014-04-30 19:49
 comments: true
-categories: [action, comic book, Letters, Marvel, Sequel, spider-man]
+tags: [action, comic book, Letters, Marvel, Sequel, spider-man]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/4/30/the-amazing-spider-man-2.html"><img src="http://rollotomasi73.files.wordpress.com/2014/04/the20amazing20spider-man2.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Pietro Scalia,</strong> Editor,</em></p>
 <p>Congratulations on creating something of a cohesive narrative out of this mess. I can only imagine the footage you sifted through in order to create a film of great imagination (and even greater plot holes). Director Marc Webb clearly set his sights on the tween-market, assuming that a generation raised on tweets and snapchat would appreciate shiny distraction over plot and character development.</p>
 <p>Let me see if I can make sense of the story you were trying to piece together:</p>
 <p>The <em>Amazing Spider-Man 2</em> opens with a vague introduction of what happened to Peter Parker&#8217;s parents&mdash;and with that bit of exposition out of the way, we quickly barrel into proper Spidey hijinks: an Eastern-European loon has a load of nuclear bits and bobs in a truck! Will no one stop the Eastern-European loon! (The real baddie here seems to be the immigration office: I&#8217;m surprised at the number of wicked Nazi scientists and mad Russians they let into the country; can&rsquo;t they tell from the accent, the cackle, and the deranged facial expressions that these guys are up to no good?)</p>
@@ -28,4 +26,3 @@ categories: [action, comic book, Letters, Marvel, Sequel, spider-man]
 <p>Logic isn&#8217;t this movie&#8217;s strong point. Unfortunately, logic &ndash; both spatial and narrative &ndash; is the cornerstone of your profession.</p>
 <p>So kudos, Pietro, for turning it into something that makes any sort of sense whatsoever.</p>
 <p>Emily Cracknell</p>
-<p><strong><em>Status: Standard Delivery (2.5/5)</em></strong></p></div>

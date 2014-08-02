@@ -1,20 +1,18 @@
 ---
 published: true
-image: 
-imdb: 
+image: man-of-tai-chi.jpg
+imdb: tt2016940
 author: christopherr 
-stars: 
-excerpt: 
-position: 
-addressee: 
+stars: 3
+excerpt: "There must have been quite a buzz going around the office as you were auditioning martial artists from around the world."
+position: Fighter Casting
+addressee: Mike Leeder
 layout: review
 categories: reviews
 title: "Man of Tai Chi"
 comments: true
 tags: [China, debut, director, directorial, fight, fighting, first, hong kong, Keanu Reeves, kung-fu, Letters, martial arts, Tiger Chen]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/10/24/man-of-tai-chi.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78f2/1382623133088/Man%20of%20Tai%20Chi.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Mike Leeder,</strong> Fighter Casting,</em></p>
 <p>There must have been quite a buzz going around the office as you were auditioning martial artists from around the world. After all, this would be the next action movie starring Keanu Reeves (he knows kung fu)! The first film <em>directed </em>by Keanu Reeves! And most importantly, at least to the aspiring fighters flipping off your casting couch, the first film starring Tiger Hu Chen &ndash; stuntman from <em>Crouching Tiger, Hidden Dragon </em>and<em> The Matrix </em>trilogy. Surely if these new fighters made an impression to Keanu as well, they too could one day see riches, glory and fame, right?</p>
 <p>Fools. <em>Man of Tai Chi</em> was made specifically to warn them against this dark path. &nbsp;&nbsp;</p>
 <p>It&rsquo;s also meant to entertain (I guess), in that classic kung-fu tournament B-movie kind of way. Which must have been a dream come true for someone like you. It demanded that you bring in top hand-to-hand combat top talent, from Ninjutsu to Pencal Silat to Serbian street fighting, all for your selfish viewing pleasure &ndash; only to have their lives and fights repacked and sold to audiences around the world. Just like Keanu&rsquo;s character in the film, Donaka Mark.</p>
@@ -26,4 +24,3 @@ tags: [China, debut, director, directorial, fight, fighting, first, hong kong, K
 <p>But hey, who are you to fight with the director, right? You&rsquo;re no Tiger Chen.</p>
 <p>Bowing out,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Standard Delivery (3/5)</em></strong></p></div>

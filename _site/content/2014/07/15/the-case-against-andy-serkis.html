@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/the-case-against-andy-serkis.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">The Case Against Andy Serkis</h1>
-                <h2 class="hero-author">
-                  By 
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on July 15, 2014
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">The Case Against Andy Serkis</h1>
+                  <h2 class="hero-author">
+                    By 
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on July 15, 2014
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 <br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear </span><br />
                   <span class="position"></span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear ,</p>
+            <p class="intro hide-for-small">Dear ,</p>
             <div><p class="intro"><strong><em style="font-size:130%;"><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/7/15/the-case-against-andy-serkis.html"><img src="http://rollotomasi73.files.wordpress.com/2014/07/the20case20against20andy20serkis.jpg" alt="" /></a></span></span><br />Dear Andy Serkis,</em></strong></p>
 <p><em>Dawn of the Planet of the Apes</em> has reignited the debate about the role of the actor in &ldquo;motion capture&rdquo; performances. Your supporters are already pushing for an Oscar nomination (you do, after all, have top billing in <em>Dawn</em>), while others are less enthusiastic about your contributions. I&rsquo;m sorry to say that I find myself in the latter camp. I don&rsquo;t want you take this personally, but I don&rsquo;t think you &ndash; or anyone, for that matter &ndash; should win an acting award for this type of &ldquo;mo-cap&rdquo; performance.</p>
 <p>There is certainly no shortage of people telling you that you&rsquo;re the best at what you do. Since you started working with Peter Jackson, playing Gollum in <em>Lord of the Rings</em> films and later the mighty <em>King Kong</em> himself, you&rsquo;ve carved out a niche as Hollywood&rsquo;s go-to mo-cap artist. It made perfect sense, then, for a man with your pedigree (and simian simulation experience) to play Caesar in 2011&rsquo;s <em>Rise of the Planet of the Apes</em>.&nbsp; And, by all accounts, you didn&rsquo;t disappoint. <em>Rise</em> was a surprise critical and financial success, paving way for your character&rsquo;s central role in the <a href="/letters/2014/7/12/dawn-of-the-planet-of-the-apes.html">praise-worthy <em>Dawn</em></a>.</p>
@@ -181,7 +184,12 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
+          
           
           </div>
         </div>
@@ -443,12 +451,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

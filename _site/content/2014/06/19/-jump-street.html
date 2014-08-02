@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/22-jump-street.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">22 Jump Street</h1>
-                <h2 class="hero-author">
-                  By 
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on June 19, 2014
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">22 Jump Street</h1>
+                  <h2 class="hero-author">
+                    By 
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on June 19, 2014
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 <br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear </span><br />
                   <span class="position"></span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear ,</p>
+            <p class="intro hide-for-small">Dear ,</p>
             <div><p class="intro"><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/6/19/22-jump-street.html"><img src="http://rollotomasi73.files.wordpress.com/2014/06/2220jump20street.jpg" alt="" /></a></span></span></p>
 <p class="Body"><em style="font-size:130%;"><strong>Dear G.A. Aguilar,</strong> Second Unit Director,</em></p>
 <p class="Body">Hooray, you&rsquo;re back! This was your second shot at second unit directing the second <em>Jump Street</em> film. But rather than having a bad case of <em>d&eacute;j</em><em>&agrave; vu</em>, you probably felt even more comfortable in your role. The action scenes you directed this time were a little bigger, and even better suited to your <a href="http://www.imdb.com/name/nm1183872/"><span class="Hyperlink0">considerable experience</span></a> with stunts. The party scenes you handled were also a lot wilder, and, as a whole, <em>22 Jump Street </em>trades the element of <a href="/letters/2012/3/15/sxsw-postcard-21-jump-street.html"><span class="Hyperlink0">surprise from the first film</span></a> for pure comedic satisfaction. That&rsquo;s quite an uncommon accomplishment for a sequel &ndash; especially one that&rsquo;s fixated on <em>being</em> a sequel.</p>
@@ -174,7 +177,12 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
+          
           
           </div>
         </div>
@@ -436,12 +444,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/hack-reacher.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">Jack Reacher</h1>
-                <h2 class="hero-author">
-                  By Casey Tourangeau
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on December 26, 2012
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">Jack Reacher</h1>
+                  <h2 class="hero-author">
+                    By Casey Tourangeau
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on December 26, 2012
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Return to<br />Sender<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Mindy Marin</span><br />
                   <span class="position">Casting</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Mindy Marin,</p>
+            <p class="intro hide-for-small">Dear Mindy Marin,</p>
             <p class="intro">I hope die-hard Jack Reacher fans didn&rsquo;t blame you when they learned Tom Cruise would play the title role in the character&rsquo;s first film adaptation&mdash;named, lazily, <em>Jack Reacher</em>. This choice, being a Tom Cruise production staring Tom Cruise, was probably never yours to begin with. But really, does it matter if a character who, as described in Lee Child&rsquo;s novels, stands 6&rsquo;5&rdquo; tall and weighs 250 pounds is played by an actor known for being, well, &nbsp;the opposite of that? No, not if the movie is good. Then the decision can stand on is own merits and cries of miscasting will fade into the distance.</p>
 
 <p>Unfortunately <em>Jack Reacher</em> is not good. But&mdash;twist!&mdash;it&rsquo;s not because of Cruise. He may not have the size necessary to intimidate with presence alone, but as an emotionless dialogue delivery device, he&rsquo;s fine. Jack Reacher is awesome at everything he does. In fine Cruise fashion, he continually tells other characters exactly what he is going to do and then we watch him do it. Exactly like he said. He&#8217;s a built-in spoiler for his own movie. That can work to a certain level when all Cruise is asked to do is be awesome at flying F-15s or scaling the Burj Khalifa, but not so well when he&rsquo;s imposing his own brutal version of justice on others. Actually, it&rsquo;s kind of repugnant.</p>
@@ -180,10 +183,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2014/01/20/the-book-thief.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/the-book-thief.jpg" alt="The Book Thief" />
@@ -201,8 +208,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2014/03/14/need-for-speed.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/need-for-speed.jpg" alt="Need for Speed" />
@@ -221,7 +229,7 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/08/07/percy-jackson-sea-of-monsters.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="Percy Jackson: Sea of Monsters" />
@@ -499,12 +507,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

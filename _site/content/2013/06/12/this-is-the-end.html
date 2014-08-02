@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/this-is-the-end.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">This is the End</h1>
-                <h2 class="hero-author">
-                  By Test Author
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on June 12, 2013
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">This is the End</h1>
+                  <h2 class="hero-author">
+                    By Test Author
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on June 12, 2013
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Priority<br />Post<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear James Rawlings</span><br />
                   <span class="position">Photo Double</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear James Rawlings,</p>
+            <p class="intro hide-for-small">Dear James Rawlings,</p>
             <p class="intro">Don&rsquo;t you think there&rsquo;s something dangerous in the very premise of <em>This Is The End</em>? A special effects meta-comedy featuring young Hollywood stars playing (versions of) themselves? Doesn&rsquo;t it sound kind of self-indulgent, prideful, decadent&mdash;a big inside joke that the audience will never be more than fractionally a party to? Even more worrisome: Seth Rogen co-wrote and co-directed the movie with his best pal<em> </em>Evan Goldberg, cast all his friends from <a href="http://movies.netflix.com/WiMovie/Freaks_and_Geeks/70253797?trkid=1889703"><em>Freaks and Geeks</em></a> and <a href="http://movies.netflix.com/WiMovie/Undeclared/70253798?trkid=1889703"><em>Undeclared</em></a><em>,</em> and, from start to finish, stuffed the film so full of cameos that it risks playing out like an episode of TMZ irradiated by gamma rays.</p>
 
 <p>But big risks like this offer big rewards. And just as much as Rogen and Goldberg (and the rest of the cast) take a chance by putting themselves (literally) in the middle of a big-budget apocalypse scenario, so too does the audience bear a good amount of risk in watching it unfold: there&rsquo;s nothing more unpleasant than spending two hours (and twelve bucks) watching a bunch of attractive people cracking wise and having fun with no concern for whether the audience is having fun, too (see <em>Ocean&rsquo;s Twelve</em>).</p>
@@ -188,10 +191,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2012/12/20/the-guilt-trip.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/the-guilt-trip.jpg" alt="The Guilt Trip" />
@@ -209,8 +216,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/09/30/for-a-good-time-call.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/for-a-good-time-call.jpg" alt="For a Good Time, Call..." />
@@ -229,20 +237,20 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/09/20/the-art-of-the-steal.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/" alt="The Art of the Steal" />
+                    <img src="/img/article/thumb/the-art-of-the-steal.jpg" alt="The Art of the Steal" />
                     <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
                   </div>
                 </a>
                 
                 <a href="/content/2013/09/20/the-art-of-the-steal.html">
                   <div class="review-text">
                     <h1>The Art of the Steal</h1>
-                    <h2 class="addressee">Dear , </h2>
-                    <h2 class="author">By Test Author</h2>
+                    <h2 class="addressee">Dear Geoff Ashenhurst, Editor</h2>
+                    <h2 class="author">By </h2>
                   </div>
                 </a>
               </div>
@@ -507,12 +515,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

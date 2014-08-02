@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/cutie-and-the-boxer.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">Cutie and the Boxer</h1>
-                <h2 class="hero-author">
-                  By Jennifer Mulligan
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on February 18, 2014
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">Cutie and the Boxer</h1>
+                  <h2 class="hero-author">
+                    By Jennifer Mulligan
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on February 18, 2014
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Air<br />Mail<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Noriko Shinohara</span><br />
                   <span class="position">Artist</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Noriko Shinohara,</p>
+            <p class="intro hide-for-small">Dear Noriko Shinohara,</p>
             <p class="intro">You&#39;re a brave woman, being an artist married to another artist for so long. Your husband, Ushio - who we come to know as Bullie in the animated &quot;art brought to life&quot; segments of the documentary <em>Cutie and The Boxer</em> - seems like he&#39;s been a bit of a handful the past thirty-nine years or so.</p>
 
 <p>I think you&#39;re aware that maybe you should have found someone a little more responsible than a temperamental avant-garde artist, and now recovered alcoholic, as your life partner. But I have to commend you. Many people would not have put up with his ways for so long--especially considering his attitude towards artistic relationships that dictates &quot;the average one has to support the genius.&quot; When you showed up, he knew he needed someone like you to keep him afloat. That&#39;s why he asked you to stay. That&#39;s why you&#39;ve stayed. And that&#39;s why you fell in love with him.</p>
@@ -188,10 +191,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2014/01/02/mandela-long-walk-to-freedom.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/mandela-the-long-walk-to-freedom.jpg" alt="Mandela: Long Walk to Freedom" />
@@ -209,8 +216,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/08/21/jobs.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="JOBS" />
@@ -229,7 +237,7 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2014/02/15/20-feet-from-stardom.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/20-feet-from-stardom.jpg" alt="20 Feet From Stardom" />
@@ -507,12 +515,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

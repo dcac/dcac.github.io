@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/les-miserables.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">Les Misérables</h1>
-                <h2 class="hero-author">
-                  By <a href="/about/writers/christopherr">Christopher Redmond</a>
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on January 02, 2013
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">Les Misérables</h1>
+                  <h2 class="hero-author">
+                    By <a href="/about/writers/christopherr">Christopher Redmond</a>
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on January 02, 2013
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Priority<br />Post<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Dad</span><br />
                   <span class="position">Reluctant Audience Member (and Real-Life Javert)</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Dad,</p>
+            <p class="intro hide-for-small">Dear Dad,</p>
             <p class="intro">It may not be a pull-quote for the posters, but I consider your tenuous approval of <em>Les Miserables</em> a victory no less. As an officer of the law for 35 years, it&#39;s no surprise you prefer movies where the action is <a href="/letters/2012/12/28/django-unchained.html">unchained</a> and the emotions are <a href="/letters/2012/11/9/skyfall.html">unsung</a>. Most guys do. But over the holidays, in the spirit of the season, you dutifully ignored the more enticing options in the cineplex to keep the family together. In the words of the story&#39;s antagonist Javert, you probably thought &quot;I will join these little schoolboys, they will wet themselves…&quot; with tears. And we did. And it was glorious. And to the disgust of your iron-clad masculinity, even you must have been moved. </p>
 
 <p>How could you not be? The international sensation <em>Les Miserables</em> is a pop opera that packs more emotion per measure than most productions could ever dream. Director Tom Hooper has created a genuine thrill-a-minute motion picture that somehow balances the bombastic tendencies of Broadway musicals with the intimate demands of filmmaking. He boldly does so by marrying one of the most powerful tools of the stage--live singing--to the silver screen&#39;s own weapon of choice: the close up.</p>
@@ -184,10 +187,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2013/09/10/prisoners.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="Prisoners" />
@@ -205,27 +212,9 @@
                 </a>
               </div>
           
-            
-              <div class="large-4 medium-4 columns">
-                <a href="/content/2013/06/14/man-of-steel.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/man-of-steel.jpg" alt="Man of Steel" />
-                    <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2013/06/14/man-of-steel.html">
-                  <div class="review-text">
-                    <h1>Man of Steel</h1>
-                    <h2 class="addressee">Dear Christopher Nolan, Producer</h2>
-                    <h2 class="author">By Casey Tourangeau</h2>
-                  </div>
-                </a>
-              </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/07/27/the-dark-knight-rises.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/the-dark-knight-rises-2.jpg" alt="The Dark Knight Rises" />
@@ -239,6 +228,25 @@
                     <h1>The Dark Knight Rises</h1>
                     <h2 class="addressee">Dear Recipient, </h2>
                     <h2 class="author">By Jared Young</h2>
+                  </div>
+                </a>
+              </div>
+          
+            
+              <div class="large-4 medium-4 columns hide-for-small-only">
+                <a href="/content/2014/03/31/noah.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/noah.jpg" alt="Noah" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/03/31/noah.html">
+                  <div class="review-text">
+                    <h1>Noah</h1>
+                    <h2 class="addressee">Dear Jennifer Connelly's Forehead, Surrogate Audience Member</h2>
+                    <h2 class="author">By Di Golding</h2>
                   </div>
                 </a>
               </div>
@@ -503,12 +511,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

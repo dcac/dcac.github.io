@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/anchorman-2-the-legend-continues.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">Anchorman 2: The Legend Continues</h1>
-                <h2 class="hero-author">
-                  By <a href="/about/writers/coryh">Cory Haggart</a>
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on December 20, 2013
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">Anchorman 2: The Legend Continues</h1>
+                  <h2 class="hero-author">
+                    By <a href="/about/writers/coryh">Cory Haggart</a>
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on December 20, 2013
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Return to<br />Sender<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Vincent Cox II</span><br />
                   <span class="position">Stand-in</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Vincent Cox II,</p>
+            <p class="intro hide-for-small">Dear Vincent Cox II,</p>
             <p class="intro">He could have taught sexism to Black Jesus. He might have seduced Madam Curie--with science. Given the chance, he saved no orcas. Ron Burgundy is a unique character, full of possibilities<em>. Anchorman 2: The Legend Continues</em>, his newest outing, is a combination of hilarity, confusion, and disappointment. Was it worth it? I think so. Did maybe they need some more time to think the whole thing through? Yes.</p>
 
 <p>Well, maybe not much more time. Watching Will Ferrell&#39;s and director Adam McKay&#39;s new-old sequel (when it takes nine years to make a sequel, you are too early for Terence Malick or Star Wars, but way too late to be building any momentum). But, since the first movie was simply too weird and wonderful to not explore further, Ron Burgundy is. There&#39;s not really a new story. Ron is once again saddled with the same sexism challenges, but instead of just threatening his career, this time it also threatens his marriage to his wife Veronica Corningstone (Christina Applegate).    </p>
@@ -176,10 +179,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2013/07/05/despicable-me-2.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="Despicable Me 2" />
@@ -197,8 +204,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/08/13/the-campaign.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/the-campaign.jpg" alt="The Campaign" />
@@ -217,7 +225,7 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/03/30/friends-with-kids.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/friends-with-kids.jpg" alt="Friends with Kids" />
@@ -495,12 +503,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

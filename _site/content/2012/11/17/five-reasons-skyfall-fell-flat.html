@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/five-reasons-skyfall-fell-flat.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">Five Reasons Skyfall Fell Flat</h1>
-                <h2 class="hero-author">
-                  By 
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on November 17, 2012
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">Five Reasons Skyfall Fell Flat</h1>
+                  <h2 class="hero-author">
+                    By 
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on November 17, 2012
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 <br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear James Bond Fans</span><br />
                   <span class="position"></span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear James Bond Fans,</p>
+            <p class="intro hide-for-small">Dear James Bond Fans,</p>
             <p class="intro">If you haven&rsquo;t seen the new James Bond film <em>Skyfall </em>yet, do it. There&rsquo;s <a href="/letters/2012/11/9/skyfall.html">plenty to love</a> in this 23<sup>rd</sup> official installment of the series. The following, however, is a SPOILER-filled analysis of the final act to discuss why some of us at <em>Dear Cast and Crew</em> thought the ending didn&rsquo;t work.</p>
 
 <p>1. <strong>The film opens too big. </strong><em>Skyfall</em>, like many Bond films, begins with a spectacular action sequence. This is important, not just to satisfy the demands of the franchise, but because it calibrates audience expectations. The director, Sam Mendes, is smart enough to establish important thematics as well as scale. The first shot tells us it&rsquo;s a story about Bond being a few steps behind others and in the dark. We then learn, twice, that M is willing to sacrifice MI6 agents without hesitation to complete a mission. And as Bond suffers from a surely fatal gunshot wound, falls from a surely fatal height, and lands in a surely fatal rapid-filled river, we&rsquo;re reminded that he may be mortal.&nbsp; But each of these points end up being undermined by the end of the film. Not to mention, the rest of the film never lives up to these early action sequences. The film didn&rsquo;t need more gadgets (even if a fingerprint-activated gun and same &ldquo;gotchya!&rdquo; moment was in <em>Licence to Kill</em>) or even a bigger set piece for the climax, but we do need to feel like more is at stake.</p>
@@ -184,10 +187,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2012/11/09/skyfall.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/skyfall.jpg" alt="Skyfall" />
@@ -205,8 +212,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/02/18/finding-god-in-the-films-of-2012-pt-1.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="Finding God in the Films of 2012 - Pt. 1" />
@@ -225,7 +233,7 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/02/18/finding-god-in-the-films-of-2012-pt-3.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="Finding God in the FIlms of 2012 - Pt. 3" />
@@ -503,12 +511,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

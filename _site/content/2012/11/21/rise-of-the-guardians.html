@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/rise-of-the-guardians.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">Rise of the Guardians</h1>
-                <h2 class="hero-author">
-                  By 
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on November 21, 2012
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">Rise of the Guardians</h1>
+                  <h2 class="hero-author">
+                    By 
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on November 21, 2012
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Air<br />Mail<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Santa</span><br />
                   <span class="position"></span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Santa,</p>
+            <p class="intro hide-for-small">Dear Santa,</p>
             <div><p class="intro"><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/11/21/rise-of-the-guardians.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf772b/1353507493517/Rise%20of%20the%20Guardians1.jpg" alt="" /></a></span></span></p>
 <p><em><strong style="font-size:130%;">Dear Santa,</strong></em></p>
 <p>It sure has been a while. I wouldn&rsquo;t say I ever stopped believing&mdash;perhaps I just forgot. But <em>Rise of the Guardians</em> reminded me. Snow-globe portals? Baby tooth fairies? Globe-spanning rabbit holes? A <em>literal</em> dream car? It doesn&rsquo;t take much of an imagination to figure out that these elaborate attempts at explaining the impossible make<em> perfect sense</em>. You&rsquo;re Santa, the Tooth Fairy, the Easter Bunny, and the Sandman, the big four&mdash;of course you&rsquo;ll have some tricks up your sleeve.</p>
@@ -176,10 +179,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2012/10/15/argo.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/argo.jpg" alt="Argo" />
@@ -197,8 +204,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/09/12/argo.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/argo.jpg" alt="TIFF: Argo" />
@@ -217,7 +225,7 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/03/24/the-hunger-games.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/the-hunger-games.jpg" alt="The Hunger Games" />
@@ -495,12 +503,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

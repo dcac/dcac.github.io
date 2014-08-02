@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/hercules-in-new-york.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">Hercules in New York</h1>
-                <h2 class="hero-author">
-                  By Test Author
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on November 06, 2012
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">Hercules in New York</h1>
+                  <h2 class="hero-author">
+                    By Test Author
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on November 06, 2012
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Junk<br />Mail<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Arnold Strong (née Schwarzenegger)</span><br />
                   <span class="position">Actor</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Arnold Strong (née Schwarzenegger),</p>
+            <p class="intro hide-for-small">Dear Arnold Strong (née Schwarzenegger),</p>
             <p class="intro">The fact that your voice is no longer dubbed on the DVD release of <em>Hercules in New York</em> shows how far Americans have come. The United States of 1969 could not accept (much less understand) the cardboard delivery coming out of a muscle-brained 22-year-old Austrian bodybuilder. It just shows us how much the world has changed&shy;. In many ways, you have helped change it. Too bad there&rsquo;s no going back to undo the disaster that is your first ever film role.</p>
 
 <p>But change has to start somewhere. In this case, it starts somewhere awful. Just terrible. The entire plot is driven by your oft-repeated refrain: &ldquo;Because I&rsquo;m Hercules.&rdquo; That mindless phrase takes you from Olympus to New York City. It takes you from a ship to a pretzel man on the docks, to some college athletes, to some gangsters, to&hellip; a television event? It makes no sense, and nobody probably cared. There are little moments where the dialogue raises above the muddle, and it makes me sympathize with the writer. But only a little bit.</p>
@@ -176,10 +179,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2012/11/20/pumping-iron.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/pumping-iron.jpg" alt="Pumping Iron" />
@@ -197,8 +204,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/12/17/christmas-in-connecticut.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/christmas-in-connecticut.jpg" alt="Christmas in Connecticut" />
@@ -217,7 +225,7 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/11/27/the-villain.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/the-villain.jpg" alt="The Villain" />
@@ -495,12 +503,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

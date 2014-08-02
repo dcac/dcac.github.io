@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/dont-you-forget-about-me.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">Don't You Forget About Me</h1>
-                <h2 class="hero-author">
-                  By <a href="/about/writers/christopherr">Christopher Redmond</a>
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on December 07, 2012
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">Don't You Forget About Me</h1>
+                  <h2 class="hero-author">
+                    By <a href="/about/writers/christopherr">Christopher Redmond</a>
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on December 07, 2012
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Return to<br />Sender<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear John Hughes</span><br />
                   <span class="position">In Memory Of</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear John Hughes,</p>
+            <p class="intro hide-for-small">Dear John Hughes,</p>
             <p class="intro">Ironic, isn&rsquo;t it?&nbsp; A film that&rsquo;s all about you, and one that you clearly wanted nothing to do with, is also dedicating itself to you posthumously.&nbsp; I&rsquo;m sure the filmmakers&rsquo; intentions were pure. But the delivery is so clumsily executed.&nbsp; That&rsquo;s the problem with <em>Don&rsquo;t You Forget About Me</em> &ndash; a fanboy and fangirl documentary that certainly wasn&rsquo;t worthy of your presence. In fact, after shunning Hollywood and the media for so long, I would have almost been insulted if you broke your self-imposed exile for this film. But now you&rsquo;re gone for good, and this stalker-doc about you may be the best we get.</p>
 
 <p>You can&rsquo;t blame them or anyone else for being curious about your personal story. After essentially writing the book on how to make a teen movie, you packed up to Chicago and seemed to disappear. Your filmmaking resum&eacute;, which includes <em>The Breakfast Club, Sixteen Candles </em>and <em>Ferris Bueller&rsquo;s Day Off</em>, is the envy of a generation. Your talent as a writer seemed unstoppable, penning classics from <em>Christmas Vacation</em> to <em>Home Alone</em>. But one day, somehow, you simply had enough. Not necessarily of the work itself (as you continued to write successful family films under the pseudonym Edmond Dant&egrave;s), but obviously with the people, the business and the attention.</p>
@@ -178,10 +181,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2012/11/07/stories-we-tell.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/stories-we-tell.jpg" alt="Stories We Tell" />
@@ -199,8 +206,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/01/24/the-imposter.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="The Imposter" />
@@ -219,7 +227,7 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2014/02/21/takedown-the-dna-of-gsp.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/takedown-the-dna-of-gsp.jpg" alt="Takedown: The DNA of GSP" />
@@ -497,12 +505,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

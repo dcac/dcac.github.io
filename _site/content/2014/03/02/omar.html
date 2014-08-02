@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/omar.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">Omar</h1>
-                <h2 class="hero-author">
-                  By Nat Master
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on March 02, 2014
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">Omar</h1>
+                  <h2 class="hero-author">
+                    By Nat Master
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on March 02, 2014
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Air<br />Mail<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Royi Arama</span><br />
                   <span class="position">Jib Operator</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Royi Arama,</p>
+            <p class="intro hide-for-small">Dear Royi Arama,</p>
             <p class="intro">Hany Abu-Assad&rsquo;s <em>Omar</em> opens with a gunshot and a siren. Omar, a young baker (and, apparently, parkour enthusiast), cautiously scales the Israeli security wall, dropping down into the West Bank. One immediately wonders what dangerous mission would lead him to take such a risk.&nbsp; As it turns out, Omar just wants to hang out with his friends and see Nadia, the girl he loves. It&rsquo;s just like Romeo scaling the balcony to see Juliet&mdash;if the balcony was a symbol of one of the most polemical geopolitical crises of our time.</p>
 
 <p>For a while, we&rsquo;re lulled into thinking we&rsquo;re watching a quiet, slice-of-life film centered on this charming little love story. Then comes another gunshot, and Omar finds himself in the untenable position of being an informant to Rami, a Shin Bet agent, forced to betray his best friends and put his future with Nadia on the line.</p>
@@ -176,10 +179,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2014/02/27/the-great-beauty.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/the-great-beauty.jpg" alt="The Great Beauty" />
@@ -197,8 +204,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2014/02/05/the-broken-circle-breakdown.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/the-broken-circle-breakdown.jpg" alt="The Broken Circle Breakdown" />
@@ -217,7 +225,7 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/09/03/the-grandmaster.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/the-grandmaster.jpg" alt="The Grandmaster" />
@@ -495,12 +503,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

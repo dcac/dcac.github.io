@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/prometheus.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">Prometheus</h1>
-                <h2 class="hero-author">
-                  By <a href="/about/writers/jaredy">Jared Young</a>
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on June 12, 2012
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">Prometheus</h1>
+                  <h2 class="hero-author">
+                    By <a href="/about/writers/jaredy">Jared Young</a>
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on June 12, 2012
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Return to<br />Sender<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Jon Spaihts and Damon Lindelof</span><br />
                   <span class="position">Screenwriters</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Jon Spaihts and Damon Lindelof,</p>
+            <p class="intro hide-for-small">Dear Jon Spaihts and Damon Lindelof,</p>
             <p class="intro">I&rsquo;m writing you a letter. It&rsquo;s also a movie review. That&rsquo;s what we do here: write movie reviews in the form of personal correspondence. I&rsquo;m about to review <em>Prometheus</em>, the film that you both co-wrote. I was disappointed by it. Mostly because of your screenplay. It&rsquo;s a screenplay that, unfortunately, doesn&rsquo;t mince words. See, sometimes words need to be minced. Or else you end up with something like this: a letter that is a movie review that is written exclusively as exposition and is therefore interminable to sit through.</p>
 
 <p><em>Let me get this straight</em>&hellip;you were hired to write the screenplay for <em>Prometheus</em>, the not-quite-a-prequel prequel to <em>Alien</em>, which would be Ridley Scott&rsquo;s decades-late return to sci-fi, the genre that launched his career &ndash; who, despite recent evidence to the contrary (see <em>Robin Hood</em>), still possesses the craftsmanship to conjure beautiful and coherent big-screen spectacle &ndash; and the best you could do for him was to construct a generic scientific-mission-in-space-gone-wrong plot around philosophical questions about the origin of mankind that seem lifted straight from the term paper of a precocious junior high school kid?</p>
@@ -182,10 +185,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2013/02/18/finding-god-in-the-films-of-2012-pt2.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="Finding God in the Films of 2012 - Pt.2" />
@@ -203,8 +210,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/05/15/ruby-sparks.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="Ruby Sparks" />
@@ -223,7 +231,7 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/01/24/the-imposter.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="The Imposter" />
@@ -501,12 +509,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

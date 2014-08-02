@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/moonrise-kingdom.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">Moonrise Kingdom</h1>
-                <h2 class="hero-author">
-                  By <a href="/about/writers/christopherr">Christopher Redmond</a>
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on July 12, 2012
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">Moonrise Kingdom</h1>
+                  <h2 class="hero-author">
+                    By <a href="/about/writers/christopherr">Christopher Redmond</a>
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on July 12, 2012
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Priority<br />Post<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Lee Wimer</span><br />
                   <span class="position">Color Timer</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Lee Wimer,</p>
+            <p class="intro hide-for-small">Dear Lee Wimer,</p>
             <p class="intro">For someone like you, who has overseen the color correction for nearly 200 films, a Wes Anderson project must be the ultimate gig. No other filmmaker so painstakingly composes the colors in every shot and so faithfully adheres to his own strict aesthetic code. Yet critics can be pretty black and white when discussing Anderson &ndash; either he&rsquo;s praised as a peerless American auteur or dismissed as a one-trick pony.&nbsp; I&rsquo;m caught in the middle, believing he&rsquo;s a hit-or-miss director that often struggles to express shades of grey. But when his films work, his colorful characters and palettes can come together as near-perfect cinematic compositions. And <em>Moonrise Kingdom</em> is the best expression of his talents yet.</p>
 
 <p>Anderson was born to tell a children&rsquo;s story. <em>The Fantastic Mr. Fox</em> brought him into that realm, but his visual signature felt conventionally artificial in stop-motion animation. <em>Moonrise Kingdom</em> allows him, for the first-time, to put children at the center and let us experience their storybook understanding of the world. Bruce Willis, Edward Norton, Tilda Swinton, Frances McDormand and (of course) Bill Murray may be the headliners, but newcomers Jared Gilman and Kara Hayward are the emotional center which all the other performances must be adjusted against. In the language of your work, they are the flesh-line and the white balance. &nbsp;And because the characters are drawn more than skin-deep, the whole movie succeeds.</p>
@@ -178,10 +181,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2012/09/19/miss-lovely.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/miss-lovely.jpg" alt="TIFF: Miss Lovely" />
@@ -199,8 +206,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/09/14/amour.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/amour.jpg" alt="TIFF: Amour" />
@@ -219,7 +227,7 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/08/08/beasts-of-the-southern-wild.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/beasts-of-the-southern-wild.jpg" alt="Beasts of the Southern Wild" />
@@ -497,12 +505,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

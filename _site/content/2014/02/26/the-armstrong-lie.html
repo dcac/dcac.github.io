@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/the-armstrong-lie.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">The Armstrong Lie</h1>
-                <h2 class="hero-author">
-                  By <a href="/about/writers/christopherr">Christopher Redmond</a>
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on February 26, 2014
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">The Armstrong Lie</h1>
+                  <h2 class="hero-author">
+                    By <a href="/about/writers/christopherr">Christopher Redmond</a>
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on February 26, 2014
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Standard<br />Delivery<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Benjamin Murray</span><br />
                   <span class="position">Smoke Artist</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Benjamin Murray,</p>
+            <p class="intro hide-for-small">Dear Benjamin Murray,</p>
             <p class="intro">Funny, I don&#39;t remember seeing any smoke in <em>The Armstrong Lie</em>. I mean, sure, there are lots of proverbial smoke and mirrors in this story of seven-time Tour de France champion Lance Armstrong. And, yes, it&#39;s safe to say that there&#39;s a smoke-like dark cloud that will forever overshadow Armstrong&#39;s legacy. But Oscar-winning director Alex Gibney is not prone to such literal, stylized, Errol Morris-like re-enactments in his films. Instead, he tells the story of the disgraced super cyclist as a straight-up, old-school, talking-head, journalistic documentary. Or so it seems.  Like Armstrong, it appears that the secret to your success was to covertly manipulate the laws of nature.</p>
 
 <p>Didn&#39;t you guys learn anything from making this film?</p>
@@ -186,10 +189,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2013/06/25/we-steal-secrets-the-story-of-wikileaks.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="We Steal Secrets: The Story of WikiLeaks" />
@@ -207,8 +214,28 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
+                <a href="/content/2014/04/08/mitt.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/mitt.jpg" alt="Mitt" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/04/08/mitt.html">
+                  <div class="review-text">
+                    <h1>Mitt</h1>
+                    <h2 class="addressee">Dear Erik Olsen, Camera Operator</h2>
+                    <h2 class="author">By Nat Master</h2>
+                  </div>
+                </a>
+              </div>
+          
+            
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2014/03/18/filthy-gorgeous-the-bob-guccione-story.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/filthy-gorgeous-the-bob-guccione-story.jpg" alt="Filthy Gorgeous: The Bob Guccione Story" />
@@ -222,25 +249,6 @@
                     <h1>Filthy Gorgeous: The Bob Guccione Story</h1>
                     <h2 class="addressee">Dear Michael Perlmutter, Music Supervisor</h2>
                     <h2 class="author">By Casey Tourangeau</h2>
-                  </div>
-                </a>
-              </div>
-          
-            
-              <div class="large-4 medium-4 columns">
-                <a href="/content/2014/03/12/blackfish.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/blackfish.jpg" alt="Blackfish" />
-                    <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2014/03/12/blackfish.html">
-                  <div class="review-text">
-                    <h1>Blackfish</h1>
-                    <h2 class="addressee">Dear James Earl Jones, Celebrity Shill</h2>
-                    <h2 class="author">By Di Golding</h2>
                   </div>
                 </a>
               </div>
@@ -505,12 +513,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

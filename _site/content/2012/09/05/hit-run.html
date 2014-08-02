@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/hit-and-run.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">Hit & Run</h1>
-                <h2 class="hero-author">
-                  By <a href="/about/writers/christopherr">Christopher Redmond</a>
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on September 05, 2012
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">Hit & Run</h1>
+                  <h2 class="hero-author">
+                    By <a href="/about/writers/christopherr">Christopher Redmond</a>
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on September 05, 2012
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Return to<br />Sender<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Brycen Counts</span><br />
                   <span class="position">Stunt Driver</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Brycen Counts,</p>
+            <p class="intro hide-for-small">Dear Brycen Counts,</p>
             <p class="intro">One of the best lines from your new film <em>Hit &amp; Run</em> is when Kristen Bell, playing the girlfriend of a former getaway driver, observes that there&rsquo;s &ldquo;a certain type of person&rdquo; attracted to the kind of souped-up car her boyfriend drives: rapists. I laughed, but a professional gear-head like you probably felt like showing her what a hit and run <em>really</em> looks like. But don&rsquo;t worry, that singular zinger for us non-car aficionados wasn&rsquo;t enough to endear us to this <em>Fast and Furious-</em>lite. It&rsquo;s still a car movie&mdash;even if has less excitement than your average Nissan commercial.</p>
 
 <p>The real wheelman of this film, of course, is writer/co-director/editor/star/ex-<em>Punk&rsquo;d</em>-performer Dax Shepard. As the engineer of his own star-making vehicle, he plays a man living in witness protection after a bank job gone wrong. Life in his sleepy town gets complicated when his new girlfriend wants to move back to Los Angeles, the scene of the crime,. He volunteers to drive her cross-country to an all-important job interview, all the while being pursued by his tipped-off and ticked-off former crew. And the entire time cars control the comedy, the action, the drama, and, of course, the resolution.</p>
@@ -180,10 +183,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2013/05/27/fast-furious-6.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="Fast & Furious 6" />
@@ -201,8 +208,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/03/21/salmon-fishing-in-yemen.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/salmon-fishing-in-the-yemen.jpg" alt="Salmon Fishing in the Yemen" />
@@ -221,7 +229,7 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/08/09/hope-springs.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/hope-springs.jpg" alt="Hope Springs" />
@@ -499,12 +507,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

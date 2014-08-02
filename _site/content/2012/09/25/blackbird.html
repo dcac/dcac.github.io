@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/blackbird.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">TIFF: Blackbird</h1>
-                <h2 class="hero-author">
-                  By Test Author
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on September 25, 2012
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">TIFF: Blackbird</h1>
+                  <h2 class="hero-author">
+                    By Test Author
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on September 25, 2012
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Air<br />Mail<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Keith Currie</span><br />
                   <span class="position">Gun Wrangler</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Keith Currie,</p>
+            <p class="intro hide-for-small">Dear Keith Currie,</p>
             <p class="intro">Given your line of work, gun violence must be a difficult reality for you. What was it like working on <em>Blackbird</em>, a film about a school shooting that never actually happens? Films like <em>Elephant </em>or <em>We Need To Talk About Kevin</em> want to show carnage and victims and death, but <em>Blackbird</em> means to discuss a larger picture about the subject: the bullying, the judgment, and the hysteria behind empty threats and passionate, ill-fated cries for help. These are things that writer/director Jason Buxton wants to talk about, and I&rsquo;m guessing you appreciate that.</p>
 
 <p>Surely you&rsquo;ve heard of &ldquo;Chekhov&rsquo;s Gun&rdquo; - the idea that if you introduce a firearm in the opening act of a story, it must be fired later in the narrative. Otherwise, what would be the point of its existence? <em>Blackbird</em> doesn&rsquo;t truly deviate from this philosophy, as we see a rifle go off in the film&rsquo;s first act. You were no doubt there, behind the scenes, as the woefully-misunderstood Sean Randall (Connor Jessup) is on a hunting trip with his father. It was an important moment, as it shows Randall is uncomfortable with killing innocent life when given the opportunity to do so. He doesn&rsquo;t shoot the deer.</p>
@@ -182,10 +185,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2012/08/23/where-do-we-go-now.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/where-do-we-go-now.jpg" alt="Where Do We Go Now?" />
@@ -203,8 +210,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/10/15/argo.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/argo.jpg" alt="Argo" />
@@ -223,7 +231,7 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/09/12/argo.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/argo.jpg" alt="TIFF: Argo" />
@@ -501,12 +509,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

@@ -1,21 +1,19 @@
 ---
 published: true
-image: 
-imdb: 
-author:  
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: algonquin.jpg
+imdb: tt2498340
+author: dig
+stars: 2.5
+excerpt: "With your iconic lakes, forests, and sunsets, you've long been an inspiration to Canadian artists. And it's easy to see why."
+position: Location
+addressee: Algonquin Provincial Park
 layout: review
 categories: reviews
 title: "Algonquin"
 date: 2014-05-01 14:01
 comments: true
-categories: [Canadian, drama, Letters]
+tags: [Canadian, drama, Letters]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/5/1/algonquin.html"><img src="http://rollotomasi73.files.wordpress.com/2014/05/algonquin.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Algonquin Provincial Park,</strong> Location,</em></p>
 <p>With your iconic lakes, forests, and sunsets, you&rsquo;ve long been an inspiration to Canadian artists. And it&rsquo;s easy to see why. You are a rarity: you have no bad side. But like the pretty assistant a magician uses to distract the audience from the illusion, in <em>Algonquin</em>, you too are underappreciated.</p>
 <p>Your campsites, tributaries, and trails have surely seen their share of family conflict over the years. If trees could talk, no doubt they&rsquo;d reveal generation upon generation of the sort of daddy issues that are born, explored, and resolved in <em>Algonquin</em>.</p>
 <p>Jake Roulette is a meek man-child with unrealized dreams of being a writer. His father, Leif, a past-his-prime lothario and novelist, seeks his son&rsquo;s assistance in writing a book about you, Algonquin Park, the site of much Roulette family lore. When Leif passes away, Jake must come to terms with his father&rsquo;s past, including another son from another woman. How Jake reconciles this legacy will determine his own.</p>
@@ -24,4 +22,3 @@ categories: [Canadian, drama, Letters]
 <p>Luckily, you look fabulous! Cinematographer Catherine Lutes captures your ageless beauty and mystery with a light hand. No need to gild any lilies here. It&rsquo;s unfortunate, though, that the movie couldn&rsquo;t live up to the grandeur of it&rsquo;s namesake. Watching <em>Algonquin</em>, I felt like a petulant child forced into a canoe trip; bored for a long stretch, annoyed by the company, relieved when it was over, yet impressed by the stunning scenery. When asked how it was, I suspect I&rsquo;d have the same begrudging reply as the kid: &ldquo;It was okay, I guess.&rdquo;</p>
 <p>Ever humbled by your majesty,</p>
 <p>Di</p>
-<p><strong><em>Status: Standard Delivery (2.5/5)</em></strong></p></div>

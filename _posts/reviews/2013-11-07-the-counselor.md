@@ -1,20 +1,18 @@
 ---
 published: true
-image: 
-imdb: 
+image: the-counselor.jpg
+imdb: tt2193215
 author: christopherr 
-stars: 
-excerpt: 
-position: 
-addressee: 
+stars: 2.5
+excerpt: "Sometimes, you just need to get the job done, right? I mean, that's the whole reason you're on set."
+position: Completion Guarantor
+addressee: Ali Moshref
 layout: review
 categories: reviews
 title: "The Counselor"
 comments: true
 tags: [Brad Pitt, Cameron Diaz, drama, drugs, Javier Bardem, Letters, Michael Fassbender, Penelope Cruz, ridley scott]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/11/6/the-counselor.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78fd/1383800020079/The%20Counselor.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Ali Moshref,</strong> Completion Guarantor,</em></p>
 <p>Sometimes, you just need to get the job done, right? I mean, that&rsquo;s the whole reason you&rsquo;re on set. Getting daily production reports, overseeing the cash flow, making sure stars come out of their trailers &ndash; you&rsquo;re the person who has to say, &ldquo;It doesn&rsquo;t matter how stupid this all seems, you agreed to make this fucking thing, so do it.&rdquo; And on a movie like <em>The Counselor</em>, you might be the only reason the film ever got finished.</p>
 <p>But really, who can blame you for buying into a film so packed with potential?</p>
 <p>First, you have Sir Ridley Scott at the helm. True, he hasn&rsquo;t directed a proper critical or commercial success in over a decade, but the man is a bona fide talent who can attract the best in the business. For this job, he lined up a parade of A-listers to tackle the material: Michael Fassbender, Brad Pitt, Javier Bardem, Cameron Diaz, Penelope Cruz and some impressive supporting players. But the best part? They&rsquo;re working from an original screenplay Cormac McCarthy! No chance anything will be lost in translation from his novel for once, right? Start printing the money and Oscar ballots now.</p>
@@ -24,4 +22,3 @@ tags: [Brad Pitt, Cameron Diaz, drama, drugs, Javier Bardem, Letters, Michael Fa
 <p>I know, easy for me to say.</p>
 <p>Bucking off,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Standard Delivery (2.5/5)</em></strong></p></div>

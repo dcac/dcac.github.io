@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/flight.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">Flight</h1>
-                <h2 class="hero-author">
-                  By <a href="/about/writers/jaredy">Jared Young</a>
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on November 02, 2012
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">Flight</h1>
+                  <h2 class="hero-author">
+                    By <a href="/about/writers/jaredy">Jared Young</a>
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on November 02, 2012
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Return to<br />Sender<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Craig Hosking</span><br />
                   <span class="position">Pilot</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Craig Hosking,</p>
+            <p class="intro hide-for-small">Dear Craig Hosking,</p>
             <p class="intro">In the first act of the new film <em>Flight</em> &ndash; Robert Zemeckis&rsquo;s first live-action effort since <em>Castaway</em> &ndash; a jumbo jet goes careening nose-first towards the populous flatlands of middle-America, and bon-vivant pilot Whip Witaker (played by Denzel Washington), half-drunk on screwdrivers and buzzing with cocaine, must execute a spectacular, logic-defying (though <em>plausible</em>&mdash;right, Craig?) aerial maneuver in order to save the day.</p>
 
 <p>There are no scenes of flying after these initial aeronautic acrobatics, but I sense that your influence extended beyond simply coordinating the takeoffs and landings of support craft. Since the late-80s remake of <em>The Blob</em>, you&rsquo;ve contributed your piloting skills to virtually every notable film production of the last twenty-five years: from epic action films like <em>The Dark Knight Rises</em> to small-town comedies like <em>Groundhog Day</em>. You know better than anyone that flight is all about managing the interaction of opposing forces: gravity and propulsion; roll, pitch, and yaw. Get it right and the miracle of flight occurs as naturally for a jet airplane as it does for a bird. Get it wrong and 900,000 pounds of metal tumbles from the sky.</p>
@@ -184,10 +187,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2012/03/21/safe-house.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/safe-house.jpg" alt="Safe House" />
@@ -205,8 +212,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2014/02/19/ernest-and-celestine.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/ernest-and-celestine.jpg" alt="Ernest and Celestine" />
@@ -225,7 +233,7 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/02/21/5-broken-cameras.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="5 Broken Cameras" />
@@ -503,12 +511,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

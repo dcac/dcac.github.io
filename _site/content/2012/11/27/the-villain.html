@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/the-villain.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">The Villain</h1>
-                <h2 class="hero-author">
-                  By Test Author
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on November 27, 2012
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">The Villain</h1>
+                  <h2 class="hero-author">
+                    By Test Author
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on November 27, 2012
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Return to<br />Sender<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Arnold Schwarzenegger</span><br />
                   <span class="position">Hansome Stranger</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Arnold Schwarzenegger,</p>
+            <p class="intro hide-for-small">Dear Arnold Schwarzenegger,</p>
             <p class="intro">I&rsquo;m actually nervous writing this. During my most impressionable years, you were the hero that loomed largest in my imagination. A diligently glued together <em>Terminator 2</em> poster-sized puzzle hung proudly on my wall for years. Arnold-themed action figures, trading cards, and books filled my room while I excitedly worked my way through your back-catalogue of R-rated adventures. I never understood how my parents seemed to give any VHS tape with your face on it a free pass, even though so few of your films were suitable for a child. Maybe they somehow only saw <em>The Villain</em>, and forever associated you with harmless, over-the-top slapstick humour, and misguided attempts at bringing cartoon sensibilities to real-life.</p>
 
 <p>It&rsquo;s very unlikely. Most people &ndash; and many fans &ndash; have never seen or even heard of this film. By the time your stardom hit my personal orbit, your authorized biographies gleefully started your career (and myth) with <em>Conan the Barbarian</em>. In fact, that&rsquo;s what inspired the <a href="/letters/tag/early-arnold">Early Arnold</a> series on <em>Dear Cast and Crew</em> &ndash; my selfish desire to finally, truly, see all your films. I remember some early films being mentioned in those books without significant information or images, like <a href="/letters/2012/11/6/hercules-in-new-york.html"><em>Hercules in New York</em></a> (which at least <em>sounds</em> macho and on-brand) and the documentary <a href="/letters/2012/11/20/pumping-iron.html"><em>Pumping Iron</em></a>. In the past weeks, I&rsquo;ve learned why the first film is better remembered for its funny title, and why the latter is a cult classic and critical success. <a href="/letters/2012/11/14/stay-hungry.html"><em>Stay Hungry</em></a> was lost in the middle, even though it allowed you to play a laid-back version of yourself and co-starred both Jeff Bridges and Sally Fields.</p>
@@ -184,10 +187,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2012/12/17/christmas-in-connecticut.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/christmas-in-connecticut.jpg" alt="Christmas in Connecticut" />
@@ -205,8 +212,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/11/20/pumping-iron.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/pumping-iron.jpg" alt="Pumping Iron" />
@@ -225,7 +233,7 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/11/14/stay-hungry.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/stay-hungry.jpg" alt="Stay Hungry" />
@@ -503,12 +511,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

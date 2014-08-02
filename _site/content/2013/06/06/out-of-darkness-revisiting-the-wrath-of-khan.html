@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/out-of-darkness:-revisiting-the-wrath-of-khan.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">Out of Darkness: Revisiting The Wrath of Khan</h1>
-                <h2 class="hero-author">
-                  By <a href="/about/writers/jaredy">Jared Young</a>
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on June 06, 2013
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">Out of Darkness: Revisiting The Wrath of Khan</h1>
+                  <h2 class="hero-author">
+                    By <a href="/about/writers/jaredy">Jared Young</a>
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on June 06, 2013
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 <br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear </span><br />
                   <span class="position"></span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear ,</p>
+            <p class="intro hide-for-small">Dear ,</p>
             <div><p class="intro"><em><strong><span class="full-image-block ssNonEditable"><a href="/letters/2013/6/5/out-of-darkness-revisiting-the-wrath-of-khan.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7849/1370488154069/st2.jpg" alt="" /></a></span></strong></em></p>
 <p><em style="font-size:120%;"><span style="font-size:120%;"><strong>Dear Jack B. Sowards,</strong> Screenwriter,</span></em></p>
 <p>Maybe it&rsquo;s a good thing you&rsquo;re not around to see this. Six years after your passing, <a href="http://movies.netflix.com/WiMovie/Star_Trek_II_The_Wrath_of_Khan/60001462?trkid=1889703"><em>Star Trek II: The Wrath of Khan</em></a> &ndash; what I would kindly suggest is the great accomplishment of your career &ndash; is enjoying a sort of renaissance. Not necessarily on its own (countless) merits, but mostly because there&rsquo;s this new flick in theaters, <a href="/letters/2013/5/16/star-trek-into-darkness.html"><em>Star Trek Into Darkness</em></a>, that is trying &ndash; and failing spectacularly &ndash; to mimic them.</p>
@@ -191,10 +194,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2013/05/16/star-trek-into-darkness.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="Star Trek Into Darkness" />
@@ -212,8 +219,9 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/04/19/oblivion.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="Oblivion" />
@@ -232,7 +240,7 @@
               </div>
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/08/15/the-worlds-end.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/" alt="The World's End" />
@@ -510,12 +518,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear , </a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/the-dark-knight-rises-2.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">The Dark Knight Rises</h1>
-                <h2 class="hero-author">
-                  By <a href="/about/writers/jaredy">Jared Young</a>
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on July 27, 2012
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">The Dark Knight Rises</h1>
+                  <h2 class="hero-author">
+                    By <a href="/about/writers/jaredy">Jared Young</a>
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on July 27, 2012
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 <br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Recipient</span><br />
                   <span class="position"></span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Recipient,</p>
+            <p class="intro hide-for-small">Dear Recipient,</p>
             <p class="intro">Rumor has it that you recently asked one of the prison guards how <em>The Dark Knight Rises</em> ends. You haven&rsquo;t seen the film in its entirety (and hopefully never will), so I thought I&rsquo;d tell you a bit about the movie with which, for obvious and appalling reasons, you will forever be associated.</p>
 
 <p>Does it live up to expectations? Of course it doesn&rsquo;t. It couldn&rsquo;t. Sitting in the theater last Thursday, as the impatient throng fidgeted and twitched and laughed too hard at their own jokes, I had the strange sense of having been there before, of remembering a future memory. In retrospect, I know why. From bits of hearsay and gossip, trailer clips, score samples, set photos, and two decades of reading Batman comics, I had already constructed the movie in my head. And it was perfect. Indistinct, but perfect. Or, more accurately, perfect because it <em>was</em> indistinct.</p>
@@ -196,10 +199,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns small-centered main-link-small">
                 <a href="/content/2012/07/19/the-dark-knight-rises.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/the-dark-knight-rises.jpg" alt="The Dark Knight Rises" />
@@ -217,8 +224,28 @@
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
+                <a href="/content/2014/04/04/captain-america-the-winter-soldier.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb/captain-america-the-winter-soldier.jpg" alt="Captain America: The Winter Soldier" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/04/04/captain-america-the-winter-soldier.html">
+                  <div class="review-text">
+                    <h1>Captain America: The Winter Soldier</h1>
+                    <h2 class="addressee">Dear Kevin Feige, Producer</h2>
+                    <h2 class="author">By Casey Tourangeau</h2>
+                  </div>
+                </a>
+              </div>
+          
+            
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/05/03/iron-man-3.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/iron-man-3.jpg" alt="Iron Man 3" />
@@ -232,25 +259,6 @@
                     <h1>Iron Man 3</h1>
                     <h2 class="addressee">Dear Shane Black, Co-writer and Director</h2>
                     <h2 class="author">By Test Author</h2>
-                  </div>
-                </a>
-              </div>
-          
-            
-              <div class="large-4 medium-4 columns">
-                <a href="/content/2012/09/21/dredd.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/dredd.jpg" alt="TIFF: Dredd" />
-                    <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2012/09/21/dredd.html">
-                  <div class="review-text">
-                    <h1>TIFF: Dredd</h1>
-                    <h2 class="addressee">Dear Oliver Allen-Wielebnowski, Stereoscopic Conversion Lead</h2>
-                    <h2 class="author">By Casey Tourangeau</h2>
                   </div>
                 </a>
               </div>
@@ -515,12 +523,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

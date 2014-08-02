@@ -1,21 +1,19 @@
 ---
 published: true
-image: 
-imdb: 
-author:  
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: the-raid-2-berendal.jpg
+imdb: tt2265171
+author: jaredy
+stars: 4.5
+excerpt: "So, they brought in the big guns. Not literally, of course. While guns play an occasional role in martial arts films like The Raid 2: Berendal, they might as well not exist."
+position: Foley Artist
+addressee: Sean England
 layout: review
 categories: reviews
 title: "The Raid 2: Berendal"
 date: 2014-04-10 14:36
 comments: true
-categories: [action, foley, Letters, martial arts, The Raid, The Raid 2]
+tags: [action, foley, Letters, martial arts, The Raid, The Raid 2]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/4/10/the-raid-2-berendal.html"><img src="http://rollotomasi73.files.wordpress.com/2014/04/the-raid-2-berendal.jpg" alt="" /></a></span></span></p>
-<p><span style="font-size:120%;"><strong><em>Dear Sean England</em></strong><em>, Foley Artist,</em>&nbsp;</span></p>
 <p>So, they brought in the big guns. Not literally, of course. While guns play an occasional role in martial arts films like <em>The Raid 2: Berendal</em>, they might as well not exist. The whole precept of the genre is that (a) when a gun might prove most useful (i.e. when being attacked by an unstoppable master of kicking and punching) there is never a gun present, and (b) during a brawl, in the case of a laughable numerical mismatch, all comers must attack the lone fighter one at a time. My point is, having worked on films ranging from <em>Forrest</em> <em>Gump</em> to <em>Gladiator</em> to <em>The Avengers</em>, you&rsquo;re one of the big guns in the world of sound effects, but on this particular job, you didn&rsquo;t have to scroll through libraries of stock gunshots.</p>
 <p>No, this film is a lot more interesting than that.</p>
 <p>The foley artists who preceded you on the first picture, <a href="/letters/2012/3/16/sxsw-postcard-the-raid-redemption.html">like Ethan Beigle</a>, were working on a much different motion picture. Smaller budget, modest ambitions; it seemed novel enough that <em>The Raid: Redemption</em> was a high-concept Indonesian action film; that it was competent, and delivered what one comes to expect from modern martial arts flicks (which are painfully rare), seemed like a bonus.</p>
@@ -26,4 +24,3 @@ categories: [action, foley, Letters, martial arts, The Raid, The Raid 2]
 <p>In the end, watching this flick is a simple experience. The complexities of the choreography, the twists and turns of the plot, and the layers and layers of your piercing foley effects all serve to illicit the same response: pure sensory excitement. And that&rsquo;s precisely what <em>The Raid 2: Berendal </em>delivers.</p>
 <p>Sincerely,</p>
 <p>Jared Young</p>
-<p><strong><em>Status: Priority post (4.5/5)</em></strong></p></div>

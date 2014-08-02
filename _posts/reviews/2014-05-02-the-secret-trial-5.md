@@ -1,21 +1,19 @@
 ---
 published: true
-image: 
-imdb: 
-author:  
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: the-secret-trial-5.jpg
+imdb: tt3746002
+author: dig
+stars: 4
+excerpt: "I saw you once, but I doubt you saw me in the sea of faces at Parliament Hill in late 2004."
+position: Subject
+addressee: Sophie Harkat
 layout: review
 categories: reviews
 title: "The Secret Trial 5"
 date: 2014-05-02 21:26
 comments: true
-categories: [Canadian, Festivals, Hot Docs, Hot Docs 2014, law, Muslim, parliament, The Secret Trial 5]
+tags: [Canadian, Festivals, Hot Docs, Hot Docs 2014, law, Muslim, parliament, The Secret Trial 5]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/5/2/the-secret-trial-5.html"><img src="http://rollotomasi73.files.wordpress.com/2014/05/the20secret20trial205.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Sophie Harkat,</strong> Subject,</em></p>
 <p>I saw you once, but I doubt you saw me in the sea of faces at Parliament Hill in late 2004. I was one of the fifteen thousand who came out to protest George W. Bush&rsquo;s visit to Canada and I got to hear you tell your story first-hand. From a podium under the Peace Tower, you spoke of your husband Mohamed Harkat, and how he had been incarcerated since December 2002 without any charges laid against him. I distinctly remember you telling us how much you loved him, and that he was &lsquo;really cute&rsquo;. I smiled and thought of my husband and quite selfishly realized how lucky I was not to be in your position.</p>
 <p>Watching the documentary, <em>The Secret Trial 5</em>, about the detention of your husband and four other men (Adil Charkaoui, Hassan Almrei, Mahmoud Jaballah, and Mohammed Mahjoub) on suspicions of terrorism, I was disturbed by and ashamed of my government&rsquo;s actions. It&rsquo;s difficult to reconcile their Draconian measures with the just and fair Canada I was raised to believe in, and this is precisely the response <em>The Secret Trial 5</em> seeks to elicit.</p>
 <p>It must have taken an enormous leap of faith for yourself, Mohamed, and the other men and their families, to trust that your stories would be told without hyperbole by director Amar Wala. With the exception of Mahjoub, you all shared the horror, uncertainty and despair of dealing with the complete upheaval of your existence and your future. That five men living quiet lives can be arrested without cause or warning should be the stuff of dystopian fiction, and the question I asked myself was, &ldquo;how can this happen in Canada?&rdquo;</p>
@@ -26,4 +24,3 @@ categories: [Canadian, Festivals, Hot Docs, Hot Docs 2014, law, Muslim, parliame
 <p>Like the <em>The</em> <em>Central Park Five</em>, <em>The</em> <em>Paradise Lost </em>trilogy,<em> </em>and <em>TheThin Blue Line</em> before it, <em>The Secret Trial 5 </em>doesn&rsquo;t need to rely on gimmickry or sentimentality to present its case. And like those other films, once the facts are presented in the court of public opinion, a welcome by-product may indeed be exoneration since of the five men, three are still fighting to clear their names, your husband among them. <em>The Secret Trial 5</em> presents us with an uncomfortable reality; that maybe this isn&rsquo;t the country we thought it was. This should make a society long mocked for its politeness very angry. Because as you well know, angry people get things done.&nbsp;</p>
 <p>With much respect and admiration,&nbsp;</p>
 <p>Di</p>
-<p><strong><em>Status: Air Mail (4/5)</em></strong></p></div>
