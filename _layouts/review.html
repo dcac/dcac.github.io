@@ -3,7 +3,7 @@ layout: default
 ---
      {% include top-nav.html %}
 {% assign author = site.data.authors[page.author] %}
-      <section>
+       <section>
         <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | downcase | replace: ' ','-' | replace: '\'',''}}.jpg{% endif %});" data-stellar-background-ratio=".25"></div>
           <div class="row">
