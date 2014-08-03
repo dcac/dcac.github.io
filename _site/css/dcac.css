@@ -88,7 +88,7 @@ img.hero-image {
 }
 @media only screen and (max-width: 640px) {
   img.hero-image {
-    height: 26.875rem;
+    height: 20rem;
   }
 }
 .hero-container {
@@ -200,7 +200,9 @@ h2.hero-author-home {
 }
 @media only screen and (max-width: 640px) {
   .star-large {
-    height: 1.25rem;
+    height: 1.125rem;
+    margin-left: 0.125rem;
+    margin-right: 0.125rem;
   }
 }
 .star-small {
@@ -1022,7 +1024,7 @@ p::selection {
 }
 @media only screen and (max-width: 640px) {
   .title-img {
-    height: 26.875rem;
+    height: 20rem;
   }
 }
 #body-text {
@@ -1031,10 +1033,13 @@ p::selection {
   padding-top: 3.75rem;
 }
 @media only screen and (max-width: 640px) {
+  #body-text {
+    padding-top: 0.625rem;
+  }
+}
+@media only screen and (max-width: 640px) {
   #review-copy {
     margin-top: 0;
-    padding-left: 40px;
-    padding-right: 40px;
   }
 }
 #image {
@@ -1101,7 +1106,7 @@ img.scrolled {
     margin-top: 300px;
     line-height: 0;
     width: 100%;
-    min-height: 135px;
+    min-height: 120px;
   }
 }
 @media only screen and (max-width: 640px) {
@@ -1109,10 +1114,10 @@ img.scrolled {
     position: absolute;
     bottom: 1.25rem;
     right: 0;
-    font-size: 1.375rem;
-    line-height: 22px;
+    font-size: 1.125rem;
+    line-height: 1.125rem;
     white-space: nowrap;
-    right: 40px;
+    right: 0.9375rem;
   }
 }
 /*
@@ -1128,34 +1133,32 @@ img.scrolled {
 }
 */
 .status-row {
-  height: 504px;
+  height: 31.5rem;
 }
 @media only screen and (max-width: 640px) {
   .status-row {
-    height: 430px;
+    height: 20rem;
     position: relative;
     bottom: 0;
   }
 }
 .people-row {
-  height: 504px;
+  height: 31.5rem;
 }
 @media only screen and (max-width: 640px) {
   .people-row {
     height: auto;
     position: relative;
-    padding-left: 40px;
-    padding-right: 40px;
   }
 }
 .title-area {
-  height: 504px;
+  height: 31.5rem;
   position: relative;
 }
 @media only screen and (max-width: 640px) {
   .title-area {
     position: relative;
-    height: 430px;
+    height: 20rem;
   }
 }
 @media only screen and (max-width: 640px) {
@@ -1163,18 +1166,18 @@ img.scrolled {
     position: absolute;
     bottom: 20px;
     text-align: left;
-    left: 40px;
+    left: 0.9375rem;
   }
 }
 .review-people {
   position: absolute;
-  bottom: 50px;
+  bottom: 3.125rem;
 }
 @media only screen and (max-width: 640px) {
   .review-people {
     position: relative;
     bottom: auto;
-    margin-top: 35px;
+    margin-top: 2.1875rem;
   }
 }
 .large-star-rating {
@@ -1209,6 +1212,12 @@ img.scrolled {
   margin-right: 0.625rem;
   -webkit-filter: drop-shadow(0 0 0.125rem #939598);
   filter: drop-shadow(0 0 0.125rem #939598);
+}
+@media only screen and (max-width: 640px) {
+  .review-stamp {
+    width: 1.875rem;
+    height: 1.875rem;
+  }
 }
 .film-info {
   padding: 0;
@@ -1347,8 +1356,8 @@ h2.hero-date {
 @media only screen and (max-width: 640px) {
   h2.hero-author,
   h2.hero-date {
-    font-size: 1.0625rem;
-    line-height: 1.25rem;
+    font-size: 0.9375rem;
+    line-height: 1.125rem;
     white-space: nowrap;
     position: relative;
     width: auto;
@@ -1362,8 +1371,8 @@ h2.hero-date {
 }
 @media only screen and (max-width: 640px) {
   h2.hero-date {
-    font-size: 0.9375rem;
-    line-height: 1.25rem;
+    font-size: 0.75rem;
+    line-height: 1.125rem;
     white-space: nowrap;
     margin: 0;
   }
@@ -1401,7 +1410,7 @@ h3 {
   width: 100%;
 }
 .body-addressee {
-  margin-bottom: 15px;
+  margin-bottom: 0.9375rem;
 }
 h3 span.addressee {
   color: #ffffff;
@@ -1417,8 +1426,8 @@ h3 span.addressee {
   h3 span.addressee {
     color: #939598;
     text-align: left;
-    font-size: 1.5rem;
-    line-height: 2.625rem;
+    font-size: 1.25rem;
+    line-height: 2rem;
     font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
     font-weight: 700;
     text-shadow: none;
@@ -1437,8 +1446,8 @@ h3 span.position {
   h3 span.position {
     color: #000;
     text-align: left;
-    font-size: 4.875rem;
-    line-height: 4.25rem;
+    font-size: 3.75rem;
+    line-height: 3.125rem;
     font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
     font-weight: 700;
     text-shadow: none;
@@ -1458,8 +1467,8 @@ h3 span.position {
 }
 @media only screen and (max-width: 640px) {
   #review-copy p.intro {
-    font-size: 1.125rem;
-    line-height: 1.75rem;
+    font-size: 1rem;
+    line-height: 1.5rem;
   }
 }
 #review-copy p {
@@ -1508,6 +1517,10 @@ div.up-next-title {
   overflow: hidden;
   width: 100%;
   margin-bottom: 25px;
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  float: none;
 }
 h1.up-next-header {
   z-index: 2;
@@ -1533,7 +1546,7 @@ hr.up-next-rule {
   height: 5px;
   color: #c1c0c0;
   background-color: #c1c0c0;
-  bottom: 15px;
+  bottom: 10px;
   position: absolute;
   width: 100%;
   display: block;
@@ -1563,7 +1576,10 @@ hr.up-next-rule {
 }
 @media only screen and (max-width: 640px) {
   .main-link-small {
-    width: 300px;
+    max-width: 20.625rem;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
   }
 }
 @media (min-width: 768px) {
