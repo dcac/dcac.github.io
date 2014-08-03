@@ -15262,7 +15262,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 27137,
+		"initialSize": 27102,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb\/supermensch.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb\/supermensch.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -15504,7 +15504,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 28139,
+		"initialSize": 21047,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb\/the-hunt.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb\/the-hunt.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -16373,6 +16373,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/js\/min\/main2-ck.js",
 		"outputAbbreviatedPath": "\/_site\/js\/min\/min\/main2-ck-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/js\/min\/main2-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/js\/min\/main2-min.js",
+		"outputAbbreviatedPath": "\/_site\/js\/min\/min\/main2-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -17408,67 +17419,67 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_site\/vendor\/stellar\/jquery.stellar.js": {
+	"\/_site\/vendor\/Stellar\/jquery.stellar.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/vendor\/stellar\/jquery.stellar.js",
-		"outputAbbreviatedPath": "\/_site\/vendor\/stellar\/min\/jquery.stellar-min.js",
+		"inputAbbreviatedPath": "\/_site\/vendor\/Stellar\/jquery.stellar.js",
+		"outputAbbreviatedPath": "\/_site\/vendor\/Stellar\/min\/jquery.stellar-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_site\/vendor\/stellar\/jquery.stellar.min.js": {
+	"\/_site\/vendor\/Stellar\/jquery.stellar.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/vendor\/stellar\/jquery.stellar.min.js",
-		"outputAbbreviatedPath": "\/_site\/vendor\/stellar\/min\/jquery.stellar.min-min.js",
+		"inputAbbreviatedPath": "\/_site\/vendor\/Stellar\/jquery.stellar.min.js",
+		"outputAbbreviatedPath": "\/_site\/vendor\/Stellar\/min\/jquery.stellar.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_site\/vendor\/stellar\/min\/jquery.stellar-ck.js": {
+	"\/_site\/vendor\/Stellar\/min\/jquery.stellar-ck.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/vendor\/stellar\/min\/jquery.stellar-ck.js",
-		"outputAbbreviatedPath": "\/_site\/vendor\/stellar\/min\/min\/jquery.stellar-ck-min.js",
+		"inputAbbreviatedPath": "\/_site\/vendor\/Stellar\/min\/jquery.stellar-ck.js",
+		"outputAbbreviatedPath": "\/_site\/vendor\/Stellar\/min\/min\/jquery.stellar-ck-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_site\/vendor\/stellar\/min\/jquery.stellar-min.js": {
+	"\/_site\/vendor\/Stellar\/min\/jquery.stellar-min.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/vendor\/stellar\/min\/jquery.stellar-min.js",
-		"outputAbbreviatedPath": "\/_site\/vendor\/stellar\/min\/min\/jquery.stellar-min-min.js",
+		"inputAbbreviatedPath": "\/_site\/vendor\/Stellar\/min\/jquery.stellar-min.js",
+		"outputAbbreviatedPath": "\/_site\/vendor\/Stellar\/min\/min\/jquery.stellar-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_site\/vendor\/stellar\/min\/min\/jquery.stellar-ck-min.js": {
+	"\/_site\/vendor\/Stellar\/min\/min\/jquery.stellar-ck-min.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/vendor\/stellar\/min\/min\/jquery.stellar-ck-min.js",
-		"outputAbbreviatedPath": "\/_site\/vendor\/stellar\/min\/min\/min\/jquery.stellar-ck-min-min.js",
+		"inputAbbreviatedPath": "\/_site\/vendor\/Stellar\/min\/min\/jquery.stellar-ck-min.js",
+		"outputAbbreviatedPath": "\/_site\/vendor\/Stellar\/min\/min\/min\/jquery.stellar-ck-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_site\/vendor\/stellar\/min\/min\/jquery.stellar-min-ck.js": {
+	"\/_site\/vendor\/Stellar\/min\/min\/jquery.stellar-min-ck.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/vendor\/stellar\/min\/min\/jquery.stellar-min-ck.js",
-		"outputAbbreviatedPath": "\/_site\/vendor\/stellar\/min\/min\/min\/jquery.stellar-min-ck-min.js",
+		"inputAbbreviatedPath": "\/_site\/vendor\/Stellar\/min\/min\/jquery.stellar-min-ck.js",
+		"outputAbbreviatedPath": "\/_site\/vendor\/Stellar\/min\/min\/min\/jquery.stellar-min-ck-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -21649,24 +21660,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/article\/prisoners.jpg": {
+	"\/img\/article\/Prisoners.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 227409,
-		"inputAbbreviatedPath": "\/img\/article\/prisoners.jpg",
-		"outputAbbreviatedPath": "\/img\/article\/prisoners.jpg",
+		"inputAbbreviatedPath": "\/img\/article\/Prisoners.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/Prisoners.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/article\/RED-2.jpg": {
+	"\/img\/article\/red-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 343575,
-		"inputAbbreviatedPath": "\/img\/article\/RED-2.jpg",
-		"outputAbbreviatedPath": "\/img\/article\/RED-2.jpg",
+		"inputAbbreviatedPath": "\/img\/article\/red-2.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/red-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -24528,171 +24539,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/js\/app.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/app.js",
-		"outputAbbreviatedPath": "\/js\/min\/app-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/js\/film-roles.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/film-roles.js",
-		"outputAbbreviatedPath": "\/js\/min\/film-roles-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/js\/infinite-jekyll.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/infinite-jekyll.js",
-		"outputAbbreviatedPath": "\/js\/min\/infinite-jekyll-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/js\/jquery-ui-1.10.4.custom.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/jquery-ui-1.10.4.custom.js",
-		"outputAbbreviatedPath": "\/js\/min\/jquery-ui-1.10.4.custom-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/js\/main.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/main.js",
-		"outputAbbreviatedPath": "\/js\/min\/main-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/js\/main2.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/main2.js",
-		"outputAbbreviatedPath": "\/js\/min\/main2-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/js\/min\/film-roles-ck.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/min\/film-roles-ck.js",
-		"outputAbbreviatedPath": "\/js\/min\/min\/film-roles-ck-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/js\/min\/infinite-jekyll-ck.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/min\/infinite-jekyll-ck.js",
-		"outputAbbreviatedPath": "\/js\/min\/min\/infinite-jekyll-ck-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/js\/min\/main-ck.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/min\/main-ck.js",
-		"outputAbbreviatedPath": "\/js\/min\/min\/main-ck-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/js\/min\/main2-ck.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/min\/main2-ck.js",
-		"outputAbbreviatedPath": "\/js\/min\/min\/main2-ck-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/js\/min\/onload.actions-ck.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/min\/onload.actions-ck.js",
-		"outputAbbreviatedPath": "\/js\/min\/min\/onload.actions-ck-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/js\/min\/search.min-ck.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/min\/search.min-ck.js",
-		"outputAbbreviatedPath": "\/js\/min\/min\/search.min-ck-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/js\/onload.actions.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/onload.actions.js",
-		"outputAbbreviatedPath": "\/js\/min\/onload.actions-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/js\/search.min copy.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/search.min copy.js",
-		"outputAbbreviatedPath": "\/js\/min\/search.min copy-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/js\/search.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/search.min.js",
-		"outputAbbreviatedPath": "\/js\/min\/search.min-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
 		},
 	"\/README.md": {
 		"enableFootnoteSupport": 0,

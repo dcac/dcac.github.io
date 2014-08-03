@@ -18,6 +18,19 @@ $(document).ready(function () {
       //'height': '500px'
       });
     }
+    //hide and show the mini nav bar for desktop and tablet layouts
+    $("#top-nav").waypoint(function(direction){
+      if ((direction === "down") && ($(window).width() > 640)){
+        $('#mini-top-nav.mini-top-nav-hidden').css({'position':'fixed'});
+        $('#mini-top-nav.mini-top-nav-hidden').css({'display':'block'});
+        $('#mini-top-nav.mini-top-nav-hidden').css({'top':'0'});
+      }
+      else if ((direction === "up") && ($(window).width() > 640)){
+        $('#mini-top-nav.mini-top-nav-hidden').css({'top':'-50px'});
+      }
+    },{
+      offset:-100
+    });
   }
   $(window).load(function() {
     winResized();
@@ -122,22 +135,8 @@ $(function(){
 */
     
     // Display the small top nav when the large header scrolls offscreen
-    $("#top-nav").waypoint(function(direction){
-      if (direction === "down"){
-        $('#mini-top-nav').addClass('fixed');
-        $('#mini-top-nav').addClass('mini-top-nav-visible');
-        $('#mini-top-nav').removeClass('mini-top-nav-hidden');
-        $('#mini-top-nav.mini-top-nav-visible').slideDown(250);
-      }
-      else if (direction === "up"){
-        //$('#mini-top-nav').removeClass('fixed');
-        //$('#mini-top-nav').removeClass('mini-top-nav-visible');
-        //$('#mini-top-nav').addClass('mini-top-nav-hidden');
-        $('#mini-top-nav.mini-top-nav-visible').slideUp(250);
-      }
-    },{
-      //offset: function() { return $(this).height() * -1; }
-      offset:-500
-    });
+
+
+$(window).resize();
 //  $('.svg-inject').svgInject();
 });

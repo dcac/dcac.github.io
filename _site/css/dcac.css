@@ -625,10 +625,16 @@ section.top-nav a:hover {
   margin-bottom: 0.3125rem;
 }
 .mini-top-nav-hidden {
-  display: hidden;
-  position: absolute;
+  display: block;
+  position: fixed;
   top: -3.125rem;
   width: 100%;
+  -o-transition: 0.5s;
+  -ms-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  z-index: 5;
 }
 @media only screen and (max-width: 640px) {
   .mini-top-nav-hidden {
@@ -636,6 +642,11 @@ section.top-nav a:hover {
     margin-top: 0;
     top: 0;
     position: fixed;
+    -o-transition: 0;
+    -ms-transition: 0;
+    -moz-transition: 0;
+    -webkit-transition: 0;
+    transition: 0;
   }
 }
 .mini-top-nav-visible {
@@ -663,6 +674,13 @@ section.top-nav a:hover {
 */
 .top-bar-section {
   background: transparent;
+}
+@media only screen and (max-width: 640px) {
+  .top-bar-section ul {
+    width: auto;
+    height: auto !important;
+    display: inline;
+  }
 }
 .dcac-logo {
   background: url('../img/global/dcac-logo.svg') 0 no-repeat;

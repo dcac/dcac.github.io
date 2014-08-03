@@ -79,15 +79,18 @@
     margin-bottom: @5px;
   }
   .mini-top-nav-hidden{
-    display:hidden;
-    position: absolute;
+    display:block;
+    position: fixed;
     top:-(@1px*50);
     width:100%;
+    .animation;
+    z-index: 5;
     @media @mobile{
       display:block;
       margin-top:0;
       top:0;
       position:fixed;
+      .animation(0);
     }
   }  
   .mini-top-nav-visible{
@@ -116,6 +119,13 @@
 //Clear the foundtaion style
 .top-bar-section{
   background: transparent;
+}
+.top-bar-section ul{
+  @media @mobile{
+    width: auto;
+height: auto !important;
+display: inline;
+  }
 }
   .dcac-logo{
     background: url('../img/global/dcac-logo.svg') 0 no-repeat;
