@@ -13285,24 +13285,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/img\/article\/prisoners.jpg": {
+	"\/_site\/img\/article\/Prisoners.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 227409,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/prisoners.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/prisoners.jpg",
+		"inputAbbreviatedPath": "\/_site\/img\/article\/Prisoners.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/Prisoners.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/img\/article\/RED-2.jpg": {
+	"\/_site\/img\/article\/red-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 343575,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/RED-2.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/RED-2.jpg",
+		"inputAbbreviatedPath": "\/_site\/img\/article\/red-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/red-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

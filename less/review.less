@@ -70,19 +70,21 @@ p::selection{
   background-position: center;
   height: @1px*500;
   @media @mobile{
-    height: @1px*430;
+    height: @1px*320;
   }
 }
 
 #body-text{ 
   margin-top: 0;
   background-color: #fff;
-  padding-top: @1px*60;
+  padding-top: @1px*60; 
+  @media @mobile{
+    padding-top: @1px*10;
+  }
 }
 #review-copy{ 
   @media @mobile{
-    margin-top: 0;padding-left: 40px;
-    padding-right:40px;
+    margin-top: 0;
   }
 }
 
@@ -145,7 +147,7 @@ img.scrolled {
     margin-top: 300px;
     line-height: 0;
     width:100%;
-    min-height: 135px;
+    min-height: 120px;
   }
 }
 .status-container{
@@ -153,10 +155,10 @@ img.scrolled {
     position: absolute;
     bottom: @1px*20;
     right:0;
-    font-size: @1px*22;
-    line-height: 22px;
+    font-size: @1px*18;
+    line-height: @1px*18;
     white-space:nowrap;
-    right:40px;
+    right: @15px;
   }
 }
 /*
@@ -172,28 +174,26 @@ img.scrolled {
 }
 */
 .status-row{
-  height:504px;
+  height:@1px*504;
   @media @mobile{
-    height:430px;
+    height:@1px*320;
     position: relative;
     bottom:0;
   }
 }
 .people-row{
-  height:504px;
+  height: @1px*504;
   @media @mobile{
     height:auto;
     position: relative;
-    padding-left:40px;
-    padding-right:40px;
   }
 }
 .title-area{
-  height:504px;
+  height: @1px*504;
   position: relative;
   @media @mobile{
     position: relative;
-    height:430px;
+    height: @1px*320;
   }
 }
 .title-block{
@@ -201,16 +201,16 @@ img.scrolled {
     position: absolute;
     bottom:20px;
     text-align: left;
-    left:40px;
+    left: @15px;
   }
 }
 .review-people{
   position: absolute;
-  bottom: 50px;
+  bottom: @50px;
   @media @mobile{
     position: relative;
     bottom: auto;
-    margin-top: 35px;
+    margin-top: @1px*35;
   }
 }
 .large-star-rating{
@@ -220,8 +220,8 @@ img.scrolled {
   letter-spacing:@5px;
   margin-top: @10px;
   @media @mobile{
-    margin-top: @1px*10;
-    padding-top: @1px*10;
+    margin-top: @10px;
+    padding-top: @10px;
     border-top: 1px solid rgba(255,255,255,0.5);
   }
 }
@@ -241,6 +241,10 @@ img.scrolled {
   margin-right: @10px;
   -webkit-filter: drop-shadow( 0 0 @1px*2 #939598 );
     filter: drop-shadow( 0 0 @1px*2 #939598 );
+  @media @mobile{
+    width: @1px*30;
+    height: @1px*30;
+  }
 }
 .film-info{
   padding: 0;
@@ -377,8 +381,8 @@ h2.hero-author, h2.hero-date {
   font-weight: 200;
   .text-shadow;
   @media @mobile{
-    font-size: @1px*17;
-    line-height: @1px*20;
+    font-size: @1px*15;
+    line-height: @1px*18;
     white-space:nowrap;
     position: relative;
     width:auto;
@@ -390,8 +394,8 @@ h2.hero-date{
   font-style: italic;
   line-height: @1px*16;
   @media @mobile{
-    font-size: @1px*15;
-    line-height: @1px*20;
+    font-size: @1px*12;
+    line-height: @1px*18;
     white-space:nowrap;
     margin:0;
   }
@@ -429,7 +433,7 @@ h2.top{
   width:100%;
 }
 .body-addressee{
-  margin-bottom:15px;
+  margin-bottom:@15px;
 }
 h3 span.addressee{
   color: @white; 
@@ -443,8 +447,8 @@ h3 span.addressee{
   @media @mobile{
     color: #939598; 
     text-align: left;
-    font-size: @1px*24;
-    line-height: @1px*42;
+    font-size: @1px*20;
+    line-height: @1px*32;
     font-family: @sans-serif;
     font-weight: 700;
     text-shadow: none;
@@ -461,8 +465,8 @@ h3 span.position{
   @media @mobile{
     color: #000; 
     text-align: left;
-    font-size: @1px*78;
-    line-height: @1px*68;
+    font-size: @1px*60;
+    line-height: @1px*50;
     font-family: @sans-serif;
     font-weight: 700;
     text-shadow: none;
@@ -480,8 +484,8 @@ h3 span.position{
   margin: 0 auto;
   margin-top: @20px;
   @media @mobile{
-    font-size: @1px*18;
-    line-height: @1px*28;
+    font-size: @1px*16;
+    line-height: @1px*24;
   }
 }
 #review-copy p{
@@ -531,6 +535,10 @@ div.up-next-title{
   overflow: hidden;
   width: 100%;
   margin-bottom: 25px;
+  max-width:960px;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
 }
 h1.up-next-header{
   //background-color: #e6e7e8;
@@ -558,7 +566,7 @@ hr.up-next-rule{
   height: 5px;
   color: #c1c0c0;
   background-color: #c1c0c0;
-  bottom:15px;
+  bottom:10px;
   position: absolute;
   width:100%;
   display: block;
@@ -584,7 +592,8 @@ hr.up-next-rule{
 }
 .main-link-small{
   @media @mobile{
-    width:300px;margin-left: auto;
+    max-width:@1px*330;
+    margin-left: auto;
     margin-right: auto;
     float: none;
   }
