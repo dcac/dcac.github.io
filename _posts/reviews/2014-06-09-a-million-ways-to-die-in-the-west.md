@@ -1,22 +1,19 @@
 ---
 published: true
-image: 
-imdb: 
-author:  
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: a-million-ways-to-die-in-the-west.jpg
+imdb: tt2557490
+author: coryh
+stars: 1
+excerpt: "Ladiesandgentlemensteprightup, do I have something special for you! Look around, look around. Want a smart self-aware comedy?"
+position: Snake Oil Salesman
+addressee: Dennis Haskins
 layout: review
 categories: reviews
 title: "A Million Ways to Die in the West"
 date: 2014-06-09 15:09
 comments: true
-categories: [comedy, Letters]
+tags: [comedy, Letters]
 ---
-<div><p>&nbsp;</p>
-<p><span class="full-image-block ssNonEditable"><span><img src="http://rollotomasi73.files.wordpress.com/2014/06/a20million20ways20to20die20in20the20west.jpg" alt="" /></span></span></p>
-<p><span style="font-size:130%;"><strong>Dear Dennis Haskins</strong>, Snake Oil Salesman</span></p>
 <p>&ldquo;Ladiesandgentlemensteprightup, do I have something special for you! Look around, look around. Want a smart self-aware comedy? How about a fresh new <em>Blazing Saddles</em>? And Liam Neeson being funny! And how about Seth Macfarlane finally delivering on his potential? Yessir, everything here looks exactly like something you want. So buy it up&mdash;don&rsquo;t look too close&mdash;just slug this tonic down. And when you&rsquo;re twisting and groaning in your seat for two whole hours, you&rsquo;ll wonder how so much promise could turn on you so quick. But I&rsquo;ve already got your money, and I&rsquo;ll be long gone&hellip;&rdquo;</p>
 <p>While we don&rsquo;t see anyone die from health tonic poisoning in <em>A Million Ways to Die in the West</em>, there <em>is</em> a bit about the list of ingredients therein: &#8220;Alcohol, cocaine, morphine, mercury with chalk and red flannel.&rdquo; Everything in this Wild West parody is lethal &ndash; the medicine, the weather, the people, the food, the animals. The cast seems like it should be rich enough with Oscar-winners and star power to provide a cure: Seth MacFarlane, who also wrote and directed, is the humiliated sheepherder; Amanda Seyfried is his unsatisfied ex;&nbsp; Charlize Theron is the mysterious and capable woman who offers to help McFarlane win his girl back; and, of course, there&rsquo;s Liam Neeson as the threatening (and unfunny) bad guy, Clinch Leatherwood.</p>
 <p>Ricky Gervais and Stephen Merchant already proved that Neeson can be <a href="https://www.youtube.com/watch?v=MKTh7zBIcrM">used for dark hilarity</a>, but none of that is reflected here. In fact, everything here has been done better somewhere else. Do you want to see a movie about a guy learning to change in order to woo the wrong girl, then meeting the right one along the way? Watch <em>Better Off Dead. </em>Do you want to watch a good, smart parody of old-time cowboy movies? You&rsquo;ve already seen Blazing Saddles, so watch <a href="http://www.netflix.com/WiMovie/60036470">Rustler&rsquo;s Rhapsody</a>. It sends up the Western genre conventions with sex, drugs, sheepherders, music, murder, and dirty drunks with great jokes and fun actors. Do you want to see gritty western life? Watch <em>Deadwood</em> or <a href="http://www.netflix.com/WiMovie/70210883"><em>Hell on Wheels</em></a><em>.</em></p>
@@ -27,5 +24,3 @@ categories: [comedy, Letters]
 <p>Whether they actually deliver or not is secondary&mdash;it&rsquo;s the promise we&rsquo;re paying for.</p>
 <p>Fleetingly yours,</p>
 <p>Cory</p>
-<p><strong><em>Status: Junk Mail (1/5)</em></strong></p>
-<div></div></div>

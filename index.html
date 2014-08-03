@@ -34,7 +34,7 @@ home: true
   
       <div class="row" id="row-height">
         <div class="large-8 medium-8 columns">
-          {% for post in site.posts offset:1 limit:4 %}
+          {% for post in site.categories['reviews'] offset:1 limit:4 %}
           {% assign author = site.data.authors[post.author] %}
           {% assign loopindex = forloop.index | modulo: 2 %}
           {% if loopindex == 1 %}
@@ -54,7 +54,7 @@ home: true
               {% include post-grid/post-feature.html %}
             </div>
           {% endfor %}
-          {% for post in site.posts offset:5 limit:4 %}
+          {% for post in site.categories['reviews'] offset:5 limit:4 %}
           {% assign author = site.data.authors[post.author] %}
           {% assign loopindex = forloop.index | modulo: 2 %}
           {% if loopindex == 1 %}
@@ -94,9 +94,12 @@ home: true
       </div>
       
       <div class="row collapse">
-        <div class="more-reviews">More Reviews</div>
+          <div class="more-reviews">
+            <h1 class="more-reviews-title">More Reviews</h1>
+            <hr class="more-reviews-rule">
+          </div>
           <div class="row" id="load-posts-area">
-            {% for post in site.posts offset:9 limit:6 %}
+            {% for post in site.categories['reviews'] offset:9 limit:6 %}
             {% assign author = site.data.authors[post.author] %}
              <div class="post large-4 medium-4 columns">
               {% include post-grid/post.html %}
@@ -105,6 +108,6 @@ home: true
           </div>
           <div class="load-posts-div">
             <button id="load-posts" class="load-posts-button">More Reviews</button>
-            <button id="goto-posts" class="goto-posts-button">Browse All Reviews ></button>
+            <a href="/reviews/index.html" id="goto-posts" class="goto-posts-button">Browse All Reviews ></button>
           </div>
       </div>

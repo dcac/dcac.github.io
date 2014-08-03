@@ -1,21 +1,19 @@
 ---
 published: true
-image: 
-imdb: 
-author:  
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: planes-fire-and-rescue.jpg
+imdb: tt2980706
+author: christopherr
+stars: 3.5
+excerpt: "That was a dirty trick you pulled. About a half hour into Planes: Fire & Rescue, I suddenly found myself excited - invested, even - in the action that was unfolding."
+position: Music Clearance
+addressee: Amy Ross
 layout: review
 categories: reviews
 title: "Planes: Fires & Rescue"
 date: 2014-07-21 16:14
 comments: true
-categories: [adventure, child, children, Disney, Family, Letters, Pixar]
+tags: [adventure, child, children, Disney, Family, Letters, Pixar]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/7/21/planes-fires-rescue.html"><img src="http://rollotomasi73.files.wordpress.com/2014/07/planes20fire20and20rescue.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Amy Ross,</strong> Music Clearance,</em></p>
 <p>That was a dirty trick you pulled. About a half hour into <em>Planes: Fire &amp; Rescue,</em> I suddenly found myself excited &ndash; <em>invested</em>, even &ndash; in the action that was unfolding. The aerial team was flying to their first forest fire and I thought to myself &ldquo;shit, this good!&rdquo; Of course, I didn&rsquo;t actually swear out loud (since I was surrounded by six-year-olds)&mdash;but <a href="/letters/2013/8/14/planes.html">this time</a>, to my amazement, my urge to curse wasn&rsquo;t provoked by the film&rsquo;s shortcomings. A second later, I realized why. I&rsquo;d been&hellip;&nbsp;<em>Thunderstruck.</em></p>
 <p>That damn AC/DC song. Works every time. Doesn&rsquo;t matter if it&rsquo;s pumping up <a href="http://en.wikipedia.org/wiki/Thunderstruck_(song)#Usage">sports teams</a>, salvaging a <a href="/letters/2012/5/18/battleship.html">blockbuster</a>, or coming out of <a href="http://wgrd.com/kilted-man-plays-acdcs-thunderstruck-on-flaming-bagpipes-video/">flaming bagpipes</a>. When that famous guitar lick kicks in, my adrenaline soars. I would argue that it rivals &ndash; and maybe surpasses &ndash; &ldquo;Eye of the Tiger&rdquo; as the greatest musical trigger for kicking things into hero mode.</p>
 <p>I suppose it could also be argued that paying for this overused opus was the sort of lazy move that one should expect from a DisneyToon Studios film (a.k.a. Disney&rsquo;s direct-to-video division, largely outsourced to <a href="http://www.cartoonbrew.com/feature-film/planes-fire-rescue-teaser-trailer-90372.html">India</a>). Except this wasn&rsquo;t a one-off moment of pleasure. Many of the jokes actually landed. The entire plot wasn&rsquo;t simply telegraphed from the opening scenes. The animation, at times, was surprisingly impressive. I even genuinely felt like these stupidly conceived characters were in true mortal peril (sadly, I&rsquo;m still not sold on this nonsense world of <em>Cars</em>). In other words, this was a&hellip; film. One that I can actually recommend.</p>
@@ -25,4 +23,3 @@ categories: [adventure, child, children, Disney, Family, Letters, Pixar]
 <p>In the end, the music you cleared was effective and appropriate &ndash; particularly since lightning is what causes most of the forest fires, (the lyrics for <a href="http://www.azlyrics.com/lyrics/acdc/thunderstruck.html">the first verse</a> are actually pretty spot-on for the story). It also didn&rsquo;t hurt to hire Bobs Gannaway as director, who has been an in-house director for Disney&rsquo;s direct-to-video work for the past 20 years. It felt like he &ndash; and Dusty &ndash; actually had something to prove.</p>
 <p>Clearing you for landing,</p>
 <p>Christopher<span style="font-size:12px;">&nbsp;</span></p>
-<p><strong><em>Status: Air Mail (3.5/5)</em></strong></p></div>

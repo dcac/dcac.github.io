@@ -189,11 +189,9 @@ img.scrolled {
   }
 }
 .title-area{
-  height: @1px*504;
   position: relative;
   @media @mobile{
     position: relative;
-    height: @1px*320;
   }
 }
 .title-block{
@@ -202,6 +200,7 @@ img.scrolled {
     bottom:20px;
     text-align: left;
     left: @15px;
+    max-width: 62%;
   }
 }
 .review-people{
@@ -319,7 +318,6 @@ h1.hero {
     top: @1px*5;
     font-size: @1px*26;
     line-height: @1px*24;
-    white-space:nowrap;
     margin: 0;
     margin-bottom: 10px;
   }
@@ -528,54 +526,15 @@ p.article-share i{
   padding-left: 40px;
   padding-right: 40px;
 }
-div.up-next-title{
-  height:auto;
-  position: relative;
-  text-align: center;
-  overflow: hidden;
-  width: 100%;
-  margin-bottom: 25px;
-  max-width:960px;
-    margin-left: auto;
-    margin-right: auto;
-    float: none;
+.up-next-title{
+  .divider-div;
 }
-h1.up-next-header{
-  //background-color: #e6e7e8;
-  z-index: 2;
-  background-color: #e6e7e8;
-  color:#000;
-  font-weight: 500;
-  font-family: @sans-serif;
-  font-weight: 700;
-  font-size: 22px;
-  text-align: center;
-  margin-left:40px;
-  margin-right:40px;
-  margin-top: 0;
-  margin-bottom: 0;
-  position: relative;
-  width: auto;
-  display: inline-block;
-  padding-left: 15px;
-  padding-right:15px;
-  text-align: center;
- }
-hr.up-next-rule{
-  z-index: 1;
-  height: 5px;
-  color: #c1c0c0;
-  background-color: #c1c0c0;
-  bottom:10px;
-  position: absolute;
-  width:100%;
-  display: block;
-  margin: 0;
-  @media @mobile{
-    margin: 0;
-  }
+.up-next-header{
+  .divider-title(#e6e7e8);
 }
-/*
+.up-next-rule{
+  .divider-rule;
+}/*
 
  css testing
 

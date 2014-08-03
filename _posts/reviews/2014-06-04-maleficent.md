@@ -1,21 +1,19 @@
 ---
 published: true
-image: 
-imdb: 
-author:  
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: maleficent.jpg
+imdb: tt1587310
+author: christoipherr
+stars: 2.5
+excerpt: "There are a lot of special effects in Maleficent. We're talking Avatar-levels of world building and character design."
+position: Bluescreen Stagehand
+addressee: Alan Titmuss
 layout: review
 categories: reviews
 title: "Maleficent"
 date: 2014-06-04 13:10
 comments: true
-categories: [angelina jolie, Disney, fantasy, Letters]
+tags: [angelina jolie, Disney, fantasy, Letters]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/6/4/maleficent.html"><img src="http://rollotomasi73.files.wordpress.com/2014/06/maleficent.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Alan Titmuss</strong>, Bluescreen Stagehand,</em></p>
 <p>There are a lot of special effects in <em>Maleficent</em>. We&rsquo;re talking <em>Avatar</em>-levels of world building and character design. Which means you were a busy boy on set. Probably running around with a tennis ball on the end of a stick to give the actors their eyelines, and operating off-camera fans to simulate the effect of a magic spell being cast, or maybe just handing water bottles to Angelina Jolie so she didn&rsquo;t pass out from the heat of her full-body leather suit.&nbsp;</p>
 <p>But, frankly, I&rsquo;m not all that interested in what you were doing. These blue (or green) backdrops are the reason so many behind-the-scenes featurettes are such bore now. And they&rsquo;re also the reason why the job of director has virtually become an entry-level position on a Hollywood blockbuster.</p>
 <p>The producers of <a href="/letters/2014/4/4/captain-america-the-winter-soldier.html"><em>Captain America: The Winter Soldier</em></a> and <a href="/letters/2013/11/8/thor-the-dark-world.html"><em>Thor: The Dark World</em></a>, for example, trusted their hundred-million-dollar franchises to directors best known for their work on TV.<em> Maleficent</em>&rsquo;s director, Robert Stromberg, has never even received a directing credit before. However, he&rsquo;s worked on visual effects for nearly a hundred films, and has won Academy Awards for the Production Design on <em>Alice in Wonderland</em> and, yes, <em>Avatar.</em></p>
@@ -28,4 +26,3 @@ categories: [angelina jolie, Disney, fantasy, Letters]
 <p>But hey, a few more of these gigs and you could be in charge. Maybe I&rsquo;ll finally get the three-hour long version of <em>Aladdin</em> told from Iago&rsquo;s perspective that I&rsquo;ve always wanted.</p>
 <p>Sigh,</p>
 <p>Christopher&nbsp;</p>
-<p><strong><em>Status: Standard Delivery (2.5/5)</em></strong></p></div>

@@ -287,12 +287,12 @@
     //get the movie info from IMDB
     $.ajax({
       
-      url: "http://omdbapi.com/?i=",
+      url: "http://omdbapi.com/?i=tt1843309",
       dataType: 'jsonp',
       success: function(data) {
         var html = '<div class="row imdb-info-row no-border full-width">';
         //html += '<img class="imdb-img" src="' +data.Poster +'" />';
-        html += '<img class="imdb-img" src="http://img.omdbapi.com/?i=&apikey=bc6b02e2&h=450" />';
+        html += '<img class="imdb-img" src="http://img.omdbapi.com/?i=tt1843309&apikey=bc6b02e2&h=450" />';
         html += '<span class="imdb-category">Directed by</span><br /><span class="imdb-data">' + data.Director.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';

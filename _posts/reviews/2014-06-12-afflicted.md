@@ -1,21 +1,19 @@
 ---
 published: true
-image: 
-imdb: 
-author:  
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: afflicted.jpg
+imdb: tt2309961
+author: christopherr
+stars: 4
+excerpt: "There's a lot of buzz online about Afflicted, the little Canadian horror film that could. This very well might be due to the fact that they worked with a savvy professional like you."
+position: New Media Consultant
+addressee: Sue Biely
 layout: review
 categories: reviews
 title: "Afflicted"
 date: 2014-06-12 15:55
 comments: true
-categories: [Canadian, found footage, horror, Letters, mockumentary]
+tags: [Canadian, found footage, horror, Letters, mockumentary]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/6/12/afflicted.html"><img src="http://rollotomasi73.files.wordpress.com/2014/06/afflicted.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Sue Biely,</strong> New Media Consultant</em></p>
 <p>There&rsquo;s a lot of buzz online about <em>Afflicted</em>, the little Canadian horror film that could. This very well might be due to the fact that they worked with a savvy professional like you. Except this is a sustained buzz &ndash; not the kind that&rsquo;s not based on a goofy title (<em><a href="/letters/2013/7/17/sharknado.html">Sharknado</a></em>, <em><a href="/letters/2014/6/5/wolfcop.html">Wolfcop</a></em>) or a gruesome premise (<em>Human Centipede</em>).  Instead, you were promoting something with actual value: great production, smart execution, and a satisfying payoff.</p>
 <p>Is it only a coincidence that the film&rsquo;s central premise <em>also</em> revolves around the life-sucking power of new media?</p>
 <p>You know what I mean.</p>
@@ -24,4 +22,3 @@ categories: [Canadian, found footage, horror, Letters, mockumentary]
 <p>Most refreshingly, the film doesn&rsquo;t exist simply to carry a few GIF worthy moments. Instead, it takes the hard road: developing its characters, sustaining our interest with engaging plot developments, and building steam towards the finale (instead of losing it). The lesson being, I hope, that earned praise is tweetable, too.</p>
 <p>Happily infected,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Air Mail (4/5)</em></strong></p></div>

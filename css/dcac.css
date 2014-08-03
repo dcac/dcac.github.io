@@ -12,15 +12,28 @@ nav#menu-left {
   display: none;
 }
 /* Colours */
-.grid-divider {
-  font-family: "Georgia", serif;
-  font-size: 2.25rem;
-  color: #333333;
-  width: 100%;
+.divider-div {
+  height: auto;
+  position: relative;
   text-align: center;
-  border-bottom: 0.0625rem solid #333333;
-  margin-top: 0.625rem;
-  margin-bottom: 1.5625rem;
+  overflow: hidden;
+  width: 100%;
+  margin-bottom: 25px;
+  max-width: 970px;
+  margin-left: auto;
+  margin-right: auto;
+  float: none;
+}
+.divider-rule {
+  z-index: 1;
+  height: 5px;
+  color: #c1c0c0;
+  background-color: #c1c0c0;
+  bottom: 10px;
+  position: absolute;
+  width: 100%;
+  display: block;
+  margin: 0;
 }
 .upper-left-toggle {
   position: fixed;
@@ -314,56 +327,132 @@ a:hover {
   text-decoration: none;
 }
 .more-reviews {
-  font-family: "Georgia", serif;
-  font-size: 2.25rem;
-  color: #333333;
-  width: 100%;
+  height: auto;
+  position: relative;
   text-align: center;
-  border-bottom: 0.0625rem solid #333333;
-  margin-top: 0.625rem;
-  margin-bottom: 1.5625rem;
+  overflow: hidden;
+  width: 100%;
+  margin-bottom: 25px;
+  max-width: 970px;
+  margin-left: auto;
+  margin-right: auto;
+  float: none;
+}
+.more-reviews-title {
+  z-index: 2;
+  background-color: #ffffff;
+  color: #000;
+  font-weight: 500;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 0;
+  margin-bottom: 0;
+  position: relative;
+  width: auto;
+  display: inline-block;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: center;
+}
+.more-reviews-rule {
+  z-index: 1;
+  height: 5px;
+  color: #c1c0c0;
+  background-color: #c1c0c0;
+  bottom: 10px;
+  position: absolute;
+  width: 100%;
+  display: block;
+  margin: 0;
 }
 .load-posts-div,
 .goto-posts-div {
   text-align: center;
 }
-.load-posts-button {
-  background-color: #eeeeee;
+.load-posts-button,
+.load-posts-button:focus {
+  background-color: #636467;
   border-style: none;
   border-width: medium;
-  border-color: inherit;
-  border: 0.125rem solid #cccccc;
-  padding-right: 4.6875rem;
-  padding-left: 4.6875rem;
-  padding-top: 0.625rem;
+  border-color: #636467;
+  border: 1px solid #636467;
+  padding-right: 2.1875rem;
+  padding-left: 2.1875rem;
+  padding-top: 0.9375rem;
   padding-bottom: 0.625rem;
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 0.875rem;
-  letter-spacing: .1rem;
   margin-bottom: 0.9375rem;
-  color: #666666;
-  font-weight: 500;
-  text-transform: uppercase;
+  color: #ffffff;
+  font-weight: 700;
   display: inline;
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
 }
-.goto-posts-button {
-  background-color: #eeeeee;
+.load-posts-button:hover {
+  background-color: #c1c0c0;
   border-style: none;
   border-width: medium;
-  border-color: inherit;
-  border: 0.125rem solid #cccccc;
-  padding-right: 4.6875rem;
-  padding-left: 4.6875rem;
-  padding-top: 0.625rem;
+  border-color: #636467;
+  border: 1px solid #636467;
+  padding-right: 2.1875rem;
+  padding-left: 2.1875rem;
+  padding-top: 0.9375rem;
   padding-bottom: 0.625rem;
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 0.875rem;
-  letter-spacing: .1rem;
   margin-bottom: 0.9375rem;
-  color: #666666;
-  font-weight: 500;
-  text-transform: uppercase;
+  color: #636467;
+  -o-transition: 0.5s;
+  -ms-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+.goto-posts-button,
+.goto-posts-button:focus {
+  background-color: #636467;
+  border-style: none;
+  border-width: medium;
+  border-color: #636467;
+  border: 1px solid #636467;
+  padding-right: 2.1875rem;
+  padding-left: 2.1875rem;
+  padding-top: 0.9375rem;
+  padding-bottom: 0.625rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-size: 0.875rem;
+  margin-bottom: 0.9375rem;
+  color: #ffffff;
+  font-weight: 700;
   display: none;
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+}
+.goto-posts-button:hover {
+  background-color: #c1c0c0;
+  border-style: none;
+  border-width: medium;
+  border-color: #636467;
+  border: 1px solid #636467;
+  padding-right: 2.1875rem;
+  padding-left: 2.1875rem;
+  padding-top: 0.9375rem;
+  padding-bottom: 0.625rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-size: 0.875rem;
+  margin-bottom: 0.9375rem;
+  color: #636467;
+  -o-transition: 0.5s;
+  -ms-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
 }
 .row-bottom-margin {
   margin-bottom: 2.8125rem;
@@ -1152,13 +1241,11 @@ img.scrolled {
   }
 }
 .title-area {
-  height: 31.5rem;
   position: relative;
 }
 @media only screen and (max-width: 640px) {
   .title-area {
     position: relative;
-    height: 20rem;
   }
 }
 @media only screen and (max-width: 640px) {
@@ -1167,6 +1254,7 @@ img.scrolled {
     bottom: 20px;
     text-align: left;
     left: 0.9375rem;
+    max-width: 62%;
   }
 }
 .review-people {
@@ -1290,7 +1378,6 @@ h1.hero {
     top: 0.3125rem;
     font-size: 1.625rem;
     line-height: 1.5rem;
-    white-space: nowrap;
     margin: 0;
     margin-bottom: 10px;
   }
@@ -1510,19 +1597,19 @@ p.article-share i {
   padding-left: 40px;
   padding-right: 40px;
 }
-div.up-next-title {
+.up-next-title {
   height: auto;
   position: relative;
   text-align: center;
   overflow: hidden;
   width: 100%;
   margin-bottom: 25px;
-  max-width: 960px;
+  max-width: 970px;
   margin-left: auto;
   margin-right: auto;
   float: none;
 }
-h1.up-next-header {
+.up-next-header {
   z-index: 2;
   background-color: #e6e7e8;
   color: #000;
@@ -1541,7 +1628,7 @@ h1.up-next-header {
   padding-right: 15px;
   text-align: center;
 }
-hr.up-next-rule {
+.up-next-rule {
   z-index: 1;
   height: 5px;
   color: #c1c0c0;
@@ -1551,11 +1638,6 @@ hr.up-next-rule {
   width: 100%;
   display: block;
   margin: 0;
-}
-@media only screen and (max-width: 640px) {
-  hr.up-next-rule {
-    margin: 0;
-  }
 }
 /*
 

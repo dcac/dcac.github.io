@@ -1,21 +1,19 @@
 ---
 published: true
-image: 
-imdb: 
-author:  
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: devils-knot-jpg
+imdb: tt0804463
+author: christopherr
+stars: 1.5
+excerpt: "The trial against the West Memphis Three is considered to be one of the worst miscarriages of justice in contemporary American history."
+position: Legal Services
+addressee: Greg Bernstein
 layout: review
 categories: reviews
 title: "Devil's Knot"
 date: 2014-05-19 18:04
 comments: true
-categories: [atom egoyan, court, ddrama, letter, Letters, memphis 3, memphis three]
+tags: [atom egoyan, court, ddrama, letter, Letters, memphis 3, memphis three]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/5/19/devils-knot.html"><img src="http://rollotomasi73.files.wordpress.com/2014/05/devils20knot.jpg" alt="" /></a></span></span></p>
-<p class="Body"><em style="font-size:130%;"><strong>Dear Greg Bernstein,</strong> Legal Services,</em></p>
 <p class="Body">The trial against the West Memphis Three is considered to be one of the worst miscarriages of justice in contemporary American history. The efforts by police officers and prosecutors to pin a heinous triple-murder on three teenage metal-heads, and spin it as part of a Satantic ritual, took an extra-special kind of lazy, simplistic and sensational storytelling. Actually, it&rsquo;s pretty much the same kind used to make <em>Devil</em><em>&rsquo;s Knot</em>.</p>
 <p class="Body">This is a story that has already been masterfully explored and exposed in three separate documentaries by Oscar-nominated directors Joe Berlinger and Bruce Sinofsky (not to mention numerous other films). So influential was their <em>Paradise Lost </em>trilogy, that their films actually changed the course of the re-trials over the years. Not only are those filmmakers portrayed by actors in this film, they even make special appearances. They did the hard fact-finding work that hired legal guns like you, simply didn&rsquo;t have the man-power to handle. Which also feels like a pretty apt metaphor for the way Canadian auteur Atom Egoyan ended up directing this Hollywood production: well intentioned, but as shamefully overwhelmed by the material as the state-appointed defense team.</p>
 <p class="Body">See, what makes this story so insane is that almost every adult male figure around the three murdered boys seems to have more evidence against them than the accused. But these revelations took years to uncover, and are just some of the addendums saved for the film&rsquo;s long end titles. So, instead of depth and complexity, we only get the clich&eacute;d movie-of-the-week treatment of the murders and trial.&nbsp;</p>
@@ -24,6 +22,3 @@ categories: [atom egoyan, court, ddrama, letter, Letters, memphis 3, memphis thr
 <p class="Body">You know it&rsquo;s bad when Egoyan makes his own version of an Alford Plea at the Toronto premiere, admitting that it&rsquo;s &ldquo;not really an Egoyan&rdquo; film. That kind of half-ass effort is what lead to this whole legal debacle in the first place, and it once again feels like laziness real villain here.&nbsp;</p>
 <p class="Body">Getting out while I can,</p>
 <p class="Body">Christopher</p>
-<p class="Body"><strong><em>Status: Return to Sender (1.5/5)</em></strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p></div>

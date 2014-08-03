@@ -1,21 +1,19 @@
 ---
 published: true
-image: 
-imdb: 
-author:  
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: x-men-days-of-future-past.jpg
+imdb: tt1877832
+author: jaredy
+stars: 4.5
+excerpt: "You know a little something about continuity, don't you? It's kind of your job."
+position: Script Supervisor
+addressee: Christine Wilson
 layout: review
 categories: reviews
 title: "X-Men: Days of Future Past"
 date: 2014-05-30 14:04
 comments: true
-categories: [action, comic book, Letters, preboot, Prequel, Sequel, x-men]
+tags: [action, comic book, Letters, preboot, Prequel, Sequel, x-men]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/5/30/x-men-days-of-future-past.html"><img src="http://rollotomasi73.files.wordpress.com/2014/05/x-men20days20of20future20past.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Christine Wilson,</strong> Script Supervisor,</em></p>
 <p>You know a little something about continuity, don&rsquo;t you? It&rsquo;s kind of your job. For comic books fans, though, continuity is religion. Holy wars have been waged over divergent interpretations of what happened when, to whom, and its repercussions. The study of this foundational doctrine has even spawned its own taxonomy&mdash;words like &ldquo;retcon&rdquo;, a compound verb (short for &ldquo;retroactive continuity&rdquo;) that denotes &ldquo;<a href="http://en.wikipedia.org/wiki/Retroactive_continuity">the alteration of previously established facts</a>.&rdquo;&nbsp;</p>
 <p>In the world of four-color superhero stories, continuity represents a consistency in the people and places central to the fictional universe in which they take place. On the set of a film, however, it all occurs on a smaller scale; what matters most is consistency from one scene to the next, one shot to the next. It&rsquo;s all about slates, axes, and eye-lines.</p>
 <p>But in the age of the franchised blockbuster, when sequels are green-lit three at a time, and those sequels are broken into sub-chapters, and all of those films bleed into one another with shared characters and post-credits stingers, the cosmic-scale of continuity common in the funnybooks is becoming increasingly relevant to cinema. And nowhere is that more relevant than in <em>Days of Future Past</em>. After six previous films, the cinematic universe of the X-Men has become broad enough, both in scope and in quality, to enfold upon and cross-reference itself in the exact same way that comic books do.&nbsp;</p>
@@ -30,4 +28,3 @@ categories: [action, comic book, Letters, preboot, Prequel, Sequel, x-men]
 <p>DC Comics famously annihilated much of its golden age history in <em>Crisis on Infinite Earths</em>. Filmmakers, faced with untying the narrative knots left by their predecessors, often to do the same thing. Which is why <em>X-Men: Days of Future Past</em> is so satisfying. You and the rest of the filmmakers took everything that worked and found a way to make it work better. The result: not just the best of all the X-Men films, but one of the best summer blockbusters of the last decade. As you know, it&rsquo;s just the sort of reward a respect for continuity can grant you.</p>
 <p>Sincerely,</p>
 <p>Jared Young</p>
-<p><strong><em>Status: Priority Post (4.5/5 )</em></strong></p></div>

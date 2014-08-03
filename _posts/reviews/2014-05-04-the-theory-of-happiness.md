@@ -1,22 +1,20 @@
 ---
 published: true
-image: 
-imdb: 
-author:  
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: the-theory-of-happiness.jpg
+imdb: tt1814900
+author: dig 
+stars: 3
+excerpt: "The Theory of Happiness opens on you guys. A whole herd of you cooling off in a stream. The scene is an idyllic agrarian tableau, something right from a Tolstoy novel."
+position: Background Artists
+addressee: Cattle
 layout: review
 categories: reviews
 title: "The Theory of Happiness"
 date: 2014-05-04 23:39
 comments: true
-categories: [Festivals, Hot Docs, Hot Docs 2014, russia, ukraine]
+tags: [Festivals, Hot Docs, Hot Docs 2014, russia, ukraine]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/5/4/the-theory-of-happiness.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/536c23d1e4b09bdc3b6e552e/536c23d1e4b09bdc3b6e59d3/1399596319766/The%20Theory%20of%20Happiness.jpg" alt="" /></a></span></span></p>
-<p><span style="font-size:130%;"><em><strong>Dear Cattle, </strong>Background Artists,</em></span></p>
-<p><em>The Theory of Happiness</em> opens on you guys. A whole herd of you cooling off in a stream. The scene is an idyllic agrarian tableau, something right from a Tolstoy novel. As you stand knee-deep in the water, your tails swish and you low contentedly. That&rsquo;s a luxury most cows don&rsquo;t have in the Western world, where factory farming and mass food production means most of your brethren and sistren have short and miserable lives. But on this small farm in the Ukraine, your keepers are in pursuit of something you seem to already possess.</p>
+The Theory of Happiness opens on you guys. A whole herd of you cooling off in a stream. The scene is an idyllic agrarian tableau, something right from a Tolstoy novel. As you stand knee-deep in the water, your tails swish and you low contentedly. That&rsquo;s a luxury most cows don&rsquo;t have in the Western world, where factory farming and mass food production means most of your brethren and sistren have short and miserable lives. But on this small farm in the Ukraine, your keepers are in pursuit of something you seem to already possess.</p>
 <p>Director Gregory Gan takes the viewer to your collective outside Khiarkov, Ukraine, where in exchange for filming the documentary he agrees to adhere to the strict rules imposed upon the members of P.O.R.T.O.S. (Poetic Association for the Development of a Theory of Universal Happiness). For his two-plus month stay he gives up tobacco, alcohol, sex, swearing, and joins the other members in working long hours at the farm. P.O.R.T.O.S. was founded in the late 1980s by Yura Davidov, who believed that there exists a mathematical formula to happiness that, in its most basic form, adds up the good deeds a person performs and subtracts the mistakes they make.</p>
 <p>If this all seems like a whole lot of horse-feathers, you should consider yourselves lucky; all you &nbsp;have to do is provide milk and graze all day.</p>
 <p>You should also be thankful that you can&rsquo;t read. Every surface of the farm, known as SPARTA, is cluttered with layer upon layer of slogans and teachings seemingly borrowed from the <em>Se7en</em> school of interior design. Sitting amongst the dogma and numerous clocks is the &lsquo;idiot meter&rsquo;, essentially a large plastic water with a timer affixed by duct-tape that ensures no thought lasts less than ten minutes. Part of Greg&rsquo;s work includes filling out a 1500 point questionaire and writing poetry, all in hopes that he can rise up the ranks of the pyramid P.O.R.T.O.S uses to gauge member&rsquo;s progress towards becoming a &lsquo;real person&rsquo;.</p>
@@ -27,4 +25,3 @@ categories: [Festivals, Hot Docs, Hot Docs 2014, russia, ukraine]
 <p>In adding and subtracting good deeds and bad, it&rsquo;s difficult to surmise if anyone at SPARTA will end up happy. But if Orwell was right, you guys probably leave the tough questions to the pigs while you bask in the sunshine.&nbsp;</p>
 <p>Remember, four legs good, two legs bad,</p>
 <p>Di</p>
-<p><strong><em>Status: Standard Delivery (3/5)</em></strong></p></div>

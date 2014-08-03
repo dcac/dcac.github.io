@@ -1,21 +1,19 @@
 ---
 published: true
-image: 
-imdb: 
-author:  
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: the-railway-man.jpg
+imdb: tt2058107
+author: dig
+stars: 3
+excerpt: "It's your job to put relevant objects into the hands of the actors. If the script calls for a book or an apple, you have to make sure that not only are the book and/or apple as authentic as possible, but that they read well onscreen."
+position: Prop Masters
+addressee: Justine Dunn and Jim Elliot
 layout: review
 categories: reviews
 title: "The Railway Man"
 date: 2014-05-08 19:55
 comments: true
-categories: [adaptation, Letters, novel, The Railway Man]
+tags: [adaptation, Letters, novel, The Railway Man]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/5/8/the-railway-man.html"><img src="http://rollotomasi73.files.wordpress.com/2014/05/the20railway20man.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Justine Dunn and Jim Elliot,</strong> Prop Masters,</em></p>
 <p>It&rsquo;s your job to put relevant objects into the hands of the actors. If the script calls for a book or an apple, you have to make sure that not only are the book and/or apple as authentic as possible, but that they read well onscreen. Sometimes a real apple just doesn&rsquo;t look, well,<em> realistic</em> enough for the camera. So a fake one must be fabricated to take it&rsquo;s place. Such props are just one of many elements that lend veracity to the world of a film. When it&rsquo;s done well, it&rsquo;s never noticed. But when it fails, it sticks out like a bulls-eye.&nbsp;</p>
 <p>I don&rsquo;t mean to say that you didn&rsquo;t do your jobs well. On the contrary, your props are both accurate and unobtrusive. But it seems as though the filmmakers decided the true story of <em>Railway Man</em> was too blemished and imperfect for the screen&mdash;it&rsquo;s a shame that they felt it needed some Hollywood polish.</p>
 <p>The railway man is Eric Lomax, a former British Army officer suffering deep psychological trauma from the horror he endured while incarcerated in a Japanese POW camp during the Second World War. His wife Patti, at a loss for how to deal with him, turns to Finlay, the railway man&rsquo;s friend and fellow POW, for help. Finlay has been keeping a secret: one of Eric&rsquo;s Japanese torturers is alive, his whereabouts known. Armed with this knowledge, Eric must decide between satisfying his lust for revenge or accepting personal redemption.</p>
@@ -28,4 +26,3 @@ categories: [adaptation, Letters, novel, The Railway Man]
 <p>As you both know, a photogenic prop apple may look appealing, but it will never taste as sweet as the real thing.</p>
 <p>Keep your hands full,</p>
 <p>Di</p>
-<p><strong><em>Status: Standard Delivery (3/5)</em></strong></p></div>

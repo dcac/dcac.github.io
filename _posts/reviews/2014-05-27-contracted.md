@@ -1,21 +1,19 @@
 ---
 published: true
-image: 
-imdb: 
-author:  
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: contracted.jpg
+imdb: tt2281159
+author: kelany
+stars: 2
+excerpt: "Given the premise of Contracted - a young woman stricken with a mysterious disease that corrupts her body in unfathomable ways - it's pretty impressive how restrained your makeup effects are."
+position: Special Makeup Effects Artist
+addressee: Mayera Abeita
 layout: review
 categories: reviews
 title: "Contracted"
 date: 2014-05-27 20:47
 comments: true
-categories: [horror, Letters, netflix]
+tags: [horror, Letters, netflix]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/5/27/contracted.html"><img src="http://rollotomasi73.files.wordpress.com/2014/05/contracted-small.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Mayera Abeita,</strong> Special Makeup Effects Artist,</em></p>
 <p>Given the premise of <em>Contracted</em> &ndash; a young woman stricken with a mysterious disease that corrupts her body in unfathomable ways &ndash; &nbsp;it&#8217;s pretty impressive how restrained your makeup effects are.&nbsp; Don&#8217;t get me wrong&mdash;while you conjure up some undeniably nightmarish body-horror imagery, it never feels like you&#8217;re aiming for cheap shocks; on more than one occasion you opt to let the viewer&rsquo;s imagination fill in the blanks, and, in an age where so much special effects work seems to be driven by a &#8220;the goopier the better&#8221; philosophy, that kind of restraint is especially refreshing.</p>
 <p>It&#8217;s a shame, then, that writer/director Eric England&#8217;s script undercuts your work so severely.</p>
 <p>There&#8217;s certainly no fault to be attributed to lead actor Najarra Townsend, who seems entirely committed to the role and turns in a pretty fearless performance. But there&#8217;s very little depth to her character, making her gradual deterioration at your hands less meaningful than it should be.&nbsp; We can empathize with her on a physical level, but that&#8217;s really about it.&nbsp; The screenplay has her entangled in a series of relationships in which absolutely nobody seems to have her best interests in mind (save perhaps for her domineering mother) which is a pretty cheap ploy to earn audience sympathy; to believe that someone would willingly surround themselves with so many loathsome, two-faced &ldquo;friends&rdquo; strains credibility far more than the actual horror elements.&nbsp;</p>
@@ -24,4 +22,3 @@ categories: [horror, Letters, netflix]
 <p>I sincerely hope to see you continue to work in the horror genre. If your makeup expertise was paired with a stronger script, the results would be nothing short of outstanding.</p>
 <p>Sincerely,</p>
 <p>Kelan</p>
-<p><strong><em>Status: Return to Sender (2/5)</em></strong></p></div>

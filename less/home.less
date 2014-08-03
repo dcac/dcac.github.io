@@ -210,16 +210,30 @@ a:hover{
   text-decoration: none;
 }
 .more-reviews{
-  .grid-divider;
+  .divider-div;
+}
+.more-reviews-title{
+  .divider-title;
+}
+.more-reviews-rule{
+  .divider-rule;
 }
 .load-posts-div,.goto-posts-div{
   text-align: center;
 }
-.load-posts-button{
+.load-posts-button,.load-posts-button:focus{
   .home-button;
 }
-.goto-posts-button{
+.load-posts-button:hover{
+  .home-button-hover;
+  .animation;
+}
+.goto-posts-button,.goto-posts-button:focus{
   .home-button(none);
+}
+.goto-posts-button:hover{
+  .home-button-hover;
+  .animation;
 }
 .row-bottom-margin{
   margin-bottom: @45px;

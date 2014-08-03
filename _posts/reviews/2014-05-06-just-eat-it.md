@@ -1,21 +1,19 @@
 ---
 published: true
-image: 
-imdb: 
-author:  
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: just-eat-it.jpg
+imdb: tt3597400
+author: dig
+stars: 4
+excerpt: "As your camera pans dramatically over a patchwork of rural fields, I was reminded of the Oh Canada video clip TV stations used to play right before they signed off for the night."
+position: Aerial Cinematography
+addressee: Thomas Miller
 layout: review
 categories: reviews
 title: "Just Eat It"
 date: 2014-05-06 15:11
 comments: true
-categories: [Canadian, documentary, Festivals, Hot Docs, Hot Docs 2014]
+tags: [Canadian, documentary, Festivals, Hot Docs, Hot Docs 2014]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/5/6/just-eat-it.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/536c23d1e4b09bdc3b6e552e/536c23d1e4b09bdc3b6e59d5/1399596320266/Just%20Eat%20It2.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Thomas Miller of Cineflex,</strong> Aerial Cinematography,</em></p>
 <p>As your camera pans dramatically over a patchwork of rural fields, I was reminded of the &ldquo;Oh Canada&rdquo; video clip TV stations used to play right before they signed off for the night. While our national anthem swelled in the background, the camera swept high over our home and native land: waves crashing in the Maritimes, an eagle soaring over the Rockies, and a triumphant vista of bountiful farmer&rsquo;s fields. Before turning off the TV and turning in for the night, this video was a reassuring reminder of how fortunate we are to live in a country of such abundance. But, as the documentary <em>Just Eat It</em> reveals, abundance has a dark side.</p>
 <p>Director Grant Baldwin and his partner, producer Jennifer Rustemeyer, know first-hand that the world has a food waste problem. To prove just how out of control food waste has become, they spent six months living &ndash; and living <em>well</em> &ndash; only on food they &lsquo;rescued&rsquo; from dumpsters. Perfectly good food that was discarded because retailers only want to provide the best-looking, freshest product. What most consumers don&rsquo;t realize is the serious impact this waste has on our environment. In their film, Grant and Jennifer set out to expose the dirty secret the food industry doesn&rsquo;t want us to know: that approximately one third of all food produced worldwide is not eaten.</p>
 <p>Atop your aerial perch you probably couldn&rsquo;t quite make out the swimming pool-sized dumpster filled with unexpired containers of hummus, the slightly blemished yet still succulent peaches bouncing off a conveyor belt into a bin marked &lsquo;rejected&rsquo;, the boxes of expensive organic chocolate bars, a year from expiring, that fill Grant&rsquo;s Subaru. From your bird&rsquo;s-eye view you might have seen the field of celery strewn with perfectly edible outer stalks&mdash;but you wouldn&rsquo;t have heard the farmer lament that he was standing in 2 pounds of waste per square foot that costs more in labour to save than it does to toss. The problem, we learn, is that supermarket standards for food are higher than those set by the government. In short, with our demand for the perfect apple and the freshest bread, we the consumers have brought this upon ourselves.</p>
@@ -26,4 +24,3 @@ categories: [Canadian, documentary, Festivals, Hot Docs, Hot Docs 2014]
 <p>Let&rsquo;s hope it&rsquo;s all enough to give us the big picture.</p>
 <p>Try not to look down,</p>
 <p>Di</p>
-<p><strong><em>Status: Air Mail (4/5)</em></strong></p></div>

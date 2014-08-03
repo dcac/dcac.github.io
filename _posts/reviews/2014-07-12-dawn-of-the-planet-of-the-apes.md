@@ -1,21 +1,19 @@
 ---
 published: true
-image: 
-imdb: 
-author:  
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: dawn-of-the-planet-of-the-apes.jpg
+imdb: tt2103281
+author: dig
+stars: 4
+excerpt: "You were the star of the film that started it all."
+position: Actor and Former President of the NRA
+addressee: Charlton Heston
 layout: review
 categories: reviews
 title: "Dawn of the Planet of the Apes"
 date: 2014-07-12 21:45
 comments: true
-categories: [action, adventure, apes, franchise, Letters, planet, sci-fi, Sequel]
+tags: [action, adventure, apes, franchise, Letters, planet, sci-fi, Sequel]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/7/12/dawn-of-the-planet-of-the-apes.html"><img src="http://rollotomasi73.files.wordpress.com/2014/07/dawn20of20the20planet20of20the20apes.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Charlton Heston</strong>, Actor and Former President of the NRA,</em></p>
 <p>You were the star of the film that started it all. In the 1969 version of <em>Planet of the Apes</em>, you played an astronaut who landed on a planet where apes were the dominant species and humans were enslaved. Your intelligent captors named you Bright Eyes, and when you finally spoke, you screamed a line that has become a classic: &ldquo;Take your stinking paws off me you damn dirty ape!&rdquo; In your second career as president of the National Rifle Association, you popularized a phrase that although iconic, is perhaps one of the most divisive you ever uttered, &ldquo;From my cold, dead hands.&rdquo;</p>
 <p>It&rsquo;s almost a blessing that you didn&rsquo;t live to see <em>Dawn of the Planet of the Apes</em>. I can imagine it would be bittersweet for you to now see the apes with guns.</p>
 <p>When you passed away in 2008, the Hollywood model of rebooting franchises from origin stories was hitting its stride, reaching a high-point with this film&rsquo;s direct predecessor <em>Rise of the Planet of the Apes</em> in 2011. In <em>Dawn</em>, a decade has passed and the man-made &ldquo;simian flu&rdquo; has wiped out most of humanity. Caesar, a super-intelligent chimp, lives a peaceful existence with other advanced primates in the Muir woods outside San Francisco. Now the father to an adult male and a newborn son, Caesar governs his society with compassion and fairness.</p>
@@ -28,4 +26,3 @@ categories: [action, adventure, apes, franchise, Letters, planet, sci-fi, Sequel
 <p>For the sake of ape-kind, maybe that&rsquo;s not such a bad thing.</p>
 <p>Rest In Peace,</p>
 <p>Di&nbsp;</p>
-<p><strong><em>Status: Air Mail (4/5)</em></strong></p></div>

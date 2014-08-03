@@ -1,21 +1,19 @@
 ---
 published: true
-image: 
-imdb: 
-author:  
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: only-lovers-left-alive.jpg
+imdb: tt1714915
+author: christopherr
+stars: 4
+excerpt: "Your credit at the end of Only Lovers Left Alive might be one of my favorites ever. I was scrambling to imagine what kind of person could not only have inspired Jim Jarmusch to create this emo-goth opus, but also spurred him into action."
+position: Instigation and Inspiration
+addressee: Sara Driver
 layout: review
 categories: reviews
 title: "Only Lovers Left Alive"
 date: 2014-06-01 14:17
 comments: true
-categories: [comedy, dark comedy, drama, emo, goth, Letters, vampires]
+tags: [comedy, dark comedy, drama, emo, goth, Letters, vampires]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2014/6/1/only-lovers-left-alive.html"><img src="http://rollotomasi73.files.wordpress.com/2014/06/only20lovers20left20alive.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Sara Driver,</strong> Instigation and Inspiration,</em></p>
 <p>Your credit at the end of <em>Only Lovers Left Alive </em>might be one of my favorites ever. &nbsp;I was scrambling to imagine what kind of person could not only have inspired Jim Jarmusch to create this emo-goth opus, but also spurred him into action. If your personal energy is anything at all like the characters and mood of the film, I can&rsquo;t imagine how such a resigned and forlorn person could play the role of motivator.&nbsp; Then again, maybe you&rsquo;re just an old-soul, a bleeding-heart romantic, and possess an equal measure of self-destructive pathos and straight-faced sense of humour.</p>
 <p>Or maybe you&rsquo;re actually a centuries-old vampire.</p>
 <p>Let&rsquo;s go with the latter.</p>
@@ -26,4 +24,3 @@ categories: [comedy, dark comedy, drama, emo, goth, Letters, vampires]
 <p>Thanks goodness you both helped push this film over the top.</p>
 <p>Inspired and instigated,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Air Mail (4/5)</em></strong></p></div>
