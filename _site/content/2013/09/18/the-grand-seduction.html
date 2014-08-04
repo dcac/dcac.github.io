@@ -267,7 +267,7 @@
       
       <a href="/content/2013/09/18/the-grand-seduction.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/" alt="The Grand Seduction" />
+                    <img src="/img/article/thumb/the-grand-seduction.jpg" alt="The Grand Seduction" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
                   </div>
@@ -470,11 +470,13 @@
       $('#nav-toggle').click(function(){
         $("#menu-left").trigger("open");
             $('#nav-button-container').css({'display':'none'});
-            $('#film-row').fadeOut('fast');
+            $('#film-info').fadeOut('fast');
+            $('#side-row').fadeOut('fast');
       });
       $('#menu-toggle-top').click(function(){
         $("#menu-left").trigger("open");
-        $('#film-row').fadeOut('fast');
+        $('#film-info').fadeOut('fast');
+        $('#side-row').fadeOut('fast');
       });
       $("#menu-left")
        .mmenu()
@@ -484,7 +486,8 @@
           function()
           {
             $('#nav-button-container').fadeIn('slow');
-            $('#film-row').fadeIn('slow');
+            $('#film-info').fadeIn('slow');
+            $('#side-row').fadeIn('slow');
             $('#body-text').waypoint(function(){
               $('#nav-button-container').css({'display':'none'});
             });

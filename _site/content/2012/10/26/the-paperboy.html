@@ -203,7 +203,7 @@
               <div class="large-4 medium-4 columns main-link-small">
                 <a href="/content/2013/03/27/stoker.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/" alt="Stoker" />
+                    <img src="/img/article/thumb/stoker.jpg" alt="Stoker" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
                   </div>
@@ -223,7 +223,7 @@
               <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/09/05/lee-daniels-the-butler.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/" alt="Lee Daniels' The Butler" />
+                    <img src="/img/article/thumb/lee-daniels-the-butler.jpg" alt="Lee Daniels' The Butler" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
                   </div>
@@ -482,11 +482,13 @@
       $('#nav-toggle').click(function(){
         $("#menu-left").trigger("open");
             $('#nav-button-container').css({'display':'none'});
-            $('#film-row').fadeOut('fast');
+            $('#film-info').fadeOut('fast');
+            $('#side-row').fadeOut('fast');
       });
       $('#menu-toggle-top').click(function(){
         $("#menu-left").trigger("open");
-        $('#film-row').fadeOut('fast');
+        $('#film-info').fadeOut('fast');
+        $('#side-row').fadeOut('fast');
       });
       $("#menu-left")
        .mmenu()
@@ -496,7 +498,8 @@
           function()
           {
             $('#nav-button-container').fadeIn('slow');
-            $('#film-row').fadeIn('slow');
+            $('#film-info').fadeIn('slow');
+            $('#side-row').fadeIn('slow');
             $('#body-text').waypoint(function(){
               $('#nav-button-container').css({'display':'none'});
             });

@@ -70,30 +70,30 @@ home: true
           {% endfor %}
         </div>
   
-        <div class="large-4 medium-4 columns">
+        <div class="large-4 medium-4 columns hide-for-small-only">
           <div class="row">
-          <div class="large-12 medium-12 columns" id="side-row">
-          <div id="home-sidebar" class="home-sidebar">
-            <div class="film-credits" id="film-credits">
-            </div>
-            <div class="ad-space">
-              <a href="#" class="thumbnail"><img src="img/netflix_small.png" alt="Netflix ad"/></a>
-            </div>
-            <div class="now-streaming">
-              <h1 class="now-streaming-title">Now Streaming</h1>
-              <ul class="now-streaming-list">
-              {% for post in site.posts where post.categories contains "streaming" limit:15 %}
-            		<li class="now-streaming-title"><a href="{{ post.url }}"><span class="star-rating">{% for i in (1..post.stars) %}<i class="fa fa-star"></i>{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<i class="fa fa-star-half-o"></i>{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<i class="fa fa-star-o"></i>{% endfor %}{% endif %}</span> {{ post.title }} </a></li>
-                {% endfor %}
-              </ul>
+            <div class="large-12 medium-12 columns" id="side-row">
+              <div id="home-sidebar" class="home-sidebar">
+                <div class="film-credits" id="film-credits">
+                </div>
+                <div class="ad-space">
+                  <a href="#" class="thumbnail"><img src="img/netflix_small.png" alt="Netflix ad"/></a>
+                </div>
+                <div class="now-streaming">
+               <!--    <h1 class="now-streaming-title">Now Streaming</h1> -->
+                  <ul class="now-streaming-list">
+                  {% for post in site.categories['reviews']  limit:15 %}
+                		<li class="now-streaming-title"><a href="{{ post.url }}">{{ post.title }} <span class="star-rating">{% for i in (1..post.stars) %}<img src="/img/global/star-red.svg" class="star-small" />{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<img src="/img/global/star-red-half.svg" class="star-small" />{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img src="/img/global/star-grey.svg" class="star-small" />{% endfor %}{% endif %}</span></a></li>
+                    {% endfor %}
+                  </ul>
+                </div>
+              </div>
             </div>
           </div>
         </div>
-        </div>
-        </div>
       </div>
       
-      <div class="row collapse">
+      <div class="row collapse hide-for-small-only">
           <div class="more-reviews">
             <h1 class="more-reviews-title">More Reviews</h1>
             <hr class="more-reviews-rule">

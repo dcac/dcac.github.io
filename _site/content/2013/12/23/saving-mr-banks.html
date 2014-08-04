@@ -478,11 +478,13 @@
       $('#nav-toggle').click(function(){
         $("#menu-left").trigger("open");
             $('#nav-button-container').css({'display':'none'});
-            $('#film-row').fadeOut('fast');
+            $('#film-info').fadeOut('fast');
+            $('#side-row').fadeOut('fast');
       });
       $('#menu-toggle-top').click(function(){
         $("#menu-left").trigger("open");
-        $('#film-row').fadeOut('fast');
+        $('#film-info').fadeOut('fast');
+        $('#side-row').fadeOut('fast');
       });
       $("#menu-left")
        .mmenu()
@@ -492,7 +494,8 @@
           function()
           {
             $('#nav-button-container').fadeIn('slow');
-            $('#film-row').fadeIn('slow');
+            $('#film-info').fadeIn('slow');
+            $('#side-row').fadeIn('slow');
             $('#body-text').waypoint(function(){
               $('#nav-button-container').css({'display':'none'});
             });

@@ -218,7 +218,7 @@ But I haven&rsquo;t thought of you lately at all.</em></p>
               <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/07/17/sharknado.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/" alt="Sharknado" />
+                    <img src="/img/article/thumb/sharknado.jpg" alt="Sharknado" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
                   </div>
@@ -477,11 +477,13 @@ But I haven&rsquo;t thought of you lately at all.</em></p>
       $('#nav-toggle').click(function(){
         $("#menu-left").trigger("open");
             $('#nav-button-container').css({'display':'none'});
-            $('#film-row').fadeOut('fast');
+            $('#film-info').fadeOut('fast');
+            $('#side-row').fadeOut('fast');
       });
       $('#menu-toggle-top').click(function(){
         $("#menu-left").trigger("open");
-        $('#film-row').fadeOut('fast');
+        $('#film-info').fadeOut('fast');
+        $('#side-row').fadeOut('fast');
       });
       $("#menu-left")
        .mmenu()
@@ -491,7 +493,8 @@ But I haven&rsquo;t thought of you lately at all.</em></p>
           function()
           {
             $('#nav-button-container').fadeIn('slow');
-            $('#film-row').fadeIn('slow');
+            $('#film-info').fadeIn('slow');
+            $('#side-row').fadeIn('slow');
             $('#body-text').waypoint(function(){
               $('#nav-button-container').css({'display':'none'});
             });

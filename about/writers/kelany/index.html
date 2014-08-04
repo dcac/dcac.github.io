@@ -6,9 +6,9 @@ Title: Kelan Young
 section: About
 layout: default
 ---
+{% include top-nav.html %}
+{% include about-nav.html %}
 {% assign author = site.data.authors[page.author] %}
-    {% include top-nav.html %}
-      {% include about-nav.html %}
       <div class="row writer-bio" id="writer-bio">
         <section id="bio">
           <h1>{{ author.name }}</h1>
@@ -21,15 +21,8 @@ layout: default
         {% for post in paginator.posts %}
         {% assign author = site.data.authors[post.author] %}
          <div class="section-post large-3 medium-3 columns{% if forloop.last %} end{% endif %}">
-          <a href="{{ post.url }}" class="thumbnail"><img src="/img/article/thumb/{{ post.image }}" alt="{{ post.title }}" /></a>
-          <a href="{{ post.url }}">
-            <div class="section-review-text">
-              <h1>{{ post.title }}</h1>
-              <h2 class="star-rating">{% for i in (1..post.stars) %}<i class="fa fa-star"></i>{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<i class="fa fa-star-half-o"></i>{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<i class="fa fa-star-o"></i>{% endfor %}{% endif %}</h2>
-              <h2 class="author">By {{ author.name }}</h2>
-            </div>
-          </a>
-        </div>
+          {% include post-grid/post.html %}
+         </div>
         {% endfor %}
       </div>
       <div class="row center">

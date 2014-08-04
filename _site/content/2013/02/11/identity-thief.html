@@ -222,7 +222,7 @@
                   <div class="review-text">
                     <h1>Tammy</h1>
                     <h2 class="addressee">Dear Linda D. Flowers, Hair Department Head</h2>
-                    <h2 class="author">By </h2>
+                    <h2 class="author">By Heidi Brander</h2>
                   </div>
                 </a>
               </div>
@@ -268,7 +268,7 @@
       
       <a href="/content/2013/02/11/identity-thief.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/" alt="Identity Thief" />
+                    <img src="/img/article/thumb/identity-thief.jpg" alt="Identity Thief" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
                   </div>
@@ -471,11 +471,13 @@
       $('#nav-toggle').click(function(){
         $("#menu-left").trigger("open");
             $('#nav-button-container').css({'display':'none'});
-            $('#film-row').fadeOut('fast');
+            $('#film-info').fadeOut('fast');
+            $('#side-row').fadeOut('fast');
       });
       $('#menu-toggle-top').click(function(){
         $("#menu-left").trigger("open");
-        $('#film-row').fadeOut('fast');
+        $('#film-info').fadeOut('fast');
+        $('#side-row').fadeOut('fast');
       });
       $("#menu-left")
        .mmenu()
@@ -485,7 +487,8 @@
           function()
           {
             $('#nav-button-container').fadeIn('slow');
-            $('#film-row').fadeIn('slow');
+            $('#film-info').fadeIn('slow');
+            $('#side-row').fadeIn('slow');
             $('#body-text').waypoint(function(){
               $('#nav-button-container').css({'display':'none'});
             });

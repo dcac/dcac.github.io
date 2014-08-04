@@ -78,8 +78,7 @@
     <!-- End Sidebar Nav -->
     </nav>
     <div class="container-shadow" id="main-container">    
-      
-      
+        
 <div class="full-black">
       <div class="row collapse">
         <div class="section-header">
@@ -119,7 +118,7 @@
       </nav>
     </div>
 
-          <div class="row">
+    <div class="row">
       <div class="section-title">
         <h1>About</h1>
         <section>
@@ -130,10 +129,11 @@
         </section>
       </div>
     </div>
+
       <div class="row writer-bio" id="writer-bio">
         <section id="bio">
-          <h1>Christopher Redmond</h1>
-          <p>During a nomadic childhood, Christopher used to pad his letters to friends with personal film reviews. They made the envelopes impressively thick and, in his mind, more valuable. Then at 23, he landed his first paid film position as the Assistant (to the) Executive Producer of a movie-of-the-week. The dream had finally become a reality. And that reality slowly became a little too real. So for 2011, Christopher successfully retreated back into fantasy with Film500 – where he watched and reviewed 500 feature films in one year. Take that, real world.</p>
+          <h1>Di Golding</h1>
+          <p></p>
         </section>
       </div>
       
@@ -141,27 +141,41 @@
         
         
          <div class="section-post large-3 medium-3 columns">
-          <a href="/content/2014/01/10/nebraska.html" class="thumbnail"><img src="/img/article/thumb/nebraska.jpg" alt="Nebraska" /></a>
           <a href="/content/2014/01/10/nebraska.html">
-            <div class="section-review-text">
-              <h1>Nebraska</h1>
-              <h2 class="star-rating"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i></h2>
-              <h2 class="author">By Di Golding</h2>
-            </div>
-          </a>
-        </div>
+                  <div class="post-image">
+                    <img src="/img/article/thumb/nebraska.jpg" alt="Nebraska" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/01/10/nebraska.html">
+                  <div class="review-text">
+                    <h1>Nebraska</h1>
+                    <h2 class="addressee">Dear Waldo Sanchez, Department Head Hair,</h2>
+                    <h2 class="author">By Di Golding</h2>
+                  </div>
+                </a>
+         </div>
         
         
          <div class="section-post large-3 medium-3 columns end">
-          <a href="/content/2013/12/19/grudge-match.html" class="thumbnail"><img src="/img/article/thumb/gridge-match.jpg" alt="Grudge Match" /></a>
           <a href="/content/2013/12/19/grudge-match.html">
-            <div class="section-review-text">
-              <h1>Grudge Match</h1>
-              <h2 class="star-rating"><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i></h2>
-              <h2 class="author">By Di Golding</h2>
-            </div>
-          </a>
-        </div>
+                  <div class="post-image">
+                    <img src="/img/article/thumb/gridge-match.jpg" alt="Grudge Match" />
+                    <div class="corner-stamp"></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2013/12/19/grudge-match.html">
+                  <div class="review-text">
+                    <h1>Grudge Match</h1>
+                    <h2 class="addressee">Dear Brigitte Fauchaux, Video Graphics Designer</h2>
+                    <h2 class="author">By Di Golding</h2>
+                  </div>
+                </a>
+         </div>
         
       </div>
       <div class="row center">
@@ -335,11 +349,13 @@
       $('#nav-toggle').click(function(){
         $("#menu-left").trigger("open");
             $('#nav-button-container').css({'display':'none'});
-            $('#film-row').fadeOut('fast');
+            $('#film-info').fadeOut('fast');
+            $('#side-row').fadeOut('fast');
       });
       $('#menu-toggle-top').click(function(){
         $("#menu-left").trigger("open");
-        $('#film-row').fadeOut('fast');
+        $('#film-info').fadeOut('fast');
+        $('#side-row').fadeOut('fast');
       });
       $("#menu-left")
        .mmenu()
@@ -349,7 +365,8 @@
           function()
           {
             $('#nav-button-container').fadeIn('slow');
-            $('#film-row').fadeIn('slow');
+            $('#film-info').fadeIn('slow');
+            $('#side-row').fadeIn('slow');
             $('#body-text').waypoint(function(){
               $('#nav-button-container').css({'display':'none'});
             });

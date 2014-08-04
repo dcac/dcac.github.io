@@ -530,17 +530,37 @@ div.now-streaming {
 }
 ul.now-streaming-list {
   list-style: none;
+  padding: 1.25rem;
+  line-height: 1.25rem;
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+  -webkit-margin-start: 1.25rem;
+  -webkit-margin-end: 0x;
+  -webkit-padding-start: 0;
 }
 ul.now-streaming-list li.now-streaming-title span.star-rating {
-  color: #333333;
-  font-size: 0.75rem;
+  display: block;
+  float: right;
+}
+ul.now-streaming-list li.now-streaming-title span.star-rating img.star-small {
+  height: 0.625rem;
+  margin-right: 0.0625rem;
+  margin-left: 0.0625rem;
+  -webkit-filter: none;
+  filter: none;
 }
 li.now-streaming-title a {
-  display: block;
+  display: inline-block;
+  padding-right: 2px;
+  padding-left: 2px;
   width: 100%;
   height: 100%;
-  font-size: 0.875rem;
-  color: #333333;
+  font-size: 0.75rem;
+  line-height: 0.625rem;
+  color: #949698;
+}
+li.now-streaming-title a:hover {
+  background-color: #e0e0e0;
 }
 #page nav {
   display: none;
@@ -638,10 +658,7 @@ section.top-nav a:hover {
 }
 @media only screen and (max-width: 640px) {
   .mini-top-nav-hidden {
-    display: block;
-    margin-top: 0;
     top: 0;
-    position: fixed;
     -o-transition: 0;
     -ms-transition: 0;
     -moz-transition: 0;
@@ -688,7 +705,7 @@ section.top-nav a:hover {
 }
 .top-bar .name {
   height: 35px;
-  width: 35px;
+  width: 45px;
   margin-left: 5px;
   margin-top: 5px;
 }
@@ -1576,7 +1593,9 @@ h3 span.position {
     line-height: 1.5rem;
   }
 }
-#review-copy p {
+#review-copy p,
+#review-copy li,
+#review-copy ol {
   text-align: left;
   position: relative;
   color: #333333;
@@ -1586,6 +1605,12 @@ h3 span.position {
   width: 100%;
   margin: 0 auto;
   margin-top: 1.25rem;
+}
+#review-copy ul {
+  margin-top: 1.25rem;
+}
+#review-copy li {
+  margin-top: 0;
 }
 /*
 

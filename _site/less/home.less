@@ -286,16 +286,38 @@ div.now-streaming{
 }
 ul.now-streaming-list{
   list-style: none;
+  padding:@20px;
+  line-height: @20px;
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+  -webkit-margin-start: @20px;
+  -webkit-margin-end: 0x;
+  -webkit-padding-start: 0;
 }
 
-ul.now-streaming-list li.now-streaming-title span.star-rating{
-  color:@dark-grey;
-  font-size: @text-small;
+ul.now-streaming-list li.now-streaming-title span.star-rating {
+  display: block;
+  float: right
+}
+
+ul.now-streaming-list li.now-streaming-title span.star-rating img.star-small{
+  //display: inline;
+  height: @text-tiny;
+  margin-right: @1px;
+  margin-left:@1px;
+  -webkit-filter: none;
+    filter: none;
 }
 li.now-streaming-title a {
-  display: block;
+  display: inline-block;
+  padding-right: 2px;
+  padding-left: 2px;
   width: 100%;
   height: 100%;
-  font-size: @text-regular;
-  color:@dark-grey;
+  font-size: @text-small;
+  line-height: @10px;
+  color: #949698;
+}
+li.now-streaming-title a:hover {
+  background-color: #e0e0e0;
 }
