@@ -1564,7 +1564,7 @@ h3 span.position {
   font-weight: 700;
   text-shadow: 0 0 2px #333333;
 }
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 780px) {
   h3 span.position {
     font-size: 3.75rem;
     line-height: 3.125rem;
