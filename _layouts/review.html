@@ -31,7 +31,7 @@ layout: default
             <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear {{ page.addressee }}</span><br />
-                  <span class="position">{{ page.position }}</span>
+                  {% assign positionSize = page.position | size %}{% if positionSize > 25 %}<span class="position-small-txt">{% else %}<span class="position">{% endif %}{{ page.position }}</span>
                 </h3>
               </div>
             </div>

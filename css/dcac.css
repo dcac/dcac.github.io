@@ -1575,6 +1575,26 @@ h3 span.position {
     text-shadow: none;
   }
 }
+h3 span.position-small-txt {
+  color: #ffffff;
+  text-align: left;
+  font-size: 4.5rem;
+  line-height: 4rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-weight: 700;
+  text-shadow: 0 0 2px #333333;
+}
+@media only screen and (max-width: 640px) {
+  h3 span.position-small-txt {
+    color: #000;
+    text-align: left;
+    font-size: 3.75rem;
+    line-height: 3.125rem;
+    font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+    font-weight: 700;
+    text-shadow: none;
+  }
+}
 #review-copy p.intro {
   text-align: left;
   position: relative;
