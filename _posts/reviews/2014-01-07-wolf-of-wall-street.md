@@ -4,13 +4,13 @@ categories: reviews
 published: true
 title: The Wolf of Wall Street
 tags: reviews
-image: "wolf-of-wall-street04.jpg"
+image: "the-wolf-of-wall-street.jpg"
+imdb: tt0993846
 author: caseyt
 stars: 4.5
 excerpt: This is where the short description will go.
 position: Actor
 addressee: Jordan Belfort
-excerpt: null
 ---
 
 Well this is quite the thing, isn’t it? After living a life of remorseless [debauchery](http://www.deb.com), having swindled untold thousands, getting busted, serving time, and then documenting it all in the inevitable tell-all book, you now find yourself the focus of a Martin Scorsese film! You could even say that you’re the hero of the piece, since your onscreen alter ego (played by Leonardo DiCaprio) appears in almost every scene.

@@ -121,7 +121,7 @@
 
       <section>
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/wolf-of-wall-street04.jpg);" data-stellar-background-ratio=".25"></div>
+          <div class="title-img" style="background-image:url(/img/article/the-wolf-of-wall-street.jpg);" data-stellar-background-ratio=".25"></div>
           <div class="row">
             <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
@@ -276,7 +276,7 @@
       
       <a href="/content/2014/01/07/wolf-of-wall-street.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/wolf-of-wall-street04.jpg" alt="The Wolf of Wall Street" />
+                    <img src="/img/article/thumb/the-wolf-of-wall-street.jpg" alt="The Wolf of Wall Street" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /></div>
                   </div>
@@ -294,12 +294,12 @@
     //get the movie info from IMDB
     $.ajax({
       
-      url: "http://omdbapi.com/?i=",
+      url: "http://omdbapi.com/?i=tt0993846",
       dataType: 'jsonp',
       success: function(data) {
         var html = '<div class="row imdb-info-row no-border full-width">';
         //html += '<img class="imdb-img" src="' +data.Poster +'" />';
-        html += '<img class="imdb-img" src="http://img.omdbapi.com/?i=&apikey=bc6b02e2&h=450" />';
+        html += '<img class="imdb-img" src="http://img.omdbapi.com/?i=tt0993846&apikey=bc6b02e2&h=450" />';
         html += '<span class="imdb-category">Directed by</span><br /><span class="imdb-data">' + data.Director.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
