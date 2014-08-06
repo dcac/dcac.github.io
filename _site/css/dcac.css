@@ -115,6 +115,14 @@ div.hero-title {
   padding-left: 0.9375rem;
   padding-right: 0.9375rem;
   position: absolute;
+  width: 100%;
+}
+@media only screen and (max-width: 640px) {
+  div.hero-title {
+    bottom: 0;
+    top: auto;
+    min-height: 130px;
+  }
 }
 .hero-title h1 {
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
@@ -128,44 +136,67 @@ div.hero-title {
   text-align: center;
   bottom: 50px;
   position: absolute;
-  width: 90%;
+  width: 100%;
+}
+@media only screen and (max-width: 640px) {
+  .hero-title h1 {
+    min-height: 120px;
+    bottom: 0;
+    width: 100%;
+    margin: 0;
+  }
 }
 @media only screen and (max-width: 640px) {
   .hero-title h1 {
     color: #333333;
   }
 }
-.hero-title h2.author,
-.hero-title h2.addressee,
-.hero-title h2.star-rating {
-  font-size: 1rem;
-  line-height: 1rem;
-  color: #ffffff;
-  text-transform: none;
-  text-shadow: 0 0 2px #333333;
-  font-family: "Georgia", serif;
-  margin-bottom: 0.625rem;
-  position: relative;
-}
-@media only screen and (max-width: 640px) {
-  .hero-title h2.author,
-  .hero-title h2.addressee,
-  .hero-title h2.star-rating {
-    color: #333333;
+/*
+.hero-title h2.author,.hero-title h2.addressee,.hero-title h2.star-rating{
+  .hero-byline;
+  @media @mobile{
+    .mobile-text;
   }
 }
+*/
 .hero-title-text {
   text-align: center;
   bottom: 50px;
   position: absolute;
-  width: 90%;
+  width: 100%;
+}
+@media only screen and (max-width: 640px) {
+  .hero-title-text {
+    min-height: 120px;
+    bottom: 0;
+    width: 100%;
+    margin: 0;
+  }
+}
+@media only screen and (max-width: 640px) {
+  .translucent-box {
+    padding-top: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
 }
 #hero-home {
   height: 500px;
   margin-bottom: 45px;
 }
+@media only screen and (max-width: 640px) {
+  #hero-home {
+    height: 320px;
+    margin-bottom: -20px;
+  }
+}
 .home-title-height {
   height: 500px;
+  width: 100%;
+}
+@media only screen and (max-width: 640px) {
+  .home-title-height {
+    height: 320px;
+  }
 }
 h1.hero-home {
   color: #ffffff;
@@ -175,6 +206,18 @@ h1.hero-home {
   font-weight: 700;
   text-shadow: 0 0 2px #333333;
 }
+@media only screen and (max-width: 640px) {
+  h1.hero-home {
+    font-size: 60px;
+  }
+}
+@media only screen and (max-width: 640px) {
+  .hero-people {
+    float: left;
+    margin-left: 15px;
+    max-width: 50%;
+  }
+}
 h2.hero-addressee-home {
   color: #ffffff;
   font-size: 1.25rem;
@@ -182,6 +225,15 @@ h2.hero-addressee-home {
   line-height: 0.875rem;
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   text-shadow: 0 0 2px #333333;
+  position: relative;
+}
+@media only screen and (max-width: 640px) {
+  h2.hero-addressee-home {
+    text-align: left;
+    line-height: 1.25rem;
+    font-size: 1.125rem;
+    margin-bottom: 0;
+  }
 }
 h2.hero-author-home {
   color: #ffffff;
@@ -190,6 +242,57 @@ h2.hero-author-home {
   font-family: "Georgia", serif;
   text-shadow: 0 0 2px #333333;
   font-style: italic;
+}
+@media only screen and (max-width: 640px) {
+  h2.hero-author-home {
+    text-align: left;
+    font-size: 0.875rem;
+    bottom: 0;
+    font-style: normal;
+    line-height: 1.125rem;
+    margin: 0;
+  }
+}
+h2.hero-date-home {
+  color: #ffffff;
+  font-size: 0.75rem;
+  font-family: "Georgia", serif;
+  text-shadow: 0 0 2px #333333;
+  font-style: italic;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  line-height: 0.875rem;
+}
+.review-stamp {
+  width: 2.375rem;
+  height: 2.375rem;
+  float: left;
+  margin-right: 0.625rem;
+  -webkit-filter: drop-shadow(0 0 0.125rem #939598);
+  filter: drop-shadow(0 0 0.125rem #939598);
+}
+@media only screen and (max-width: 640px) {
+  .review-stamp {
+    width: 1.875rem;
+    height: 1.875rem;
+  }
+}
+@media only screen and (max-width: 640px) {
+  .home-status-container {
+    margin-right: 15px;
+    bottom: 10px;
+    float: right;
+    margin-bottom: 0.625rem;
+  }
+}
+.home-status-title {
+  color: #ffffff;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-size: 1.125rem;
+  line-height: 1.125rem;
+  font-weight: 700;
+  text-align: left;
 }
 .large-star-rating-home {
   display: block;
@@ -200,7 +303,9 @@ h2.hero-author-home {
 }
 @media only screen and (max-width: 640px) {
   .large-star-rating-home {
-    border-top: 1px solid #fff;
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
+    margin-top: 0.625rem;
+    padding-top: 0.3125rem;
   }
 }
 .star-large {
@@ -236,8 +341,23 @@ h2.hero-author-home {
     margin-right: 0.125rem;
   }
 }
-.post-image {
+div.post-list-home.post-image {
   position: relative;
+}
+@media only screen and (max-width: 640px) {
+  div.post-list-home.post-image {
+    float: left;
+    width: 55%;
+  }
+}
+.post-image-home {
+  position: relative;
+}
+@media only screen and (max-width: 640px) {
+  .post-image-home {
+    float: left;
+    width: 55%;
+  }
 }
 .post-image img {
   z-index: 0;
@@ -280,12 +400,35 @@ h2.hero-author-home {
 .post {
   margin-bottom: 1.25;
   min-height: 15.625rem;
+  margin-top: 0;
+}
+.post-list-home {
+  margin-bottom: 1.5625rem;
+  min-height: auto;
+  margin-top: 0;
+}
+@media only screen and (max-width: 640px) {
+  .post-list-home {
+    margin-bottom: 0;
+    min-height: auto;
+    margin-top: 1.25rem;
+  }
+}
+@media only screen and (max-width: 640px) {
+  .post-list-home::before {
+    content: "";
+    display: block;
+    height: 1px;
+    border-top: 1px solid #c8c7c7;
+    margin-bottom: 20px;
+  }
 }
 .post-list {
-  margin-bottom: 3.75rem;
+  margin-bottom: 1.5625rem;
   min-height: auto;
+  margin-top: 0;
 }
-div.review-text {
+div.review-text-home {
   padding: 0;
   margin-top: .6rem;
   -o-transition: 0.5s;
@@ -293,8 +436,19 @@ div.review-text {
   -moz-transition: 0.5s;
   -webkit-transition: 0.5s;
   transition: 0.5s;
+  float: none;
+  width: auto;
+  max-width: 300px;
 }
-div.review-text h1 {
+@media only screen and (max-width: 640px) {
+  div.review-text-home {
+    max-width: 110px;
+    float: left;
+    margin-top: 0;
+    margin-left: 20px;
+  }
+}
+div.review-text-home h1 {
   font-size: 1.125rem;
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
@@ -302,30 +456,37 @@ div.review-text h1 {
   color: #000000;
   margin: 0;
 }
-div.review-text h2.author {
+@media only screen and (max-width: 640px) {
+  div.review-text-home h1 {
+    margin-bottom: 10px;
+  }
+}
+div.review-text-home h2.author {
   font-size: 0.75rem;
   font-family: "Georgia", serif;
   color: #939598;
   margin: 0;
   font-style: italic;
 }
-div.review-text h2.star-rating {
+div.review-text-home h2.star-rating {
   font-size: 0.75rem;
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   color: #939598;
   margin: 0;
   font-weight: 750;
 }
-div.review-text h2.addressee {
+div.review-text-home h2.addressee {
   font-size: 0.75rem;
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   color: #939598;
   margin: 0;
   font-weight: bold;
 }
-.post-list {
+/*
+.post-list{
   margin-bottom: 2.5rem;
 }
+*/
 .home-feature {
   margin-bottom: 3rem;
 }
@@ -390,21 +551,24 @@ a:hover {
 .load-posts-div,
 .goto-posts-div {
   text-align: center;
+  margin-bottom: 40px;
 }
 .load-posts-button,
 .load-posts-button:focus {
   background-color: #636467;
-  border-style: none;
-  border-width: medium;
-  border-color: #636467;
+  /*
+border-style : none;
+  border-width : medium;
+  border-color : #636467;
   border: 1px solid #636467;
+*/
   padding-right: 2.1875rem;
   padding-left: 2.1875rem;
   padding-top: 0.9375rem;
   padding-bottom: 0.625rem;
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 0.875rem;
-  margin-bottom: 0.9375rem;
+  margin-bottom: 0;
   color: #ffffff;
   font-weight: 700;
   display: inline;
@@ -414,17 +578,19 @@ a:hover {
 }
 .load-posts-button:hover {
   background-color: #c1c0c0;
-  border-style: none;
-  border-width: medium;
-  border-color: #636467;
+  /*
+border-style : none;
+  border-width : medium;
+  border-color : #636467;
   border: 1px solid #636467;
+*/
   padding-right: 2.1875rem;
   padding-left: 2.1875rem;
   padding-top: 0.9375rem;
   padding-bottom: 0.625rem;
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 0.875rem;
-  margin-bottom: 0.9375rem;
+  margin-bottom: 0;
   color: #636467;
   -o-transition: 0.5s;
   -ms-transition: 0.5s;
@@ -435,17 +601,19 @@ a:hover {
 .goto-posts-button,
 .goto-posts-button:focus {
   background-color: #636467;
-  border-style: none;
-  border-width: medium;
-  border-color: #636467;
+  /*
+border-style : none;
+  border-width : medium;
+  border-color : #636467;
   border: 1px solid #636467;
+*/
   padding-right: 2.1875rem;
   padding-left: 2.1875rem;
   padding-top: 0.9375rem;
   padding-bottom: 0.625rem;
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 0.875rem;
-  margin-bottom: 0.9375rem;
+  margin-bottom: 0;
   color: #ffffff;
   font-weight: 700;
   display: none;
@@ -455,17 +623,19 @@ a:hover {
 }
 .goto-posts-button:hover {
   background-color: #c1c0c0;
-  border-style: none;
-  border-width: medium;
-  border-color: #636467;
+  /*
+border-style : none;
+  border-width : medium;
+  border-color : #636467;
   border: 1px solid #636467;
+*/
   padding-right: 2.1875rem;
   padding-left: 2.1875rem;
   padding-top: 0.9375rem;
   padding-bottom: 0.625rem;
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 0.875rem;
-  margin-bottom: 0.9375rem;
+  margin-bottom: 0;
   color: #636467;
   -o-transition: 0.5s;
   -ms-transition: 0.5s;
@@ -680,11 +850,11 @@ section.top-nav a:hover {
   position: fixed;
   top: -3.125rem;
   width: 100%;
-  -o-transition: 0.5s;
-  -ms-transition: 0.5s;
-  -moz-transition: 0.5s;
-  -webkit-transition: 0.5s;
-  transition: 0.5s;
+  -o-transition: 0.4s;
+  -ms-transition: 0.4s;
+  -moz-transition: 0.4s;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
   z-index: 5;
 }
 @media only screen and (max-width: 640px) {
@@ -777,7 +947,6 @@ ul.title-area h1 {
 .footer {
   position: relative;
   margin: 0 auto;
-  width: 60rem;
   height: 11.5625rem;
 }
 .footer-block {
@@ -821,6 +990,12 @@ footer hr {
   height: 1px;
   border: none;
   margin: 0 0 0.625rem 0;
+}
+.divider::after {
+  content: "";
+  margin-bottom: 0.625rem;
+  border-right: 1px solid #808285;
+  margin-right: 1.5625rem;
 }
 a.social-twitter {
   background: url('../img/footer/twitter.png') 0 0 no-repeat;
@@ -1841,17 +2016,20 @@ li.section-right-nav a.current {
 .section-post {
   margin-bottom: 1.5625rem;
   min-height: 15.625rem;
+  margin-top: 0;
 }
 @media only screen and (max-width: 780px) {
   .section-post {
     margin-bottom: 1.5625rem;
     min-height: 14.375rem;
+    margin-top: 0;
   }
 }
 @media only screen and (max-width: 640px) {
   .section-post {
     margin-bottom: 0.9375rem;
     min-height: 12.5rem;
+    margin-top: 0;
   }
 }
 div.section-post h1 {
@@ -1943,4 +2121,53 @@ ul.pagination li.off {
 }
 .center {
   text-align: center;
+}
+.post-list {
+  margin-bottom: 3.75rem;
+  min-height: auto;
+  margin-top: 0;
+}
+div.review-text {
+  padding: 0;
+  margin-top: .6rem;
+  -o-transition: 0.5s;
+  -ms-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+div.review-text h1 {
+  font-size: 1.125rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-weight: 700;
+  line-height: 1rem;
+  color: #000000;
+  margin: 0;
+}
+div.review-text h2.author {
+  font-size: 0.75rem;
+  font-family: "Georgia", serif;
+  color: #939598;
+  margin: 0;
+  font-style: italic;
+}
+div.review-text h2.star-rating {
+  font-size: 0.75rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  color: #939598;
+  margin: 0;
+  font-weight: 750;
+}
+div.review-text h2.addressee {
+  font-size: 0.75rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  color: #939598;
+  margin: 0;
+  font-weight: bold;
+}
+.post-image {
+  position: relative;
+}
+.post-image img {
+  z-index: 0;
 }

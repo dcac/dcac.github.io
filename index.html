@@ -12,18 +12,31 @@ section: General
         <div id="story-title" class="title-info">
           <a href="{{ post.url }}">
             <div class="title-img" style="background-image:url(/img/article/{{ post.image }});"></div>
-            <div class="row">
-              <div class="large-12 medium-12 small-12 columns home-title-height">
+            <div class="row collapse">
+              <div class="large-4 medium-4 columns home-title-height">
                 <div class="hero-title-text">
                   <h1 class="hero-home">{{ post.title }}</h1>
-                  <h2 class="hero-addressee-home">
-                    Dear {{ post.addressee }}, {{ post.position }}
-                  </h2>
-                  <h2 class="hero-author-home">
-                    By {{ author.name }}
-                  </h2>
-                  <div class="large-star-rating-home">
-                    {% for i in (1..post.stars) %}<img class="star-large" src="/img/global/star-blue.svg" />{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<img class="star-large" src="/img/global/star-blue-half.svg" />{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img class="star-large" src="/img/global/star-white.svg" />{% endfor %}{% endif %}
+                  <div class="translucent-box clearfix">
+                    <div class="hero-people">
+                      <h2 class="hero-addressee-home">
+                        Dear {{ post.addressee }}, <span class="mobile-line-break"><br /></span>{{ post.position }}
+                      </h2>
+                      <h2 class="hero-author-home">
+                        By {{ author.name }}
+                      </h2>
+                      <h2 class="hero-date-home">
+                        Mailed on {{ post.date | date: "%A, %B %d, %Y" }}
+                      </h2>
+                    </div>
+                    <div class="home-status-container">
+                      <div class="home-status-title show-for-small-only">
+                        <img src="/img/global/stamp.svg" class="standard review-stamp" />
+                    {% if post.stars < 1.5 %}Junk<br />Mail{% elsif post.stars >= 1.5 and post.stars < 2.5 %}Return to<br />Sender{% elsif post.stars >= 2.5 and post.stars < 3.5 %}Standard<br />Delivery{% elsif post.stars >= 3.5 and post.stars < 4.5  %}Air<br />Mail{% elsif post.stars >= 4.5 %}Priority<br />Post{% endif %}<br />
+                      </div>
+                      <div class="large-star-rating-home">
+                        {% for i in (1..post.stars) %}<img class="star-large" src="/img/global/star-blue.svg" />{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<img class="star-large" src="/img/global/star-blue-half.svg" />{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img class="star-large" src="/img/global/star-white.svg" />{% endfor %}{% endif %}
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -41,8 +54,8 @@ section: General
           {% if loopindex == 1 %}
            <div class="row">
           {% endif %}
-             <div class="post-list large-6 medium-6 columns grow">
-              {% include post-grid/post.html %}
+             <div class="post-list-home large-6 medium-6 columns grow">
+              {% include post-grid/post-home.html %}
             </div>
           {% assign loopindex = forloop.index | modulo: 2 %}
           {% if loopindex != 1 %}
@@ -61,8 +74,8 @@ section: General
           {% if loopindex == 1 %}
            <div class="row">
           {% endif %}
-             <div class="post-list large-6 medium-6 columns">
-              {% include post-grid/post.html %}
+             <div class="post-list-home large-6 medium-6 columns">
+              {% include post-grid/post-home.html %}
             </div>
           {% assign loopindex = forloop.index | modulo: 2 %}
           {% if loopindex != 1 %}

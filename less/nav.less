@@ -93,7 +93,7 @@
     position: fixed;
     top:-(@1px*50);
     width:100%;
-    .animation;
+    .animation(.4s);
     z-index: 5;
     @media @mobile{
       top:0;
@@ -182,7 +182,7 @@ display: inline;
 .footer{
   position:relative;
   margin: 0 auto;
-  width: @1px*960;
+  //width: @1px*960;
   height: @1px*185;
 }
 .footer-block{
@@ -226,6 +226,12 @@ footer hr{
   height:1px;
   border: none;
   margin: 0 0 @10px 0;
+}
+.divider::after{
+  content:"";
+  margin-bottom:@10px;
+  border-right: 1px solid #808285;
+  margin-right: @25px;
 }
 a.social-twitter{
   background: url('../img/footer/twitter.png') 0 0 no-repeat;

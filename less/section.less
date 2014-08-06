@@ -130,3 +130,35 @@
   .center{
     text-align: center;
   }
+  
+// Post grid for the sections
+.post-list{
+  .review-block(3.75rem);
+}
+
+div.review-text{
+  padding:0;
+  margin-top: .6rem;
+  .animation;
+}
+div.review-text h1{
+  .review-grid-head;
+}
+div.review-text h2.author{
+  .review-grid-byline(@text-small,@serif);
+  font-style: italic;
+}
+div.review-text h2.star-rating{
+  .review-grid-byline(@text-small);
+  font-weight: 750;
+}
+div.review-text h2.addressee{
+  .review-grid-byline(@text-small);
+  font-weight:bold;
+}
+.post-image{
+  position: relative;
+}
+.post-image img{
+  z-index: 0;
+}
