@@ -16,6 +16,7 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
@@ -48,14 +49,14 @@
     <!-- Sidebar Nav -->
       <ul>
         <li><a href="#" id="side-search-toggle"><i class="fa fa-search"></i> Search</a></li>
-                            <li class="text"><a href="/reviews/">Reviews</a>
+                            <li class="text"><a href="/reviews/">Reviews.</a>
             <ul>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="/features/">Features</a>
+                    <li><a href="/features/">Features.</a>
             <ul>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
@@ -67,7 +68,7 @@
               <li><a href="#">Archive</a></li>
             </ul>
           </li> -->
-                    <li><a href="/about/">About</a>
+                    <li><a href="/about/">About.</a>
             <ul>
               <li><a href="/about/writers/">Writers</a></li>
               <li><a href="/about/contact/">Contact</a></li>
@@ -78,7 +79,7 @@
     </nav>
     <div class="container-shadow" id="main-container">    
              
-<div class="full-black">
+<div class="full-white">
       <div class="row collapse">
         <div class="section-header">
           <section class="top-nav" id="top-nav">
@@ -110,7 +111,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/03/19/veronica-mars.html" class="latest-review"><strong>Latest post:</strong></span> <em>Veronica Mars</em> - Dear "We Used to Be Friends", Theme Song</a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,19 +120,21 @@
 
 
       <section>
-        <div id="story-title" class="title-info" data-equalizer>
+        <div id="story-title" class="title-info">
           <div class="title-img" style="background-image:url(/img/article/argo.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row" data-equalizer-watch >
-            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+          <div class="row">
+            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
-                <h1 class="hero">Argo</h1>
-                <h2 class="hero-author">
-                  By Test Author
-                </h2>
-                <h2 class="hero-date">
-                  Mailed on October 15, 2012
-                </h2>
-                <hr class="title-divider" />
+                <div class="title-block">
+                  <h1 class="hero">Argo</h1>
+                  <h2 class="hero-author">
+                    By Test Author
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on October 15, 2012
+                  </h2>
+                  <hr class="title-divider" />
+                </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 Priority<br />Post<br />
@@ -141,7 +144,7 @@
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear Max Daly</span><br />
                   <span class="position">Researcher</span>
@@ -160,7 +163,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro">Dear Max Daly,</p>
+            <p class="intro hide-for-small">Dear Max Daly,</p>
             <p class="intro">Hollywood has a habit of recklessly re-writing history to sell a story. It&rsquo;s entertainment, so no one&rsquo;s complaining&mdash;well, except for researchers like you. In your line of work, fudging the facts might be disastrous. But for Tony Mendez and the six American diplomats trying to sneak out of Iran during the revolution of 1979, getting a detail wrong would have been deadly. We feel those consequences to maximum effect in&nbsp;<em>Argo</em>, a masterfully suspenseful dramatization of the now-declassified rescue mission, reconstructed with incredible period detail by you and director Ben Affleck.</p>
 
 <p>The vintage Warner Brother&rsquo;s logo fades into a condensed history of Iran, helping us non-history-buffs catch up on the sociopolitical mood of Iran in the late 70s. The technique works beautifully, employing illustrated storyboards, that pre-production staple, to foreshadow the upcoming film-centric story. Six Americans have escaped the overrun U.S. embassy, taking refuge at the Canadian Ambassador&rsquo;s home with now way out until CIA operative Tony Mendez (Ben Affleck) cooks up a plan for them to pose as a Canadian film crew. The stakes are sky-high, not just for the individuals involved, but for two countries teetering on the edge of war.</p>
@@ -180,10 +183,14 @@
           </div>
         </div>
         <div id="up-next" class="up-next">
+          <div class="up-next-title">
+            <h1 class="up-next-header">Related Reviews</h1>
+            <hr class="up-next-rule">
+          </div>
           <div class="row">
           
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns main-link-small">
                 <a href="/content/2012/09/12/argo.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/argo.jpg" alt="TIFF: Argo" />
@@ -195,14 +202,15 @@
                 <a href="/content/2012/09/12/argo.html">
                   <div class="review-text">
                     <h1>TIFF: Argo</h1>
-                    <h2 class="addressee">Dear Max Daly, Researcher</h2>
+                    <h2 class="addressee">Dear Max Daly, <span class="mobile-line-break"><br /></span>Researcher</h2>
                     <h2 class="author">By Christopher Redmond</h2>
                   </div>
                 </a>
               </div>
           
+          
             
-              <div class="large-4 medium-4 columns">
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/09/25/blackbird.html">
                   <div class="post-image">
                     <img src="/img/article/thumb/blackbird.jpg" alt="TIFF: Blackbird" />
@@ -214,27 +222,27 @@
                 <a href="/content/2012/09/25/blackbird.html">
                   <div class="review-text">
                     <h1>TIFF: Blackbird</h1>
-                    <h2 class="addressee">Dear Keith Currie, Gun Wrangler</h2>
+                    <h2 class="addressee">Dear Keith Currie, <span class="mobile-line-break"><br /></span>Gun Wrangler</h2>
                     <h2 class="author">By Test Author</h2>
                   </div>
                 </a>
               </div>
           
             
-              <div class="large-4 medium-4 columns">
-                <a href="/content/2012/11/30/killing-them-softly.html">
+              <div class="large-4 medium-4 columns hide-for-small-only">
+                <a href="/content/2014/05/16/godzilla.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/killing-them-softly.jpg" alt="Killing Them Softly" />
+                    <img src="/img/article/thumb/godzilla.jpg" alt="Godzilla" />
                     <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /><img src="/img/global/star-white.svg" class="star-small" /></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue.svg" class="star-small" /><img src="/img/global/star-blue-half.svg" class="star-small" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2012/11/30/killing-them-softly.html">
+                <a href="/content/2014/05/16/godzilla.html">
                   <div class="review-text">
-                    <h1>Killing Them Softly</h1>
-                    <h2 class="addressee">Dear Philip J. Strina, Business and Legal Affairs</h2>
-                    <h2 class="author">By Christopher Redmond</h2>
+                    <h1>Godzilla</h1>
+                    <h2 class="addressee">Dear Yoshimitsu Banno, <span class="mobile-line-break"><br /></span>Executive Producer</h2>
+                    <h2 class="author">By Kelan Young</h2>
                   </div>
                 </a>
               </div>
@@ -311,20 +319,23 @@
     });
     </script>
       </div>
+
     </div>
 <div id="footer">
-      <footer class="mm-fixed-bottom">
-        <div class="footer">
-          <div class="footer-block">
-            <ul>
-                                  <li class="text"><a href="/reviews/">Reviews</a>
+        <footer class="mm-fixed-bottom">
+          <div class="footer">
+            <div class="row">
+              <div class="small-4 columns collapse">
+                <div>
+                  <ul>
+                                        <li class="text"><a href="/reviews/">Reviews.</a>
             <ul>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="/features/">Features</a>
+                    <li><a href="/features/">Features.</a>
             <ul>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
@@ -336,49 +347,54 @@
               <li><a href="#">Archive</a></li>
             </ul>
           </li> -->
-                    <li><a href="/about/">About</a>
+                    <li><a href="/about/">About.</a>
             <ul>
               <li><a href="/about/writers/">Writers</a></li>
               <li><a href="/about/contact/">Contact</a></li>
             </ul>
           </li>
-            </ul>
-          </div>
-          <div class="footer-block">
-            <h1 class="footer-head">Follow</h1>
-            <ul class="social">
-              <li class="social"><a class="social-twitter"></a></li>
-              <li class="social"><a class="social-facebook"></a></li>
-              <li class="social"><a class="social-letterboxd"></a></li>
-              <li class="social"><a class="social-rss"></a></li>
-            </ul>
-          </div>
-          <div class="footer-block no-border">
-            <h1 class="footer-head">Subscribe</h1>
-          <!-- Begin MailChimp Signup Form -->
-            <div id="mc_embed_signup">
-              <form action="//dearcastandcrew.us8.list-manage.com/subscribe/post?u=c5759767eda31141b0220d04a&amp;id=e7cdc6d7ce" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-              <div class="newsletter-signup">
-    <!--           	<label for="mce-EMAIL">Email Address </label> -->
-              	<input type="email" value="" name="EMAIL" class="required email left" id="mce-EMAIL" />
-              	<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+                  </ul>
+                </div>
               </div>
-              	<div id="mce-responses" class="clear">
-              		<div class="response" id="mce-error-response" style="display:none"></div>
-              		<div class="response" id="mce-success-response" style="display:none"></div>
-              	</div>
-              	<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                  <div style="position: absolute; left: -5000px;"><input type="text" name="b_c5759767eda31141b0220d04a_e7cdc6d7ce" tabindex="-1" value=""></div>
-              </form>
+              <div class="small-4 columns collapse">
+                <div>
+                  <h1 class="footer-head">Follow</h1>
+                  <ul class="social">
+                    <li class="social"><a class="social-twitter"></a></li>
+                    <li class="social"><a class="social-facebook"></a></li>
+                    <li class="social"><a class="social-letterboxd"></a></li>
+                    <li class="social"><a class="social-rss"></a></li>
+                  </ul>
+                </div>
+                <div class="footer-block no-border">
+                  <h1 class="footer-head">Subscribe</h1>
+                <!-- Begin MailChimp Signup Form -->
+                  <div id="mc_embed_signup">
+                    <form action="//dearcastandcrew.us8.list-manage.com/subscribe/post?u=c5759767eda31141b0220d04a&amp;id=e7cdc6d7ce" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                    <div class="newsletter-signup">
+          <!--           	<label for="mce-EMAIL">Email Address </label> -->
+                    	<input type="email" value="" name="EMAIL" class="required email left" id="mce-EMAIL" />
+                    	<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+                    </div>
+                    	<div id="mce-responses" class="clear">
+                    		<div class="response" id="mce-error-response" style="display:none"></div>
+                    		<div class="response" id="mce-success-response" style="display:none"></div>
+                    	</div>
+                    	<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                        <div style="position: absolute; left: -5000px;"><input type="text" name="b_c5759767eda31141b0220d04a_e7cdc6d7ce" tabindex="-1" value=""></div>
+                    </form>
+                  </div>
+                </div>
+              </div>
+              <div class="small-12 columns collapse">
+                <hr />
+                <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+              </div>
             </div>
           </div>
-          <span class="stretch"></span>
-          <hr />
-          <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
-        </div>
-<!--End mc_embed_signup-->
-      </footer>
-    </div>
+  <!--End mc_embed_signup-->
+        </footer>
+      </div>
   
   <!-- Search modal overlay -->
   
@@ -394,7 +410,7 @@
         <div class="entries">
         </div>
       </section>
-      <script type="text/javascript" src="/js/search.min.js"></script>
+      <script type="text/javascript" src="/js/search.min.js"></script> 
       
       <script id="search-results-template" class="search-results-template" type="text/mustache">
         {{#entries}}
@@ -456,11 +472,13 @@
       $('#nav-toggle').click(function(){
         $("#menu-left").trigger("open");
             $('#nav-button-container').css({'display':'none'});
-            $('#film-row').fadeOut('fast');
+            $('#film-info').fadeOut('fast');
+            $('#side-row').fadeOut('fast');
       });
       $('#menu-toggle-top').click(function(){
         $("#menu-left").trigger("open");
-        $('#film-row').fadeOut('fast');
+        $('#film-info').fadeOut('fast');
+        $('#side-row').fadeOut('fast');
       });
       $("#menu-left")
        .mmenu()
@@ -470,7 +488,8 @@
           function()
           {
             $('#nav-button-container').fadeIn('slow');
-            $('#film-row').fadeIn('slow');
+            $('#film-info').fadeIn('slow');
+            $('#side-row').fadeIn('slow');
             $('#body-text').waypoint(function(){
               $('#nav-button-container').css({'display':'none'});
             });
@@ -499,12 +518,14 @@
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    $(window).stellar({
-      horizontalScrolling: false,
-      verticalOffset: 0,
-      horizontalOffset: 0,
-  		hideDistantElements: false
-    });
+    if($(window).width() > 600){ 
+      $(window).stellar({
+        horizontalScrolling: false,
+        verticalOffset: 0,
+        horizontalOffset: 0,
+    		hideDistantElements: false
+      });
+    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

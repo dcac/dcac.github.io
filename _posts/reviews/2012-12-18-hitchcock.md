@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 imdb: tt0975645
 image: hitchcock.jpg
 author: test 

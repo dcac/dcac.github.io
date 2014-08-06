@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 imdb: tt1392170
 image: the-hunger-games.jpg
 author: christopherr

@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: the-book-thief.jpg
 imdb: tt0816442
 author: dig 

@@ -1,12 +1,12 @@
     <div class="row row-bottom-margin">
       <div class="section-title">
-        <h1>{{ page.section }}</h1>
+        <h1>{{ page.section }}.</h1>
         <section>
-          <ul class="section-right-nav">
-           <li class="section-right-nav"><a href="/reviews/"{% if page.title == "Reviews" %} class="current"{% endif %}>All Reviews</a></li>
-           <li class="section-right-nav"><a href="/reviews/current-releases/"{% if page.title == "Current Releases" %} class="current"{% endif %}>Current Releases</a></li>
-           <li class="section-right-nav"><a href="/reviews/streaming/"{% if page.title == "Streaming" %} class="current"{% endif %}>Streaming</a></li>
-           <li class="section-right-nav"><a href="/reviews/on-video/"{% if page.title == "On Video" %} class="current"{% endif %}>On Video</a></li>
+          <ul class="section-right-nav slash">
+           <li class="section-right-nav slash"><a href="/reviews/" {% if page.title == "Reviews" %} class="current"{% endif %}>All Reviews</a></li>
+           <li class="section-right-nav slash"><a href="/reviews/current-releases/" {% if page.title == "Current Releases" %} class="current"{% endif %}>Current Releases</a></li>
+           <li class="section-right-nav slash"><a href="/reviews/streaming/" {% if page.title == "Streaming" %} class="current"{% endif %}>Streaming</a></li>
+           <li class="section-right-nav"><a href="/reviews/on-video/" {% if page.title == "On Video" %} class="current"{% endif %}>On Video</a></li>
           </ul>
         </section>
       </div>

@@ -1,20 +1,19 @@
 ---
 published: true
-image: 
-imdb: 
+section: General
+image: how-i-live-now.jpeg
+imdb: tt1894476
 author: christopherr 
-stars: 
-excerpt: 
-position: 
-addressee: 
+stars: 3
+excerpt: "What's that old expression, \"Home is where the heart is\"? I'm more inclined to believe Robert Frost: \"Home is where, when you have to go there, they have to let you in.\""
+position: Accommodations Coordinator
+addressee: Nadia Luthera
 layout: review
 categories: reviews
 title: "How I Live Now"
 comments: true
 tags: [adaptation, coming of age, drama, Letters, U.K., world war 3, world war three, WW3, WWIII, YA, young aduklt]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/12/9/how-i-live-now.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7919/1386608657069/How%20I%20Live%20Now.jpg" alt="" /></a></span></span></p>
-<p><em><span style="font-size:130%;"><strong>Dear Nadia Luthera,</strong> Accommodations Coordinator,</span></em></p>
 <p>What&rsquo;s that old expression, &ldquo;Home is where the heart is&rdquo;? I&rsquo;m more inclined to believe Robert Frost: &ldquo;Home is where, when you have to go there, they have to let you in.&rdquo; And that seems to be the guiding principle behind your new film <em>How I Live Now</em>. On the surface, it&rsquo;s a survival story set during the outbreak of a third World War. But really, that&rsquo;s just the window dressing for a good old fashion coming-of-age tale. One that centers on a teenage girl finding her place in the world &ndash; literally, and figuratively. Though it&rsquo;s not always successful.</p>
 <p>Let&rsquo;s start with the literal part, since that&rsquo;s obviously your cup of tea.</p>
 <p>Saoirse Ronan plays Daisy, an American girl who is shipped off to stay with her relatives in the U.K.&nbsp; She lives in her own head, doing her best to block out the world with headphones clamped to her ears and a constant &ldquo;piss-off&rdquo; disposition. Director Kevin Macdonald tries to get us into Daisy&rsquo;s unruly headspace with rapid-fire overlapping voiceovers and the moody rock of <a href="http://amandapalmer.net/">Amanda Fucking Palmer</a>. As Daisy reluctantly makes her way through higher-than-normal airport security, she eventually gets to a serene house in the countryside. &nbsp;Of course, she can&rsquo;t see the beauty in her new home, though it&rsquo;s seductively shot on grainy film stock with deeply saturated colours. So she mopes around as her cousins swim and swing in blissful ignorance of the imploding world at large.</p>
@@ -24,4 +23,3 @@ tags: [adaptation, coming of age, drama, Letters, U.K., world war 3, world war t
 <p>Shouldn&rsquo;t you have helped them with that?</p>
 <p>Sincerely,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Standard Delivery (3/5)</em></strong></p></div>

@@ -1,20 +1,19 @@
 ---
 published: true
-image: 
-imdb: 
+section: General
+image: escape-from-tomorrow.jpg
+imdb: tt2187884
 author: christopherr 
-stars: 
-excerpt: 
-position: 
-addressee: 
+stars: 2
+excerpt: "Those are some mighty big balls you&rsquo;ve got.&nbsp; Like, cartoonishly big."
+position: Clearance Counsel
+addressee: Christopher L. Perez
 layout: review
 categories: reviews
 title: "Escape from Tomorrow"
 comments: true
 tags: [black and white, company, countdown, court, Disney, Escape from Tomorrow, independent, lawsuit, Letters, movie, sue, sued, Walter Disney]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/10/15/escape-from-tomorrow.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78e8/1381858494623/Escape%20from%20Tommorow.jpg" alt="" /></a></span></span></p>
-<p><em><span style="font-size:130%;"><strong>Dear Christopher L. Perez,</strong> Clearance Counsel,</span></em></p>
 <p>Those are some mighty big balls you&rsquo;ve got.&nbsp; Like, cartoonishly big. You&rsquo;re the one who ultimately told writer/director Randy Moore, sure, go ahead; risk a lawsuit from Disney &ndash; one of the most fiercely protected corporate identities in American history.&nbsp;</p>
 <p>But you didn&rsquo;t stop there.</p>
 <p>The <a href="http://escapefromtomorrow.com/">official website</a> for <em>Escape From Tomorrow</em> is throwing up a big middle finger at the notoriously litigious enterprise, featuring a big countdown clock titled &ldquo;number of hours since release that we haven&rsquo;t been sued&rdquo; (4 days, 13 hours, 41 minutes as of this posting). It&rsquo;s a dangerous game of chicken being played, but also a little transparent. You&rsquo;re obviously hoping a cease-and-desist order will allow you to market this as &ldquo;the film Disney doesn&rsquo;t want you to see!&rdquo;. Except it&rsquo;s more likely to be the film Disney doesn&rsquo;t care if you see, because it&rsquo;s just not that good.</p>
@@ -24,4 +23,3 @@ tags: [black and white, company, countdown, court, Disney, Escape from Tomorrow,
 <p>How&rsquo;s that for an indictment?</p>
 <p>Sincerely,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Return to Sender (2/5)</em></strong></p></div>

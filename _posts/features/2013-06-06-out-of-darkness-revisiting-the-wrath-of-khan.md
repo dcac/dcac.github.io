@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: 
 imdb: 
 author: jaredy 

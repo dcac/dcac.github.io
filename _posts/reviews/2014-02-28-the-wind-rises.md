@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 imdb: tt2013293
 image: the-wind-rises.jpg
 author: natm

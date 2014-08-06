@@ -3,7 +3,7 @@ layout: none
 ---
 {
   "posts" : [
-    {% for post in site.posts offset:10 limit:24  %}
+    {% for post in site.categories['reviews'] offset:10 limit:24  %}
     "{{ post.url }}"{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ]

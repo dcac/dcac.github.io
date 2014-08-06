@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 imdb: tt1480658
 image: eddie-the-sleepwalking-cannibal.jpg
 author: christopherr 

@@ -1,20 +1,19 @@
 ---
 published: true
-image: 
-imdb: 
+section: General
+image: thor-the-dark-world.jpg
+imdb: tt1981115
 author: jaredy 
-stars: 
-excerpt: 
-position: 
-addressee: 
+stars: 4
+excerpt: "It seems absurd to argue that an original idea can be expressed in a sequel to a film that is part of a contiguous cinematic universe based on a comic book series inspired by a pantheon of mythological characters born from a millennia-old pagan religion."
+position: Concept Artist
+addressee: Magdalena Kusowska
 layout: review
 categories: reviews
 title: "Thor: The Dark World"
 comments: true
 tags: [Uncategorized]
 ---
-<div><p><span class="full-image-block ssNonEditable"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7901/1383925070977/Thor%20The%20Dark%20World.jpg" alt="" /></span></p>
-<p><em style="font-size:120%;"><span style="font-size:120%;"><strong>Dear Magdalena Kusowska, </strong>Concept Artist,</span></em></p>
 <p>It seems absurd to argue that an original idea can be expressed in a sequel to a film that is part of a contiguous cinematic universe based on a comic book series inspired by a pantheon of mythological characters born from a millennia-old pagan religion. And perhaps even more absurd when one actually sits down to watch <em>Thor: The Dark World</em>. From the very beginning, with its epic, overbearing prologue and charging digital armies, it&rsquo;s clear that this is not a flick that cares much for bending the rules of blockbuster filmmaking (it seems nervous, in fact, to even brush up against them). Everything unfolds as you might assume. Everything turns out like you might predict. And, at first glance, everything looks like exactly like you&rsquo;d expect it to look.</p>
 <p>But there&rsquo;s something tricky about this second <em>Thor</em> movie (or third, if you count <a href="/letters/2012/5/10/the-avengers.html"><em>The Avengers</em></a>). As much as it feels the same as everything else, it&rsquo;s different. And as much as it looks just like all the other big-budget comic book fantasies, it doesn&rsquo;t. Somehow, here in dreary November, we&rsquo;re getting the bombastic, self-aware, fun and colorful blockbuster we were waiting for all summer.</p>
 <p>How did you do it, Magdalena?</p>
@@ -25,4 +24,3 @@ tags: [Uncategorized]
 <p>Sure, it doesn&rsquo;t make sense. Yeah, we&rsquo;ve seen it all before. But nonsense and sameness, when correctly applied, can be virtues for this sort of populist art. It just takes a real artist to bring those concepts to life. &nbsp;</p>
 <p>Sincerely,&nbsp;</p>
 <p>Jared Young</p>
-<p><strong>Status: Air Mail (4/5)&nbsp;</strong></p></div>

@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 imdb: tt0938330
 image: silent-hill-revelation.jpg
 author: christopherr 

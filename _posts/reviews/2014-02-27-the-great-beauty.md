@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 imdb: tt2358891
 image: the-great-beauty.jpg
 author: christopherr

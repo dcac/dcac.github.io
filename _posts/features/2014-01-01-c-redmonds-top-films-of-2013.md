@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 categories:
   - features
   - lists

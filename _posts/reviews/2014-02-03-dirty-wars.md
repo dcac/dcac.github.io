@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 layout: review
 categories: reviews
 title: Dirty Wars

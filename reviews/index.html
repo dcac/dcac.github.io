@@ -11,38 +11,35 @@ layout: default
       <div class="row posts-grid" id="posts-grid">
         {% for post in paginator.posts %}
           {% assign author = site.data.authors[post.author] %}
-         <div class="section-post large-4 medium-4 columns left{% if forloop.last %} end{% endif %}">
-          <a href="{{ post.url }}" class="thumbnail"><img src="/img/article/thumb/{{ post.image }}" alt="{{ post.title }}" /></a>
-          <a href="{{ post.url }}">
-            <div class="section-review-text">
-              <h1>{{ post.title }}</h1>
-              <h2 class="star-rating">{% for i in (1..post.stars) %}<i class="fa fa-star"></i>{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<i class="fa fa-star-half-o"></i>{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<i class="fa fa-star-o"></i>{% endfor %}{% endif %}</h2>
-              <h2 class="author">By {{ author.name}}</h2>
-            </div>
-          </a>
+         <div class="section-post large-4 medium-4 small-6 columns left{% if forloop.last %} end{% endif %}">
+          {% include post-grid/post.html %}
         </div>
         {% endfor %}
       </div>
-      <div class="row center">
+      <div class="pagination-centered">
         <ul class="pagination">
+          {% if paginator.previous_page %}
+            {% if paginator.previous_page == 1%}
+            <li><a href="{{ paginator.previous_page_path }}" class="previous"><span class="left-arrow-on"></span></a></li>
+            {% else %}
+            <li><a href="/{{ page.category }}/{{ paginator.previous_page_path }}" class="previous"><span class="left-arrow-on"></span></a></li>
+            {% endif %}
+          {% else %}
+            <li><span class="left-arrow-off"></span></li>
+          {% endif %}
             {% for page in (1..paginator.total_pages) %}
             {% if page == paginator.page %}
-              <li class="current">{{ page }}</li>
+              <li class="current"><a href="#">{{ page }}</a></li>
             {% elsif page == 1 %}
               <li><a href="/reviews/">{{ page }}</a></li>
             {% else %}
               <li><a href="/reviews/page{{ page }}/">{{ page }}</a></li>
             {% endif %}
           {% endfor %}
-          {% if paginator.previous_page %}
-            <li><a href="/{{ page.category }}/{{ paginator.previous_page_path }}" class="previous"><i class="fa fa-step-backward"></i></a></li>
-          {% else %}
-            <li class="previous off"><i class="fa fa-step-backward"></i></li>
-          {% endif %}
           {% if paginator.next_page %}
-            <li><a href="/{{ page.category }}/{{ paginator.next_page_path }}" class="next"><i class="fa fa-step-forward"></i></a></li>
+            <li><a  href="/{{ page.category }}/{{ paginator.next_page_path }}"><span class="right-arrow-on"></span></a></li>
           {% else %}
-            <li class="next off"><i class="fa fa-step-forward"></i></li>
+            <li><span class="right-arrow-off"></span></li>
           {% endif %}
         </ul>
       </div>

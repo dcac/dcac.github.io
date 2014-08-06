@@ -1,20 +1,19 @@
 ---
 published: true
-image: 
-imdb: 
+section: General
+image: gabrielle.jpg
+imdb: tt3106846
 author: christopherr 
-stars: 
-excerpt: 
-position: 
-addressee: 
+stars: 3.5
+excerpt: "I know you're no ordinary guy, regardless of what you claimed in your 1971 hit single"
+position: Special Appearance Maker
+addressee: Robert Charlebois
 layout: review
 categories: reviews
 title: "Gabrielle"
 comments: true
 tags: [Canadian, drama, Gabrielle, Letters, mentally challenged, Quebec, Robert Charlebois]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/10/23/gabrielle.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78f0/1382535940557/Gabrielle.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Robert Charlebois,</strong> Special Appearance Maker,</em></p>
 <p>I know you&rsquo;re no ordinary guy, regardless of what you claimed in your 1971 hit single.</p>
 <p>Except &ldquo;ordinary&rdquo; is a hard word to define, as we see in Louise Archambault&rsquo;s sophomore feature <em>Gabrielle</em>. For you, it probably means being humble, easy-to-please, and relatable&mdash;all despite your superstar status in la belle province. But it&rsquo;s a little more complicated for intellectually-challenged adults, like the characters in this unassuming, poignant drama. Which is why it&rsquo;s too bad you stole their thunder.</p>
 <p>You see, for all the film&rsquo;s virtues, Archambault makes a critical miscalculation in how she uses you. Initially, you&rsquo;re introduced as motivation for Gabrielle (Gabrielle Marion-Rivard), Martin (Alexandre Landry), and the other members of the choral group Les Muses de Montreal. With <em>Waiting for Guffman</em> anxiety, the group of developmentally-challenged singers practice your song <em>Ordinaire</em>, alternating lines and humming the chorus together. Their goal is to perform a rendition worthy of your company; to create a collaboration that doesn&rsquo;t feel like a charity case. It&rsquo;s an easy metaphor that represents the inherent themes of the whole film. But it doesn&rsquo;t unfold quite as gracefully as it should.</p>
@@ -25,4 +24,3 @@ tags: [Canadian, drama, Gabrielle, Letters, mentally challenged, Quebec, Robert 
 <p>Otherwise, really enjoyed the show.</p>
 <p>Sincerely,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Air Mail (3.5/5)</em></strong></p></div>
