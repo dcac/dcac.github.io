@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt1232829
 image: 21-jump-street.jpg
 author: jaredy 

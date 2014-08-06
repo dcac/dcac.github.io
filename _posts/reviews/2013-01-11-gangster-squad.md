@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt1321870
 image: gangster-squad.jpg
 author: christopherr

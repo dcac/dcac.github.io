@@ -1,19 +1,20 @@
 ---
 published: true
-section: General
-image: captain-phillips.jpg
-imdb: tt1535109
+image: 
+imdb: 
 author: jaredy 
-stars: 3.5
-excerpt: "Anyone who has battled rush hour traffic knows how difficult the seemingly simple task of getting from one point to another can be."
-position: Transportation Captain
-addressee: Chris Basso
+stars: 
+excerpt: 
+position: 
+addressee: 
 layout: review
 categories: reviews
 title: "Captain Phillips"
 comments: true
 tags: [Oscars 2014, Uncategorized]
 ---
+<div><p><span class="full-image-block ssNonEditable"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78ea/1382124465079/captain-phillips.jpg" alt="" /></span></p>
+<p><em style="font-size:130%;"><strong style="font-size:90%;">Dear Chris Basso, Transportation Captain,</strong></em></p>
 <p>Anyone who has battled rush hour traffic knows how difficult the seemingly simple task of getting from one point to another can be. Though the complexity and stress of the situation for someone like you &ndash; responsible for organizing and overseeing the daily commute of cast and crew to and from location &ndash; is tenfold. And it all pales in comparison to the maritime detour taken by Richard Phillips, captain of the Alabama Maersk, who, in 2008, found himself the captive of Somali pirates after a failed hijacking attempt.</p>
 <p>Paul Greengrass&rsquo;s dramatization of the kidnapping (and ensuing military intervention) is replete with those themes and tropes that now feel essential to the Greengrassian aesthetic: ordinary folks in extraordinary situations (<em>United 93</em>), government agents in screen-filled bunkers communicating through headsets in esoteric military jargon (the latter Bourne films), and American everymen navigating exotic and dangerous foreign cultures (<em>Green Zone</em>).</p>
 <p>In those films, and particularly in this one, Greengrass labours to balance the tension between the simple requirements of drama &ndash; conflict, stakes, change &ndash; and the restless <em>verit&eacute;</em> lens through which he shoots it all.</p>
@@ -24,3 +25,5 @@ tags: [Oscars 2014, Uncategorized]
 <p>Ultimately &ndash; though it strains a little too hard in the last act to keep the tension high &ndash; <em>Captain Phillips</em> manages that balance between authenticity and drama well. It gets to where it needs to go, and does it without meandering too far off course. Which is something, Captain Basso, I&rsquo;m sure you can appreciate.</p>
 <p>Sincerely,</p>
 <p>Jared Young&nbsp;</p>
+<p><strong><em>Status: Air Mail (3.5/5)</em></strong></p>
+<p>&nbsp;</p></div>

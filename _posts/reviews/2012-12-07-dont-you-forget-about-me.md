@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt1331095
 image: dont-you-forget-about-me.jpg
 author: christopherr

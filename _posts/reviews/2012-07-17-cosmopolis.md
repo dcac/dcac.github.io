@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt1480656
 image: cosmopolis.jpg
 author: christopherr 

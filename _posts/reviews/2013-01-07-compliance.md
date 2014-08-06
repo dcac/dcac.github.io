@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt1971352
 image: compliance.jpg
 author: christopherr 

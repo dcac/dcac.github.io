@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt0948470
 image: the-amazing-spider-man.jpg
 author: caseyt

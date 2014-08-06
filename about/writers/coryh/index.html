@@ -1,0 +1,56 @@
+---
+css: home.css
+section: About
+author: coryh
+Title: Cory Haggart
+section: About
+layout: default
+---
+    {% include top-nav.html %}
+      {% include about-nav.html %}
+      <div class="row writer-bio" id="writer-bio">
+        <section id="bio">
+          <h1>{{ author.name }}</h1>
+          <p>{{ author.bio }}</p>
+        </section>
+      </div>
+      {% if page == 1 %}
+      {% endif %}
+      <div class="row posts-grid" id="posts-grid">
+        {% for post in paginator.posts %}
+        {% assign author = site.data.authors[post.author] %}
+         <div class="section-post large-3 medium-3 columns{% if forloop.last %} end{% endif %}">
+          <a href="{{ post.url }}" class="thumbnail"><img src="/img/article/thumb/{{ post.image }}" alt="{{ post.title }}" /></a>
+          <a href="{{ post.url }}">
+            <div class="section-review-text">
+              <h1>{{ post.title }}</h1>
+              <h2 class="star-rating">{% for i in (1..post.stars) %}<i class="fa fa-star"></i>{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<i class="fa fa-star-half-o"></i>{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<i class="fa fa-star-o"></i>{% endfor %}{% endif %}</h2>
+              <h2 class="author">By {{ author.name }}</h2>
+            </div>
+          </a>
+        </div>
+        {% endfor %}
+      </div>
+      <div class="row center">
+        <ul class="pagination">
+            {% for page in (1..paginator.total_pages) %}
+            {% if page == paginator.page %}
+              <li class="current">{{ page }}</li>
+            {% elsif page == 1 %}
+              <li><a href="/about/writers/coryh/">{{ page }}</a></li>
+            {% else %}
+              <li><a href="/about/writers/coryh/page{{ page }}/">{{ page }}</a></li>
+            {% endif %}
+          {% endfor %}
+          {% if paginator.previous_page %}
+            <li><a href="/about/writers/coryh{{ paginator.previous_page_path }}" class="previous"><i class="fa fa-step-backward"></i></a></li>
+          {% else %}
+            <li class="previous off"><i class="fa fa-step-backward"></i></li>
+          {% endif %}
+          {% if paginator.next_page %}
+            <li><a href="/about/writers/coryh{{ paginator.next_page_path }}" class="next"><i class="fa fa-step-forward"></i></a></li>
+          {% else %}
+            <li class="next off"><i class="fa fa-step-forward"></i></li>
+          {% endif %}
+        </ul>
+      </div>

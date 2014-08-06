@@ -1,19 +1,20 @@
 ---
 published: true
-section: General
-image: all-is-lost.jpg
-imdb: tt2017038
+image: 
+imdb: 
 author: jaredy 
-stars: 4
-excerpt: "You wouldn't think it, but there's a rich cinematic history of shark-chumming."
-position: Shark Chum Thrower
-addressee: Avery Bederman
+stars: 
+excerpt: 
+position: 
+addressee: 
 layout: review
 categories: reviews
 title: "All is Lost"
 comments: true
 tags: [Oscars 2014, Uncategorized]
 ---
+<div><p><span class="full-image-block ssNonEditable"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78f5/1382710263057/all-is-lost.jpg" alt="" /></span></p>
+<p><span style="font-size:120%;"><em><strong>Dear Avery Bederman,</strong> Shark Chum Thrower,</em></span></p>
 <p>You wouldn&rsquo;t think it, but there&rsquo;s a rich cinematic history of shark-chumming. Most famously, Roy Scheider at the stern of the <em>Orca</em>, <a href="http://www.youtube.com/watch?v=2I91DJZKRxs">scooping blood and guts into the ocean</a> (and, most infamously, Samuel L. Jackson <a href="http://www.youtube.com/watch?v=yMwmqp3GLMc">chumming the air with motivational rhetoric</a>). But, unlike <em>Jaws</em> and <em>Deep Blue Sea</em>, the new flick for which you chummed, <em>All is Lost</em>, isn&rsquo;t a shark flick. The danger, here, is a bit more abstract.</p>
 <p>At first glance it might seem, with its nautical themes and everyman-against-the-odds plotline, is the <em>Volcano</em>-versus-<em>Dante&rsquo;s Peak</em> companion piece to the fall&rsquo;s other seafaring thriller, <a href="/letters/2013/10/18/captain-phillips.html"><em>Captain Phillips</em></a>. But the current film to which it bears a much more striking resemblance is <a href="/letters/2013/10/4/gravity.html"><em>Gravity</em></a>. Like Alfonso Cuaron&rsquo;s outer-space amusement park ride, nature is the antagonist&mdash;though in<em> All is Lost </em>it&rsquo;s not an absence of physical force against which our cast-adrift hero struggles, rather a preponderance of it.</p>
 <p>And, yes, that physical force takes form, eventually, in a school of circling sharks. Which I suppose we can thank you for inviting to the party with your skillful dissemination of chopped-up fish entrails.</p>
@@ -26,3 +27,4 @@ tags: [Oscars 2014, Uncategorized]
 <p>Whatever maudlin message he might have found inside that envelope stays there. Chandor doesn&rsquo;t need to bloody the water with sentimentality to make us care. He earns it the old-fashioned way.</p>
 <p>Sincerely,</p>
 <p>Jared Young</p>
+<p><strong><em>Status: Air Mail (4/5)&nbsp;</em></strong></p></div>

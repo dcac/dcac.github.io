@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt2172934
 layout: review
 categories: 

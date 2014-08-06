@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt2852470
 image: the-missing-picture.jpg
 author: Cristopher Redmond

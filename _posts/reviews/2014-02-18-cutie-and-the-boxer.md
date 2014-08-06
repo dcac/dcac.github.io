@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt2355540
 image: cutie-and-the-boxer.jpg
 author: jenniferm

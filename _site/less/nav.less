@@ -2,16 +2,9 @@
   #page nav {
     display: none;
 }
-  .full-white{
+  .full-black{
     width: 100%;
     background-color: @white;
-    @media @mobile{
-      display:none;
-    }
-  }
-  .full-grey{
-    width: 100%;
-    background-color: #e6e7e8;
     @media @mobile{
       display:none;
     }
@@ -33,7 +26,7 @@
     width: 100%;
   }
   a.logo-link{
-    background: transparent @logo-xl-white no-repeat 0;
+    background: @white @logo-xl-white no-repeat 0;
     background-size: cover;
     height: @1px*70;
     width:@1px*164;
@@ -70,34 +63,31 @@
   }
   .section-title{
     width: 100%;
+    border-bottom: @1px solid black;
     position: relative;
     margin-top: @1px*45;
-    //margin-bottom: @1px*45;
-    @media @mobile{
-      margin-top: @1px*85;
-    }
   }
   .section-title h1{
-    font-size: @1px*24;
-    //line-height: @1px*24;
+    font-size: @text-large;
+    line-height: @1px*24;
     font-family: @sans-serif;
     font-weight: 700;
-    color: #000;
+    color: @dark-grey;
     display: block;
     text-align: left;
     margin: 0;
-    padding-left: @15px;
+    margin-bottom: @5px;
   }
   .mini-top-nav-hidden{
-    display:block;
-    position: fixed;
+    display:hidden;
+    position: absolute;
     top:-(@1px*50);
     width:100%;
-    .animation;
-    z-index: 5;
     @media @mobile{
+      display:block;
+      margin-top:0;
       top:0;
-      .animation(0);
+      position:fixed;
     }
   }  
   .mini-top-nav-visible{
@@ -127,20 +117,13 @@
 .top-bar-section{
   background: transparent;
 }
-.top-bar-section ul{
-  @media @mobile{
-    width: auto;
-height: auto !important;
-display: inline;
-  }
-}
   .dcac-logo{
     background: url('../img/global/dcac-logo.svg') 0 no-repeat;
     display: block;
   }
   .top-bar .name{
     height:35px;
-    width:45px;
+    width:35px;
     margin-left: 5px;
     margin-top: 5px;
   }

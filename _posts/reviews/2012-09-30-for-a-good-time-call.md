@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt1996264
 image: for-a-good-time-call.jpg
 author: coryh

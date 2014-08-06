@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt2626102
 image: takedown-the-dna-of-gsp.jpg
 author: christopherr

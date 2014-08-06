@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt1462769
 image: the-odd-life-of-timothy-green.jpg
 author: christopherr

@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt1382728
 image: the-phantom-father.jpg
 author: caseyt 

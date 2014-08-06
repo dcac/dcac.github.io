@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt1720616
 image: friends-with-kids.jpg
 author: Tiffany Little Canfield

@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt0837562
 image: hotel-transalvania.jpg
 author: coryh

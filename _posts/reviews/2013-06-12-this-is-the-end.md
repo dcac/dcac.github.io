@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt1245492
 image: this-is-the-end.jpeg
 author: test 

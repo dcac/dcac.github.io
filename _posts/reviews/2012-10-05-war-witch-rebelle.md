@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt1820488
 image: war-witch.jpg
 author: christopherr

@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 image: jack-ryan-shadow-recruit.jpg
 imdb: tt1205537
 author: coryh 

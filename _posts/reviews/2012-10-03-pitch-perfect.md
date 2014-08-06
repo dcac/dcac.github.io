@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt1981677
 image: pitch-perfect.jpg
 author: christopherr

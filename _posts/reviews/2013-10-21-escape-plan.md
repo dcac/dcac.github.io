@@ -1,19 +1,20 @@
 ---
 published: true
-section: General
-image: escape-plan.jpg
-imdb: tt1211956
+image: 
+imdb: 
 author: jaredy 
-stars: 3
-excerpt: "The efficacy of the escape plan at the heart of <em>Escape Plan</em> hinges on an important choice made by one of the supporting characters, a prison doctor played by Sam Neill."
-position: "Assistant Property Master, Second Unit"
-addressee: lixandra Petrovich
+stars: 
+excerpt: 
+position: 
+addressee: 
 layout: review
 categories: reviews
 title: "Escape Plan"
 comments: true
 tags: [action, arnold schwarzenegger, crime, Letters, prison, sylvester stallone]
 ---
+<div><p><em><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/10/21/escape-plan.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78ec/1382364995016/escape-plan.jpg" alt="" /></a></span></span><span style="font-size:120%;"><strong></strong></span></em></p>
+<p><em><span style="font-size:120%;"><strong>Dear Alixandra Petrovich,</strong> Assistant Property Master, Second Unit,</span></em></p>
 <p>The efficacy of the escape plan at the heart of <em>Escape Plan</em> hinges on an important choice made by one of the supporting characters, a prison doctor played by Sam Neill. We get a scene of him late at night, sitting alone at his desk, throwing back a shot of whiskey, peering with tired and troubled eyes at one of your props: an open book. When he closes the book (having come, we assume, to a difficult compromise), we a cut to a close-up of the cover. The title of the tome he&rsquo;s been contemplating? <em>Medical Ethics</em>.</p>
 <p>This says pretty much everything you need to know about this Stallone/Schwarzenegger prison-break shoot-em-up. It&rsquo;s simple. Simple to the point of being stupid. Case in point: 50 Cent plays a computer hacker.</p>
 <p>But it&rsquo;s more than that. The one-liners are sub-puerile, the characters zero-dimensional, and the plot twists (identities revealed, traitors uncovered) feel like surprises the same way buying yourself a Christmas gift feels like a surprise; you may briefly forget that you ordered it, but when it arrives you know exactly what&#8217;s in the box.</p>
@@ -25,3 +26,4 @@ tags: [action, arnold schwarzenegger, crime, Letters, prison, sylvester stallone
 <p>I guess that&rsquo;s the trick to enjoying <em>Escape Plan</em>: accept that it isn&rsquo;t interested in exploring ethics any further than showing it on the cover of a book, and just go along for the ride.</p>
 <p>Sincerely,</p>
 <p>Jared Young</p>
+<p><strong><em>Status: Standard Delivery (3/5)</em></strong></p></div>

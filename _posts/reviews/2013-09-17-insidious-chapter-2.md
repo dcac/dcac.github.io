@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 image: 
 imdb: 
 author: test 

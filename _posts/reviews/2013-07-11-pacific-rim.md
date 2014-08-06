@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt1663662
 image: pacific-rim.jpg
 author: Cory Hagart

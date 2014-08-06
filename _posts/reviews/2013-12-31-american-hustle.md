@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 image: american-hustle.jpg
 author: caseyt
 stars: 3.5

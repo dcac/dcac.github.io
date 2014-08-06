@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 image: philomena.jpg
 imdb: tt2431286
 author: jenniferm 

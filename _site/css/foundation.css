@@ -2751,16 +2751,16 @@ label.error {
 
 ul.pagination {
   display: block;
-  min-height: 2.8125rem;
+  min-height: 1.5rem;
   margin-left: -0.3125rem; }
   ul.pagination li {
     height: 1.5rem;
     color: #222;
-    font-size: 0.75rem;
-    margin-left: 0.125rem; }
+    font-size: 0.875rem;
+    margin-left: 0.3125rem; }
     ul.pagination li a, ul.pagination li button {
       display: block;
-      padding: 0.0625rem 0.3125rem 0.0625rem;
+      padding: 0.0625rem 0.625rem 0.0625rem;
       color: #999;
       background: none;
       border-radius: 3px;
@@ -2776,8 +2776,8 @@ ul.pagination {
     ul.pagination li.unavailable:hover a, ul.pagination li.unavailable a:focus, ul.pagination li.unavailable:hover button, ul.pagination li.unavailable button:focus {
       background: transparent; }
     ul.pagination li.current a, ul.pagination li.current button {
-      background: transparent;
-      color: #000;
+      background: #008CBA;
+      color: #fff;
       font-weight: bold;
       cursor: default; }
       ul.pagination li.current a:hover, ul.pagination li.current a:focus, ul.pagination li.current button:hover, ul.pagination li.current button:focus {

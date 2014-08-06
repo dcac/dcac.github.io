@@ -4,21 +4,19 @@ layout: default
      {% include top-nav.html %}
 {% assign author = site.data.authors[page.author] %}
       <section>
-        <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %});" data-stellar-background-ratio=".25"></div>
-          <div class="row">
-            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
+        <div id="story-title" class="title-info" data-equalizer>
+          <div class="title-img" style="background-image:url(/img/article/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | downcase | replace: ' ','-' | replace: '\'',''}}.jpg{% endif %});" data-stellar-background-ratio=".25"></div>
+          <div class="row" data-equalizer-watch >
+            <div class="large-4 medium-4 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
               <div class="review-status">
-                <div class="title-block">
-                  <h1 class="hero">{{ page.title }}</h1>
-                  <h2 class="hero-author">
-                    By {% if author.profiled %}<a href="/about/writers/{{ page.author }}">{% endif %}{{ author.name }}{% if author.profiled %}</a>{% endif %}
-                  </h2>
-                  <h2 class="hero-date">
-                    Mailed on {{ page.date | date: "%B %d, %Y" }}
-                  </h2>
-                  <hr class="title-divider" />
-                </div>
+                <h1 class="hero">{{ page.title }}</h1>
+                <h2 class="hero-author">
+                  By {% if author.profiled %}<a href="/about/writers/{{ page.author }}">{% endif %}{{ author.name }}{% if author.profiled %}</a>{% endif %}
+                </h2>
+                <h2 class="hero-date">
+                  Mailed on {{ page.date | date: "%B %d, %Y" }}
+                </h2>
+                <hr class="title-divider" />
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" />
                 {% if page.stars < 1.5 %}Junk<br />Mail{% elsif page.stars >= 1.5 and page.stars < 2.5 %}Return to<br />Sender{% elsif page.stars >= 2.5 and page.stars < 3.5 %}Standard<br />Delivery{% elsif page.stars >= 3.5 and page.stars < 4.5  %}Air<br />Mail{% elsif page.stars >= 4.5 %}Priority<br />Post{% endif %}<br />
@@ -28,10 +26,10 @@ layout: default
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
+            <div class="large-8 medium-8 columns collapse" data-equalizer-watch data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee">Dear {{ page.addressee }}</span><br />
-                  {% assign positionSize = page.position | size %}{% if positionSize > 25 %}<span class="position-small-txt">{% else %}<span class="position">{% endif %}{{ page.position }}</span>
+                  <span class="position">{{ page.position }}</span>
                 </h3>
               </div>
             </div>
@@ -47,25 +45,15 @@ layout: default
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro hide-for-small">Dear {{ page.addressee }},</p>
+            <p class="intro">Dear {{ page.addressee }},</p>
             {{ content | replace_first: '<p>','<p class="intro">' }}
           </div>
         </div>
         <div id="up-next" class="up-next">
-          <div class="up-next-title">
-            <h1 class="up-next-header">Related Reviews</h1>
-            <hr class="up-next-rule">
-          </div>
           <div class="row">
-          {% for post in site.related_posts limit: 1 %}
+          {% for post in site.related_posts limit: 3 %}
             {% assign author = site.data.authors[post.author] %}
-              <div class="large-4 medium-4 columns main-link-small">
-                {% include post-grid/post.html %}
-              </div>
-          {% endfor %}
-          {% for post in site.related_posts offset: 1 limit: 2 %}
-            {% assign author = site.data.authors[post.author] %}
-              <div class="large-4 medium-4 columns hide-for-small-only">
+              <div class="large-4 medium-4 columns">
                 {% include post-grid/post.html %}
               </div>
           {% endfor %}

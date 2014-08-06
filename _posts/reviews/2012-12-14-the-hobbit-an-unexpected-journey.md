@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt0903624
 image: the-hobbit-an-unexpected-journey.jpg
 author: caseyt 

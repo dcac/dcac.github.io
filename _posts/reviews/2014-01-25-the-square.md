@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 image: the-square.jpg
 imdb: tt2486682
 author: test 

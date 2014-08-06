@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt1568921
 image: the-secret-world-of-arrietty.jpg
 author: test 

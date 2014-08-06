@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt1670345
 image: now-you-see-me.jpg
 author: christopherr 

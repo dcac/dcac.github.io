@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 image: resolution.jpg
 imdb: tt1977895
 author: kelany 

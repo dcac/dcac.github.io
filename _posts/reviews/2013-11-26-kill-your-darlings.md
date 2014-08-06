@@ -1,19 +1,20 @@
 ---
 published: true
-section: General
-image: kill-your-darlings.jpg
-imdb: tt1311071 
+image: 
+imdb: 
 author: erinc 
-stars: 2
-excerpt: "Capturing the youthful rebellions of another time on film is tricky. The things that once felt dangerous and subversive turn quaint as they become our parents and grandparents' eras."
-position: Music Supervisor
-addressee: Randall Poster
+stars: 
+excerpt: 
+position: 
+addressee: 
 layout: review
 categories: reviews
 title: "Kill Your Darlings"
 comments: true
 tags: [based on a true story, bio, drama, inspired by, Kill Your Darlings, story, true, Uncategorized]
 ---
+<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/11/26/kill-your-darlings.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7911/1385475251463/Kill%20Youe%20Darlings.jpg" alt="" /></a></span></span></p>
+<p><span style="font-size:130%;"><em><strong>Dear Randall Poster</strong>, Music Supervisor,</em></span></p>
 <p>Capturing the youthful rebellions of another time on film is tricky.&nbsp; The things that once felt dangerous and subversive turn quaint as they become our parents and grandparents&rsquo; eras. By the time we hit great-grandparents, well, it&rsquo;s hard to separate the rebels from the squares amongst all the period costumes and sets.&nbsp; So it&rsquo;s probably tempting to take a shortcut by giving modern audiences something familiar to grasp onto rather than doing a lot of world building. Too bad you gave in to this temptation by leaning on music from bands like TV On The Radio and Bloc Party to make-up for the faults in this mid-1940&rsquo;s set film.&nbsp;</p>
 <p>Sure, if you were working with a director like Baz Luhrman, you could get away with it. But Luhrman is a magpie &ndash; he&rsquo;s constructing his world out of those pieces. The mash-up is the point.&nbsp; Unfortunately, in <em>Kill Your Darlings</em>, director John Krokidas seems to be asking something different of your soundtrack &ndash; he wants the jazz for the period feel, the classical music to show that his characters are intellectual, and the alt-pop to give them a more modern edge. &nbsp;It ends up being a bad mix, with those contemporary songs belonging on an angsty teen TV show rather than a literary drama.</p>
 <p>Based on an actual 1944 murder involving friends of the college-age pre-Beat writers, Allen Ginsberg, Jack Kerouac and William S. Burroughs, <em>Kill Your Darlings</em> is also meant to show the birth of a literary movement that resonated for decades.&nbsp; Daniel Radcliffe at least does a good job of conveying the evolution of Ginsberg&rsquo;s sexuality and writing style, things that would set him on the fringes of his society.</p>
@@ -23,3 +24,4 @@ tags: [based on a true story, bio, drama, inspired by, Kill Your Darlings, story
 <p>If Krokidas had trusted his actors and story more the movie might have had a chance to sing.&nbsp;</p>
 <p>Sincerely,</p>
 <p>Erin</p>
+<p><strong><em>Status: Return to Sender (2/5)</em></strong></p></div>

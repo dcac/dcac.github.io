@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 image: lone-survivor.jpg
 imdb: tt1091191
 author: christopherr 

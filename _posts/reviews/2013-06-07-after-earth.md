@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt1815862
 image: after-earth.jpg
 author: caseyt

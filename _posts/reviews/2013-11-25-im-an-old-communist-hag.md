@@ -1,11 +1,10 @@
 ---
 published: true
-section: General
-image: im-an-old-communist-hag.jpg
-imdb: tt3150858
+image: 
+imdb: 
 author: jaredy 
 stars: 4
-excerpt: "Your specter looms large over modern-day Romanian life in Stere Gulea's new film I'm an Old Communist Hag."
+excerpt: 
 position: Former Dictator
 addressee: Nicolae Ceausescu 
 layout: review

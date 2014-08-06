@@ -23,7 +23,7 @@ exclude_from_upload:
     - bower.json
     - config.codekit
     - config.rb
- #   - less
+    - less
     - scss
 #    - bower_components
 

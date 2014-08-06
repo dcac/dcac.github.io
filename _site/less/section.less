@@ -1,82 +1,56 @@
 /* Section titles and Nav */
   
   ul.section-right-nav {
+  line-height: 1;
     list-style: none;
     display: inline;
     position: absolute;
     right:0;
     bottom: 0;
-    margin-bottom: 0;
-    right: @15px;
-    @media @mobile{
-      display: none;
-    }
+    margin-bottom: 5px;
   }
   li.section-right-nav{
-    font-size: @1px*20;
-    font-family: @sans-serif;
-    color: #000;
-    font-weight: 500;
+    font-size: 14pt;
+    font-family: "Helvetica Neue", sans-serif;
+    color: #333;
+    font-weight: 200;
     text-align: left;
-    padding-left: 15px;
-    margin-right: 5px;
+    margin-left: 10px;
     list-style: none;
     display: inline;
-    margin-bottom: -5px;
-    background: url('../img/global/slash.svg') 0 -3px no-repeat;
-    @media @medium{
-      font-size: @1px*16;
-    }
-  }
-  li.section-right-nav:first-child{
-    background:none
+    margin-bottom: 0;
   }
   li.section-right-nav a{
     display: inline;
-    color:#000;
+    color:#999;
   }
   
   li.section-right-nav a:hover,li.section-right-nav a.current{
     display: inline;
-    color:#000;
-    border-bottom: 5px solid #d1d3d4;
+    color:#333;
   }
-
   .section-grid{
     height: auto;
   }
   .section-post{
-    .review-block(@1px*25,@1px*250);
-    @media @medium{
-      .review-block(@1px*25,@1px*230);
-    }
-    @media @mobile{
-      .review-block(@15px,@1px*200);
-      //margin-top: 40px;
-    }
+    min-height: 275px;
+    margin-bottom: 25px;
   }
-  div.section-post h1{
-  .review-grid-head;
-    @media @mobile{
-    .review-grid-head-mobile(@1px*16;@1px*14);
-    }
-  } 
+  div.section-review-text h1{
+    font-size:12pt;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 5px;
+  }
   div.section-review-text h2{
     font-size:10pt;
     color: #333;
-    font-family: @serif;
+    font-family: "Georgia",serif;
     margin-top: 0;
   }
   div.section-review-text h2.addressee{
-    font-size: @text-tiny;
+    font-size:10pt;
     font-style: italic;
-    line-height: @1px*9;
-  }
-  span.mobile-line-break{
-    display: none;
-    @media @mobile{
-      display: inline;
-    }   
   }
   div.section-review-text h2.author{
     margin-bottom: 5px;
@@ -87,21 +61,19 @@
   ul.pagination{
     display: inline-block;
   }
-  ul.pagination span.right-arrow-off{
-    .pagination-arrow(url(../img/global/pagination/right-arrow-off.svg));
-  }
-  ul.pagination span.right-arrow-on{
-    .pagination-arrow(url(../img/global/pagination/right-arrow-on.svg));
-  }  
-  ul.pagination span.left-arrow-off{
-    .pagination-arrow(url(../img/global/pagination/left-arrow-off.svg));
-  }
-  ul.pagination span.left-arrow-on{
-    .pagination-arrow(url(../img/global/pagination/left-arrow-on.svg));
+  ul.pagination li{
+    font-size: 10pt;
+    display: inline;
+    background-color: #eee;
+    color: #333;
+    padding: 1px;
+    border:1px solid #333;
+    min-width:25px;
+    text-align: center;
+    font-family: "Helvetica Neue",sans-serif;
   }
   ul.pagination li.current{
- /*
-   font-size: 10pt;
+    font-size: 10pt;
     display: inline;
     background-color: #666;
     color: #eee;
@@ -109,7 +81,6 @@
     border:1px solid #333;
     min-width:25px;
     text-align: center
-*/
   }
   ul.pagination li.off{
     font-size: 10pt;
@@ -117,15 +88,9 @@
     color: #999;
   }
   ul.pagination li a{
-    //font-size: 10pt;
-    //display: inline;
-    //background-color: #eee;
-    //color: #333;
-    //padding: 1px;
-    //border:1px solid #333;
-    //min-width:25px;
-    //text-align: center;
-    //font-family: @sans-serif;
+    display: inline;
+    color: #333;
+    padding: 1px;
   }
   .center{
     text-align: center;

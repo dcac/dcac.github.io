@@ -1,19 +1,20 @@
 ---
 published: true
-section: General
-image: gridge-match.jpg
-imdb: tt1661382
+image: 
+imdb: 
 author: dig 
-stars: 1
-excerpt: "I'm not embarrassed to admit I've never met a boxing movie that didn't make me cry, but Grudge Match made me well up for all the wrong reasons."
-position: Video Graphics Designer 
-addressee: Brigitte Fauchaux
+stars: 
+excerpt: 
+position: 
+addressee: 
 layout: review
 categories: reviews
 title: "Grudge Match"
 comments: true
 tags: [Bechdel Test, boxing, comedy, drama, feminist, junk, Letters]
 ---
+<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/12/19/grudge-match.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7920/1387467186657/Grudge%20Match.jpg" alt="" /></a></span></span></p>
+<p class="normal"><em><span style="font-size:130%;"><strong>Dear Brigitte Fauchaux,</strong> Video Graphics Designer,</span></em></p>
 <p class="normal">I&rsquo;m not embarrassed to admit I&rsquo;ve never met a boxing movie that didn&rsquo;t make me cry, but <em>Grudge Match</em> made me well up for all the wrong reasons. As the baby girl in a family full of brothers, I was born fighting. My dad learned to box in the army and taught us all how to throw an uppercut. In this testosterone-heavy world I was never treated any differently from the boys but I can&rsquo;t assume the same of you. All I can hope is that you have some sense of shame about contributing to a film that has only three female speaking roles, one being that of a prostitute. But hey, a job is a job, right?</p>
 <p class="normal">To introduce the audience to struggling steelworker Henry &lsquo;Razor&rsquo; Sharpe (Sylvester Stallone) and cocky car dealership proprietor and publican, Billy &lsquo;The Kid&rsquo; McDonnen (Robert DeNiro) at the height of their rivalry, you composed a montage of 70&rsquo;s era magazine covers of the once-famous boxing champions at their fighting weight using actual photos of Sly and Bobby as their iconic alter-egos Rocky Balboa and Jake LaMotta.&nbsp; Little did you know that with this simple cut and paste job you were helping knock our gender into last century.&nbsp;</p>
 <p class="normal">Your hackneyed mosaic of People and Rolling Stone magazine shots transports us back to an age when Stallone and DeNiro were in their prime and didn&rsquo;t make paycheque films to buy pools for the guest bungalows of their summer homes. An era when the rising feminist and gay rights battles gained serious ground and the overwhelming response of the male populace was to grow a &lsquo;stache, wear tight, junk-hugging jeans and pursue manly endeavors like hi-fi stereo installation and mechanical bull riding. You strap us into the Wayback Machine against our will and with a heavy platform boot, you gun the gas and steer us straight into Macho Town - the Pittsburgh of <em>Grudge Match</em> - where its occupants probably think the <a href="http://en.wikipedia.org/wiki/Bechdel_test"><span style="color:blue;">Bechdel Test</span></a> is something that measures one&rsquo;s sperm count.&nbsp;</p>
@@ -23,3 +24,4 @@ tags: [Bechdel Test, boxing, comedy, drama, feminist, junk, Letters]
 <p class="normal">Every fighter needs a good cut man, and your nostalgia-splicing made me wistful for those days as a child of the Seventies when I would run up my front steps, arms pumping as I triumphantly belted out Bill Conti&rsquo;s Rocky theme. It didn&rsquo;t matter that I was a girl, in my mind <em>l was Rocky</em>. In the spirit of all things macho I&rsquo;ll say this, I like my boxing movies like I like my women: sharp, nuanced, and full of heart. <em>Grudge Match</em> isn&rsquo;t a movie as much as it is a lame joke book for budding chauvinists and homophobes with ten minutes of solid ring action tacked on at the end. Witnessing the Italian Stallion and the Raging Bull duking it out provides the film&rsquo;s only thrills but bobbing and weaving through 90-plus minutes of sexist, homophobic, sophomoric suckerpunches to get to &lsquo;Grudgement Day&rsquo; left me feeling spiritually rope-a-doped.&nbsp;</p>
 <p class="normal">Yours in the blue corner,</p>
 <p class="normal">Di</p>
+<p class="normal"><strong><em>Status: Junk Mail (1/5)</em></strong></p></div>

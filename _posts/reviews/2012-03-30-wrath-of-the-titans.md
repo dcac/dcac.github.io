@@ -1,6 +1,5 @@
 ---
 published: true
-section: General
 imdb: tt1646987
 image: wrath-of-the-titans.jpg
 author: christopherr
