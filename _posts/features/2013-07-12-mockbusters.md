@@ -8,9 +8,6 @@ position:
 addressee: 
 layout: series
 categories:
-  - reviews
-  - streaming
-  - on-video
   - series-index
 series-name: mockbusters
 title: Mockbusters
