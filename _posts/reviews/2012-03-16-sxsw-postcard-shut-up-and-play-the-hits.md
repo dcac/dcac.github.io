@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 imdb: tt2124908
 image: shut-up-and-play-the-hits.jpg
 author: test 

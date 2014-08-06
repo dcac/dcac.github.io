@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: maleficent.jpg
 imdb: tt1587310
 author: christoipherr

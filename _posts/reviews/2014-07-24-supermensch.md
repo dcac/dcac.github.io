@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: supermensch.jpg
 imdb: tt3074780
 author: dig

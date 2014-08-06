@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: godzilla-mothra-and-king-ghidorah-giant-monsters-all-out-attack.jpg
 imdb: tt0279112
 author: kelany

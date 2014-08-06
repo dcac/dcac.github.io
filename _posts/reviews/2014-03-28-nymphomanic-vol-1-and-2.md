@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: nymphomaniac-vol-1-and-2.jpg
 imdb: tt1937390
 author:  christopherr

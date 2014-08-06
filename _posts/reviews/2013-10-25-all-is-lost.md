@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: all-is-lost.jpg
 imdb: tt2017038
 author: jaredy 

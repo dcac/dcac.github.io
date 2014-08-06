@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: the-husband.jpg
 imdb: tt2565650
 author: natm

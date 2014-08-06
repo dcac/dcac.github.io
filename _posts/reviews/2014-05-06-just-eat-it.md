@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: just-eat-it.jpg
 imdb: tt3597400
 author: dig

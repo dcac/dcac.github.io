@@ -31,9 +31,13 @@
   font-size:@1px*18;
   font-family: @sans-serif;
   font-weight: 700;
-  line-height: @15px;
+  line-height: @1px*16;
   color: @black;
   margin: 0;
+}
+.review-grid-head-mobile(@font-size:@1px*18,@line-height:@15px){
+  font-size:@font-size;
+  line-height: @line-height;
 }
 .review-grid-byline(@size:@text-regular,@family:@sans-serif,@color:#939598){
   font-size:@size;
@@ -111,6 +115,14 @@
   transition:@speed;
 }
 
+//pagination styles
+.pagination-arrow(@img:'url(../img/global/pagination/right-arrow-off.svg'){
+  background-image:@img;
+  width:25px;
+  height:25px;
+  display: inline-block;
+  margin-top: 5px;
+}
 //buttons
 .home-button(@display:inline){
   background-color: #636467;

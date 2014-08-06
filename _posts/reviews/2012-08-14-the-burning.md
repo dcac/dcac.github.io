@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 imdb: tt0082118
 image: the-burning.jpg
 author: kelany 

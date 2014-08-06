@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: slasher-camp.jpg
 stars: 
 excerpt: 

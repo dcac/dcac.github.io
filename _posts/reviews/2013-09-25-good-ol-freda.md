@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: goold-ol-freda.jpg
 imdb: tt2505938
 author: erinc

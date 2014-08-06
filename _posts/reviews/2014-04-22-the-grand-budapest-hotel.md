@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: the-grand-budapest-hotel.jpg
 imdb: tt2278388
 author: christopherr

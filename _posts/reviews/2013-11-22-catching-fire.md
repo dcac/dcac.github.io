@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: catching-fire.jpg
 imdb: tt1951264
 author: christopherr 

@@ -1,6 +1,7 @@
 ---
 layout: review
 published: true
+section: General
 image: "white-house-down.jpg"
 author: test
 stars: 2

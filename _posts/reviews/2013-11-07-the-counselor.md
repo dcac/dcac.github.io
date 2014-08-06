@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: the-counselor.jpg
 imdb: tt2193215
 author: christopherr 

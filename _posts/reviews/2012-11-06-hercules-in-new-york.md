@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 imdb: tt0065832
 image: hercules-in-new-york.jpg
 author: test 

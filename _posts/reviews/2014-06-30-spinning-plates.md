@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: spinning-plates.jpg
 imdb: tt2014351
 author: dig

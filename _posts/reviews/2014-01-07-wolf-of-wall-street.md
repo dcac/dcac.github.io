@@ -2,6 +2,7 @@
 layout: review
 categories: reviews
 published: true
+section: General
 title: The Wolf of Wall Street
 tags: reviews
 image: "the-wolf-of-wall-street.jpg"

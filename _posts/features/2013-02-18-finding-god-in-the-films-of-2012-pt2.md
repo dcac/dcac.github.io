@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 categories: reviews
 image: 
 imdb: 

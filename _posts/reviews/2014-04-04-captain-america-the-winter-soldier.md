@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: captain-america-the-winter-soldier.jpg
 imdb: tt1843866 
 author: caseyt 

@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 imdb: tt1446192
 image: rise-of-the-guardians.jpg
 author: Jennifer Smart and Finn Tourangeau 

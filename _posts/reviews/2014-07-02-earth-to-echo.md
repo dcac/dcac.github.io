@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: earth-to-echo.jpg
 imdb: tt2183034
 author: dig

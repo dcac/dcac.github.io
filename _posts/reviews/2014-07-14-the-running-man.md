@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: the-running-man.jpg
 imdb: tt0093894
 author: jaredy

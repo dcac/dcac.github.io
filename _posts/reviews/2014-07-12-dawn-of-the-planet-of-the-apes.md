@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: dawn-of-the-planet-of-the-apes.jpg
 imdb: tt2103281
 author: dig

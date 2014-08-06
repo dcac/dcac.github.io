@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: romeo-juliet.jpg
 imdb: tt1645131
 author: jenniferm 

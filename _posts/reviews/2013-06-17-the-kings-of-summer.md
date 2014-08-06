@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 imdb: tt2179116
 image: the-kings-of-summer.jpg
 author: christopherr

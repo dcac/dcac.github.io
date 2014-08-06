@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 imdb: tt1259521
 image: the-cabin-in-the-woods-2.jpg
 author: christopherr

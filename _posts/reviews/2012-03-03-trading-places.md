@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 imdb: tt0086465
 image: trading-places.jpg
 author: coryh

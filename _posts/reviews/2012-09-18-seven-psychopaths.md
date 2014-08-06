@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 imdb: tt1931533
 image: seven-psychopaths.jpg
 author: christopherr

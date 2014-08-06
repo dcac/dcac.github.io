@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 imdb: tt1430626
 image: the-pirates-band-of-misfits.jpg
 author: christopherr 

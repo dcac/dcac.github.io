@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: wish-i-was-here.jpg
 imdb: tt2870708
 author: natm 

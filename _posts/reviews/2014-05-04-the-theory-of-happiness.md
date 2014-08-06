@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: the-theory-of-happiness.jpg
 imdb: tt1814900
 author: dig 

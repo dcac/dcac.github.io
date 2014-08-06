@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: the-art-of-the-steal.jpg
 imdb: tt2172985
 author: alexg

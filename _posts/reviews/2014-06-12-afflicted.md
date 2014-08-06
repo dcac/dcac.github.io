@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: afflicted.jpg
 imdb: tt2309961
 author: christopherr

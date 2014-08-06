@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: the-young-and-prodigious-ts-spivet.jpg
 imdb: tt1981107
 author: emilyc

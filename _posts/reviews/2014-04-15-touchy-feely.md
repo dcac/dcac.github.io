@@ -1,5 +1,6 @@
 ---
 published: true
+section: General
 image: touchy-feely.jpg
 imdb: tt2364949
 author: dig
