@@ -15,7 +15,7 @@ date: 2014-07-17 15:06
 comments: true
 tags: [comedy, drama, Executive Producer, Letters, Michael Douglas]
 ---
-We get older. We learn and develop. We try, we fail, we try again. Our successes spring from lessons learned. Eventually, we find a very personal equilibrium between risk vs. reward. If one observes and accounts for life's early attempts to communicate with the wider world, one can trace the path that led to here, now. So when I see that you began your career with works like [_New Year's Evil_][1]_ _and_ _[_Killer Klowns from Outer Space_][2]_, _it's perfectly obvious that…wait, what? Really? _This_? Comfort food for retirees?
+We get older. We learn and develop. We try, we fail, we try again. Our successes spring from lessons learned. Eventually, we find a very personal equilibrium between risk vs. reward. If one observes and accounts for life's early attempts to communicate with the wider world, one can trace the path that led to here, now. So when I see that you began your career with works like [_New Year's Evil_][1] _and_ _[_Killer Klowns from Outer Space_][2],it's perfectly obvious that…wait, what? Really? _This_? Comfort food for retirees?
 
    [1]: http://www.imdb.com/title/tt0082806/?ref_=nm_flmg_act_38
    [2]: http://www.imdb.com/title/tt0095444/?ref_=nm_knf_i1
