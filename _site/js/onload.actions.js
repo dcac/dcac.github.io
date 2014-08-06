@@ -101,7 +101,15 @@ var rowheight = $("#review-copy");
 var filmRow = $("#film-row");
 //var side = $("#side-column");
 var reviewSidebar = $("#review-sidebar");
-
+if (reviewSidebar.height() > rowheight.height()){
+  rowheight.css({
+    height: reviewSidebar.height()
+  });
+  var fixSidebar = false;
+}
+else{
+  var fixSidebar = true;
+}
 filmRow.css({
   height: rowheight.height()
 });
@@ -114,13 +122,14 @@ reviewSidebar.css({
 
 //If the viewport minus the top bar is taller than the sidebar, fix it in place
 
-if ($("#film-info").height() < ($.waypoints('viewportHeight')-65)) {
+if ($("#film-info").height() < ($.waypoints('viewportHeight')-65) && (fixSidebar)) {
   $('#review-copy').waypoint(function(direction) {
   //alert(sidebar.width());
    if (direction === 'down') {
       reviewSidebar.css({
         top: "65px",
-        width: reviewSidebar.width()
+        width: reviewSidebar.width(),
+        height: $.waypoints('viewportHeight')-65
         
       });
       if ($(window).width() <= 640){

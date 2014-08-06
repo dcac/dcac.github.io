@@ -2,7 +2,7 @@
 css: home.css
 section: About
 author: jaredy
-Title: Jared Young
+title: Jared Young
 section: About
 layout: default
 ---
@@ -25,26 +25,30 @@ layout: default
          </div>
         {% endfor %}
       </div>
-      <div class="row center">
+      <div class="pagination-centered">
         <ul class="pagination">
+          {% if paginator.previous_page %}
+            {% if paginator.previous_page == 1%}
+            <li><a href="{{ paginator.previous_page_path }}" class="previous"><span class="left-arrow-on"></span></a></li>
+            {% else %}
+            <li><a href="/about/writers/jaredy{{ paginator.previous_page_path }}" class="previous"><span class="left-arrow-on"></span></a></li>
+            {% endif %}
+          {% else %}
+            <li><span class="left-arrow-off"></span></li>
+          {% endif %}
             {% for page in (1..paginator.total_pages) %}
             {% if page == paginator.page %}
-              <li class="current">{{ page }}</li>
+              <li class="current"><a href="#">{{ page }}</a></li>
             {% elsif page == 1 %}
-              <li><a href="/about/writers/jaredy/">{{ page }}</a></li>
+              <li><a href="/about/writers/jaredy">{{ page }}</a></li>
             {% else %}
               <li><a href="/about/writers/jaredy/page{{ page }}/">{{ page }}</a></li>
             {% endif %}
           {% endfor %}
-          {% if paginator.previous_page %}
-            <li><a href="/about/writers/jaredy{{ paginator.previous_page_path }}" class="previous"><i class="fa fa-step-backward"></i></a></li>
-          {% else %}
-            <li class="previous off"><i class="fa fa-step-backward"></i></li>
-          {% endif %}
           {% if paginator.next_page %}
-            <li><a href="/about/writers/jaredy{{ paginator.next_page_path }}" class="next"><i class="fa fa-step-forward"></i></a></li>
+            <li><a  href="/about/writers/jaredy{{ paginator.next_page_path }}"><span class="right-arrow-on"></span></a></li>
           {% else %}
-            <li class="next off"><i class="fa fa-step-forward"></i></li>
+            <li><span class="right-arrow-off"></span></li>
           {% endif %}
         </ul>
       </div>

@@ -12313,13 +12313,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/img\/article\/22-Jump-Street.jpg": {
+	"\/_site\/img\/article\/22-jump-street.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 495496,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/22-Jump-Street.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/22-Jump-Street.jpg",
+		"initialSize": 184935,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/22-jump-street.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/22-jump-street.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -13468,13 +13468,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/img\/article\/Kings-Of-Summer.jpg": {
+	"\/_site\/img\/article\/kings-of-summer.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 555070,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/Kings-Of-Summer.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/Kings-Of-Summer.jpg",
+		"inputAbbreviatedPath": "\/_site\/img\/article\/kings-of-summer.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/kings-of-summer.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -13765,13 +13765,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/img\/article\/Monsters-University.jpg": {
+	"\/_site\/img\/article\/monsters-university.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 368873,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/Monsters-University.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/Monsters-University.jpg",
+		"inputAbbreviatedPath": "\/_site\/img\/article\/monsters-university.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/monsters-university.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15118,13 +15118,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/img\/article\/thumb\/22-Jump-Street.jpg": {
+	"\/_site\/img\/article\/thumb\/22-jump-street.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 40399,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb\/22-Jump-Street.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb\/22-Jump-Street.jpg",
+		"initialSize": 15821,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb\/22-jump-street.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb\/22-jump-street.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -26067,13 +26067,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/article\/thumb\/22-Jump-Street.jpg": {
+	"\/img\/article\/thumb\/22-jump-street.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 40399,
-		"inputAbbreviatedPath": "\/img\/article\/thumb\/22-Jump-Street.jpg",
-		"outputAbbreviatedPath": "\/img\/article\/thumb\/22-Jump-Street.jpg",
+		"inputAbbreviatedPath": "\/img\/article\/thumb\/22-jump-street.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb\/22-jump-street.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -29822,17 +29822,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/min\/search.min-ck.js",
 		"outputAbbreviatedPath": "\/js\/min\/min\/search.min-ck-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/js\/onload.actions.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/onload.actions.js",
-		"outputAbbreviatedPath": "\/js\/min\/onload.actions-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,

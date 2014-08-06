@@ -1810,165 +1810,20 @@ li.section-right-nav {
   color: #000;
   font-weight: 500;
   text-align: left;
-  margin-left: 10px;
+  padding-left: 15px;
+  margin-right: 5px;
   list-style: none;
   display: inline;
   margin-bottom: -5px;
+  background: url('../img/global/slash.svg') 0 -3px no-repeat;
 }
 @media only screen and (max-width: 780px) {
   li.section-right-nav {
     font-size: 1rem;
   }
 }
-li.section-right-nav a {
-  display: inline;
-  color: #000;
-}
-li.section-right-nav a:hover,
-li.section-right-nav a.current {
-  display: inline;
-  color: #000;
-  border-bottom: 5px solid #d1d3d4;
-}
-.section-grid {
-  height: auto;
-}
-.section-post {
-  margin-bottom: 1.5625rem;
-  min-height: 15.625rem;
-}
-@media only screen and (max-width: 780px) {
-  .section-post {
-    margin-bottom: 1.5625rem;
-    min-height: 14.375rem;
-  }
-}
-@media only screen and (max-width: 640px) {
-  .section-post {
-    margin-bottom: 0.9375rem;
-    min-height: 12.5rem;
-  }
-}
-div.section-post h1 {
-  font-size: 1.125rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
-  font-weight: 700;
-  line-height: 1rem;
-  color: #000000;
-  margin: 0;
-}
-@media only screen and (max-width: 640px) {
-  div.section-post h1 {
-    font-size: 1rem;
-    line-height: 0.875rem;
-  }
-}
-div.section-review-text h2 {
-  font-size: 10pt;
-  color: #333;
-  font-family: "Georgia", serif;
-  margin-top: 0;
-}
-div.section-review-text h2.addressee {
-  font-size: 0.625rem;
-  font-style: italic;
-  line-height: 0.5625rem;
-}
-span.mobile-line-break {
-  display: none;
-}
-@media only screen and (max-width: 640px) {
-  span.mobile-line-break {
-    display: inline;
-  }
-}
-div.section-review-text h2.author {
-  margin-bottom: 5px;
-}
-div.section-review-text h2.author {
-  margin-bottom: 5px;
-}
-ul.pagination {
-  display: inline-block;
-}
-ul.pagination span.right-arrow-off {
-  background-image: 'right-arrow-off';
-  width: 25px;
-  height: 25px;
-  display: inline-block;
-  margin-top: 5px;
-}
-ul.pagination span.right-arrow-on {
-  background-image: 'right-arrow-on';
-  width: 25px;
-  height: 25px;
-  display: inline-block;
-  margin-top: 5px;
-}
-ul.pagination span.left-arrow-off {
-  background-image: 'left-arrow-off';
-  width: 25px;
-  height: 25px;
-  display: inline-block;
-  margin-top: 5px;
-}
-ul.pagination span.left-arrow-on {
-  background-image: 'left-arrow-on';
-  width: 25px;
-  height: 25px;
-  display: inline-block;
-  margin-top: 5px;
-}
-ul.pagination li.current {
-  /*
-   font-size: 10pt;
-    display: inline;
-    background-color: #666;
-    color: #eee;
-    padding: 1px;
-    border:1px solid #333;
-    min-width:25px;
-    text-align: center
-*/
-}
-ul.pagination li.off {
-  font-size: 10pt;
-  background-color: #eee;
-  color: #999;
-}
-.center {
-  text-align: center;
-}
-/* Section titles and Nav */
-ul.section-right-nav {
-  list-style: none;
-  display: inline;
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  margin-bottom: 0;
-  right: 0.9375rem;
-}
-@media only screen and (max-width: 640px) {
-  ul.section-right-nav {
-    display: none;
-  }
-}
-li.section-right-nav {
-  font-size: 1.25rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
-  color: #000;
-  font-weight: 500;
-  text-align: left;
-  margin-left: 10px;
-  list-style: none;
-  display: inline;
-  margin-bottom: -5px;
-}
-@media only screen and (max-width: 780px) {
-  li.section-right-nav {
-    font-size: 1rem;
-  }
+li.section-right-nav:first-child {
+  background: none;
 }
 li.section-right-nav a {
   display: inline;
