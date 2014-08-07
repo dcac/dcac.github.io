@@ -70,6 +70,7 @@ nav#menu-left {
   height: 120px;
   position: fixed;
   z-index: 0;
+  top: 0;
   width: 275px;
   padding-top: 40px;
   text-align: center;
