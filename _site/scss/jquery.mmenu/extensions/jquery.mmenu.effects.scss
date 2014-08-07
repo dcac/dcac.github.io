@@ -19,11 +19,11 @@ html.mm-slide
 	//	Left
 	&.mm-opened .mm-menu
 	{
-		@include vendor-prefix( 'transform', translateX( -$mm_subpanelOffset ) );
+		@include mm_vendor-prefix( 'transform', translateX( -$mm_subpanelOffset ) );
 	}
 	&.mm-opening .mm-menu
 	{
-		@include vendor-prefix( 'transform', translateX( 0% ) );
+		@include mm_vendor-prefix( 'transform', translateX( 0% ) );
 	}
 
 	//	Right
@@ -31,11 +31,11 @@ html.mm-slide
 	{
 		&.mm-opened .mm-menu
 		{
-			@include vendor-prefix( 'transform', translateX( $mm_subpanelOffset ) );
+			@include mm_vendor-prefix( 'transform', translateX( $mm_subpanelOffset ) );
 		}
 		&.mm-opening .mm-menu
 		{
-			@include vendor-prefix( 'transform', translateX( 0% ) );
+			@include mm_vendor-prefix( 'transform', translateX( 0% ) );
 		}
 	}
 
@@ -44,11 +44,11 @@ html.mm-slide
 	{
 		&.mm-opened .mm-menu
 		{
-			@include vendor-prefix( 'transform', translateY( -$mm_subpanelOffset ) );
+			@include mm_vendor-prefix( 'transform', translateY( -$mm_subpanelOffset ) );
 		}
 		&.mm-opening .mm-menu
 		{
-			@include vendor-prefix( 'transform', translateY( 0% ) );
+			@include mm_vendor-prefix( 'transform', translateY( 0% ) );
 		}
 	}
 
@@ -57,11 +57,11 @@ html.mm-slide
 	{
 		&.mm-opened .mm-menu
 		{
-			@include vendor-prefix( 'transform', translateY( $mm_subpanelOffset ) );
+			@include mm_vendor-prefix( 'transform', translateY( $mm_subpanelOffset ) );
 		}
 		&.mm-opening .mm-menu
 		{
-			@include vendor-prefix( 'transform', translateY( 0% ) );
+			@include mm_vendor-prefix( 'transform', translateY( 0% ) );
 		}
 	}
 }
@@ -83,12 +83,12 @@ html.mm-zoom-menu
 	//	Left
 	&.mm-opened .mm-menu
 	{
-		@include vendor-prefix( 'transform', scale( $scaleDown, $scaleDown ) translateX( -$mm_subpanelOffset ) );
-		@include vendor-prefix( 'transform-origin', left center );
+		@include mm_vendor-prefix( 'transform', scale( $scaleDown, $scaleDown ) translateX( -$mm_subpanelOffset ) );
+		@include mm_vendor-prefix( 'transform-origin', left center );
 	}
 	&.mm-opening .mm-menu
 	{
-		@include vendor-prefix( 'transform', scale( 1, 1 ) translateX( 0% ) );
+		@include mm_vendor-prefix( 'transform', scale( 1, 1 ) translateX( 0% ) );
 	}
 
 	//	Right
@@ -96,12 +96,12 @@ html.mm-zoom-menu
 	{
 		&.mm-opened .mm-menu
 		{
-			@include vendor-prefix( 'transform', scale( $scaleDown, $scaleDown) translateX( $mm_subpanelOffset ) );
-			@include vendor-prefix( 'transform-origin', right center );
+			@include mm_vendor-prefix( 'transform', scale( $scaleDown, $scaleDown) translateX( $mm_subpanelOffset ) );
+			@include mm_vendor-prefix( 'transform-origin', right center );
 		}
 		&.mm-opening .mm-menu
 		{
-			@include vendor-prefix( 'transform', scale( 1, 1 ) translateX( 0% ) );
+			@include mm_vendor-prefix( 'transform', scale( 1, 1 ) translateX( 0% ) );
 		}
 	}
 
@@ -110,12 +110,12 @@ html.mm-zoom-menu
 	{
 		&.mm-opened .mm-menu
 		{
-			@include vendor-prefix( 'transform', scale( $scaleDown, $scaleDown ) translateY( -$mm_subpanelOffset ) );
-			@include vendor-prefix( 'transform-origin', center top );
+			@include mm_vendor-prefix( 'transform', scale( $scaleDown, $scaleDown ) translateY( -$mm_subpanelOffset ) );
+			@include mm_vendor-prefix( 'transform-origin', center top );
 		}
 		&.mm-opening .mm-menu
 		{
-			@include vendor-prefix( 'transform', scale( 1, 1 ) translateY( 0% ) );
+			@include mm_vendor-prefix( 'transform', scale( 1, 1 ) translateY( 0% ) );
 		}
 	}
 
@@ -124,12 +124,12 @@ html.mm-zoom-menu
 	{
 		&.mm-opened .mm-menu
 		{
-			@include vendor-prefix( 'transform', scale( $scaleDown, $scaleDown ) translateY( $mm_subpanelOffset ) );
-			@include vendor-prefix( 'transform-origin', center bottom );
+			@include mm_vendor-prefix( 'transform', scale( $scaleDown, $scaleDown ) translateY( $mm_subpanelOffset ) );
+			@include mm_vendor-prefix( 'transform-origin', center bottom );
 		}
 		&.mm-opening .mm-menu
 		{
-			@include vendor-prefix( 'transform', scale( 1, 1 ) translateY( 0% ) );
+			@include mm_vendor-prefix( 'transform', scale( 1, 1 ) translateY( 0% ) );
 		}
 	}
 }
@@ -139,50 +139,65 @@ html.mm-zoom-menu
 html.mm-zoom-page
 {
 
+	.mm-page
+	{
+		-webkit-transition-property: -webkit-transform, top, right, bottom, left, border;
+		-moz-transition-property: -moz-transform, top, right, bottom, left, border;
+		-ms-transition-property: -ms-transform, top, right, bottom, left, border;
+		-o-transition-property: -o-transform, top, right, bottom, left, border;
+		transition-property: transform, top, right, bottom, left, border;
+	}
+
 	//	Left
 	&.mm-opened .mm-page
 	{
-		@include vendor-prefix( 'transform', scale( 1, 1 ) );
-		@include vendor-prefix( 'transform-origin', left center );
+		@include mm_vendor-prefix( 'transform', scale( 1, 1 ) );
+		@include mm_vendor-prefix( 'transform-origin', left center );
 	}
 	&.mm-opening .mm-page
 	{
-		@include vendor-prefix( 'transform', scale( $scaleUp, $scaleUp ) );
+		@include mm_vendor-prefix( 'transform', scale( $scaleUp, $scaleUp ) );
 	}
 
 	//	Right
 	&.mm-right.mm-opened .mm-page
 	{
-		@include vendor-prefix( 'transform-origin', right center );
+		@include mm_vendor-prefix( 'transform-origin', right center );
 	}
 
 	//	Top
 	&.mm-top.mm-opened .mm-page
 	{
-		@include vendor-prefix( 'transform-origin', center top );
+		@include mm_vendor-prefix( 'transform-origin', center top );
 	}
 
 	//	Bottom
 	&.mm-bottom.mm-opened .mm-page
 	{
-		@include vendor-prefix( 'transform-origin', center bottom );
+		@include mm_vendor-prefix( 'transform-origin', center bottom );
 	}
 }
 
 
 //	Zoom panels
-html.mm-zoom-panels .mm-panel
+html.mm-zoom-panels .mm-menu.mm-horizontal > .mm-panel
 {
-	@include vendor-prefix( 'transform', scale( $scaleUp, $scaleUp ) );
-	@include vendor-prefix( 'transform-origin', left center );
+	@include mm_vendor-prefix( 'transform', scale( $scaleUp, $scaleUp ) );
+	@include mm_vendor-prefix( 'transform-origin', left center );
+
+	-webkit-transition-property: -webkit-transform, left;
+	-moz-transition-property: -moz-transform, left;
+	-ms-transition-property: -ms-transform, left;
+	-o-transition-property: -o-transform, left;
+	transition-property: transform, left;
 	
 	&.mm-opened
 	{
-		@include vendor-prefix( 'transform', scale( 1, 1 ) );
+		@include mm_vendor-prefix( 'transform', scale( 1, 1 ) );
 		
 		&.mm-subopened
 		{
-			@include vendor-prefix( 'transform', scale( $scaleDown, $scaleDown ) );
+			@include mm_vendor-prefix( 'transform', scale( $scaleDown, $scaleDown ) );
 		}
 	}
 }
