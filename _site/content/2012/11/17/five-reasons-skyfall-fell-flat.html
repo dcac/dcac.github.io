@@ -44,20 +44,22 @@
 
 
   <body>
-  <div id="nav-test"><a href="/"><img src="/img/global/dcac-full-logo-white.svg" class="side-home-link" /></a></div>
+  <div id="nav-header"><a href="/"><img src="/img/global/dcac-full-logo-white.svg" class="side-home-link" /></a></div>
   <nav id="menu-left">
     <!-- Sidebar Nav -->
-      <ul>
-        <li><a href="#" id="side-search-toggle"><i class="fa fa-search"></i> Search</a></li>
-                            <li class="text"><a href="/reviews/">Reviews.</a>
+    <ul>
+      <li><a href="#" id="side-search-toggle"><i class="fa fa-search"></i> <!-- Search --></a></li>
+                          <li><span>Reviews</span>
             <ul>
+              <li><a href="/reviews/">All Reviews</a></li>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="/features/">Features.</a>
+                    <li><span>Features</span>
             <ul>
+              <li><a href="/features/">All Features</a></li>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
               <li><a href="/features/lists/">Lists</a></li>
@@ -68,17 +70,26 @@
               <li><a href="#">Archive</a></li>
             </ul>
           </li> -->
-                    <li><a href="/about/">About.</a>
-            <ul>
-              <li><a href="/about/writers/">Writers</a></li>
-              <li><a href="/about/contact/">Contact</a></li>
-            </ul>
+                    <li>
+            <a href="/writers/">Writers</a>
           </li>
-      </ul>
+                    <li>
+            <a href="/about/">About</a>
+          </li>
+                    <li>
+            <a href="/contact/">Contact</a>
+          </li>
+      <li class="social">
+        <a href="http://www.twitter.com/DearCastandCrew/" class="social-twitter"></a>
+        <a href="http://www.facebook.com/DearCastandCrew/" class="social-facebook"></a>
+        <a href="http://www.letterboxd.com/dearcastandcrew/" class="social-letterboxd"></a>
+      </li>
+    </ul>
     <!-- End Sidebar Nav -->
     </nav>
-    <div class="container-shadow" id="main-container">    
-             
+    <div>
+      <div class="container-shadow" id="main-container">    
+               
 <div class="full-white">
       <div class="row collapse">
         <div class="section-header">
@@ -99,9 +110,7 @@
     <div class="mini-top-nav-hidden mm-fixed-top" id="mini-top-nav">
       <nav class="top-bar" data-topbar>
         <ul class="title-area">
-          <li class="name dcac-logo" id="nav-toggle">
-            <h1><a href="#">Dear Cast & Crew</a></h1>
-          </li>
+          <li class="name dcac-logo" id="nav-toggle"></li>
         </ul>
         <section class="top-bar-section">
           <!-- Right Nav Section -->
@@ -111,7 +120,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -119,41 +128,36 @@
     </div>
 
 
-      <section>
+      <section id="feature-hero">
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/five-reasons-skyfall-fell-flat.jpg);" data-stellar-background-ratio=".25"></div>
-          <div class="row">
-            <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
-              <div class="review-status">
-                <div class="title-block">
-                  <h1 class="hero">Five Reasons Skyfall Fell Flat</h1>
-                  <h2 class="hero-author">
-                    By 
-                  </h2>
-                  <h2 class="hero-date">
-                    Mailed on November 17, 2012
-                  </h2>
-                  <hr class="title-divider" />
-                </div>
-                <div class="status-container">
-                  <img src="/img/global/stamp.svg" class="standard review-stamp" />
-                <br />
-                  <div class="large-star-rating">
-                    <img class="star-large" src="/img/global/star-white.svg" /><img class="star-large" src="/img/global/star-white.svg" /><img class="star-large" src="/img/global/star-white.svg" /><img class="star-large" src="/img/global/star-white.svg" /><img class="star-large" src="/img/global/star-white.svg" />
+          <a href="">
+            <div class="title-img" style="background-image:url(/img/article/five-reasons-skyfall-fell-flat.jpg);" data-stellar-background-ratio=".25"></div>
+            <div class="row collapse">
+              <div class="large-4 medium-4 columns feature-title-height">
+                <div class="feature-title-text">
+                  <h1 class="feature-hero">Five Reasons Skyfall Fell Flat</h1>
+                  <div class="translucent-box clearfix">
+                    <div class="feature-info">
+                      <!--
+<h2 class="feature-sub-title">
+                       Dear James Bond Fans, 
+                      </h2>
+-->
+                      <h2 class="feature-hero-author">
+                        By 
+                      </h2>
+                      <h2 class="feature-hero-date hidden-for-medium-up">
+                        Mailed on 
+                      </h2>
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
-            <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
-              <div class="review-people">
-                <h3><span class="addressee">Dear James Bond Fans</span><br />
-                  <span class="position"></span>
-                </h3>
-              </div>
-            </div>
-          </div>
+          </a>
         </div>
       </section>
+
       <section id="body-text">
         <div class="row">
           <div class="large-4 medium-4 columns hide-for-small-only" id="film-row">
@@ -164,31 +168,36 @@
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
             <p class="intro hide-for-small">Dear James Bond Fans,</p>
-            <p class="intro">If you haven&rsquo;t seen the new James Bond film <em>Skyfall </em>yet, do it. There&rsquo;s <a href="/letters/2012/11/9/skyfall.html">plenty to love</a> in this 23<sup>rd</sup> official installment of the series. The following, however, is a SPOILER-filled analysis of the final act to discuss why some of us at <em>Dear Cast and Crew</em> thought the ending didn&rsquo;t work.</p>
+            <p class="intro">If you haven&#39;t seen the new James Bond film <em>Skyfall _yet, do it. There&#39;s <a href="/letters/2012/11/9/skyfall.html">plenty to love</a> in this 23rd official installment of the series. The following, however, is a SPOILER-filled analysis of the final act to discuss why some of us at _Dear Cast and Crew</em> thought the ending didn&#39;t work.</p>
 
-<p>1. <strong>The film opens too big. </strong><em>Skyfall</em>, like many Bond films, begins with a spectacular action sequence. This is important, not just to satisfy the demands of the franchise, but because it calibrates audience expectations. The director, Sam Mendes, is smart enough to establish important thematics as well as scale. The first shot tells us it&rsquo;s a story about Bond being a few steps behind others and in the dark. We then learn, twice, that M is willing to sacrifice MI6 agents without hesitation to complete a mission. And as Bond suffers from a surely fatal gunshot wound, falls from a surely fatal height, and lands in a surely fatal rapid-filled river, we&rsquo;re reminded that he may be mortal.&nbsp; But each of these points end up being undermined by the end of the film. Not to mention, the rest of the film never lives up to these early action sequences. The film didn&rsquo;t need more gadgets (even if a fingerprint-activated gun and same &ldquo;gotchya!&rdquo; moment was in <em>Licence to Kill</em>) or even a bigger set piece for the climax, but we do need to feel like more is at stake.</p>
+<p><strong>1. The film opens too big.</strong><br>
+<em>Skyfall</em>, like many Bond films, begins with a spectacular action sequence. This is important, not just to satisfy the demands of the franchise, but because it calibrates audience expectations. The director, Sam Mendes, is smart enough to establish important thematics as well as scale. The first shot tells us it&#39;s a story about Bond being a few steps behind others and in the dark. We then learn, twice, that M is willing to sacrifice MI6 agents without hesitation to complete a mission. And as Bond suffers from a surely fatal gunshot wound, falls from a surely fatal height, and lands in a surely fatal rapid-filled river, we&#39;re reminded that he may be mortal.  But each of these points end up being undermined by the end of the film. Not to mention, the rest of the film never lives up to these early action sequences. The film didn&#39;t need more gadgets (even if a fingerprint-activated gun and same &quot;gotchya!&quot; moment was in <em>Licence to Kill</em>) or even a bigger set piece for the climax, but we do need to feel like more is at stake.</p>
 
-<p>2. <strong>TMI! So much for being a &ldquo;Secret&rdquo; Agent. </strong>No other film franchise in history has the same successful track record as Bond. Not even close. Part of the appeal goes back the old narrative rule: the more we know about a character, the less interesting they become. The Bond brand, therefore, insisted their hero hide his true self behind martini preferences, non-stop adventures and a parade of beautiful women. We find out he was an orphan, raised by the Service, and always suspected he was a lonely soul trying to fake his way through a posh lifestyle. Except now <em>Skyfall</em> reveals that none of that is true. Bond was basically born at Downton Abbey. That tuxedo he wears is no longer a costume to hide the fact he&rsquo;s simply a &ldquo;blunt instrument&rdquo; (as M points out in <em>Casino Royale</em>). He&rsquo;s just reclaiming his rightful birthplace. This effectively kills the dashing, sexy, mysterious Bond in a way even guns, heights and rushing waters could not.</p>
+<p><strong>2. TMI! So much for being a &quot;Secret&quot; Agent.</strong><br>
+No other film franchise in history has the same successful track record as Bond. Not even close. Part of the appeal goes back the old narrative rule: the more we know about a character, the less interesting they become. The Bond brand, therefore, insisted their hero hide his true self behind martini preferences, non-stop adventures and a parade of beautiful women. We find out he was an orphan, raised by the Service, and always suspected he was a lonely soul trying to fake his way through a posh lifestyle. Except now <em>Skyfall</em> reveals that none of that is true. Bond was basically born at Downton Abbey. That tuxedo he wears is no longer a costume to hide the fact he&#39;s simply a &quot;blunt instrument&quot; (as M points out in <em>Casino Royale</em>). He&#39;s just reclaiming his rightful birthplace. This effectively kills the dashing, sexy, mysterious Bond in a way even guns, heights and rushing waters could not.</p>
 
-<p>3. <strong>The film&rsquo;s contradictory mission</strong>. The goal of <em>Skyfall</em> is to take the Bond character <em>and</em> franchise back to their roots. But in doing one, they end up betraying the other. Bond&rsquo;s motivation to use his childhood home as the secret hideout, after it&rsquo;s used to test him in an interrogation, seems to be an attempt to erase his own past. Of course in the process, he actually reveals that past to us. Worst of all, when the Skyfall manor is burning to the ground, Bond makes a point of saying how he &ldquo;always hated this place, anyway&rdquo;. If the location means nothing to him, why would it mean something to the audience? Or is he so cold and unsentimental that we should reconsider any love we have for him in the first place?</p>
+<p><strong>3. The film&#39;s contradictory mission.</strong><br>
+The goal of <em>Skyfall</em> is to take the Bond character <em>and</em> franchise back to their roots. But in doing one, they end up betraying the other. Bond&#39;s motivation to use his childhood home as the secret hideout, after it&#39;s used to test him in an interrogation, seems to be an attempt to erase his own past. Of course in the process, he actually reveals that past to us. Worst of all, when the Skyfall manor is burning to the ground, Bond makes a point of saying how he &quot;always hated this place, anyway&quot;. If the location means nothing to him, why would it mean something to the audience? Or is he so cold and unsentimental that we should reconsider any love we have for him in the first place?</p>
 
-<p>There&rsquo;s a rumour going around that Albert Finney&rsquo;s role was intended for Sean Connery. Whether or not that&rsquo;s true (such self-referential move may have been overly distracting), that decision would at least have instilled some relevance to Kincade the groundskeeper. Instead, it&rsquo;s a thankless late entry by a character who barely moves the plot forward and is nonsensically spared by the villain, leaving him neither relevant nor poignant. Which is a big waste. His was the opportunity to provide a much-needed emotional punch to compensate for the scaled-down finale.</p>
+<p>There&#39;s a rumour going around that Albert Finney&#39;s role was intended for Sean Connery. Whether or not that&#39;s true (such self-referential move may have been overly distracting), that decision would at least have instilled some relevance to Kincade the groundskeeper. Instead, it&#39;s a thankless late entry by a character who barely moves the plot forward and is nonsensically spared by the villain, leaving him neither relevant nor poignant. Which is a big waste. His was the opportunity to provide a much-needed emotional punch to compensate for the scaled-down finale.</p>
 
 <p>Which leads us to:</p>
 
-<p>4. <strong>Bond stole the show from M.</strong> Dame Judi Dench has been in as many Bond films as Sean Connery or Roger Moore. <em>Skyfall</em> had the perfect chance to give her a grand exit unlike anything we&rsquo;ve seen in the Bond universe. First of all, the story does a great job of turning the crusty tactician M into this film&rsquo;s<em> </em>true Bond girl. Unfortunately, Bond<span class="st">&reg; Enterprises took this a bit too far (no, not with a sex sequence &ndash; but a boy can dream). When M has the chance to kill herself and Silva (Javier Bardem), it feels like the perfect end to her arc. She may have been willing to kill her own agents (including Bond) because she lives by a strict code, but she&rsquo;ll die by it too. Then what happens? In the worst of all action movie clich&eacute;s, the villain&rsquo;s speech drags on too long and Bond kicks through the door to save the day. Not even a day &ndash; more like three minutes. M dies almost immediately from her previous wounds. She literally had her fate in her own hands, but was denied a poignant exit. Her last words to Bond might as well have been &ldquo;Thanks for nothing, asshole.&rdquo; Both characters are ultimately denied a special moment at the end.</span></p>
+<p><strong>4. Bond stole the show from M.</strong><br>
+Dame Judi Dench has been in as many Bond films as Sean Connery or Roger Moore. <em>Skyfall</em> had the perfect chance to give her a grand exit unlike anything we&#39;ve seen in the Bond universe. First of all, the story does a great job of turning the crusty tactician M into this film&#39;s_ _true Bond girl. Unfortunately, Bond® Enterprises took this a bit too far (no, not with a sex sequence - but a boy can dream). When M has the chance to kill herself and Silva (Javier Bardem), it feels like the perfect end to her arc. She may have been willing to kill her own agents (including Bond) because she lives by a strict code, but she&#39;ll die by it too. Then what happens? In the worst of all action movie cliches, the villain&#39;s speech drags on too long and Bond kicks through the door to save the day. Not even a day - more like three minutes. M dies almost immediately from her previous wounds. She literally had her fate in her own hands, but was denied a poignant exit. Her last words to Bond might as well have been &quot;Thanks for nothing, asshole.&quot; Both characters are ultimately denied a special moment at the end.</p>
 
-<p>5. <strong>Everything just goes back to normal</strong>. By the end of the film, we have a new M, a new Q, a new Miss Moneypenny and a fit-as-a-fiddle Bond. In fact, things are now more normal than they ever were before. It has actually returned us to the steady and predictable state of Bond affairs that <em>Casino Royale</em> was supposed to stand in such stark contrast to. For a film that wants to differentiate itself from the series, the last scene is about as standard as you get. Compare that to back when Bond was <em>On Her Majesty&#8217;s Secret Service. </em>The ending was bold and shocking: Bond gets married, and while driving away into a blissful new life, his bride (still in her wedding dress) was mowed down in a drive-by shooting. Happiness is definitively and infinitely out of his reach. <em>Skyfall</em> teases a similarly bleak ending with M&rsquo;s death (also in Bond&rsquo;s arms), but doesn&rsquo;t have the guts to end it there.&nbsp; Instead of leaving the audience hanging, we now know all to well what to expect the next go around.</p>
+<p><strong>5. Everything just goes back to normal.</strong><br>
+By the end of the film, we have a new M, a new Q, a new Miss Moneypenny and a fit-as-a-fiddle Bond. In fact, things are now more normal than they ever were before. It has actually returned us to the steady and predictable state of Bond affairs that <em>Casino Royale</em> was supposed to stand in such stark contrast to. For a film that wants to differentiate itself from the series, the last scene is about as standard as you get. Compare that to back when Bond was <em>On Her Majesty&#39;s Secret Service. _The ending was bold and shocking: Bond gets married, and while driving away into a blissful new life, his bride (still in her wedding dress) was mowed down in a drive-by shooting. Happiness is definitively and infinitely out of his reach. _Skyfall</em> teases a similarly bleak ending with M&#39;s death (also in Bond&#39;s arms), but doesn&#39;t have the guts to end it there.  Instead of leaving the audience hanging, we now know all to well what to expect the next go around.</p>
 
 <p>Signed,</p>
 
-<p><p>Christopher Redmond and Cory Haggart</p></div></p>
+<p>Christopher Redmond and Cory Haggart</p>
 
           </div>
         </div>
         <div id="up-next" class="up-next">
           <div class="up-next-title">
-            <h1 class="up-next-header">Related Reviews</h1>
+            <h1 class="up-next-header">Related Articles</h1>
             <hr class="up-next-rule">
           </div>
           <div class="row">
@@ -324,50 +333,58 @@
     </script>
       </div>
 
-    </div>
+      </div>
 <div id="footer">
         <footer class="mm-fixed-bottom">
           <div class="footer">
-            <div class="row">
-              <div class="large-4 medium-4 small-4 columns collapse divder hide-for-small-only">
-                <ul>
-                                      <li class="text"><a href="/reviews/">Reviews.</a>
+            <div class="row" data-equalizer>
+              <div class="large-4 columns collapse divder show-for-large-only " data-equalizer-watch>
+                <div class="footer-block">
+                  <ul>
+                              <li><span>Reviews</span>
             <ul>
+              <li><a href="/reviews/">All Reviews</a></li>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="/features/">Features.</a>
+                              <li><span>Features</span>
             <ul>
+              <li><a href="/features/">All Features</a></li>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
-          </li>
-<!--                     <li><a href="#">Podcast</a>
-            <ul>
-              <li><a href="#">Archive</a></li>
-            </ul>
-          </li> -->
-                    <li><a href="/about/">About.</a>
-            <ul>
-              <li><a href="/about/writers/">Writers</a></li>
-              <li><a href="/about/contact/">Contact</a></li>
-            </ul>
-          </li>
-                </ul>
-              </div>
-                <div class="large-4 medium-4 small-6 columns divider collapse">
-                  <h1 class="footer-head">Follow</h1>
-                  <ul class="social">
-                    <li class="social"><a class="social-twitter"></a></li>
-                    <li class="social"><a class="social-facebook"></a></li>
-                    <li class="social"><a class="social-letterboxd"></a></li>
-                    <li class="social"><a class="social-rss"></a></li>
+          </li>                  
                   </ul>
+                  <ul class="footer-single-links">
+                              <li>
+            <a href="/writers/">Writers</a>
+          </li>
+                              <li>
+            <a href="/about/">About</a>
+          </li>
+                              <li>
+            <a href="/contact/">Contact</a>
+          </li>
+                  </ul>                </div>
+              </div>
+              <div class="large-4 medium-6 columns divider collapse" data-equalizer-watch>
+                <div class="footer-block">
+                  <div class="footer-social">
+                    <h1 class="footer-head">Follow</h1>
+                      <ul>
+                        <li class="social"><a href="http://www.twitter.com/DearCastandCrew/" class="social-twitter"></a></li>
+                        <li class="social"><a href="http://www.facebook.com/DearCastandCrew/" class="social-facebook"></a></li>
+                        <li class="social"><a href="http://www.letterboxd.com/dearcastandcrew/" class="social-letterboxd"></a></li>
+                        <li class="social"><a class="social-rss"></a></li>
+                      </ul>
+                  </div>
                 </div>
-                <div class="large-4 medium-4 small-6 columns collapse">
+              </div>
+              <div class="large-4 medium-6 columns collapse" data-equalizer-watch>
+                <div class="footer-block no-divider">
                   <h1 class="footer-head">Subscribe</h1>
                 <!-- Begin MailChimp Signup Form -->
                   <div id="mc_embed_signup">
@@ -387,17 +404,18 @@
                   </div>
                 </div>
               </div>
-              <div class="row">
-                <div class="small-12 columns collapse">
-                  <hr />
-                  <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
-                </div>
+            </div>
+            <div class="row">
+              <div class="small-12 columns collapse">
+                <hr />
+                <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
               </div>
             </div>
           </div>
   <!--End mc_embed_signup-->
         </footer>
       </div>
+    </div>
   
   <!-- Search modal overlay -->
   

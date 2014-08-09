@@ -11,6 +11,8 @@ highlighter: true
 
 custom_paginate: 24
 
+author_paginate: 24
+
 # post_groups:
 #     - key: author
 #       key_plural: authors

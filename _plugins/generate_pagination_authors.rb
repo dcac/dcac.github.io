@@ -7,12 +7,12 @@ module Jekyll
   
     class AuthorGenerator < Generator
       def generate(site)
-        site.config['authors'] = post_key_hash(site, 'author', '/about/writers/caseyt/index.html', 'caseyt')
-        site.config['authors'] = post_key_hash(site, 'author', '/about/writers/christopherr/index.html', 'christopherr')
-        site.config['authors'] = post_key_hash(site, 'author', '/about/writers/coryh/index.html', 'coryh')
-        site.config['authors'] = post_key_hash(site, 'author', '/about/writers/dig/index.html', 'dig')
-        site.config['authors'] = post_key_hash(site, 'author', '/about/writers/jaredy/index.html', 'jaredy')
-        site.config['authors'] = post_key_hash(site, 'author', '/about/writers/kelany/index.html', 'kelany')
+        site.config['authors'] = post_key_hash(site, 'author', '/writers/caseyt/index.html', 'caseyt')
+        site.config['authors'] = post_key_hash(site, 'author', '/writers/christopherr/index.html', 'christopherr')
+        site.config['authors'] = post_key_hash(site, 'author', '/writers/coryh/index.html', 'coryh')
+        site.config['authors'] = post_key_hash(site, 'author', '/writers/dig/index.html', 'dig')
+        site.config['authors'] = post_key_hash(site, 'author', '/writers/jaredy/index.html', 'jaredy')
+        site.config['authors'] = post_key_hash(site, 'author', '/writers/kelany/index.html', 'kelany')
       end
   
       ##
@@ -42,7 +42,7 @@ module Jekyll
           path == page_path
         end.first
 
-        pages = Pager.calculate_pages(all_posts, site.config['custom_paginate'].to_i)
+        pages = Pager.calculate_pages(all_posts, site.config['author_paginate'].to_i)
         (1..pages).each do |num_page|
           pager = Pager.new(site, num_page, all_posts, pages, page)
           if num_page > 1
@@ -130,7 +130,7 @@ module Jekyll
     #             of pages calculated.
     def initialize(site, page, all_posts, num_pages = nil, target_page)
       @page = page
-      @per_page = site.config['custom_paginate'].to_i
+      @per_page = site.config['author_paginate'].to_i
       @total_pages = num_pages || Pager.calculate_pages(all_posts, @per_page)
 
       if @page > @total_pages

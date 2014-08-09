@@ -1,9 +1,9 @@
 ---
 published: true
 section: General
-categories: reviews
 image: 
 imdb: 
+layout: feature
 author: christopherr
 stars: 
 excerpt: 

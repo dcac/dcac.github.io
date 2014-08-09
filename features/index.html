@@ -2,7 +2,7 @@
 css: home.css
 section: Features
 title: Features
-category: features`
+category: features
 layout: default
 ---
     {% include top-nav.html %}
@@ -12,7 +12,7 @@ layout: default
         {% for post in paginator.posts %}
         {% assign author = site.data.authors[post.author] %}
          <div class="section-post large-4 medium-4 small-6 columns{% if forloop.last %} end{% endif %}">
-          {% include post-grid/post.html %}
+          {% include post-grid/feature-post.html %}
         </div>
         {% endfor %}
       </div>

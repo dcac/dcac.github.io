@@ -1,7 +1,7 @@
 ---
 published: true
 section: General
-categories: reviews
+layout: feature
 image: 
 imdb: 
 author: christopherr

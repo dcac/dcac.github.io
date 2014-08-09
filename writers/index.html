@@ -1,0 +1,26 @@
+---
+css: home.css
+section: Writers
+title: Writers
+layout: default
+list_authors:
+  - caseyt
+  - christopherr
+  - coryh
+  - jaredy
+  - dig
+  - kelany
+---
+      {% include top-nav.html %}
+      {% include writers-nav.html %}
+      <div class="row" id="load-posts-area">
+{% for list_author in page.list_authors %}
+{% assign author = site.data.authors[list_author] %}
+         <div class="large-4 medium-4 columns{% if forloop.last %} end {% endif %} author">
+           <a href="/writers/{{ list_author }}/">
+             <img src="/img/writers/{{ author.image }}" alt="{{ author.name }}" />
+             <h2>{{ author.name }}</h2>
+          </a>
+        </div>
+{% endfor %}
+      </div>

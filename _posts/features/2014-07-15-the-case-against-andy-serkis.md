@@ -8,7 +8,7 @@ stars:
 excerpt: "Dawn of the Planet of the Apes has reignited the debate about the role of the actor in motion capture performances."
 position: 
 addressee: Andy Serkis
-layout: review
+layout: feature
 categories: 
   - essays
   - features

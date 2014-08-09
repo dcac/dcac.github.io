@@ -125,7 +125,7 @@ module Jekyll
     #             of pages calculated.
     def initialize(site, page, all_posts, num_pages = nil, target_page)
       @page = page
-      @per_page = site.config['custom_paginate'].to_i
+      @per_page = site.config['author_paginate'].to_i
       @total_pages = num_pages || Pager.calculate_pages(all_posts, @per_page)
 
       if @page > @total_pages

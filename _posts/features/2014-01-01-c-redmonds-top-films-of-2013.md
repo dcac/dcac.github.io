@@ -10,7 +10,7 @@ stars:
 excerpt: 'While the editorial staff of Dear Cast and Crew couldn&rsquo;t settle on any definitive best-of list to cap off the year, the concession prize is that Chridtopher Redmons offers his own personal short list for the year&rsquo;s best films.'
 position: 
 addressee: Readers
-layout: review
+layout: feature
 title: "C. Redmond's Top Films of 2013"
 comments: true
 tags: [2013, Awards, awesome, Best, Canadian, critic, films, good, list, movies, Top films 2013, worst, year end]

@@ -46,7 +46,7 @@ module Jekyll
           path = page.dir + "/" + page.name
           path == page_path
         end.first
-
+        #puts site.config['custom_paginate']
         pages = Pager.calculate_pages(all_posts, site.config['custom_paginate'].to_i)
         (1..pages).each do |num_page|
           pager = Pager.new(site, num_page, all_posts, pages, page)

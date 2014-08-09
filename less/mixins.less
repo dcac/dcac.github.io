@@ -22,7 +22,23 @@
 .title-img(){
   z-index: 0;
 }
+
+// Standard copy styles
+
+.body-copy{  
+  text-align:left;
+  position: relative;
+  color:@dark-grey;
+  font-size: @text-regular;
+  line-height: @20px;
+  font-family: @sans-serif;
+  width:100%;
+  margin: 0 auto;
+  margin-top: @20px;
+}
+
 //Secondary review grid
+
 .review-block(@margin-bottom:@25px,@min-height:auto,@margin-top:0){
   margin-bottom: @margin-bottom;
   min-height:@min-height;
@@ -117,6 +133,7 @@
 }
 
 //pagination styles
+
 .pagination-arrow(@img:'url(../img/global/pagination/right-arrow-off.svg'){
   background-image:@img;
   width:25px;

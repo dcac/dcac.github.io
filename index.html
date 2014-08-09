@@ -30,11 +30,11 @@ section: General
                     </div>
                     <div class="home-status-container">
                       <div class="home-status-title show-for-small-only">
-                        <img src="/img/global/stamp.svg" class="standard review-stamp" />
+                        <img src="/img/global/stamp.svg" class="standard review-stamp" alt="Stamp" />
                     {% if post.stars < 1.5 %}Junk<br />Mail{% elsif post.stars >= 1.5 and post.stars < 2.5 %}Return to<br />Sender{% elsif post.stars >= 2.5 and post.stars < 3.5 %}Standard<br />Delivery{% elsif post.stars >= 3.5 and post.stars < 4.5  %}Air<br />Mail{% elsif post.stars >= 4.5 %}Priority<br />Post{% endif %}<br />
                       </div>
                       <div class="large-star-rating-home">
-                        {% for i in (1..post.stars) %}<img class="star-large" src="/img/global/star-blue.svg" />{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<img class="star-large" src="/img/global/star-blue-half.svg" />{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img class="star-large" src="/img/global/star-white.svg" />{% endfor %}{% endif %}
+                        {% for i in (1..post.stars) %}<img class="star-large" src="/img/global/star-blue.svg" alt="" />{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<img class="star-large" src="/img/global/star-blue-half.svg" alt="" />{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img class="star-large" src="/img/global/star-white.svg" alt="" />{% endfor %}{% endif %}
                       </div>
                     </div>
                   </div>
@@ -97,7 +97,7 @@ section: General
                <!--    <h1 class="now-streaming-title">Now Streaming</h1> -->
                   <ul class="now-streaming-list">
                   {% for post in site.categories['reviews']  limit:15 %}
-                		<li class="now-streaming-title"><a href="{{ post.url }}">{{ post.title }} <span class="star-rating">{% for i in (1..post.stars) %}<img src="/img/global/star-red.svg" class="star-small" />{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<img src="/img/global/star-red-half.svg" class="star-small" />{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img src="/img/global/star-grey.svg" class="star-small" />{% endfor %}{% endif %}</span></a></li>
+                		<li class="now-streaming-title"><a href="{{ post.url }}">{{ post.title }} <span class="star-rating">{% for i in (1..post.stars) %}<img src="/img/global/star-red.svg" class="star-small" alt="" />{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<img src="/img/global/star-red-half.svg" class="star-small" alt="" />{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img src="/img/global/star-grey.svg" class="star-small" alt="" />{% endfor %}{% endif %}</span></a></li>
                     {% endfor %}
                   </ul>
                 </div>
@@ -122,6 +122,6 @@ section: General
           </div>
           <div class="load-posts-div">
             <button id="load-posts" class="load-posts-button">More Reviews</button>
-            <a href="/reviews/index.html" id="goto-posts" class="goto-posts-button">Browse All Reviews ></button>
+            <a href="/reviews/index.html" id="goto-posts" class="goto-posts-button">Browse All Reviews ></a>
           </div>
       </div>

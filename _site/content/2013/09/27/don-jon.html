@@ -44,20 +44,22 @@
 
 
   <body>
-  <div id="nav-test"><a href="/"><img src="/img/global/dcac-full-logo-white.svg" class="side-home-link" /></a></div>
+  <div id="nav-header"><a href="/"><img src="/img/global/dcac-full-logo-white.svg" class="side-home-link" /></a></div>
   <nav id="menu-left">
     <!-- Sidebar Nav -->
-      <ul>
-        <li><a href="#" id="side-search-toggle"><i class="fa fa-search"></i> Search</a></li>
-                            <li class="text"><a href="/reviews/">Reviews.</a>
+    <ul>
+      <li><a href="#" id="side-search-toggle"><i class="fa fa-search"></i> <!-- Search --></a></li>
+                          <li><span>Reviews</span>
             <ul>
+              <li><a href="/reviews/">All Reviews</a></li>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="/features/">Features.</a>
+                    <li><span>Features</span>
             <ul>
+              <li><a href="/features/">All Features</a></li>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
               <li><a href="/features/lists/">Lists</a></li>
@@ -68,17 +70,26 @@
               <li><a href="#">Archive</a></li>
             </ul>
           </li> -->
-                    <li><a href="/about/">About.</a>
-            <ul>
-              <li><a href="/about/writers/">Writers</a></li>
-              <li><a href="/about/contact/">Contact</a></li>
-            </ul>
+                    <li>
+            <a href="/writers/">Writers</a>
           </li>
-      </ul>
+                    <li>
+            <a href="/about/">About</a>
+          </li>
+                    <li>
+            <a href="/contact/">Contact</a>
+          </li>
+      <li class="social">
+        <a href="http://www.twitter.com/DearCastandCrew/" class="social-twitter"></a>
+        <a href="http://www.facebook.com/DearCastandCrew/" class="social-facebook"></a>
+        <a href="http://www.letterboxd.com/dearcastandcrew/" class="social-letterboxd"></a>
+      </li>
+    </ul>
     <!-- End Sidebar Nav -->
     </nav>
-    <div class="container-shadow" id="main-container">    
-             
+    <div>
+      <div class="container-shadow" id="main-container">    
+               
 <div class="full-white">
       <div class="row collapse">
         <div class="section-header">
@@ -99,9 +110,7 @@
     <div class="mini-top-nav-hidden mm-fixed-top" id="mini-top-nav">
       <nav class="top-bar" data-topbar>
         <ul class="title-area">
-          <li class="name dcac-logo" id="nav-toggle">
-            <h1><a href="#">Dear Cast & Crew</a></h1>
-          </li>
+          <li class="name dcac-logo" id="nav-toggle"></li>
         </ul>
         <section class="top-bar-section">
           <!-- Right Nav Section -->
@@ -111,7 +120,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post:</strong></span> <em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -128,7 +137,7 @@
                 <div class="title-block">
                   <h1 class="hero">Don Jon</h1>
                   <h2 class="hero-author">
-                    By <a href="/about/writers/christopherr">Christopher Redmond</a>
+                    By <a href="/writers/christopherr">Christopher Redmond</a>
                   </h2>
                   <h2 class="hero-date">
                     Mailed on September 27, 2013
@@ -186,7 +195,7 @@
         </div>
         <div id="up-next" class="up-next">
           <div class="up-next-title">
-            <h1 class="up-next-header">Related Reviews</h1>
+            <h1 class="up-next-header">Related Articles</h1>
             <hr class="up-next-rule">
           </div>
           <div class="row">
@@ -322,50 +331,58 @@
     </script>
       </div>
 
-    </div>
+      </div>
 <div id="footer">
         <footer class="mm-fixed-bottom">
           <div class="footer">
-            <div class="row">
-              <div class="large-4 medium-4 small-4 columns collapse divder hide-for-small-only">
-                <ul>
-                                      <li class="text"><a href="/reviews/">Reviews.</a>
+            <div class="row" data-equalizer>
+              <div class="large-4 columns collapse divder show-for-large-only " data-equalizer-watch>
+                <div class="footer-block">
+                  <ul>
+                              <li><span>Reviews</span>
             <ul>
+              <li><a href="/reviews/">All Reviews</a></li>
               <li><a href="/reviews/current-releases/">Current Releases</a></li>
               <li><a href="#">On Video</a></li>
               <li><a href="/reviews/streaming">Now Streaming</a></li>
             </ul>
           </li>
-                    <li><a href="/features/">Features.</a>
+                              <li><span>Features</span>
             <ul>
+              <li><a href="/features/">All Features</a></li>
               <li><a href="/features/essays/">Essays</a></li>
               <li><a href="/features/series/">Series</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
-          </li>
-<!--                     <li><a href="#">Podcast</a>
-            <ul>
-              <li><a href="#">Archive</a></li>
-            </ul>
-          </li> -->
-                    <li><a href="/about/">About.</a>
-            <ul>
-              <li><a href="/about/writers/">Writers</a></li>
-              <li><a href="/about/contact/">Contact</a></li>
-            </ul>
-          </li>
-                </ul>
-              </div>
-                <div class="large-4 medium-4 small-6 columns divider collapse">
-                  <h1 class="footer-head">Follow</h1>
-                  <ul class="social">
-                    <li class="social"><a class="social-twitter"></a></li>
-                    <li class="social"><a class="social-facebook"></a></li>
-                    <li class="social"><a class="social-letterboxd"></a></li>
-                    <li class="social"><a class="social-rss"></a></li>
+          </li>                  
                   </ul>
+                  <ul class="footer-single-links">
+                              <li>
+            <a href="/writers/">Writers</a>
+          </li>
+                              <li>
+            <a href="/about/">About</a>
+          </li>
+                              <li>
+            <a href="/contact/">Contact</a>
+          </li>
+                  </ul>                </div>
+              </div>
+              <div class="large-4 medium-6 columns divider collapse" data-equalizer-watch>
+                <div class="footer-block">
+                  <div class="footer-social">
+                    <h1 class="footer-head">Follow</h1>
+                      <ul>
+                        <li class="social"><a href="http://www.twitter.com/DearCastandCrew/" class="social-twitter"></a></li>
+                        <li class="social"><a href="http://www.facebook.com/DearCastandCrew/" class="social-facebook"></a></li>
+                        <li class="social"><a href="http://www.letterboxd.com/dearcastandcrew/" class="social-letterboxd"></a></li>
+                        <li class="social"><a class="social-rss"></a></li>
+                      </ul>
+                  </div>
                 </div>
-                <div class="large-4 medium-4 small-6 columns collapse">
+              </div>
+              <div class="large-4 medium-6 columns collapse" data-equalizer-watch>
+                <div class="footer-block no-divider">
                   <h1 class="footer-head">Subscribe</h1>
                 <!-- Begin MailChimp Signup Form -->
                   <div id="mc_embed_signup">
@@ -385,17 +402,18 @@
                   </div>
                 </div>
               </div>
-              <div class="row">
-                <div class="small-12 columns collapse">
-                  <hr />
-                  <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
-                </div>
+            </div>
+            <div class="row">
+              <div class="small-12 columns collapse">
+                <hr />
+                <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
               </div>
             </div>
           </div>
   <!--End mc_embed_signup-->
         </footer>
       </div>
+    </div>
   
   <!-- Search modal overlay -->
   

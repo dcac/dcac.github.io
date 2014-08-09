@@ -8,7 +8,7 @@ stars:
 excerpt: 
 position: 
 addressee: 
-layout: review
+layout: feature
 categories:
   - features
   - lists

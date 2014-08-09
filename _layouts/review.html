@@ -12,7 +12,7 @@ layout: default
                 <div class="title-block">
                   <h1 class="hero">{{ page.title }}</h1>
                   <h2 class="hero-author">
-                    By {% if author.profiled %}<a href="/about/writers/{{ page.author }}">{% endif %}{{ author.name }}{% if author.profiled %}</a>{% endif %}
+                    By {% if author.profiled %}<a href="/writers/{{ page.author }}">{% endif %}{{ author.name }}{% if author.profiled %}</a>{% endif %}
                   </h2>
                   <h2 class="hero-date">
                     Mailed on {{ page.date | date: "%B %d, %Y" }}
@@ -53,7 +53,7 @@ layout: default
         </div>
         <div id="up-next" class="up-next">
           <div class="up-next-title">
-            <h1 class="up-next-header">Related Reviews</h1>
+            <h1 class="up-next-header">Related Articles</h1>
             <hr class="up-next-rule">
           </div>
           <div class="row">

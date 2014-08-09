@@ -1,22 +1,34 @@
 <div id="footer">
         <footer class="mm-fixed-bottom">
           <div class="footer">
-            <div class="row">
-              <div class="large-4 medium-4 small-4 columns collapse divder hide-for-small-only">
-                <ul>
-                  {% include site-nav.html %}
-                </ul>
-              </div>
-                <div class="large-4 medium-4 small-6 columns divider collapse">
-                  <h1 class="footer-head">Follow</h1>
-                  <ul class="social">
-                    <li class="social"><a class="social-twitter"></a></li>
-                    <li class="social"><a class="social-facebook"></a></li>
-                    <li class="social"><a class="social-letterboxd"></a></li>
-                    <li class="social"><a class="social-rss"></a></li>
+            <div class="row" data-equalizer>
+              <div class="large-4 columns collapse divder show-for-large-only " data-equalizer-watch>
+                <div class="footer-block">
+                  <ul>
+                    {% include nav/reviews-nav.html %}
+                    {% include nav/features-nav.html %}                  
                   </ul>
+                  <ul class="footer-single-links">
+                    {% include nav/writers-nav.html %}
+                    {% include nav/about-nav.html %}
+                    {% include nav/contact-nav.html %}
+                  </ul>                </div>
+              </div>
+              <div class="large-4 medium-6 columns divider collapse" data-equalizer-watch>
+                <div class="footer-block">
+                  <div class="footer-social">
+                    <h1 class="footer-head">Follow</h1>
+                      <ul>
+                        <li class="social"><a href="http://www.twitter.com/DearCastandCrew/" class="social-twitter"></a></li>
+                        <li class="social"><a href="http://www.facebook.com/DearCastandCrew/" class="social-facebook"></a></li>
+                        <li class="social"><a href="http://www.letterboxd.com/dearcastandcrew/" class="social-letterboxd"></a></li>
+                        <li class="social"><a class="social-rss"></a></li>
+                      </ul>
+                  </div>
                 </div>
-                <div class="large-4 medium-4 small-6 columns collapse">
+              </div>
+              <div class="large-4 medium-6 columns collapse" data-equalizer-watch>
+                <div class="footer-block no-divider">
                   <h1 class="footer-head">Subscribe</h1>
                 <!-- Begin MailChimp Signup Form -->
                   <div id="mc_embed_signup">
@@ -36,11 +48,11 @@
                   </div>
                 </div>
               </div>
-              <div class="row">
-                <div class="small-12 columns collapse">
-                  <hr />
-                  <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
-                </div>
+            </div>
+            <div class="row">
+              <div class="small-12 columns collapse">
+                <hr />
+                <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
               </div>
             </div>
           </div>

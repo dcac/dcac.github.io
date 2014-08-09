@@ -19,9 +19,7 @@
     <div class="mini-top-nav-hidden mm-fixed-top" id="mini-top-nav">
       <nav class="top-bar" data-topbar>
         <ul class="title-area">
-          <li class="name dcac-logo" id="nav-toggle">
-            <h1><a href="#">Dear Cast & Crew</a></h1>
-          </li>
+          <li class="name dcac-logo" id="nav-toggle"></li>
         </ul>
         <section class="top-bar-section">
           <!-- Right Nav Section -->
@@ -31,7 +29,7 @@
           <ul class="left">
             {% for post in site.posts limit:1 %}
             {% assign author = site.data.authors[post.author] %}
-            <li><a href="{{ post.url }}" class="latest-review"><strong>Latest post:</strong></span> <em>{{ post.title }}</em> - Dear {{ post.addressee }}, {{ post.position }}</a></li>
+            <li><a href="{{ post.url }}" class="latest-review"><strong>Latest post: </strong><em>{{ post.title }}</em> - Dear {{ post.addressee }}, {{ post.position }}</a></li>
             {% endfor %}
           </ul>
         </section>
