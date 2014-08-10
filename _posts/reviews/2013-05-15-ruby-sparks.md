@@ -1,21 +1,18 @@
 ---
 published: true
-section: General
-image: 
-imdb: 
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: ruby-sparks.jpg
+imdb: tt1839492
+author: christopherr
+stars: 4
+excerpt: "Let me get this straight. You wrote a story about a writer, who writes about a fictional dream girl that magically comes to life. You were then cast as said girl (Ruby Sparks) and brought her to life on screen, yourself. There&rsquo;s two ways to look at this. One, you just cleverly wrote a dream part for yourself to play, and then did. Or two, this film is not just thematically, but literally, the manifestation of a meta-physical crisis whereby your unrealistic, self-absorbed standards of perfection have come to life in order to teach you a lesson."
+position: Writer/Actress/Executive Producer
+addressee: Zoe Kazan
 layout: review
 categories: reviews
 title: "Ruby Sparks"
 comments: true
 tags: [comedy, fantasy, Letters, netflix.ca, Paul Dano, romance, Zoe Kazan]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/5/15/ruby-sparks.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf782f/1368651182013/Ruby%20Sparks.jpg" alt="" /></a></span></span></p>
-<p><em><span style="font-size:130%;"><strong>Dear Zoe Kazan</strong>, Writer/Actress/Executive Producer,</span></em></p>
 <p>Let me get this straight. You wrote a story about a writer, who writes about a fictional dream girl that magically comes to life. You were then cast as said girl (Ruby Sparks) and brought her to life on screen, yourself. There&rsquo;s two ways to look at this. One, you just cleverly wrote a dream part for yourself to play, and then did. Or two, this film is not just thematically, but literally, the manifestation of a meta-physical crisis whereby your unrealistic, self-absorbed standards of perfection have come to life in order to teach you a lesson. &nbsp;</p>
 <p>To be honest, both possibilities only deepen my affection for this perfectly charming indie film. But after seeing your name all over the closing credits, I can&rsquo;t help but add my own narrative.</p>
 <p>So you, Zoe the writer (and granddaughter of legendary director Elia Kazan), write a screenplay called <em>Ruby Sparks</em> that centers around a young prodigal male authour named Calvin Weird-Fields, played by your real-life boyfriend Paul Dano. Calvin is a loner who dreams of meeting a girl that fills all his fantasies of what a girl should be &ndash; cute, quirky, completely affectionate and unwaveringly loyal. But since you are the original author, these are either your own self-projections, your own desires, or just your interpretation of the male fantasy. Either way, you suddenly appear as Ruby Sparks, and embody them all. Which, at least initially, seems to be a dream come true for everyone involved &ndash; fictional and real.</p>
@@ -24,4 +21,3 @@ tags: [comedy, fantasy, Letters, netflix.ca, Paul Dano, romance, Zoe Kazan]
 <p>For you, it was actually life changing.&nbsp;</p>
 <p>Sincerely,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Air Mail (4/5)</em></strong></p></div>

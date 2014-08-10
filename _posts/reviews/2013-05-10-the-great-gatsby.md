@@ -1,21 +1,18 @@
 ---
 published: true
-section: General
-image: 
-imdb: 
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: the-great-gatsby.jpg
+imdb: tt1343092
+author: christopherr
+stars: 3.5
+excerpt: "Sup Z. Sorry, I mean Mr. Carter. Ugh, that doesn&rsquo;t feel right. Your stage name commands more respect than standard honorifics in today&rsquo;s superficial, celebrity-obsessed world. Why shouldn&rsquo;t it? You&rsquo;re a self-made man. A party magnet (and magnate) who built a fortune under an assumed name while living the American dream. You&rsquo;re a modern day Jay Gatsby<em> </em>if ever there was one."
+position: Executive Producer
+addressee: Shawn "Jay-Z" Carter
 layout: review
 categories: reviews
 title: "The Great Gatsby"
 comments: true
 tags: [adaptation, Baz Lurhmann, Beyonc, Beyonce, Carey Mulligan, hip hop, Jay-Z, Leonardo DiCaprio, Letters, Oscars 2014, The Great Gatsby, Tobey Maguire]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/5/10/the-great-gatsby.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf782b/1368223957197/The%20Great%20Gatsby.jpg" alt="" /></a></span></span></p>
-<p><em><strong><span style="font-size:130%;">Dear Shawn &ldquo;Jay-Z&rdquo; Carter,</span></strong><span style="font-size:130%;"> Executive Producer,</span></em></p>
 <p>&lsquo;Sup Z. Sorry, I mean Mr. Carter. Ugh, that doesn&rsquo;t feel right. Your stage name commands more respect than standard honorifics in today&rsquo;s superficial, celebrity-obsessed world. Why shouldn&rsquo;t it? You&rsquo;re a self-made man. A party magnet (and magnate) who built a fortune under an assumed name while living the American dream. You&rsquo;re a modern day Jay Gatsby<em> </em>if ever there was one.</p>
 <p>It&rsquo;s only fitting that someone with your contemporary sensibilities was involved with bringing to the screen F. Scott Fitzgerald&rsquo;s classic cautionary tale of riches, recklessness, and youth.</p>
 <p>Like most Baz Luhrmann films, it begins with the soundtrack. In <em>Strictly Ballroom</em>, <em>Romeo + Juliet</em> and <em>Moulin Rouge </em>(dubbed his &ldquo;red curtain&rdquo; trilogy) the pop score doesn&#8217;t just set a tone, it&rsquo;s a fully-developed character in the film. The lyrics supplement the narration, while the music propels the imagery. Few films would ever look so jumbled on mute. <em>The Great Gatsby</em> is no different, and you&rsquo;ve helped Lurhmann build a bridge back in time by helping him incorporate the music of some of today&rsquo;s most popular and acclaimed artists.</p>
@@ -27,4 +24,3 @@ tags: [adaptation, Baz Lurhmann, Beyonc, Beyonce, Carey Mulligan, hip hop, Jay-Z
 <p>Sure, this movie&rsquo;s got problems, but a bitchin&rsquo; soundtrack ain&rsquo;t one.</p>
 <p>Peace out,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Air Mail (3.5/5)</em></strong></p></div>

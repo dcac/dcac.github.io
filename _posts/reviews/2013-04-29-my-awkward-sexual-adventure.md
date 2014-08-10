@@ -1,21 +1,18 @@
 ---
 published: true
-section: General
-image: 
-imdb: 
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: my-awkward-sexual-adventure.jpg
+imdb: tt2112210
+author: christopherr
+stars: 3
+excerpt: "Pierre Elliot Trudeau once famously proclaimed: &ldquo;There&rsquo;s no room for the state in the bedrooms of the nation.&rdquo; Typical Liberal, eh? Always missing the chance to make a buck."
+position: Financial Supporter
+addressee: Government of Canada
 layout: review
 categories: reviews
 title: "My Awkward Sexual Adventure"
 comments: true
 tags: [Canada, Canadian, comedy, Film, government of canada, Jonas Chernick, Letters, Sean Garrity, tax credits, telefilm]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/4/29/my-awkward-sexual-adventure.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7827/1367256828363/My%20Awkward%20Sexual%20Adventure.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear The Government of Canada</strong>, Financial Supporter,</em></p>
 <p>Pierre Elliot Trudeau once famously proclaimed: &ldquo;There&rsquo;s no room for the state in the bedrooms of the nation.&rdquo; Typical Liberal, eh? Always missing the chance to make a buck.</p>
 <p>Today, you (or <em>we</em>, the Canadian people) are investing in the nation&rsquo;s naughty business, then selling it back to the public (or<em> ourselves, </em>the Canadian people).Federal tax credits keep the film industry afloat and taxpayers agree to fund cultural agencies such as Telefilm, who, in turn, invest in movies like <em>My Awkward Sexual Adventure</em>. It&rsquo;s a funny system to be sure, one which has raised more than a few voices in the House of Commons (<em>Bubbles Galore</em> and <em>Young People Fucking</em> spring to mind).&nbsp; But the policy continues, panning for cinematic cultural gold that will enrich our lives.</p>
 <p>Well, this film might not be it, but it&rsquo;s certainly not a complete write-off either.</p>
@@ -26,4 +23,3 @@ tags: [Canada, Canadian, comedy, Film, government of canada, Jonas Chernick, Let
 <p>On purpose, anyway.</p>
 <p>A satisfied citizen,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Standard Delivery (3/5)</em></strong></p></div>

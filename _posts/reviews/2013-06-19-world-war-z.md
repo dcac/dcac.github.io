@@ -1,21 +1,18 @@
 ---
 published: true
-section: General
-image: 
-imdb: 
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: world-war-z.jpg
+imdb: tt0816711
+author: jaredy
+stars: 2.5
+excerpt: "We love you, Marc. You know that, don&rsquo;t you? We care for you. We just want the best for you. That&rsquo;s why we&rsquo;re writing this letter. Because you have a problem. Everyone sees it. They see it, but they don&rsquo;t necessarily understand it&mdash;and that&rsquo;s the heart of the issue: common sense, comprehension, spatial logic. You&rsquo;ve given up on these things. You&rsquo;ve given up on <em>us</em>, Marc. You&rsquo;ve given up on your audience."
+position: Director
+addressee: Marc Foster
 layout: review
 categories: reviews
 title: "World War Z"
 comments: true
 tags: [action, Brad Pitt, horror, Letters, Marc Forster, zombies]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/6/19/world-war-z.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7864/1371650194227/world-war-z.jpg" alt="" /></a></span></span></p>
-<p><em><span style="font-size:120%;"><strong>Dear Marc Forster,</strong> Director,</span>&nbsp;</em></p>
 <p>We love you, Marc. You know that, don&rsquo;t you? We care for you. We just want the best for you. That&rsquo;s why we&rsquo;re writing this letter. Because you have a problem. Everyone sees it. They see it, but they don&rsquo;t necessarily understand it&mdash;and that&rsquo;s the heart of the issue: common sense, comprehension, spatial logic. You&rsquo;ve given up on these things. You&rsquo;ve given up on <em>us</em>, Marc. You&rsquo;ve given up on your audience. &nbsp;&nbsp;</p>
 <p>You&rsquo;re an addict.&nbsp;</p>
 <p><em>There</em>&hellip;I said it.&nbsp;</p>
@@ -34,5 +31,3 @@ tags: [action, Brad Pitt, horror, Letters, Marc Forster, zombies]
 <p>The rest of your life begins right now. &nbsp;&nbsp;</p>
 <p>Sincerely,&nbsp;</p>
 <p>Jared Young</p>
-<p><strong><em>Status: Standard Delivery (<strong>2.5/5)</strong></em></strong></p>
-<div></div></div>

@@ -1,26 +1,19 @@
 ---
 published: true
-section: General
-image: 
-imdb: 
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: how-to-survive-a-plague.jpg
+imdb: tt2124803
+author: coryh
+stars: 4
+excerpt: "our job must have been the easiest, and toughest job in the world. You were tasked with editing an amazing true story, chocked full with drama. There are interesting individuals, a battle against enormous odds, copious amounts of love, death, survival, politics, prejudice, community, and even a happy ending (for many). With subject matter is so rich, how do you choose what your particular movie will be about? Almost any documentary on this topic would &nbsp;have been worthwhile. By not making some hard story choices, however, How to Survive a Plague is merely good, and not as great as it could have been. "
+position: Story Editor
+addressee: Stephen Winter
 layout: review
 categories: reviews
 title: "How To Survive A Plague"
 comments: true
 tags: [Act UP, activist, AIDS, archival, documentary, fight, Letters, Occupy, Oscar, protest, Tea Party]
 ---
-<div><div id="_mcePaste"><span class="full-image-block ssNonEditable"><a href="/letters/2013/2/26/how-to-survive-a-plague.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf77d5/1361907029096/How%20to%20Survive%20a%20Plague.jpg" alt="" /></a></span></div>
-<div style="font-size:120%;"><span style="font-size:120%;"><em><strong>Dear Stephen Winter, </strong>Story Editor,</em></span></div>
-<div style="font-size:130%;"><span style="font-size:130%;"><em style="font-size:80%;"><br /></em></span></div>
-<div style="font-size:50%;"></div>
-<div style="font-size:130%;"></div>
-<div style="font-size:130%;"></div>
-<div style="font-size:130%;"><span style="font-size:80%;">Your job must have been the easiest, and toughest job in the world. You were tasked with editing an amazing true story, chocked full with drama. There are interesting individuals, a battle against enormous odds, copious amounts of love, death, survival, politics, prejudice, community, and even a happy ending (for many). With subject matter is so rich, how do you choose what your particular movie will be about? Almost any documentary on this topic would &nbsp;have been worthwhile. By not making some hard story choices, however, How to Survive a Plague is merely good, and not as great as it could have been. </span></div>
+Your job must have been the easiest, and toughest job in the world. You were tasked with editing an amazing true story, chocked full with drama. There are interesting individuals, a battle against enormous odds, copious amounts of love, death, survival, politics, prejudice, community, and even a happy ending (for many). With subject matter is so rich, how do you choose what your particular movie will be about? Almost any documentary on this topic would &nbsp;have been worthwhile. By not making some hard story choices, however, How to Survive a Plague is merely good, and not as great as it could have been. </span></div>
 <p><span style="font-size:80%;"> </span></p>
 <div id="_mcePaste">Starting in New York City in the early 80s, the film traces the beginning of AIDS awareness and what that meant. As the global rates of death and infection rise, the film follows activist groups and passionate leaders who work together to respond. You had a lot of surprising footage to work with, from inside grass-roots meetings and multiple protests. Diverse groups of people came together to tackle a complicated problem, simultaneously battling misinformation, government neglect and incompetence, corporate greed, the nonpareil dickishness of Jesse Helms, prejudice, fear, and a very deadly disease.&nbsp;</div>
 <p>&nbsp;</p>
@@ -35,7 +28,3 @@ tags: [Act UP, activist, AIDS, archival, documentary, fight, Letters, Occupy, Os
 <div id="_mcePaste">Gratefully Yours,&nbsp;</div>
 <p>&nbsp;</p>
 <div id="_mcePaste">Cory</div>
-<p>&nbsp;</p>
-<div><strong><em>Status: Air Mail (4/5)</em></strong></div>
-<div></div>
-<div></div></div>

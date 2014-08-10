@@ -1,21 +1,18 @@
 ---
 published: true
-section: General
-image: 
-imdb: 
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: monsters-university.jpg
+imdb: tt1453405
+author: caseyt
+stars: 3.5
+excerpt: "I wonder if someone in your profession prefers to work on an animated film like<em> Monsters University</em>, where your contribution is easier to understand."
+position: Sound Designer
+addressee: Tom Myers
 layout: review
 categories: reviews
 title: "Monsters University"
 comments: true
 tags: [Animation, Letters, MOnsters University, Pixar, Prequel, Sequel]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/6/21/monsters-university.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7869/1371839897078/Monsters%20University.jpg" alt="" /></a></span></span></p>
-<p class="Body1"><span style="font-size:130%;"><strong><em>Dear Tom Myers,</em></strong><em> Sound Designer,</em></span></p>
 <p class="Body1">I wonder if someone in your profession prefers to work on an animated film like<em> Monsters University</em>, where your contribution is easier to understand.</p>
 <p class="Body1">Sound design has to be one of the great misunderstood arts of filmmaking. If you do your job right, no one knows you even touched the film; your design feels as natural as the world we re-enter afer the credits roll. But you know better. Almost every sound accompanying the onscreen images is completely crafted. And yet, most people are unaware of the ingenious ways you recreate real world sounds with the most unlikely items.&nbsp; Watermelons hit with rubber hoses become punches to the head. Fresh celery broken in half is snapping bones. I don&#8217;t want to know how you solved the challenges presented to you in <em>Zack and Miri Make a Porno.</em></p>
 <p class="Body1">But even when you&#8217;re working on an animated film - a prequel, no less - do you ever find yourself returning to the same bag of tricks? After 86 movies, are you still reusing your existing library of roars, screams, and crashes, or creating something new? I couldn&#8217;t help but think of this while I watched <em>Monsters University</em>, but probably not for the reasons you think.</p>
@@ -27,4 +24,3 @@ tags: [Animation, Letters, MOnsters University, Pixar, Prequel, Sequel]
 <p class="Body1">Overall, though, <em>Monsters University</em>, like your sound design, takes something familiar and changes the context just enough so it feels like it was always meant to be that way.</p>
 <p class="Body1">Listening, always listening,</p>
 <p class="Body1">Casey</p>
-<p class="Body1"><strong><em>Status: Air Mail (3.5/5)</em></strong><strong><em></em></strong></p></div>

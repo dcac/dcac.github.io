@@ -1,21 +1,18 @@
 ---
 published: true
-section: General
-image: 
-imdb: 
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: a-good-day-to-die-hard.jpg
+imdb: tt1606378
+author: caseyt
+stars: 1
+excerpt: "<p>C/O The California Department of Corrections</p>I know things have been tough since you were convicted of obstruction of justice. But I bring you glad tidings. There&rsquo;s one positive that you can take away from your incarceration: you won&#8217;t be able to see A Good Day to Die Hard anytime soon."
+position: Director of Die Hard
+addressee: John McTiernan
 layout: review
 categories: reviews
 title: "A Good Day to Die Hard"
 comments: true
 tags: [action, bruce willis, Die Hard, John McTiernan, Letters, Sequel, shitty sequels]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/2/15/a-good-day-to-die-hard.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf77bd/1360959674993/a-good-day-to-die-hard.jpg" alt="" /></a></span></span></p>
-<p><span style="font-size:120%;"><em style="font-weight:bold;">Dear John McTiernan,</em> Director of <em>Die Hard,</em></span></p>
 <p>C/O The California Department of Corrections</p>
 <p>I know things have been tough since you were convicted of obstruction of justice. But I bring you glad tidings. There&rsquo;s one positive that you can take away from your incarceration: you won&#8217;t be able to see A Good Day to Die Hard anytime soon.&nbsp;</p>
 <p>It may be hard for audiences to remember, but before Die Hard was released in 1988, action movies were populated mostly by grim, monosyllabic heroes. More Superman than everyman. Die Hard proposed something new: that an action hero could rely on his wits just as much as his firepower; that a certain amount of vulnerability made a character more endearing. Bruce&#8217;s Willis&#8217;s John McClane was noteworthy for the fact that he spent much of the movie trying to get himself out of the dangerous situation he had unknowingly become mired in. He knew he was outclassed and outgunned; he just wanted someone to take his calls for help seriously. The best testament to Die Hard&#8217;s revolutionary approach was how quickly it became shorthand for a new kind of action movie. The next decade saw every pitch described as &#8220;Die Hard on a [insert location and/or mode of transportation here].&rdquo;</p>
@@ -28,5 +25,4 @@ tags: [action, bruce willis, Die Hard, John McTiernan, Letters, Sequel, shitty s
 <p>With this group of men, we have a team of criminals that has finally pulled off what was never before possible: they have taken down John McLane.&nbsp;</p>
 <p>But, as I said earlier, I write to cheer you up. Like all good <em>Die Hard</em> characters, I have a plan to reap some good from this disaster. You see, all we have to do is play a copy of A Good Day to Die Hard at your next parole hearing. After watching it, I don&rsquo;t think any judge would deny you your freedom. You see, he&rsquo;ll realize that by keeping you locked away, unavailable to provide any stewardship for this franchise, you&rsquo;re not the one being punished. It&rsquo;s all of us.</p>
 <p>Casey</p>
-<p><strong><em>Status: Junk Mail (1/5)</em></strong></p>
-<div></div></div>
+

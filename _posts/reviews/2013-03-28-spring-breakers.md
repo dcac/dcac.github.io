@@ -1,21 +1,18 @@
 ---
 published: true
-section: General
-image: 
-imdb: 
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: spring-breakers.jpg
+imdb: tt2101441
+author: christopherr
+stars: 4.5
+excerpt: "In Hollywood, image is everything. Get it right and it will make your career; get it wrong. you&rsquo;ll ruin it. &nbsp;<em>Spring Breakers </em>is masterfully designed to do both. The film takes a group of Disney pop stars, wrings out their innocence and runs them through a debauched teenage fantasy. The result is everything the promotional materials promise: hot girls in bright bikinis, bombastic photography, violent outbursts, and, overall, a depraved disposition. In short, it&rsquo;s the easiest film in the world to market."
+position: Marketing Director
+addressee: Brandon Thompson
 layout: review
 categories: reviews
 title: "Spring Breakers"
 comments: true
 tags: [bikini, harmony korine, Letters, Selena Gomez, Spring Break, vanessa hudgens]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/3/28/spring-breakers.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7801/1364485727717/Spring%20Breakers.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Brandon Thompson</strong>, Marketing Director </em></p>
 <p>In Hollywood, image is everything. Get it right and it will make your career; get it wrong. you&rsquo;ll ruin it. &nbsp;<em>Spring Breakers </em>is masterfully designed to do both. The film takes a group of Disney pop stars, wrings out their innocence and runs them through a debauched teenage fantasy. The result is everything the promotional materials promise: hot girls in bright bikinis, bombastic photography, violent outbursts, and, overall, a depraved disposition. In short, it&rsquo;s the easiest film in the world to market.</p>
 <p>But here&rsquo;s the thing: the movie is also really freakin&rsquo; good.</p>
 <p>I&rsquo;ll be honest, it&rsquo;s for all the reasons you might think&mdash;and some you might not expect. &lsquo;Cause you&rsquo;re the marketing guy, what do you care? I&rsquo;ll start with the obvious.</p>
@@ -27,4 +24,3 @@ tags: [bikini, harmony korine, Letters, Selena Gomez, Spring Break, vanessa hudg
 <p>Everything <em>Spring Breakers</em> is trying to do, it does brilliantly. It&rsquo;s defensible trash. It knows exactly how to give the audience what they want, and, at the same time, mock them for wanting it. Exploitation rarely raises to such heights. It&rsquo;s easily the sexiest social commentary of the year. Maybe of the decade. But what it&rsquo;s saying, you marketing folks probably don&rsquo;t want to hear.</p>
 <p>Spring broken,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Priority Post (4.5/5)</em></strong></p></div>

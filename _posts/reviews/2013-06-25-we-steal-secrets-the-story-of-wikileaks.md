@@ -1,21 +1,18 @@
 ---
 published: true
-section: General
-image: 
-imdb: 
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: we-steal-secrets-the-story-of-wikileaks.jpg
+imdb: tt1824254
+author: christopherr 
+stars: 3.5
+excerpt: "Micro-budget filmmakers are allowed to hate you."
+position: Errors and Omissions Counsel
+addressee: Robert Stein
 layout: review
 categories: reviews
 title: "We Steal Secrets: The Story of WikiLeaks"
 comments: true
 tags: [Alex Gibney, documentary, Julian assange, Letters, We steal Sectrets, wikileaks]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/6/25/we-steal-secrets-the-story-of-wikileaks.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf786b/1372173084143/We%20Steal%20Secrets.jpg" alt="" /></a></span></span></p>
-<p><span style="font-size:130%;"><strong><em>Dear Robert Stein,</em></strong><em> Errors and Omissions Counsel,</em></span></p>
 <p>Micro-budget filmmakers are allowed to hate you.</p>
 <p>Well, not you specifically, but what you represent. After working for free, calling in a million favours and stretching every last dime they raised (and then some), a lucky filmmaker might earn a small commission to actually release their passion project. The catch is that it&rsquo;s usually just enough to cover your famous errors and omissions insurance. Distributors require this liability protection against the unauthorized use of titles, formats, characters, ideas, or other potential lawsuits against defamations of character, breaches of contract or invasions of privacy.</p>
 <p>You have to admit: in the age of WikiLeaks, this all seems rather hilarious.</p>
@@ -28,4 +25,3 @@ tags: [Alex Gibney, documentary, Julian assange, Letters, We steal Sectrets, wik
 <p>Transparency isn&rsquo;t so easy after all, is it?</p>
 <p>Saving up for my own legal fees,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Air Mail (3.5/5)</em></strong></p></div>

@@ -1,21 +1,18 @@
 ---
 published: true
-section: General
-image: 
-imdb: 
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: mirror-mirror
+imdb: tt1667353
+author: jaredy
+stars: 2.5
+excerpt: "There are many reasons to make movies. Jon Peters tried for years to make a movie just so that he could see a giant mechanical spider onscreen. Sony rebooted a Spider-Man franchise barely a decade old just to maintain the creative rights to the character. And the entire second half of Nicolas Cage&rsquo;s career seems to be an endurance test (for both him and audiences) in the service of paying off his income tax debts."
+position: Costume Designer
+addressee: Eiko Ishioka
 layout: review
 categories: reviews
 title: "Mirror, Mirror"
 comments: true
 tags: [fantasy, Julia Roberts, Letters, oscars]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/1/22/mirror-mirror.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf779b/1358891922537/mirror-mirror.jpg" alt="" /></a></span></span></p>
-<p><span style="font-size:120%;"><em><strong>Dear Eiko Ishioka,</strong> Costume Designer,&nbsp;</em></span></p>
 <p>There are many reasons to make movies. Jon Peters tried for years to make a movie just so that he could see a giant mechanical spider onscreen. Sony rebooted a Spider-Man franchise barely a decade old just to maintain the creative rights to the character. And the entire second half of Nicolas Cage&rsquo;s career seems to be an endurance test (for both him and audiences) in the service of paying off his income tax debts.&nbsp;</p>
 <p>And what&rsquo;s the reason for <em>Mirror, Mirror</em>? Well, that becomes clear about a third of the way through the film: swan hats.</p>
 <p>This was a real coup for you, Eiko. And clearly made the most of the opportunity &ndash; you&rsquo;ve been nominated for an Academy Award! Congratulations! Talk about putting a feather in your cap.</p>
@@ -24,5 +21,3 @@ tags: [fantasy, Julia Roberts, Letters, oscars]
 <p>But what does it matter to you? This is a film made to showcase your talents, and as an amateur fashionisto, I can say that they are considerable. Best of luck on Oscar night, and, please, if you can, send me a link to where I can purchase one of those hats. &nbsp;</p>
 <p>Sincerely,&nbsp;</p>
 <p>Jared Young</p>
-<p><strong><em>Status: Standard Delivery (2.5/5)</em></strong></p>
-<div><strong><em><br /></em></strong></div></div>

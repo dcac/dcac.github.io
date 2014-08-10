@@ -1,21 +1,18 @@
 ---
 published: true
-section: General
-image: 
-imdb: 
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: sharknado.jpg
+imdb: tt2724064
+author: christopherr
+stars: 1
+excerpt: "Take me back to the beginning, to that eureka moment when everything clicked. I can&rsquo;t imagine the euphoria you must have felt knowing your years of ripping off genre films had finally paid off with something <em>original</em>. No more mockbusters of <em>Pacific Rim</em>, <em>Battleship</em>, and zombies-versus-whatever. You must have known this was it&mdash;your ticket to the big leagues. You came up with a concept so bold that no major studio would dare touch it. A title so bankable, so compelling, that the script was irrelevant. This threat you invented out of thin air (<em>really</em> thin air) is so twisted that your tombstone will inevitably read: <em>Herein lies the man who gaveth the world its first</em> <em>sharknado</em>."
+position: Writer
+addressee: Thunder Levin
 layout: review
 categories: reviews
 title: "Sharknado"
 comments: true
 tags: [sharknado, horror, Letters, low budget, mockbuster, movie, sci-fi, sharks, special, syfy, Thunder Levin, TV]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/7/17/sharknado.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7879/1374066056023/Sharknado2.jpg" alt="" /></a></span></span></p>
-<p><em><span style="font-size:130%;"><strong>Dear Thunder Levin</strong>, Writer,</span></em></p>
 <p>Take me back to the beginning, to that eureka moment when everything clicked. I can&rsquo;t imagine the euphoria you must have felt knowing your years of ripping off genre films had finally paid off with something <em>original</em>. No more mockbusters of <em>Pacific Rim</em>, <em>Battleship</em>, and zombies-versus-whatever. You must have known this was it&mdash;your ticket to the big leagues. You came up with a concept so bold that no major studio would dare touch it. A title so bankable, so compelling, that the script was irrelevant. This threat you invented out of thin air (<em>really</em> thin air) is so twisted that your tombstone will inevitably read: <em>Herein lies the man who gaveth the world its first</em> <em>sharknado</em>.&nbsp;</p>
 <p>That&rsquo;s right, the <em>first</em>. Because there&rsquo;s bound to be a tsunami of sequels, spin-offs, and knock-offs.</p>
 <p>Oh, the irony.</p>
@@ -25,4 +22,3 @@ tags: [sharknado, horror, Letters, low budget, mockbuster, movie, sci-fi, sharks
 <p>We live in an age of been there, seen that. Nothing&rsquo;s new anymore. How could anyone ever take the clich&eacute;-ridden shark-horror genre to new heights? Somehow, you did it. With your fame-ready name and freaky mind, everything just lined up for the perfect storm, didn&rsquo;t it?</p>
 <p>Sharkcerely,</p>
 <p>Christopher</p>
-<p><strong>Status: Junk Mail (1/5)</strong></p></div>

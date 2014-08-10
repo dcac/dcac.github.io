@@ -1,21 +1,18 @@
 ---
 published: true
-section: General
-image: 
-imdb: 
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: the-place-beyond-the-pines.jpg
+imdb: tt1817273
+author: jaredy
+stars: 3
+excerpt: "It doesn&rsquo;t take long for you and your stunt team to make an impression in the crime drama <em>The Place Beyond the Pines</em>. The very first sequence of the film is a single tracking shot that follows a tattooed Ryan Gosling through a small-town carnival, into a tent, onto a motorcycle, and eventually into a metal globe where he spins in loops alongside (and through and between) two other motorcyclists. The way you managed to set up and execute the stunt in an unbroken take is rather extraordinary&mdash;though there must have been some computer trickery involved; I can&rsquo;t imagine that the insurance guys would have let Baby Goose surrender himself to the whims of centrifugal force like that."
+position: Stunt Coordinator
+addressee: Brian Smyj
 layout: review
 categories: reviews
 title: "The Place Beyond the Pines"
 comments: true
 tags: [Bradley Cooper, crime, drama, Eva Mendes, Ryan Gosling, Uncategorized]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/4/12/the-place-beyond-the-pines.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7817/1365790479011/place-beyond-the-pines.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:120%;"><strong>Dear Brian Smyj,</strong> Stunt Coordinator,&nbsp;</em></p>
 <p>It doesn&rsquo;t take long for you and your stunt team to make an impression in the crime drama <em>The Place Beyond the Pines</em>. The very first sequence of the film is a single tracking shot that follows a tattooed Ryan Gosling through a small-town carnival, into a tent, onto a motorcycle, and eventually into a metal globe where he spins in loops alongside (and through and between) two other motorcyclists. The way you managed to set up and execute the stunt in an unbroken take is rather extraordinary&mdash;though there must have been some computer trickery involved; I can&rsquo;t imagine that the insurance guys would have let Baby Goose surrender himself to the whims of centrifugal force like that.&nbsp;</p>
 <p>But even more impressive than that? The structure of the stunt is no accident. What follows in Derek Cianfrance&rsquo;s sprawling, ambitious, flawed (but kind of endearing) follow-up to <em>Blue Valentine</em> is the narrative equivalent of that stunt: the film is composed of three distinct chapters, each with three distinct protagonists, distinct arcs, each with common tensions and consequences that spin in loops alongside, through, and between each other. The whole movie feels like a complex, well-crafted stunt. But, as you surely know, a stunt is only as thrilling as the stakes that hang in the balance (ie. the death it&rsquo;s defying). And that&rsquo;s what <em>The Place Beyond the Pines</em> &ndash; a movie ostensibly about the far-reaching ramifications of a single decision &ndash; lacks thematically: ramification.</p>
 <p>Let me tell you, Brian: it&rsquo;s going to be a disappointment for Gosling fangirls hoping to spend a couple of hours with their favorite monosyllabic doe-eyed mousketeer. Gosling is the star, but only for the first third of the film. The stylish rural crime flick bears striking thematic similarities to <em>Drive</em> (loner with a penchant for high-speed chases commits crimes to support an unavailable woman and her adorable child) abruptly gives way to a thriller about police corruption. Gosling, as protagonist, gives way to Bradley Cooper, and this, too, feels like a stunt. One of those old-school Hollywood stunts, like something from a Bond film, where at the penultimate moment (before the hero is hurled off a cliff, falls of his horse, jumps onto the hood of a moving car, etc.) we cut away from a close-up of the star and see instead, from afar, a stuntman with a passing resemblance enact the dangerous bit of athleticism. Sometimes it works. Sometimes you feel cheated; pulled out, even if for an unconscious half-second, of the immersive mood.&nbsp;</p>
@@ -25,4 +22,3 @@ tags: [Bradley Cooper, crime, drama, Eva Mendes, Ryan Gosling, Uncategorized]
 <p>In this case, mattresses full of piranhas. &nbsp;</p>
 <p>Sincerely,&nbsp;</p>
 <p>Jared Young&nbsp;</p>
-<p><strong><em>Status: Standard Delivery (3/5)</em></strong></p></div>

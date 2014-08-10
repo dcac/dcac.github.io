@@ -1,21 +1,18 @@
 ---
 published: true
-section: General
-image: 
-imdb: 
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: fast-furious-6.jpg
+imdb: tt1905041
+author: christopherr
+stars: 4
+excerpt: "CRASH! BANG! ZOOM! In a <em>Fast and Furious</em> world, this is the code to live by. And God love it. What more do you need, right?"
+position: Action Sequence Designer
+addressee: David C.P. Chan
 layout: review
 categories: reviews
 title: "Fast & Furious 6"
 comments: true
 tags: [action, Car, Chris Ludacris Bridges, fast, Fast and Furious 6, furious, Jordana Brewster, Letters, Paul Walker, Sequel, Sung Kang, Tyrese Gibson, Vin Disel]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/5/27/fast-furious-6.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7835/1369679074016/Fast%20and%20Furious%206.jpg" alt="" /></a></span></span></p>
-<p><em><strong><span style="font-size:130%;">Dear David C.P. Chan,</span></strong><strong style="font-size:130%;"> </strong><span style="font-size:130%;">Action Sequence Designer,</span></em></p>
 <p>CRASH! BANG! ZOOM! In a <em>Fast and Furious</em> world, this is the code to live by. And God love it. What more do you need, right?</p>
 <p>After being an effects artist on <em>Fast &amp; Furious </em>(part 4 &ndash; the de facto franchise reboot) you were promoted to the &lsquo;drill sergeant of danger&rsquo; on <em>Fast 5 &ndash; </em>a film where your incredibly staged action sequences took the series to another level. Now you&rsquo;ve done it again, this time turning the characters into full-on death-defying superheroes. But something else has changed. A fourth word has been added to the series manifesto in this sixth film, spoken no less than two dozen times (I lost count). Say it with me: Family.&nbsp; Sorry&hellip; FAMILY!</p>
 <p>&ldquo;But why?&rdquo; you must have asked. &ldquo;I&rsquo;ve got races on mountain cliffs, London streets, freeway bridges and airline tarmacs. And an army tank, dammit!&rdquo; Yes you do, and frankly, they are used to rather spectacular effect. Locking your action on a narrow plain proves a pure and simple principle: anticipation is just as important as surprise. Think <em>Speed</em> or <em>The French Connection</em>. Unlike the mess of modern action movies, where shaky cameras and frenetic editing try to save sloppy sequencing, <em>Fast &amp; Furious</em> 6 is serviced with silky smooth cinematography so we can actually see what&rsquo;s happening. In return, we appreciate the surprises.&nbsp;</p>
@@ -25,4 +22,3 @@ tags: [action, Car, Chris Ludacris Bridges, fast, Fast and Furious 6, furious, J
 <p>Because of you&mdash;and by proving that <em>Fast 5</em> wasn&rsquo;t a fluke&mdash;we no longer have to be embarrassed about liking this franchise. And after that closing credits tease, count me as one of the people who thinks the seventh film can&rsquo;t come fast enough.</p>
 <p>Joining the family,</p>
 <p>Christopher</p>
-<p><strong>Status: Air Mail (4/5)</strong></p></div>

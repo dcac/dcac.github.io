@@ -1,21 +1,18 @@
 ---
 published: true
-section: General
-image: 
-imdb: 
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: the-worlds-end.jpg
+imdb: tt1213663
+author: natm 
+stars: 4
+excerpt: "Five middle-aged men walk into a pub&mdash;"
+position: Teenager #3
+addressee: Luke J. Scott
 layout: review
 categories: reviews
 title: "The World's End"
 comments: true
 tags: [apocalypose, beer, comedy, Edgar Wright, end of the world, Essays, Newton Haven, sci-fi, Simon Pegg, The World's End]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/8/15/the-worlds-end.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7891/1376594080008/The%20World's%20End.jpg" alt="" /></a></span></span></p>
-<p><span style="font-size:130%;"><strong><em>Dear Luke J. Scott, </em></strong><em>Teenager #3<strong>,</strong></em></span></p>
 <p>Five middle-aged men walk into a pub&mdash;</p>
 <p>No, that isn&rsquo;t a start of a lame joke. It&rsquo;s the start of the wildest Friday night the town of Newton Haven has ever seen.&nbsp; And also the beginning of the third installment in Edgar Wright&rsquo;s Cornetto trilogy.</p>
 <p>So, five middle-aged men walk into a pub, on a mission to complete a pub crawl they started twenty years earlier. Having drifted apart over the years, they find themselves in their forties with a whack of unresolved issues, and are trying to recapture a bit of the optimism and promise of their youth.</p>
@@ -25,4 +22,3 @@ tags: [apocalypose, beer, comedy, Edgar Wright, end of the world, Essays, Newton
 <p>As the townspeople of New Haven, you and your fellow background players give the stars a run for their money. The skillfully choreographed and executed fight sequences had us all cheering in our seats. It all manifests itself as high octane, beer fuelled, laugh-a-minute action set to that early 90s mix tape I played constantly back in middle school.</p>
 <p>Best,</p>
 <p>Nat Master</p>
-<p><strong><em>Status: Air Mail (4/5)</em></strong></p></div>

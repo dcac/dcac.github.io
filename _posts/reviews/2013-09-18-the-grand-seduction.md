@@ -1,21 +1,18 @@
 ---
 published: true
-section: General
-image: 
-imdb: 
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: the-grand-seduction.jpg
+imdb: tt2319580
+author: natm 
+stars: 4.5
+excerpt: "With a couple of hours to kill at the recent Toronto International Film Festival, I drifted past a long line of people outside a theatre."
+position: Production Designer
+addressee: Guy Lalonde
 layout: review
 categories: reviews
 title: "The Grand Seduction"
 comments: true
 tags: [TIFF13, Canadian, Don McKellar, english, La Grande sduction, Letters, Quebec, Remake, Taylor Kitch, the grand seduction, TIFF, Toronto International Film Festival]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/9/18/the-grand-seduction.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf78c5/1379518113001/The%20Grand%20Seduction.jpg" alt="" /></a></span></span></p>
-<p><em><strong style="font-size:130%;">Dear Guy Lalande, </strong><span style="font-size:130%;">Production Designer,</span></em></p>
 <p>With a couple of hours to kill at the recent Toronto International Film Festival, I drifted past a long line of people outside a theatre.</p>
 <p>&ldquo;What are you here to see?&rdquo; I asked.<br />&ldquo;Newfoundlanders pretending to play cricket&rdquo; came the answer.</p>
 <p>I joined the line immediately.</p>
@@ -26,4 +23,3 @@ tags: [TIFF13, Canadian, Don McKellar, english, La Grande sduction, Letters, Que
 <p>As the daughter of a cricket enthusiast, watching Murray and co. attempt to stage a match for Dr. Lewis is something I won&rsquo;t soon forget. I can fully relate to the sheer confusion that comes from trying to figure cricket out. To their credit, the boys nearly had it. Somewhat. Okay, not at all, really. What Tickle Cove needed more than a doctor was a cricket coach. Someone to explain the bunsen, mollygrubber, and silly-nanny, and to teach them that an oar is a poor substitute for a cricket bat. &nbsp;I mean come on, it felt like they were being taught by a production designer.</p>
 <p>Best,</p>
 <p>Nat</p>
-<p><strong><em>Status: Priority Post (4.5/5)</em></strong></p></div>

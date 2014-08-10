@@ -2,7 +2,7 @@
                   <div class="post-image-home">
                     <img src="/img/article/thumb/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}" alt="{{ post.title }}" />
                     <div class="corner-stamp"></div>
-                    <div class="small-star-rating">{% for i in (1..post.stars) %}<img src="/img/global/star-blue.svg" class="star-small" alt="" />{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<img src="/img/global/star-blue-half.svg" class="star-small" alt="" />{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img src="/img/global/star-white.svg" class="star-small" alt="" />{% endfor %}{% endif %}</div>
+                    <div class="small-star-rating">{% for i in (1..post.stars) %}<img src="/img/global/star-blue.svg" class="star-small" alt="Star" />{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" />{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" />{% endfor %}{% endif %}</div>
                   </div>
                 </a>
                 

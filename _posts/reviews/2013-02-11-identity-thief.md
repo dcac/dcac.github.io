@@ -1,21 +1,18 @@
 ---
 published: true
-section: General
-image: 
-imdb: 
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: identify-thief.jpg
+imdb: tt2024432
+author: jaredy
+stars: 2
+excerpt: "I&rsquo;m sorry to bother you this afternoon, Mr. Bateman, but our records indicate that you may have recently been the victim of identity fraud. Shocking, yes, I know. But before I can go any further, I need to ask you a few personal questions to verify that you&rsquo;re the Jason Bateman we&rsquo;re looking for."
+position: Actor
+addressee: Jason Bateman
 layout: review
 categories: reviews
 title: "Identity Thief"
 comments: true
 tags: [comedy, Jason Bateman, Letters, Melissa McCarthy]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/2/11/identity-thief.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf77b4/1360617771587/identity-thief.jpg" alt="" /></a></span></span></p>
-<p><span style="font-size:120%;"><strong><em>Dear Jason Bateman,</em> Actor,</strong></span></p>
 <p>I&rsquo;m sorry to bother you this afternoon, Mr. Bateman, but our records indicate that you may have recently been the victim of identity fraud. Shocking, yes, I know. But before I can go any further, I need to ask you a few personal questions to verify that you&rsquo;re the Jason Bateman we&rsquo;re looking for.&nbsp;</p>
 <p>Your earliest recurring roles were on which television shows? That&rsquo;s right, <em>Silver Spoons</em> and <em>Little House on the Prairie</em>. And the 80s sitcom that cemented your B-level fame? <em>The Hogan Family</em>, correct. After that, having toiled for a while in TV-movie obscurity, which short-lived role transmogrified your career? Of course, yes, <em>Arrested Development </em>(though we also would have accepted Pepper Brooks in <em>Dodgeball</em>).</p>
 <p>Okay, thank you very much, Mr. Bateman. We can proceed.&nbsp;</p>
@@ -27,4 +24,3 @@ tags: [comedy, Jason Bateman, Letters, Melissa McCarthy]
 <p>Thank you for your time. We will immediately put a hold on all casting decisions bearing your name and begin taking measure to see that some of this lost equity is paid back to you in a timely fashion. Please log in to your Screen Actor&rsquo;s Guild account and change your passwords. We&rsquo;re glad to have cleared this up.</p>
 <p>Thank you very much, Mr. Bateman. Have a terrific afternoon.</p>
 <p>Jared Young</p>
-<p><strong><em>Status: Return to Sender (2/5)</em></strong></p></div>

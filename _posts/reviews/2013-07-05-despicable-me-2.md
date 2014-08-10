@@ -1,20 +1,18 @@
 ---
 published: true
-section: General
-image: 
-imdb: 
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: despicable-me-2.jpg
+imdb: tt1690953
+author: caseyt
+stars: 3
+excerpt: "It makes sense to me that a film like <em>Despicable Me 2</em> would need a marketing consultant. I don&rsquo;t mean that as a shot at the film&rsquo;s quality; I&rsquo;m talking about public perception of animated films in general. When it comes to summer releases, animated films, as far as moviegoers seem to be concerned, fall into two basic tags: the one from Pixar, and everything else. With <em>Despicable Me 2</em> opening only a week and a half after Pixar&rsquo;s own <em>Monsters University</em>, I&rsquo;m sure you had your marketing work cut out for you."
+position: Marketing Consultant
+addressee: Katie Ballentine
 layout: review
 categories: reviews
 title: "Despicable Me 2"
 comments: true
 tags: [Animation, comedy, Family, Kristen Wiig, Letters, Oscars 2014, Steve Carrell]
 ---
-<div><p><span style="font-size:120%;"><strong><em><br /><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/7/5/despicable-me-2.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7873/1373040408933/despicable-me-2.jpg" alt="" /></a></span></span>Dear Katie Ballentine,</em></strong><em> Marketing Consultant,</em></span></p>
 <p>It makes sense to me that a film like <em>Despicable Me 2</em> would need a marketing consultant. I don&rsquo;t mean that as a shot at the film&rsquo;s quality; I&rsquo;m talking about public perception of animated films in general. When it comes to summer releases, animated films, as far as moviegoers seem to be concerned, fall into two basic tags: the one from Pixar, and everything else. With <em>Despicable Me 2</em> opening only a week and a half after Pixar&rsquo;s own <em>Monsters University</em>, I&rsquo;m sure you had your marketing work cut out for you.&nbsp;</p>
 <p>Now, I&rsquo;m aware it&rsquo;s a critical fallacy to judge a film based on what it&rsquo;s not. It&rsquo;s an easy trap to fall into and&ndash; in the spirit of full disclosure &ndash; I&rsquo;ve been guilty of that sin myself (sorry, <a href="/letters/2013/6/14/man-of-steel.html"><em>Man of Steel</em></a>, but you had it coming). So before this turns into an Armond White-style list of arbitrary comparisons*, I&rsquo;ll assure you, that&rsquo;s not what I&rsquo;m here to do. (Besides, you can read <a href="/letters/2013/6/21/monsters-university.html">my thoughts</a> on <em>Monsters University</em> on your own time.)</p>
 <p>From your own marketer&rsquo;s point of view, there&rsquo;s certainly plenty to get an audience interested in <em>Despicable Me 2.</em> As a sequel, much of your heavy lifting is already done: Steve Carell&rsquo;s Gru, the former-evil-scientist-turned-adoptive-father-to-three-daughters, as well as his army of yellow, squat, not-too-bright (but zany!) minions need no introduction. And the addition of Kristen Wiig, Ken Jeong, Benjamin Bratt, and Steve Coogan may not bring in the kids, but it does let the parents know that there is some top-drawer comic talent working alongside Carell.&nbsp;</p>
@@ -23,5 +21,4 @@ tags: [Animation, comedy, Family, Kristen Wiig, Letters, Oscars 2014, Steve Carr
 <p>Still, like the expertise you bring to your projects, <em>Despicable Me 2</em> does understand its target demographic. The theatre in which I watched it was full of children delighted with all of its busyness (or maybe because of it), and they didn&rsquo;t seem phased by, say, whether or not they grasped why a Barry White song was being used at a particular moment. For that, I&rsquo;ll give the film its due credit. I just wish I could have bought into it as wholly as they did.</p>
 <p>Wanting to be more of an advocate,</p>
 <p>Casey</p>
-<p><strong><em>Satus: Standard delivery (3/5)</em></strong></p>
 <p>*<em>Apologies if you are unfamiliar with White&rsquo;s oeuvre, but I cannot, in good conscience, bring myself to link to it here. For that, you&rsquo;re welcome.</em></p></div>

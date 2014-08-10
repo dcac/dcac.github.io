@@ -20,10 +20,10 @@ layout: default
                   <hr class="title-divider" />
                 </div>
                 <div class="status-container">
-                  <img src="/img/global/stamp.svg" class="standard review-stamp" />
+                  <img src="/img/global/stamp.svg" class="standard review-stamp" alt="Stamp image" />
                 {% if page.stars < 1.5 %}Junk<br />Mail{% elsif page.stars >= 1.5 and page.stars < 2.5 %}Return to<br />Sender{% elsif page.stars >= 2.5 and page.stars < 3.5 %}Standard<br />Delivery{% elsif page.stars >= 3.5 and page.stars < 4.5  %}Air<br />Mail{% elsif page.stars >= 4.5 %}Priority<br />Post{% endif %}<br />
                   <div class="large-star-rating">
-                    {% for i in (1..page.stars) %}<img class="star-large" src="/img/global/star-blue.svg" />{% endfor %}{% assign half_star = page.stars | modulo:1 %}{% if half_star > 0 %}<img class="star-large" src="/img/global/star-blue-half.svg" />{% endif %}{% assign empty_stars = 5 | minus: page.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img class="star-large" src="/img/global/star-white.svg" />{% endfor %}{% endif %}
+                    {% for i in (1..page.stars) %}<img class="star-large" src="/img/global/star-blue.svg" alt="Star"/>{% endfor %}{% assign half_star = page.stars | modulo:1 %}{% if half_star > 0 %}<img class="star-large" src="/img/global/star-blue-half.svg" alt="Half Star" />{% endif %}{% assign empty_stars = 5 | minus: page.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img class="star-large" src="/img/global/star-white.svg" alt="Empty Star" />{% endfor %}{% endif %}
                   </div>
                 </div>
               </div>
@@ -49,6 +49,8 @@ layout: default
           <div class="large-8 medium-8 columns" id="review-copy">
             <p class="intro hide-for-small">Dear {{ page.addressee }},</p>
             {{ content | replace_first: '<p>','<p class="intro">' }}
+            {% include signature.html %}
+            {% contentblock postscript %}
           </div>
         </div>
         <div id="up-next" class="up-next">
@@ -72,25 +74,11 @@ layout: default
           </div>
         </div>
       </section>
-      <div class="comments-bg">
-        <div class="comments">
-        <div id="disqus_thread" class="disqus_thread"></div>
+      {% include disqus.html %}
+      <div class="post large-4 medium-4 columns" style="display:none;">
+        {% assign author = site.data.authors[page.author] %}
+        {% include post-grid/page.html %}
       </div>
-      <script type="text/javascript">
-      var disqus_shortname = 'dearcastandcrew';
-      (function() {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-      })();
-      </script>
-      <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-      <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-      <!--preview HTML for home page scroll-->
-    <div class="post large-4 medium-4 columns" style="display:none;">
-      {% assign author = site.data.authors[page.author] %}
-      {% include post-grid/page.html %}
-    </div>
     <script>
     //get the movie info from IMDB
     $.ajax({
@@ -126,4 +114,3 @@ layout: default
       }
     });
     </script>
-      </div>

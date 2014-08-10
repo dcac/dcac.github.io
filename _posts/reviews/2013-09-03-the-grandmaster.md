@@ -1,11 +1,10 @@
 ---
 published: true
-section: General
 image: the-grandmaster.jpg
 imdb: tt1462900
 author: caseyt 
 stars: 4.5
-excerpt: 
+excerpt: "\"(Sammo Hung) is the best action director ever in Hong Kong cinema.\" - Wong Kar Wai"
 position: Action Choreographer
 addressee: Yuen Woo-ping
 layout: review

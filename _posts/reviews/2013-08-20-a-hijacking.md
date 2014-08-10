@@ -1,21 +1,18 @@
 ---
 published: true
-section: General
-image: 
-imdb: 
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: a-hijacking.jpg
+imdb: tt2216240
+author: jaredy
+stars: 4.5
+excerpt: "Do you feel that, Soren? The heat of summer is dissipating. August has waned and yet another disappointing season of blockbusters has come to an ignominious close. Ahead of us sprawls the barren, hopeless wasteland of the September release schedule. It&rsquo;s that time of year when, to soothe our assailed senses, we here on this side of the Atlantic look to foreign lands for the sort of mature, coherent, adult films that Hollywood (in particular) and America (in general) seem incapable of producing anymore."
+position: Actor
+addressee: Soren Malling
 layout: review
 categories: reviews
 title: "A HIJACKING"
 comments: true
 tags: [a hijacking, acting, action, Actor, danish cinema, Review, soren malling, suspense, thriller, Uncategorized]
 ---
-<div><p><span class="full-image-block ssNonEditable"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7894/1377019951051/A%20Hijacking.jpg" alt="" /></span></p>
-<p><em style="font-size:130%;"><strong>Dear Soren Malling</strong><strong>,</strong> Actor,</em></p>
 <p>Do you feel that, Soren? The heat of summer is dissipating. August has waned and yet another disappointing season of blockbusters has come to an ignominious close. Ahead of us sprawls the barren, hopeless wasteland of the September release schedule. It&rsquo;s that time of year when, to soothe our assailed senses, we here on this side of the Atlantic look to foreign lands for the sort of mature, coherent, adult films that Hollywood (in particular) and America (in general) seem incapable of producing anymore.</p>
 <p>Still, who would have thought that the summer&rsquo;s most bad-ass action hero wouldn&rsquo;t be <a href="/letters/2013/5/3/iron-man-3.html">Tony Stark and his army of Iron Men</a>, or <a href="/letters/2013/8/9/elysium.html">Matt Damon in his dystopian exo-suit</a>, or <a href="/letters/2013/8/1/only-god-forgives.html">Ryan Gosling kick-boxing his way through the Bangkok underworld</a>, but rather a slight Danish business executive in a red-striped power-tie&nbsp;</p>
 <p>The character you play &ndash; Peter C. Ludvigsen, the corporate CEO whose protracted negotiations with a group of Somali pirates make for much of the action in <em>A Hijacking</em> &ndash; is both steelier <em>and</em> more manly than this summer&rsquo;s <a href="/letters/2013/6/14/man-of-steel.html">other Man of Steel</a>. Cold calculation, stony consideration; in the great early scene that sets up Ludvigsen&rsquo;s prowess as a negotiator (he walks out on a group of Japanese businessmen) we learn everything we need to know about how he expresses his confidence and asserts control. And it&rsquo;s those very qualities that are challenged throughout the movie.</p>
@@ -24,5 +21,3 @@ tags: [a hijacking, acting, action, Actor, danish cinema, Review, soren malling,
 <p>This is what restraint and patience earns you: the kind of deeply-felt anxieties and thrills that genre pictures &ndash; machines, essentially, built to quickly and efficiently deliver those anxieties and thrills &ndash; don&rsquo;t seem, any longer, to aspire to. &nbsp;</p>
 <p>Tillykke,</p>
 <p>Jared Young<strong>&nbsp;</strong></p>
-<p><strong><em>Status: Priority Post (4.5/5)</em></strong></p>
-<p>&nbsp;</p></div>

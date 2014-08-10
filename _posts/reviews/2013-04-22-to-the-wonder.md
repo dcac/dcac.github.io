@@ -1,21 +1,18 @@
 ---
 published: true
-section: General
-image: 
-imdb: 
-author: test 
-stars: 
-excerpt: 
-position: 
-addressee: 
+image: to-the-wonder.jpg
+imdb: tt1595656
+author: christopherr
+stars: 4
+excerpt: "When you collaborate with Terrence Malick, you do so at your own risk. He's a notorious recluse who spends years shooting each project, refuses to commit to a script, and disposes of entire star performances--all as a matter of standard practice. And yet, people clamor for the opportunity to work with him (even if a few are left bitter about the experience). Maybe it's because Malick is less obsessed with perfection than he is with process. What other filmmaker would require three \"humanity unit\" consultants, an \"ambassador of goodwill,\" and 51 undefined interns?"
+position: Artistic Collaborator
+addressee: Tyler Savage
 layout: review
 categories: reviews
 title: "To The Wonder"
 comments: true
 tags: [Ben Affleck, Experiemental, Letters, Olga Kurylenko, Rachel McAdams]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2013/4/22/to-the-wonder.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7823/1366655020933/To%20The%20Wonder.jpg" alt="" /></a></span></span></p>
-<p><em style="font-size:130%;"><strong>Dear Tyler Savage</strong>, Artistic Collaborator</em></p>
 <p>When you collaborate with Terrence Malick, you do so at your own risk. He&rsquo;s a notorious recluse who spends years shooting each project, refuses to commit to a script, and disposes of entire star performances&mdash;all as a matter of standard practice. And yet, people clamor for the opportunity to work with him (even if a few are left <a href="http://www.guardian.co.uk/film/filmblog/2011/aug/22/sean-penn-tree-of-life">bitter about the experience</a>). Maybe it&rsquo;s because Malick is less obsessed with perfection than he is with process. What other filmmaker would require three &ldquo;humanity unit&rdquo; consultants, an &ldquo;ambassador of goodwill,&rdquo; and 51 undefined interns?</p>
 <p>No wonder critics find it so hard to separate the making of the film from the final cut. But with you&rsquo;re help, Tyler, I&rsquo;m going to try.</p>
 <p><em>To The Wonder</em> features Olga Kurylenko, prominently and proudly, as its voice, heart, and soul. Her character lives in France with a young daughter and struggles to find her place in the world while hoping her American boyfriend (Ben Affleck) will make a serious commitment. They eventually move to a suburb in the U.S., and cross paths with a Spanish priest (Javier Bardem) who is having his own existential crisis.&nbsp; That&rsquo;s a top-level narrative synopsis; Rachel McAdams also appears for about ten minutes as an ex-girlfriend, and Rachel Weisz, Amanda Peet, Barry Pepper, Jessica Chastain and Michael Sheen can apparently be found on the cutting room floor.</p>
@@ -25,4 +22,3 @@ tags: [Ben Affleck, Experiemental, Letters, Olga Kurylenko, Rachel McAdams]
 <p>For that reason, I have no idea which aspects of the film you contributed to. In fact, you and the other collaborators might feel the same way. But for artists and audience members who are willing to be lost at the service of something beautiful, that&rsquo;s okay.</p>
 <p>Sincerely,</p>
 <p>Christopher</p>
-<p><strong><em>Status: Air Mail (4/5)</em></strong></p></div>

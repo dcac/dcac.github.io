@@ -1,6 +1,6 @@
 <a href="{{ post.url }}">
                   <div class="post-image">
-                    <img src="/img/article/thumb/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}" alt="{{ post.title }}" />
+                    <img src="/img/article/thumb/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}" alt="{{ post.title }}" alt="{{ post.title }} Image" />
                     <div class="corner-stamp"></div>
                   </div>
                 </a>
@@ -8,7 +8,6 @@
                 <a href="{{ post.url }}">
                   <div class="review-text">
                     <h1>{{ post.title }}</h1>
-                    <h2 class="addressee">Dear {{ post.addressee }}, <span class="mobile-line-break"><br /></span>{{ post.position }}</h2>
                     <h2 class="author">By {{ author.name }}</h2>
                   </div>
                 </a>

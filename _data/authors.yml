@@ -1,5 +1,6 @@
 caseyt:
   name: Casey Tourangeau
+  short-name: Casey
   profiled: true
   email: casey@dearcastandcrew.com
   twitter: RolloTomasi73
@@ -8,22 +9,27 @@ caseyt:
 
 christopherr:
   name: Christopher Redmond
+  short-name: Christopher
   profiled: true
   email: christopher@dearcastandcrew.com
   twitter: film500
   image: christopherr.jpg
   bio: 'During a nomadic childhood, Christopher used to pad his letters to friends with personal film reviews. They made the envelopes impressively thick and, in his mind, more valuable. Then at 23, he landed his first paid film position as the Assistant (to the) Executive Producer of a movie-of-the-week. The dream had finally become a reality. And that reality slowly became a little too real. So for 2011, Christopher successfully retreated back into fantasy with Film500 – where he watched and reviewed 500 feature films in one year. Take that, real world.'
+  signature: christopherr-sig.png
 
 jaredy:
   name: Jared Young
+  short-name: Jared
   profiled: true
   email: jared@dearcastandcrew.com
   twitter: JaredAYoung
   image: jaredy.jpg
+  signature: jaredy-sig.png
   bio: 'Jared’s reviews have appeared in the Toronto Star, Bangkok Post, and other places. His <a href="http://youngmiscellanea.com/">other writing</a> can be found in places like Maisonneuve, Descant, The Fiddlehead, The Ottawa Citizen, and has been anthologized by McSweeney’s. He likes movies. But he failed out of film school. So, you know, take it all with a grain of salt.'
 
 coryh:
   name: Cory Haggart
+  short-name: Cory
   profiled: true
   email: cory@dearcastandcrew.com
   twitter: TooMuchofEvery
@@ -32,6 +38,7 @@ coryh:
   
 dig:
   name: Di Golding
+  short-name: Di
   profiled: true
   email:
   twitter:
@@ -39,6 +46,7 @@ dig:
   
 kelany:
   name: Kelan Young
+  short-name: Kelan
   profiled: true
   email:
   twitter:
@@ -46,30 +54,36 @@ kelany:
  
 natm:
   name: Nat Master
+  short-name: Nat
   email:
   twitter:
   
 stefane:
   name: Stefan Ellison
+  short-name: Stephan
   email:
   twitter:
 
 jenniferm:
   name: Jennifer Mulligan
+  short-name: Jennifer
   email:
   twitter:
   
 erinc:
   name: Erin Curtin
+  short-name: Erin
   email:
   twitter:
 
 heidib:
   name: Heidi Brander
+  short-name: Heidi
   email:
   twitter:
   
 test:
   name: Test Author
+  short-name: Test
   email:
   twitter:

@@ -16,51 +16,127 @@ comments: true
 tags: [2013, Awards, awesome, Best, Canadian, critic, films, good, list, movies, Top films 2013, worst, year end]
 ---
 
-<p>We critics love to lament the difficulty and futility of reducing film criticism to a series of lists. Readers, on the other hand, go crazy over these year-end cheat sheets. So while the editorial staff of Dear Cast and Crew couldn&rsquo;t settle on any definitive best-of list to cap off the year (other than our illustrious <a href="/letters/2013/12/14/2013-silver-stamps.html">Silver Stamps</a>), the concession prize is that I offer you my own person short list for the year&rsquo;s best films.&nbsp;</p>
-<p>Now here&rsquo;s the final caveat &ndash; a year-end bout of pneumonia prohbited me from seeing a handful of December releases that have earned much praise over the holidays. I&rsquo;ve listed those titles below. But suffice to say, 2013 was an amazing year for cinema and I&rsquo;m extremely happy with my recommendations as they stand.</p>
-<h4 style="text-align:center;"><span style="text-decoration:underline;"><strong style="font-size:120%;">The Overall Top 13 of 2013</strong></span></h4>
-<ol style="text-align:center;">
-<li><a href="/letters/2013/9/13/the-act-of-killing.html">The Act of Killing</a></li>
-<li><a href="/letters/2013/10/4/gravity.html">Gravity</a></li>
-<li><a href="/letters/2013/3/28/spring-breakers.html">Spring Breakers</a></li>
-<li><a href="/letters/2013/6/17/the-kings-of-summer.html">The Kings of Summer</a></li>
-<li><a href="/letters/2013/10/18/captain-phillips.html">Captain Phillips</a></li>
-<li><a href="/letters/2013/6/27/before-midnight.html">Before Midnight</a></li>
-<li><a href="/letters/2013/11/18/blue-is-the-warmest-colour.html">Blue is the Warmest Colour</a></li>
-<li><a href="/letters/2013/11/28/frozen.html">Frozen</a></li>
-<li><a href="/letters/2013/11/13/12-years-a-slave.html">12 Years a Slave</a></li>
-<li>Upstream Colour</li>
-<li><a href="/letters/2013/9/10/prisoners.html">Prisoners</a></li>
-<li><a href="/letters/2013/11/5/wadjda.html">Wadjda</a></li>
-<li style="text-align:center;"> <a href="/letters/2013/8/20/a-hijacking.html">A Hijacking</a></li>
-</ol>
-<p style="text-align:center;">&nbsp;</p>
-<p style="text-align:center;"><span style="text-decoration:underline;"><strong style="font-size:120%;">The 10 Favourite Canadian Flicks of 2013</strong></span></p>
-<ol style="text-align:center;">
-<li><a href="/letters/2013/4/19/still-mine.html">Still Mine</a></li>
-<li>The Manor</li>
-<li><a href="/letters/2013/6/11/sarah-prefers-to-run.html">Sarah Prefers to Run</a></li>
-<li>Louis Cyr</li>
-<li>The Lesser Blessed</li>
-<li><a href="/letters/2013/9/20/the-art-of-the-steal.html">The Art of the Steal</a></li>
-<li><a href="/letters/2013/10/23/gabrielle.html">Gabrielle </a></li>
-<li><a href="http://www.youtube.com/watch?v=iKyAxzkjdB0">Empire of Dirt</a></li>
-<li><a href="/letters/2013/4/29/my-awkward-sexual-adventure.html">My Awkward Sexual Adventure</a></li>
-<li><a href="/letters/2013/9/18/the-grand-seduction.html">The Grand Seduction</a></li>
-</ol>
-<p style="text-align:left;"><em>Special mentions</em>: The incredible <a href="/letters/2012/11/7/stories-we-tell.html"><em>Stories We Tell</em></a> was actually a 2012 release in Canada (but 2013 for U.S.), so I&rsquo;m not including it. Same with <a href="/letters/2012/9/25/blackbird.html"><em>Blackbird</em></a>, though it&rsquo;s also fantastic.</p>
-<p style="text-align:center;">&nbsp;</p>
-<p style="text-align:center;"><span style="text-decoration:underline;"><strong>The Surprisingly Good</strong></span></p>
-<p style="text-align:center;"><a href="/letters/2013/4/26/pain-gain.html">Pain &amp; Gain</a><br /><a href="/letters/2013/5/10/the-great-gatsby.html">The Great Gatsby</a><br />Enders Game</p>
-<p style="text-align:center;">&nbsp;</p>
-<p style="text-align:center;"><span style="text-decoration:underline;"><strong>The Unapologetically Awesome</strong></span></p>
-<p style="text-align:center;"><a href="/letters/2013/3/22/olympus-has-fallen.html">Olympus Has Fallen</a><br /><a href="/letters/2013/5/27/fast-furious-6.html">Fast &amp; Furious 6</a><br /><a href="/letters/2013/7/11/pacific-rim.html">Pacific Rim</a>&nbsp;</p>
-<p style="text-align:center;">&nbsp;</p>
-<p style="text-align:center;"><span style="text-decoration:underline;"><strong>Extra Special Indies</strong></span></p>
-<p style="text-align:center;"><a href="/letters/2013/8/6/fruitvale-station.html">Fruitvale Station</a><br /><a href="/letters/2013/10/8/short-term-12.html">Short Term 12</a><br />The Spectacular Now<br />Frances Ha<br />Computer Chess</p>
-<p style="text-align:center;">&nbsp;</p>
-<p style="text-align:center;"><span style="text-decoration:underline;"><strong>Avoid at All Costs</strong></span></p>
-<p style="text-align:center;"><a href="/letters/2013/10/9/machete-kills.html">Machete Kills</a><br /><a href="/letters/2013/6/14/man-of-steel.html">Man of Steel</a><br /><a href="/letters/2013/2/15/a-good-day-to-die-hard.html">A Good Day to Die Hard</a><br /><a href="/letters/2013/5/14/aftershock.html">Aftershock</a><br /><a href="/letters/2013/6/7/after-earth.html">After Earth</a><br /><a href="/letters/2013/9/4/getaway.html">Getaway</a></p>
-<p style="text-align:center;">&nbsp;</p>
-<p style="text-align:left;">Finally, my <strong>Notably Unseen of 2013</strong> are <em>Inside Llewyn Davis</em>, <em>Her</em>, <em>The Wolf of Wall Street</em>, <em>The Past</em>, <em>The Great Beauty</em> and <em>Nebraska.</em> There are undoubtedly others. If there&#8217;s something you think I missed, let me know!<em>&nbsp;</em></p>
-<p style="text-align:left;"><em>Bon cin&eacute;ma,</em><br /><br />Christopher</p></div>
+We critics love to lament the difficulty and futility of reducing film criticism to a series of lists. Readers, on the other hand, go crazy over these year-end cheat sheets. So while the editorial staff of Dear Cast and Crew couldn't settle on any definitive best-of list to cap off the year (other than our illustrious [Silver Stamps][1]), the concession prize is that I offer you my own person short list for the year's best films. 
+
+   [1]: /letters/2013/12/14/2013-silver-stamps.html
+
+Now here's the final caveat - a year-end bout of pneumonia prohbited me from seeing a handful of December releases that have earned much praise over the holidays. I've listed those titles below. But suffice to say, 2013 was an amazing year for cinema and I'm extremely happy with my recommendations as they stand.
+
+#### **The Overall Top 13 of 2013**
+
+  1. [The Act of Killing][2]
+  2. [Gravity][3]
+  3. [Spring Breakers][4]
+  4. [The Kings of Summer][5]
+  5. [Captain Phillips][6]
+  6. [Before Midnight][7]
+  7. [Blue is the Warmest Colour][8]
+  8. [Frozen][9]
+  9. [12 Years a Slave][10]
+  10. Upstream Colour
+  11. [Prisoners][11]
+  12. [Wadjda][12]
+  13. [A Hijacking][13]
+
+   [2]: /letters/2013/9/13/the-act-of-killing.html
+   [3]: /letters/2013/10/4/gravity.html
+   [4]: /letters/2013/3/28/spring-breakers.html
+   [5]: /letters/2013/6/17/the-kings-of-summer.html
+   [6]: /letters/2013/10/18/captain-phillips.html
+   [7]: /letters/2013/6/27/before-midnight.html
+   [8]: /letters/2013/11/18/blue-is-the-warmest-colour.html
+   [9]: /letters/2013/11/28/frozen.html
+   [10]: /letters/2013/11/13/12-years-a-slave.html
+   [11]: /letters/2013/9/10/prisoners.html
+   [12]: /letters/2013/11/5/wadjda.html
+   [13]: /letters/2013/8/20/a-hijacking.html
+
+ 
+
+**The 10 Favourite Canadian Flicks of 2013**
+
+  1. [Still Mine][14]
+  2. The Manor
+  3. [Sarah Prefers to Run][15]
+  4. Louis Cyr
+  5. The Lesser Blessed
+  6. [The Art of the Steal][16]
+  7. [Gabrielle ][17]
+  8. [Empire of Dirt][18]
+  9. [My Awkward Sexual Adventure][19]
+  10. [The Grand Seduction][20]
+
+   [14]: /letters/2013/4/19/still-mine.html
+   [15]: /letters/2013/6/11/sarah-prefers-to-run.html
+   [16]: /letters/2013/9/20/the-art-of-the-steal.html
+   [17]: /letters/2013/10/23/gabrielle.html
+   [18]: http://www.youtube.com/watch?v=iKyAxzkjdB0
+   [19]: /letters/2013/4/29/my-awkward-sexual-adventure.html
+   [20]: /letters/2013/9/18/the-grand-seduction.html
+
+_Special mentions_: The incredible [_Stories We Tell_][21] was actually a 2012 release in Canada (but 2013 for U.S.), so I'm not including it. Same with [_Blackbird_][22], though it's also fantastic.
+
+   [21]: /letters/2012/11/7/stories-we-tell.html
+   [22]: /letters/2012/9/25/blackbird.html
+
+ 
+
+**The Surprisingly Good**
+
+[Pain & Gain][23]  
+[The Great Gatsby][24]  
+Enders Game
+
+   [23]: /letters/2013/4/26/pain-gain.html
+   [24]: /letters/2013/5/10/the-great-gatsby.html
+
+ 
+
+**The Unapologetically Awesome**
+
+[Olympus Has Fallen][25]  
+[Fast & Furious 6][26]  
+[Pacific Rim][27] 
+
+   [25]: /letters/2013/3/22/olympus-has-fallen.html
+   [26]: /letters/2013/5/27/fast-furious-6.html
+   [27]: /letters/2013/7/11/pacific-rim.html
+
+ 
+
+**Extra Special Indies**
+
+[Fruitvale Station][28]  
+[Short Term 12][29]  
+The Spectacular Now  
+Frances Ha  
+Computer Chess
+
+   [28]: /letters/2013/8/6/fruitvale-station.html
+   [29]: /letters/2013/10/8/short-term-12.html
+
+ 
+
+**Avoid at All Costs**
+
+[Machete Kills][30]  
+[Man of Steel][31]  
+[A Good Day to Die Hard][32]  
+[Aftershock][33]  
+[After Earth][34]  
+[Getaway][35]
+
+   [30]: /letters/2013/10/9/machete-kills.html
+   [31]: /letters/2013/6/14/man-of-steel.html
+   [32]: /letters/2013/2/15/a-good-day-to-die-hard.html
+   [33]: /letters/2013/5/14/aftershock.html
+   [34]: /letters/2013/6/7/after-earth.html
+   [35]: /letters/2013/9/4/getaway.html
+
+ 
+
+Finally, my **Notably Unseen of 2013** are _Inside Llewyn Davis_, _Her_, _The Wolf of Wall Street_, _The Past_, _The Great Beauty_ and _Nebraska._ There are undoubtedly others. If there's something you think I missed, let me know!_ _
+
+_Bon cinema,_  
+  
+Christopher

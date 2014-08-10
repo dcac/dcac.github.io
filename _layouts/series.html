@@ -6,7 +6,7 @@ css: article.css
        <section id="feature-hero">
         <div id="story-title" class="title-info">
           <a href="{{ post.url }}">
-            <div class="title-img" style="background-image:url(/img/features/series/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %});" data-stellar-background-ratio=".25"></div>
+            <div class="title-img" style="background-image:url(/img/features/series/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %});" data-stellar-background-ratio=".25" alt="Main Image"></div>
             <div class="row collapse">
               <div class="large-4 medium-4 columns feature-title-height">
                 <div class="feature-title-text">
@@ -24,23 +24,30 @@ css: article.css
           </a>
         </div>
       </section>
-      <section class="main-copy"> 
+      <section class="main-copy">
         <div class="row">
-          <div class="large-8 medium-8 columns" id="review-copy">
+          <div class="large-12 medium-12 columns collapse" id="review-copy">
             {{ content }}
-            <div class="row posts-grid" id="posts-grid">
-        {% for post in site.categories['series'] %}
-        {% if post.series-name == page.series-name %}
-        {% assign author = site.data.authors[post.author] %}
-         <div class="large-6 medium-6 columns{% if forloop.last %} end{% endif %} section-post">
-          {% include post-grid/post.html %} 
-        </div>
-        {% endif %}
-        {% endfor %}
-      </div>
           </div>
-          <div class="large-4 medium-4 columns" id="film-row">
+        </div>
+        <div class="writer-articles">
+          <div class="row collapse">
+            <div class="large-12 columns collapse writer-head-block">
+              <h1 class="writer-articles-header">The Movies</h1>
+              <hr class="writer-articles-rule">
             </div>
           </div>
         </div>
+        <div class="row posts-grid" id="posts-grid">
+    {% for post in site.categories['series'] %}
+    {% if post.series-name == page.series-name %}
+    {% assign author = site.data.authors[post.author] %}
+          <div class="large-4 medium-4 small-6 columns{% if forloop.last %} end{% endif %} section-post">
+            {% include post-grid/post.html %} 
+          </div>
+          {% endif %}
+          {% endfor %}
+        </div>
       </section>
+      {% include disqus.html %}
+      
