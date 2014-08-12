@@ -11,8 +11,6 @@ addressee: Olivia Bloche-Lain
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
 title: "The Intouchables"
 comments: true
 tags: [comedy, drama, French, Intouchables, Letters]

@@ -11,8 +11,6 @@ addressee: Tim Allen
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
 title: "Chimpanzee"
 comments: true
 tags: [BBC, Chimpanzees, Disney, Letters, lovely, Narration, Tim Allen]

@@ -17,8 +17,8 @@ tags: [abortion, comedy, independent, indie, jenny slate, Letters, short film]
 ---
 It's rare to find a comedy that actually has something to say. Sure, the odd [political satire][1] or [dark comedy][2] sometimes places a funhouse mirror to the world. But they're usually about _those_ people--that is, targets big and broad enough for us lowly commoners to feel empowered by laughing at. _Obvious Child_ takes a much more dangerous route, mining comedy from an average woman's decision to have an abortion. Hilarious, right? Well, yes and no. And for the best reasons.
 
-   [1]: /letters/2012/8/13/the-campaign.html
-   [2]: /letters/2014/1/7/the-wolf-of-wall-street.html
+   [1]: /content/2012/8/13/the-campaign.html
+   [2]: /content/2014/1/7/the-wolf-of-wall-street.html
 
 Undoubtedly, some people will cheer _Oblivious Child_ for being defiantly feminist. Others will write the film off without ever seeing it based solely on the premise. Others still might just assume it's going to ape the _Juno_ formula. Well, I'm happy to report to all these groups that the film doesn't fit into any one of those boxes.
 

@@ -8,7 +8,9 @@ excerpt: "I know there&rsquo;s no such thing as an <em>easy</em> sound editing g
 position: Supervising Sound Editor
 addressee: Per Nystr&ouml;m
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - netflix
 title: "Searching for Sugar Man"
 comments: true
 tags: [documentary, Letters, oscars, Sixto Rodriguez]

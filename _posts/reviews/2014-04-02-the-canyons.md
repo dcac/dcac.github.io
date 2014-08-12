@@ -9,7 +9,9 @@ excerpt: "When I first heard about The Canyons, I was morbidly curious. A Bret E
 position: Editor (Almost)
 addressee: Steven Soderbergh
 layout: review
-categories: reviews
+categories: 
+- reviews
+- netflix
 title: "The Canyons"
 date: 2014-04-02 19:08
 comments: true

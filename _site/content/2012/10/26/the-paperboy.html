@@ -26,7 +26,15 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
-      $('nav#menu-left').css({'display':'block'});
+      $("#nav-toggle").click(function(){
+        $('nav#menu-left').css({'display':'block'});
+        $('#nav-header').css({'display':'block'});
+      });
+      $("#mm-blocker").click(function() {
+        $("#my-menu").trigger("close.mm");
+        $('nav#menu-left').css({'display':'none'});
+        $('#nav-header').css({'display':'none'});
+      });
     });
 		</script>
 
@@ -99,7 +107,7 @@
               <li><a href="/reviews/">Reviews</a></li>
               <li><a href="/features/" class="slash">Features</a></li>
               <!-- <li><a href="/podcast/">Podcast</a></li> -->
-              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="/writers/" class="slash">Writers</a></li>
               <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
             </ul>
           </section>
@@ -120,7 +128,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -130,7 +138,7 @@
 
       <section>
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/the-paperboy.jpg);" data-stellar-background-ratio=".25"></div>
+          <div class="title-img" style="background-image:url(/img/article/main/the-paperboy.jpg);" data-stellar-background-ratio=".25"></div>
           <div class="row">
             <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
@@ -203,8 +211,8 @@
               
             <div class="signature clearfix">
               <p class="signature-signoff"><strong>Sincerely,</strong><br />
+              <img class="signature-img" src="/img/writers/" /><br />
               Casey</p>
-              <img class="signature-img" src="/img/writers/" />
             </div>
               
             
@@ -219,15 +227,16 @@
           
             
               <div class="large-4 medium-4 columns main-link-small">
-                <a href="/content/2013/03/27/stoker.html">
+                <a href="/content/2013/3/27/stoker.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/stoker.jpg" alt="Stoker" alt="Stamp" />
+                    <img src="/img/article/thumb-300/stoker.jpg" alt="Stoker" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/03/27/stoker.html">
+                <a href="/content/2013/3/27/stoker.html">
                   <div class="review-text">
                     <h1>Stoker</h1>
                     <h2 class="addressee">Dear Wing Lee, <span class="mobile-line-break"><br /></span>Art Director</h2>
@@ -239,15 +248,16 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2013/09/05/lee-daniels-the-butler.html">
+                <a href="/content/2013/9/5/lee-daniels-the-butler.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/lee-daniels-the-butler.jpg" alt="Lee Daniels' The Butler" alt="Stamp" />
+                    <img src="/img/article/thumb-300/lee-daniels-the-butler.jpg" alt="Lee Daniels' The Butler" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/09/05/lee-daniels-the-butler.html">
+                <a href="/content/2013/9/5/lee-daniels-the-butler.html">
                   <div class="review-text">
                     <h1>Lee Daniels' The Butler</h1>
                     <h2 class="addressee">Dear Harvey Weinstein, <span class="mobile-line-break"><br /></span>Executive Producer</h2>
@@ -258,15 +268,16 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2014/05/09/neighbors.html">
+                <a href="/content/2014/5/9/neighbors.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/neighbors.jpg" alt="Neighbors" alt="Stamp" />
+                    <img src="/img/article/thumb-300/neighbors.jpg" alt="Neighbors" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/05/09/neighbors.html">
+                <a href="/content/2014/5/9/neighbors.html">
                   <div class="review-text">
                     <h1>Neighbors</h1>
                     <h2 class="addressee">Dear Brian Bell, <span class="mobile-line-break"><br /></span>Unit Production Manager</h2>
@@ -277,6 +288,7 @@
           
           </div>
         </div>
+
       </section>
       <div class="comments-bg">
         <div class="comments">
@@ -298,7 +310,7 @@
         
         <a href="/content/2012/10/26/the-paperboy.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-paperboy.jpg" alt="The Paperboy Image" />
+                    <img src="/img/article/thumb-300/the-paperboy.jpg" alt="The Paperboy Image" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>

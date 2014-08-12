@@ -8,7 +8,9 @@ excerpt: "<p>C/O The California Department of Corrections</p>I know things have 
 position: Director of Die Hard
 addressee: John McTiernan
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - netflix
 title: "A Good Day to Die Hard"
 comments: true
 tags: [action, bruce willis, Die Hard, John McTiernan, Letters, Sequel, shitty sequels]

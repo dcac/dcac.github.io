@@ -11,8 +11,6 @@ addressee: Robbi O'Quinn
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
 title: "Edwin Boyd: Citizen Gangster"
 comments: true
 tags: [Boyd Gang, Canada, Canadian, crime, drama, Edwin Boyd, Letters, Scott Speedman, true story]

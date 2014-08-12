@@ -7,7 +7,7 @@ title: Reviews
           <div class="row" id="load-posts-area">
             {% for post in paginator.posts %}
              <div class="post large-4 medium-4 columns">
-              <a href="{{ post.url }}" class="thumbnail"><img src="/img/article/thumb/{{ post.image }}" alt="{{ post.title }}" /></a>
+              <a href="{{ post.url }}" class="thumbnail"><img src="/img/article/thumb-300/{{ post.image }}" alt="{{ post.title }}" /></a>
               <a href="{{ post.url }}">
                 <div class="review-text">
                   <h1>{{ post.title }}</h1>

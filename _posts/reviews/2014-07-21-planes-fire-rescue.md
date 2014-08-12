@@ -17,7 +17,7 @@ tags: [adventure, child, children, Disney, Family, Letters, Pixar]
 ---
 That was a dirty trick you pulled. About a half hour into _Planes: Fire & Rescue,_ I suddenly found myself excited - _invested_, even - in the action that was unfolding. The aerial team was flying to their first forest fire and I thought to myself "shit, this good!" Of course, I didn't actually swear out loud (since I was surrounded by six-year-olds)--but [this time][1], to my amazement, my urge to curse wasn't provoked by the film's shortcomings. A second later, I realized why. I'd been… _Thunderstruck._
 
-   [1]: /letters/2013/8/14/planes.html
+   [1]: /content/2013/8/14/planes.html
 
 That damn AC/DC song. Works every time. Doesn't matter if it's pumping up [sports teams][2], salvaging a [blockbuster][3], or coming out of [flaming bagpipes][4]. When that famous guitar lick kicks in, my adrenaline soars. I would argue that it rivals - and maybe surpasses - "Eye of the Tiger" as the greatest musical trigger for kicking things into hero mode.
 

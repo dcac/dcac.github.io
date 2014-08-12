@@ -10,9 +10,8 @@ position: Food Stylist
 addressee: Zachariah Kucynski
 layout: review
 categories:
-  - reviews
-  - streaming
-  - on-video
+- reviews
+- netflix
 title: "The Five-Year Engagement"
 comments: true
 tags: [Emily Blunt, Five Year Engagement, Jason Segel, Letters, Romantic Comedy]

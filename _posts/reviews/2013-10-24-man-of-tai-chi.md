@@ -9,7 +9,9 @@ excerpt: "There must have been quite a buzz going around the office as you were 
 position: Fighter Casting
 addressee: Mike Leeder
 layout: review
-categories: reviews
+categories:
+- reviews
+- netflix
 title: "Man of Tai Chi"
 comments: true
 tags: [China, debut, director, directorial, fight, fighting, first, hong kong, Keanu Reeves, kung-fu, Letters, martial arts, Tiger Chen]

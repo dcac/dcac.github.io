@@ -19,9 +19,9 @@ tags: [Essays, sci-fi, science fiction, Sequel, Star Trek]
 Maybe it's a good thing you're not around to see this. Six years after your passing, [_Star Trek II: The Wrath of Khan_][1] - what I would kindly suggest is the great accomplishment of your career - is enjoying a sort of renaissance. Not necessarily on its own (countless) merits, but mostly because there's this new flick in theaters, [_Star Trek Into Darkness_][2], that is trying - and failing spectacularly - to mimic them.
 
    [1]: http://movies.netflix.com/WiMovie/Star_Trek_II_The_Wrath_of_Khan/60001462?trkid=1889703
-   [2]: /letters/2013/5/16/star-trek-into-darkness.html
+   [2]: /content/2013/5/16/star-trek-into-darkness.html
 
-I'll get to those merits (and failures) in a second, but first let me elaborate on this idea that _Star Trek II _is your greatest professional feat.
+I'll get to those merits (and failures) in a second, but first let me elaborate on this idea that _Star Trek II_ is your greatest professional feat.
 
 I don't mean to disparage your long career as a writer and producer in television. From _Bonanza_ to _The Streets of San Francisco_ to _BL Stryker_, you were the model of the network-era journeyman writer; a sort of narrative mechanic, who, within the airtight confines of an hour-long scripted drama, was able to tinker with the wheels and gears of a plot to keep it running efficiently. But despite this workmanlike competence, your experience was pretty limited. Mostly westerns, cop shows, legal dramas. By the spring of 1981, after more than two decades in the business, you'd never written for the big screen. And you'd never been hired to write science-fiction.
 
@@ -60,7 +60,7 @@ Now, I'm no hater of J.J. Abrams. In fact, I'm a bit of an apologist for his fir
 
 The writers - Alex Kurtzman and Roberto Orci (paired, for the sequel, with [noted philosophical obfuscator][7] Damon Lindelof) - seem desperate, in this second flick, to connect with the Star Trek mythology in the same seamless way that you did. But they did themselves a disservice in the first film by linking both streams of the franchise as divergent alternate dimensions (okay, maybe the cave of exposition _was_ that bad). They are now beholden to both the original series _and_ the original film franchise. So, with _Into Darkness_, we get Tribbles; we get Harry Mudd; we get Dr. Marcus (who, in your film, is revealed to be the mother of Kirk's child). We get Khan, too. And, sure, Benedict Cumberbatch has an undeniable charm and a cool gravelly voice--but he bears so little in common with Khan (the character, who, like Kirk and Spock and Bones and Scotty is, in the broad strokes of his persona, a vital part of the Star Trek mythos) that fitting him into the story feels like the most senseless, lazy sort of fan service. 
 
-   [7]: /letters/2012/6/12/prometheus.html
+   [7]: /content/2012/6/12/prometheus.html
 
 (The writers have actually [admitted to having retrofitted Khan-as-antagonist into the screenplay][8].)
 
@@ -68,7 +68,7 @@ The writers - Alex Kurtzman and Roberto Orci (paired, for the sequel, with [note
 
 Which wouldn't be so bad if _Into Darkness_ didn't fumble its way into the same thematic trap that has claimed so many recent blockbusters (begrudgingly, I'll include [_The Dark Knight Rises_][9] on that list): paralyzing self-seriousness. Laid over the story is a paper-thin 9/11 allegory (what else?) that is naked in its striving for profundity, and is revealed during the climactic action sequence to be nothing more than an offensive thematic ploy (thousands of people appear to die in a single ecstatic CGI shot).  
 
-   [9]: /letters/2012/7/19/the-dark-knight-rises.html
+   [9]: /content/2012/7/19/the-dark-knight-rises.html
 
 Needless to say, Jack, I felt a lot of feelings while watching _Star Trek Into Darkness_. Some nice. Some unpleasant. At the time, in the theater, assaulted by the noise, seized by the stuttering cuts, I didn't think it was _that_ bad. Worth the fourteen bucks for a 3D ticket--but just barely. But in revisiting _Star Trek II: The Wrath of Khan_, your simple, unpretentious, yeoman's approach to the narrative made clear just how low my expectations were.  
 
@@ -76,6 +76,9 @@ Looking back from the high perch of three decades, it's easy to see why _Star Tr
 
 And your generosity didn't stop there. You spent the last years of your life teaching film and television at UCLA. Which makes me wish I lived in some divergent reality in which Kurtzman, Orci, and Lindelof took one of your classes. Then I might have been able to watch another amazing Star Trek sequel.  
 
-Rest in peace,  
+
+{% contentfor signature %}
+**Rest in peace,**
 
 Jared Young
+{% endcontentfor  %}

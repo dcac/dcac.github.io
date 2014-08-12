@@ -8,7 +8,9 @@ excerpt: "I hope you appreciate the irony &ndash; or should I say, &ldquo;highly
 position: Lighting Artist
 addressee: Fritz Beck
 layout: review
-categories: reviews
+categories:
+- reviews
+- netflix
 title: "Star Trek Into Darkness"
 comments: true
 tags: [Benedict Cumberpatch, blockbuster, Chris Pine, j.j. Abrams, Letters, Oscars 2014, sci-fi, Sequel, Star Trek, summer, Zachary Quinto]

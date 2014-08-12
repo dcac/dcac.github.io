@@ -10,9 +10,8 @@ position: Head Ager and Dyer
 addressee: Tyron Matthee
 layout: review
 categories:
-  - reviews
-  - streaming
-  - on-video
+- reviews
+- netflix
 title: "Safe House"
 comments: true
 streaming: true

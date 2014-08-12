@@ -26,7 +26,15 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
-      $('nav#menu-left').css({'display':'block'});
+      $("#nav-toggle").click(function(){
+        $('nav#menu-left').css({'display':'block'});
+        $('#nav-header').css({'display':'block'});
+      });
+      $("#mm-blocker").click(function() {
+        $("#my-menu").trigger("close.mm");
+        $('nav#menu-left').css({'display':'none'});
+        $('#nav-header').css({'display':'none'});
+      });
     });
 		</script>
 
@@ -99,7 +107,7 @@
               <li><a href="/reviews/">Reviews</a></li>
               <li><a href="/features/" class="slash">Features</a></li>
               <!-- <li><a href="/podcast/">Podcast</a></li> -->
-              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="/writers/" class="slash">Writers</a></li>
               <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
             </ul>
           </section>
@@ -120,7 +128,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -130,7 +138,7 @@
 
       <section>
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/the-guilt-trip.jpg);" data-stellar-background-ratio=".25"></div>
+          <div class="title-img" style="background-image:url(/img/article/main/the-guilt-trip.jpg);" data-stellar-background-ratio=".25"></div>
           <div class="row">
             <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
@@ -173,14 +181,14 @@
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
             <p class="intro hide-for-small">Dear Daniel Villagomez,</p>
-            <div><p class="intro"><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/12/20/the-guilt-trip.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7770/1356021599917/The%20Guilt%20Trip.jpg" alt="" /></a></span></span></p><p><em><span style="font-size:130%;"><strong>Dear Daniel Villagomez</strong>, Credits Administrator (Uncredited),</span></em></p><p>It&rsquo;s a good thing they invented the Internet. How else would someone like you, who diligently lists off the hard work of others, ever get any recognition of your own? When the credits for <em>The Guilt Trip</em> rolled, your name was nowhere to be seen &ndash; even though you were directly responsible for getting all those names out there. You&rsquo;re not alone. Mothers, too, know a little something about being ironically overlooked. So it&rsquo;s nice to see a film acknowledge the pains and joys of this type of selfless, unacknowledged devotion. And even more rare to do so without ever nagging the audience.</p><p>Director Anne Fletcher is the steady hand behind the wheel of this family bonding road trip. When young entrepreneur Andrew Brewster (Seth Rogan) learns about his mother&rsquo;s first love before driving cross-country for his business, he invites her to come along for the ride with the hidden goal of meeting the man he was named after. Barbra Streisand hits a comedic homerun as Joyce Brewster, striking an impressive balance of capturing the overbearing concerns of a mother without ever descending into parody. For his part, Rogan dials back his typically foul-mouthed antics and presents a son that&rsquo;s not exactly ungrateful or spoiled, but afraid to confront his faults.</p><p>This is a safe film. It&rsquo;s a nice film. It&rsquo;s the kind of film I wish I would have seen with my mom (I never know what&rsquo;s safe to see together after suffering through that otherwise fantastic lesbian scene in <em>Chloe</em>). And while <em>The Guilt Trip</em> doesn&rsquo;t deserve to the level of praise a mother may bestow upon her only son, it shouldn&rsquo;t be dismissed like someone who has to hear those same praises either. The film is a gentle ride without any twists and turns that usually come with this type of trip. What the story loses by being a little quaint, it usually makes up for by feeling genuine. Also, by focusing on the core mother-son relationship, and keeping any secondary characters at arms length, we get time to fully enjoy Streisand&rsquo;s unique brand of humour. She alone is worth the trip to the theatre.</p><p>You probably don&rsquo;t do your job for the praise, but if the film teaches us anything, it&rsquo;s that everyone needs a little boost now and then. So good job, and let&rsquo;s all make a bigger effort to not overlook the often thankless roles out there.</p><p>Administering you some credit,</p><p>Christopher</p><p><strong><em>Status: Standard Delivery (3/5)</em></strong></p></div>
+            <div><p class="intro"><span class="full-image-block ssNonEditable"><span><a href="/content/2012/12/20/the-guilt-trip.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7770/1356021599917/The%20Guilt%20Trip.jpg" alt="" /></a></span></span></p><p><em><span style="font-size:130%;"><strong>Dear Daniel Villagomez</strong>, Credits Administrator (Uncredited),</span></em></p><p>It&rsquo;s a good thing they invented the Internet. How else would someone like you, who diligently lists off the hard work of others, ever get any recognition of your own? When the credits for <em>The Guilt Trip</em> rolled, your name was nowhere to be seen &ndash; even though you were directly responsible for getting all those names out there. You&rsquo;re not alone. Mothers, too, know a little something about being ironically overlooked. So it&rsquo;s nice to see a film acknowledge the pains and joys of this type of selfless, unacknowledged devotion. And even more rare to do so without ever nagging the audience.</p><p>Director Anne Fletcher is the steady hand behind the wheel of this family bonding road trip. When young entrepreneur Andrew Brewster (Seth Rogan) learns about his mother&rsquo;s first love before driving cross-country for his business, he invites her to come along for the ride with the hidden goal of meeting the man he was named after. Barbra Streisand hits a comedic homerun as Joyce Brewster, striking an impressive balance of capturing the overbearing concerns of a mother without ever descending into parody. For his part, Rogan dials back his typically foul-mouthed antics and presents a son that&rsquo;s not exactly ungrateful or spoiled, but afraid to confront his faults.</p><p>This is a safe film. It&rsquo;s a nice film. It&rsquo;s the kind of film I wish I would have seen with my mom (I never know what&rsquo;s safe to see together after suffering through that otherwise fantastic lesbian scene in <em>Chloe</em>). And while <em>The Guilt Trip</em> doesn&rsquo;t deserve to the level of praise a mother may bestow upon her only son, it shouldn&rsquo;t be dismissed like someone who has to hear those same praises either. The film is a gentle ride without any twists and turns that usually come with this type of trip. What the story loses by being a little quaint, it usually makes up for by feeling genuine. Also, by focusing on the core mother-son relationship, and keeping any secondary characters at arms length, we get time to fully enjoy Streisand&rsquo;s unique brand of humour. She alone is worth the trip to the theatre.</p><p>You probably don&rsquo;t do your job for the praise, but if the film teaches us anything, it&rsquo;s that everyone needs a little boost now and then. So good job, and let&rsquo;s all make a bigger effort to not overlook the often thankless roles out there.</p><p>Administering you some credit,</p><p>Christopher</p><p><strong><em>Status: Standard Delivery (3/5)</em></strong></p></div>
 
             
               
             <div class="signature clearfix">
               <p class="signature-signoff"><strong>Sincerely,</strong><br />
+              <img class="signature-img" src="/img/writers/jaredy-sig.png" /><br />
               Jared</p>
-              <img class="signature-img" src="/img/writers/jaredy-sig.png" />
             </div>
               
             
@@ -195,15 +203,16 @@
           
             
               <div class="large-4 medium-4 columns main-link-small">
-                <a href="/content/2014/07/24/tammy.html">
+                <a href="/content/2014/7/24/tammy.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/tammy.jpg" alt="Tammy" alt="Stamp" />
+                    <img src="/img/article/thumb-300/tammy.jpg" alt="Tammy" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/07/24/tammy.html">
+                <a href="/content/2014/7/24/tammy.html">
                   <div class="review-text">
                     <h1>Tammy</h1>
                     <h2 class="addressee">Dear Linda D. Flowers, <span class="mobile-line-break"><br /></span>Hair Department Head</h2>
@@ -215,15 +224,16 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2014/05/09/neighbors.html">
+                <a href="/content/2014/5/9/neighbors.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/neighbors.jpg" alt="Neighbors" alt="Stamp" />
+                    <img src="/img/article/thumb-300/neighbors.jpg" alt="Neighbors" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/05/09/neighbors.html">
+                <a href="/content/2014/5/9/neighbors.html">
                   <div class="review-text">
                     <h1>Neighbors</h1>
                     <h2 class="addressee">Dear Brian Bell, <span class="mobile-line-break"><br /></span>Unit Production Manager</h2>
@@ -234,25 +244,27 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2013/06/12/this-is-the-end.html">
+                <a href="/content/2013/6/12/this-is-the-end.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/this-is-the-end.jpg" alt="This is the End" alt="Stamp" />
+                    <img src="/img/article/thumb-300/this-is-the-end.jpg" alt="This is the End" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/06/12/this-is-the-end.html">
+                <a href="/content/2013/6/12/this-is-the-end.html">
                   <div class="review-text">
                     <h1>This is the End</h1>
                     <h2 class="addressee">Dear James Rawlings, <span class="mobile-line-break"><br /></span>Photo Double</h2>
-                    <h2 class="author">By Test Author</h2>
+                    <h2 class="author">By Jared Young</h2>
                   </div>
                 </a>
               </div>
           
           </div>
         </div>
+
       </section>
       <div class="comments-bg">
         <div class="comments">
@@ -274,7 +286,7 @@
         
         <a href="/content/2012/12/20/the-guilt-trip.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-guilt-trip.jpg" alt="The Guilt Trip Image" />
+                    <img src="/img/article/thumb-300/the-guilt-trip.jpg" alt="The Guilt Trip Image" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>

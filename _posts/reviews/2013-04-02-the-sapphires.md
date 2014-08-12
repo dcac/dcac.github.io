@@ -24,7 +24,3 @@ The film incessantly cuts away to archival footage or televised news reports con
 All of the great historical stuff you dug up overwhelms everything fun and entertaining about the film. I'm not blaming you, Lisa. You had a job to do and you did it. But now that I'm thinking about it, _The Sapphires_ suffers a bit from the aspirational issues that plagued Argo; like Ben Affleck's movie, yours breaks the fourth wall, revealing, in the end credits, photos of the real-life Sapphires, along with those American Graffiti-style where-are-they-know freeze-frame summaries. Which is nice. But introducing these people into the world of the film (the same way you introduce all of these archival bits and pieces) after the ridiculous sequence in which the Vietcong attack in the middle of performance, complete with an Alfonso Cuaron-like tracking shot and blown-up bodies flying through the frame like it's a deleted scene from Olympus Has Fallen.
 
 It's a shame, because there were some pretty terrific moments. More genuine laughs than I expected. But also just as many diversions into awkward docudrama history lessons. And sometimes, utterly erroneous. I guarantee that there were no white soldiers in Vietnam so racists that they'd refuse to let a black doctor address their wounds. You probably knew that, too and should have let the screenwriter know. It's a small detail, but in a movie that aspires to historical profundity, little details like that matter.
-
-Sincerely,
-
-Jared Young

@@ -33,8 +33,4 @@ But it all worked out, didn't it? You may have failed at making a film about the
 
 All three of those films were made by directors with real cinematic vision. Which begs the question: where would _The Running Man_ rank among all these cult classics if it had been an Andrew Davis film? 
 
-Impossible to say. But I prefer you on the wintry streets of Chicago. Let Glaser have his paper-thin hockey-rink sets and perfectly plain primetime sensibility. 
-
-Sincerely,  
-
-Jared Young
+Impossible to say. But I prefer you on the wintry streets of Chicago. Let Glaser have his paper-thin hockey-rink sets and perfectly plain primetime sensibility.

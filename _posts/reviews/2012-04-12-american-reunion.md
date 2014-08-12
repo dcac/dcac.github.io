@@ -11,8 +11,7 @@ addressee: Jojo Villanueva
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
+  - netflix
 title: "American Reunion"
 comments: true
 tags: [American, Basket Case, comedy, Green Day, Pie, Reunion, Sequel, Uncategorized]

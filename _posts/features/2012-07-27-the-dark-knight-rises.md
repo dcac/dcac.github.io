@@ -5,14 +5,13 @@ imdb: tt1345836
 image:  the-dark-knight-rises-2.jpg
 author: jaredy
 stars: 
-excerpt: "Rumor has it that you recently asked one of the prison guards how <em>The Dark Knight Rises</em> ends. You haven&rsquo;t seen the film in its entirety (and hopefully never will), so I thought I&rsquo;d tell you a bit about the movie with which, for obvious and appalling reasons, you will forever be associated."
+excerpt: "Rumor has it that you recently asked one of the prison guards how <em>The Dark Knight Rises</em> ends. You haven't seen the film in its entirety (and hopefully never will), so I thought I'd tell you a bit about the movie with which, for obvious and appalling reasons, you will forever be associated."
 position: 
 addressee: Recipient
 layout: feature
 categories:
-  - reviews
-  - streaming
-  - on-video
+  - features
+  - essays
 title: "The Dark Knight Rises"
 comments: true
 tags: [action, Anne Hathaway, Christian Bale, Christopher Nolan, comics, Letters, The Dark Knight Rises]
@@ -27,7 +26,7 @@ And that's the big spoiler: for all the grittiness and verisimilitude and ripped
 
 [Yes, just a movie][1]. With actors, and props, and a musical score. A screenplay that predetermined every line of dialogue. A crew of computer artists who added false substance to it all. A craft-services table somewhere behind the camera, where, between takes, Christian Bale angled a Panini through the Bat-mask and Tom Hardy, biceps pulsing, buttered a low-fat carrot muffin. In a way, _The Dark Knight Rises_ is disappointing solely because it exists. The tangible expression of a thing can never live up to the perfectly indistinct version one composes in forethought.
 
-   [1]: /letters/2012/7/19/the-dark-knight-rises.html
+   [1]: /content/2012/7/19/the-dark-knight-rises.html
 
 And you know all about disappointment, don't you?
 
@@ -48,5 +47,3 @@ You, though--you don't get a second chance. You made your choice. Your disappoin
 Oh, but you wanted to know how the movie ended, didn't you?
 
 Okay, well, goodbye.
-
-signature

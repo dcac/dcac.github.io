@@ -9,7 +9,9 @@ excerpt:
 position: Producer
 addressee: Gil Friesen
 layout: review
-categories: [reviews,current-releases]
+categories: 
+  - reviews
+  - netflix
 title: "20 Feet From Stardom"
 comments: true
 tags: [documentary, Letters, music, Oscars 2014]

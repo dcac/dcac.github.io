@@ -9,7 +9,10 @@ excerpt: "Did the controversy surrounding the American release of King vs. Godzi
 position: Composer
 addressee: Akira Ifukube
 layout: review
-categories: reviews
+categories: 
+ - reviews
+ - series
+series-name: Godzilla Week
 title: "Godzilla vs. King Kong"
 date: 2014-05-12 13:55
 comments: true

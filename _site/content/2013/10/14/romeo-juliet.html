@@ -26,7 +26,15 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
-      $('nav#menu-left').css({'display':'block'});
+      $("#nav-toggle").click(function(){
+        $('nav#menu-left').css({'display':'block'});
+        $('#nav-header').css({'display':'block'});
+      });
+      $("#mm-blocker").click(function() {
+        $("#my-menu").trigger("close.mm");
+        $('nav#menu-left').css({'display':'none'});
+        $('#nav-header').css({'display':'none'});
+      });
     });
 		</script>
 
@@ -99,7 +107,7 @@
               <li><a href="/reviews/">Reviews</a></li>
               <li><a href="/features/" class="slash">Features</a></li>
               <!-- <li><a href="/podcast/">Podcast</a></li> -->
-              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="/writers/" class="slash">Writers</a></li>
               <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
             </ul>
           </section>
@@ -120,7 +128,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -130,7 +138,7 @@
 
       <section>
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/romeo-juliet.jpg);" data-stellar-background-ratio=".25"></div>
+          <div class="title-img" style="background-image:url(/img/article/main/romeo-juliet.jpg);" data-stellar-background-ratio=".25"></div>
           <div class="row">
             <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
@@ -199,8 +207,8 @@
               
             <div class="signature clearfix">
               <p class="signature-signoff"><strong>Sincerely,</strong><br />
+              <img class="signature-img" src="/img/writers/" /><br />
               Jennifer</p>
-              <img class="signature-img" src="/img/writers/" />
             </div>
               
             
@@ -215,19 +223,20 @@
           
             
               <div class="large-4 medium-4 columns main-link-small">
-                <a href="/content/2014/06/23/the-fault-in-our-stars.html">
+                <a href="/content/2014/6/23/the-fault-in-our-stars.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-fault-in-our-stars.jpg" alt="The Fault in Our Stars" alt="Stamp" />
+                    <img src="/img/article/thumb-300/the-fault-in-our-stars.jpg" alt="The Fault in Our Stars" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/06/23/the-fault-in-our-stars.html">
+                <a href="/content/2014/6/23/the-fault-in-our-stars.html">
                   <div class="review-text">
                     <h1>The Fault in Our Stars</h1>
                     <h2 class="addressee">Dear Luuk Schmitz, <span class="mobile-line-break"><br /></span>Focus Puller</h2>
-                    <h2 class="author">By </h2>
+                    <h2 class="author">By Bridget Redmond</h2>
                   </div>
                 </a>
               </div>
@@ -235,15 +244,16 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2014/02/17/endless-love.html">
+                <a href="/content/2014/2/17/endless-love.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/endless-love.jpg" alt="Endless Love" alt="Stamp" />
+                    <img src="/img/article/thumb-300/endless-love.jpg" alt="Endless Love" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/02/17/endless-love.html">
+                <a href="/content/2014/2/17/endless-love.html">
                   <div class="review-text">
                     <h1>Endless Love</h1>
                     <h2 class="addressee">Dear Shane Garner, <span class="mobile-line-break"><br /></span>Set Decoration/On-Set Dresser</h2>
@@ -256,8 +266,9 @@
               <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/11/28/anna-karenina.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/anna-karenina.jpg" alt="Anna Karenina" alt="Stamp" />
+                    <img src="/img/article/thumb-300/anna-karenina.jpg" alt="Anna Karenina" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -273,6 +284,7 @@
           
           </div>
         </div>
+
       </section>
       <div class="comments-bg">
         <div class="comments">
@@ -294,7 +306,7 @@
         
         <a href="/content/2013/10/14/romeo-juliet.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/romeo-juliet.jpg" alt="Romeo & Juliet Image" />
+                    <img src="/img/article/thumb-300/romeo-juliet.jpg" alt="Romeo & Juliet Image" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>

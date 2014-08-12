@@ -21,7 +21,7 @@ _Dawn of the Planet of the Apes_ has reignited the debate about the role of the 
 
 There is certainly no shortage of people telling you that you're the best at what you do. Since you started working with Peter Jackson, playing Gollum in _Lord of the Rings_ films and later the mighty _King Kong_ himself, you've carved out a niche as Hollywood's go-to mo-cap artist. It made perfect sense, then, for a man with your pedigree (and simian simulation experience) to play Caesar in 2011's _Rise of the Planet of the Apes_.  And, by all accounts, you didn't disappoint. _Rise_ was a surprise critical and financial success, paving way for your character's central role in the [praise-worthy _Dawn_][1].
 
-   [1]: /letters/2014/7/12/dawn-of-the-planet-of-the-apes.html
+   [1]: /content/2014/7/12/dawn-of-the-planet-of-the-apes.html
 
 But here's my problem: 
 
@@ -35,7 +35,7 @@ In other words, you _play_ Caesar, but I don't think anyone can argue that you _
 
 Look at the countless biopics that always seem to win Best Actor awards: Matthew McConaughey in _Dallas Buys Club_, Daniel Day Lewis in _Lincoln_, Colin Firth in _The King's Speech_, Sean Penn in _Milk_, Forrest Whitaker in _The Last King of Scotland_, Philip Seymour Hoffman in _Capote_, Jamie Foxx in _Ray…_they aren't being rewarded for disappearing into their character the way you do (you _literally_ disappear). What we reward is the way an audience is able to magically marry the actor we know with the character they're portraying. Sometimes [make-up effects][2] or weight loss help make that connection easier, but it's always up to the audience to take that final step and say, "yes, we believe you." In the case of mo-cap, it's the animators that bridge that gap for us. Only once the special effects are photorealistic do we truly suspend our disbelief.
 
-   [2]: /letters/2012/12/12/the-make-up-of-2012-pt-1.html
+   [2]: /content/2012/12/12/the-make-up-of-2012-pt-1.html
 
 A film like _Avatar_ highlights this distinction. Sam Worthington is one of the most generic actors of his generation. Which is probably why James Cameron decided that his face was the perfect canvas to cover in blue "digital paint". In the end, it didn't matter because the wild and fantastical effects were believable. That said, no director would minimize the contributions of an actor in a [mo-cap performance][3], but they also wouldn't pretend like you did all the heavy lifting by yourself. Ideally, you make the animators' job easier. But your relationship is far too co-dependent to earn individual distinction.
 
@@ -47,7 +47,7 @@ I keep reading about how you're infusing "humanity" into your performance as Cae
 
 Which brings up the larger point: there's not a large enough sample size for us to accurately judge a good mo-cap performance from a bad one. I would argue that Seth MacFarlane's performance in [_Ted_][4]_ _was far more essential to the film's success than yours is to _Dawn_--and the only Oscar buzz he received was a nomination as worst host of all time. We could go further, too. What about Robin William's voice work in _Aladdin_? There's someone who truly contributed in immeasurable ways to the bringing an animated performance to life.
 
-   [4]: /letters/2012/7/16/ted.html
+   [4]: /content/2012/7/16/ted.html
 
 Which is why I'm sorry to say that Milli Vanilli will win another Grammy before you'll ever take home an Oscar for _Dawn of the Planet of the Apes_.
 

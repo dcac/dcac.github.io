@@ -11,8 +11,6 @@ addressee: Steve Stafford
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
 title: "Seeking a Friend for the End of the World"
 comments: true
 tags: [comedy, Disaster, Keira Knightly, Romantic, Steve Carrell, Uncategorized]

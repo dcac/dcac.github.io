@@ -26,7 +26,15 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
-      $('nav#menu-left').css({'display':'block'});
+      $("#nav-toggle").click(function(){
+        $('nav#menu-left').css({'display':'block'});
+        $('#nav-header').css({'display':'block'});
+      });
+      $("#mm-blocker").click(function() {
+        $("#my-menu").trigger("close.mm");
+        $('nav#menu-left').css({'display':'none'});
+        $('#nav-header').css({'display':'none'});
+      });
     });
 		</script>
 
@@ -99,7 +107,7 @@
               <li><a href="/reviews/">Reviews</a></li>
               <li><a href="/features/" class="slash">Features</a></li>
               <!-- <li><a href="/podcast/">Podcast</a></li> -->
-              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="/writers/" class="slash">Writers</a></li>
               <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
             </ul>
           </section>
@@ -120,7 +128,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -130,7 +138,7 @@
 
       <section>
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/frozen.jpg);" data-stellar-background-ratio=".25"></div>
+          <div class="title-img" style="background-image:url(/img/article/main/frozen.jpg);" data-stellar-background-ratio=".25"></div>
           <div class="row">
             <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
@@ -175,26 +183,24 @@
             <p class="intro hide-for-small">Dear Kristen Anderson-Lopez,</p>
             <p class="intro">When it comes to power couples on Broadway, you and your husband Robert Lopez are certainly the toast of the town. It makes sense that he, the two-time Tony award-winner for <em>Avenue Q</em> and <em>The Book of Mormon</em>, and you, with celebrated work on <em>Winnie the Pooh</em> and the <em>Finding Nemo</em> musical, would be hired to create the music for a film like <em>Frozen</em>. It also sounds a lot like, well, a Disney fairy tale. Which is only appropriate, I suppose, for an animated film that is a triumphant return-to-form for the storied company.</p>
 
-<p>From the first musical notes, which evoke the tribal hymns of <em>The Lion King</em>, <em>Frozen</em> is warmly reminiscent of Disney&rsquo;s animated classics. Like <em>The Little Mermaid</em>, it&rsquo;s inspired by a Hans Christian Anderson story. It borrows elements from the <em>Sleeping Beauty </em>storyline. The world-building uses <em>Beauty and the Beast</em>&rsquo;s approach to anthropomorphism, where magic can make objects talk but not animals &ndash; in this case, an aloof and ever optimistic snowman, Olaf (Josh Gadd), who also happens to be the best comic relief since Robin Williams&rsquo; Genie in <em>Aladdin</em>. One sequence with a snow monster even feels like it&rsquo;s embracing stop-motion animation techniques from that beloved black sheep of the Disney family, <em>The Nightmare Before Christmas</em>. Yet even with all these comparisons, <em>Frozen</em> never feels derivative or parodical. Instead &ndash; and thanks to your music &ndash; it&rsquo;s exactly what Disney fans have been waiting for.</p>
+<p>From the first musical notes, which evoke the tribal hymns of <em>The Lion King</em>, <em>Frozen</em> is warmly reminiscent of Disney&#39;s animated classics. Like <em>The Little Mermaid</em>, it&#39;s inspired by a Hans Christian Anderson story. It borrows elements from the <em>Sleeping Beauty _storyline. The world-building uses _Beauty and the Beast</em>&#39;s approach to anthropomorphism, where magic can make objects talk but not animals - in this case, an aloof and ever optimistic snowman, Olaf (Josh Gadd), who also happens to be the best comic relief since Robin Williams&#39; Genie in <em>Aladdin</em>. One sequence with a snow monster even feels like it&#39;s embracing stop-motion animation techniques from that beloved black sheep of the Disney family, <em>The Nightmare Before Christmas</em>. Yet even with all these comparisons, <em>Frozen</em> never feels derivative or parodical. Instead - and thanks to your music - it&#39;s exactly what Disney fans have been waiting for.</p>
 
-<p>The opening song &ldquo;Frozen Heart&rdquo; introduces us to the winter kingdom of Arendelle, with male labourers carving out blocks of ice to the rhythm of their deep baritone chants (inspired, no doubt, by <em>Les Mis&eacute;rables</em> show-opener &ldquo;Look Down&rdquo;). You then do a wonderful job of pushing the story along through the time-ellipsing heartbreaker &ldquo;Do You Want to Build a Snowman?&rdquo;, which transitions our child characters to their adult selves. The hopeful longing continues in the dueling performance of &ldquo;For the First Time in Forever&rdquo;, sung between two perspectives of sisters Anna (Kristen Bell) and Else (Idina Menzel). This is where even more of your eccentricities are allowed to shine through, with lyrics like &ldquo;I don&rsquo;t know if I&rsquo;m elated or gassy, but I&rsquo;m somewhere in that zone&rdquo;. You also do something novel for Disney by having the characters speak in the repetitive and emphatic verbiage of teenage girls. Take this in stanza, for example:</p>
+<p>The opening song &quot;Frozen Heart&quot; introduces us to the winter kingdom of Arendelle, with male labourers carving out blocks of ice to the rhythm of their deep baritone chants (inspired, no doubt, by <em>Les Miserables</em> show-opener &quot;Look Down&quot;). You then do a wonderful job of pushing the story along through the time-ellipsing heartbreaker &quot;Do You Want to Build a Snowman?&quot;, which transitions our child characters to their adult selves. The hopeful longing continues in the dueling performance of &quot;For the First Time in Forever&quot;, sung between two perspectives of sisters Anna (Kristen Bell) and Else (Idina Menzel). This is where even more of your eccentricities are allowed to shine through, with lyrics like &quot;I don&#39;t know if I&#39;m elated or gassy, but I&#39;m somewhere in that zone&quot;. You also do something novel for Disney by having the characters speak in the repetitive and emphatic verbiage of teenage girls. Take this in stanza, for example:</p>
 
-<p><em>There&#8217;ll be actual real live people</em><br /> <em>It&#8217;ll be totally strange</em><br /> <em>But wow, am I so ready for this change.</em></p>
+<p><em>There&#39;ll be actual real live people</em><br>
+<em>It&#39;ll be totally strange</em><br>
+<em>But wow, am I so ready for this change.</em></p>
 
-<p>The songs just keep getting better, from the quirky sing-a-long &ldquo;Love is an Open Door&rdquo; to the slightly absurd but wonderfully dippy &ldquo;Summer Song&rdquo;. Sure, the film doesn&rsquo;t have 90s-era C&eacute;line Dion or Elton John-esque power ballad, but that actually feels appropriate for a film that ultimately aims to subvert both story and song conventions whenever possible. You obviously wanted to put some distance between yourself and your predecessors Howard Ashman and Alan Menken. It works, and the film succeeds as a result.</p>
+<p>The songs just keep getting better, from the quirky sing-a-long &quot;Love is an Open Door&quot; to the slightly absurd but wonderfully dippy &quot;Summer Song&quot;. Sure, the film doesn&#39;t have 90s-era Celine Dion or Elton John-esque power ballad, but that actually feels appropriate for a film that ultimately aims to subvert both story and song conventions whenever possible. You obviously wanted to put some distance between yourself and your predecessors Howard Ashman and Alan Menken. It works, and the film succeeds as a result.</p>
 
-<p>So in that spirit, here&rsquo;s hoping you and your husband can keep working in such &ldquo;sync-ro-ni-city&rdquo; and continue to finish each others&hellip; sandwiches.&nbsp;</p>
-
-<p>Sincerely,</p>
-
-<p>Christopher</p>
+<p>So in that spirit, here&#39;s hoping you and your husband can keep working in such &quot;sync-ro-ni-city&quot; and continue to finish each others… sandwiches.</p>
 
             
               
             <div class="signature clearfix">
               <p class="signature-signoff"><strong>Sincerely,</strong><br />
+              <img class="signature-img" src="/img/writers/christopherr-sig.png" /><br />
               Christopher</p>
-              <img class="signature-img" src="/img/writers/christopherr-sig.png" />
             </div>
               
             
@@ -209,15 +215,16 @@
           
             
               <div class="large-4 medium-4 columns main-link-small">
-                <a href="/content/2014/01/30/the-croods.html">
+                <a href="/content/2014/1/30/the-croods.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-croods.jpg" alt="The Croods" alt="Stamp" />
+                    <img src="/img/article/thumb-300/the-croods.jpg" alt="The Croods" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/01/30/the-croods.html">
+                <a href="/content/2014/1/30/the-croods.html">
                   <div class="review-text">
                     <h1>The Croods</h1>
                     <h2 class="addressee">Dear John Cleese, <span class="mobile-line-break"><br /></span>Co-Writer</h2>
@@ -229,15 +236,16 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2014/03/17/mr-peabody-sherman.html">
+                <a href="/content/2014/3/17/mr-peabody-sherman.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/mr-peabody-sherman.jpg" alt="Mr. Peabody & Sherman" alt="Stamp" />
+                    <img src="/img/article/thumb-300/mr-peabody-sherman.jpg" alt="Mr. Peabody & Sherman" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/03/17/mr-peabody-sherman.html">
+                <a href="/content/2014/3/17/mr-peabody-sherman.html">
                   <div class="review-text">
                     <h1>Mr. Peabody & Sherman</h1>
                     <h2 class="addressee">Dear Wayback Machine, <span class="mobile-line-break"><br /></span>Plot Device</h2>
@@ -248,15 +256,16 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2013/07/05/despicable-me-2.html">
+                <a href="/content/2013/7/5/despicable-me-2.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/despicable-me-2.jpg" alt="Despicable Me 2" alt="Stamp" />
+                    <img src="/img/article/thumb-300/despicable-me-2.jpg" alt="Despicable Me 2" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/07/05/despicable-me-2.html">
+                <a href="/content/2013/7/5/despicable-me-2.html">
                   <div class="review-text">
                     <h1>Despicable Me 2</h1>
                     <h2 class="addressee">Dear Katie Ballentine, <span class="mobile-line-break"><br /></span>Marketing Consultant</h2>
@@ -267,6 +276,7 @@
           
           </div>
         </div>
+
       </section>
       <div class="comments-bg">
         <div class="comments">
@@ -288,7 +298,7 @@
         
         <a href="/content/2013/11/28/frozen.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/frozen.jpg" alt="Frozen Image" />
+                    <img src="/img/article/thumb-300/frozen.jpg" alt="Frozen Image" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /></div>
                   </div>

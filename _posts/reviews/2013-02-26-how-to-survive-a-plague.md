@@ -8,7 +8,9 @@ excerpt: "our job must have been the easiest, and toughest job in the world. You
 position: Story Editor
 addressee: Stephen Winter
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - netflix
 title: "How To Survive A Plague"
 comments: true
 tags: [Act UP, activist, AIDS, archival, documentary, fight, Letters, Occupy, Oscar, protest, Tea Party]

@@ -8,7 +8,9 @@ excerpt: "Micro-budget filmmakers are allowed to hate you."
 position: Errors and Omissions Counsel
 addressee: Robert Stein
 layout: review
-categories: reviews
+categories:
+- reviews
+- netflix
 title: "We Steal Secrets: The Story of WikiLeaks"
 comments: true
 tags: [Alex Gibney, documentary, Julian assange, Letters, We steal Sectrets, wikileaks]

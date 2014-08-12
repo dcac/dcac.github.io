@@ -8,7 +8,9 @@ excerpt: "Take me back to the beginning, to that eureka moment when everything c
 position: Writer
 addressee: Thunder Levin
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - netflix
 title: "Sharknado"
 comments: true
 tags: [sharknado, horror, Letters, low budget, mockbuster, movie, sci-fi, sharks, special, syfy, Thunder Levin, TV]

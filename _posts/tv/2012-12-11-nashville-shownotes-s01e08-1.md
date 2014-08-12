@@ -3,18 +3,18 @@ published: true
 section: General
 image: 
 imdb: 
-author: test 
+author: christopherr 
 stars: 
 excerpt: 
 position: 
 addressee: 
 layout: review
-categories: reviews
+categories: tv
 title: "Nashville — Shownotes S01E08"
 comments: true
 tags: [Episode 8, Nashville, Shownotes]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/12/11/nashville-shownotes-s01e08-1.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf775a/1355262023027/Nashville%20S1E08.jpg" alt="" /></a></span></span></p>
+<div><p><span class="full-image-block ssNonEditable"><span><a href="/content/2012/12/11/nashville-shownotes-s01e08-1.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf775a/1355262023027/Nashville%20S1E08.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><strong><em>Dear Cast and Crew of Nashville,</em></strong><em> S1E08 &ndash; &ldquo;Where Hew Leads Me&rdquo;</em></span></p>
 <p><em>Episode synopsis:</em><br />Rayna examines her priorities after listening to Teddy explain his situation with Peggy. Elsewhere, Juliette enjoys the bond she&#8217;s forming with Sean&#8217;s family; Gunnar makes a confession to Scarlett; and Avery and Deacon get terrific career opportunities.</p>
 <p><em>Original air date:</em><br />December 5, 2012</p>

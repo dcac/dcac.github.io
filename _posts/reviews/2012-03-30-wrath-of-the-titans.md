@@ -10,9 +10,8 @@ position: Visual Effects Artist #143
 addressee: Steven Denyer
 layout: review
 categories:
-  - reviews
-  - streaming
-  - on-video
+- reviews
+- netflix
 title: "Wrath of the Titans"
 comments: true
 streaming: true

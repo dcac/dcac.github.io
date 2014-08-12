@@ -10,9 +10,8 @@ position: Environment Artist
 addressee: Andy Potter
 layout: review
 categories:
-  - reviews
-  - streaming
-  - on-video
+- reviews
+- netflix
 title: "Total Recall"
 comments: true
 tags: [aaction, Colin Farrell, Jessica Biel, Kate Beckinsale, Len Wiseman, Philip K. Dick, Remake, sci-fi, Total recall, Uncategorized]

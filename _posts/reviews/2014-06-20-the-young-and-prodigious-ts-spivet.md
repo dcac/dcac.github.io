@@ -22,5 +22,3 @@ tags: [comedy, drama, Family, Letters]
 <p>Like the train that carries him across the country, the film takes a while to chug into action and pick up speed. Based on the illustrated novel by Reif Larsen, <em>The Young and Prodigious T.S. Spivet</em> uses a lot of interesting (but perhaps unnecessary) visual effects to accentuate T. S.&#8217;s flights of fancy. It has delightful small-touches and beautifully crafted production design yet Jeunet overplays his hand and the film although visually delightful, is overloaded by a fascination with detail and asides. These dashes of distraction detract from both T.S&#8217;s adventure and his emotional journey.</p>
 <p>Maybe if he had paid heed to the simplicity and starkness of your locations, Pierre, this may have been a more compact and clearer film. However it may have also lost some of its innocent charm and childish wonder.</p>
 <p><em>The Young and Prodigious T.S. Spivet</em> is a mixture of whimsy and road-trip, children&#8217;s film and art film. It works best when you&rsquo;re enjoying the scenery and letting the absurdity serenely wash over you.</p>
-<p>Yours Sincerely,&nbsp;</p>
-<p>Emily</p>

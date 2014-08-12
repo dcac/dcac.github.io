@@ -3,13 +3,15 @@ published: true
 section: General
 image: inside-llewyn-davis.jpg
 imdb: tt2042568
-author: test 
+author: erinc 
 stars: 4
 excerpt: 
 position: Head Animal Trainer,
 addressee: Dawn Barkan
 layout: review
-categories: reviews
+categories:
+- reviews
+- netflix
 title: "Inside Llewyn Davis"
 comments: true
 tags: [60s, Animal, cat, Coen Brothers, Ethan Coeh, Joel Coen, Letters, music, Oscar Issac, Oscars 2014, pet, trainer]
@@ -25,7 +27,3 @@ The structure of _Inside Llewyn Davis_ is circular but feels more like a spiral 
 The cat represents many things - it drives the narrative, it could be symbol of Davis' lost partner, or the elusive nature of art itself. Losing and finding the cat is therefore something we and Llewyn Davis feel strongly about. Well that, and because it's also a pretty cute cat.
 
 There was a lot riding on your shoulders, Dawn (and those of your cats), but you managed to pull it off brilliantly.
-
-Sincerely, 
-
-Erin

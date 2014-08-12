@@ -11,8 +11,6 @@ addressee: Jack Mannis
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
 title: "Beasts of the Southern Wild"
 comments: true
 tags: [2012, Beasts, Ben, Benh, Best, Cannes, Film, Uncategorized, undefined, Zeitlin]

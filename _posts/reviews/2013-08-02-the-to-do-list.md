@@ -8,20 +8,22 @@ excerpt: "I have a problem, Luther. I feel like I'm unqualified to provide a fai
 position: Lead Singer of 2 Live Crew
 addressee: Luther Campbell
 layout: review
-categories: reviews
+categories:
+- reviews
+- netflix
 title: "The To-Do List"
 comments: true
 tags: [2 live crew, aubrey plaza, comedy, luther campbell, me so horny, sex, teen, to-do list, Uncategorized]
 ---
 I have a problem, Luther. I feel like I'm unqualified to provide a fair perspective on the new high school sex-comedy _The To-Do List. _Not because I don't possess the necessary analytical faculties ([clearly I don't][1]), and not because the thematic complexities of the film resist easy interpretation--it's because I'm a dude, and how can a dude like me comment on the authenticity of a film that, even in its broadest, most absurd moments, seems to be revealing something heretofore unspoken about the sexual attitudes of teenage girls.
 
-   [1]: /letters/author/jyoung
+   [1]: /content/author/jyoung
 
 If there's anyone who knows something about the murky intersection of identity politics and sexual expression, it's you. So let me ask you, Uncle Luke: am I allowed to say that _The To-Do List_ is a mediocre flick? Or should I acknowledge that maybe I'm missing something.
 
 No, no. It's not that the film is built to appeal to an (assumed) female sensibility in the way that, say, _Pacific Rim_ is built to appeal to the (assumed) sensibilities of a pubescent Japanese male. It's trickier than that. As rote and formulaic as_ The To-Do List_ often feels, there is, in that roteness and formula, a vague sense of something subversive happening. The premise and plot are the stuff of modern myth: high school senior, anxious about post-adolescence, makes conscious decision to gain multitudinous sexual experience in the summer before college. Except here that senior is a girl, a neurotic perfectionist played by Aubrey Plaza, who offsets her usual [deadpan, zero-sum allure][2] with a bit of cute and clownish bluster. And so it goes: she stalks a group of pervy boys and allows herself to be finger-blasted, dry-humped, and cunnilingized before eventually getting her chance with the chiseled, gold-skinned head lifeguard--only to realize that maybe sex isn't as important as she thought. So on, so forth.
 
-   [2]: /letters/2013/3/13/safety-not-guaranteed.html
+   [2]: /content/2013/3/13/safety-not-guaranteed.html
 
 That hint of subversion comes, I suppose, from the fact that we're getting a girl's-eye view of the post-grad sexathalon that has been a rite of passage for movieland teenagers since the early 80s. Indeed, first-time writer and director Maggie Carey (to whom I am crediting, maybe mistakenly, a significant measure of authorial intent) seems eager to subsume the common elements of the modern gross-out comedy: the awkward nudity, the spilling (in this case, spitting) of bodily fluids. But I don't want to categorize her film as some sort of girl's version of _Superbad_ because, frankly, it's not quite as funny, or self-immolating, or clever as _Superbad_. But I understand, too, that much of what I find funny and self-immolating and clever about _Superbad_ - in particular the way that the film slowly, surreptitiously evolves into a panegyric about male friendship - is rooted in how much of the detail I find familiar, how much I identify with the characters and their universal (to me) struggle. There are probably a lot of details in _The To-Do List_ that will very feel familiar to many female viewers. Probably. Maybe.
 
@@ -40,7 +42,3 @@ Sorry, Luther. I'm sure you're all like: why does this even concern me? Well, as
 Quaint, but still pretty catchy. It's a concordance of everything great about the adolescence of rap music; the 4/4 time signature, the 808s and snares, the funky running bass-line. But it lacks the equivocation of these newer tunes. You guys tried a little too hard to be offensive, Luther; your demagoguery was all conspicuous and shit. _The To-Do List_ makes this mistake, too, I think; it strives a little too much for gender parity, and so fails to be the smart, bawdy, feminist comedy it wants to be. There's not a moment that feels as real and funny and frightening as Jennifer Jason Leigh losing her virginity on a dugout bench in _Fast Times._
 
 But, still, I can't help but come back to that feeling, sitting in the theater, that I was missing something--that there were certain moments that might have clicked with me if I had lived a different life, if I'd had my bikini top snatched off at the swimming pool, if I'd passed out drunk at a party and woken up with a boy on top of me, if I'd ever possessed that weird mix of power and powerlessness that every woman must eventually learn to wield. But I didn't. So all I can say is that _The To-Do List_ is a pretty mediocre flick.
-
-Sincerely, 
-
-Jared Young

@@ -8,7 +8,9 @@ excerpt: "It sounds so easy, right? Stick a couple of cameras in the Arctic and 
 position: Time-Lapse Photographer
 addressee: Austin Post
 layout: review
-categories: reviews
+categories:
+- reviews
+- netflix
 title: "Chasing Ice"
 comments: true
 tags: [Before My Time, Best song, Extreme Ice Survey, J. Ralph, James Balog, lapse, Letters, Oscar, photography, Scarlett Johansson, time]

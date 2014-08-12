@@ -11,8 +11,6 @@ addressee: Liz Allen
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
 title: "ParaNorman"
 comments: true
 tags: [Animation, claymation, comedy, Family, Uncategorized]

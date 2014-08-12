@@ -26,7 +26,15 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
-      $('nav#menu-left').css({'display':'block'});
+      $("#nav-toggle").click(function(){
+        $('nav#menu-left').css({'display':'block'});
+        $('#nav-header').css({'display':'block'});
+      });
+      $("#mm-blocker").click(function() {
+        $("#my-menu").trigger("close.mm");
+        $('nav#menu-left').css({'display':'none'});
+        $('#nav-header').css({'display':'none'});
+      });
     });
 		</script>
 
@@ -99,7 +107,7 @@
               <li><a href="/reviews/">Reviews</a></li>
               <li><a href="/features/" class="slash">Features</a></li>
               <!-- <li><a href="/podcast/">Podcast</a></li> -->
-              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="/writers/" class="slash">Writers</a></li>
               <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
             </ul>
           </section>
@@ -120,7 +128,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -156,15 +164,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2014/07/24/supermensch.html">
+             <a href="/content/2014/7/24/supermensch.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/supermensch.jpg" alt="Supermensch" alt="Stamp" />
+                    <img src="/img/article/thumb-300/supermensch.jpg" alt="Supermensch" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/07/24/supermensch.html">
+                <a href="/content/2014/7/24/supermensch.html">
                   <div class="review-text">
                     <h1>Supermensch</h1>
                     <h2 class="addressee">Dear Derek Shook, <span class="mobile-line-break"><br /></span>Paparazzi</h2>
@@ -175,15 +184,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2014/07/12/dawn-of-the-planet-of-the-apes.html">
+             <a href="/content/2014/7/12/dawn-of-the-planet-of-the-apes.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/dawn-of-the-planet-of-the-apes.jpg" alt="Dawn of the Planet of the Apes" alt="Stamp" />
+                    <img src="/img/article/thumb-300/dawn-of-the-planet-of-the-apes.jpg" alt="Dawn of the Planet of the Apes" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/07/12/dawn-of-the-planet-of-the-apes.html">
+                <a href="/content/2014/7/12/dawn-of-the-planet-of-the-apes.html">
                   <div class="review-text">
                     <h1>Dawn of the Planet of the Apes</h1>
                     <h2 class="addressee">Dear Charlton Heston, <span class="mobile-line-break"><br /></span>Actor and Former President of the NRA</h2>
@@ -194,15 +204,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2014/07/02/earth-to-echo.html">
+             <a href="/content/2014/7/2/earth-to-echo.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/earth-to-echo.jpg" alt="Earth to Echo" alt="Stamp" />
+                    <img src="/img/article/thumb-300/earth-to-echo.jpg" alt="Earth to Echo" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/07/02/earth-to-echo.html">
+                <a href="/content/2014/7/2/earth-to-echo.html">
                   <div class="review-text">
                     <h1>Earth to Echo</h1>
                     <h2 class="addressee">Dear Reese Hartwig, <span class="mobile-line-break"><br /></span>Actor</h2>
@@ -213,15 +224,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2014/06/30/spinning-plates.html">
+             <a href="/content/2014/6/30/spinning-plates.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/spinning-plates.jpg" alt="Spinning Plates" alt="Stamp" />
+                    <img src="/img/article/thumb-300/spinning-plates.jpg" alt="Spinning Plates" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/06/30/spinning-plates.html">
+                <a href="/content/2014/6/30/spinning-plates.html">
                   <div class="review-text">
                     <h1>Spinning Plates</h1>
                     <h2 class="addressee">Dear Leon Levy, <span class="mobile-line-break"><br /></span>Director's Dad</h2>
@@ -232,15 +244,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2014/06/16/its-a-disaster.html">
+             <a href="/content/2014/6/16/its-a-disaster.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/its-a-disaster.jpg" alt="It's a Disaster" alt="Stamp" />
+                    <img src="/img/article/thumb-300/its-a-disaster.jpg" alt="It's a Disaster" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/06/16/its-a-disaster.html">
+                <a href="/content/2014/6/16/its-a-disaster.html">
                   <div class="review-text">
                     <h1>It's a Disaster</h1>
                     <h2 class="addressee">Dear Kristen Saints, <span class="mobile-line-break"><br /></span>Wardrobe Supervisor</h2>
@@ -251,15 +264,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2014/06/03/filth.html">
+             <a href="/content/2014/6/3/filth.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/filth.jpg" alt="Filth" alt="Stamp" />
+                    <img src="/img/article/thumb-300/filth.jpg" alt="Filth" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/06/03/filth.html">
+                <a href="/content/2014/6/3/filth.html">
                   <div class="review-text">
                     <h1>Filth</h1>
                     <h2 class="addressee">Dear Trudie Styler, <span class="mobile-line-break"><br /></span>Producer/Actress</h2>
@@ -270,15 +284,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2014/05/23/blended.html">
+             <a href="/content/2014/5/23/blended.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/blended.jpg" alt="Blended" alt="Stamp" />
+                    <img src="/img/article/thumb-300/blended.jpg" alt="Blended" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/05/23/blended.html">
+                <a href="/content/2014/5/23/blended.html">
                   <div class="review-text">
                     <h1>Blended</h1>
                     <h2 class="addressee">Dear Adam Sandler, <span class="mobile-line-break"><br /></span>Star</h2>
@@ -289,15 +304,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2014/05/08/the-railway-man.html">
+             <a href="/content/2014/5/8/the-railway-man.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-railway-man.jpg" alt="The Railway Man" alt="Stamp" />
+                    <img src="/img/article/thumb-300/the-railway-man.jpg" alt="The Railway Man" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/05/08/the-railway-man.html">
+                <a href="/content/2014/5/8/the-railway-man.html">
                   <div class="review-text">
                     <h1>The Railway Man</h1>
                     <h2 class="addressee">Dear Justine Dunn and Jim Elliot, <span class="mobile-line-break"><br /></span>Prop Masters</h2>
@@ -308,15 +324,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2014/05/06/just-eat-it.html">
+             <a href="/content/2014/5/6/just-eat-it.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/just-eat-it.jpg" alt="Just Eat It" alt="Stamp" />
+                    <img src="/img/article/thumb-300/just-eat-it.jpg" alt="Just Eat It" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/05/06/just-eat-it.html">
+                <a href="/content/2014/5/6/just-eat-it.html">
                   <div class="review-text">
                     <h1>Just Eat It</h1>
                     <h2 class="addressee">Dear Thomas Miller, <span class="mobile-line-break"><br /></span>Aerial Cinematography</h2>
@@ -327,15 +344,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2014/05/04/the-theory-of-happiness.html">
+             <a href="/content/2014/5/4/the-theory-of-happiness.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-theory-of-happiness.jpg" alt="The Theory of Happiness" alt="Stamp" />
+                    <img src="/img/article/thumb-300/the-theory-of-happiness.jpg" alt="The Theory of Happiness" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/05/04/the-theory-of-happiness.html">
+                <a href="/content/2014/5/4/the-theory-of-happiness.html">
                   <div class="review-text">
                     <h1>The Theory of Happiness</h1>
                     <h2 class="addressee">Dear Cattle, <span class="mobile-line-break"><br /></span>Background Artists</h2>
@@ -346,15 +364,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2014/05/02/the-secret-trial-5.html">
+             <a href="/content/2014/5/2/the-secret-trial-5.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-secret-trial-5.jpg" alt="The Secret Trial 5" alt="Stamp" />
+                    <img src="/img/article/thumb-300/the-secret-trial-5.jpg" alt="The Secret Trial 5" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/05/02/the-secret-trial-5.html">
+                <a href="/content/2014/5/2/the-secret-trial-5.html">
                   <div class="review-text">
                     <h1>The Secret Trial 5</h1>
                     <h2 class="addressee">Dear Sophie Harkat, <span class="mobile-line-break"><br /></span>Subject</h2>
@@ -365,15 +384,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2014/05/01/algonquin.html">
+             <a href="/content/2014/5/1/algonquin.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/algonquin.jpg" alt="Algonquin" alt="Stamp" />
+                    <img src="/img/article/thumb-300/algonquin.jpg" alt="Algonquin" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/05/01/algonquin.html">
+                <a href="/content/2014/5/1/algonquin.html">
                   <div class="review-text">
                     <h1>Algonquin</h1>
                     <h2 class="addressee">Dear Algonquin Provincial Park, <span class="mobile-line-break"><br /></span>Location</h2>
@@ -384,15 +404,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2014/04/15/touchy-feely.html">
+             <a href="/content/2014/4/15/touchy-feely.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/touchy-feely.jpg" alt="Touchy Feely" alt="Stamp" />
+                    <img src="/img/article/thumb-300/touchy-feely.jpg" alt="Touchy Feely" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/04/15/touchy-feely.html">
+                <a href="/content/2014/4/15/touchy-feely.html">
                   <div class="review-text">
                     <h1>Touchy Feely</h1>
                     <h2 class="addressee">Dear Kelsey Wood, <span class="mobile-line-break"><br /></span>Biking Lifestyle Consultant</h2>
@@ -403,15 +424,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2014/04/02/the-canyons.html">
+             <a href="/content/2014/4/2/the-canyons.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-canyons.jpg" alt="The Canyons" alt="Stamp" />
+                    <img src="/img/article/thumb-300/the-canyons.jpg" alt="The Canyons" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/04/02/the-canyons.html">
+                <a href="/content/2014/4/2/the-canyons.html">
                   <div class="review-text">
                     <h1>The Canyons</h1>
                     <h2 class="addressee">Dear Steven Soderbergh, <span class="mobile-line-break"><br /></span>Editor (Almost)</h2>
@@ -422,15 +444,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2014/03/31/noah.html">
+             <a href="/content/2014/3/31/noah.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/noah.jpg" alt="Noah" alt="Stamp" />
+                    <img src="/img/article/thumb-300/noah.jpg" alt="Noah" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/03/31/noah.html">
+                <a href="/content/2014/3/31/noah.html">
                   <div class="review-text">
                     <h1>Noah</h1>
                     <h2 class="addressee">Dear Jennifer Connelly's Forehead, <span class="mobile-line-break"><br /></span>Surrogate Audience Member</h2>
@@ -441,15 +464,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2014/03/22/divergent.html">
+             <a href="/content/2014/3/22/divergent.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/divergent.jpg" alt="Divergent" alt="Stamp" />
+                    <img src="/img/article/thumb-300/divergent.jpg" alt="Divergent" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/03/22/divergent.html">
+                <a href="/content/2014/3/22/divergent.html">
                   <div class="review-text">
                     <h1>Divergent</h1>
                     <h2 class="addressee">Dear Tom Reiser, <span class="mobile-line-break"><br /></span>Digital Colourist</h2>
@@ -460,15 +484,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2014/03/19/veronica-mars.html">
+             <a href="/content/2014/3/19/veronica-mars.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/veronica-mars.jpg" alt="Veronica Mars" alt="Stamp" />
+                    <img src="/img/article/thumb-300/veronica-mars.jpg" alt="Veronica Mars" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/03/19/veronica-mars.html">
+                <a href="/content/2014/3/19/veronica-mars.html">
                   <div class="review-text">
                     <h1>Veronica Mars</h1>
                     <h2 class="addressee">Dear "We Used to Be Friends", <span class="mobile-line-break"><br /></span>Theme Song</h2>
@@ -479,15 +504,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2014/03/17/mr-peabody-sherman.html">
+             <a href="/content/2014/3/17/mr-peabody-sherman.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/mr-peabody-sherman.jpg" alt="Mr. Peabody & Sherman" alt="Stamp" />
+                    <img src="/img/article/thumb-300/mr-peabody-sherman.jpg" alt="Mr. Peabody & Sherman" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/03/17/mr-peabody-sherman.html">
+                <a href="/content/2014/3/17/mr-peabody-sherman.html">
                   <div class="review-text">
                     <h1>Mr. Peabody & Sherman</h1>
                     <h2 class="addressee">Dear Wayback Machine, <span class="mobile-line-break"><br /></span>Plot Device</h2>
@@ -498,15 +524,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2014/03/12/blackfish.html">
+             <a href="/content/2014/3/12/blackfish.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/blackfish.jpg" alt="Blackfish" alt="Stamp" />
+                    <img src="/img/article/thumb-300/blackfish.jpg" alt="Blackfish" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/03/12/blackfish.html">
+                <a href="/content/2014/3/12/blackfish.html">
                   <div class="review-text">
                     <h1>Blackfish</h1>
                     <h2 class="addressee">Dear James Earl Jones, <span class="mobile-line-break"><br /></span>Celebrity Shill</h2>
@@ -517,15 +544,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2014/02/23/winters-tale.html">
+             <a href="/content/2014/2/23/winters-tale.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/winters-tale.jpg" alt="Winter's Tale" alt="Stamp" />
+                    <img src="/img/article/thumb-300/winters-tale.jpg" alt="Winter's Tale" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/02/23/winters-tale.html">
+                <a href="/content/2014/2/23/winters-tale.html">
                   <div class="review-text">
                     <h1>Winter's Tale</h1>
                     <h2 class="addressee">Dear Marko Costanzo, <span class="mobile-line-break"><br /></span>Foley Artist</h2>
@@ -536,15 +564,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2014/02/22/pompeii.html">
+             <a href="/content/2014/2/22/pompeii.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/pompeii.jpg" alt="Pompeii" alt="Stamp" />
+                    <img src="/img/article/thumb-300/pompeii.jpg" alt="Pompeii" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/02/22/pompeii.html">
+                <a href="/content/2014/2/22/pompeii.html">
                   <div class="review-text">
                     <h1>Pompeii</h1>
                     <h2 class="addressee">Dear Volcano, <span class="mobile-line-break"><br /></span>Icon of Destruction</h2>
@@ -555,15 +584,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2014/02/15/20-feet-from-stardom.html">
+             <a href="/content/2014/2/15/20-feet-from-stardom.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/20-feet-from-stardom.jpg" alt="20 Feet From Stardom" alt="Stamp" />
+                    <img src="/img/article/thumb-300/20-feet-from-stardom.jpg" alt="20 Feet From Stardom" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/02/15/20-feet-from-stardom.html">
+                <a href="/content/2014/2/15/20-feet-from-stardom.html">
                   <div class="review-text">
                     <h1>20 Feet From Stardom</h1>
                     <h2 class="addressee">Dear Gil Friesen, <span class="mobile-line-break"><br /></span>Producer</h2>
@@ -574,15 +604,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2014/02/10/vampire-academy.html">
+             <a href="/content/2014/2/10/vampire-academy.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/vampire-academy.jpg" alt="Vampire Academy" alt="Stamp" />
+                    <img src="/img/article/thumb-300/vampire-academy.jpg" alt="Vampire Academy" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/02/10/vampire-academy.html">
+                <a href="/content/2014/2/10/vampire-academy.html">
                   <div class="review-text">
                     <h1>Vampire Academy</h1>
                     <h2 class="addressee">Dear Daniel Waters, <span class="mobile-line-break"><br /></span>Screenwriter</h2>
@@ -593,15 +624,16 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns end">
-             <a href="/content/2014/01/20/the-book-thief.html">
+             <a href="/content/2014/1/20/the-book-thief.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-book-thief.jpg" alt="The Book Thief" alt="Stamp" />
+                    <img src="/img/article/thumb-300/the-book-thief.jpg" alt="The Book Thief" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/01/20/the-book-thief.html">
+                <a href="/content/2014/1/20/the-book-thief.html">
                   <div class="review-text">
                     <h1>The Book Thief</h1>
                     <h2 class="addressee">Dear Lucien Stephenson, <span class="mobile-line-break"><br /></span>Snow Effects Supervisor</h2>

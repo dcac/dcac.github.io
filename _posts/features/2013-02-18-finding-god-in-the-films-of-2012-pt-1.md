@@ -2,7 +2,7 @@
 published: true
 section: General
 layout: feature
-image: 
+image: finding-god-in-the-films-of-2012-pt-1.jpg
 imdb: 
 author: christopherr
 stars: 
@@ -57,11 +57,10 @@ Primarily interpreted as a thinly-veiled portrait of Scientology, _The Master_ t
 
 Many people (myself included) were expecting the film to cast a critical eye on new-age religiosity--specifically its apocryphal origins, philosophies, and inner practices. No one is likely to be converted to The Cause after viewing this film (well, [almost no one][5]), since writer and director P.T. Anderson, much like Freddie, is uninterested in exploring the finer points of its theology._ The Master__ _indulges our curiosity with "processing sessions" and one outright debate on the meaning of the word "cult", but we're never asked to empathize or even evaluate the movement itself. Instead, lush visuals, compelling performances, and beautiful period details are simply at the service of compelling characters.
 
-   [5]: /letters/2012/10/9/the-master.html
+   [5]: /content/2012/10/9/the-master.html
 
 There's a wonderfully meditative rhythm to the film, but _The Master_ never attempts to explore notions of a higher spiritual power; only the power that man can exert over others by exploting those ideals.
 
-_** [CONTINUE to PART 2 of 3 >>][6]  
-**_
+[***CONTINUE to PART 2 of 3 >>***][6]
 
-   [6]: /letters/2013/2/18/finding-god-in-the-films-of-2012-pt2.html
+   [6]: /content/2013/2/18/finding-god-in-the-films-of-2012-pt2.html

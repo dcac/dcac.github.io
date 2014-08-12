@@ -1,7 +1,7 @@
 ---
 published: true
 section: General
-image: 
+image: five-reasons-skyfall-fell-flat.jpg
 imdb: 
 author:
   - christopherr
@@ -20,7 +20,7 @@ tags: [Ending, essay, Essays, James Bond, Javier Bardem, Jui Dench, M, reasons, 
 ---
 If you haven't seen the new James Bond film _Skyfall _yet, do it. There's [plenty to love][1] in this 23rd official installment of the series. The following, however, is a SPOILER-filled analysis of the final act to discuss why some of us at _Dear Cast and Crew_ thought the ending didn't work.
 
-   [1]: /letters/2012/11/9/skyfall.html
+   [1]: /content/2012/11/9/skyfall.html
 
 **1. The film opens too big.**  
 _Skyfall_, like many Bond films, begins with a spectacular action sequence. This is important, not just to satisfy the demands of the franchise, but because it calibrates audience expectations. The director, Sam Mendes, is smart enough to establish important thematics as well as scale. The first shot tells us it's a story about Bond being a few steps behind others and in the dark. We then learn, twice, that M is willing to sacrifice MI6 agents without hesitation to complete a mission. And as Bond suffers from a surely fatal gunshot wound, falls from a surely fatal height, and lands in a surely fatal rapid-filled river, we're reminded that he may be mortal.  But each of these points end up being undermined by the end of the film. Not to mention, the rest of the film never lives up to these early action sequences. The film didn't need more gadgets (even if a fingerprint-activated gun and same "gotchya!" moment was in _Licence to Kill_) or even a bigger set piece for the climax, but we do need to feel like more is at stake.

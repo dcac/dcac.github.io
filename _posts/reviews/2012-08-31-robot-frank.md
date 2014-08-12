@@ -11,8 +11,6 @@ addressee: Will Sheck
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
 title: "Robot & Frank"
 comments: true
 tags: [buddy, crime, Frank Langella, Letters, Susan Sarandon]

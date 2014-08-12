@@ -9,7 +9,9 @@ excerpt: "It's always frustrating when a movie comes so close to achieving great
 position: Screenwriter
 addressee: Moira Buffini
 layout: review
-categories: reviews
+categories:
+- reviews
+- netflix
 title: "Byzantium"
 date: 2014-04-17 18:13
 comments: true

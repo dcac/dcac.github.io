@@ -130,5 +130,6 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-contentblocks
+  jekyll-redirect-from
   json
   s3_website

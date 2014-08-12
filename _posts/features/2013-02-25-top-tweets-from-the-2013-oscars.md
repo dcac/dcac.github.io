@@ -1,9 +1,9 @@
 ---
 published: true
 section: General
-image: 
+image: top-tweets-from-the-2013-oscars.jpg 
 imdb: 
-author: test 
+author: all 
 stars: 
 excerpt: 
 position: 

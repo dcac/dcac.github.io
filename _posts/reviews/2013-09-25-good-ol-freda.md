@@ -1,15 +1,17 @@
 ---
 published: true
 section: General
-image: goold-ol-freda.jpg
+image: good-ol-freda.jpg
 imdb: tt2505938
 author: erinc
 stars: 4
-excerpt: "Putting together a documentary that consists mostly of talking heads and still photographs is never easy, and it can too often end up an exercise in Ken Burns’ style slow zooms and pans.  For Good Ol’ Freda, though, a documentary about the most photographed rock band in history, you must have expected (once the rights issues were sorted) that you’d have an embarrassment of riches."
+excerpt: "Putting together a documentary that consists mostly of talking heads and still photographs is never easy, and it can too often end up an exercise in Ken Burns-style slow zooms and pans.  For Good Ol’ Freda, though, a documentary about the most photographed rock band in history, you must have expected (once the rights issues were sorted) that you’d have an embarrassment of riches."
 position: "Editor and Co-Producer"
 addressee: Helen Kearns
 layout: review
-categories: reviews
+categories:
+- reviews
+- netflix
 title: "Good Ol' Freda"
 comments: true
 tags: [documentary, fan club, Freda Kelly, Letters, music, The Beatles]

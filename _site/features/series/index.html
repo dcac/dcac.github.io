@@ -26,7 +26,15 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
-      $('nav#menu-left').css({'display':'block'});
+      $("#nav-toggle").click(function(){
+        $('nav#menu-left').css({'display':'block'});
+        $('#nav-header').css({'display':'block'});
+      });
+      $("#mm-blocker").click(function() {
+        $("#my-menu").trigger("close.mm");
+        $('nav#menu-left').css({'display':'none'});
+        $('#nav-header').css({'display':'none'});
+      });
     });
 		</script>
 
@@ -99,7 +107,7 @@
               <li><a href="/reviews/">Reviews</a></li>
               <li><a href="/features/" class="slash">Features</a></li>
               <!-- <li><a href="/podcast/">Podcast</a></li> -->
-              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="/writers/" class="slash">Writers</a></li>
               <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
             </ul>
           </section>
@@ -120,7 +128,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -145,34 +153,68 @@
         
         
          <div class="section-post large-4 medium-4 small-6 columns">
-          <a href="/content/2013/07/12/mockbusters.html">
+          <a href="/content/2013/7/12/mockbusters.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/mockbusters.jpg" alt="Mockbusters" alt="Mockbusters Image" />
+                    <img src="/img/features/thumb-300/mockbusters.jpg" alt="Mockbusters" alt="Mockbusters Image" />
                     <div class="corner-stamp"></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/07/12/mockbusters.html">
+                <a href="/content/2013/7/12/mockbusters.html">
                   <div class="review-text">
                     <h1>Mockbusters</h1>
-                    <h2 class="author">By </h2>
+                    
+                  </div>
+                </a>
+        </div>
+        
+        
+         <div class="section-post large-4 medium-4 small-6 columns">
+          <a href="/content/2013/7/12/godzilla-week.html">
+                  <div class="post-image">
+                    <img src="/img/features/thumb-300/godzilla-week.jpg" alt="Godzilla Week" alt="Godzilla Week Image" />
+                    <div class="corner-stamp"></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2013/7/12/godzilla-week.html">
+                  <div class="review-text">
+                    <h1>Godzilla Week</h1>
+                    
+                  </div>
+                </a>
+        </div>
+        
+        
+         <div class="section-post large-4 medium-4 small-6 columns">
+          <a href="/content/2013/6/12/slasher-camp.html">
+                  <div class="post-image">
+                    <img src="/img/features/thumb-300/slasher-camp.jpg" alt="Slasher Camp" alt="Slasher Camp Image" />
+                    <div class="corner-stamp"></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2013/6/12/slasher-camp.html">
+                  <div class="review-text">
+                    <h1>Slasher Camp</h1>
+                    
                   </div>
                 </a>
         </div>
         
         
          <div class="section-post large-4 medium-4 small-6 columns end">
-          <a href="/content/2013/06/12/slasher-camp.html">
+          <a href="/content/2012/9/6/early-schwarzenegger.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/slasher-camp.jpg" alt="Slasher Camp" alt="Slasher Camp Image" />
+                    <img src="/img/features/thumb-300/early-schwarzenegger.jpg" alt="Early Schwarzenegger" alt="Early Schwarzenegger Image" />
                     <div class="corner-stamp"></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/06/12/slasher-camp.html">
+                <a href="/content/2012/9/6/early-schwarzenegger.html">
                   <div class="review-text">
-                    <h1>Slasher Camp</h1>
-                    <h2 class="author">By </h2>
+                    <h1>Early Schwarzenegger</h1>
+                    
                   </div>
                 </a>
         </div>

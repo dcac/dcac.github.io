@@ -26,7 +26,15 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
-      $('nav#menu-left').css({'display':'block'});
+      $("#nav-toggle").click(function(){
+        $('nav#menu-left').css({'display':'block'});
+        $('#nav-header').css({'display':'block'});
+      });
+      $("#mm-blocker").click(function() {
+        $("#my-menu").trigger("close.mm");
+        $('nav#menu-left').css({'display':'none'});
+        $('#nav-header').css({'display':'none'});
+      });
     });
 		</script>
 
@@ -99,7 +107,7 @@
               <li><a href="/reviews/">Reviews</a></li>
               <li><a href="/features/" class="slash">Features</a></li>
               <!-- <li><a href="/podcast/">Podcast</a></li> -->
-              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="/writers/" class="slash">Writers</a></li>
               <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
             </ul>
           </section>
@@ -120,7 +128,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -130,7 +138,7 @@
 
       <section>
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/the-fifth-estate.jpg);" data-stellar-background-ratio=".25"></div>
+          <div class="title-img" style="background-image:url(/img/article/main/the-fifth-estate.jpg);" data-stellar-background-ratio=".25"></div>
           <div class="row">
             <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
@@ -177,9 +185,9 @@
 
 <p>Yes, this is a stylish <em>Movie</em> with a capital &ldquo;M&rdquo;. Serious in tone, slick in execution. Director Bill Condon brings us into the world of secure chat rooms and mirror sites by borrowing tricks from his <em>Chicago</em> screenplay and staging fantasy sequences. He interprets cyberspace as endless rows of cluttered cubicle desks on white sand, lit by floating florescent lights and a starry night sky. It&rsquo;s as good as anything, I guess. And it sure is better than his other tricks, like reading chat text on the (presumably realistic) screens you designed. &nbsp;Or, worse, seeing it all feverishly projected onto computer users&rsquo; faces.</p>
 
-<p>In many ways, this type of hyper-dramatization is everything that&rsquo;s wrong with &ldquo;the Hollywood treatment.&rdquo; The story is exaggerated and repacked to fit the demands of a genre&mdash;in this case, a thriller. So Condon can&rsquo;t seem to help himself from frantically swinging his camera around the room and laying down a throbbing techno soundtrack in an attempt to inspire tension and excitement. It&rsquo;s sometimes more affecting than effective. <a href="/letters/2013/6/25/we-steal-secrets-the-story-of-wikileaks.html">Alex Gibney&rsquo;s documentary</a> on the same subject was also very stylized, and makes a good companion piece to call into contrast the details which are omitted (or, in Wiki-scandal parlance, <em>redacted</em>) from this particular dramatization.</p>
+<p>In many ways, this type of hyper-dramatization is everything that&rsquo;s wrong with &ldquo;the Hollywood treatment.&rdquo; The story is exaggerated and repacked to fit the demands of a genre&mdash;in this case, a thriller. So Condon can&rsquo;t seem to help himself from frantically swinging his camera around the room and laying down a throbbing techno soundtrack in an attempt to inspire tension and excitement. It&rsquo;s sometimes more affecting than effective. <a href="/content/2013/6/25/we-steal-secrets-the-story-of-wikileaks.html">Alex Gibney&rsquo;s documentary</a> on the same subject was also very stylized, and makes a good companion piece to call into contrast the details which are omitted (or, in Wiki-scandal parlance, <em>redacted</em>) from this particular dramatization.</p>
 
-<p>Based, in part, on a book by Daniel Berg, his avatar in the film becomes the Nick Carraway to Assange&rsquo;s <a href="/letters/2013/5/10/the-great-gatsby.html">Gatsby</a>. This is the story of rebels with a cause&mdash;even though the characters can&rsquo;t quite agree on what that cause is. The film provides glimpses into Assange&rsquo;s secrets and obsessions, but none of the revelations oversimplify his motivations. Certain backstory elements appear, but thankfully aren&rsquo;t treated like the blinking computer button that solves everything. Instead, each new piece of information is layered and complex; not unlike the software that allowed whistlerblowers to submit documents to the WikiLeaks website anonymously and untraceably.</p>
+<p>Based, in part, on a book by Daniel Berg, his avatar in the film becomes the Nick Carraway to Assange&rsquo;s <a href="/content/2013/5/10/the-great-gatsby.html">Gatsby</a>. This is the story of rebels with a cause&mdash;even though the characters can&rsquo;t quite agree on what that cause is. The film provides glimpses into Assange&rsquo;s secrets and obsessions, but none of the revelations oversimplify his motivations. Certain backstory elements appear, but thankfully aren&rsquo;t treated like the blinking computer button that solves everything. Instead, each new piece of information is layered and complex; not unlike the software that allowed whistlerblowers to submit documents to the WikiLeaks website anonymously and untraceably.</p>
 
 <p>The story also makes clear that Assange is the true architect of WikiLeaks. According to the opening credit sequence, he is a modern-day Bi Sheng, Johannes Gutenberg, and Alexander Graham Bell. As his small group of hackers eventually form alliances with major news outlets to perform their unprecedented document dump, the film finds ways to make the consequences feel significant and real, if not a bit overblown. But, no matter how overblown it gets, it still beats staring at 1s and 0s.</p>
 
@@ -193,8 +201,8 @@
               
             <div class="signature clearfix">
               <p class="signature-signoff"><strong>Sincerely,</strong><br />
+              <img class="signature-img" src="/img/writers/christopherr-sig.png" /><br />
               Christopher</p>
-              <img class="signature-img" src="/img/writers/christopherr-sig.png" />
             </div>
               
             
@@ -209,19 +217,20 @@
           
             
               <div class="large-4 medium-4 columns main-link-small">
-                <a href="/content/2013/01/15/the-impossible.html">
+                <a href="/content/2013/1/15/the-impossible.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-impossible.jpg" alt="The Impossible" alt="Stamp" />
+                    <img src="/img/article/thumb-300/the-impossible.jpg" alt="The Impossible" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/01/15/the-impossible.html">
+                <a href="/content/2013/1/15/the-impossible.html">
                   <div class="review-text">
                     <h1>The Impossible</h1>
                     <h2 class="addressee">Dear Dolofo Mart&iacute;n Crespo, <span class="mobile-line-break"><br /></span>Water Supervisor</h2>
-                    <h2 class="author">By Test Author</h2>
+                    <h2 class="author">By Christopher Redmond</h2>
                   </div>
                 </a>
               </div>
@@ -229,15 +238,16 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2013/10/02/rush.html">
+                <a href="/content/2013/10/2/rush.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/rush.jpg" alt="Rush" alt="Stamp" />
+                    <img src="/img/article/thumb-300/rush.jpg" alt="Rush" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/10/02/rush.html">
+                <a href="/content/2013/10/2/rush.html">
                   <div class="review-text">
                     <h1>Rush</h1>
                     <h2 class="addressee">Dear Michael Brice Ellis, <span class="mobile-line-break"><br /></span>Title Designer</h2>
@@ -248,15 +258,16 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2013/03/14/laffaire-dumont.html">
+                <a href="/content/2013/3/14/laffaire-dumont.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/l-affaire-dumont.jpg" alt="L'affaire Dumont" alt="Stamp" />
+                    <img src="/img/article/thumb-300/laffaire-dumont.jpg" alt="L'affaire Dumont" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/03/14/laffaire-dumont.html">
+                <a href="/content/2013/3/14/laffaire-dumont.html">
                   <div class="review-text">
                     <h1>L'affaire Dumont</h1>
                     <h2 class="addressee">Dear Jean-Patrick Joseph, <span class="mobile-line-break"><br /></span>Special Equipment Supplier</h2>
@@ -267,6 +278,7 @@
           
           </div>
         </div>
+
       </section>
       <div class="comments-bg">
         <div class="comments">
@@ -288,7 +300,7 @@
         
         <a href="/content/2013/10/22/the-fifth-estate.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-fifth-estate.jpg" alt="The Fifth Estate Image" />
+                    <img src="/img/article/thumb-300/the-fifth-estate.jpg" alt="The Fifth Estate Image" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>

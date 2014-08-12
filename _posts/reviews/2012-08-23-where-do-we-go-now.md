@@ -11,8 +11,7 @@ addressee: C&eacute;dric Deloche
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
+  - netflix
 title: "Where Do We Go Now?"
 comments: true
 tags: [Award, Cannes, comedy, drama, Foreign, Letters, Nadine Labaki, netflix.ca, TIFF]

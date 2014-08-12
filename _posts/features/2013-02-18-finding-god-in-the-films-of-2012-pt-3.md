@@ -1,7 +1,7 @@
 ---
 published: true
 section: General
-image: 
+image: finding-god-in-the-films-of-2012-pt-3.jpg
 imdb: 
 layout: feature
 author: christopherr
@@ -20,7 +20,7 @@ tags: [Cloud Atlas, essay, Essays, Faith, Film, Finding God, God, Life of Pi, ze
 
 To read from the beginning, where we discuss Les Miserables, The Master, Prometheus, The Grey, and our inspiration for the essay, [**click here**][1]. 
 
-   [1]: /letters/2013/2/18/finding-god-in-the-films-of-2012-pt-1.html
+   [1]: /content/2013/2/18/finding-god-in-the-films-of-2012-pt-1.html
 
 **Part 3… **
 
@@ -60,13 +60,11 @@ So who ultimately wins the [Silver Stamp][4] of the Ecumenical Jury? Let's follo
   
 Let us know what you think. After all, cinema is our religion.
 
-   [4]: /letters/2012/12/21/2012-silver-stamps.html
+   [4]: /content/2012/12/21/2012-silver-stamps.html
 
-Sincerely,
-
-Christopher
-
+{% contentfor postscript %}
 [**<< RETURN TO PART 1**][5]
+{% endcontentfor %}
 
-   [5]: /letters/2013/2/18/finding-god-in-the-films-of-2012-pt-1.html
+   [5]: /content/2013/2/18/finding-god-in-the-films-of-2012-pt-1.html
 

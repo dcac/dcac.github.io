@@ -10,8 +10,8 @@ position: Steadicam Operator
 addressee: Alessandro Brambilla 
 layout: review
 categories: 
-  - reviews
-  - current-releases
+- reviews
+- netflix
 title: "The Great Beauty"
 comments: true
 tags: [foreign language, italian, italy, Letters, Oscars 2014, rome, The great beauty]

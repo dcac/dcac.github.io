@@ -11,8 +11,7 @@ addressee: Tiffany Little Canfield
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
+  - netflix
 title: "Friends with Kids"
 comments: true
 streaming: true

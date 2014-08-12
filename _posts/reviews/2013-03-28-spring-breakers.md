@@ -8,7 +8,9 @@ excerpt: "In Hollywood, image is everything. Get it right and it will make your 
 position: Marketing Director
 addressee: Brandon Thompson
 layout: review
-categories: reviews
+categories: 
+ - reviews
+ - netflix
 title: "Spring Breakers"
 comments: true
 tags: [bikini, harmony korine, Letters, Selena Gomez, Spring Break, vanessa hudgens]

@@ -11,8 +11,7 @@ addressee: Jon Spaihts and Damon Lindelof
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
+  - netflix
 title: "Prometheus"
 comments: true
 tags: [Alien, Charlize Theron, Letters, netflix.ca, Noomi Rapace, Prometheus, Ridely Scott]

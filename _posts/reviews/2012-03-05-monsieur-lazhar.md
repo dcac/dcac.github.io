@@ -11,8 +11,6 @@ addressee: Laurent Boye
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
 title: "Monsieur Lazhar"
 comments: true
 streaming: true

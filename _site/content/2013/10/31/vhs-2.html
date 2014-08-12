@@ -26,7 +26,15 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
-      $('nav#menu-left').css({'display':'block'});
+      $("#nav-toggle").click(function(){
+        $('nav#menu-left').css({'display':'block'});
+        $('#nav-header').css({'display':'block'});
+      });
+      $("#mm-blocker").click(function() {
+        $("#my-menu").trigger("close.mm");
+        $('nav#menu-left').css({'display':'none'});
+        $('#nav-header').css({'display':'none'});
+      });
     });
 		</script>
 
@@ -99,7 +107,7 @@
               <li><a href="/reviews/">Reviews</a></li>
               <li><a href="/features/" class="slash">Features</a></li>
               <!-- <li><a href="/podcast/">Podcast</a></li> -->
-              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="/writers/" class="slash">Writers</a></li>
               <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
             </ul>
           </section>
@@ -120,7 +128,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -130,7 +138,7 @@
 
       <section>
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/vhs-2.jpg);" data-stellar-background-ratio=".25"></div>
+          <div class="title-img" style="background-image:url(/img/article/main/vhs-2.jpg);" data-stellar-background-ratio=".25"></div>
           <div class="row">
             <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
@@ -173,24 +181,26 @@
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
             <p class="intro hide-for-small">Dear Gareth Evan,</p>
-            <p class="intro"><em>Dude!</em> When I first laid eyes on <a href="/letters/2012/3/16/sxsw-postcard-the-raid-redemption.html"><em>The Raid: Redemption</em></a> (to this day, one of the most viscerally exciting action flicks I&#8217;ve ever seen), I couldn&#8217;t help but wonder what would happen if you brought the same level of white-knuckle intensity to the horror genre.&nbsp; Needless to say, when word came that you were directing a segment of <em>V/H/S 2,</em> I was beside myself with excitement.&nbsp; The first <em>V/H/S</em>, despite an intriguing concept and strong opening and closing stories, was a film I largely didn&#8217;t care for, so it wasn&#8217;t hard to imagine that improvements could be made on the second go &#8216;round.&nbsp; And I was right, because it wouldn&#8217;t be hyperbolic to make a case for your installment, <em>Safe Haven</em>, being one of the best horror stories of the year.</p>
+            <p class="intro"><em>Dude!</em> When I first laid eyes on <a href="/content/2012/3/16/sxsw-postcard-the-raid-redemption.html"><em>The Raid: Redemption</em></a> (to this day, one of the most viscerally exciting action flicks I&#39;ve ever seen), I couldn&#39;t help but wonder what would happen if you brought the same level of white-knuckle intensity to the horror genre.  Needless to say, when word came that you were directing a segment of <em>V/H/S 2,</em> I was beside myself with excitement.  The first <em>V/H/S</em>, despite an intriguing concept and strong opening and closing stories, was a film I largely didn&#39;t care for, so it wasn&#39;t hard to imagine that improvements could be made on the second go &#39;round.  And I was right, because it wouldn&#39;t be hyperbolic to make a case for your installment, <em>Safe Haven</em>, being one of the best horror stories of the year.</p>
 
-<p>What works so well about <em>Safe Haven</em> is, despite being a found-footage picture (told from the point of view of a documentary crew investigating a reclusive Indonesian cult), it never strains credibility, thanks in large part to your clever, well-thought-out screenplay. With multiple character POVs, hidden cameras, security footage, there are never any &#8220;drop the camera and RUN, idiot!&#8221; moments, which is truly refreshing and helped to keep me fully immersed in the experience.</p>
+<p>What works so well about <em>Safe Haven</em> is, despite being a found-footage picture (told from the point of view of a documentary crew investigating a reclusive Indonesian cult), it never strains credibility, thanks in large part to your clever, well-thought-out screenplay. With multiple character POVs, hidden cameras, security footage, there are never any &quot;drop the camera and RUN, idiot!&quot; moments, which is truly refreshing and helped to keep me fully immersed in the experience.</p>
 
-<p>And what an experience it is.&nbsp; Imbued with a deep sense of uneasiness right from the start, <em>Safe Haven</em> unfolds with the intensity &ndash; and weird logic &ndash; of a particularly vivid nightmare. And as each fright one-ups the last, it never feels like you&#8217;re being careless or throwing in cheap shocks; in its own warped way, it all feels cohesive.&nbsp; By the time it was over, and I was able to take a deep breath to steady myself, I almost felt relieved that it was over. I watch a lot of horror pictures, but it&rsquo;s been awhile since a flick had such an effect on me.</p>
+<p>And what an experience it is.  Imbued with a deep sense of uneasiness right from the start, <em>Safe Haven</em> unfolds with the intensity - and weird logic - of a particularly vivid nightmare. And as each fright one-ups the last, it never feels like you&#39;re being careless or throwing in cheap shocks; in its own warped way, it all feels cohesive.  By the time it was over, and I was able to take a deep breath to steady myself, I almost felt relieved that it was over. I watch a lot of horror pictures, but it&#39;s been awhile since a flick had such an effect on me.</p>
 
-<p>For an anthology film so full of boisterous energy, it&#8217;s not hard to imagine that you might feel a certain kinship with your directors-in-arms. Are you curious to know how they fared?&nbsp;</p>
+<p>For an anthology film so full of boisterous energy, it&#39;s not hard to imagine that you might feel a certain kinship with your directors-in-arms. Are you curious to know how they fared? </p>
 
-<p>Well, I couldn&#8217;t be happier to tell you that not a single one of them turns in a bad effort.&nbsp; Sure, some are weaker than the others, like the wraparound segment which does little to expand upon (or explain) the franchise&#8217;s bizarre and mythology. <em>Phase I Clinical Trials</em> is little more than a series of jump scares (albeit with a truly nifty POV gimmick).&nbsp; <em>A Ride in the Park, </em>however, which offers a glimpse into the life of a zombie via helmet-cam, is a wonderfully fresh take on a scenario we&#8217;ve seen a hundred times before, complete with a surprising (dare I say heartfelt?) conclusion. After the unrelenting madness of your entry, <em>Slumber Party Alien Abduction</em> feels positively lighthearted&mdash;despite, of course, an ending that will upset animal lovers (scratch that: upset <em>anyone</em> who isn&#8217;t an unfeeling automaton).</p>
+<p>Well, I couldn&#39;t be happier to tell you that not a single one of them turns in a bad effort.  Sure, some are weaker than the others, like the wraparound segment which does little to expand upon (or explain) the franchise&#39;s bizarre and mythology. <em>Phase I Clinical Trials</em> is little more than a series of jump scares (albeit with a truly nifty POV gimmick).  <em>A Ride in the Park, _however, which offers a glimpse into the life of a zombie via helmet-cam, is a wonderfully fresh take on a scenario we&#39;ve seen a hundred times before, complete with a surprising (dare I say heartfelt?) conclusion. After the unrelenting madness of your entry, _Slumber Party Alien Abduction</em> feels positively lighthearted--despite, of course, an ending that will upset animal lovers (scratch that: upset <em>anyone</em> who isn&#39;t an unfeeling automaton).</p>
 
-<p><p>It&#8217;s rare to see an anthology film so consistent. What makes <em>V/H/S 2</em> work so well is that you and your cohorts weren&#8217;t content to take the safe and conventional route. What makes each of your instalments feel special is an energy and enthusiasm to bend and break the rules of found footage filmmaking. It all results in some genuinely inspired storytelling.<br /> <br /> Even though <em>The Raid</em> was clear enough proof, <em>Safe Haven</em> further emphasizes your talent. Can&#8217;t wait to see more from you in the future. And if you have a chance to come back for (the surely inevitable) <em>V/H/S 3</em>, by all means, please do.<br /> <br /> Sincerely,<br /> Kelan Young<br /></p>
+<p>It&#39;s rare to see an anthology film so consistent. What makes <em>V/H/S 2</em> work so well is that you and your cohorts weren&#39;t content to take the safe and conventional route. What makes each of your instalments feel special is an energy and enthusiasm to bend and break the rules of found footage filmmaking. It all results in some genuinely inspired storytelling.  </p>
+
+<p>Even though <em>The Raid</em> was clear enough proof, <em>Safe Haven</em> further emphasizes your talent. Can&#39;t wait to see more from you in the future. And if you have a chance to come back for (the surely inevitable) <em>V/H/S 3</em>, by all means, please do.</p>
 
             
               
             <div class="signature clearfix">
               <p class="signature-signoff"><strong>Sincerely,</strong><br />
+              <img class="signature-img" src="/img/writers/" /><br />
               Kelan</p>
-              <img class="signature-img" src="/img/writers/" />
             </div>
               
             
@@ -205,15 +215,16 @@
           
             
               <div class="large-4 medium-4 columns main-link-small">
-                <a href="/content/2013/12/05/out-of-the-furnace.html">
+                <a href="/content/2013/12/5/out-of-the-furnace.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/out-of-the-furnace.jpg" alt="Out of the Furnace" alt="Stamp" />
+                    <img src="/img/article/thumb-300/out-of-the-furnace.jpg" alt="Out of the Furnace" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/12/05/out-of-the-furnace.html">
+                <a href="/content/2013/12/5/out-of-the-furnace.html">
                   <div class="review-text">
                     <h1>Out of the Furnace</h1>
                     <h2 class="addressee">Dear Carmen Frank Roberts III, <span class="mobile-line-break"><br /></span>Fight Scene Stand-In</h2>
@@ -227,8 +238,9 @@
               <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/11/26/kill-your-darlings.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/kill-your-darlings.jpg" alt="Kill Your Darlings" alt="Stamp" />
+                    <img src="/img/article/thumb-300/kill-your-darlings.jpg" alt="Kill Your Darlings" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -244,18 +256,19 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2013/11/08/thor-the-dark-world.html">
+                <a href="/content/2013/10/25/all-is-lost.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/thor-the-dark-world.jpg" alt="Thor: The Dark World" alt="Stamp" />
+                    <img src="/img/article/thumb-300/all-is-lost.jpg" alt="All is Lost" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/11/08/thor-the-dark-world.html">
+                <a href="/content/2013/10/25/all-is-lost.html">
                   <div class="review-text">
-                    <h1>Thor: The Dark World</h1>
-                    <h2 class="addressee">Dear Magdalena Kusowska, <span class="mobile-line-break"><br /></span>Concept Artist</h2>
+                    <h1>All is Lost</h1>
+                    <h2 class="addressee">Dear Avery Bederman, <span class="mobile-line-break"><br /></span>Shark Chum Thrower</h2>
                     <h2 class="author">By Jared Young</h2>
                   </div>
                 </a>
@@ -263,6 +276,7 @@
           
           </div>
         </div>
+
       </section>
       <div class="comments-bg">
         <div class="comments">
@@ -284,7 +298,7 @@
         
         <a href="/content/2013/10/31/vhs-2.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/vhs-2.jpg" alt="V/H/S 2 Image" />
+                    <img src="/img/article/thumb-300/vhs-2.jpg" alt="V/H/S 2 Image" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>

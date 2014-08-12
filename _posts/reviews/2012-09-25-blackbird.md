@@ -3,7 +3,7 @@ published: true
 section: General
 imdb: tt2077721
 image: blackbird.jpg
-author: test 
+author: jakeh 
 stars: 4
 excerpt: "Given your line of work, gun violence must be a difficult reality for you."
 position: Gun Wrangler

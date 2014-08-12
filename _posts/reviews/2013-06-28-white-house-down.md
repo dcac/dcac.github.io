@@ -3,7 +3,7 @@ layout: review
 published: true
 section: General
 image: "white-house-down.jpg"
-author: test
+author: christopherr
 stars: 2
 position: Senior Pyrotechnician
 addressee: David Loveday
@@ -40,7 +40,7 @@ Seeing a real pyrotechnic display really gets the blood going. It could be an ac
 
 Where to start? The plodding pace that fails to generate an ounce of tension? The choppy slow-motion thrown in as an afterthought? The ham-fisted attempts at iconic moments, like the diplomatic president who, after being taunted for his &ldquo;&hellip;mightier than the sword&rdquo; philosophy, eventually stabs a villain with a ballpoint pen while shouting: &ldquo;I choose the pen!&rdquo; Yup, that actually happened&mdash;despite how hard the sound designers tried to bury it in the mix. But at least that moment was trying to do <em>something</em> new.
 
-This is just another <em>Die Hard</em> cut-and-paste<em> </em>job. Even the title is lazy (another way that <a href="/letters/2013/3/22/olympus-has-fallen.html"><span style="color:windowtext;">Olympus Has Fallen proves itself a superior film</span></a>). From the self-narrating hero to hackers who cue up Beethoven music, <em>White House Down </em>is paying tribute in the worst way possible; by being derivative without being ironic. The tone is even insultingly mawkish, with spectators gathering outside the White House during a 9/11-level attack, cheering the military as if they&rsquo;re watching a rock concert. The film eventually devolves into a full-out comedy&mdash; well, at least <em>I</em> burst out laughing at the way the day was finally saved.
+This is just another <em>Die Hard</em> cut-and-paste<em> </em>job. Even the title is lazy (another way that <a href="/content/2013/3/22/olympus-has-fallen.html"><span style="color:windowtext;">Olympus Has Fallen proves itself a superior film</span></a>). From the self-narrating hero to hackers who cue up Beethoven music, <em>White House Down </em>is paying tribute in the worst way possible; by being derivative without being ironic. The tone is even insultingly mawkish, with spectators gathering outside the White House during a 9/11-level attack, cheering the military as if they&rsquo;re watching a rock concert. The film eventually devolves into a full-out comedy&mdash; well, at least <em>I</em> burst out laughing at the way the day was finally saved.
 
 When everything feels fake, we&rsquo;re allowed to laugh. When things look great &ndash; like the wide shot of the crumbling Capitol building &ndash; we can&rsquo;t help but marvel. And that draws us in. There are a number of well-crafted moments in which the danger feels at least a little bit palpable, and in those scenes I can feel your work. But even Channing Tatum&rsquo;s undeniable charm isn&rsquo;t enough to bring the house down. Further down, I guess.
 

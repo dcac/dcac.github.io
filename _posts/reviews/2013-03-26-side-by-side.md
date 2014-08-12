@@ -8,7 +8,9 @@ excerpt: "I feel so sorry for you. &nbsp;It would have been intimidating enough 
 position: Cinematographer
 addressee: Chris Cassidy
 layout: review
-categories: reviews
+categories: 
+ - reviews
+ - netflix
 title: "Side By Side"
 comments: true
 tags: [Christopher Nolan, Danny Boyle, David Fincher, David Lynch, digital, documentary, Film, George Lucas, James Cameron, Letters, Martin Scorsese, Red, video]

@@ -10,9 +10,8 @@ position: Dialect Coach
 addressee: Paula Jack
 layout: review
 categories:
-  - reviews
-  - streaming
-  - on-video
+- reviews
+- netflix
 title: "Salmon Fishing in the Yemen"
 comments: true
 streaming: true

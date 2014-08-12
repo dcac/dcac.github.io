@@ -9,12 +9,12 @@ excerpt:
 position: 
 addressee: 
 layout: review
-categories: reviews
+categories: tv
 title: "Nashville — Shownotes S01E05"
 comments: true
 tags: [Episode 5, Nashville, Shownotes]
 ---
-<div><p><span class="full-image-block ssNonEditable"><a href="/letters/2012/11/12/nashville-shownotes-s01e05.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7709/1352757074813/Nashville%20S1E05.jpg" alt="" /></a></span></p>
+<div><p><span class="full-image-block ssNonEditable"><a href="/content/2012/11/12/nashville-shownotes-s01e05.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7709/1352757074813/Nashville%20S1E05.jpg" alt="" /></a></span></p>
 <p><span style="font-size:130%;"><strong><em>Dear Cast and Crew of Nashville,</em></strong><em> S1E05 &ndash; &ldquo;Move It on Over&rdquo;</em></span></p>
 <p><em>Episode synopsis:</em><br />Rayna thinks about moving on when Deacon sets boundaries on their relationship; tension between Gunnar and Avery puts pressure on Scarlett; and as Juliette struggles with her mother&#8217;s addictions, Deacon is reminded of difficult moments in his past.</p>
 <p><em>Original air date:</em><br />November 7, 2012</p>

@@ -11,8 +11,6 @@ addressee: Jared Young, Age 12,
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
 title: "The Avengers"
 comments: true
 tags: [action, Avengers, Captain America, Chris Evans, Chris Hemsworth, comics, Hulk, Iron Man, Joss Whedon, Letters, Mark Ruffalo, Robert Downey Jr., Thor]
@@ -33,6 +31,8 @@ I have some bad news, me. You're soon going to learn that the world is a much mo
 
 But I have some good news, too. Despite everything that's going to happen between now and now - all the disappointments, all the sad insights into the way the world really works, all the things you once thought possible so clearly revealed to be just the opposite - you have this one great thing to look forward to: a guy named Joss Whedon is going to make an _Avengers_ movie, and he's going to make it just for you.
 
+{% contentfor signature %}
 Sincerely,
 
 You, Age 32
+{% endcontentfor %}

@@ -16,7 +16,7 @@ categories:
 series-name: mockbusters
 title: "Thunderstorm: The Return of Thor"
 comments: true
-tags: [comics, Letters, mockbuster, Mockbusters, ray besharah, Thor]
+tags: [Thor, comics, Letters, mockbuster, Mockbusters, ray besharah]
 ---
 
 The path taken by Grant Farrell, your character in _Thunderstorm: The Return of Thor_, is a perfect example of one of my favorite comic book myths: the completely ordinary individual who finds him/herself suddenly bestowed with fantastic powers, and their reluctant coming-to-terms with the great responsibility that comes with it all. 

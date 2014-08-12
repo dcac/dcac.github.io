@@ -26,7 +26,15 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
-      $('nav#menu-left').css({'display':'block'});
+      $("#nav-toggle").click(function(){
+        $('nav#menu-left').css({'display':'block'});
+        $('#nav-header').css({'display':'block'});
+      });
+      $("#mm-blocker").click(function() {
+        $("#my-menu").trigger("close.mm");
+        $('nav#menu-left').css({'display':'none'});
+        $('#nav-header').css({'display':'none'});
+      });
     });
 		</script>
 
@@ -99,7 +107,7 @@
               <li><a href="/reviews/">Reviews</a></li>
               <li><a href="/features/" class="slash">Features</a></li>
               <!-- <li><a href="/podcast/">Podcast</a></li> -->
-              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="/writers/" class="slash">Writers</a></li>
               <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
             </ul>
           </section>
@@ -120,7 +128,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -147,8 +155,9 @@
          <div class="section-post large-4 medium-4 small-6 columns left">
           <a href="/content/2013/12/31/american-hustle.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/american-hustle.jpg" alt="American Hustle" alt="Stamp" />
+                    <img src="/img/article/thumb-300/american-hustle.jpg" alt="American Hustle" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -166,8 +175,9 @@
          <div class="section-post large-4 medium-4 small-6 columns left">
           <a href="/content/2013/12/30/the-secret-life-of-walter-mitty.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-secret-life-of-walter-mitty.jpg" alt="The Secret Life of Walter Mitty" alt="Stamp" />
+                    <img src="/img/article/thumb-300/the-secret-life-of-walter-mitty.jpg" alt="The Secret Life of Walter Mitty" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -185,8 +195,9 @@
          <div class="section-post large-4 medium-4 small-6 columns left">
           <a href="/content/2013/12/23/saving-mr-banks.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/saving-mr-banks.jpg" alt="Saving Mr. Banks" alt="Stamp" />
+                    <img src="/img/article/thumb-300/saving-mr-banks.jpg" alt="Saving Mr. Banks" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -204,8 +215,9 @@
          <div class="section-post large-4 medium-4 small-6 columns left">
           <a href="/content/2013/12/20/anchorman-2-the-legend-continues.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/anchorman-2-the-legend-continues.jpg" alt="Anchorman 2: The Legend Continues" alt="Stamp" />
+                    <img src="/img/article/thumb-300/anchorman-2-the-legend-continues.jpg" alt="Anchorman 2: The Legend Continues" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -223,8 +235,9 @@
          <div class="section-post large-4 medium-4 small-6 columns left">
           <a href="/content/2013/12/19/grudge-match.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/gridge-match.jpg" alt="Grudge Match" alt="Stamp" />
+                    <img src="/img/article/thumb-300/grudge-match.jpg" alt="Grudge Match" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -242,8 +255,9 @@
          <div class="section-post large-4 medium-4 small-6 columns left">
           <a href="/content/2013/12/13/the-hobbit-the-desolation-of-smaug.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-hobbit-the-desolation-of-smaug.jpg" alt="The Hobbit: The Desolation of Smaug" alt="Stamp" />
+                    <img src="/img/article/thumb-300/the-hobbit-the-desolation-of-smaug.jpg" alt="The Hobbit: The Desolation of Smaug" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -259,15 +273,16 @@
         
           
          <div class="section-post large-4 medium-4 small-6 columns left">
-          <a href="/content/2013/12/09/how-i-live-now.html">
+          <a href="/content/2013/12/9/how-i-live-now.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/how-i-live-now.jpg" alt="How I Live Now" alt="Stamp" />
+                    <img src="/img/article/thumb-300/how-i-live-now.jpg" alt="How I Live Now" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/12/09/how-i-live-now.html">
+                <a href="/content/2013/12/9/how-i-live-now.html">
                   <div class="review-text">
                     <h1>How I Live Now</h1>
                     <h2 class="addressee">Dear Nadia Luthera, <span class="mobile-line-break"><br /></span>Accommodations Coordinator</h2>
@@ -278,15 +293,16 @@
         
           
          <div class="section-post large-4 medium-4 small-6 columns left">
-          <a href="/content/2013/12/05/out-of-the-furnace.html">
+          <a href="/content/2013/12/5/out-of-the-furnace.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/out-of-the-furnace.jpg" alt="Out of the Furnace" alt="Stamp" />
+                    <img src="/img/article/thumb-300/out-of-the-furnace.jpg" alt="Out of the Furnace" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/12/05/out-of-the-furnace.html">
+                <a href="/content/2013/12/5/out-of-the-furnace.html">
                   <div class="review-text">
                     <h1>Out of the Furnace</h1>
                     <h2 class="addressee">Dear Carmen Frank Roberts III, <span class="mobile-line-break"><br /></span>Fight Scene Stand-In</h2>
@@ -297,15 +313,16 @@
         
           
          <div class="section-post large-4 medium-4 small-6 columns left">
-          <a href="/content/2013/12/04/shifting-the-blame.html">
+          <a href="/content/2013/12/4/shifting-the-blame.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/shifting-the-blame.jpg" alt="Shifting the Blame" alt="Stamp" />
+                    <img src="/img/article/thumb-300/shifting-the-blame.jpg" alt="Shifting the Blame" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/12/04/shifting-the-blame.html">
+                <a href="/content/2013/12/4/shifting-the-blame.html">
                   <div class="review-text">
                     <h1>Shifting the Blame</h1>
                     <h2 class="addressee">Dear Darko Lovrinic, <span class="mobile-line-break"><br /></span>Produktionsleiter</h2>
@@ -318,8 +335,9 @@
          <div class="section-post large-4 medium-4 small-6 columns left">
           <a href="/content/2013/11/28/frozen.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/frozen.jpg" alt="Frozen" alt="Stamp" />
+                    <img src="/img/article/thumb-300/frozen.jpg" alt="Frozen" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /></div>
                   </div>
                 </a>
@@ -337,8 +355,9 @@
          <div class="section-post large-4 medium-4 small-6 columns left">
           <a href="/content/2013/11/26/kill-your-darlings.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/kill-your-darlings.jpg" alt="Kill Your Darlings" alt="Stamp" />
+                    <img src="/img/article/thumb-300/kill-your-darlings.jpg" alt="Kill Your Darlings" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -356,8 +375,9 @@
          <div class="section-post large-4 medium-4 small-6 columns left">
           <a href="/content/2013/11/25/im-an-old-communist-hag.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/im-an-old-communist-hag.jpg" alt="I'm an Old Communist Hag" alt="Stamp" />
+                    <img src="/img/article/thumb-300/im-an-old-communist-hag.jpg" alt="I'm an Old Communist Hag" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -373,17 +393,18 @@
         
           
          <div class="section-post large-4 medium-4 small-6 columns left">
-          <a href="/content/2013/11/22/catching-fire.html">
+          <a href="/content/2013/11/22/the-hunger-games-catching-fire.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/catching-fire.jpg" alt="Catching Fire" alt="Stamp" />
+                    <img src="/img/article/thumb-300/the-hunger-games-catching-fire.jpg" alt="The Hunger Games: Catching Fire" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/11/22/catching-fire.html">
+                <a href="/content/2013/11/22/the-hunger-games-catching-fire.html">
                   <div class="review-text">
-                    <h1>Catching Fire</h1>
+                    <h1>The Hunger Games: Catching Fire</h1>
                     <h2 class="addressee">Dear Dominic Drane, <span class="mobile-line-break"><br /></span>Crowd Supervisor</h2>
                     <h2 class="author">By Christopher Redmond</h2>
                   </div>
@@ -394,8 +415,9 @@
          <div class="section-post large-4 medium-4 small-6 columns left">
           <a href="/content/2013/11/20/living-images.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/living-images.jpg" alt="Living Images" alt="Stamp" />
+                    <img src="/img/article/thumb-300/living-images.jpg" alt="Living Images" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -413,8 +435,9 @@
          <div class="section-post large-4 medium-4 small-6 columns left">
           <a href="/content/2013/11/18/blue-is-the-warmest-colour.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/blue-is-the-warmest-colour.jpg" alt="Blue is the Warmest Colour" alt="Stamp" />
+                    <img src="/img/article/thumb-300/blue-is-the-warmest-colour.jpg" alt="Blue is the Warmest Colour" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -432,8 +455,9 @@
          <div class="section-post large-4 medium-4 small-6 columns left">
           <a href="/content/2013/11/15/miracle.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/miracle.jpg" alt="Miracle" alt="Stamp" />
+                    <img src="/img/article/thumb-300/miracle.jpg" alt="Miracle" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -451,8 +475,9 @@
          <div class="section-post large-4 medium-4 small-6 columns left">
           <a href="/content/2013/11/13/12-years-a-slave.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/12-years-a-slave.jpg" alt="12 Years a Slave" alt="Stamp" />
+                    <img src="/img/article/thumb-300/12-years-a-slave.jpg" alt="12 Years a Slave" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /></div>
                   </div>
                 </a>
@@ -468,15 +493,16 @@
         
           
          <div class="section-post large-4 medium-4 small-6 columns left">
-          <a href="/content/2013/11/08/thor-the-dark-world.html">
+          <a href="/content/2013/11/8/thor-the-dark-world.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/thor-the-dark-world.jpg" alt="Thor: The Dark World" alt="Stamp" />
+                    <img src="/img/article/thumb-300/thor-the-dark-world.jpg" alt="Thor: The Dark World" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/11/08/thor-the-dark-world.html">
+                <a href="/content/2013/11/8/thor-the-dark-world.html">
                   <div class="review-text">
                     <h1>Thor: The Dark World</h1>
                     <h2 class="addressee">Dear Magdalena Kusowska, <span class="mobile-line-break"><br /></span>Concept Artist</h2>
@@ -487,15 +513,16 @@
         
           
          <div class="section-post large-4 medium-4 small-6 columns left">
-          <a href="/content/2013/11/07/the-counselor.html">
+          <a href="/content/2013/11/7/the-counselor.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-counselor.jpg" alt="The Counselor" alt="Stamp" />
+                    <img src="/img/article/thumb-300/the-counselor.jpg" alt="The Counselor" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/11/07/the-counselor.html">
+                <a href="/content/2013/11/7/the-counselor.html">
                   <div class="review-text">
                     <h1>The Counselor</h1>
                     <h2 class="addressee">Dear Ali Moshref, <span class="mobile-line-break"><br /></span>Completion Guarantor</h2>
@@ -506,15 +533,16 @@
         
           
          <div class="section-post large-4 medium-4 small-6 columns left">
-          <a href="/content/2013/11/06/thunderstorm-the-return-of-thor.html">
+          <a href="/content/2013/11/6/thunderstorm-the-return-of-thor.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/thunderstorm-the-return-of-thor.jpg" alt="Thunderstorm: The Return of Thor" alt="Stamp" />
+                    <img src="/img/article/thumb-300/thunderstorm-the-return-of-thor.jpg" alt="Thunderstorm: The Return of Thor" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/11/06/thunderstorm-the-return-of-thor.html">
+                <a href="/content/2013/11/6/thunderstorm-the-return-of-thor.html">
                   <div class="review-text">
                     <h1>Thunderstorm: The Return of Thor</h1>
                     <h2 class="addressee">Dear Ray Besharah, <span class="mobile-line-break"><br /></span>Actor</h2>
@@ -525,15 +553,16 @@
         
           
          <div class="section-post large-4 medium-4 small-6 columns left">
-          <a href="/content/2013/11/05/wadjda.html">
+          <a href="/content/2013/11/5/wadjda.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/wadjda.jpg" alt="Wadjda" alt="Stamp" />
+                    <img src="/img/article/thumb-300/wadjda.jpg" alt="Wadjda" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/11/05/wadjda.html">
+                <a href="/content/2013/11/5/wadjda.html">
                   <div class="review-text">
                     <h1>Wadjda</h1>
                     <h2 class="addressee">Dear Abdulaziz Abdalnorr, <span class="mobile-line-break"><br /></span>Costume Driver</h2>
@@ -546,8 +575,9 @@
          <div class="section-post large-4 medium-4 small-6 columns left">
           <a href="/content/2013/10/31/vhs-2.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/vhs-2.jpg" alt="V/H/S 2" alt="Stamp" />
+                    <img src="/img/article/thumb-300/vhs-2.jpg" alt="V/H/S 2" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -565,8 +595,9 @@
          <div class="section-post large-4 medium-4 small-6 columns left">
           <a href="/content/2013/10/25/all-is-lost.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/all-is-lost.jpg" alt="All is Lost" alt="Stamp" />
+                    <img src="/img/article/thumb-300/all-is-lost.jpg" alt="All is Lost" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -584,8 +615,9 @@
          <div class="section-post large-4 medium-4 small-6 columns left end">
           <a href="/content/2013/10/24/man-of-tai-chi.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/man-of-tai-chi.jpg" alt="Man of Tai Chi" alt="Stamp" />
+                    <img src="/img/article/thumb-300/man-of-tai-chi.jpg" alt="Man of Tai Chi" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>

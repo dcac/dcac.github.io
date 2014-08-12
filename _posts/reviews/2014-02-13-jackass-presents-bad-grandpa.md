@@ -9,7 +9,9 @@ excerpt:
 position: Special Makeup Designer
 addressee: Tony Gardner
 layout: review
-categories: [reviews,current-releases]
+categories:
+- reviews
+- netflix
 title: "Jackass Presents Bad Grandpa"
 comments: true
 tags: [Letters, Oscars 2014]

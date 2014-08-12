@@ -3,13 +3,15 @@ published: true
 section: General
 imdb: tt0975645
 image: hitchcock.jpg
-author: test 
+author: christopherr 
 stars: 3.5
 excerpt: "In this cheeky new biopic, director Sacha Gervasi proposes that ol&rsquo; &ldquo;Hitch&rdquo; was even more consumed by his material than we presumed."
 position: Blonde Fan
 addressee: Emma Jacobs
 layout: review
-categories: reviews
+categories:
+- reviews
+- netflix
 title: "Hitchcock"
 comments: true
 tags: [Alfred, all-time, Anthony Hopkins, best film, Ed Geins, Hichcock, Letters, Psycho, Scarlett Johansson, Sight and Sount, undefined, Vertigo]

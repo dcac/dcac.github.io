@@ -22,8 +22,8 @@ We get older. We learn and develop. We try, we fail, we try again. Our successes
 
 _And So It Goes_ does not belong in that previous life of yours. Written by Mark Andrus*, it documents the attempts of an aged Michael Douglas to find the sort of equilibrium I referred to above. A cantankerous grump, he is forced to reevaluate his life choices and priorities when his ne'er-do-well son appears out of the blue and asks him to take care of a granddaughter he didn't' know while he serves his prison sentence. Of course, his sympathetic lady neighbor gets involved. Of course she's played by Dian Keaton…and so it goes, really. You know the story before you've even seen it. _Klowns_ may have packed all its originality into its title, but in this, your latest film, the plot, characters, and jokes are already buried in the brain of anyone over the age of eight (and if you _are_ that young, please close this page, because this is [not an appropriate site for you][3], [at all][4]). For the intended audience of 60+, this is all very, very familiar territory.
 
-   [3]: /letters/2012/5/7/shame.html
-   [4]: /letters/2012/11/23/the-sessions.html
+   [3]: /content/2012/5/7/shame.html
+   [4]: /content/2012/11/23/the-sessions.html
 
 But just because it's unoriginal doesn't mean that it's bad. It is proven repeatedly that any familiar story is worth doing again if it's done well. All the necessary pieces are here, and the zeitgeisty marketing strategy of appealing to a swelling** population of late-stage Viagra romantics offers some interesting possibilities. But they don't really come together. Everyone seems to be playing it way too safe, perhaps because of the risks inherent in producing and distributing with such a small studio. I'm suspicious of Andrus and Reiner, though. There are some nice moments of emotional connections, and some clever--even edgy--dialogue. Frances Sternhagen gets some of the best lines, which makes me think that, for the main cast and the main plotline, the moviemakers were pulling their punches.
 

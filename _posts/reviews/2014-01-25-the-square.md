@@ -3,13 +3,15 @@ published: true
 section: General
 image: the-square.jpg
 imdb: tt2486682
-author: test 
+author: natm 
 stars: 5
 excerpt: 
 position: Editor
 addressee: Christopher de la Torre
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - netflix
 title: "The Square"
 comments: true
 tags: [documentary, Egypt, Letters, netflix, Oscars 2014, protest, The Square]

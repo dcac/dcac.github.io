@@ -8,7 +8,9 @@ excerpt: "t&rsquo;s not easy creating a magical world where modernity and Greek 
 position: Production Designer
 addressee: Claude Par&eacute
 layout: review
-categories: reviews
+categories:
+- reviews
+- netflix
 title: "Percy Jackson: Sea of Monsters"
 comments: true
 tags: [action, adaptation, adventure, book, children, Family, fantasy, Letters, Percy Jackson, Sea of Monsters]

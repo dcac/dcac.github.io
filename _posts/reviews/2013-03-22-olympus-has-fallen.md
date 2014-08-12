@@ -8,7 +8,9 @@ excerpt: "In junior high, while my peers were awakened by the atonal notes of th
 position: Composer
 addressee: Trevor Morris
 layout: review
-categories: reviews
+categories:
+- reviews
+- netflix
 title: "Olympus Has Fallen"
 comments: true
 tags: [Aaron Eckart, action, composer, Gerard Butler, Letters, president, white house]
@@ -30,7 +32,3 @@ I'm guessing the first. Because there's no way director Antoine Fuqua didn't kno
 How ingenious for Fuqua to construct a sequence as outrageously inhumane as the first act attack perpetrated against the people of Washington, DC (they're gunned down by invading North Koreans in a circling jumbo jet that is inexplicably able to cruise into the capitol's airspace), all the while keeping the action safely on the side of implausibility so that everything potentially offensive about it is merely funny. What's brilliant about it is that people will watch this movie and _totally think you guys were trying to make a real movie!_
 
 But here is the best compliment I can pay you, Trevor: if I had seen this flick at the age of fourteen, I'd right now be scanning the CD racks looking for your name.
-
-Sincerely,
-
-Jared Young 

@@ -8,7 +8,9 @@ excerpt: "Too bad there's no cheat code to get you everything you want, right? A
 position: Kickstarter Contributor
 addressee: Captain_404
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - netflix
 title: "Indie Game: The Movie"
 comments: true
 tags: [Braid, Canadian, documentary, Fez, independent, Letters, Super Meat Boy, SXSW, video games]

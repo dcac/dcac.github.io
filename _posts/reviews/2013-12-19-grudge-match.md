@@ -1,7 +1,7 @@
 ---
 published: true
 section: General
-image: gridge-match.jpg
+image: grudge-match.jpg
 imdb: tt1661382
 author: dig 
 stars: 1

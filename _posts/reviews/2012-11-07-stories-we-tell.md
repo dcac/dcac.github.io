@@ -23,7 +23,3 @@ It starts with the film's "personality". That it doesn't take itself too serious
 This directorial approach also renders the film's construction refreshingly transparent. We get some great candid moments as your friends and family prepare to be interviewed. We see your husband Michael recording a voiceover (a heartfelt and articulate piece of introspection that he composed himself); Sarah asks him to re-record lines, no matter how confident he is with the delivery. We also get a mixture of found and new footage, but the line between truth and fiction blurs as the film wears on.  That's another wonderful revelation we learn over the course of the film.
 
 At one point, Sarah herself is asked what the film is really about. Her answer is a bit laboured and intellectual, touching on ideas of representation and identity. Of course the truth is much simpler, even if these themes are what make the film resonate. But as the film itself proves, not knowing all the answers has no bearing on our love for the final product.  And what your daughter has created is something I was able to love without reservation.
-
-Sincerely,
-
-Christopher Redmond

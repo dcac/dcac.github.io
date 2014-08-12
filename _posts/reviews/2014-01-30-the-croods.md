@@ -8,7 +8,9 @@ excerpt:
 position: Co-Writer
 addressee: John Cleese
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - netflix
 title: "The Croods"
 comments: true
 tags: [animated, Animation, comedy, croods, dreamworks, Family, Letters, nicolas cage, Oscars 2014, Ryan Reynolds]
@@ -23,5 +25,3 @@ tags: [animated, Animation, comedy, croods, dreamworks, Family, Letters, nicolas
 <p>Mediocrity is the inoffensive middle-ground, a soothing white noise. It&rsquo;s peaceful. It requires no effort. And it has the power to surprise; it&rsquo;s the short grass in which tiny triumphs can hide.</p>
 <p>At the beginning of the otherwise middling flick is an exciting chase sequence; a family hunt that occurs with the breakneck physics of a roadrunner cartoon. There are some really breathtaking images, too: a starry sky that reminds you of the majesty of starry skies; a lush jungle that borrows liberally from the botanical imagination of Dr. Suess; an ocean of volcanic ash that ebbs and flows and makes terrific use of the widescreen aspect ratio. And, at the end, a reconciliation between father and daughter that, despite all the cloying humor and sermonizing and false tension that led up to it, might, in the moment, shake loose some dust from the rafters of the theater, which will drift down into your eyes and prompt them (against your will) to protect themselves with a discharge of saline that might (again, against your will) leak out onto your face, which will require you to very subtly (because you don&rsquo;t want to disturb your companions&rsquo; enjoyment of the film) lift your hand to your eye and stealthily rub away the wetness with the knuckle of your thumb, and, later, write a strongly-worded letter to the proprietors of the theater about the thoroughness of their janitorial upkeep.</p>
 <p>So you don&rsquo;t necessarily have to feel ashamed to be associated with <em>The Croods</em>. You&rsquo;ve given us enough greatness for two lifetimes, and there&rsquo;s a place in the world for this sort of mediocre stuff. Just don&rsquo;t get too comfortable down here.</p>
-<p>Sincerely,</p>
-<p>Jared Young</p>

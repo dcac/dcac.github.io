@@ -11,8 +11,6 @@ addressee: Brian Wentzel
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
 title: "The Expendables 2"
 comments: true
 tags: [action, arnold schwarzenegger, bruce willis, chuck norris, expendables, Jason Statham, Letters, sylvester stallone]

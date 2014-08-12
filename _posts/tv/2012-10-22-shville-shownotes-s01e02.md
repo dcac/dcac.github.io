@@ -3,18 +3,18 @@ published: true
 section: General
 image: 
 imdb: 
-author: test 
+author: christopherr 
 stars: 
 excerpt: 
 position: 
 addressee: 
 layout: review
-categories: reviews
+categories: tv
 title: "Nashville — Shownotes S01E02"
 comments: true
 tags: [Connie Britton, Episode 2, Hayden Panettiere, Nashville, October 17, S01E02, Shownotes]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/10/22/nashville-shownotes-s01e02.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76d9/1350931822054/Nashville%20S01E02.jpg" alt="" /></a></span></span></p>
+<div><p><span class="full-image-block ssNonEditable"><span><a href="/content/2012/10/22/nashville-shownotes-s01e02.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76d9/1350931822054/Nashville%20S01E02.jpg" alt="" /></a></span></span></p>
 <p><strong><em>Dear Cast and Crew of Nashville,</em></strong><em> S1E02 &ndash; &ldquo;I Can&rsquo;t Help It (If I&rsquo;m Still in Love With You)&rdquo;</em></p>
 <p><em>Episode synopsis:</em> <br />As Teddy&#8217;s campaign continues, Rayna is faced with an investigation that reveals family secrets. Juliette feels betrayed when she sees Deacon perform with Rayna. Scarlett must decide between her dream and her relationship with Avery.&nbsp;</p>
 <p><em>Shownotes:</em></p>

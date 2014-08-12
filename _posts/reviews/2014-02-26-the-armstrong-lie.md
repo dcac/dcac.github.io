@@ -10,8 +10,8 @@ position: Smoke Artist
 addressee: Benjamin Murray
 layout: review
 categories: 
-  - reviews
-  - current-releases
+- reviews
+- netflix
 title: "The Armstrong Lie"
 comments: true
 tags: [Alex Gibney, documentary, lance armstrong, Letters, livestong]

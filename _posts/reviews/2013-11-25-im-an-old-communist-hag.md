@@ -31,7 +31,3 @@ As played by the renowned Romanian actress Luminita Gheorghiu, Emilia is stout a
 See, that's the problem with epithets, Nicolae: they don't aggrandize a person; they obscure. You may have created around yourself the most impressive cult of personality in Eastern Europe when that part of the world was replete with big personalities, but the names you gave yourself - genius, demiurge, titan, Prince Charming - are heavy with their own meaning, and do nothing, today, to define what kind of man you were. They do, however, shed a bit of light on what kind of leader you were.
 
 Director Stere Gulea is a survivor of the lean artistic years under your rule - he made several films in the 70s and 80s, during the Communist studio system - and whether or not he shares Emilia's conflicted feelings about Romania's past, this much is for certain: he knows better than to give you credit for her wistfulness. It's herself that she misses. The innocence of her daughter. The simplicity of youth. But not you. Sure, your specter looms large over this film. But that's all you are, anymore: a ghost.
-
-Sincerely,
-
-Jared Young

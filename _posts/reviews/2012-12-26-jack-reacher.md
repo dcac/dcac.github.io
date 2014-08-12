@@ -2,14 +2,16 @@
 published: true
 section: General
 imdb: tt0790724
-image: hack-reacher.jpg
+image: jack-reacher.jpg
 author: caseyt 
 stars: 1.5
 excerpt: "I hope die-hard Jack Reacher fans didn&rsquo;t blame you when they learned Tom Cruise would play the title role in the character&rsquo;s first film adaptation&mdash;named, lazily, <em>Jack Reacher</em>. This choice, being a Tom Cruise production staring Tom Cruise, was probably never yours to begin with. But really, does it matter if a character who, as described in Lee Child&rsquo;s novels, stands 6&rsquo;5&rdquo; tall and weighs 250 pounds is played by an actor known for being, well, &nbsp;the opposite of that? No, not if the movie is good. Then the decision can stand on is own merits and cries of miscasting will fade into the distance."
 position: Casting
 addressee: Mindy Marin
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - netflix
 title: "Jack Reacher"
 comments: true
 tags: [action, adaptation, Christopher McQuarrie, Jack Reacher, Lee Child, Letters, novel, Tom Cruise, Werner Herzog]

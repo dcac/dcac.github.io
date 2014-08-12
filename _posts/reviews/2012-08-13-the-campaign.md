@@ -10,9 +10,8 @@ position: Photo Double/Stand-in for Dan Aykroyd
 addressee: Steven Clawson
 layout: review
 categories:
-  - reviews
-  - streaming
-  - on-video
+- reviews
+- netflix
 title: "The Campaign"
 comments: true
 tags: [comedy, poiltics, the campaign, Uncategorized, will ferrell, zack galifianakis]

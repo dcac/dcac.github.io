@@ -16,8 +16,8 @@ tags: [Anne Hathaway, Fanien, Hugh Jackman, I Dreamed a Dream, Jean Valjean, Les
 ---
 It may not be a pull-quote for the posters, but I consider your tenuous approval of _Les Miserables_ a victory no less. As an officer of the law for 35 years, it's no surprise you prefer movies where the action is [unchained][3] and the emotions are [unsung][4]. Most guys do. But over the holidays, in the spirit of the season, you dutifully ignored the more enticing options in the cineplex to keep the family together. In the words of the story's antagonist Javert, you probably thought "I will join these little schoolboys, they will wet themselves…" with tears. And we did. And it was glorious. And to the disgust of your iron-clad masculinity, even you must have been moved. 
 
-   [3]: /letters/2012/12/28/django-unchained.html
-   [4]: /letters/2012/11/9/skyfall.html
+   [3]: /content/2012/12/28/django-unchained.html
+   [4]: /content/2012/11/9/skyfall.html
 
 How could you not be? The international sensation _Les Miserables_ is a pop opera that packs more emotion per measure than most productions could ever dream. Director Tom Hooper has created a genuine thrill-a-minute motion picture that somehow balances the bombastic tendencies of Broadway musicals with the intimate demands of filmmaking. He boldly does so by marrying one of the most powerful tools of the stage--live singing--to the silver screen's own weapon of choice: the close up.
 

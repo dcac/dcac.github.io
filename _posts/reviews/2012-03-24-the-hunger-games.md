@@ -11,8 +11,7 @@ addressee: Kelly Doty
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
+  - netflix
 title: "The Hunger Games"
 comments: true
 streaming: true

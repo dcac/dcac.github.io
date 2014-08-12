@@ -9,7 +9,9 @@ excerpt: "Ironic, isn&rsquo;t it?&nbsp; A film that&rsquo;s all about you, and o
 position: In Memory Of
 addressee: John Hughes
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - netflix
 title: "Don't You Forget About Me"
 comments: true
 tags: [Canadian, documentary, Letters, Letters to the Dead, netflix.ca]

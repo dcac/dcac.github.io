@@ -10,9 +10,8 @@ position: Weather Consultant
 addressee: Richard Wild
 layout: review
 categories:
-  - reviews
-  - streaming
-  - on-video
+- reviews
+- netflix
 title: "Dark Shadows"
 comments: true
 tags: [comedy, horror, Jonny Depp, Letters, Tim Burton]

@@ -8,7 +8,9 @@ excerpt: "What&rsquo;s more powerful than the pen or the sword? A crazy king who
 position: Swordmaster
 addressee: Roman Spacil
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - netflix
 title: "A Royal Affair"
 comments: true
 tags: [A Royal Affair, Best, Danish, drama, foreign language, historic, Letters, Mad Mikkelson, Oscar, royalty]

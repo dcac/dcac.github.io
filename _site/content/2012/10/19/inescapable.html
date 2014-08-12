@@ -26,7 +26,15 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
-      $('nav#menu-left').css({'display':'block'});
+      $("#nav-toggle").click(function(){
+        $('nav#menu-left').css({'display':'block'});
+        $('#nav-header').css({'display':'block'});
+      });
+      $("#mm-blocker").click(function() {
+        $("#my-menu").trigger("close.mm");
+        $('nav#menu-left').css({'display':'none'});
+        $('#nav-header').css({'display':'none'});
+      });
     });
 		</script>
 
@@ -99,7 +107,7 @@
               <li><a href="/reviews/">Reviews</a></li>
               <li><a href="/features/" class="slash">Features</a></li>
               <!-- <li><a href="/podcast/">Podcast</a></li> -->
-              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="/writers/" class="slash">Writers</a></li>
               <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
             </ul>
           </section>
@@ -120,7 +128,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -130,7 +138,7 @@
 
       <section>
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/inescapable.jpg);" data-stellar-background-ratio=".25"></div>
+          <div class="title-img" style="background-image:url(/img/article/main/inescapable.jpg);" data-stellar-background-ratio=".25"></div>
           <div class="row">
             <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
@@ -191,8 +199,8 @@
               
             <div class="signature clearfix">
               <p class="signature-signoff"><strong>Sincerely,</strong><br />
+              <img class="signature-img" src="/img/writers/christopherr-sig.png" /><br />
               Christopher</p>
-              <img class="signature-img" src="/img/writers/christopherr-sig.png" />
             </div>
               
             
@@ -207,15 +215,16 @@
           
             
               <div class="large-4 medium-4 columns main-link-small">
-                <a href="/content/2014/05/01/the-husband.html">
+                <a href="/content/2014/5/1/the-husband.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-husband.jpg" alt="The Husband" alt="Stamp" />
+                    <img src="/img/article/thumb-300/the-husband.jpg" alt="The Husband" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/05/01/the-husband.html">
+                <a href="/content/2014/5/1/the-husband.html">
                   <div class="review-text">
                     <h1>The Husband</h1>
                     <h2 class="addressee">Dear Daniel Grant, <span class="mobile-line-break"><br /></span>Cinematographer</h2>
@@ -227,15 +236,16 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2014/05/01/algonquin.html">
+                <a href="/content/2014/5/1/algonquin.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/algonquin.jpg" alt="Algonquin" alt="Stamp" />
+                    <img src="/img/article/thumb-300/algonquin.jpg" alt="Algonquin" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/05/01/algonquin.html">
+                <a href="/content/2014/5/1/algonquin.html">
                   <div class="review-text">
                     <h1>Algonquin</h1>
                     <h2 class="addressee">Dear Algonquin Provincial Park, <span class="mobile-line-break"><br /></span>Location</h2>
@@ -248,8 +258,9 @@
               <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/10/23/gabrielle.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/gabrielle.jpg" alt="Gabrielle" alt="Stamp" />
+                    <img src="/img/article/thumb-300/gabrielle.jpg" alt="Gabrielle" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -265,6 +276,7 @@
           
           </div>
         </div>
+
       </section>
       <div class="comments-bg">
         <div class="comments">
@@ -286,7 +298,7 @@
         
         <a href="/content/2012/10/19/inescapable.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/inescapable.jpg" alt="Inescapable Image" />
+                    <img src="/img/article/thumb-300/inescapable.jpg" alt="Inescapable Image" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>

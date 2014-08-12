@@ -26,7 +26,15 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
-      $('nav#menu-left').css({'display':'block'});
+      $("#nav-toggle").click(function(){
+        $('nav#menu-left').css({'display':'block'});
+        $('#nav-header').css({'display':'block'});
+      });
+      $("#mm-blocker").click(function() {
+        $("#my-menu").trigger("close.mm");
+        $('nav#menu-left').css({'display':'none'});
+        $('#nav-header').css({'display':'none'});
+      });
     });
 		</script>
 
@@ -99,7 +107,7 @@
               <li><a href="/reviews/">Reviews</a></li>
               <li><a href="/features/" class="slash">Features</a></li>
               <!-- <li><a href="/podcast/">Podcast</a></li> -->
-              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="/writers/" class="slash">Writers</a></li>
               <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
             </ul>
           </section>
@@ -120,7 +128,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -130,7 +138,7 @@
 
       <section>
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/escape-from-tomorrow.jpg);" data-stellar-background-ratio=".25"></div>
+          <div class="title-img" style="background-image:url(/img/article/main/escape-from-tomorrow.jpg);" data-stellar-background-ratio=".25"></div>
           <div class="row">
             <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
@@ -173,30 +181,26 @@
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
             <p class="intro hide-for-small">Dear Christopher L. Perez,</p>
-            <p class="intro">Those are some mighty big balls you&rsquo;ve got.&nbsp; Like, cartoonishly big. You&rsquo;re the one who ultimately told writer/director Randy Moore, sure, go ahead; risk a lawsuit from Disney &ndash; one of the most fiercely protected corporate identities in American history.&nbsp;</p>
+            <p class="intro">Those are some mighty big balls you&#39;ve got.  Like, cartoonishly big. You&#39;re the one who ultimately told writer/director Randy Moore, sure, go ahead; risk a lawsuit from Disney - one of the most fiercely protected corporate identities in American history. </p>
 
-<p>But you didn&rsquo;t stop there.</p>
+<p>But you didn&#39;t stop there.</p>
 
-<p>The <a href="http://escapefromtomorrow.com/">official website</a> for <em>Escape From Tomorrow</em> is throwing up a big middle finger at the notoriously litigious enterprise, featuring a big countdown clock titled &ldquo;number of hours since release that we haven&rsquo;t been sued&rdquo; (4 days, 13 hours, 41 minutes as of this posting). It&rsquo;s a dangerous game of chicken being played, but also a little transparent. You&rsquo;re obviously hoping a cease-and-desist order will allow you to market this as &ldquo;the film Disney doesn&rsquo;t want you to see!&rdquo;. Except it&rsquo;s more likely to be the film Disney doesn&rsquo;t care if you see, because it&rsquo;s just not that good.</p>
+<p>The <a href="http://escapefromtomorrow.com/">official website</a> for <em>Escape From Tomorrow</em> is throwing up a big middle finger at the notoriously litigious enterprise, featuring a big countdown clock titled &quot;number of hours since release that we haven&#39;t been sued&quot; (4 days, 13 hours, 41 minutes as of this posting). It&#39;s a dangerous game of chicken being played, but also a little transparent. You&#39;re obviously hoping a cease-and-desist order will allow you to market this as &quot;the film Disney doesn&#39;t want you to see!&quot;. Except it&#39;s more likely to be the film Disney doesn&#39;t care if you see, because it&#39;s just not that good.</p>
 
-<p>Still, the audacity of secretly filming an entire feature film at both Disneyland and Disney World is no small feat. And for much of what unfolds on screen, I&rsquo;m not really surprised the crew got away with making this hand-held, black and white film. After all, it&rsquo;s simply the story of a man, his wife, and their two kids who are spending a day at the most magical place on earth as they endure spinning Tea Cups, long line-ups, and typical group separation anxieties. Shot with a few handheld 5D Mark II cameras, staging these scenes amongst the crowds wouldn&rsquo;t have phased a soul.</p>
+<p>Still, the audacity of secretly filming an entire feature film at both Disneyland and Disney World is no small feat. And for much of what unfolds on screen, I&#39;m not really surprised the crew got away with making this hand-held, black and white film. After all, it&#39;s simply the story of a man, his wife, and their two kids who are spending a day at the most magical place on earth as they endure spinning Tea Cups, long line-ups, and typical group separation anxieties. Shot with a few handheld 5D Mark II cameras, staging these scenes amongst the crowds wouldn&#39;t have phased a soul.</p>
 
-<p>It&rsquo;s probably not even that uncommon for middle-aged men to navigate the whole park chasing young Lolitas who laugh and lick their lollipops in short-shorts as they frolic through the grounds. That&rsquo;s of course where the father (Roy Abramsohn) starts getting into trouble, before his mind starts to warp with surreal visions while on classic park rides like It&rsquo;s A Small World (that notably do not contain the most iconic, and lawsuit-worthy, characters).</p>
+<p>It&#39;s probably not even that uncommon for middle-aged men to navigate the whole park chasing young Lolitas who laugh and lick their lollipops in short-shorts as they frolic through the grounds. That&#39;s of course where the father (Roy Abramsohn) starts getting into trouble, before his mind starts to warp with surreal visions while on classic park rides like It&#39;s A Small World (that notably do not contain the most iconic, and lawsuit-worthy, characters).</p>
 
-<p>There&rsquo;s a fine line being walked at times, but it&rsquo;s strange where you advised your client to take precautions. Epcot Center is frequently named and featured, becoming a center point of the film&rsquo;s climax, and images of the Disney castle and name of the park are used early on. But as the film dips into a more twisted (and strangely less interesting) tale, the word &ldquo;Disney&rdquo; is spoken but bleeped out, Walter Disney is referred to simply as &ldquo;WD&rdquo;, and a bottle of lotion is black-bar censored (I&rsquo;m still trying to figure that one out). &nbsp;How and why these things all come together, both at a narrative and legal level, feel circumstantial, and don&rsquo;t evidence a deeper or more meaningful film. This is a novelty product that&rsquo;s more shameless than anything Disney itself has ever done. Including <a href="/letters/2013/8/14/planes.html">Planes</a>.</p>
+<p>There&#39;s a fine line being walked at times, but it&#39;s strange where you advised your client to take precautions. Epcot Center is frequently named and featured, becoming a center point of the film&#39;s climax, and images of the Disney castle and name of the park are used early on. But as the film dips into a more twisted (and strangely less interesting) tale, the word &quot;Disney&quot; is spoken but bleeped out, Walter Disney is referred to simply as &quot;WD&quot;, and a bottle of lotion is black-bar censored (I&#39;m still trying to figure that one out).  How and why these things all come together, both at a narrative and legal level, feel circumstantial, and don&#39;t evidence a deeper or more meaningful film. This is a novelty product that&#39;s more shameless than anything Disney itself has ever done. Including <a href="/content/2013/8/14/planes.html">Planes</a>.</p>
 
-<p>How&rsquo;s that for an indictment?</p>
-
-<p>Sincerely,</p>
-
-<p>Christopher</p>
+<p>How&#39;s that for an indictment?</p>
 
             
               
             <div class="signature clearfix">
               <p class="signature-signoff"><strong>Sincerely,</strong><br />
+              <img class="signature-img" src="/img/writers/christopherr-sig.png" /><br />
               Christopher</p>
-              <img class="signature-img" src="/img/writers/christopherr-sig.png" />
             </div>
               
             
@@ -211,15 +215,16 @@
           
             
               <div class="large-4 medium-4 columns main-link-small">
-                <a href="/content/2013/05/14/aftershock.html">
+                <a href="/content/2013/5/14/aftershock.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/aftershock.jpg" alt="Aftershock" alt="Stamp" />
+                    <img src="/img/article/thumb-300/aftershock.jpg" alt="Aftershock" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/05/14/aftershock.html">
+                <a href="/content/2013/5/14/aftershock.html">
                   <div class="review-text">
                     <h1>Aftershock</h1>
                     <h2 class="addressee">Dear Contanza Garcia, <span class="mobile-line-break"><br /></span>Make-up and Tattoo Artist</h2>
@@ -231,15 +236,16 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2014/05/19/devils-knot.html">
+                <a href="/content/2014/5/19/devils-knot.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/devils-knot.jpg" alt="Devil's Knot" alt="Stamp" />
+                    <img src="/img/article/thumb-300/devils-knot.jpg" alt="Devil's Knot" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/05/19/devils-knot.html">
+                <a href="/content/2014/5/19/devils-knot.html">
                   <div class="review-text">
                     <h1>Devil's Knot</h1>
                     <h2 class="addressee">Dear Greg Bernstein, <span class="mobile-line-break"><br /></span>Legal Services</h2>
@@ -250,15 +256,16 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2014/01/10/nebraska.html">
+                <a href="/content/2014/1/10/nebraska.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/nebraska.jpg" alt="Nebraska" alt="Stamp" />
+                    <img src="/img/article/thumb-300/nebraska.jpg" alt="Nebraska" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/01/10/nebraska.html">
+                <a href="/content/2014/1/10/nebraska.html">
                   <div class="review-text">
                     <h1>Nebraska</h1>
                     <h2 class="addressee">Dear Waldo Sanchez, <span class="mobile-line-break"><br /></span>Department Head Hair,</h2>
@@ -269,6 +276,7 @@
           
           </div>
         </div>
+
       </section>
       <div class="comments-bg">
         <div class="comments">
@@ -290,7 +298,7 @@
         
         <a href="/content/2013/10/15/escape-from-tomorrow.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/escape-from-tomorrow.jpg" alt="Escape from Tomorrow Image" />
+                    <img src="/img/article/thumb-300/escape-from-tomorrow.jpg" alt="Escape from Tomorrow Image" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>

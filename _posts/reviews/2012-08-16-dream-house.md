@@ -10,9 +10,8 @@ position: Payroll Accountant
 addressee: Debra Gibson
 layout: review
 categories:
-  - reviews
-  - streaming
-  - on-video
+- reviews
+- netflix
 title: "Dream House"
 comments: true
 tags: [Daniel Craig, Dream House, Jim Sheridan, junk, Naomi Watts, negative, Rachel Weisz, Review, Uncategorized]

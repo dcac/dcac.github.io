@@ -8,7 +8,9 @@ excerpt: "Talk about cosmic connections."
 position: Ukelele Soloist 
 addressee: Jacob Bryce
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - netflix
 title: "Jeff, Who Lives at Home"
 comments: true
 tags: [comedy, Ed Helms, Jason Segel, Letters, mumblecore, netflix.ca, Susan Sarandon]

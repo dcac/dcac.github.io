@@ -11,8 +11,7 @@ addressee: Mark Behar
 layout: review
 categories: 
   - reviews
-  - streaming
-  - on-video
+  - netflix
 title: "The Dictator"
 comments: true
 tags: [Ben Kingsley, comedy, Letters, netflix.ca, Sacha Baron Cohen, The Dictator]

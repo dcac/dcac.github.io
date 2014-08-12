@@ -8,7 +8,9 @@ excerpt: "There&rsquo;s not really a single job title to greet you with. Althoug
 position: FIlmmaker
 addressee: Ariel Nasr
 layout: review
-categories: reviews
+categories: 
+ - reviews
+ - netflix
 title: "The Boxing Girls of Kabul"
 comments: true
 tags: [Afghanistan, Canadian, Canadian Screen Awards, documentary, Kabul, Letters]

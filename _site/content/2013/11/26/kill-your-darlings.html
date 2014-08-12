@@ -26,7 +26,15 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
-      $('nav#menu-left').css({'display':'block'});
+      $("#nav-toggle").click(function(){
+        $('nav#menu-left').css({'display':'block'});
+        $('#nav-header').css({'display':'block'});
+      });
+      $("#mm-blocker").click(function() {
+        $("#my-menu").trigger("close.mm");
+        $('nav#menu-left').css({'display':'none'});
+        $('#nav-header').css({'display':'none'});
+      });
     });
 		</script>
 
@@ -99,7 +107,7 @@
               <li><a href="/reviews/">Reviews</a></li>
               <li><a href="/features/" class="slash">Features</a></li>
               <!-- <li><a href="/podcast/">Podcast</a></li> -->
-              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="/writers/" class="slash">Writers</a></li>
               <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
             </ul>
           </section>
@@ -120,7 +128,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -130,7 +138,7 @@
 
       <section>
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/kill-your-darlings.jpg);" data-stellar-background-ratio=".25"></div>
+          <div class="title-img" style="background-image:url(/img/article/main/kill-your-darlings.jpg);" data-stellar-background-ratio=".25"></div>
           <div class="row">
             <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
@@ -173,30 +181,26 @@
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
             <p class="intro hide-for-small">Dear Randall Poster,</p>
-            <p class="intro">Capturing the youthful rebellions of another time on film is tricky.&nbsp; The things that once felt dangerous and subversive turn quaint as they become our parents and grandparents&rsquo; eras. By the time we hit great-grandparents, well, it&rsquo;s hard to separate the rebels from the squares amongst all the period costumes and sets.&nbsp; So it&rsquo;s probably tempting to take a shortcut by giving modern audiences something familiar to grasp onto rather than doing a lot of world building. Too bad you gave in to this temptation by leaning on music from bands like TV On The Radio and Bloc Party to make-up for the faults in this mid-1940&rsquo;s set film.&nbsp;</p>
+            <p class="intro">Capturing the youthful rebellions of another time on film is tricky.  The things that once felt dangerous and subversive turn quaint as they become our parents and grandparents&#39; eras. By the time we hit great-grandparents, well, it&#39;s hard to separate the rebels from the squares amongst all the period costumes and sets.  So it&#39;s probably tempting to take a shortcut by giving modern audiences something familiar to grasp onto rather than doing a lot of world building. Too bad you gave in to this temptation by leaning on music from bands like TV On The Radio and Bloc Party to make-up for the faults in this mid-1940&#39;s set film. </p>
 
-<p>Sure, if you were working with a director like Baz Luhrman, you could get away with it. But Luhrman is a magpie &ndash; he&rsquo;s constructing his world out of those pieces. The mash-up is the point.&nbsp; Unfortunately, in <em>Kill Your Darlings</em>, director John Krokidas seems to be asking something different of your soundtrack &ndash; he wants the jazz for the period feel, the classical music to show that his characters are intellectual, and the alt-pop to give them a more modern edge. &nbsp;It ends up being a bad mix, with those contemporary songs belonging on an angsty teen TV show rather than a literary drama.</p>
+<p>Sure, if you were working with a director like Baz Luhrman, you could get away with it. But Luhrman is a magpie - he&#39;s constructing his world out of those pieces. The mash-up is the point.  Unfortunately, in <em>Kill Your Darlings</em>, director John Krokidas seems to be asking something different of your soundtrack - he wants the jazz for the period feel, the classical music to show that his characters are intellectual, and the alt-pop to give them a more modern edge.  It ends up being a bad mix, with those contemporary songs belonging on an angsty teen TV show rather than a literary drama.</p>
 
-<p>Based on an actual 1944 murder involving friends of the college-age pre-Beat writers, Allen Ginsberg, Jack Kerouac and William S. Burroughs, <em>Kill Your Darlings</em> is also meant to show the birth of a literary movement that resonated for decades.&nbsp; Daniel Radcliffe at least does a good job of conveying the evolution of Ginsberg&rsquo;s sexuality and writing style, things that would set him on the fringes of his society.</p>
+<p>Based on an actual 1944 murder involving friends of the college-age pre-Beat writers, Allen Ginsberg, Jack Kerouac and William S. Burroughs, <em>Kill Your Darlings</em> is also meant to show the birth of a literary movement that resonated for decades.  Daniel Radcliffe at least does a good job of conveying the evolution of Ginsberg&#39;s sexuality and writing style, things that would set him on the fringes of his society.</p>
 
-<p>Unfortunately, the movie doesn&rsquo;t show us what Ginsberg and his friends were rebelling against. The movie mentions homophobia, anti-Semitism, and the peril of a world at war, but they only give us a sense rather than the crushing weight it must have been.&nbsp; The movie spends more time on the oppression of poetic rhyme schemes &ndash; deadening to be sure (especially to a music enthusiast like you), but not something that really engages the average audience.</p>
+<p>Unfortunately, the movie doesn&#39;t show us what Ginsberg and his friends were rebelling against. The movie mentions homophobia, anti-Semitism, and the peril of a world at war, but they only give us a sense rather than the crushing weight it must have been.  The movie spends more time on the oppression of poetic rhyme schemes - deadening to be sure (especially to a music enthusiast like you), but not something that really engages the average audience.</p>
 
-<p>As music supervisor, there are much better options you could have presented to the director.&nbsp; Last year&rsquo;s <a href="/letters/2012/5/28/on-the-road.html"><em>On the Road</em></a> had its flaws, but it was able to convey the audacity of jazz.&nbsp; It wasn&rsquo;t fun swing, or moody torch songs, but raw-edged bebop.&nbsp; In that movie, when we saw Kerouac and Ginsberg dancing sweaty in a proto-moshpit, it was easy to understand how this music would concern the authorities and stir up the youth.&nbsp; Here, the most we see is Radcliffe doing some enthusiastic table drumming.&nbsp; No wonder you and Krokidas thought you needed to bring in the modern music.&nbsp;</p>
+<p>As music supervisor, there are much better options you could have presented to the director.  Last year&#39;s <a href="/content/2012/5/28/on-the-road.html"><em>On the Road</em></a> had its flaws, but it was able to convey the audacity of jazz.  It wasn&#39;t fun swing, or moody torch songs, but raw-edged bebop.  In that movie, when we saw Kerouac and Ginsberg dancing sweaty in a proto-moshpit, it was easy to understand how this music would concern the authorities and stir up the youth.  Here, the most we see is Radcliffe doing some enthusiastic table drumming.  No wonder you and Krokidas thought you needed to bring in the modern music. </p>
 
-<p>That&rsquo;s not to say that there aren&rsquo;t things in the film that work and work well. Radcliffe and Michael C. Hall both do excellent jobs of making us forget that they&rsquo;re best known for other work, and Ben Foster as Burroughs is a treat. &nbsp;Dane DeHaan as the murderous Lucien Carr has the charm of a baby DiCaprio, though somewhat hampered by overly arch dialogue.&nbsp; The story itself is an interesting one, with Hall&rsquo;s character being both stalker and mentor to Carr, while Carr is manipulative enough that it&rsquo;s hard to believe his version of events.&nbsp;</p>
+<p>That&#39;s not to say that there aren&#39;t things in the film that work and work well. Radcliffe and Michael C. Hall both do excellent jobs of making us forget that they&#39;re best known for other work, and Ben Foster as Burroughs is a treat.  Dane DeHaan as the murderous Lucien Carr has the charm of a baby DiCaprio, though somewhat hampered by overly arch dialogue.  The story itself is an interesting one, with Hall&#39;s character being both stalker and mentor to Carr, while Carr is manipulative enough that it&#39;s hard to believe his version of events. </p>
 
-<p>If Krokidas had trusted his actors and story more the movie might have had a chance to sing.&nbsp;</p>
-
-<p>Sincerely,</p>
-
-<p>Erin</p>
+<p>If Krokidas had trusted his actors and story more the movie might have had a chance to sing. </p>
 
             
               
             <div class="signature clearfix">
               <p class="signature-signoff"><strong>Sincerely,</strong><br />
+              <img class="signature-img" src="/img/writers/" /><br />
               Erin</p>
-              <img class="signature-img" src="/img/writers/" />
             </div>
               
             
@@ -211,15 +215,16 @@
           
             
               <div class="large-4 medium-4 columns main-link-small">
-                <a href="/content/2014/07/13/deliver-us-from-evil.html">
+                <a href="/content/2014/7/13/deliver-us-from-evil.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/deliver-us-from-evil.jpg" alt="Deliver Us From Evil" alt="Stamp" />
+                    <img src="/img/article/thumb-300/deliver-us-from-evil.jpg" alt="Deliver Us From Evil" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/07/13/deliver-us-from-evil.html">
+                <a href="/content/2014/7/13/deliver-us-from-evil.html">
                   <div class="review-text">
                     <h1>Deliver Us From Evil</h1>
                     <h2 class="addressee">Dear Amber Fleming-Shon, <span class="mobile-line-break"><br /></span>Standby Painter</h2>
@@ -231,15 +236,16 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2014/01/09/lone-survivor.html">
+                <a href="/content/2014/1/9/lone-survivor.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/lone-survivor.jpg" alt="Lone Survivor" alt="Stamp" />
+                    <img src="/img/article/thumb-300/lone-survivor.jpg" alt="Lone Survivor" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/01/09/lone-survivor.html">
+                <a href="/content/2014/1/9/lone-survivor.html">
                   <div class="review-text">
                     <h1>Lone Survivor</h1>
                     <h2 class="addressee">Dear Timothy C. Sullivan, <span class="mobile-line-break"><br /></span>Development Executive</h2>
@@ -250,15 +256,16 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2013/01/07/compliance.html">
+                <a href="/content/2013/1/7/compliance.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/compliance.jpg" alt="Compliance" alt="Stamp" />
+                    <img src="/img/article/thumb-300/compliance.jpg" alt="Compliance" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/01/07/compliance.html">
+                <a href="/content/2013/1/7/compliance.html">
                   <div class="review-text">
                     <h1>Compliance</h1>
                     <h2 class="addressee">Dear Rich Bologna, <span class="mobile-line-break"><br /></span>Supervising Sound Editor</h2>
@@ -269,6 +276,7 @@
           
           </div>
         </div>
+
       </section>
       <div class="comments-bg">
         <div class="comments">
@@ -290,7 +298,7 @@
         
         <a href="/content/2013/11/26/kill-your-darlings.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/kill-your-darlings.jpg" alt="Kill Your Darlings Image" />
+                    <img src="/img/article/thumb-300/kill-your-darlings.jpg" alt="Kill Your Darlings Image" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>

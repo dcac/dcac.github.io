@@ -26,7 +26,15 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
-      $('nav#menu-left').css({'display':'block'});
+      $("#nav-toggle").click(function(){
+        $('nav#menu-left').css({'display':'block'});
+        $('#nav-header').css({'display':'block'});
+      });
+      $("#mm-blocker").click(function() {
+        $("#my-menu").trigger("close.mm");
+        $('nav#menu-left').css({'display':'none'});
+        $('#nav-header').css({'display':'none'});
+      });
     });
 		</script>
 
@@ -99,7 +107,7 @@
               <li><a href="/reviews/">Reviews</a></li>
               <li><a href="/features/" class="slash">Features</a></li>
               <!-- <li><a href="/podcast/">Podcast</a></li> -->
-              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="/writers/" class="slash">Writers</a></li>
               <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
             </ul>
           </section>
@@ -120,7 +128,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -131,8 +139,8 @@
       
       <section id="hero-home">
         <div id="story-title" class="title-info">
-          <a href="/content/2014/07/25/lucy.html">
-            <div class="title-img" style="background-image:url(/img/article/lucy.jpg);"></div>
+          <a href="/content/2014/7/25/lucy.html">
+            <div class="title-img" style="background-image:url(/img/article/main/lucy.jpg);"></div>
             <div class="row collapse">
               <div class="large-4 medium-4 columns home-title-height">
                 <div class="hero-title-text">
@@ -176,15 +184,15 @@
            <div class="row">
           
              <div class="post-list-home large-6 medium-6 columns grow">
-              <a href="/content/2014/07/24/tammy.html">
+              <a href="/content/2014/7/24/tammy.html">
                   <div class="post-image-home">
-                    <img src="/img/article/thumb/tammy.jpg" alt="Tammy" />
+                    <img src="/img/article/thumb-300/tammy.jpg" alt="Tammy" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/07/24/tammy.html">
+                <a href="/content/2014/7/24/tammy.html">
                   <div class="review-text-home">
                     <h1>Tammy</h1>
                     <h2 class="addressee">Dear Linda D. Flowers, <span class="mobile-line-break"><br /></span>Hair Department Head</h2>
@@ -199,15 +207,15 @@
           
           
              <div class="post-list-home large-6 medium-6 columns grow">
-              <a href="/content/2014/07/24/supermensch.html">
+              <a href="/content/2014/7/24/supermensch.html">
                   <div class="post-image-home">
-                    <img src="/img/article/thumb/supermensch.jpg" alt="Supermensch" />
+                    <img src="/img/article/thumb-300/supermensch.jpg" alt="Supermensch" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/07/24/supermensch.html">
+                <a href="/content/2014/7/24/supermensch.html">
                   <div class="review-text-home">
                     <h1>Supermensch</h1>
                     <h2 class="addressee">Dear Derek Shook, <span class="mobile-line-break"><br /></span>Paparazzi</h2>
@@ -226,15 +234,15 @@
            <div class="row">
           
              <div class="post-list-home large-6 medium-6 columns grow">
-              <a href="/content/2014/07/23/wish-i-was-here.html">
+              <a href="/content/2014/7/23/wish-i-was-here.html">
                   <div class="post-image-home">
-                    <img src="/img/article/thumb/wish-i-was-here.jpg" alt="Wish I Was Here" />
+                    <img src="/img/article/thumb-300/wish-i-was-here.jpg" alt="Wish I Was Here" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/07/23/wish-i-was-here.html">
+                <a href="/content/2014/7/23/wish-i-was-here.html">
                   <div class="review-text-home">
                     <h1>Wish I Was Here</h1>
                     <h2 class="addressee">Dear Zach Braff, <span class="mobile-line-break"><br /></span>Writer / Director / Actor / Producer</h2>
@@ -249,15 +257,15 @@
           
           
              <div class="post-list-home large-6 medium-6 columns grow">
-              <a href="/content/2014/07/21/planes-fire-rescue.html">
+              <a href="/content/2014/7/21/planes-fire-rescue.html">
                   <div class="post-image-home">
-                    <img src="/img/article/thumb/planes-fire-and-rescue.jpg" alt="Planes: Fires & Rescue" />
+                    <img src="/img/article/thumb-300/planes-fire-and-rescue.jpg" alt="Planes: Fires & Rescue" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/07/21/planes-fire-rescue.html">
+                <a href="/content/2014/7/21/planes-fire-rescue.html">
                   <div class="review-text-home">
                     <h1>Planes: Fires & Rescue</h1>
                     <h2 class="addressee">Dear Amy Ross, <span class="mobile-line-break"><br /></span>Music Clearance</h2>
@@ -274,15 +282,15 @@
           
             <div class="row">
               <div class="large-6 medium-6 columns home-feature">  
-                <a href="/content/2014/07/15/the-case-against-andy-serkis.html">
+                <a href="/content/2014/7/15/the-case-against-andy-serkis.html">
                   <div class="post-image">
-                    <img src="/img/features/thumb/the-case-against-andy-serkis.jpg" alt=" Image" />
+                    <img src="/img/features/thumb-300/the-case-against-andy-serkis.jpg" alt=" Image" />
                     <div class="corner-stamp"></div>
                   </div>
                 </a>
               </div>
               <div class="large-6 medium-6 columns home-feature">
-                <a href="/content/2014/07/15/the-case-against-andy-serkis.html">
+                <a href="/content/2014/7/15/the-case-against-andy-serkis.html">
                   <div class="review-text">
                     <h1>The Case Against Andy Serkis</h1>
                     <h2 class="author">By Christopher Redmond</h2>
@@ -299,15 +307,15 @@
            <div class="row">
           
              <div class="post-list-home large-6 medium-6 columns">
-              <a href="/content/2014/07/18/sex-tape.html">
+              <a href="/content/2014/7/18/sex-tape.html">
                   <div class="post-image-home">
-                    <img src="/img/article/thumb/sex-tape.jpg" alt="Sex Tape" />
+                    <img src="/img/article/thumb-300/sex-tape.jpg" alt="Sex Tape" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/07/18/sex-tape.html">
+                <a href="/content/2014/7/18/sex-tape.html">
                   <div class="review-text-home">
                     <h1>Sex Tape</h1>
                     <h2 class="addressee">Dear Apple iPad, <span class="mobile-line-break"><br /></span>Co-star</h2>
@@ -322,15 +330,15 @@
           
           
              <div class="post-list-home large-6 medium-6 columns">
-              <a href="/content/2014/07/17/and-so-it-goes.html">
+              <a href="/content/2014/7/17/and-so-it-goes.html">
                   <div class="post-image-home">
-                    <img src="/img/article/thumb/and-so-it-goes.jpg" alt="And So it Goes" />
+                    <img src="/img/article/thumb-300/and-so-it-goes.jpg" alt="And So it Goes" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/07/17/and-so-it-goes.html">
+                <a href="/content/2014/7/17/and-so-it-goes.html">
                   <div class="review-text-home">
                     <h1>And So it Goes</h1>
                     <h2 class="addressee">Dear Grant Cramer, <span class="mobile-line-break"><br /></span>Executive Producer</h2>
@@ -349,15 +357,15 @@
            <div class="row">
           
              <div class="post-list-home large-6 medium-6 columns">
-              <a href="/content/2014/07/14/the-running-man.html">
+              <a href="/content/2014/7/14/the-running-man.html">
                   <div class="post-image-home">
-                    <img src="/img/article/thumb/the-running-man.jpg" alt="The Running Man" />
+                    <img src="/img/article/thumb-300/the-running-man.jpg" alt="The Running Man" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/07/14/the-running-man.html">
+                <a href="/content/2014/7/14/the-running-man.html">
                   <div class="review-text-home">
                     <h1>The Running Man</h1>
                     <h2 class="addressee">Dear Andrew Davis, <span class="mobile-line-break"><br /></span>Fired Director</h2>
@@ -372,15 +380,15 @@
           
           
              <div class="post-list-home large-6 medium-6 columns">
-              <a href="/content/2014/07/13/deliver-us-from-evil.html">
+              <a href="/content/2014/7/13/deliver-us-from-evil.html">
                   <div class="post-image-home">
-                    <img src="/img/article/thumb/deliver-us-from-evil.jpg" alt="Deliver Us From Evil" />
+                    <img src="/img/article/thumb-300/deliver-us-from-evil.jpg" alt="Deliver Us From Evil" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/07/13/deliver-us-from-evil.html">
+                <a href="/content/2014/7/13/deliver-us-from-evil.html">
                   <div class="review-text-home">
                     <h1>Deliver Us From Evil</h1>
                     <h2 class="addressee">Dear Amber Fleming-Shon, <span class="mobile-line-break"><br /></span>Standby Painter</h2>
@@ -408,35 +416,35 @@
                <!--    <h1 class="now-streaming-title">Now Streaming</h1> -->
                   <ul class="now-streaming-list">
                   
-                		<li class="now-streaming-title"><a href="/content/2014/07/25/lucy.html">Lucy <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red-half.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
+                		<li class="now-streaming-title"><a href="/content/2014/7/25/lucy.html">Lucy <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red-half.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
                     
-                		<li class="now-streaming-title"><a href="/content/2014/07/24/tammy.html">Tammy <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
+                		<li class="now-streaming-title"><a href="/content/2014/7/24/tammy.html">Tammy <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
                     
-                		<li class="now-streaming-title"><a href="/content/2014/07/24/supermensch.html">Supermensch <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
+                		<li class="now-streaming-title"><a href="/content/2014/7/24/supermensch.html">Supermensch <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
                     
-                		<li class="now-streaming-title"><a href="/content/2014/07/23/wish-i-was-here.html">Wish I Was Here <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red-half.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
+                		<li class="now-streaming-title"><a href="/content/2014/7/23/wish-i-was-here.html">Wish I Was Here <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red-half.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
                     
-                		<li class="now-streaming-title"><a href="/content/2014/07/21/planes-fire-rescue.html">Planes: Fires & Rescue <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red-half.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
+                		<li class="now-streaming-title"><a href="/content/2014/7/21/planes-fire-rescue.html">Planes: Fires & Rescue <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red-half.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
                     
-                		<li class="now-streaming-title"><a href="/content/2014/07/18/sex-tape.html">Sex Tape <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
+                		<li class="now-streaming-title"><a href="/content/2014/7/18/sex-tape.html">Sex Tape <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
                     
-                		<li class="now-streaming-title"><a href="/content/2014/07/17/and-so-it-goes.html">And So it Goes <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
+                		<li class="now-streaming-title"><a href="/content/2014/7/17/and-so-it-goes.html">And So it Goes <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
                     
-                		<li class="now-streaming-title"><a href="/content/2014/07/14/the-running-man.html">The Running Man <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
+                		<li class="now-streaming-title"><a href="/content/2014/7/14/the-running-man.html">The Running Man <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
                     
-                		<li class="now-streaming-title"><a href="/content/2014/07/13/deliver-us-from-evil.html">Deliver Us From Evil <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red-half.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
+                		<li class="now-streaming-title"><a href="/content/2014/7/13/deliver-us-from-evil.html">Deliver Us From Evil <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red-half.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
                     
-                		<li class="now-streaming-title"><a href="/content/2014/07/12/dawn-of-the-planet-of-the-apes.html">Dawn of the Planet of the Apes <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
+                		<li class="now-streaming-title"><a href="/content/2014/7/12/dawn-of-the-planet-of-the-apes.html">Dawn of the Planet of the Apes <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
                     
-                		<li class="now-streaming-title"><a href="/content/2014/07/12/life-itself.html">Life Itself <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red-half.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
+                		<li class="now-streaming-title"><a href="/content/2014/7/12/life-itself.html">Life Itself <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red-half.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
                     
-                		<li class="now-streaming-title"><a href="/content/2014/07/10/jodorowskys-dune.html">Jodorowsky's Dune <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
+                		<li class="now-streaming-title"><a href="/content/2014/7/10/jodorowskys-dune.html">Jodorowsky's Dune <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
                     
-                		<li class="now-streaming-title"><a href="/content/2014/07/09/the-internets-own-boy.html">The Internet's Own Boy <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
+                		<li class="now-streaming-title"><a href="/content/2014/7/9/the-internets-own-boy.html">The Internet's Own Boy <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
                     
-                		<li class="now-streaming-title"><a href="/content/2014/07/08/grace-of-monaco.html">Grace of Monaco <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
+                		<li class="now-streaming-title"><a href="/content/2014/7/8/grace-of-monaco.html">Grace of Monaco <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
                     
-                		<li class="now-streaming-title"><a href="/content/2014/07/07/banshee-chapter.html">Banshee Chapter <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
+                		<li class="now-streaming-title"><a href="/content/2014/7/7/banshee-chapter.html">Banshee Chapter <span class="star-rating"><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-red.svg" class="star-small" alt="" /><img src="/img/global/star-grey.svg" class="star-small" alt="" /></span></a></li>
                     
                   </ul>
                 </div>
@@ -455,15 +463,16 @@
             
             
              <div class="post large-4 medium-4 columns">
-              <a href="/content/2014/07/12/dawn-of-the-planet-of-the-apes.html">
+              <a href="/content/2014/7/12/dawn-of-the-planet-of-the-apes.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/dawn-of-the-planet-of-the-apes.jpg" alt="Dawn of the Planet of the Apes" alt="Stamp" />
+                    <img src="/img/article/thumb-300/dawn-of-the-planet-of-the-apes.jpg" alt="Dawn of the Planet of the Apes" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/07/12/dawn-of-the-planet-of-the-apes.html">
+                <a href="/content/2014/7/12/dawn-of-the-planet-of-the-apes.html">
                   <div class="review-text">
                     <h1>Dawn of the Planet of the Apes</h1>
                     <h2 class="addressee">Dear Charlton Heston, <span class="mobile-line-break"><br /></span>Actor and Former President of the NRA</h2>
@@ -474,15 +483,16 @@
           
             
              <div class="post large-4 medium-4 columns">
-              <a href="/content/2014/07/12/life-itself.html">
+              <a href="/content/2014/7/12/life-itself.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/life-itself.jpg" alt="Life Itself" alt="Stamp" />
+                    <img src="/img/article/thumb-300/life-itself.jpg" alt="Life Itself" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/07/12/life-itself.html">
+                <a href="/content/2014/7/12/life-itself.html">
                   <div class="review-text">
                     <h1>Life Itself</h1>
                     <h2 class="addressee">Dear Steve Stanton, <span class="mobile-line-break"><br /></span>Roger Ebert's Narrative Voice</h2>
@@ -493,15 +503,16 @@
           
             
              <div class="post large-4 medium-4 columns">
-              <a href="/content/2014/07/10/jodorowskys-dune.html">
+              <a href="/content/2014/7/10/jodorowskys-dune.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/jodorowskys-dune.jpg" alt="Jodorowsky's Dune" alt="Stamp" />
+                    <img src="/img/article/thumb-300/jodorowskys-dune.jpg" alt="Jodorowsky's Dune" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/07/10/jodorowskys-dune.html">
+                <a href="/content/2014/7/10/jodorowskys-dune.html">
                   <div class="review-text">
                     <h1>Jodorowsky's Dune</h1>
                     <h2 class="addressee">Dear Amanda Lear, <span class="mobile-line-break"><br /></span>Salvador Dali's Muse</h2>
@@ -512,15 +523,16 @@
           
             
              <div class="post large-4 medium-4 columns">
-              <a href="/content/2014/07/09/the-internets-own-boy.html">
+              <a href="/content/2014/7/9/the-internets-own-boy.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-internets-own-boy.jpg" alt="The Internet's Own Boy" alt="Stamp" />
+                    <img src="/img/article/thumb-300/the-internets-own-boy.jpg" alt="The Internet's Own Boy" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/07/09/the-internets-own-boy.html">
+                <a href="/content/2014/7/9/the-internets-own-boy.html">
                   <div class="review-text">
                     <h1>The Internet's Own Boy</h1>
                     <h2 class="addressee">Dear Tim Berners-Lee, <span class="mobile-line-break"><br /></span>Inventor of the World Wide Web</h2>
@@ -531,15 +543,16 @@
           
             
              <div class="post large-4 medium-4 columns">
-              <a href="/content/2014/07/08/grace-of-monaco.html">
+              <a href="/content/2014/7/8/grace-of-monaco.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/grace-of-monaco.jpg" alt="Grace of Monaco" alt="Stamp" />
+                    <img src="/img/article/thumb-300/grace-of-monaco.jpg" alt="Grace of Monaco" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/07/08/grace-of-monaco.html">
+                <a href="/content/2014/7/8/grace-of-monaco.html">
                   <div class="review-text">
                     <h1>Grace of Monaco</h1>
                     <h2 class="addressee">Dear Corinne Devaux, <span class="mobile-line-break"><br /></span>Etiquette Coach</h2>
@@ -550,15 +563,16 @@
           
             
              <div class="post large-4 medium-4 columns">
-              <a href="/content/2014/07/07/banshee-chapter.html">
+              <a href="/content/2014/7/7/banshee-chapter.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/banshee-chapter.jpg" alt="Banshee Chapter" alt="Stamp" />
+                    <img src="/img/article/thumb-300/banshee-chapter.jpg" alt="Banshee Chapter" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/07/07/banshee-chapter.html">
+                <a href="/content/2014/7/7/banshee-chapter.html">
                   <div class="review-text">
                     <h1>Banshee Chapter</h1>
                     <h2 class="addressee">Dear Brett Becker, <span class="mobile-line-break"><br /></span>Boom Operator</h2>

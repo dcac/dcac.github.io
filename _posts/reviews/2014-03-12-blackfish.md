@@ -11,7 +11,7 @@ addressee: James Earl Jones
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - netflix
 title: "Blackfish"
 comments: true
 tags: [blackfish, documentary, Letters, netflix]

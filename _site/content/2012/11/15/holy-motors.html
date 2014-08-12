@@ -26,7 +26,15 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
-      $('nav#menu-left').css({'display':'block'});
+      $("#nav-toggle").click(function(){
+        $('nav#menu-left').css({'display':'block'});
+        $('#nav-header').css({'display':'block'});
+      });
+      $("#mm-blocker").click(function() {
+        $("#my-menu").trigger("close.mm");
+        $('nav#menu-left').css({'display':'none'});
+        $('#nav-header').css({'display':'none'});
+      });
     });
 		</script>
 
@@ -99,7 +107,7 @@
               <li><a href="/reviews/">Reviews</a></li>
               <li><a href="/features/" class="slash">Features</a></li>
               <!-- <li><a href="/podcast/">Podcast</a></li> -->
-              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="/writers/" class="slash">Writers</a></li>
               <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
             </ul>
           </section>
@@ -120,7 +128,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -130,14 +138,14 @@
 
       <section>
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/holy-motors.jpg);" data-stellar-background-ratio=".25"></div>
+          <div class="title-img" style="background-image:url(/img/article/main/holy-motors.jpg);" data-stellar-background-ratio=".25"></div>
           <div class="row">
             <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
                 <div class="title-block">
                   <h1 class="hero">Holy Motors</h1>
                   <h2 class="hero-author">
-                    By Test Author
+                    By <a href="/writers/christopherr">Christopher Redmond</a>
                   </h2>
                   <h2 class="hero-date">
                     Mailed on November 15, 2012
@@ -173,17 +181,17 @@
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
             <p class="intro hide-for-small">Dear Mathilde Profit,</p>
-            <p class="intro">If there was ever a film that didn&rsquo;t require your services, <em>Holy Motors</em> might be it.</p>
+            <p class="intro">If there was ever a film that didn&#39;t require your services, <em>Holy Motors</em> might be it.</p>
 
-<p>Leos Carax has crafted a story that sidesteps logic at every turn to manufacture a transparent &ndash; but bizarrely absorbing &ndash; reality. We quickly abandon accusations of &ldquo;well, that doesn&rsquo;t make sense&rdquo; and surrender ourselves to the simple conceit: someone, somewhere within the film, is orchestrating the actions of the main character. Who it is doesn&rsquo;t really matter. Not when the circus is so engrossing.</p>
+<p>Leos Carax has crafted a story that sidesteps logic at every turn to manufacture a transparent - but bizarrely absorbing - reality. We quickly abandon accusations of &quot;well, that doesn&#39;t make sense&quot; and surrender ourselves to the simple conceit: someone, somewhere within the film, is orchestrating the actions of the main character. Who it is doesn&#39;t really matter. Not when the circus is so engrossing.</p>
 
-<p>The mysterious puppeteer&rsquo;s muse is played by Denis Lavant, a performance artist who is driven from one strange assignment to another. He goes by many names and many faces (enough to make even the actors in <em>Cloud Atlas</em> jealous), all in the service of a trying to create beauty in sex, violence, poverty, parenthood, or death. In the back of a limo, he prepares for each task with the silent dedication of an assassin. He treats the outside world as his stage, preferring to watch the passing landscape through a television feed rather than look directly out the window. His filtered reality is that strong&mdash;and it&rsquo;s one of the most consistent strengths of the film.</p>
+<p>The mysterious puppeteer&#39;s muse is played by Denis Lavant, a performance artist who is driven from one strange assignment to another. He goes by many names and many faces (enough to make even the actors in <em>Cloud Atlas</em> jealous), all in the service of a trying to create beauty in sex, violence, poverty, parenthood, or death. In the back of a limo, he prepares for each task with the silent dedication of an assassin. He treats the outside world as his stage, preferring to watch the passing landscape through a television feed rather than look directly out the window. His filtered reality is that strong--and it&#39;s one of the most consistent strengths of the film.</p>
 
-<p>At one point, the performance artist observes that cameras used to be bigger than he was, then they shrunk to become the size of his head, and now they&rsquo;re so small he can &lsquo;t even see them. We can assume, therefore, that when he&rsquo;s eating flowers, fingers, money, or hair (for example), someone is watching. Between getting shot and stabbed, he has quiet moments as a disappointed father and dying grandpa&mdash;even a few musical outbursts. This is a twisted tale that exists to be audacious. When he plays a naked Christ-figure in living tableau with the Virgin Mary (played by Eva Mendez), he does so with a full erection.</p>
+<p>At one point, the performance artist observes that cameras used to be bigger than he was, then they shrunk to become the size of his head, and now they&#39;re so small he can &#39;t even see them. We can assume, therefore, that when he&#39;s eating flowers, fingers, money, or hair (for example), someone is watching. Between getting shot and stabbed, he has quiet moments as a disappointed father and dying grandpa--even a few musical outbursts. This is a twisted tale that exists to be audacious. When he plays a naked Christ-figure in living tableau with the Virgin Mary (played by Eva Mendez), he does so with a full erection.</p>
 
-<p>Accepting the countless oddities that fill each frame is one thing, but the larger questions still remain. Does it all add up? Is the film more commentary than it is compelling? Do strong individual sequences (such as the acrobatic sexual acts in a green-screen room) say something about the nature of entertainment, or something about the characters themselves? The answers are as piecemeal as the film itself. The sequence with Kylie Minogue certainly does a lot to invest some much needed emotion to the mayhem&mdash;but it&rsquo;s nearly undermined by a comically nonsensical final shot that literally brings to life the film&rsquo;s title. Yet it all works. Somehow. And I&rsquo;m not sure how you pulled that off.</p>
+<p>Accepting the countless oddities that fill each frame is one thing, but the larger questions still remain. Does it all add up? Is the film more commentary than it is compelling? Do strong individual sequences (such as the acrobatic sexual acts in a green-screen room) say something about the nature of entertainment, or something about the characters themselves? The answers are as piecemeal as the film itself. The sequence with Kylie Minogue certainly does a lot to invest some much needed emotion to the mayhem--but it&#39;s nearly undermined by a comically nonsensical final shot that literally brings to life the film&#39;s title. Yet it all works. Somehow. And I&#39;m not sure how you pulled that off.</p>
 
-<p>Maybe in the end, your job was just to make sure people weren&rsquo;t sure exactly what&rsquo;s going on &ndash; to keep us guessing. That would make perfect sense, after all.</p>
+<p>Maybe in the end, your job was just to make sure people weren&#39;t sure exactly what&#39;s going on - to keep us guessing. That would make perfect sense, after all.</p>
 
 <p>Continuously yours,</p>
 
@@ -193,8 +201,8 @@
               
             <div class="signature clearfix">
               <p class="signature-signoff"><strong>Sincerely,</strong><br />
-              Test</p>
-              <img class="signature-img" src="/img/writers/" />
+              <img class="signature-img" src="/img/writers/christopherr-sig.png" /><br />
+              Christopher</p>
             </div>
               
             
@@ -211,8 +219,9 @@
               <div class="large-4 medium-4 columns main-link-small">
                 <a href="/content/2013/11/15/miracle.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/miracle.jpg" alt="Miracle" alt="Stamp" />
+                    <img src="/img/article/thumb-300/miracle.jpg" alt="Miracle" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -229,15 +238,16 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2012/12/04/the-strange-case-of-angelica.html">
+                <a href="/content/2012/12/4/the-strange-case-of-angelica.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-strange-case-of-angelica.jpg" alt="The Strange Case of Angelica" alt="Stamp" />
+                    <img src="/img/article/thumb-300/the-strange-case-of-angelica.jpg" alt="The Strange Case of Angelica" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2012/12/04/the-strange-case-of-angelica.html">
+                <a href="/content/2012/12/4/the-strange-case-of-angelica.html">
                   <div class="review-text">
                     <h1>The Strange Case of Angelica</h1>
                     <h2 class="addressee">Dear Manoel de Oliveira, <span class="mobile-line-break"><br /></span>Director</h2>
@@ -250,8 +260,9 @@
               <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/11/22/the-phantom-father.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-phantom-father.jpg" alt="The Phantom Father" alt="Stamp" />
+                    <img src="/img/article/thumb-300/the-phantom-father.jpg" alt="The Phantom Father" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -267,6 +278,7 @@
           
           </div>
         </div>
+
       </section>
       <div class="comments-bg">
         <div class="comments">
@@ -288,7 +300,7 @@
         
         <a href="/content/2012/11/15/holy-motors.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/holy-motors.jpg" alt="Holy Motors Image" />
+                    <img src="/img/article/thumb-300/holy-motors.jpg" alt="Holy Motors Image" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
@@ -298,7 +310,7 @@
                   <div class="review-text">
                     <h1>Holy Motors</h1>
                     <h2 class="addressee">Dear Mathilde Profit, Continuity</h2>
-                    <h2 class="author">By Test Author</h2>
+                    <h2 class="author">By Christopher Redmond</h2>
                   </div>
                 </a>
       </div>

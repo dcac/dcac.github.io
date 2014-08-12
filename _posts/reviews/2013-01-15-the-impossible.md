@@ -2,7 +2,7 @@
 published: true
 image: the-impossible.jpg
 imdb: tt1649419
-author: test 
+author: christopherr 
 stars: 4
 excerpt: "Not even you could have seen this coming. On December 26<sup>th</sup>, 2004, one of the deadliest natural disasters in history took near apocalyptic levels of life, claiming close to 240,000 souls. In dramatizing the phenomenon, you were responsible for recreating the raging waters of the Boxing Day tsunami that transfix us in <em>The Impossible&rsquo;s</em> cataclysmic event. And like those unsuspecting people watching the oncoming wave, I found myself unprepared to be so moved by what I saw."
 position: Water Supervisor

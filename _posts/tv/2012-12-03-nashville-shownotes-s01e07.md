@@ -3,18 +3,18 @@ published: true
 section: General
 image: 
 imdb: 
-author: test 
+author: christopherr 
 stars: 
 excerpt: 
 position: 
 addressee: 
 layout: review
-categories: reviews
+categories: tv
 title: "Nashville — Shownotes S01E07"
 comments: true
 tags: [Episode 7, Nashville, Season 1, Shownotes, Shownotes]
 ---
-<div><p><span class="full-image-block ssNonEditable"><a href="/letters/2012/12/3/nashville-shownotes-s01e07.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7754/1354559580063/Nashville%20S1E07.jpg" alt="" /></a></span></p>
+<div><p><span class="full-image-block ssNonEditable"><a href="/content/2012/12/3/nashville-shownotes-s01e07.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7754/1354559580063/Nashville%20S1E07.jpg" alt="" /></a></span></p>
 <p><span style="font-size:130%;"><strong><em>Dear Cast and Crew of Nashville,</em></strong><em> S1E07 &ndash; &ldquo;Lovesick Blues&rdquo;</em></span></p>
 <p><em>Episode synopsis:</em><br />Marshall pushes Rayna and Juliette to perform a duet. Meanwhile, Peggy&#8217;s behavior forces Teddy to be honest with Rayna; Scarlett tries to move on from Avery by bonding with Gunnar.</p>
 <p><em>Original air date:</em><br />November 28, 2012</p>

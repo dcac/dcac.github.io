@@ -11,7 +11,7 @@ addressee: Anthony Carone
 layout: review
 categories:
   - reviews
-  - streaming
+  - netflix
 title: "Act of Valor"
 comments: true
 streaming: true

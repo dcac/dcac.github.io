@@ -3,18 +3,18 @@ published: true
 section: General
 image: 
 imdb: 
-author: test 
+author: jaredy 
 stars: 
 excerpt: 
 position: 
 addressee: 
 layout: review
-categories: reviews
+categories: tv
 title: "Arrow — Shownotes S01E01"
 comments: true
 tags: [Arrow, comics, Shownotes]
 ---
-<div><p><span class="full-image-block ssNonEditable"><a href="/letters/2012/10/24/arrow-shownotes.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76df/1351103788048/arrow-s1e1.jpg" alt="" /></a></span></p>
+<div><p><span class="full-image-block ssNonEditable"><a href="/content/2012/10/24/arrow-shownotes.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76df/1351103788048/arrow-s1e1.jpg" alt="" /></a></span></p>
 <p><span style="font-size:120%;"><strong><em>Dear Cast and Crew of Arrow,</em></strong><em> S1E01 &ndash; &ldquo;Pilot&rdquo;</em><em>&nbsp;</em></span></p>
 <p><em>Original air date:</em> October 10, 2012</p>
 <p><em>Synopsis:<br /></em>In this episode, Jack wakes up on the beach after Oceanic Flight 815 crashes into a mysterious island that&hellip;no, wait. Sorry. In this episode, Oliver Queen returns to Starling City after being shipwrecked for five years. He uses his newfound survivalist skills to fight crime. With a bow and arrow. Obviously.</p>

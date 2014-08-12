@@ -11,8 +11,7 @@ addressee: Ethan Beigel
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
+  - netflix
 title: "The Raid: Redemption"
 comments: true
 tags: [streaming,action, martial arts, netflix.ca, Postcards, SXSW]

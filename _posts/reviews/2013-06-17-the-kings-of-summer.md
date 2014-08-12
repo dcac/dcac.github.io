@@ -9,7 +9,9 @@ excerpt: "Even if you end up having a long and illustrious career in Hollywood, 
 position: Production Designer
 addressee: Tyler B. Robinson
 layout: review
-categories: reviews
+categories:
+- reviews
+- netflix
 title: "The Kings of Summer"
 comments: true
 tags: [Letters, Nick Offerman, Nick Robinson, Sundance, The Kings of Summer]

@@ -5,7 +5,7 @@ layout: default
 {% assign author = site.data.authors[page.author] %}
       <section id="feature-hero">
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %});" data-stellar-background-ratio=".25"></div>
+          <div class="title-img" style="background-image:url(/img/features/main/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %});" data-stellar-background-ratio=".25"></div>
           <div class="row collapse">
             <div class="large-4 medium-4 columns feature-title-height">
               <div class="feature-title-text">
@@ -33,11 +33,7 @@ layout: default
 
       <section id="body-text">
         <div class="row">
-          <div class="large-4 medium-4 columns hide-for-small-only" id="film-row">
-            <div id="review-sidebar">
-              <div id="film-info" class="film-info">
-             </div>
-            </div>
+          <div class="large-2 medium-2 columns hide-for-small-only" id="film-row">
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
             <p class="intro hide-for-small">Dear {{ page.addressee }},</p>
@@ -45,27 +41,10 @@ layout: default
             {% include signature.html %}
             {% contentblock postscript %}
           </div>
-        </div>
-        <div id="up-next" class="up-next">
-          <div class="up-next-title">
-            <h1 class="up-next-header">Related Articles</h1>
-            <hr class="up-next-rule">
-          </div>
-          <div class="row">
-          {% for post in site.related_posts limit: 1 %}
-            {% assign author = site.data.authors[post.author] %}
-              <div class="large-4 medium-4 columns main-link-small">
-                {% include post-grid/post.html %}
-              </div>
-          {% endfor %}
-          {% for post in site.related_posts offset: 1 limit: 2 %}
-            {% assign author = site.data.authors[post.author] %}
-              <div class="large-4 medium-4 columns hide-for-small-only">
-                {% include post-grid/post.html %}
-              </div>
-          {% endfor %}
+          <div class="large-2 medium-2 columns hide-for-small-only" id="film-row">
           </div>
         </div>
+        {% include related-articles.html %}
       </section>
       {% include disqus.html %}
       <div class="post large-4 medium-4 columns" style="display:none;">

@@ -1,6 +1,6 @@
 <a href="{{ page.url }}">
                   <div class="post-image">
-                    <img src="/img/article/thumb/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}" alt="{{ page.title }} Image" />
+                    <img src="/img/article/thumb-300/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}" alt="{{ page.title }} Image" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating">{% for i in (1..page.stars) %}<img src="/img/global/star-blue.svg" class="star-small" alt="Star" />{% endfor %}{% assign half_star = page.stars | modulo:1 %}{% if half_star > 0 %}<img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" />{% endif %}{% assign empty_stars = 5 | minus: page.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" />{% endfor %}{% endif %}</div>
                   </div>

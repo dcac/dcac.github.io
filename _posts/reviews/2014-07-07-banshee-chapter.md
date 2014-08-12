@@ -26,9 +26,3 @@ Despite some awkward bits of dialogue - most notably the cutesy, slightly forced
 But it's easy to forgive a horror film's narrative shortcomings when it's actually able to, you know, _scare_ you. Far and away, _Banshee Chapter's_ greatest strength is the sound design that you and your boom mic contributed to. As far as the devices typically used to foreshadow the arrival of the Big Bad go, it's pretty hard to beat the numbers station: a ghostly radio frequency consisting of garbled music and a child's voice counting down in multiple languages. It's an incredibly effective way of letting us know that something awful is on the way. 
 
 Despite some hiccups, here's hoping the next indie horror project you work on (providing there is one, of course) ends up being just as strong as this.
-
-Sincerely,
-
-Kelan Young
-
-Status: Air Mail (4/5)

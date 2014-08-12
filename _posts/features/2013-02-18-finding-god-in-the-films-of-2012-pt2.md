@@ -2,13 +2,13 @@
 published: true
 section: General
 layout: feature
-image: 
+image: finding-god-in-the-films-of-2012-pt-2.jpg
 imdb: 
 author: christopherr
 stars: 
 excerpt: 
 position: 
-addressee: 
+addressee: Faithful Readers
 categories:
   - features
   - essays
@@ -20,7 +20,7 @@ _**This is Part 2 of 3 of the Essay "Finding God in the Films of 2012". **_
 
 _** **For Part 1, where we explain the inspiration our research, and discuss Les Miserbles and The Master, [**click here**][3].** **_
 
-   [3]: /letters/2013/2/18/finding-god-in-the-films-of-2012-pt-1.html
+   [3]: /content/2013/2/18/finding-god-in-the-films-of-2012-pt-1.html
 
 _**Part 2…  
 **_
@@ -42,9 +42,6 @@ In a time when real-life scientists are trying to unlock the "God particle", pro
 
 Or maybe mankind doesn't deserve to survive in the first place, if our planet's ambassadors are so damn inept.
 
-  
-
-
 **The Importance of Doubt** and _The Grey_
 
 ![][5]
@@ -61,8 +58,8 @@ If I sound snowblinded by what should be a straight-forward action adventure fil
 
 At this point, he essentially becomes Ottway the Exorcist, trying to save the souls of the other men "unfit for mankind." He's ultimately unsuccessful (after all, it's up to each man to save himself) and even the success of his own salvation is open to interpretation. This suggests, I suppose, it takes more than broken glass taped to your knuckles to face your fears and find God.
 
-**[<< ][6][RETURN to PART 1 of 3][6]         [CONTINUE to PART 3 of 3][7]**[ >>][7]  
+[**<< RETURN to PART 1 of 3**][6]         [**CONTINUE to PART 3 of 3>>**][7]  
 
 
-   [6]: /letters/2013/2/18/finding-god-in-the-films-of-2012-pt-1.html
-   [7]: /letters/2013/2/18/finding-god-in-the-films-of-2012-pt-3.html
+   [6]: /content/2013/2/18/finding-god-in-the-films-of-2012-pt-1.html
+   [7]: /content/2013/2/18/finding-god-in-the-films-of-2012-pt-3.html

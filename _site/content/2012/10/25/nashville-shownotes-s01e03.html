@@ -26,7 +26,15 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
-      $('nav#menu-left').css({'display':'block'});
+      $("#nav-toggle").click(function(){
+        $('nav#menu-left').css({'display':'block'});
+        $('#nav-header').css({'display':'block'});
+      });
+      $("#mm-blocker").click(function() {
+        $("#my-menu").trigger("close.mm");
+        $('nav#menu-left').css({'display':'none'});
+        $('#nav-header').css({'display':'none'});
+      });
     });
 		</script>
 
@@ -99,7 +107,7 @@
               <li><a href="/reviews/">Reviews</a></li>
               <li><a href="/features/" class="slash">Features</a></li>
               <!-- <li><a href="/podcast/">Podcast</a></li> -->
-              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="/writers/" class="slash">Writers</a></li>
               <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
             </ul>
           </section>
@@ -120,7 +128,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -130,14 +138,14 @@
 
       <section>
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/nashville--shownotes-s01e03.jpg);" data-stellar-background-ratio=".25"></div>
+          <div class="title-img" style="background-image:url(/img/article/main/nashville--shownotes-s01e03.jpg);" data-stellar-background-ratio=".25"></div>
           <div class="row">
             <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
                 <div class="title-block">
                   <h1 class="hero">Nashville — Shownotes S01E03</h1>
                   <h2 class="hero-author">
-                    By Test Author
+                    By <a href="/writers/christopherr">Christopher Redmond</a>
                   </h2>
                   <h2 class="hero-date">
                     Mailed on October 25, 2012
@@ -173,7 +181,7 @@
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
             <p class="intro hide-for-small">Dear ,</p>
-            <div><p class="intro"><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/10/25/nashville-shownotes-s01e03.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76e2/1351197796087/Nashville%20S01E03.jpg" alt="" /></a></span></span></p>
+            <div><p class="intro"><span class="full-image-block ssNonEditable"><span><a href="/content/2012/10/25/nashville-shownotes-s01e03.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76e2/1351197796087/Nashville%20S01E03.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><strong><em>Dear Cast and Crew of Nashville,</em></strong><em> S1E03 &ndash; &ldquo;Someday You&rsquo;ll Call My Name&rdquo;</em></span></p>
 <p><em>Episode synopsis:</em><br />Rayna discovers the depth of the financial problems she and Teddy face. Elsewhere, Juliette&#8217;s mom comes back into her life; Juliette tempts Deacon with a contract offer; and Scarlett and Gunnar&#8217;s shot at stardom is jeopardized.</p>
 <p><em>Original air date:</em><br />October 24, 2012</p>
@@ -206,8 +214,8 @@
               
             <div class="signature clearfix">
               <p class="signature-signoff"><strong>Sincerely,</strong><br />
-              Test</p>
-              <img class="signature-img" src="/img/writers/" />
+              <img class="signature-img" src="/img/writers/christopherr-sig.png" /><br />
+              Christopher</p>
             </div>
               
             
@@ -222,19 +230,19 @@
           
             
               <div class="large-4 medium-4 columns main-link-small">
-                <a href="/content/2012/12/03/nashville-shownotes-s01e07.html">
+                <a href="/content/2012/12/3/nashville-shownotes-s01e07.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/nashville--shownotes-s01e07.jpg" alt="Nashville — Shownotes S01E07" alt="Stamp" />
+                    <img src="/img/article/thumb-300/nashville--shownotes-s01e07.jpg" alt="Nashville — Shownotes S01E07" alt="Stamp" />
                     <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                    
                   </div>
                 </a>
                 
-                <a href="/content/2012/12/03/nashville-shownotes-s01e07.html">
+                <a href="/content/2012/12/3/nashville-shownotes-s01e07.html">
                   <div class="review-text">
                     <h1>Nashville — Shownotes S01E07</h1>
                     <h2 class="addressee">Dear , <span class="mobile-line-break"><br /></span></h2>
-                    <h2 class="author">By Test Author</h2>
+                    <h2 class="author">By Christopher Redmond</h2>
                   </div>
                 </a>
               </div>
@@ -242,19 +250,19 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2012/11/05/nashville-shownotes-s01e04.html">
+                <a href="/content/2012/11/5/nashville-shownotes-s01e04.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/nashville--shownotes-s01e04.jpg" alt="Nashville — Shownotes S01E04" alt="Stamp" />
+                    <img src="/img/article/thumb-300/nashville--shownotes-s01e04.jpg" alt="Nashville — Shownotes S01E04" alt="Stamp" />
                     <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                    
                   </div>
                 </a>
                 
-                <a href="/content/2012/11/05/nashville-shownotes-s01e04.html">
+                <a href="/content/2012/11/5/nashville-shownotes-s01e04.html">
                   <div class="review-text">
                     <h1>Nashville — Shownotes S01E04</h1>
                     <h2 class="addressee">Dear , <span class="mobile-line-break"><br /></span></h2>
-                    <h2 class="author">By Test Author</h2>
+                    <h2 class="author">By Christopher Redmond</h2>
                   </div>
                 </a>
               </div>
@@ -263,9 +271,9 @@
               <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/12/11/nashville-shownotes-s01e08-1.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/nashville--shownotes-s01e08.jpg" alt="Nashville — Shownotes S01E08" alt="Stamp" />
+                    <img src="/img/article/thumb-300/nashville--shownotes-s01e08.jpg" alt="Nashville — Shownotes S01E08" alt="Stamp" />
                     <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                    
                   </div>
                 </a>
                 
@@ -273,13 +281,14 @@
                   <div class="review-text">
                     <h1>Nashville — Shownotes S01E08</h1>
                     <h2 class="addressee">Dear , <span class="mobile-line-break"><br /></span></h2>
-                    <h2 class="author">By Test Author</h2>
+                    <h2 class="author">By Christopher Redmond</h2>
                   </div>
                 </a>
               </div>
           
           </div>
         </div>
+
       </section>
       <div class="comments-bg">
         <div class="comments">
@@ -301,7 +310,7 @@
         
         <a href="/content/2012/10/25/nashville-shownotes-s01e03.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/nashville--shownotes-s01e03.jpg" alt="Nashville — Shownotes S01E03 Image" />
+                    <img src="/img/article/thumb-300/nashville--shownotes-s01e03.jpg" alt="Nashville — Shownotes S01E03 Image" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
@@ -311,7 +320,7 @@
                   <div class="review-text">
                     <h1>Nashville — Shownotes S01E03</h1>
                     <h2 class="addressee">Dear , </h2>
-                    <h2 class="author">By Test Author</h2>
+                    <h2 class="author">By Christopher Redmond</h2>
                   </div>
                 </a>
       </div>

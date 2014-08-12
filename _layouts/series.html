@@ -6,7 +6,7 @@ css: article.css
        <section id="feature-hero">
         <div id="story-title" class="title-info">
           <a href="{{ post.url }}">
-            <div class="title-img" style="background-image:url(/img/features/series/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %});" data-stellar-background-ratio=".25" alt="Main Image"></div>
+            <div class="title-img" style="background-image:url(/img/features/main/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %});" data-stellar-background-ratio=".25" alt="Main Image"></div>
             <div class="row collapse">
               <div class="large-4 medium-4 columns feature-title-height">
                 <div class="feature-title-text">
@@ -40,9 +40,9 @@ css: article.css
         </div>
         <div class="row posts-grid" id="posts-grid">
     {% for post in site.categories['series'] %}
+          <div class=" section-post large-4 medium-4 small-6 columns left{% if forloop.last %} end{% endif %}">
     {% if post.series-name == page.series-name %}
     {% assign author = site.data.authors[post.author] %}
-          <div class="large-4 medium-4 small-6 columns{% if forloop.last %} end{% endif %} section-post">
             {% include post-grid/post.html %} 
           </div>
           {% endif %}

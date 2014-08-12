@@ -1,6 +1,6 @@
 ---
 published: true
-image: identify-thief.jpg
+image: identity-thief.jpg
 imdb: tt2024432
 author: jaredy
 stars: 2

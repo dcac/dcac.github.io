@@ -34,7 +34,3 @@ I'm not sure where you wade in on their controversy, but you never wrote anythin
    [4]: https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt
 
 Still, your sympathies obviously lie with Swartz and his family, and you do come across like a surrogate father to this lost son of the Information Age. So thank you for your kind contributions - to the film, and the Whole Wide World.
-
-Sincerely, 
-
-Christopher 

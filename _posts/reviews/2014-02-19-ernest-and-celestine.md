@@ -9,7 +9,9 @@ excerpt:
 position: Production Designers
 addressee: Zaza and Zyk
 layout: review
-categories: [reviews,current-releases]
+categories:
+- reviews
+- netflix
 title: "Ernest and Celestine"
 comments: true
 tags: [Animation, Letters, oscars, Oscars 2014]

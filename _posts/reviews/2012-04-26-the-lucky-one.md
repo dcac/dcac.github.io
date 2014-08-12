@@ -11,8 +11,7 @@ addressee: James D. Dever
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
+  - netflix
 title: "The Lucky One"
 comments: true
 tags: [James Dever, Louisiana, marines, Nicholas Sparks, romance, Scott Hicks, The Lucky One, Uncategorized, Zac Efron]

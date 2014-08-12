@@ -11,8 +11,7 @@ addressee: Marvin Williams
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
+  - netflix
 title: "Battleship"
 comments: true
 tags: [action, battleship, Letters, negative]

@@ -3,18 +3,18 @@ published: true
 section: General
 image: 
 imdb: 
-author: test 
+author: christopherr 
 stars: 
 excerpt: 
 position: 
 addressee: 
 layout: review
-categories: reviews
+categories: tv
 title: "Nashville — Shownotes S01E01"
 comments: true
 tags: [Charles Esten, Clare Bowen, Connie Britton, Eric Close, Hayden Panettiere, Jonathan Jackson, Nashville, Robert Wisdom, Sam Palladio, Shownotes, T Bone Burnett, TV, Uncategorized]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/10/11/nashville-shownotes-s01e01.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76c6/1349963265907/Nashville1.jpg" alt="" /></a></span></span></p>
+<div><p><span class="full-image-block ssNonEditable"><span><a href="/content/2012/10/11/nashville-shownotes-s01e01.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76c6/1349963265907/Nashville1.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><strong><em>Dear Cast and Crew of Nashville,</em></strong><em> S01E01 &ndash; &ldquo;Pilot&rdquo;</em></span></p>
 <p><em>Original air date:</em><br />October 10, 2012</p>
 <p><em>Episode synopsis:</em><br />Fading country superstar Rayna James is forced to team up with teen sensation Juliette Barnes or face the loss of her tour and promotion of her latest records. Rayna&#8217;s father, Lamar, disregards her wishes when he backs her husband in a run for mayor of Nashville.</p>

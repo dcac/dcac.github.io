@@ -25,12 +25,12 @@ Since this film is "inspired by true accounts",there was probably a painter, onc
 
 Actually, don't answer that. The less I know, the better. Which is the same philosophy I always take with me to the movies. In this case, I only knew about the headliners: Eric Bana in the lead and Édgar Ramirez as an "undercover" Jesuit priest. Ramirez has a lot of goodwill with me after his hypnotizing performance in _Carlos_, and I still find Bana appealing as an actor (even in his [less impressive][1] work). The biggest surprise here was seeing _Community_'s Jeff Winger, a.k.a. Joel McHale, as Bana's adrenaline junkie partner. He seems like the most obvious "creative flourish" to this apparently true story, and a rather cliched addition to the film's canvas, especially with the very literal homage to _Se7en_, with each deadly sin tattooed on his neck.
 
-   [1]: /letters/2013/8/30/closed-circuit.html
+   [1]: /content/2013/8/30/closed-circuit.html
 
 Though director Scott Derrickson, who most recently helmed [_Sinister_][2] and wrote [_Devil's Knot_][3], is less interested in doing something new than doing something well. I can't fault him for that. This film does have a wonderful sense of self and scale (with all those beautiful establishing shots of New York). Beautiful, too, is the rich black cinematography and creative set design. 
 
-   [2]: /letters/2012/10/17/sinister.html
-   [3]: /letters/2014/5/19/devils-knot.html
+   [2]: /content/2012/10/17/sinister.html
+   [3]: /content/2014/5/19/devils-knot.html
 
 The grungy rooms you had to paint and re-paint give the proper sense of lived-in verisimilitude. The attention to detail is extremely useful until the third act, which is essentially one long by-the-book exorcism. At that point, all the subtlety you and the rest of the filmmakers (literally) goes flying out the window.
 

@@ -9,7 +9,9 @@ excerpt: "Biking Lifestyle Consultant seems a nebulous yet professional sounding
 position: Biking Lifestyle Consultant
 addressee: Kelsey Wood
 layout: review
-categories: reviews
+categories:
+- reviews
+- netflix
 title: "Touchy Feely"
 date: 2014-04-15 16:01
 comments: true

@@ -34,7 +34,3 @@ When Julia Roberts (the eldest daughter) and her family first arrive at the Okla
 When Streep, delirious from painkillers, dances to Eric Clapton's "Lay Down Sally", the absurdity of her wild movements is subverted when the song slowly drops from the soundtrack, and, in the same way that laughing and crying are often indistinguishable, we suddenly can't tell if she's celebrating or grieving.
 
 The sound design is perfect, and so is the mix. A story like this, which relies so heavily on machine gun exchanges of dialogue - and, just as vitally, on the beats of stunned silence between - is all about tempo, and the care that was put into the way the voices, music, sound beds, and foley effects work together is indicative a movie that aspired to be something more than merely a filmed play. Despite its lofty, prize-winning origins (and the expectations that come with it), _August: Osage County_ is, through and through, a motion picture, and there wasn't a better one released this year.
-
-Sincerely,
-
-Jared Young

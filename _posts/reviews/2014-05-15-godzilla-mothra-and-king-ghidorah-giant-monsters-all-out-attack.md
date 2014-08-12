@@ -1,7 +1,7 @@
 ---
 published: true
 section: General
-image: godzilla-mothra-and-king-ghidorah-giant-monsters-all-out-attack.jpg
+image: giant-monsters-all-out-attack.jpg
 imdb: tt0279112
 author: kelany
 stars: 4
@@ -9,7 +9,10 @@ excerpt: "We get nearly an hour into Godzilla, Mothra and King Ghidorah: Giant M
 position: Suit Builder
 addressee: Takuya Yamabe
 layout: review
-categories: reviews
+categories: 
+ - reviews
+ - series
+series-name: Godzilla Week
 title: "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack"
 date: 2014-05-15 16:01
 comments: true

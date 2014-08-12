@@ -9,9 +9,8 @@ position: Screenwriter
 addressee: Dear Peter Straughan
 layout: review
 categories:
-  - reviews
-  - streaming
-  - on-video
+- reviews
+- netflix
 title: "Tinker Tailor Soldier Spy"
 comments: true
 streaming: true

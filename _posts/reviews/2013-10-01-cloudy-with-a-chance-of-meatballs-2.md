@@ -1,7 +1,7 @@
 ---
 published: true
 section: General
-image: cloudy-with-a-chance-of-meatballs.jpg
+image: cloudy-with-a-chance-of-meatballs-2.jpg
 imdb: tt1985966
 author: caseyt
 stars: 2

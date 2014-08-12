@@ -10,9 +10,8 @@ position: Composer
 addressee: James Horner
 layout: review
 categories:
-  - reviews
-  - streaming
-  - on-video
+- reviews
+- netflix
 title: "The Amazing Spider-Man"
 comments: true
 tags: [action, Amazing Spider-Man, Andrew Garfield, comics, Emma Stone, Letters, Marc Webb, Sam Raimi]

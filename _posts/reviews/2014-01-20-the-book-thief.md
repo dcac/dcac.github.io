@@ -9,7 +9,9 @@ excerpt:
 position: Snow Effects Supervisor
 addressee: Lucien Stephenson
 layout: review
-categories: reviews
+categories:
+- reviews
+- netflix
 title: "The Book Thief"
 comments: true
 tags: [adaptation, book, Letters, nazis, novel, Oscars 2014, The book thief, world war 2, wwII]

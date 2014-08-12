@@ -3,7 +3,7 @@ published: true
 section: General
 imdb: tt1568921
 image: the-secret-world-of-arrietty.jpg
-author: test 
+author: caseyt 
 stars: 4.5
 excerpt: "Hey James, I just wanted to let you know how happy I am that the tinnitus you suffered mixing <em>Clash of the Titans</em> was not permanent. I knew your recovery from that cacophonous mess was complete listening to the quiet, almost reflective soundscape of <em>The Secret World of Arrietty</em>."
 position: Assistant Sound Re-Recording Mixer
@@ -11,8 +11,6 @@ addressee: James Glenton
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
 title: "The Secret World of Arrietty"
 comments: true
 tags: [streaming,Hayao Miyazaki, Postcards]

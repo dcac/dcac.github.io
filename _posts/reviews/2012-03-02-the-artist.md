@@ -10,8 +10,8 @@ position: Boom Operator
 addressee: Valeria Ghiran
 layout: review
 categories:
-  - reviews
-  - on-video
+- reviews
+- netflix
 title: "The Artist"
 comments: true
 streaming: true
@@ -31,6 +31,8 @@ Maybe you can help me understand one part that bothered me. I don't know how the
 
 Imagine - you've finally worked on something that your sweetheart mother, pretentious father, colour blind brother and deaf Grandma all equally enjoy. Take some credit Val, and don't be so offended by all the praise for this brilliant and unlikely "silent" hit. That scene, with the sound - you nailed it. The audience at my screening was so quiet you could hear a cup drop. So stop being so damn modest in all your interviews. You made a point in that negative space - just like the arrow in the FedEx logo. To me, your contribution was loud and clear.
 
+{% contentfor signature %}
 Somewhat sincerely, 
 
 Christopher
+{% endcontentfor %}

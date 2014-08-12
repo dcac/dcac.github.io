@@ -3,18 +3,18 @@ published: true
 section: General
 image: 
 imdb: 
-author: test 
+author: christopherr 
 stars: 
 excerpt: 
 position: 
 addressee: 
 layout: review
-categories: reviews
+categories: tv
 title: "Nashville — Shownotes S01E06"
 comments: true
 tags: [ABC, Episode 6, Nashville, Review, Shownotes]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/11/19/nashville-shownotes-s01e06.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7723/1353361777257/Nashville%20S1E06.jpg" alt="" /></a></span></span></p>
+<div><p><span class="full-image-block ssNonEditable"><span><a href="/content/2012/11/19/nashville-shownotes-s01e06.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf7723/1353361777257/Nashville%20S1E06.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><strong><em>Dear Cast and Crew of Nashville,</em></strong><em> S1E06 &ndash; &ldquo;You&rsquo;re Gonna Change (Or I&rsquo;m Gonna Leave)&rdquo;</em></span></p>
 <p><em>Episode synopsis:</em><br />Rayna seeks the help of a music producer to change her sound, Juliette goes on a date with an NFL player in an attempt to repair her image, and Lamar&#8217;s plan to delay Coleman&#8217;s arrival at a photo op works too well.</p>
 <p><em>Original air date:</em><br />November 14, 2012</p>

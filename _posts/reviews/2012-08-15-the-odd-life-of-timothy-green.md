@@ -11,8 +11,6 @@ addressee: Chris Hunter
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
 title: "The Odd Life of Timothy Green"
 comments: true
 tags: [Chris Hunter, Disney, Family, Jennifer Garner, Joel Edgerton, Stroryboard, Timothy Green, Uncategorized]

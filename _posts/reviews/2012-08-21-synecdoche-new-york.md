@@ -11,8 +11,6 @@ addressee: Karl Sison
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
 title: "Synecdoche, New York"
 comments: true
 tags: [Arthouse, Charlie Kauffman, Philip Seymour Hoffman, Uncategorized]

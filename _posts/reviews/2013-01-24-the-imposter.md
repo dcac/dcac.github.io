@@ -8,7 +8,9 @@ excerpt: "Congratulations. You had me fooled.&nbsp; I&rsquo;m not exactly sure w
 position: Actor
 addressee: Adam O'Brian
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - netflix
 title: "The Imposter"
 comments: true
 tags: [Adam O'Brian, Bart Layton, decption, documentary, fake, Letters, narrator, netflix.ca, unreliable]

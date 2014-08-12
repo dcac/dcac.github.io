@@ -26,7 +26,15 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
-      $('nav#menu-left').css({'display':'block'});
+      $("#nav-toggle").click(function(){
+        $('nav#menu-left').css({'display':'block'});
+        $('#nav-header').css({'display':'block'});
+      });
+      $("#mm-blocker").click(function() {
+        $("#my-menu").trigger("close.mm");
+        $('nav#menu-left').css({'display':'none'});
+        $('#nav-header').css({'display':'none'});
+      });
     });
 		</script>
 
@@ -99,7 +107,7 @@
               <li><a href="/reviews/">Reviews</a></li>
               <li><a href="/features/" class="slash">Features</a></li>
               <!-- <li><a href="/podcast/">Podcast</a></li> -->
-              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="/writers/" class="slash">Writers</a></li>
               <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
             </ul>
           </section>
@@ -120,7 +128,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -130,7 +138,7 @@
 
       <section id="feature-hero">
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/five-reasons-skyfall-fell-flat.jpg);" data-stellar-background-ratio=".25"></div>
+          <div class="title-img" style="background-image:url(/img/features/main/five-reasons-skyfall-fell-flat.jpg);" data-stellar-background-ratio=".25"></div>
           <div class="row collapse">
             <div class="large-4 medium-4 columns feature-title-height">
               <div class="feature-title-text">
@@ -158,15 +166,11 @@
 
       <section id="body-text">
         <div class="row">
-          <div class="large-4 medium-4 columns hide-for-small-only" id="film-row">
-            <div id="review-sidebar">
-              <div id="film-info" class="film-info">
-             </div>
-            </div>
+          <div class="large-2 medium-2 columns hide-for-small-only" id="film-row">
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
             <p class="intro hide-for-small">Dear James Bond Fans,</p>
-            <p class="intro">If you haven&#39;t seen the new James Bond film <em>Skyfall _yet, do it. There&#39;s <a href="/letters/2012/11/9/skyfall.html">plenty to love</a> in this 23rd official installment of the series. The following, however, is a SPOILER-filled analysis of the final act to discuss why some of us at _Dear Cast and Crew</em> thought the ending didn&#39;t work.</p>
+            <p class="intro">If you haven&#39;t seen the new James Bond film <em>Skyfall _yet, do it. There&#39;s <a href="/content/2012/11/9/skyfall.html">plenty to love</a> in this 23rd official installment of the series. The following, however, is a SPOILER-filled analysis of the final act to discuss why some of us at _Dear Cast and Crew</em> thought the ending didn&#39;t work.</p>
 
 <p><strong>1. The film opens too big.</strong><br>
 <em>Skyfall</em>, like many Bond films, begins with a spectacular action sequence. This is important, not just to satisfy the demands of the franchise, but because it calibrates audience expectations. The director, Sam Mendes, is smart enough to establish important thematics as well as scale. The first shot tells us it&#39;s a story about Bond being a few steps behind others and in the dark. We then learn, twice, that M is willing to sacrifice MI6 agents without hesitation to complete a mission. And as Bond suffers from a surely fatal gunshot wound, falls from a surely fatal height, and lands in a surely fatal rapid-filled river, we&#39;re reminded that he may be mortal.  But each of these points end up being undermined by the end of the film. Not to mention, the rest of the film never lives up to these early action sequences. The film didn&#39;t need more gadgets (even if a fingerprint-activated gun and same &quot;gotchya!&quot; moment was in <em>Licence to Kill</em>) or even a bigger set piece for the climax, but we do need to feel like more is at stake.</p>
@@ -195,11 +199,13 @@ By the end of the film, we have a new M, a new Q, a new Miss Moneypenny and a fi
               
             <div class="signature clearfix">
               <p class="signature-signoff"><strong>Sincerely,</strong><br />
+              <img class="signature-img" src="/img/writers/" /><br />
               </p>
-              <img class="signature-img" src="/img/writers/" />
             </div>
               
             
+          </div>
+          <div class="large-2 medium-2 columns hide-for-small-only" id="film-row">
           </div>
         </div>
         <div id="up-next" class="up-next">
@@ -211,15 +217,16 @@ By the end of the film, we have a new M, a new Q, a new Miss Moneypenny and a fi
           
             
               <div class="large-4 medium-4 columns main-link-small">
-                <a href="/content/2012/11/09/skyfall.html">
+                <a href="/content/2012/11/9/skyfall.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/skyfall.jpg" alt="Skyfall" alt="Stamp" />
+                    <img src="/img/article/thumb-300/skyfall.jpg" alt="Skyfall" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2012/11/09/skyfall.html">
+                <a href="/content/2012/11/9/skyfall.html">
                   <div class="review-text">
                     <h1>Skyfall</h1>
                     <h2 class="addressee">Dear Joss Skottowe, <span class="mobile-line-break"><br /></span>Supervising Armourer</h2>
@@ -231,15 +238,15 @@ By the end of the film, we have a new M, a new Q, a new Miss Moneypenny and a fi
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2013/02/18/finding-god-in-the-films-of-2012-pt-1.html">
+                <a href="/content/2013/2/18/finding-god-in-the-films-of-2012-pt-1.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/finding-god-in-the-films-of-2012---pt-1.jpg" alt="Finding God in the Films of 2012 - Pt. 1" alt="Stamp" />
+                    <img src="/img/features/thumb-300/finding-god-in-the-films-of-2012-pt-1.jpg" alt="Finding God in the Films of 2012 - Pt. 1" alt="Stamp" />
                     <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                    
                   </div>
                 </a>
                 
-                <a href="/content/2013/02/18/finding-god-in-the-films-of-2012-pt-1.html">
+                <a href="/content/2013/2/18/finding-god-in-the-films-of-2012-pt-1.html">
                   <div class="review-text">
                     <h1>Finding God in the Films of 2012 - Pt. 1</h1>
                     <h2 class="addressee">Dear Faithful Readers, <span class="mobile-line-break"><br /></span></h2>
@@ -250,15 +257,15 @@ By the end of the film, we have a new M, a new Q, a new Miss Moneypenny and a fi
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2013/02/18/finding-god-in-the-films-of-2012-pt-3.html">
+                <a href="/content/2013/2/18/finding-god-in-the-films-of-2012-pt-3.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/finding-god-in-the-fllms-of-2012---pt-3.jpg" alt="Finding God in the Fllms of 2012 - Pt. 3" alt="Stamp" />
+                    <img src="/img/features/thumb-300/finding-god-in-the-films-of-2012-pt-3.jpg" alt="Finding God in the Fllms of 2012 - Pt. 3" alt="Stamp" />
                     <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                    
                   </div>
                 </a>
                 
-                <a href="/content/2013/02/18/finding-god-in-the-films-of-2012-pt-3.html">
+                <a href="/content/2013/2/18/finding-god-in-the-films-of-2012-pt-3.html">
                   <div class="review-text">
                     <h1>Finding God in the Fllms of 2012 - Pt. 3</h1>
                     <h2 class="addressee">Dear Faithful Readers, <span class="mobile-line-break"><br /></span></h2>
@@ -269,6 +276,7 @@ By the end of the film, we have a new M, a new Q, a new Miss Moneypenny and a fi
           
           </div>
         </div>
+
       </section>
       <div class="comments-bg">
         <div class="comments">
@@ -290,7 +298,7 @@ By the end of the film, we have a new M, a new Q, a new Miss Moneypenny and a fi
         
         <a href="/content/2012/11/17/five-reasons-skyfall-fell-flat.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/five-reasons-skyfall-fell-flat.jpg" alt="Five Reasons Skyfall Fell Flat Image" />
+                    <img src="/img/article/thumb-300/five-reasons-skyfall-fell-flat.jpg" alt="Five Reasons Skyfall Fell Flat Image" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>

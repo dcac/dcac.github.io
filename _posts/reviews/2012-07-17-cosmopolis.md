@@ -11,8 +11,6 @@ addressee: Archie Rodrigues
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
 title: "Cosmopolis"
 comments: true
 tags: [Breaking Dawn, Canadian, Cannes, Cosmopolis, Cronenberg, David, Robert Pattinson, Twilight, Uncategorized]

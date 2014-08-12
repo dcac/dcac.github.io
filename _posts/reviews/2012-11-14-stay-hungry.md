@@ -9,12 +9,15 @@ excerpt: "Arnold dials it back and for a role that's not only a good fit, but al
 position: Actor
 addressee: Arnold Schwarzenegger
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - series
+series-name: schwarzenegger
 title: "Stay Hungry"
 comments: true
 tags: [arnold schwarzenegger, bob rafelson, body-building, cinema, drama, Early Arnold, Jeff Bridges, Letters, sally field, seventies]
 ---
-<p>So here we are, seven years after the release of <em>Hercules in New York.</em> It looks like the, shall we say, <a href="/letters/2012/11/6/hercules-in-new-york.html">&ldquo;interesting&rdquo; way that film turned</a> out forced you to rethink your Hollywood career trajectory. Instead of rushing headlong into leading roles, it seems you dialed it back and looked for roles that were not only a good fit, but also provided the opportunity to work with some big name directors. Roles that required more than just your Mr. Universe credentials.</p>
+<p>So here we are, seven years after the release of <em>Hercules in New York.</em> It looks like the, shall we say, <a href="/content/2012/11/6/hercules-in-new-york.html">&ldquo;interesting&rdquo; way that film turned</a> out forced you to rethink your Hollywood career trajectory. Instead of rushing headlong into leading roles, it seems you dialed it back and looked for roles that were not only a good fit, but also provided the opportunity to work with some big name directors. Roles that required more than just your Mr. Universe credentials.</p>
 <p>First, and maybe due to your experience being overdubbed in <em>Hercules, </em>you took a very minor and speechless part in Robert Altman&rsquo;s classic neo-noir <em>The Long Goodbye</em>. Sure, the uncredited role of &ldquo;Hood in Augustine&#8217;s Office&rdquo; probably didn&rsquo;t turn any casting agent heads, but working with the hot, post-<em>MASH,</em> post-<em>McCabe &amp; Mrs. Miller</em> Altman must have been its own reward. This was the 70s, after all, and directors were Hollywood&rsquo;s new stars. If nothing else, it had to have been a master class on the new way to make films.</p>
 <p>After that, we come to <em>Stay Hungry.</em></p>
 <p>Working with Bob Rafelson must have been a similar no-brainer. And you even got a speaking role to boot&mdash;the first in your own voice. Best known for the classic <em>Five Easy Pieces</em>, Rafelson was another director with a knack for showcasing actors in his decidedly character-driven stories.&nbsp;</p>

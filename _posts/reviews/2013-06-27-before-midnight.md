@@ -8,7 +8,9 @@ excerpt: "Was it hurtful when your parents put you forward for the role of Damie
 position: Actor
 addressee: Seamus Davey-Fitzpatrick
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - netflix
 title: "Before Midnight"
 comments: true
 tags: [Before Midnight, Ethan Hawke, Julie Delpy, Letters, Oscars 2014, Richard Linklater, Sequel]

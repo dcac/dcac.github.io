@@ -3,18 +3,18 @@ published: true
 section: General
 image: 
 imdb: 
-author: test 
+author: christopherr 
 stars: 
 excerpt: 
 position: 
 addressee: 
 layout: review
-categories: reviews
+categories: tv
 title: "Nashville — Shownotes S01E04"
 comments: true
 tags: [Episode 4, Nashville, Review, Season 1, Shownotes]
 ---
-<div><p><em><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/11/5/nashville-shownotes-s01e04.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76ef/1352149540157/Nashville%20S1E04.jpg" alt="" /></a></span></span></em></p>
+<div><p><em><span class="full-image-block ssNonEditable"><span><a href="/content/2012/11/5/nashville-shownotes-s01e04.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76ef/1352149540157/Nashville%20S1E04.jpg" alt="" /></a></span></span></em></p>
 <p><em><span style="font-size:130%;"><strong>Dear Cast and Crew of Nashville,</strong> S1E04 &ndash; &ldquo;We Live in Two Different Worlds&rdquo;</span></em></p>
 <p><em>Episode synopsis:</em><br />The arrival of a woman from Teddy&#8217;s past tests his marriage; Rayna and Deacon perform at Teddy&#8217;s fundraiser; Juliette appears on &#8220;Good Morning America;&#8221; and Gunnar connects with his publisher&#8217;s assistant.</p>
 <p><em>Original air date:</em><br />October 31, 2012</p>

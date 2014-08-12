@@ -11,7 +11,7 @@ addressee: "Helen Hunt's Breasts"
 layout: review
 categories: 
   - reviews
-  - streaming
+  - netflix
 title: "The Sessions"
 comments: true
 tags: [boobs, Breasts, Breathing Lessons, Helen Hunts, John Hawkes, Letters, naked, nipple, nude, Oscar, The Sessions, tits]

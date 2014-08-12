@@ -23,8 +23,4 @@ And because we're so invested in their lives, the film's transition into the ove
 
 But it's not just two protagonists you've so cleverly crafted. The supporting characters are just as strong, from the twitchy drug addicts who constantly seem seconds away from committing a terrible act of violence, to the reclusive French student who lends possible insight into the nature of the friends' predicament, to the stoic owner of the house Cilella has been unknowingly squatting in. They all captivate.  I'll be perfectly honest: the first time watching I wasn't sure how necessary these people were to the forward movement of the plot; it's impressive that, instead of simply being filler, you're able to make them essential to the resolution of the story.
 
-I really admire your determination to avoid giving the audience an easy ending--or, for that matter, conveniently explaining what the entire movie was about. It may be polarizing for many people, to be sure, but it works.  Personally, the ending is a _wee_ bit too abrupt for my liking, but days later I still couldn't stop thinking about it.  And when so many genre pictures these days are of the in-one-ear-out-the-other variety, that's about the highest compliment I can give.    
-  
-Sincerely,  
-  
-Kelan Young
+I really admire your determination to avoid giving the audience an easy ending--or, for that matter, conveniently explaining what the entire movie was about. It may be polarizing for many people, to be sure, but it works.  Personally, the ending is a _wee_ bit too abrupt for my liking, but days later I still couldn't stop thinking about it.  And when so many genre pictures these days are of the in-one-ear-out-the-other variety, that's about the highest compliment I can give.

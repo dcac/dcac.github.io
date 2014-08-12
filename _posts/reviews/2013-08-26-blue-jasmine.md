@@ -8,7 +8,9 @@ excerpt: "You&#8217;re probably feeling a little maligned by now. A little brush
 position: Actress
 addressee: Sally Hawkins
 layout: review
-categories: reviews
+categories:
+- reviews
+- netflix
 title: "Blue Jasmine"
 comments: true
 tags: [Blue Jasmine, comedy, drama, Letters, Oscars 2014, Woody Allen]

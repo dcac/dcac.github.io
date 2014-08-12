@@ -9,7 +9,9 @@ excerpt:
 position: Artist
 addressee: Noriko Shinohara
 layout: review
-categories: [reviews,current-releases]
+categories:
+- reviews
+- netflix
 title: "Cutie and the Boxer"
 comments: true
 tags: [artist, biography, biopic, documentary, Letters, Oscars 2014]

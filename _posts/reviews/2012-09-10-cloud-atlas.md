@@ -11,8 +11,6 @@ addressee: Glynn Henderson
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
 title: "TIFF: Cloud Atlas"
 comments: true
 tags: [Cloud Atlas, fantasy, Halle Berry, Hugh Grant, Jim Broadbent, Premiere, Reviews, sci-fi, Susan Sarandon, TIFF, Tom Hanks, Uncategorized, Wachowskis]

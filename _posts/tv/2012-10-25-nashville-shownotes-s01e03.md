@@ -3,18 +3,18 @@ published: true
 section: General
 image: 
 imdb: 
-author: test 
+author: christopherr 
 stars: 
 excerpt: 
 position: 
 addressee: 
 layout: review
-categories: reviews
+categories: tv
 title: "Nashville — Shownotes S01E03"
 comments: true
 tags: [Episode 3, Nashville, Season 1, Shownotes]
 ---
-<div><p><span class="full-image-block ssNonEditable"><span><a href="/letters/2012/10/25/nashville-shownotes-s01e03.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76e2/1351197796087/Nashville%20S01E03.jpg" alt="" /></a></span></span></p>
+<div><p><span class="full-image-block ssNonEditable"><span><a href="/content/2012/10/25/nashville-shownotes-s01e03.html"><img src="http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf1fe4b07c068ebf76e2/1351197796087/Nashville%20S01E03.jpg" alt="" /></a></span></span></p>
 <p><span style="font-size:130%;"><strong><em>Dear Cast and Crew of Nashville,</em></strong><em> S1E03 &ndash; &ldquo;Someday You&rsquo;ll Call My Name&rdquo;</em></span></p>
 <p><em>Episode synopsis:</em><br />Rayna discovers the depth of the financial problems she and Teddy face. Elsewhere, Juliette&#8217;s mom comes back into her life; Juliette tempts Deacon with a contract offer; and Scarlett and Gunnar&#8217;s shot at stardom is jeopardized.</p>
 <p><em>Original air date:</em><br />October 24, 2012</p>

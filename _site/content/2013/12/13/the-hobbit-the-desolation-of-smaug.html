@@ -26,7 +26,15 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
-      $('nav#menu-left').css({'display':'block'});
+      $("#nav-toggle").click(function(){
+        $('nav#menu-left').css({'display':'block'});
+        $('#nav-header').css({'display':'block'});
+      });
+      $("#mm-blocker").click(function() {
+        $("#my-menu").trigger("close.mm");
+        $('nav#menu-left').css({'display':'none'});
+        $('#nav-header').css({'display':'none'});
+      });
     });
 		</script>
 
@@ -99,7 +107,7 @@
               <li><a href="/reviews/">Reviews</a></li>
               <li><a href="/features/" class="slash">Features</a></li>
               <!-- <li><a href="/podcast/">Podcast</a></li> -->
-              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="/writers/" class="slash">Writers</a></li>
               <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
             </ul>
           </section>
@@ -120,7 +128,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -130,7 +138,7 @@
 
       <section>
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/the-hobbit-the-desolation-of-smaug.jpg);" data-stellar-background-ratio=".25"></div>
+          <div class="title-img" style="background-image:url(/img/article/main/the-hobbit-the-desolation-of-smaug.jpg);" data-stellar-background-ratio=".25"></div>
           <div class="row">
             <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
@@ -173,13 +181,13 @@
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
             <p class="intro hide-for-small">Dear Bryant Hardwick,</p>
-            <p class="intro">Well, here we go. Back to Middle Earth. Again. <em>The Hobbit: The Desolation of Smaug</em> marks hours 12 to 15 of Peter Jackson&rsquo;s adventures in Hobbit land, not including any of the extended DVD editions. Suffice to say, the visual wow factor that seduced audiences over a decade ago has long subsided. So it&rsquo;s up to people like you to help evolve the look of the series. With the last film, Jackson&rsquo;s big innovation was to introduce high frame rate (HFR) filmmaking. That decision, however, overwhelmed <a href="/letters/2012/12/14/the-hobbit-an-unexpected-journey.html">critical reactions</a> to the film, which is why advance screenings of <em>Smaug</em> were only in standard 24 frames per second. So now, instead of looking like an episode of television, it just feels like one.</p>
+            <p class="intro">Well, here we go. Back to Middle Earth. Again. <em>The Hobbit: The Desolation of Smaug</em> marks hours 12 to 15 of Peter Jackson&rsquo;s adventures in Hobbit land, not including any of the extended DVD editions. Suffice to say, the visual wow factor that seduced audiences over a decade ago has long subsided. So it&rsquo;s up to people like you to help evolve the look of the series. With the last film, Jackson&rsquo;s big innovation was to introduce high frame rate (HFR) filmmaking. That decision, however, overwhelmed <a href="/content/2012/12/14/the-hobbit-an-unexpected-journey.html">critical reactions</a> to the film, which is why advance screenings of <em>Smaug</em> were only in standard 24 frames per second. So now, instead of looking like an episode of television, it just feels like one.</p>
 
 <p>It&rsquo;s not an improvement.</p>
 
 <p>See, once we get past the two hour mark of this film, there&rsquo;s this pending sense of dread that starts to set in. It has nothing to do with the dangers supposedly being faced by an invincible squadron of indistinguishable dwarves, who march up a hill to face Smaug the magic dragon. No, it&rsquo;s the knowledge that each annoying tangent and delay tactic is a story decision made to withhold a climax. Call it fifty shades of not so great filmmaking.</p>
 
-<p>But I&rsquo;ll give credit where it&rsquo;s due. For the first time ever, a woman (Evangeline Lily) is given something to do &ndash; a conscious deviation from J.R.R. Tolkien&rsquo;s female-phobic source material. She&rsquo;s incredible with a bow, like <a href="/letters/2012/6/26/brave.html">all</a> <a href="/letters/2013/11/21/catching-fire.html">heroines</a> these days, and develops a thing for the one non-dwarf-looking dwarf. This despite the fact that Legolas (Orlando Bloom) from the <em>Lord of the Rings</em> series shows up. That whole B-story is, of course, inconsequential to anything, but I could say the same thing for pretty much everything in the film. It&rsquo;s a lot of &ldquo;stuff&rdquo; instead of story. But hey, at least some of it is cool stuff, right?</p>
+<p>But I&rsquo;ll give credit where it&rsquo;s due. For the first time ever, a woman (Evangeline Lily) is given something to do &ndash; a conscious deviation from J.R.R. Tolkien&rsquo;s female-phobic source material. She&rsquo;s incredible with a bow, like <a href="/content/2012/6/26/brave.html">all</a> <a href="/content/2013/11/21/catching-fire.html">heroines</a> these days, and develops a thing for the one non-dwarf-looking dwarf. This despite the fact that Legolas (Orlando Bloom) from the <em>Lord of the Rings</em> series shows up. That whole B-story is, of course, inconsequential to anything, but I could say the same thing for pretty much everything in the film. It&rsquo;s a lot of &ldquo;stuff&rdquo; instead of story. But hey, at least some of it is cool stuff, right?</p>
 
 <p>Like, the barrels. When it comes to creating inventive action scenes, one of the first obstacles is always to have a memorable hook. The bobbing barrels down the river certainly qualifies, and an obligatory long take is sufficiently pleasing. But much like the first Tin Tin film, that scene felt like a misplaced highlight that was devoid of any real tension. In fact, the overall lack of consequences in this film is probably the most staggering part.</p>
 
@@ -195,8 +203,8 @@
               
             <div class="signature clearfix">
               <p class="signature-signoff"><strong>Sincerely,</strong><br />
+              <img class="signature-img" src="/img/writers/christopherr-sig.png" /><br />
               Christopher</p>
-              <img class="signature-img" src="/img/writers/christopherr-sig.png" />
             </div>
               
             
@@ -213,8 +221,9 @@
               <div class="large-4 medium-4 columns main-link-small">
                 <a href="/content/2012/12/14/the-hobbit-an-unexpected-journey.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-hobbit-an-unexpected-journey.jpg" alt="The Hobbit: An Unexpected Journey" alt="Stamp" />
+                    <img src="/img/article/thumb-300/the-hobbit-an-unexpected-journey.jpg" alt="The Hobbit: An Unexpected Journey" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -231,15 +240,16 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2014/03/07/300-rise-of-an-empire.html">
+                <a href="/content/2014/3/7/300-rise-of-an-empire.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/300-rise-of-an-empire.jpg" alt="300: Rise of an Empire" alt="Stamp" />
+                    <img src="/img/article/thumb-300/300-rise-of-an-empire.jpg" alt="300: Rise of an Empire" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/03/07/300-rise-of-an-empire.html">
+                <a href="/content/2014/3/7/300-rise-of-an-empire.html">
                   <div class="review-text">
                     <h1>300: Rise of an Empire</h1>
                     <h2 class="addressee">Dear Themistocles, <span class="mobile-line-break"><br /></span>Historical Figure</h2>
@@ -250,25 +260,27 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2013/06/27/before-midnight.html">
+                <a href="/content/2013/6/27/before-midnight.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/before-midnight.jpg" alt="Before Midnight" alt="Stamp" />
+                    <img src="/img/article/thumb-300/before-midnight.jpg" alt="Before Midnight" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/06/27/before-midnight.html">
+                <a href="/content/2013/6/27/before-midnight.html">
                   <div class="review-text">
                     <h1>Before Midnight</h1>
                     <h2 class="addressee">Dear Seamus Davey-Fitzpatrick, <span class="mobile-line-break"><br /></span>Actor</h2>
-                    <h2 class="author">By </h2>
+                    <h2 class="author">By Ross Crawford</h2>
                   </div>
                 </a>
               </div>
           
           </div>
         </div>
+
       </section>
       <div class="comments-bg">
         <div class="comments">
@@ -290,7 +302,7 @@
         
         <a href="/content/2013/12/13/the-hobbit-the-desolation-of-smaug.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-hobbit-the-desolation-of-smaug.jpg" alt="The Hobbit: The Desolation of Smaug Image" />
+                    <img src="/img/article/thumb-300/the-hobbit-the-desolation-of-smaug.jpg" alt="The Hobbit: The Desolation of Smaug Image" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>

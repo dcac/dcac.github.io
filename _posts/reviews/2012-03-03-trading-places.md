@@ -11,8 +11,6 @@ addressee: Giancarlo Esposito
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
 title: "Trading Places"
 comments: true
 streaming: false

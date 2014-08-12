@@ -10,9 +10,8 @@ position: Character Modeler
 addressee: Tanja Kramfert
 layout: review
 categories:
-  - reviews
-  - streaming
-  - on-video
+- reviews
+- netflix
 title: "The Pirates! Band of Misfits"
 comments: true
 tags: [Animation, Charactrer Molder, comedy, Family, Pirates, Tanja Kramfert, Uncategorized]

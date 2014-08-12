@@ -10,9 +10,8 @@ position: Costume Ager/Dyer
 addressee: David Paulin
 layout: review
 categories:
-  - reviews
-  - streaming
-  - on-video
+- reviews
+- netflix
 title: "The Sitter"
 comments: true
 tags: [comedy, Jonah Hill, Letters, netflix.ca, Zip.ca]

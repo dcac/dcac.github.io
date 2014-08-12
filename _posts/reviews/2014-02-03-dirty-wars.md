@@ -2,7 +2,9 @@
 published: true
 section: General
 layout: review
-categories: reviews
+categories:
+- reviews
+- netflix
 title: Dirty Wars
 tags: reviews
 image: "dirty-wars.jpg"
@@ -22,7 +24,3 @@ You take us into the action. We’re right there in the backseat of the car when
 Recreations notwithstanding, I did like many of your stylistic choices: the drained and muted colour; the darkened edges of your frame. It makes for a striking contrast when you include footage from White House press conferences and American news shows, which are as bright and artificial as scenes from amusement parks.
 
 I understand that it’s necessary for Scahill to lead the audience through the story. This is a journalistic documentary, after all, and we need him to connect the dots and explain the complications. But the problem is that the film ultimately seems to make Scahill the focus. There are countless shots of him pinning documents to wall, or writing in hip-looking Brooklyn bars, or simply sitting and thinking. In his narration, the word “I” is used a lot. A lot. It’s almost as though you were both afraid that without the fearless, rakish reporter at its center, we weren’t going to connect with the story. I don’t think that would have been the case. The story is important and Scahill has done tremendous work on it. But you both need to get out of the way.
-
-Sincerely,
-
-Erin

@@ -26,7 +26,15 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
-      $('nav#menu-left').css({'display':'block'});
+      $("#nav-toggle").click(function(){
+        $('nav#menu-left').css({'display':'block'});
+        $('#nav-header').css({'display':'block'});
+      });
+      $("#mm-blocker").click(function() {
+        $("#my-menu").trigger("close.mm");
+        $('nav#menu-left').css({'display':'none'});
+        $('#nav-header').css({'display':'none'});
+      });
     });
 		</script>
 
@@ -99,7 +107,7 @@
               <li><a href="/reviews/">Reviews</a></li>
               <li><a href="/features/" class="slash">Features</a></li>
               <!-- <li><a href="/podcast/">Podcast</a></li> -->
-              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="/writers/" class="slash">Writers</a></li>
               <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
             </ul>
           </section>
@@ -120,7 +128,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -130,7 +138,7 @@
 
       <section>
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/christmas-in-connecticut.jpg);" data-stellar-background-ratio=".25"></div>
+          <div class="title-img" style="background-image:url(/img/article/main/christmas-in-connecticut.jpg);" data-stellar-background-ratio=".25"></div>
           <div class="row">
             <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
@@ -173,13 +181,13 @@
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
             <p class="intro hide-for-small">Dear Arnold Schwarzenegger,</p>
-            <p class="intro">I&rsquo;m back. Yup, our <a href="/letters/tag/early-arnold">Early Arnold</a> series is over, but how could I resist this important oversight in your oeuvre? <em>Christmas in Connecticut </em>(1992) is not some embarrassing got-to-get-paid mistake from your pre-<em>Conan the Barbarian</em> days. You&rsquo;re the muscle behind this made-for-TV mess that came out at the peak of your prime. The question is why? WHY? I&rsquo;m guessing the answer begins and ends with your unparalleled ambition. That&rsquo;s why imagining your stilted direction behind every scene gave me a perverse pleasure, like watching the Christmas equivalent of Tommy Wiseau&rsquo;s <em>The Room</em>.</p>
+            <p class="intro">I&rsquo;m back. Yup, our <a href="/content/tag/early-arnold">Early Arnold</a> series is over, but how could I resist this important oversight in your oeuvre? <em>Christmas in Connecticut </em>(1992) is not some embarrassing got-to-get-paid mistake from your pre-<em>Conan the Barbarian</em> days. You&rsquo;re the muscle behind this made-for-TV mess that came out at the peak of your prime. The question is why? WHY? I&rsquo;m guessing the answer begins and ends with your unparalleled ambition. That&rsquo;s why imagining your stilted direction behind every scene gave me a perverse pleasure, like watching the Christmas equivalent of Tommy Wiseau&rsquo;s <em>The Room</em>.</p>
 
 <p>The first time I felt your hand was during the hilariously inept mountainside rescue by Jefferson Jones (Kris Kristofferson) that kicks off the story. He digs a kid up from the snow, drops him a few times, and stumbles through one of the fakest storms I&rsquo;ve ever had the pleasure of laughing through.&nbsp; &ldquo;Dats great, yah! More esspresion! Show da snow you a man!,&rdquo; I pictured you saying. From there, the world&rsquo;s most clich&eacute;d producer (Tony Curtis) ropes Jeffereson into a Christmas special with fraudulent cooking show host Elizabeth Blane (Dyan Cannon). A mixture of zany antics and adultery follow, both of which you&rsquo;re all too familiar with.</p>
 
 <p>There&rsquo;s no point in analyzing things too closely, though&mdash;you obviously didn&rsquo;t.</p>
 
-<p>As the biggest movie star in the world, failure must have seemed completely out of your reach. Or did it?&nbsp; It&rsquo;s no doubt a calculated choice to remake a 1940s semi-classic in the relatively safe confines of a Christmas TV special. But unlike the characters you play, who never miss a shot, shooting a scene as the director is not nearly so easy.&nbsp; I&rsquo;m sure you felt confident though, having worked with top talent from the time: James Cameron (twice!), Paul Verhoeven, John McTiernan, and even two comedies with Ivan Reitman. None of that seems to matter though, since your only inspiration seems to be that dorky film you made before breaking into the big-time, <a href="/letters/2012/11/27/the-villain.html"><em>The Villain</em></a>.</p>
+<p>As the biggest movie star in the world, failure must have seemed completely out of your reach. Or did it?&nbsp; It&rsquo;s no doubt a calculated choice to remake a 1940s semi-classic in the relatively safe confines of a Christmas TV special. But unlike the characters you play, who never miss a shot, shooting a scene as the director is not nearly so easy.&nbsp; I&rsquo;m sure you felt confident though, having worked with top talent from the time: James Cameron (twice!), Paul Verhoeven, John McTiernan, and even two comedies with Ivan Reitman. None of that seems to matter though, since your only inspiration seems to be that dorky film you made before breaking into the big-time, <a href="/content/2012/11/27/the-villain.html"><em>The Villain</em></a>.</p>
 
 <p>From the half-hearted humour to the wildly inconsistent performances, it&rsquo;s no surprise this film isn&rsquo;t part of the annual holiday season TV rotation.&nbsp; It might, however, have a chance at being a midnight movie classic if we organize a call-and-response crowd participation version. Imagine: theaters full of people screaming out your presumed direction in Austrian accents. This could be the catalyst for the comeback you&rsquo;re looking for. We can start with the <a href="http://bank.mayfairtheatre.ca/">Mayfair Theatre</a> in Ottawa &ndash; what do you say?</p>
 
@@ -191,8 +199,8 @@
               
             <div class="signature clearfix">
               <p class="signature-signoff"><strong>Sincerely,</strong><br />
+              <img class="signature-img" src="/img/writers/christopherr-sig.png" /><br />
               Christopher</p>
-              <img class="signature-img" src="/img/writers/christopherr-sig.png" />
             </div>
               
             
@@ -209,8 +217,9 @@
               <div class="large-4 medium-4 columns main-link-small">
                 <a href="/content/2012/11/27/the-villain.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-villain.jpg" alt="The Villain" alt="Stamp" />
+                    <img src="/img/article/thumb-300/the-villain.jpg" alt="The Villain" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -219,7 +228,7 @@
                   <div class="review-text">
                     <h1>The Villain</h1>
                     <h2 class="addressee">Dear Arnold Schwarzenegger, <span class="mobile-line-break"><br /></span>Hansome Stranger</h2>
-                    <h2 class="author">By Test Author</h2>
+                    <h2 class="author">By Christopher Redmond</h2>
                   </div>
                 </a>
               </div>
@@ -229,8 +238,9 @@
               <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/11/20/pumping-iron.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/pumping-iron.jpg" alt="Pumping Iron" alt="Stamp" />
+                    <img src="/img/article/thumb-300/pumping-iron.jpg" alt="Pumping Iron" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -248,8 +258,9 @@
               <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/11/14/stay-hungry.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/stay-hungry.jpg" alt="Stay Hungry" alt="Stamp" />
+                    <img src="/img/article/thumb-300/stay-hungry.jpg" alt="Stay Hungry" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -265,6 +276,7 @@
           
           </div>
         </div>
+
       </section>
       <div class="comments-bg">
         <div class="comments">
@@ -286,7 +298,7 @@
         
         <a href="/content/2012/12/17/christmas-in-connecticut.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/christmas-in-connecticut.jpg" alt="Christmas in Connecticut Image" />
+                    <img src="/img/article/thumb-300/christmas-in-connecticut.jpg" alt="Christmas in Connecticut Image" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>

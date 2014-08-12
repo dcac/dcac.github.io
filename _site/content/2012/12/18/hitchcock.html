@@ -26,7 +26,15 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
-      $('nav#menu-left').css({'display':'block'});
+      $("#nav-toggle").click(function(){
+        $('nav#menu-left').css({'display':'block'});
+        $('#nav-header').css({'display':'block'});
+      });
+      $("#mm-blocker").click(function() {
+        $("#my-menu").trigger("close.mm");
+        $('nav#menu-left').css({'display':'none'});
+        $('#nav-header').css({'display':'none'});
+      });
     });
 		</script>
 
@@ -99,7 +107,7 @@
               <li><a href="/reviews/">Reviews</a></li>
               <li><a href="/features/" class="slash">Features</a></li>
               <!-- <li><a href="/podcast/">Podcast</a></li> -->
-              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="/writers/" class="slash">Writers</a></li>
               <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
             </ul>
           </section>
@@ -120,7 +128,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -130,14 +138,14 @@
 
       <section>
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/hitchcock.jpg);" data-stellar-background-ratio=".25"></div>
+          <div class="title-img" style="background-image:url(/img/article/main/hitchcock.jpg);" data-stellar-background-ratio=".25"></div>
           <div class="row">
             <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
                 <div class="title-block">
                   <h1 class="hero">Hitchcock</h1>
                   <h2 class="hero-author">
-                    By Test Author
+                    By <a href="/writers/christopherr">Christopher Redmond</a>
                   </h2>
                   <h2 class="hero-date">
                     Mailed on December 18, 2012
@@ -195,8 +203,8 @@
               
             <div class="signature clearfix">
               <p class="signature-signoff"><strong>Sincerely,</strong><br />
-              Test</p>
-              <img class="signature-img" src="/img/writers/" />
+              <img class="signature-img" src="/img/writers/christopherr-sig.png" /><br />
+              Christopher</p>
             </div>
               
             
@@ -213,9 +221,9 @@
               <div class="large-4 medium-4 columns main-link-small">
                 <a href="/content/2012/12/21/2012-silver-stamps.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/silver-stamps-2012.jpg" alt="2012 Silver Stamps" alt="Stamp" />
+                    <img src="/img/features/thumb-300/2012-silver-stamps.jpg" alt="2012 Silver Stamps" alt="Stamp" />
                     <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                    
                   </div>
                 </a>
                 
@@ -223,7 +231,7 @@
                   <div class="review-text">
                     <h1>2012 Silver Stamps</h1>
                     <h2 class="addressee">Dear , <span class="mobile-line-break"><br /></span></h2>
-                    <h2 class="author">By </h2>
+                    <h2 class="author">By The Dear Cast & Crew crew</h2>
                   </div>
                 </a>
               </div>
@@ -231,15 +239,16 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2012/08/08/beasts-of-the-southern-wild.html">
+                <a href="/content/2012/8/8/beasts-of-the-southern-wild.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/beasts-of-the-southern-wild.jpg" alt="Beasts of the Southern Wild" alt="Stamp" />
+                    <img src="/img/article/thumb-300/beasts-of-the-southern-wild.jpg" alt="Beasts of the Southern Wild" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2012/08/08/beasts-of-the-southern-wild.html">
+                <a href="/content/2012/8/8/beasts-of-the-southern-wild.html">
                   <div class="review-text">
                     <h1>Beasts of the Southern Wild</h1>
                     <h2 class="addressee">Dear Jack Mannis, <span class="mobile-line-break"><br /></span>Pyrotechnician</h2>
@@ -250,15 +259,16 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2014/07/25/lucy.html">
+                <a href="/content/2014/7/25/lucy.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/lucy.jpg" alt="Lucy" alt="Stamp" />
+                    <img src="/img/article/thumb-300/lucy.jpg" alt="Lucy" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/07/25/lucy.html">
+                <a href="/content/2014/7/25/lucy.html">
                   <div class="review-text">
                     <h1>Lucy</h1>
                     <h2 class="addressee">Dear Arnaud Hemery, <span class="mobile-line-break"><br /></span>Data Manager</h2>
@@ -269,6 +279,7 @@
           
           </div>
         </div>
+
       </section>
       <div class="comments-bg">
         <div class="comments">
@@ -290,7 +301,7 @@
         
         <a href="/content/2012/12/18/hitchcock.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/hitchcock.jpg" alt="Hitchcock Image" />
+                    <img src="/img/article/thumb-300/hitchcock.jpg" alt="Hitchcock Image" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
@@ -300,7 +311,7 @@
                   <div class="review-text">
                     <h1>Hitchcock</h1>
                     <h2 class="addressee">Dear Emma Jacobs, Blonde Fan</h2>
-                    <h2 class="author">By Test Author</h2>
+                    <h2 class="author">By Christopher Redmond</h2>
                   </div>
                 </a>
       </div>

@@ -11,8 +11,6 @@ addressee: Howard Gottfried
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
 title: "The Hospital"
 comments: true
 tags: [drama, George C. Scott, Letters, Paddy Chaefsky, Zip.ca]

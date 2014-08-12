@@ -9,7 +9,9 @@ excerpt: "I’m not sure if you’re aware, but you were recently cast as a murd
 position: Performer
 addressee: Crocodile
 layout: review
-categories: reviews
+categories: 
+- reviews
+- netflix
 title: "Runner Runner"
 comments: true
 tags: [Ben Affleck, Costa Rica, crocodile, Gambling, Justin Timberlake, Letters, online, Runner Runner]

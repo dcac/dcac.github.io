@@ -11,8 +11,6 @@ addressee: Jordu Schell
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
 title: "Cabin in the Woods"
 comments: true
 tags: [Cabin in the Woods, comedy, horror, Joss Whedon, Letters, negative, Review 2]

@@ -16,7 +16,7 @@ module Jekyll
       def generate(site)
          paginate(site, '/reviews/index.html', 'reviews')
          paginate(site, '/features/index.html', 'features')
-         paginate(site, '/reviews/streaming/index.html', 'streaming')
+         paginate(site, '/reviews/streaming/index.html', 'netflix')
          paginate(site, '/reviews/current-releases/index.html', 'current-releases')
          paginate(site, '/reviews/on-video/index.html', 'on-video')
          paginate(site, '/features/essays/index.html', 'essays')

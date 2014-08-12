@@ -11,8 +11,7 @@ addressee: Kerry Clark
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
+  - netflix
 title: "Premium Rush"
 comments: true
 tags: [action, Cycling, Cyclist, David Koepp, JGL, Joseph Gordon-Levitt, Premium Rush, Uncategorized]

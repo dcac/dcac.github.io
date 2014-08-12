@@ -1,3 +1,8 @@
+all:
+  name: The Dear Cast & Crew crew
+  short-name: The Dear Cast & Crew crew
+  signature: dcac-sig.png
+  
 caseyt:
   name: Casey Tourangeau
   short-name: Casey
@@ -81,6 +86,46 @@ heidib:
   short-name: Heidi
   email:
   twitter:
+  
+duncanm:
+  name: Duncan McDowall
+  short-name: Duncan
+  
+dianech:
+  name: Diane Carol Harder
+  short-name: Diane 
+
+alexg:
+  name: Alex Griffith 
+  short-name: Alex
+
+bridgetr:
+  name: Bridget Redmond
+  short-name: Bridget
+
+chrisd:
+  name: Chris Dainty 
+  short-name: Chris
+
+emilyc:
+  name: Emily Cracknell 
+  short-name: Emily
+
+jakeh:
+  name: Jake Howell 
+  short-name: Jake
+
+katherinew:
+  name: Katherine Williams
+  short-name: Katherine
+
+rossc:
+  name: Ross Crawford 
+  short-name: Ross
+
+scottb:
+  name: Scott Belyea
+  short-name: Scott
   
 test:
   name: Test Author

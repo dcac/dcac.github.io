@@ -30,7 +30,3 @@ The first Hangover suffered a bit from the same kind of scene-to-scene lack of p
 But the third time around it all feels a bit tired. And I get the impression that Galifianakis knows it. Which is why you have to tell me, Bryant: is that palpable sense of lethargy and laziness, of going through the motions--is it some sort of clever meta-commentary on the Hollywood recycling system?
 
 Does Zach Galifianakis know how lame _The Hangover Part 3_ is? And is he making it lame on purpose?
-
-Sincerely,
-
-Jared Young

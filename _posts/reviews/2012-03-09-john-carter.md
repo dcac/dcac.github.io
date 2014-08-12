@@ -11,8 +11,6 @@ addressee: Anthony Drewett
 layout: review
 categories:
   - reviews
-  - streaming
-  - on-video
 title: "John Carter"
 comments: true
 streaming: true

@@ -26,7 +26,15 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
-      $('nav#menu-left').css({'display':'block'});
+      $("#nav-toggle").click(function(){
+        $('nav#menu-left').css({'display':'block'});
+        $('#nav-header').css({'display':'block'});
+      });
+      $("#mm-blocker").click(function() {
+        $("#my-menu").trigger("close.mm");
+        $('nav#menu-left').css({'display':'none'});
+        $('#nav-header').css({'display':'none'});
+      });
     });
 		</script>
 
@@ -99,7 +107,7 @@
               <li><a href="/reviews/">Reviews</a></li>
               <li><a href="/features/" class="slash">Features</a></li>
               <!-- <li><a href="/podcast/">Podcast</a></li> -->
-              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="/writers/" class="slash">Writers</a></li>
               <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
             </ul>
           </section>
@@ -120,7 +128,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -130,7 +138,7 @@
 
       <section>
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/12-years-a-slave.jpg);" data-stellar-background-ratio=".25"></div>
+          <div class="title-img" style="background-image:url(/img/article/main/12-years-a-slave.jpg);" data-stellar-background-ratio=".25"></div>
           <div class="row">
             <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
@@ -177,7 +185,7 @@
 
 <p>This trivial comparison of a hat with a human being wouldn&rsquo;t be ridiculous in the American South of the mid 1800s (not to suggest that <a href="http://film500.wordpress.com/2011/10/19/340-the-whistleblower/">stealing and selling people</a> is only a thing of the past). But the slavery debate shaped modern America, and the ultimate refute to those barbaric principles has to be the story of Solomon Northup (Chiwetel Ejiofor). In the extremely able hands of director Steve McQueen, this true story is done justice in ways that are both subtle and severe. Most notably, of course, with the one prop that I&rsquo;m sure had everyone on set reeling: the whip.</p>
 
-<p>Even before Jesus Christ suffered his 39 lashes (considered one short of killing a man), the whip was the ultimate symbol of dominance and punishment. In your film, its use on characters and exposure to the audience is amplified each time it appears. There are other instruments of torture, such as knives, nails and rope, but it&rsquo;s hard to surpass the theatrics and visceral pain of a lashing. Hardly entertaining, but also hard to shake. And that seems to be the strategy of the film. There&rsquo;s an uncomfortable air throughout, with shots held a bit longer than we&rsquo;d like and no foreshowing of relief. The title alone presumes that Northup will eventually be unchained, but unlike the fictional <a href="/letters/2012/12/28/django-unchained.html">Django</a>, we can also know that his retribution (if any) will never right how badly he was wronged.&nbsp;</p>
+<p>Even before Jesus Christ suffered his 39 lashes (considered one short of killing a man), the whip was the ultimate symbol of dominance and punishment. In your film, its use on characters and exposure to the audience is amplified each time it appears. There are other instruments of torture, such as knives, nails and rope, but it&rsquo;s hard to surpass the theatrics and visceral pain of a lashing. Hardly entertaining, but also hard to shake. And that seems to be the strategy of the film. There&rsquo;s an uncomfortable air throughout, with shots held a bit longer than we&rsquo;d like and no foreshowing of relief. The title alone presumes that Northup will eventually be unchained, but unlike the fictional <a href="/content/2012/12/28/django-unchained.html">Django</a>, we can also know that his retribution (if any) will never right how badly he was wronged.&nbsp;</p>
 
 <p>And how could it? &nbsp;Effectively cut together with non-linear editing, the film bounces between scenes of Northup struggling in captivity, and his previous life as a well-educated musician and freeman in Saratoga Springs, New York. The very first scenes show a failed attempt to compose a letter out of a shaved stick and tree sap, and, in what seems another life, tightening the string&rsquo;s on his violin. The extreme close-ups of these props help build tension even before we completely understand the context. This mirrors the understanding of certain characters, such as the slave traders, slave drivers and slave owners played with increasing cruelty by Benedict Cumberbatch, Paul Giamatti, Paul Dano, Sarah Paulson and Michael Fassbender. Caught up in the minutia of the law and scripture, they completely fail to see the larger picture.</p>
 
@@ -191,8 +199,8 @@
               
             <div class="signature clearfix">
               <p class="signature-signoff"><strong>Sincerely,</strong><br />
+              <img class="signature-img" src="/img/writers/christopherr-sig.png" /><br />
               Christopher</p>
-              <img class="signature-img" src="/img/writers/christopherr-sig.png" />
             </div>
               
             
@@ -207,15 +215,16 @@
           
             
               <div class="large-4 medium-4 columns main-link-small">
-                <a href="/content/2013/11/07/the-counselor.html">
+                <a href="/content/2013/11/7/the-counselor.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-counselor.jpg" alt="The Counselor" alt="Stamp" />
+                    <img src="/img/article/thumb-300/the-counselor.jpg" alt="The Counselor" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/11/07/the-counselor.html">
+                <a href="/content/2013/11/7/the-counselor.html">
                   <div class="review-text">
                     <h1>The Counselor</h1>
                     <h2 class="addressee">Dear Ali Moshref, <span class="mobile-line-break"><br /></span>Completion Guarantor</h2>
@@ -229,8 +238,9 @@
               <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/12/23/saving-mr-banks.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/saving-mr-banks.jpg" alt="Saving Mr. Banks" alt="Stamp" />
+                    <img src="/img/article/thumb-300/saving-mr-banks.jpg" alt="Saving Mr. Banks" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -246,15 +256,16 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2013/05/15/ruby-sparks.html">
+                <a href="/content/2013/5/15/ruby-sparks.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/ruby-sparks.jpg" alt="Ruby Sparks" alt="Stamp" />
+                    <img src="/img/article/thumb-300/ruby-sparks.jpg" alt="Ruby Sparks" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/05/15/ruby-sparks.html">
+                <a href="/content/2013/5/15/ruby-sparks.html">
                   <div class="review-text">
                     <h1>Ruby Sparks</h1>
                     <h2 class="addressee">Dear Zoe Kazan, <span class="mobile-line-break"><br /></span>Writer/Actress/Executive Producer</h2>
@@ -265,6 +276,7 @@
           
           </div>
         </div>
+
       </section>
       <div class="comments-bg">
         <div class="comments">
@@ -286,7 +298,7 @@
         
         <a href="/content/2013/11/13/12-years-a-slave.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/12-years-a-slave.jpg" alt="12 Years a Slave Image" />
+                    <img src="/img/article/thumb-300/12-years-a-slave.jpg" alt="12 Years a Slave Image" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /></div>
                   </div>

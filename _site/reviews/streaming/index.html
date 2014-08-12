@@ -26,7 +26,15 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
-      $('nav#menu-left').css({'display':'block'});
+      $("#nav-toggle").click(function(){
+        $('nav#menu-left').css({'display':'block'});
+        $('#nav-header').css({'display':'block'});
+      });
+      $("#mm-blocker").click(function() {
+        $("#my-menu").trigger("close.mm");
+        $('nav#menu-left').css({'display':'none'});
+        $('#nav-header').css({'display':'none'});
+      });
     });
 		</script>
 
@@ -99,7 +107,7 @@
               <li><a href="/reviews/">Reviews</a></li>
               <li><a href="/features/" class="slash">Features</a></li>
               <!-- <li><a href="/podcast/">Podcast</a></li> -->
-              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="/writers/" class="slash">Writers</a></li>
               <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
             </ul>
           </section>
@@ -120,7 +128,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -144,417 +152,19 @@
         
         
          <div class="section-post large-4 medium-4 small-6 columns">
-           <a href="/content/2012/12/20/the-guilt-trip.html">
+           <a href="/content/2014/5/27/contracted.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-guilt-trip.jpg" alt="The Guilt Trip" alt="Stamp" />
+                    <img src="/img/article/thumb-300/contracted.jpg" alt="Contracted" alt="Stamp" />
                     <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2012/12/20/the-guilt-trip.html">
-                  <div class="review-text">
-                    <h1>The Guilt Trip</h1>
-                    <h2 class="addressee">Dear Daniel Villagomez, <span class="mobile-line-break"><br /></span>Credits Administrator (Uncredited)</h2>
-                    <h2 class="author">By Jared Young</h2>
-                  </div>
-                </a>
-         </div>
-        
-        
-         <div class="section-post large-4 medium-4 small-6 columns">
-           <a href="/content/2012/11/26/life-of-pi.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/life-of-pi.jpg" alt="Life of Pi" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2012/11/26/life-of-pi.html">
-                  <div class="review-text">
-                    <h1>Life of Pi</h1>
-                    <h2 class="addressee">Dear Tamara Andrews, <span class="mobile-line-break"><br /></span>Trainer</h2>
-                    <h2 class="author">By Christopher Redmond</h2>
-                  </div>
-                </a>
-         </div>
-        
-        
-         <div class="section-post large-4 medium-4 small-6 columns">
-           <a href="/content/2012/11/24/the-sessions.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/the-sessions.jpg" alt="The Sessions" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2012/11/24/the-sessions.html">
-                  <div class="review-text">
-                    <h1>The Sessions</h1>
-                    <h2 class="addressee">Dear Helen Hunt's Breasts, <span class="mobile-line-break"><br /></span>Stars</h2>
-                    <h2 class="author">By Christopher Redmond</h2>
-                  </div>
-                </a>
-         </div>
-        
-        
-         <div class="section-post large-4 medium-4 small-6 columns">
-           <a href="/content/2012/11/21/rise-of-the-guardians.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/rise-of-the-guardians.jpg" alt="Rise of the Guardians" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2012/11/21/rise-of-the-guardians.html">
-                  <div class="review-text">
-                    <h1>Rise of the Guardians</h1>
-                    <h2 class="addressee">Dear Santa, <span class="mobile-line-break"><br /></span></h2>
-                    <h2 class="author">By </h2>
-                  </div>
-                </a>
-         </div>
-        
-        
-         <div class="section-post large-4 medium-4 small-6 columns">
-           <a href="/content/2012/11/02/flight.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/flight.jpg" alt="Flight" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2012/11/02/flight.html">
-                  <div class="review-text">
-                    <h1>Flight</h1>
-                    <h2 class="addressee">Dear Craig Hosking, <span class="mobile-line-break"><br /></span>Pilot</h2>
-                    <h2 class="author">By Jared Young</h2>
-                  </div>
-                </a>
-         </div>
-        
-        
-         <div class="section-post large-4 medium-4 small-6 columns">
-           <a href="/content/2012/09/14/amour.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/amour.jpg" alt="TIFF: Amour" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2012/09/14/amour.html">
-                  <div class="review-text">
-                    <h1>TIFF: Amour</h1>
-                    <h2 class="addressee">Dear Caroline Duris, <span class="mobile-line-break"><br /></span>Piano Coach</h2>
-                    <h2 class="author">By Christopher Redmond</h2>
-                  </div>
-                </a>
-         </div>
-        
-        
-         <div class="section-post large-4 medium-4 small-6 columns">
-           <a href="/content/2012/09/12/argo.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/argo.jpg" alt="TIFF: Argo" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2012/09/12/argo.html">
-                  <div class="review-text">
-                    <h1>TIFF: Argo</h1>
-                    <h2 class="addressee">Dear Max Daly, <span class="mobile-line-break"><br /></span>Researcher</h2>
-                    <h2 class="author">By Christopher Redmond</h2>
-                  </div>
-                </a>
-         </div>
-        
-        
-         <div class="section-post large-4 medium-4 small-6 columns">
-           <a href="/content/2012/09/10/cloud-atlas.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/cloud-atlas.jpg" alt="TIFF: Cloud Atlas" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2012/09/10/cloud-atlas.html">
-                  <div class="review-text">
-                    <h1>TIFF: Cloud Atlas</h1>
-                    <h2 class="addressee">Dear Glynn Henderson, <span class="mobile-line-break"><br /></span>Safety Consultant</h2>
-                    <h2 class="author">By Christopher Redmond</h2>
-                  </div>
-                </a>
-         </div>
-        
-        
-         <div class="section-post large-4 medium-4 small-6 columns">
-           <a href="/content/2012/09/07/the-words.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/the-words.jpg" alt="The Words" alt="Stamp" />
-                    <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2012/09/07/the-words.html">
+                <a href="/content/2014/5/27/contracted.html">
                   <div class="review-text">
-                    <h1>The Words</h1>
-                    <h2 class="addressee">Dear Dennis Quaid's Vocal Cords, <span class="mobile-line-break"><br /></span>Narration Instrument</h2>
-                    <h2 class="author">By Jared Young</h2>
-                  </div>
-                </a>
-         </div>
-        
-        
-         <div class="section-post large-4 medium-4 small-6 columns">
-           <a href="/content/2012/09/05/hit-run.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/hit-and-run.jpg" alt="Hit & Run" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2012/09/05/hit-run.html">
-                  <div class="review-text">
-                    <h1>Hit & Run</h1>
-                    <h2 class="addressee">Dear Brycen Counts, <span class="mobile-line-break"><br /></span>Stunt Driver</h2>
-                    <h2 class="author">By Christopher Redmond</h2>
-                  </div>
-                </a>
-         </div>
-        
-        
-         <div class="section-post large-4 medium-4 small-6 columns">
-           <a href="/content/2012/09/04/the-possession.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/the-possession.jpg" alt="The Possession" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2012/09/04/the-possession.html">
-                  <div class="review-text">
-                    <h1>The Possession</h1>
-                    <h2 class="addressee">Dear Ryan Mains, <span class="mobile-line-break"><br /></span>Trainee Assistant Location Manager</h2>
-                    <h2 class="author">By Jared Young</h2>
-                  </div>
-                </a>
-         </div>
-        
-        
-         <div class="section-post large-4 medium-4 small-6 columns">
-           <a href="/content/2012/08/31/robot-frank.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/robot-and-frank.jpg" alt="Robot & Frank" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2012/08/31/robot-frank.html">
-                  <div class="review-text">
-                    <h1>Robot & Frank</h1>
-                    <h2 class="addressee">Dear Will Sheck, <span class="mobile-line-break"><br /></span>Greensman</h2>
-                    <h2 class="author">By Casey Tourangeau</h2>
-                  </div>
-                </a>
-         </div>
-        
-        
-         <div class="section-post large-4 medium-4 small-6 columns">
-           <a href="/content/2012/08/29/lawless.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/lawless.jpg" alt="Lawless" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2012/08/29/lawless.html">
-                  <div class="review-text">
-                    <h1>Lawless</h1>
-                    <h2 class="addressee">Dear Jason Allard, <span class="mobile-line-break"><br /></span>Carpenter</h2>
-                    <h2 class="author">By Christopher Redmond</h2>
-                  </div>
-                </a>
-         </div>
-        
-        
-         <div class="section-post large-4 medium-4 small-6 columns">
-           <a href="/content/2012/08/27/premium-rush.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/premium-rush.jpg" alt="Premium Rush" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2012/08/27/premium-rush.html">
-                  <div class="review-text">
-                    <h1>Premium Rush</h1>
-                    <h2 class="addressee">Dear Kerry Clark, <span class="mobile-line-break"><br /></span>Parking Coordinator</h2>
-                    <h2 class="author">By Christopher Redmond</h2>
-                  </div>
-                </a>
-         </div>
-        
-        
-         <div class="section-post large-4 medium-4 small-6 columns">
-           <a href="/content/2012/08/23/where-do-we-go-now.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/where-do-we-go-now.jpg" alt="Where Do We Go Now?" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2012/08/23/where-do-we-go-now.html">
-                  <div class="review-text">
-                    <h1>Where Do We Go Now?</h1>
-                    <h2 class="addressee">Dear C&eacute;dric Deloche, <span class="mobile-line-break"><br /></span>Dialogue Editor</h2>
-                    <h2 class="author">By Christopher Redmond</h2>
-                  </div>
-                </a>
-         </div>
-        
-        
-         <div class="section-post large-4 medium-4 small-6 columns">
-           <a href="/content/2012/08/22/the-expendables-2.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/the-expendables-2.jpg" alt="The Expendables 2" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2012/08/22/the-expendables-2.html">
-                  <div class="review-text">
-                    <h1>The Expendables 2</h1>
-                    <h2 class="addressee">Dear Brian Wentzel, <span class="mobile-line-break"><br /></span>Key Armourer</h2>
-                    <h2 class="author">By Cory Haggart</h2>
-                  </div>
-                </a>
-         </div>
-        
-        
-         <div class="section-post large-4 medium-4 small-6 columns">
-           <a href="/content/2012/08/21/synecdoche-new-york.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/synecdoche-new-york.jpg" alt="Synecdoche, New York" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2012/08/21/synecdoche-new-york.html">
-                  <div class="review-text">
-                    <h1>Synecdoche, New York</h1>
-                    <h2 class="addressee">Dear Karl Sison, <span class="mobile-line-break"><br /></span>Dirt Removal</h2>
-                    <h2 class="author">By Cory Haggart</h2>
-                  </div>
-                </a>
-         </div>
-        
-        
-         <div class="section-post large-4 medium-4 small-6 columns">
-           <a href="/content/2012/08/20/paranorman.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/paranorman.jpg" alt="ParaNorman" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2012/08/20/paranorman.html">
-                  <div class="review-text">
-                    <h1>ParaNorman</h1>
-                    <h2 class="addressee">Dear Liz Allen, <span class="mobile-line-break"><br /></span>Silicone Caster</h2>
-                    <h2 class="author">By Casey Tourangeau</h2>
-                  </div>
-                </a>
-         </div>
-        
-        
-         <div class="section-post large-4 medium-4 small-6 columns">
-           <a href="/content/2012/08/17/sparkle.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/sparkle.jpg" alt="Sparkle" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2012/08/17/sparkle.html">
-                  <div class="review-text">
-                    <h1>Sparkle</h1>
-                    <h2 class="addressee">Dear Whitney Houston, <span class="mobile-line-break"><br /></span>Executive Producer, Actor and Performer</h2>
-                    <h2 class="author">By Christopher Redmond</h2>
-                  </div>
-                </a>
-         </div>
-        
-        
-         <div class="section-post large-4 medium-4 small-6 columns">
-           <a href="/content/2012/08/16/dream-house.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/dream-house.jpg" alt="Dream House" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2012/08/16/dream-house.html">
-                  <div class="review-text">
-                    <h1>Dream House</h1>
-                    <h2 class="addressee">Dear Debra Gibson, <span class="mobile-line-break"><br /></span>Payroll Accountant</h2>
-                    <h2 class="author">By Christopher Redmond</h2>
-                  </div>
-                </a>
-         </div>
-        
-        
-         <div class="section-post large-4 medium-4 small-6 columns">
-           <a href="/content/2012/08/15/the-odd-life-of-timothy-green.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/the-odd-life-of-timothy-green.jpg" alt="The Odd Life of Timothy Green" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2012/08/15/the-odd-life-of-timothy-green.html">
-                  <div class="review-text">
-                    <h1>The Odd Life of Timothy Green</h1>
-                    <h2 class="addressee">Dear Chris Hunter, <span class="mobile-line-break"><br /></span>Storyboard Artist</h2>
-                    <h2 class="author">By Christopher Redmond</h2>
-                  </div>
-                </a>
-         </div>
-        
-        
-         <div class="section-post large-4 medium-4 small-6 columns">
-           <a href="/content/2012/08/14/the-burning.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb/the-burning.jpg" alt="The Burning" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2012/08/14/the-burning.html">
-                  <div class="review-text">
-                    <h1>The Burning</h1>
-                    <h2 class="addressee">Dear Jason Alexander, <span class="mobile-line-break"><br /></span>Actor</h2>
+                    <h1>Contracted</h1>
+                    <h2 class="addressee">Dear Mayera Abeita, <span class="mobile-line-break"><br /></span>Special Makeup Effects Artist</h2>
                     <h2 class="author">By Kelan Young</h2>
                   </div>
                 </a>
@@ -562,37 +172,459 @@
         
         
          <div class="section-post large-4 medium-4 small-6 columns">
-           <a href="/content/2012/08/13/the-campaign.html">
+           <a href="/content/2014/5/21/somm.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-campaign.jpg" alt="The Campaign" alt="Stamp" />
+                    <img src="/img/article/thumb-300/somm.jpg" alt="Somm" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/5/21/somm.html">
+                  <div class="review-text">
+                    <h1>Somm</h1>
+                    <h2 class="addressee">Dear Brian Carmody, <span class="mobile-line-break"><br /></span>Composer</h2>
+                    <h2 class="author">By Nat Master</h2>
+                  </div>
+                </a>
+         </div>
+        
+        
+         <div class="section-post large-4 medium-4 small-6 columns">
+           <a href="/content/2014/4/17/byzantium.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/byzantium.jpg" alt="Byzantium" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/4/17/byzantium.html">
+                  <div class="review-text">
+                    <h1>Byzantium</h1>
+                    <h2 class="addressee">Dear Moira Buffini, <span class="mobile-line-break"><br /></span>Screenwriter</h2>
+                    <h2 class="author">By Kelan Young</h2>
+                  </div>
+                </a>
+         </div>
+        
+        
+         <div class="section-post large-4 medium-4 small-6 columns">
+           <a href="/content/2014/4/15/touchy-feely.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/touchy-feely.jpg" alt="Touchy Feely" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/4/15/touchy-feely.html">
+                  <div class="review-text">
+                    <h1>Touchy Feely</h1>
+                    <h2 class="addressee">Dear Kelsey Wood, <span class="mobile-line-break"><br /></span>Biking Lifestyle Consultant</h2>
+                    <h2 class="author">By Di Golding</h2>
+                  </div>
+                </a>
+         </div>
+        
+        
+         <div class="section-post large-4 medium-4 small-6 columns">
+           <a href="/content/2014/4/8/mitt.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/mitt.jpg" alt="Mitt" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/4/8/mitt.html">
+                  <div class="review-text">
+                    <h1>Mitt</h1>
+                    <h2 class="addressee">Dear Erik Olsen, <span class="mobile-line-break"><br /></span>Camera Operator</h2>
+                    <h2 class="author">By Nat Master</h2>
+                  </div>
+                </a>
+         </div>
+        
+        
+         <div class="section-post large-4 medium-4 small-6 columns">
+           <a href="/content/2014/4/2/the-canyons.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/the-canyons.jpg" alt="The Canyons" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/4/2/the-canyons.html">
+                  <div class="review-text">
+                    <h1>The Canyons</h1>
+                    <h2 class="addressee">Dear Steven Soderbergh, <span class="mobile-line-break"><br /></span>Editor (Almost)</h2>
+                    <h2 class="author">By Di Golding</h2>
+                  </div>
+                </a>
+         </div>
+        
+        
+         <div class="section-post large-4 medium-4 small-6 columns">
+           <a href="/content/2014/3/12/blackfish.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/blackfish.jpg" alt="Blackfish" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/3/12/blackfish.html">
+                  <div class="review-text">
+                    <h1>Blackfish</h1>
+                    <h2 class="addressee">Dear James Earl Jones, <span class="mobile-line-break"><br /></span>Celebrity Shill</h2>
+                    <h2 class="author">By Di Golding</h2>
+                  </div>
+                </a>
+         </div>
+        
+        
+         <div class="section-post large-4 medium-4 small-6 columns">
+           <a href="/content/2014/3/6/grabbers.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/grabbers.jpg" alt="Grabbers" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/3/6/grabbers.html">
+                  <div class="review-text">
+                    <h1>Grabbers</h1>
+                    <h2 class="addressee">Dear Kelly Valentine Hendry, <span class="mobile-line-break"><br /></span>Casting Director</h2>
+                    <h2 class="author">By Kelan Young</h2>
+                  </div>
+                </a>
+         </div>
+        
+        
+         <div class="section-post large-4 medium-4 small-6 columns">
+           <a href="/content/2014/2/27/the-great-beauty.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/the-great-beauty.jpg" alt="The Great Beauty" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2012/08/13/the-campaign.html">
+                <a href="/content/2014/2/27/the-great-beauty.html">
                   <div class="review-text">
-                    <h1>The Campaign</h1>
-                    <h2 class="addressee">Dear Steven Clawson, <span class="mobile-line-break"><br /></span>Photo Double/Stand-in for Dan Aykroyd</h2>
+                    <h1>The Great Beauty</h1>
+                    <h2 class="addressee">Dear Alessandro Brambilla, <span class="mobile-line-break"><br /></span>Steadicam Operator</h2>
+                    <h2 class="author">By Christopher Redmond</h2>
+                  </div>
+                </a>
+         </div>
+        
+        
+         <div class="section-post large-4 medium-4 small-6 columns">
+           <a href="/content/2014/2/26/the-armstrong-lie.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/the-armstrong-lie.jpg" alt="The Armstrong Lie" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/2/26/the-armstrong-lie.html">
+                  <div class="review-text">
+                    <h1>The Armstrong Lie</h1>
+                    <h2 class="addressee">Dear Benjamin Murray, <span class="mobile-line-break"><br /></span>Smoke Artist</h2>
+                    <h2 class="author">By Christopher Redmond</h2>
+                  </div>
+                </a>
+         </div>
+        
+        
+         <div class="section-post large-4 medium-4 small-6 columns">
+           <a href="/content/2014/2/19/ernest-and-celestine.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/ernest-and-celestine.jpg" alt="Ernest and Celestine" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/2/19/ernest-and-celestine.html">
+                  <div class="review-text">
+                    <h1>Ernest and Celestine</h1>
+                    <h2 class="addressee">Dear Zaza and Zyk, <span class="mobile-line-break"><br /></span>Production Designers</h2>
+                    <h2 class="author">By Stefan Ellison</h2>
+                  </div>
+                </a>
+         </div>
+        
+        
+         <div class="section-post large-4 medium-4 small-6 columns">
+           <a href="/content/2014/2/18/cutie-and-the-boxer.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/cutie-and-the-boxer.jpg" alt="Cutie and the Boxer" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/2/18/cutie-and-the-boxer.html">
+                  <div class="review-text">
+                    <h1>Cutie and the Boxer</h1>
+                    <h2 class="addressee">Dear Noriko Shinohara, <span class="mobile-line-break"><br /></span>Artist</h2>
+                    <h2 class="author">By Jennifer Mulligan</h2>
+                  </div>
+                </a>
+         </div>
+        
+        
+         <div class="section-post large-4 medium-4 small-6 columns">
+           <a href="/content/2014/2/15/20-feet-from-stardom.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/20-feet-from-stardom.jpg" alt="20 Feet From Stardom" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/2/15/20-feet-from-stardom.html">
+                  <div class="review-text">
+                    <h1>20 Feet From Stardom</h1>
+                    <h2 class="addressee">Dear Gil Friesen, <span class="mobile-line-break"><br /></span>Producer</h2>
+                    <h2 class="author">By Di Golding</h2>
+                  </div>
+                </a>
+         </div>
+        
+        
+         <div class="section-post large-4 medium-4 small-6 columns">
+           <a href="/content/2014/2/13/jackass-presents-bad-grandpa.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/jackass-presents-bad-grandpa.jpg" alt="Jackass Presents Bad Grandpa" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/2/13/jackass-presents-bad-grandpa.html">
+                  <div class="review-text">
+                    <h1>Jackass Presents Bad Grandpa</h1>
+                    <h2 class="addressee">Dear Tony Gardner, <span class="mobile-line-break"><br /></span>Special Makeup Designer</h2>
                     <h2 class="author">By Cory Haggart</h2>
                   </div>
                 </a>
          </div>
         
         
-         <div class="section-post large-4 medium-4 small-6 columns end">
-           <a href="/content/2012/08/10/the-bourne-legacy.html">
+         <div class="section-post large-4 medium-4 small-6 columns">
+           <a href="/content/2014/2/3/dirty-wars.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-bourne-legacy.jpg" alt="The Bourne Legacy" alt="Stamp" />
+                    <img src="/img/article/thumb-300/dirty-wars.jpg" alt="Dirty Wars" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/2/3/dirty-wars.html">
+                  <div class="review-text">
+                    <h1>Dirty Wars</h1>
+                    <h2 class="addressee">Dear Rick Rowly, <span class="mobile-line-break"><br /></span>Director and Cinematographer</h2>
+                    <h2 class="author">By Erin Curtin</h2>
+                  </div>
+                </a>
+         </div>
+        
+        
+         <div class="section-post large-4 medium-4 small-6 columns">
+           <a href="/content/2014/1/30/the-croods.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/the-croods.jpg" alt="The Croods" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2012/08/10/the-bourne-legacy.html">
+                <a href="/content/2014/1/30/the-croods.html">
                   <div class="review-text">
-                    <h1>The Bourne Legacy</h1>
-                    <h2 class="addressee">Dear Giuseppe Chisari, <span class="mobile-line-break"><br /></span>Character Rigger</h2>
+                    <h1>The Croods</h1>
+                    <h2 class="addressee">Dear John Cleese, <span class="mobile-line-break"><br /></span>Co-Writer</h2>
+                    <h2 class="author">By Jared Young</h2>
+                  </div>
+                </a>
+         </div>
+        
+        
+         <div class="section-post large-4 medium-4 small-6 columns">
+           <a href="/content/2014/1/27/the-hunt.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/the-hunt.jpg" alt="The Hunt" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/1/27/the-hunt.html">
+                  <div class="review-text">
+                    <h1>The Hunt</h1>
+                    <h2 class="addressee">Dear Thomas Vinterberg, <span class="mobile-line-break"><br /></span>Director and Co-Screenwriter</h2>
+                    <h2 class="author">By Emily Cracknell</h2>
+                  </div>
+                </a>
+         </div>
+        
+        
+         <div class="section-post large-4 medium-4 small-6 columns">
+           <a href="/content/2014/1/25/the-square.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/the-square.jpg" alt="The Square" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/1/25/the-square.html">
+                  <div class="review-text">
+                    <h1>The Square</h1>
+                    <h2 class="addressee">Dear Christopher de la Torre, <span class="mobile-line-break"><br /></span>Editor</h2>
+                    <h2 class="author">By Nat Master</h2>
+                  </div>
+                </a>
+         </div>
+        
+        
+         <div class="section-post large-4 medium-4 small-6 columns">
+           <a href="/content/2014/1/22/inside-llewyn-davis.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/inside-llewyn-davis.jpg" alt="Inside Llewyn Davis" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/1/22/inside-llewyn-davis.html">
+                  <div class="review-text">
+                    <h1>Inside Llewyn Davis</h1>
+                    <h2 class="addressee">Dear Dawn Barkan, <span class="mobile-line-break"><br /></span>Head Animal Trainer,</h2>
+                    <h2 class="author">By Erin Curtin</h2>
+                  </div>
+                </a>
+         </div>
+        
+        
+         <div class="section-post large-4 medium-4 small-6 columns">
+           <a href="/content/2014/1/20/the-book-thief.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/the-book-thief.jpg" alt="The Book Thief" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/1/20/the-book-thief.html">
+                  <div class="review-text">
+                    <h1>The Book Thief</h1>
+                    <h2 class="addressee">Dear Lucien Stephenson, <span class="mobile-line-break"><br /></span>Snow Effects Supervisor</h2>
+                    <h2 class="author">By Di Golding</h2>
+                  </div>
+                </a>
+         </div>
+        
+        
+         <div class="section-post large-4 medium-4 small-6 columns">
+           <a href="/content/2014/1/10/nebraska.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/nebraska.jpg" alt="Nebraska" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/1/10/nebraska.html">
+                  <div class="review-text">
+                    <h1>Nebraska</h1>
+                    <h2 class="addressee">Dear Waldo Sanchez, <span class="mobile-line-break"><br /></span>Department Head Hair,</h2>
+                    <h2 class="author">By Di Golding</h2>
+                  </div>
+                </a>
+         </div>
+        
+        
+         <div class="section-post large-4 medium-4 small-6 columns">
+           <a href="/content/2013/11/18/blue-is-the-warmest-colour.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/blue-is-the-warmest-colour.jpg" alt="Blue is the Warmest Colour" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2013/11/18/blue-is-the-warmest-colour.html">
+                  <div class="review-text">
+                    <h1>Blue is the Warmest Colour</h1>
+                    <h2 class="addressee">Dear Monya Galbi, <span class="mobile-line-break"><br /></span>First Assistant Director</h2>
+                    <h2 class="author">By Christopher Redmond</h2>
+                  </div>
+                </a>
+         </div>
+        
+        
+         <div class="section-post large-4 medium-4 small-6 columns">
+           <a href="/content/2013/11/7/the-counselor.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/the-counselor.jpg" alt="The Counselor" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2013/11/7/the-counselor.html">
+                  <div class="review-text">
+                    <h1>The Counselor</h1>
+                    <h2 class="addressee">Dear Ali Moshref, <span class="mobile-line-break"><br /></span>Completion Guarantor</h2>
+                    <h2 class="author">By Christopher Redmond</h2>
+                  </div>
+                </a>
+         </div>
+        
+        
+         <div class="section-post large-4 medium-4 small-6 columns end">
+           <a href="/content/2013/11/5/wadjda.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/wadjda.jpg" alt="Wadjda" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2013/11/5/wadjda.html">
+                  <div class="review-text">
+                    <h1>Wadjda</h1>
+                    <h2 class="addressee">Dear Abdulaziz Abdalnorr, <span class="mobile-line-break"><br /></span>Costume Driver</h2>
                     <h2 class="author">By Christopher Redmond</h2>
                   </div>
                 </a>
@@ -619,6 +651,10 @@
           
             
               <li><a href="/reviews/streaming/page4/">4</a></li>
+            
+          
+            
+              <li><a href="/reviews/streaming/page5/">5</a></li>
             
           
           

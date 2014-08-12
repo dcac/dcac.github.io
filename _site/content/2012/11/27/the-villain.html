@@ -26,7 +26,15 @@
     $(function() {
       $('nav#menu-left').mmenu({
       });
-      $('nav#menu-left').css({'display':'block'});
+      $("#nav-toggle").click(function(){
+        $('nav#menu-left').css({'display':'block'});
+        $('#nav-header').css({'display':'block'});
+      });
+      $("#mm-blocker").click(function() {
+        $("#my-menu").trigger("close.mm");
+        $('nav#menu-left').css({'display':'none'});
+        $('#nav-header').css({'display':'none'});
+      });
     });
 		</script>
 
@@ -99,7 +107,7 @@
               <li><a href="/reviews/">Reviews</a></li>
               <li><a href="/features/" class="slash">Features</a></li>
               <!-- <li><a href="/podcast/">Podcast</a></li> -->
-              <li><a href="/about/" class="slash">About</a></li>
+              <li><a href="/writers/" class="slash">Writers</a></li>
               <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
             </ul>
           </section>
@@ -120,7 +128,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/07/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
             
           </ul>
         </section>
@@ -130,14 +138,14 @@
 
       <section>
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/the-villain.jpg);" data-stellar-background-ratio=".25"></div>
+          <div class="title-img" style="background-image:url(/img/article/main/the-villain.jpg);" data-stellar-background-ratio=".25"></div>
           <div class="row">
             <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
                 <div class="title-block">
                   <h1 class="hero">The Villain</h1>
                   <h2 class="hero-author">
-                    By Test Author
+                    By <a href="/writers/christopherr">Christopher Redmond</a>
                   </h2>
                   <h2 class="hero-date">
                     Mailed on November 27, 2012
@@ -175,7 +183,7 @@
             <p class="intro hide-for-small">Dear Arnold Schwarzenegger,</p>
             <p class="intro">I&rsquo;m actually nervous writing this. During my most impressionable years, you were the hero that loomed largest in my imagination. A diligently glued together <em>Terminator 2</em> poster-sized puzzle hung proudly on my wall for years. Arnold-themed action figures, trading cards, and books filled my room while I excitedly worked my way through your back-catalogue of R-rated adventures. I never understood how my parents seemed to give any VHS tape with your face on it a free pass, even though so few of your films were suitable for a child. Maybe they somehow only saw <em>The Villain</em>, and forever associated you with harmless, over-the-top slapstick humour, and misguided attempts at bringing cartoon sensibilities to real-life.</p>
 
-<p>It&rsquo;s very unlikely. Most people &ndash; and many fans &ndash; have never seen or even heard of this film. By the time your stardom hit my personal orbit, your authorized biographies gleefully started your career (and myth) with <em>Conan the Barbarian</em>. In fact, that&rsquo;s what inspired the <a href="/letters/tag/early-arnold">Early Arnold</a> series on <em>Dear Cast and Crew</em> &ndash; my selfish desire to finally, truly, see all your films. I remember some early films being mentioned in those books without significant information or images, like <a href="/letters/2012/11/6/hercules-in-new-york.html"><em>Hercules in New York</em></a> (which at least <em>sounds</em> macho and on-brand) and the documentary <a href="/letters/2012/11/20/pumping-iron.html"><em>Pumping Iron</em></a>. In the past weeks, I&rsquo;ve learned why the first film is better remembered for its funny title, and why the latter is a cult classic and critical success. <a href="/letters/2012/11/14/stay-hungry.html"><em>Stay Hungry</em></a> was lost in the middle, even though it allowed you to play a laid-back version of yourself and co-starred both Jeff Bridges and Sally Fields.</p>
+<p>It&rsquo;s very unlikely. Most people &ndash; and many fans &ndash; have never seen or even heard of this film. By the time your stardom hit my personal orbit, your authorized biographies gleefully started your career (and myth) with <em>Conan the Barbarian</em>. In fact, that&rsquo;s what inspired the <a href="/content/tag/early-arnold">Early Arnold</a> series on <em>Dear Cast and Crew</em> &ndash; my selfish desire to finally, truly, see all your films. I remember some early films being mentioned in those books without significant information or images, like <a href="/content/2012/11/6/hercules-in-new-york.html"><em>Hercules in New York</em></a> (which at least <em>sounds</em> macho and on-brand) and the documentary <a href="/content/2012/11/20/pumping-iron.html"><em>Pumping Iron</em></a>. In the past weeks, I&rsquo;ve learned why the first film is better remembered for its funny title, and why the latter is a cult classic and critical success. <a href="/content/2012/11/14/stay-hungry.html"><em>Stay Hungry</em></a> was lost in the middle, even though it allowed you to play a laid-back version of yourself and co-starred both Jeff Bridges and Sally Fields.</p>
 
 <p>Then came <em>The Villain</em>.</p>
 
@@ -197,8 +205,8 @@
               
             <div class="signature clearfix">
               <p class="signature-signoff"><strong>Sincerely,</strong><br />
-              Test</p>
-              <img class="signature-img" src="/img/writers/" />
+              <img class="signature-img" src="/img/writers/christopherr-sig.png" /><br />
+              Christopher</p>
             </div>
               
             
@@ -215,8 +223,9 @@
               <div class="large-4 medium-4 columns main-link-small">
                 <a href="/content/2012/12/17/christmas-in-connecticut.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/christmas-in-connecticut.jpg" alt="Christmas in Connecticut" alt="Stamp" />
+                    <img src="/img/article/thumb-300/christmas-in-connecticut.jpg" alt="Christmas in Connecticut" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -235,8 +244,9 @@
               <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/11/20/pumping-iron.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/pumping-iron.jpg" alt="Pumping Iron" alt="Stamp" />
+                    <img src="/img/article/thumb-300/pumping-iron.jpg" alt="Pumping Iron" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -254,8 +264,9 @@
               <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2012/11/14/stay-hungry.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/stay-hungry.jpg" alt="Stay Hungry" alt="Stamp" />
+                    <img src="/img/article/thumb-300/stay-hungry.jpg" alt="Stay Hungry" alt="Stamp" />
                     <div class="corner-stamp"></div>
+                    
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
@@ -271,6 +282,7 @@
           
           </div>
         </div>
+
       </section>
       <div class="comments-bg">
         <div class="comments">
@@ -292,7 +304,7 @@
         
         <a href="/content/2012/11/27/the-villain.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb/the-villain.jpg" alt="The Villain Image" />
+                    <img src="/img/article/thumb-300/the-villain.jpg" alt="The Villain Image" />
                     <div class="corner-stamp"></div>
                     <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
@@ -302,7 +314,7 @@
                   <div class="review-text">
                     <h1>The Villain</h1>
                     <h2 class="addressee">Dear Arnold Schwarzenegger, Hansome Stranger</h2>
-                    <h2 class="author">By Test Author</h2>
+                    <h2 class="author">By Christopher Redmond</h2>
                   </div>
                 </a>
       </div>
