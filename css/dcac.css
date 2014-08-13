@@ -1224,7 +1224,7 @@ div.author {
   margin: 0 auto;
 }
 .entries {
-  width: 50%;
+  width: 100%;
   margin: 0 auto;
 }
 input[type=text],
@@ -1233,20 +1233,20 @@ input[type=text]:focus {
   border-left: 0;
   border-right: 0;
   border-bottom: 0;
-  background: #ffffff url('../img/search/search-icon.png') no-repeat 10px 15px;
+  background: #ffffff url('../img/search/search-icon.png') no-repeat 25px 15px;
   font-size: 1.5rem;
   font-weight: 700;
   height: 4.0625rem;
   color: #a7a9ac;
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
-  margin: 0;
+  margin: 0 auto;
   padding: 10px;
   padding-top: 20px;
-  padding-left: 75px;
+  padding-left: 95px;
   border: none;
 }
 .search-results {
-  width: 100%;
+  width: 34.375rem;
   margin: 0 auto;
   margin-top: 175px;
   z-index: 10;
