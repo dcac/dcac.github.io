@@ -48,7 +48,7 @@ module Jekyll
           :categories => entry.tags,
           #:related => entry.tags,
           :image => entry.image,
-          :author => author['name'],
+          :author => author.nil? ? '' : author['name'],
           :addressee => entry.addressee,
           :position => entry.position
           # turned off body indexing for page load speed

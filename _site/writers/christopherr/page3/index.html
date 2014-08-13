@@ -604,25 +604,6 @@
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
-             <a href="/content/2013/6/7/red-wedding-more-like-red-herring.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb-300/game-of-thrones.jpg" alt="Red Wedding? More like Red Herring." alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    
-                  </div>
-                </a>
-                
-                <a href="/content/2013/6/7/red-wedding-more-like-red-herring.html">
-                  <div class="review-text">
-                    <h1>Red Wedding? More like Red Herring.</h1>
-                    <h2 class="addressee">Dear George R.R. Martin, <span class="mobile-line-break"><br /></span>Author</h2>
-                    <h2 class="author">By Christopher Redmond</h2>
-                  </div>
-                </a>
-           </div>
-          
-          
-           <div class="section-post large-3 medium-3 small-6 columns end">
              <a href="/content/2013/5/31/now-you-see-me.html">
                   <div class="post-image">
                     <img src="/img/article/thumb-300/now-you-see-me.jpg" alt="Now You See Me" alt="Stamp" />
@@ -636,6 +617,26 @@
                   <div class="review-text">
                     <h1>Now You See Me</h1>
                     <h2 class="addressee">Dear David Kwong, <span class="mobile-line-break"><br /></span>Head Magic Consultant</h2>
+                    <h2 class="author">By Christopher Redmond</h2>
+                  </div>
+                </a>
+           </div>
+          
+          
+           <div class="section-post large-3 medium-3 small-6 columns end">
+             <a href="/content/2013/5/29/behind-the-candelabra.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/behind-the-candelabra.jpg" alt="Behind the Candelabra" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2013/5/29/behind-the-candelabra.html">
+                  <div class="review-text">
+                    <h1>Behind the Candelabra</h1>
+                    <h2 class="addressee">Dear Greg Fusak, <span class="mobile-line-break"><br /></span>Best Boy</h2>
                     <h2 class="author">By Christopher Redmond</h2>
                   </div>
                 </a>
@@ -777,18 +778,19 @@
   <!-- Search modal overlay -->
   
     <div id="search-modal" class="search-modal">
-      <div><button class="close-x"></button></div>
-      <div id="search" class="search-form">
-        <form method="get">
-          <input type="text" id="search-query" class="search-query" name="q" placeholder="type to search" autocomplete="off" autofocus>
-        </form>
+       <div class="search-head">
+        <div><button class="close-x"></button></div>
+        <div id="search" class="search-form">
+          <form method="get" id="search-form">
+            <input type="text" id="search-query" class="search-query" name="q" placeholder="type to search" autocomplete="off" autofocus>
+          </form>
+        </div>
       </div>
-      
       <section id="search-results" class="search-results">
         <div class="entries">
         </div>
       </section>
-      <!-- <script type="text/javascript" src="/js/search.min.js"></scri -->pt> 
+      <!-- <script type="text/javascript" src="/js/search.min.js"></script> -->
       
       <script id="search-results-template" class="search-results-template" type="text/mustache">
         {{#entries}}
@@ -798,7 +800,7 @@
               <h1 class="search-title">{{title}}</h1>
               <p class="search-addressee">Dear {{addressee}}, {{position}}</p>
               <p class="search-author">By {{author}}</p>
-              <p class="search-date">{{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}</p>
+              <!-- <p class="search-date">{{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}</p> -->
             </div></a>
           </div>
         {{/entries}}
@@ -840,6 +842,9 @@
         $form.find('input:radio, input:checkbox')
         .removeAttr('checked').removeAttr('selected');
       }
+      $("#search-form").submit(function(e) {
+          e.preventDefault();
+      });
       $(document).keyup(function(e){
         if(e.keyCode === 27) {
           $("#search-modal").css("display","none");

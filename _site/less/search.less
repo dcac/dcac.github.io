@@ -1,32 +1,44 @@
 #search{
   margin-top: @100px;
 }
-
+.search-head{
+  position:fixed;
+  width:100%;
+  height:175px;
+  background-color:rgba(0,0,0,.85);
+  z-index:15;
+}
 .search-form{
-  width:40%;
+  width:@1px*550;
   margin: 0 auto;
-  background: transparent;
 }
 .entries{
-  width: 50%;
+  width: 100%;
   margin: 0 auto;
 }
 input[type=text], input[type=text]:focus{
   border-top: 0;
   border-left: 0;
   border-right: 0;
-  border-bottom: @1px;
-  border-color: #fff;
-  background: transparent;
-  font-size: @text-large;
-  color: #fff;
+  border-bottom: 0;
+  background: @white url('../img/search/search-icon.png') no-repeat 25px 15px;
+  font-size: @1px*24;
+  font-weight: 700;
+  //line-height: @1px*65;
+  height: @1px*65;
+  color: #a7a9ac;
   font-family: @sans-serif;
-  padding: 0;
-  margin: 0;
+  margin: 0 auto;
+  padding:10px;
+  padding-top:20px;
+  padding-left: 95px;
+  border:none;
 }
 .search-results{
-  width:80%;
+  width:@1px*550;
   margin: 0 auto;
+  margin-top:175px;
+  z-index:10;
 }
 .search-results a{
   color:#fff;
@@ -44,7 +56,7 @@ div.search-results-article{
   float: none !important;
   clear: both;
   border-top: solid @1px @dark-grey;
-  width: @1px*500;
+  width: @1px*550;
 }
 div.search-result{
   display: block;
@@ -62,9 +74,10 @@ p.search-result a:hover{
   text-decoration: underline;
 }
 h1.search-title{
-  font-size: @search-large;
-  line-height: @1px*22;
+  font-size: @1px*22;
+  line-height: @1px*24;
   font-family: @sans-serif;
+  font-weight: 700;
   color:#fff;
   letter-spacing: @1px;
   margin-top: 0;
@@ -72,17 +85,18 @@ h1.search-title{
  p.search-author{
   font-size: @search-regular;
   font-family: @serif;
-  color:#fff;
-  line-height: @1px*14;
+  font-style: italic;
+  color:#d1d3d4;
+  line-height: @1px*12;
   margin-top: @5px;
   margin-bottom: 0;
 }
 p.search-addressee{
   font-size: @search-regular;
-  font-family: @serif;
-  color:#fff;
+  font-family: @sans-serif;
+  color:#d1d3d4;
+  font-weight: 700;
   line-height: @1px*14;
-  font-style: italic;
   margin-top: 5px;
   margin-bottom: 0;
 }

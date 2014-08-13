@@ -151,7 +151,7 @@
                     </h2>
 -->
                     <h2 class="feature-hero-author">
-                      By Dear Cast & Crew 
+                      By Dear Cast & Crew
                     </h2>
                     <h2 class="feature-hero-date hidden-for-medium-up">
                       Mailed on 
@@ -400,18 +400,19 @@ By the end of the film, we have a new M, a new Q, a new Miss Moneypenny and a fi
   <!-- Search modal overlay -->
   
     <div id="search-modal" class="search-modal">
-      <div><button class="close-x"></button></div>
-      <div id="search" class="search-form">
-        <form method="get">
-          <input type="text" id="search-query" class="search-query" name="q" placeholder="type to search" autocomplete="off" autofocus>
-        </form>
+       <div class="search-head">
+        <div><button class="close-x"></button></div>
+        <div id="search" class="search-form">
+          <form method="get" id="search-form">
+            <input type="text" id="search-query" class="search-query" name="q" placeholder="type to search" autocomplete="off" autofocus>
+          </form>
+        </div>
       </div>
-      
       <section id="search-results" class="search-results">
         <div class="entries">
         </div>
       </section>
-      <!-- <script type="text/javascript" src="/js/search.min.js"></scri -->pt> 
+      <!-- <script type="text/javascript" src="/js/search.min.js"></script> -->
       
       <script id="search-results-template" class="search-results-template" type="text/mustache">
         {{#entries}}
@@ -421,7 +422,7 @@ By the end of the film, we have a new M, a new Q, a new Miss Moneypenny and a fi
               <h1 class="search-title">{{title}}</h1>
               <p class="search-addressee">Dear {{addressee}}, {{position}}</p>
               <p class="search-author">By {{author}}</p>
-              <p class="search-date">{{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}</p>
+              <!-- <p class="search-date">{{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}</p> -->
             </div></a>
           </div>
         {{/entries}}
@@ -463,6 +464,9 @@ By the end of the film, we have a new M, a new Q, a new Miss Moneypenny and a fi
         $form.find('input:radio, input:checkbox')
         .removeAttr('checked').removeAttr('selected');
       }
+      $("#search-form").submit(function(e) {
+          e.preventDefault();
+      });
       $(document).keyup(function(e){
         if(e.keyCode === 27) {
           $("#search-modal").css("display","none");
