@@ -1344,7 +1344,7 @@ div.search-image img {
   width: 3.125rem;
   height: 3.125rem;
   display: block;
-  position: absolute;
+  position: fixed;
   top: 1.25rem;
   right: 1.25rem;
   color: transparent;
