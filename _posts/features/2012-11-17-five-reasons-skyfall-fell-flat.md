@@ -3,9 +3,7 @@ published: true
 section: General
 image: five-reasons-skyfall-fell-flat.jpg
 imdb: 
-author:
-  - christopherr
-  - coryh 
+author: all
 stars: 
 excerpt: 
 position: 

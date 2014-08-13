@@ -13,7 +13,7 @@ categories: reviews
 title: "Deliver Us From Evil"
 date: 2014-07-13 13:56
 comments: true
-tags: [cops, crime, events, horror, inspired by, Letters, new york, police, story, true, true story]
+tags: [cops, crime, events, horror, inspired by, Letters, new york, police, story, true story]
 ---
 Scenic artists like you can often help good horror films stand apart from their less-than-palatable counterparts. As an audience, we know all the tricks a filmmaker uses to scare us: tense music, a vulnerable child, a cat that pops out of nowhere, etc. No shortage of those in _Deliver Us From Evil_. But your new film also straddles genres: it's a supernatural thriller and a gritty detective story. The horror half will win out in the marketing campaign, but for my money it's your work that makes this a real winner: you successfully create an atmosphere that feels like _Se7en_ meets _The Exorcist._ 
 

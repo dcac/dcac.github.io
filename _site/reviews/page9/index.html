@@ -373,26 +373,6 @@
         
           
          <div class="section-post large-4 medium-4 small-6 columns left">
-          <a href="/content/2013/6/7/red-wedding-more-like-red-herring.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb-300/game-of-thrones.jpg" alt="Red Wedding? More like Red Herring." alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    
-                    <div class="small-star-rating"><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2013/6/7/red-wedding-more-like-red-herring.html">
-                  <div class="review-text">
-                    <h1>Red Wedding? More like Red Herring.</h1>
-                    <h2 class="addressee">Dear George R.R. Martin, <span class="mobile-line-break"><br /></span>Author</h2>
-                    <h2 class="author">By Christopher Redmond</h2>
-                  </div>
-                </a>
-        </div>
-        
-          
-         <div class="section-post large-4 medium-4 small-6 columns left">
           <a href="/content/2013/6/7/after-earth.html">
                   <div class="post-image">
                     <img src="/img/article/thumb-300/after-earth.jpg" alt="After Earth" alt="Stamp" />
@@ -612,7 +592,7 @@
         </div>
         
           
-         <div class="section-post large-4 medium-4 small-6 columns left end">
+         <div class="section-post large-4 medium-4 small-6 columns left">
           <a href="/content/2013/4/26/pain-gain.html">
                   <div class="post-image">
                     <img src="/img/article/thumb-300/pain-gain.jpg" alt="Pain & Gain" alt="Stamp" />
@@ -627,6 +607,26 @@
                     <h1>Pain & Gain</h1>
                     <h2 class="addressee">Dear Ashley Metzel, <span class="mobile-line-break"><br /></span>Set Dresser</h2>
                     <h2 class="author">By Casey Tourangeau</h2>
+                  </div>
+                </a>
+        </div>
+        
+          
+         <div class="section-post large-4 medium-4 small-6 columns left end">
+          <a href="/content/2013/4/22/to-the-wonder.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/to-the-wonder.jpg" alt="To The Wonder" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2013/4/22/to-the-wonder.html">
+                  <div class="review-text">
+                    <h1>To The Wonder</h1>
+                    <h2 class="addressee">Dear Tyler Savage, <span class="mobile-line-break"><br /></span>Artistic Collaborator</h2>
+                    <h2 class="author">By Christopher Redmond</h2>
                   </div>
                 </a>
         </div>
@@ -811,16 +811,16 @@
         <div class="entries">
         </div>
       </section>
-      <script type="text/javascript" src="/js/search.min.js"></script> 
+      <!-- <script type="text/javascript" src="/js/search.min.js"></scri -->pt> 
       
       <script id="search-results-template" class="search-results-template" type="text/mustache">
         {{#entries}}
           <div class="search-results-article">
-            <a href="{{url}}"><div class="search-image"><img src="/img/article/{{image}}" /></div>
+            <a href="{{url}}"><div class="search-image"><img src="/img/article/thumb-300/{{image}}" /></div>
             <div class="search-result">
               <h1 class="search-title">{{title}}</h1>
               <p class="search-addressee">Dear {{addressee}}, {{position}}</p>
-              <p class="search-author">By {{author.name}}</p>
+              <p class="search-author">By {{author}}</p>
               <p class="search-date">{{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}</p>
             </div></a>
           </div>
@@ -917,6 +917,11 @@
     <script type="text/javascript" src="/vendor/tooltipster/jquery.tooltipster.min.js"></script>
   	<script type="text/javascript" src="/vendor/contentshare/contentshare.ct.js"></script>
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
+    <script src="/vendor/lunr.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/vendor/mustache.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/vendor/date.format.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/vendor/URI.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/vendor/jquery.lunr.search.js" type="text/javascript" charset="utf-8"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
     if($(window).width() > 600){ 

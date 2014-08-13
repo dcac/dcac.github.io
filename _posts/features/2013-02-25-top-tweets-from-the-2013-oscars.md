@@ -14,7 +14,7 @@ categories:
   - lists
 title: "Top Tweets from the 2013 Oscars"
 comments: true
-tags: [2013, Broadcast, Event, Live, Mayfair, oscars, Ottawa, Silver Stamps, Theatre, Tweet, Twitter]
+tags: ["2013",Broadcast, Event, Live, Mayfair, oscars, Ottawa, Silver Stamps, Theatre, Tweet, Twitter]
 ---
 It was an evening of glitz, glamour and drunken cat-calling during the live Oscar broadcast at the historic [Mayfair Theatre][1]. Dear Cast and Crew presented the biggest Oscar party in Canada and made full use of the capacity crowd. _Life of Pi_ was cheered, _Argo_ was booed, and we handed out incredible prizes (including an exact replica of Bradley Cooper's sweat-stained garbage-bag muscle-shirt from _Silver Linings Playbook_) to our live-tweeting fans in the audience.
 

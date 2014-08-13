@@ -13,7 +13,7 @@ addressee: Readers
 layout: feature
 title: "C. Redmond's Top Films of 2013"
 comments: true
-tags: [2013, Awards, awesome, Best, Canadian, critic, films, good, list, movies, Top films 2013, worst, year end]
+tags: [Awards, awesome, Best, Canadian, critic, films, good, list, movies, Top films 2013, worst, year end]
 ---
 
 We critics love to lament the difficulty and futility of reducing film criticism to a series of lists. Readers, on the other hand, go crazy over these year-end cheat sheets. So while the editorial staff of Dear Cast and Crew couldn't settle on any definitive best-of list to cap off the year (other than our illustrious [Silver Stamps][1]), the concession prize is that I offer you my own person short list for the year's best films. 

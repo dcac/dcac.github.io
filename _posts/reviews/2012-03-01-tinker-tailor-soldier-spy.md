@@ -1,5 +1,6 @@
 ---
 published: true
+imdb: tt1340800
 section: General
 image: tinker-tailor-soldier-spy.jpg
 author: coryh
@@ -14,7 +15,7 @@ categories:
 title: "Tinker Tailor Soldier Spy"
 comments: true
 streaming: true
-tags: [streaming,Letters, Letters, Screenwriter, Tinker Tailor Soldier Spy]
+tags: [streaming,Letters, Letters, Screenwriter, Tinker Tailor Soldier Spy, Gary Oldman, Benedict Cumberbatch]
 ---
 Peter, you should have known better.
 

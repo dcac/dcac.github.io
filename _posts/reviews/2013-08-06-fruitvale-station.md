@@ -13,7 +13,7 @@ categories:
 - netflix
 title: "Fruitvale Station"
 comments: true
-tags: [awards, Cannes, dance, Fruitvale Station, inspired by, Letters, Martin, shooting, Sundance, trial, true story, ZImmerman]
+tags: [awards, Cannes, dance, Fruitvale Station, inspired by, Letters, Martin, shooting, Sundance, trial, true story, Zimmerman]
 ---
 First of all, hats off. Since collecting top honours at Sundance and Cannes, _Fruitvale Station_ is undoubtedly on its way to wowing audiences and collecting prizes all over the world. And my most sincere congratulations to you specifically, Nina, for wading through what must have been some very tricky days at the casting office. I imagine your original casting call may have looked something like this: "Searching for Oakland area youths, male and female, early to mid-twenties, any race (though black applicants likely to be racially profiled and manhandled by police.) Based on true story…"
 

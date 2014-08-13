@@ -3,7 +3,7 @@ published: true
 section: General
 imdb: tt1446192
 image: rise-of-the-guardians.jpg
-author: Jennifer Smart and Finn Tourangeau 
+author: all
 stars: 4
 excerpt: "It sure has been a while. I wouldn&rsquo;t say I ever stopped believing&mdash;perhaps I just forgot. But <em>Rise of the Guardians</em> reminded me. Snow-globe portals? Baby tooth fairies? Globe-spanning rabbit holes? A <em>literal</em> dream car? It doesn&rsquo;t take much of an imagination to figure out that these elaborate attempts at explaining the impossible make<em> perfect sense</em>. You&rsquo;re Santa, the Tooth Fairy, the Easter Bunny, and the Sandman, the big four&mdash;of course you&rsquo;ll have some tricks up your sleeve."
 position: 

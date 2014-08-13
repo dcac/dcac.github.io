@@ -238,26 +238,6 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2013/11/26/kill-your-darlings.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb-300/kill-your-darlings.jpg" alt="Kill Your Darlings" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2013/11/26/kill-your-darlings.html">
-                  <div class="review-text">
-                    <h1>Kill Your Darlings</h1>
-                    <h2 class="addressee">Dear Randall Poster, <span class="mobile-line-break"><br /></span>Music Supervisor</h2>
-                    <h2 class="author">By Erin Curtin</h2>
-                  </div>
-                </a>
-              </div>
-          
-            
-              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/10/31/vhs-2.html">
                   <div class="post-image">
                     <img src="/img/article/thumb-300/vhs-2.jpg" alt="V/H/S 2" alt="Stamp" />
@@ -272,6 +252,26 @@
                     <h1>V/H/S 2</h1>
                     <h2 class="addressee">Dear Gareth Evan, <span class="mobile-line-break"><br /></span>Safe Haven</h2>
                     <h2 class="author">By Kelan Young</h2>
+                  </div>
+                </a>
+              </div>
+          
+            
+              <div class="large-4 medium-4 columns hide-for-small-only">
+                <a href="/content/2013/10/25/all-is-lost.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/all-is-lost.jpg" alt="All is Lost" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2013/10/25/all-is-lost.html">
+                  <div class="review-text">
+                    <h1>All is Lost</h1>
+                    <h2 class="addressee">Dear Avery Bederman, <span class="mobile-line-break"><br /></span>Shark Chum Thrower</h2>
+                    <h2 class="author">By Jared Young</h2>
                   </div>
                 </a>
               </div>
@@ -448,16 +448,16 @@
         <div class="entries">
         </div>
       </section>
-      <script type="text/javascript" src="/js/search.min.js"></script> 
+      <!-- <script type="text/javascript" src="/js/search.min.js"></scri -->pt> 
       
       <script id="search-results-template" class="search-results-template" type="text/mustache">
         {{#entries}}
           <div class="search-results-article">
-            <a href="{{url}}"><div class="search-image"><img src="/img/article/{{image}}" /></div>
+            <a href="{{url}}"><div class="search-image"><img src="/img/article/thumb-300/{{image}}" /></div>
             <div class="search-result">
               <h1 class="search-title">{{title}}</h1>
               <p class="search-addressee">Dear {{addressee}}, {{position}}</p>
-              <p class="search-author">By {{author.name}}</p>
+              <p class="search-author">By {{author}}</p>
               <p class="search-date">{{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}</p>
             </div></a>
           </div>
@@ -554,6 +554,11 @@
     <script type="text/javascript" src="/vendor/tooltipster/jquery.tooltipster.min.js"></script>
   	<script type="text/javascript" src="/vendor/contentshare/contentshare.ct.js"></script>
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
+    <script src="/vendor/lunr.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/vendor/mustache.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/vendor/date.format.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/vendor/URI.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/vendor/jquery.lunr.search.js" type="text/javascript" charset="utf-8"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
     if($(window).width() > 600){ 

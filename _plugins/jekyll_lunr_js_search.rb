@@ -37,18 +37,18 @@ module Jekyll
 
       items.each do |item|
         entry = SearchEntry.create(item, content_renderer)
-        entry_name = site.data['authors'][entry.author]
+        author = site.data['authors'][entry.author]
         entry.strip_index_suffix_from_url! if @strip_index_html
         entry.strip_stopwords!(stopwords, @min_length) if File.exists?(@stopwords_file) 
-        
+
         index << {
           :title => entry.title, 
           :url => entry.url,
           :date => entry.date,
-          :categories => entry.categories,
-          :tags => entry.tags,
+          :categories => entry.tags,
+          #:related => entry.tags,
           :image => entry.image,
-          :author => entry_name,
+          :author => author['name'],
           :addressee => entry.addressee,
           :position => entry.position
           # turned off body indexing for page load speed

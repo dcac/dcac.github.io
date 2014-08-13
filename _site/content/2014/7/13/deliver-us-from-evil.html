@@ -219,6 +219,27 @@
           
             
               <div class="large-4 medium-4 columns main-link-small">
+                <a href="/content/2014/1/28/philomena.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/philomena.jpg" alt="Philomena" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/1/28/philomena.html">
+                  <div class="review-text">
+                    <h1>Philomena</h1>
+                    <h2 class="addressee">Dear Barbara Jefford, <span class="mobile-line-break"><br /></span>Actress</h2>
+                    <h2 class="author">By Jennifer Mulligan</h2>
+                  </div>
+                </a>
+              </div>
+          
+          
+            
+              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2014/1/9/lone-survivor.html">
                   <div class="post-image">
                     <img src="/img/article/thumb-300/lone-survivor.jpg" alt="Lone Survivor" alt="Stamp" />
@@ -237,7 +258,6 @@
                 </a>
               </div>
           
-          
             
               <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/11/26/kill-your-darlings.html">
@@ -254,26 +274,6 @@
                     <h1>Kill Your Darlings</h1>
                     <h2 class="addressee">Dear Randall Poster, <span class="mobile-line-break"><br /></span>Music Supervisor</h2>
                     <h2 class="author">By Erin Curtin</h2>
-                  </div>
-                </a>
-              </div>
-          
-            
-              <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2014/1/28/philomena.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb-300/philomena.jpg" alt="Philomena" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2014/1/28/philomena.html">
-                  <div class="review-text">
-                    <h1>Philomena</h1>
-                    <h2 class="addressee">Dear Barbara Jefford, <span class="mobile-line-break"><br /></span>Actress</h2>
-                    <h2 class="author">By Jennifer Mulligan</h2>
                   </div>
                 </a>
               </div>
@@ -450,16 +450,16 @@
         <div class="entries">
         </div>
       </section>
-      <script type="text/javascript" src="/js/search.min.js"></script> 
+      <!-- <script type="text/javascript" src="/js/search.min.js"></scri -->pt> 
       
       <script id="search-results-template" class="search-results-template" type="text/mustache">
         {{#entries}}
           <div class="search-results-article">
-            <a href="{{url}}"><div class="search-image"><img src="/img/article/{{image}}" /></div>
+            <a href="{{url}}"><div class="search-image"><img src="/img/article/thumb-300/{{image}}" /></div>
             <div class="search-result">
               <h1 class="search-title">{{title}}</h1>
               <p class="search-addressee">Dear {{addressee}}, {{position}}</p>
-              <p class="search-author">By {{author.name}}</p>
+              <p class="search-author">By {{author}}</p>
               <p class="search-date">{{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}</p>
             </div></a>
           </div>
@@ -556,6 +556,11 @@
     <script type="text/javascript" src="/vendor/tooltipster/jquery.tooltipster.min.js"></script>
   	<script type="text/javascript" src="/vendor/contentshare/contentshare.ct.js"></script>
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
+    <script src="/vendor/lunr.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/vendor/mustache.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/vendor/date.format.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/vendor/URI.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/vendor/jquery.lunr.search.js" type="text/javascript" charset="utf-8"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
     if($(window).width() > 600){ 

@@ -151,7 +151,7 @@
                     </h2>
 -->
                     <h2 class="feature-hero-author">
-                      By 
+                      By Dear Cast & Crew 
                     </h2>
                     <h2 class="feature-hero-date hidden-for-medium-up">
                       Mailed on 
@@ -199,8 +199,8 @@ By the end of the film, we have a new M, a new Q, a new Miss Moneypenny and a fi
               
             <div class="signature clearfix">
               <p class="signature-signoff"><strong>Sincerely,</strong><br />
-              <img class="signature-img" src="/img/writers/" /><br />
-              </p>
+              <img class="signature-img" src="/img/writers/dcac-sig.png" /><br />
+              The Dear Cast & Crew crew</p>
             </div>
               
             
@@ -308,7 +308,7 @@ By the end of the film, we have a new M, a new Q, a new Miss Moneypenny and a fi
                   <div class="review-text">
                     <h1>Five Reasons Skyfall Fell Flat</h1>
                     <h2 class="addressee">Dear James Bond Fans, </h2>
-                    <h2 class="author">By </h2>
+                    <h2 class="author">By Dear Cast & Crew</h2>
                   </div>
                 </a>
       </div>
@@ -411,16 +411,16 @@ By the end of the film, we have a new M, a new Q, a new Miss Moneypenny and a fi
         <div class="entries">
         </div>
       </section>
-      <script type="text/javascript" src="/js/search.min.js"></script> 
+      <!-- <script type="text/javascript" src="/js/search.min.js"></scri -->pt> 
       
       <script id="search-results-template" class="search-results-template" type="text/mustache">
         {{#entries}}
           <div class="search-results-article">
-            <a href="{{url}}"><div class="search-image"><img src="/img/article/{{image}}" /></div>
+            <a href="{{url}}"><div class="search-image"><img src="/img/article/thumb-300/{{image}}" /></div>
             <div class="search-result">
               <h1 class="search-title">{{title}}</h1>
               <p class="search-addressee">Dear {{addressee}}, {{position}}</p>
-              <p class="search-author">By {{author.name}}</p>
+              <p class="search-author">By {{author}}</p>
               <p class="search-date">{{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}</p>
             </div></a>
           </div>
@@ -517,6 +517,11 @@ By the end of the film, we have a new M, a new Q, a new Miss Moneypenny and a fi
     <script type="text/javascript" src="/vendor/tooltipster/jquery.tooltipster.min.js"></script>
   	<script type="text/javascript" src="/vendor/contentshare/contentshare.ct.js"></script>
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
+    <script src="/vendor/lunr.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/vendor/mustache.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/vendor/date.format.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/vendor/URI.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/vendor/jquery.lunr.search.js" type="text/javascript" charset="utf-8"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
     if($(window).width() > 600){ 

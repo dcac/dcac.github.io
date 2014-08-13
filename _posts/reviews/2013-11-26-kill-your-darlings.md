@@ -12,7 +12,7 @@ layout: review
 categories: reviews
 title: "Kill Your Darlings"
 comments: true
-tags: [based on a true story, bio, drama, inspired by, Kill Your Darlings, story, true, Uncategorized]
+tags: [based on a true story, bio, drama, inspired by, Kill Your Darlings, story,]
 ---
 Capturing the youthful rebellions of another time on film is tricky.  The things that once felt dangerous and subversive turn quaint as they become our parents and grandparents' eras. By the time we hit great-grandparents, well, it's hard to separate the rebels from the squares amongst all the period costumes and sets.  So it's probably tempting to take a shortcut by giving modern audiences something familiar to grasp onto rather than doing a lot of world building. Too bad you gave in to this temptation by leaning on music from bands like TV On The Radio and Bloc Party to make-up for the faults in this mid-1940's set film. 
 

@@ -14,7 +14,7 @@ categories:
   - essays
 title: "Finding God in the Films of 2012 - Pt.2"
 comments: true
-tags: [2012, beilief, beliving, big questions, cinema, films, Finding God, Prometheus, science, spirit, spiritual, The Sessions, Uncategorized]
+tags: [ beilief, beliving, big questions, cinema, films, Finding God, Prometheus, science, spirit, spiritual, The Sessions, Uncategorized]
 ---
 _**This is Part 2 of 3 of the Essay "Finding God in the Films of 2012". **_
 

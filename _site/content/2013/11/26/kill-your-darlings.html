@@ -236,19 +236,19 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2014/1/9/lone-survivor.html">
+                <a href="/content/2013/5/29/behind-the-candelabra.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb-300/lone-survivor.jpg" alt="Lone Survivor" alt="Stamp" />
+                    <img src="/img/article/thumb-300/behind-the-candelabra.jpg" alt="Behind the Candelabra" alt="Stamp" />
                     <div class="corner-stamp"></div>
                     
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2014/1/9/lone-survivor.html">
+                <a href="/content/2013/5/29/behind-the-candelabra.html">
                   <div class="review-text">
-                    <h1>Lone Survivor</h1>
-                    <h2 class="addressee">Dear Timothy C. Sullivan, <span class="mobile-line-break"><br /></span>Development Executive</h2>
+                    <h1>Behind the Candelabra</h1>
+                    <h2 class="addressee">Dear Greg Fusak, <span class="mobile-line-break"><br /></span>Best Boy</h2>
                     <h2 class="author">By Christopher Redmond</h2>
                   </div>
                 </a>
@@ -256,19 +256,19 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2013/1/7/compliance.html">
+                <a href="/content/2014/7/8/grace-of-monaco.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb-300/compliance.jpg" alt="Compliance" alt="Stamp" />
+                    <img src="/img/article/thumb-300/grace-of-monaco.jpg" alt="Grace of Monaco" alt="Stamp" />
                     <div class="corner-stamp"></div>
                     
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
                   </div>
                 </a>
                 
-                <a href="/content/2013/1/7/compliance.html">
+                <a href="/content/2014/7/8/grace-of-monaco.html">
                   <div class="review-text">
-                    <h1>Compliance</h1>
-                    <h2 class="addressee">Dear Rich Bologna, <span class="mobile-line-break"><br /></span>Supervising Sound Editor</h2>
+                    <h1>Grace of Monaco</h1>
+                    <h2 class="addressee">Dear Corinne Devaux, <span class="mobile-line-break"><br /></span>Etiquette Coach</h2>
                     <h2 class="author">By Christopher Redmond</h2>
                   </div>
                 </a>
@@ -446,16 +446,16 @@
         <div class="entries">
         </div>
       </section>
-      <script type="text/javascript" src="/js/search.min.js"></script> 
+      <!-- <script type="text/javascript" src="/js/search.min.js"></scri -->pt> 
       
       <script id="search-results-template" class="search-results-template" type="text/mustache">
         {{#entries}}
           <div class="search-results-article">
-            <a href="{{url}}"><div class="search-image"><img src="/img/article/{{image}}" /></div>
+            <a href="{{url}}"><div class="search-image"><img src="/img/article/thumb-300/{{image}}" /></div>
             <div class="search-result">
               <h1 class="search-title">{{title}}</h1>
               <p class="search-addressee">Dear {{addressee}}, {{position}}</p>
-              <p class="search-author">By {{author.name}}</p>
+              <p class="search-author">By {{author}}</p>
               <p class="search-date">{{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}</p>
             </div></a>
           </div>
@@ -552,6 +552,11 @@
     <script type="text/javascript" src="/vendor/tooltipster/jquery.tooltipster.min.js"></script>
   	<script type="text/javascript" src="/vendor/contentshare/contentshare.ct.js"></script>
   	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
+    <script src="/vendor/lunr.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/vendor/mustache.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/vendor/date.format.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/vendor/URI.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/vendor/jquery.lunr.search.js" type="text/javascript" charset="utf-8"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
     if($(window).width() > 600){ 

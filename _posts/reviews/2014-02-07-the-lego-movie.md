@@ -3,7 +3,7 @@ published: true
 section: General
 imdb: tt1490017
 image: the-lego-movie.jpg
-author: Casey Tourangeau
+author: caseyt
 stars: 4.5
 excerpt: 
 position:  Digital Set Designer

@@ -12,7 +12,7 @@ layout: review
 categories: reviews
 title: "Compliance"
 comments: true
-tags: [Ann Dowd, based on, call, Cpmpliance, Criag Zobel, Dreama Walker, inspired by, Letters, phone, prank, sexual assualt, stroy, true]
+tags: [Ann Dowd, based on, call, Cpmpliance, Criag Zobel, Dreama Walker, inspired by, Letters, phone, prank, sexual assualt, true story]
 ---
 <p>Sounding authentic is so important. In your line of work, if the audience senses a false note, the spell you cast can easily be broken. You&rsquo;ve got to know exactly when to be smooth and convincing, and when to ratchet things up a notch. But how far do think you could take that auditory power of suggestion?&nbsp; According to your new film <em>Compliance</em>, terribly, terribly far.</p>
 <p>Written and directed by Craig Zobel, the story is inspired by true events (and, according to some <a href="http://www.courier-journal.com/article/20051009/NEWS01/510090392/A-hoax-most-cruel-Caller-coaxed-McDonald-s-managers-into-strip-searching-worker">news stories</a>, seems to stick pretty close to the facts.) It&rsquo;s about a prank call to a fast food restaurant that resulted in the stripping and sexual assault of a young female employee.&nbsp; A rather gullible manager (Ann Dowd) is told by a supposed police officer over the phone that one of her employees (Dreama Walker) is suspected of stealing.&nbsp; What follows would sound almost impossible believe, if it hadn&rsquo;t actually happened. That&rsquo;s enough to compel our interest, but does the twisted tale hold up as a film?</p>

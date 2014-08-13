@@ -13,7 +13,7 @@ categories:
   - reviews
 title: "Beasts of the Southern Wild"
 comments: true
-tags: [2012, Beasts, Ben, Benh, Best, Cannes, Film, Uncategorized, undefined, Zeitlin]
+tags: [Beasts, Ben, Benh, Best, Cannes, Film, Uncategorized, undefined, Zeitlin]
 ---
 <p>I&rsquo;m blown away. Watching <em>Beasts of the Southern Wild</em> was like experiencing whistling fireworks for the first time. In the opening minutes, I focused skeptically on a tiny spark that spun and squealed, alone and aimless. But the darkness never stood a chance. You then set off an explosion of life, light, and music that sets the stage for one of the best films of the year.</p>
 <p>And you weren&rsquo;t the only one who lit up the screen. There&rsquo;s the little fireball named Hushpuppy (Quvenzhan&eacute; Wallis), a scrappy six-year-old girl living off the coast of New Orleans on an island called The Bathtub. This landfill beyond the levies is deeper than the Deep South, and home to a stubborn society of impoverished misfits. Hushpuppy&rsquo;s father Wink (Dwight Henry) is a self-proclaimed leader of the group who refuses to leave despite warnings of a major storm (Hurricane Katrina). Hushpuppy, meanwhile, believes that ancient animals called Aurochs are just coming to reclaim their home. Either way, no one is safe.</p>

@@ -3,7 +3,7 @@ published: true
 section: General
 imdb: tt1720616
 image: friends-with-kids.jpg
-author: Tiffany Little Canfield
+author: christopherr
 stars: 3
 excerpt: "OMG, I loved <em>Bridesmaids</em>! We <em>totally</em> have the same sense of humour. Such great casting too, didn&rsquo;t you think? Maybe this <em>Friends With Kids</em> movie you were hired to cast will finally showcase your own sharp eye for talent.  Your big break is coming, I just know it."
 position: Casting Director

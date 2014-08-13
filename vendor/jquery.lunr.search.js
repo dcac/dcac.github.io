@@ -47,7 +47,7 @@
     // create lunr.js search index specifying that we want to index the title and body fields of documents.
     LunrSearch.prototype.createIndex = function() {
       return lunr(function() {
-      alert(this);
+      //alert(this);
         this.field('title', { boost: 10 });
         /* turned off body indexing for page load speed
         this.field('body');
@@ -60,6 +60,7 @@
         //this.field('tags'); 
       });
     };
+    
     
     // compile search results template
     LunrSearch.prototype.compileTemplate = function($template) {      
@@ -102,7 +103,8 @@
           displaydate: function() {
             // only for posts (e.g. Oct 12, 2012)
             return dateFormat(parseDate(raw.date), 'mmm dd, yyyy');
-          }
+          },
+          categories: raw.categories.join(' ')
         });
       }
       

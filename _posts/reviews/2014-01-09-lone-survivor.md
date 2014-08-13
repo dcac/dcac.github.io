@@ -12,7 +12,7 @@ layout: review
 categories: reviews
 title: "Lone Survivor"
 comments: true
-tags: [courage, events, inspired by, Letters, Lone survivor, military, Oscars 2014, Peter Berg, survivor, true, true story, war]
+tags: [courage, events, inspired by, Letters, Lone survivor, military, Oscars 2014, Peter Berg, survivor, true story, war]
 ---
 You're in the hero-making business, I know. Hollywood executives like you trip all over themselves to bring a story like Marcus Luttrell's to the screen. He's a real-life Navy SEAL who, in 2005, was caught in a fierce firefight during U.S. operations in Afghanistan and, despite being severely, injured, lived to tell the tale (let's agree that it's impossible to spoil a movie called _Lone Survivor_). And the tale, which Luttrell later told in the book he co-authored, is certainly harrowing stuff. Almost every major studio in Tinseltown bid on the rights. But you won, Timothy. And you did exactly what every other studio would have done: created a flag-waving, testosterone-heavy, obnoxiously earnest love-letter to the U.S. military.
 

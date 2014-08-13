@@ -11,7 +11,7 @@ layout: review
 categories: reviews
 title: "The Act of Killing"
 comments: true
-tags: [2013, Best, documentary, Film, indonesia, Letters, Oscars 2014, The Act of Killing]
+tags: [Best, documentary, Film, indonesia, Letters, Oscars 2014, The Act of Killing]
 ---
 <p>You&rsquo;re a co-director. A producer. A cinematographer. A make-up artist, production manager, sound recorder, assistant editor, carpenter, costumer, runner, wrangler, and more. In your many roles, you represent no less than 50% of the people who worked on <em>The Act of Killing</em>. And in every case, you are remarkably brave. Because you were never just a disposable crewmember, risking your life for someone else&rsquo;s crazy vision. You&rsquo;re also a father. A mother. A son. A sister. A friend. And most importantly, a human being &ndash; even if we don&rsquo;t know your name. So above all, thank you, for helping tell this strangest of stories and contributing to one of the most important documentaries ever made.</p>
 <p>Where do I even start? Few films have ever made me feel so&hellip; <em>much</em>. Angry, horrified, mesmerized, baffled, shocked, confounded, and, ultimately, inspired. Over the past week, I&rsquo;ve found myself retelling countless scenes to friends, colleagues and even strangers, as way of convincing them to see this film. I&rsquo;ll describe to them some of the most bizarre moments in full detail in my own recreation of the experience &ndash; including what happened and what I was thinking. But it&rsquo;s only now, in this moment, that I am realizing why that testament to the film&rsquo;s power is so profoundly ironic.</p>

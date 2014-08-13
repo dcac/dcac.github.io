@@ -3,7 +3,7 @@ published: true
 section: General
 image: the-secret-life-of-walter-mitty.jpg
 imdb: tt0359950
-author: katherinem 
+author: katherinew
 stars: 3.5
 excerpt: 
 position: Actors
