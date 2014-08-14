@@ -1,16 +1,25 @@
-#search{
+ #search{
   margin-top: @100px;
+  @media @mobile{
+    margin-top:@1px*45;
+  }
 }
 .search-head{
   position:fixed;
   width:100%;
-  height:175px;
+  height:@1px*175;
   background-color:rgba(0,0,0,.85);
   z-index:15;
+  @media @mobile{
+    height:@1px*100;
+  }
 }
 .search-form{
   width:@1px*550;
   margin: 0 auto;
+  @media @mobile{ 
+    width:@1px*280
+  }
 }
 .entries{
   width: 100%;
@@ -33,12 +42,22 @@ input[type=text], input[type=text]:focus{
   padding-top:20px;
   padding-left: 95px;
   border:none;
+  @media @mobile{ 
+    font-size: @1px*18;
+    height: @1px*45;
+    background: @white;
+    padding:10px;
+  }
 }
 .search-results{
   width:@1px*550;
   margin: 0 auto;
-  margin-top:175px;
+  margin-top:@1px*175;
   z-index:10;
+  @media @mobile{
+    width:@1px*280;
+    margin-top:@1px*90;
+  }
 }
 .search-results a{
   color:#fff;
@@ -55,8 +74,11 @@ div.search-results-article{
   position: relative;
   float: none !important;
   clear: both;
-  border-top: solid @1px @dark-grey;
+  border-top: solid @1px rgba(255,255,255,.5);
   width: @1px*550;
+  @media @mobile{
+    width:@1px*280
+  }
 }
 div.search-result{
   display: block;
@@ -64,7 +86,7 @@ div.search-result{
   float: left;
   margin-top: @15px;
   margin-bottom: @25px;
-  width: @1px*350;
+  width: @1px*180;
 }
 p.search-result a{
   font-weight: bold;
@@ -81,6 +103,10 @@ h1.search-title{
   color:#fff;
   letter-spacing: @1px;
   margin-top: 0;
+  @media @mobile{
+    font-size: @1px*16;
+    line-height: @1px*18;
+  }
 }
  p.search-author{
   font-size: @search-regular;
@@ -90,6 +116,10 @@ h1.search-title{
   line-height: @1px*12;
   margin-top: @5px;
   margin-bottom: 0;
+  @media @mobile{
+    font-size: @1px*10;
+    line-height: @1px*12;
+  }
 }
 p.search-addressee{
   font-size: @search-regular;
@@ -99,6 +129,10 @@ p.search-addressee{
   line-height: @1px*14;
   margin-top: 5px;
   margin-bottom: 0;
+  @media @mobile{
+    font-size: @1px*12;
+    line-height: @1px*14;
+  }
 }
 p.search-date{
   font-size: @search-small;
@@ -116,6 +150,12 @@ div.search-image{
   margin-top: @15px;
   margin-bottom: @25px;
   .circle(left);
+  @media @mobile{
+    width:@50px;
+    height:@50px;
+    background-size: @50px;
+  margin-bottom: @1px*12;
+  }
 }
 div.search-image img{
   width: @1px*180;
@@ -123,6 +163,12 @@ div.search-image img{
   max-width: @1px*300;
   margin-left: -@50px;
   float: left;
+  @media @mobile{
+  width: @1px*90;
+  display: block;
+  max-width: @1px*150;
+  margin-left: -@25px;
+  }
 }
 .search-modal{
   width: 100%;
@@ -150,4 +196,9 @@ div.search-image img{
   border: none;
   padding: 0;
   margin: 0;
+  @media @mobile{ 
+    width: @20px;
+    height: @20px;
+    top: @10px;
+  }
 }

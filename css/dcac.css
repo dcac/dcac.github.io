@@ -201,7 +201,7 @@ h1.hero-home {
   .hero-people {
     float: left;
     margin-left: 15px;
-    max-width: 50%;
+    max-width: 60%;
   }
 }
 h2.hero-addressee-home {
@@ -216,8 +216,8 @@ h2.hero-addressee-home {
 @media only screen and (max-width: 640px) {
   h2.hero-addressee-home {
     text-align: left;
-    line-height: 1.25rem;
-    font-size: 1.125rem;
+    line-height: 1.125rem;
+    font-size: 1rem;
     margin-bottom: 0;
   }
 }
@@ -305,8 +305,8 @@ h2.hero-date-home {
 }
 @media only screen and (max-width: 640px) {
   .star-large {
-    height: 1.125rem;
-    width: 1.125rem;
+    height: 0.875rem;
+    width: 0.875rem;
     margin-left: 0.125rem;
     margin-right: 0.125rem;
   }
@@ -863,6 +863,12 @@ section.top-nav a:hover {
   color: #000000;
   position: relative;
 }
+@media only screen and (max-width: 640px) {
+  .mini-search-link {
+    margin-top: -2.5rem;
+    margin-right: 1.5625rem;
+  }
+}
 #nav-toggle {
   cursor: pointer;
 }
@@ -991,6 +997,11 @@ li.social a.social-letterboxd {
 li.social a:hover {
   background-color: transparent;
   opacity: 1.0;
+}
+@media only screen and (max-width: 640px) {
+  ul.left {
+    display: none;
+  }
 }
 #footer {
   /*   position:fixed; */
@@ -1212,16 +1223,31 @@ div.author {
 #search {
   margin-top: 6.25rem;
 }
+@media only screen and (max-width: 640px) {
+  #search {
+    margin-top: 2.8125rem;
+  }
+}
 .search-head {
   position: fixed;
   width: 100%;
-  height: 175px;
+  height: 10.9375rem;
   background-color: rgba(0, 0, 0, 0.85);
   z-index: 15;
+}
+@media only screen and (max-width: 640px) {
+  .search-head {
+    height: 6.25rem;
+  }
 }
 .search-form {
   width: 34.375rem;
   margin: 0 auto;
+}
+@media only screen and (max-width: 640px) {
+  .search-form {
+    width: 17.5rem;
+  }
 }
 .entries {
   width: 100%;
@@ -1245,11 +1271,26 @@ input[type=text]:focus {
   padding-left: 95px;
   border: none;
 }
+@media only screen and (max-width: 640px) {
+  input[type=text],
+  input[type=text]:focus {
+    font-size: 1.125rem;
+    height: 2.8125rem;
+    background: #ffffff;
+    padding: 10px;
+  }
+}
 .search-results {
   width: 34.375rem;
   margin: 0 auto;
-  margin-top: 175px;
+  margin-top: 10.9375rem;
   z-index: 10;
+}
+@media only screen and (max-width: 640px) {
+  .search-results {
+    width: 17.5rem;
+    margin-top: 5.625rem;
+  }
 }
 .search-results a {
   color: #fff;
@@ -1265,8 +1306,13 @@ div.search-results-article {
   position: relative;
   float: none !important;
   clear: both;
-  border-top: solid 0.0625rem #333333;
+  border-top: solid 0.0625rem rgba(255, 255, 255, 0.5);
   width: 34.375rem;
+}
+@media only screen and (max-width: 640px) {
+  div.search-results-article {
+    width: 17.5rem;
+  }
 }
 div.search-result {
   display: block;
@@ -1274,7 +1320,7 @@ div.search-result {
   float: left;
   margin-top: 0.9375rem;
   margin-bottom: 1.5625rem;
-  width: 21.875rem;
+  width: 11.25rem;
 }
 p.search-result a {
   font-weight: bold;
@@ -1292,6 +1338,12 @@ h1.search-title {
   letter-spacing: 0.0625rem;
   margin-top: 0;
 }
+@media only screen and (max-width: 640px) {
+  h1.search-title {
+    font-size: 1rem;
+    line-height: 1.125rem;
+  }
+}
 p.search-author {
   font-size: 0.75rem;
   font-family: "Georgia", serif;
@@ -1301,6 +1353,12 @@ p.search-author {
   margin-top: 0.3125rem;
   margin-bottom: 0;
 }
+@media only screen and (max-width: 640px) {
+  p.search-author {
+    font-size: 0.625rem;
+    line-height: 0.75rem;
+  }
+}
 p.search-addressee {
   font-size: 0.75rem;
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
@@ -1309,6 +1367,12 @@ p.search-addressee {
   line-height: 0.875rem;
   margin-top: 5px;
   margin-bottom: 0;
+}
+@media only screen and (max-width: 640px) {
+  p.search-addressee {
+    font-size: 0.75rem;
+    line-height: 0.875rem;
+  }
 }
 p.search-date {
   font-size: 0.625rem;
@@ -1332,12 +1396,28 @@ div.search-image {
   overflow: hidden;
   float: left;
 }
+@media only screen and (max-width: 640px) {
+  div.search-image {
+    width: 3.125rem;
+    height: 3.125rem;
+    background-size: 3.125rem;
+    margin-bottom: 0.75rem;
+  }
+}
 div.search-image img {
   width: 11.25rem;
   display: block;
   max-width: 18.75rem;
   margin-left: -3.125rem;
   float: left;
+}
+@media only screen and (max-width: 640px) {
+  div.search-image img {
+    width: 5.625rem;
+    display: block;
+    max-width: 9.375rem;
+    margin-left: -1.5625rem;
+  }
 }
 .search-modal {
   width: 100%;
@@ -1365,6 +1445,13 @@ div.search-image img {
   border: none;
   padding: 0;
   margin: 0;
+}
+@media only screen and (max-width: 640px) {
+  .close-x {
+    width: 1.25rem;
+    height: 1.25rem;
+    top: 0.625rem;
+  }
 }
 .bounce {
   -webkit-animation-delay: 2s;
@@ -1555,8 +1642,8 @@ img.scrolled {
     position: absolute;
     bottom: 1.25rem;
     right: 0;
-    font-size: 1.125rem;
-    line-height: 1.125rem;
+    font-size: 1rem;
+    line-height: 1rem;
     white-space: nowrap;
     right: 0.9375rem;
   }
@@ -1606,7 +1693,7 @@ img.scrolled {
     bottom: 20px;
     text-align: left;
     left: 0.9375rem;
-    max-width: 62%;
+    max-width: 60%;
   }
 }
 .review-people {
@@ -1728,8 +1815,8 @@ h1.hero {
 @media only screen and (max-width: 640px) {
   h1.hero {
     top: 0.3125rem;
-    font-size: 1.625rem;
-    line-height: 1.5rem;
+    font-size: 1.125rem;
+    line-height: 1rem;
     margin: 0;
     margin-bottom: 10px;
   }

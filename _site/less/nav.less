@@ -109,6 +109,13 @@ section.top-nav a:hover{
   font-size: 18px;
   color:@black;
   position: relative;
+  @media @mobile{
+    margin-top: -@1px*40;
+    margin-right:@10px;
+    font-size: 20px;
+    //right: @15px;
+    //position: fixed;
+  }
 }
 
 #nav-toggle{
@@ -248,6 +255,11 @@ li.social a.social-letterboxd{
 li.social a:hover{
   background-color: transparent;
   opacity: 1.0;
+}
+ul.left{
+  @media @mobile{
+    display:none;
+  }
 }
 
 //Footer layout
