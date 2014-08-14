@@ -16,8 +16,8 @@
   	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
     <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
     
-    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
+    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
     
     <!--Initialize the menu -->
@@ -36,6 +36,11 @@
         $('#nav-header').css({'display':'none'});
       });
     });
+    if(!Modernizr.svg) {
+      $('img[src*="svg"]').attr('src', function() {
+          return $(this).attr('src').replace('.svg', '.png');
+      });
+    }
 		</script>
 
     <!-- Custom styles for this template -->
@@ -551,6 +556,12 @@
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });
+    if(Modernizr.svg) {
+      //alert("hi!");
+      $('img[src*="svg"]').attr('src', function() {
+          return $(this).attr('src').replace('.svg', '.png');
+      });
+    }
     </script>
   </body>
 </html>

@@ -62,7 +62,7 @@ section.top-nav ul li, section.top-nav ul li a {
   line-height: @text-tiny; 
 }
 section.top-nav ul li a.slash{
-  background: url('../img/global/slash.svg') @10px 0 no-repeat;
+  .make-bg-svg('global/slash',@10px);
   padding-left: @1px*30;
 }
 section.top-nav a:hover{
@@ -111,8 +111,7 @@ section.top-nav a:hover{
   position: relative;
   @media @mobile{
     margin-top: -@1px*40;
-    margin-right:@10px;
-    font-size: 20px;
+    margin-right:@25px;
     //right: @15px;
     //position: fixed;
   }
@@ -147,7 +146,7 @@ display: inline;
   }
 }
 .dcac-logo{
-  background: url('../img/global/dcac-logo.svg') 0 no-repeat;
+  .make-bg-svg('global/dcac-logo');
   display: block;
 }
 .top-bar .name{

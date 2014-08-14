@@ -349,7 +349,7 @@ div.post-list-home.post-image {
   z-index: 0;
 }
 .corner-stamp {
-  background: url('../img/global/stamp-white.svg') no-repeat 0px 0px;
+  background: transparent url(../img/global/stamp-white.svg) no-repeat 0 0;
   background-size: cover;
   width: 2.5rem;
   height: 2.5rem;
@@ -364,6 +364,9 @@ div.post-list-home.post-image {
   z-index: 2;
   -webkit-filter: drop-shadow(0 0 0.125rem #939598);
   filter: drop-shadow(0 0 0.125rem #939598);
+}
+.no-svg .corner-stamp {
+  background: transparent url(../img/global/stamp-white.png) no-repeat 0 0;
 }
 @media only screen and (max-width: 640px) {
   .corner-stamp {
@@ -805,8 +808,11 @@ section.top-nav ul li a {
   line-height: 0.625rem;
 }
 section.top-nav ul li a.slash {
-  background: url('../img/global/slash.svg') 0.625rem 0 no-repeat;
+  background: transparent url(../img/global/slash.svg) no-repeat 0.625rem 0;
   padding-left: 1.875rem;
+}
+.no-svg section.top-nav ul li a.slash {
+  background: transparent url(../img/global/slash.png) no-repeat 0.625rem 0;
 }
 section.top-nav a:hover {
   color: #000000;
@@ -897,8 +903,11 @@ ul.left{
   }
 }
 .dcac-logo {
-  background: url('../img/global/dcac-logo.svg') 0 no-repeat;
+  background: transparent url(../img/global/dcac-logo.svg) no-repeat 0 0;
   display: block;
+}
+.no-svg .dcac-logo {
+  background: transparent url(../img/global/dcac-logo.png) no-repeat 0 0;
 }
 .top-bar .name {
   height: 35px;
@@ -1433,7 +1442,7 @@ div.search-image img {
   display: none;
 }
 .close-x {
-  background: url('../img/close-x.svg') 0 0 no-repeat;
+  background: transparent url(../img/close-x.svg.svg) no-repeat 0 0;
   background-size: cover;
   width: 3.125rem;
   height: 3.125rem;
@@ -1445,6 +1454,9 @@ div.search-image img {
   border: none;
   padding: 0;
   margin: 0;
+}
+.no-svg .close-x {
+  background: transparent url(../img/close-x.svg.png) no-repeat 0 0;
 }
 @media only screen and (max-width: 640px) {
   .close-x {
@@ -2338,7 +2350,10 @@ li.section-right-nav {
   list-style: none;
   display: inline;
   margin-bottom: -5px;
-  background: url('../img/global/slash.svg') 0 -3px no-repeat;
+  background: transparent url(../img/global/slash.svg.svg) no-repeat 0 '-3px';
+}
+.no-svg li.section-right-nav {
+  background: transparent url(../img/global/slash.svg.png) no-repeat 0 '-3px';
 }
 @media only screen and (max-width: 780px) {
   li.section-right-nav {
@@ -2423,32 +2438,44 @@ ul.pagination {
   display: inline-block;
 }
 ul.pagination span.right-arrow-off {
-  background-image: url(../img/global/pagination/right-arrow-off.svg);
+  background: transparent url(../img/url(../img/global/pagination/right-arrow-off.svg).svg) no-repeat 0 0;
   width: 25px;
   height: 25px;
   display: inline-block;
   margin-top: 5px;
+}
+.no-svg ul.pagination span.right-arrow-off {
+  background: transparent url(../img/url(../img/global/pagination/right-arrow-off.svg).png) no-repeat 0 0;
 }
 ul.pagination span.right-arrow-on {
-  background-image: url(../img/global/pagination/right-arrow-on.svg);
+  background: transparent url(../img/url(../img/global/pagination/right-arrow-on.svg).svg) no-repeat 0 0;
   width: 25px;
   height: 25px;
   display: inline-block;
   margin-top: 5px;
+}
+.no-svg ul.pagination span.right-arrow-on {
+  background: transparent url(../img/url(../img/global/pagination/right-arrow-on.svg).png) no-repeat 0 0;
 }
 ul.pagination span.left-arrow-off {
-  background-image: url(../img/global/pagination/left-arrow-off.svg);
+  background: transparent url(../img/url(../img/global/pagination/left-arrow-off.svg).svg) no-repeat 0 0;
   width: 25px;
   height: 25px;
   display: inline-block;
   margin-top: 5px;
 }
+.no-svg ul.pagination span.left-arrow-off {
+  background: transparent url(../img/url(../img/global/pagination/left-arrow-off.svg).png) no-repeat 0 0;
+}
 ul.pagination span.left-arrow-on {
-  background-image: url(../img/global/pagination/left-arrow-on.svg);
+  background: transparent url(../img/url(../img/global/pagination/left-arrow-on.svg).svg) no-repeat 0 0;
   width: 25px;
   height: 25px;
   display: inline-block;
   margin-top: 5px;
+}
+.no-svg ul.pagination span.left-arrow-on {
+  background: transparent url(../img/url(../img/global/pagination/left-arrow-on.svg).png) no-repeat 0 0;
 }
 ul.pagination li.current {
   /*

@@ -1,3 +1,15 @@
+//SVG Fallbck mixin
+.make-bg-svg(@name,@x:0,@y:0,@repeat:no-repeat) {
+
+  @svg: ~"../img/@{name}.svg";
+  @png: ~"../img/@{name}.png";
+  //height: 200px;
+  background: transparent url(@svg) @repeat @x @y;
+
+  .no-svg & {
+       background: transparent url(@png) @repeat @x @y;
+  }
+}
 //Headers
 .hero-title-text(){
   font-family: @sans-serif;
@@ -134,8 +146,8 @@
 
 //pagination styles
 
-.pagination-arrow(@img:'url(../img/global/pagination/right-arrow-off.svg'){
-  background-image:@img;
+.pagination-arrow(@img:'global/pagination/right-arrow-off'){
+  .make-bg-svg(@img);
   width:25px;
   height:25px;
   display: inline-block;
