@@ -308,17 +308,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/bower_components\/modernizr\/feature-detects\/elem-output.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/modernizr\/feature-detects\/elem-output.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/modernizr\/feature-detects\/min\/elem-output-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
 	"\/_site\/bower_components\/modernizr\/feature-detects\/elem-progress-meter.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -5156,6 +5145,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/8\/15\/sabotage.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/8\/15\/sabotage.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/css\/animate.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -8281,6 +8279,17 @@
 		"initialSize": 445044,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/rush.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/rush.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/sabotage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103210,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/sabotage.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/sabotage.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -13180,6 +13189,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-300\/sabotage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11289,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/sabotage.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/sabotage.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-300\/safe-house.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -17565,6 +17585,17 @@
 		"initialSize": 48405,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/rush.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/rush.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/sabotage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23122,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/sabotage.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/sabotage.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -27702,6 +27733,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/sabotage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103210,
+		"inputAbbreviatedPath": "\/img\/article\/main\/sabotage.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/sabotage.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/safe-house.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -32597,6 +32639,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-300\/sabotage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11289,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/sabotage.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/sabotage.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-300\/safe-house.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -36982,6 +37035,17 @@
 		"initialSize": 48405,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/rush.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/rush.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-600\/sabotage.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23122,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/sabotage.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/sabotage.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

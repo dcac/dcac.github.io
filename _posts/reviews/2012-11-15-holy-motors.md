@@ -1,38 +1,35 @@
 ---
 published: true
 section: General
-imdb: tt1742334
-image: sabotage.jpg
-author: jaredy 
-stars: 1.5
-excerpt: "There’s a very simple binary way to judge your latest post-Gubernatorial comeback flick, Sabotage. And it only takes about ten seconds."
-position: Actor
-addressee: Arnold Schwarzenegger
+imdb: tt2076220
+image: holy-motors.jpg
+author: christopherr 
+stars: 4
+excerpt: "If there was ever a film that didn't require your services, _Holy Motors_ might be it."
+position: Continuity
+addressee: Mathilde Profit
 layout: review
 categories: 
   - reviews
   - netflix
-title: "Sabotage"
+  - series
+series-name: European Union Film Festival 2012
+title: "Holy Motors"
 comments: true
-tags: [Arnold Schwarzenegger,action,David Ayer, end of watch,]
+tags: [Cannes, CFI, EU Film Festival, EUFF, European Union, Festivals, Foreign, France, French, Holy Motors, Leos Caraz]
 ---
-There’s a very simple binary way to judge your latest post-Gubernatorial comeback flick, *Sabotage*. And it only takes about ten seconds:
+If there was ever a film that didn't require your services, _Holy Motors_ might be it.
 
-1. The opening shot of the film is perfectly representative of why it doesn’t work. 
-2. The second shot perfectly represents why it should have worked. 
+Leos Carax has crafted a story that sidesteps logic at every turn to manufacture a transparent - but bizarrely absorbing - reality. We quickly abandon accusations of "well, that doesn't make sense" and surrender ourselves to the simple conceit: someone, somewhere within the film, is orchestrating the actions of the main character. Who it is doesn't really matter. Not when the circus is so engrossing.
 
-Coming from director David Ayer – fresh from the (sort-of) success of his found-footage cop thriller, *End of Watch* – it makes sense that the film begins with a grainy video clip, hissing and popping, striated with static, colors bleeding bright. In it, a middle-aged woman is bound and tortured by a masked assailant. She begs for her life. Weeps. We hear noises: loud ripping sounds. It’s not exactly clear what these sounds are, but they make the woman scream even louder. 
+The mysterious puppeteer's muse is played by Denis Lavant, a performance artist who is driven from one strange assignment to another. He goes by many names and many faces (enough to make even the actors in _Cloud Atlas_ jealous), all in the service of a trying to create beauty in sex, violence, poverty, parenthood, or death. In the back of a limo, he prepares for each task with the silent dedication of an assassin. He treats the outside world as his stage, preferring to watch the passing landscape through a television feed rather than look directly out the window. His filtered reality is that strong--and it's one of the most consistent strengths of the film.
 
-In this unpleasant manner we are introduced to the world of *Sabotage*: a sadomasochistic, obscene, hyper-violent, obnoxious, inhumane, dim-witted, turgid, and generally unpleasant place to spend an hour and forty minutes. 
+At one point, the performance artist observes that cameras used to be bigger than he was, then they shrunk to become the size of his head, and now they're so small he can 't even see them. We can assume, therefore, that when he's eating flowers, fingers, money, or hair (for example), someone is watching. Between getting shot and stabbed, he has quiet moments as a disappointed father and dying grandpa--even a few musical outbursts. This is a twisted tale that exists to be audacious. When he plays a naked Christ-figure in living tableau with the Virgin Mary (played by Eva Mendez), he does so with a full erection.
 
-Of course, lots of films are unpleasant. Who would want to spend time in the New York City of Seven, or the dilapidated farmhouse of *Texas Chainsaw Massacre*? Those films, however, used dark places and darker moods to create tension with the wants and desires of their characters. Sabotage, on the other hand, treats its moral and behavioral ugliness like a thrill.
+Accepting the countless oddities that fill each frame is one thing, but the larger questions still remain. Does it all add up? Is the film more commentary than it is compelling? Do strong individual sequences (such as the acrobatic sexual acts in a green-screen room) say something about the nature of entertainment, or something about the characters themselves? The answers are as piecemeal as the film itself. The sequence with Kylie Minogue certainly does a lot to invest some much needed emotion to the mayhem--but it's nearly undermined by a comically nonsensical final shot that literally brings to life the film's title. Yet it all works. Somehow. And I'm not sure how you pulled that off.
 
-The second shot of the film is a close-up of you, Arnie. Slumped and swollen-eyed, looking worn-out in a way that we rarely see. Clearly you’re watching the grainy video clip, and clearly the woman being tortured means something to you. The shot doesn’t last long, but quickly establishes that isn’t the usual wisecracking, invincible Schwarzenegger hero we’ve come to expect after four decades. The knock on you has always been a lack of range, but that’s less about your acting abilities than it is about your career choices (you haven’t popped up in a lot of Paul Thomas Anderson flicks). Working with Ayer seems like a bold choice for you. His films are abrasive and kinetic in a different style than many of your past collaborators. If there was ever a chance for you to do something different – to redefine the Arnold mythos for a new generation – this would seem to be it. 
+Maybe in the end, your job was just to make sure people weren't sure exactly what's going on - to keep us guessing. That would make perfect sense, after all.
 
-But, alas, the ugliness representative in that first shot is too overwhelming. 
+Continuously yours,
 
-Sabotage can’t seem to decide whether it’s a genre film or something different. Despite what is implied by that second shot, it turns out that you are, more or less, that wisecracking, invincible Schwarzenegger we know so well (though the wisecracks are a bit more filthy and the invincibility a bit less easy to believe). There's even a scene where the grumpy chief pulls your badge and gun out of his desk drawer and puts you back on the case. But soon after there’s a sequence in which your arrival at a crime scene is intercut with the crime being committed – a sort of *Silence of the Lambs*-style misdirect – which gives us a sense that the film thinks a little too much of itself. Which is a shame, because Ayers has assembled a rather impressive all-star cast of shoulda-beens, briefly-wases, and almost-ares, including Olivia Williams, Harrold Perrineau, Terrence Howard, and Sam Worthington looking like the bassist from a Korn cover band.
-
-You’re no stranger to these kinds of squandered opportunities, are you? I sat down a few weeks ago to fill in one of my biggest blind spots in the Schwarzenegger filmography, *Last Action Hero*, and even that magical convening of some of my favorite filmic elements (you, John McTiernan, parody,1990s action excess) somehow resulted in a thing that was far less than the sum of its parts. Just like *Sabotage*.  
-
-Yes, it seems that your long career has finally caught up to the obscene action movie aesthetic of modern times, and the result is kind of a bummer. I prefer you in your natural state: toting absurdly large machine guns, smirking to let us know that you’re in on the joke. 
+Christopher

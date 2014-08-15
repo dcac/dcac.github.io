@@ -5,7 +5,7 @@ imdb: tt1764234
 image: killing-them-softly.jpg
 author: christopherr 
 stars: 3.5
-excerpt: "As you probably know, Adam Smith, the father of modern economic theory,  coined term "the invisible hand" 250 years ago to describe the supposed self-regulating nature of the marketplace. This laissez-faire philosophy became the maxim of many American capitalists who fought any effort to criminalize their profits. But then, as the Keynsians predicted, gambling with other people's money resulted in a devastating economic collapse. And so the crooked brokers trusted their recovery to the very real hands of Brad Pitt and his 12-gauge stimulus plan. Or so the story goes. "
+excerpt: "As you probably know, Adam Smith, the father of modern economic theory,  coined term \"the invisible hand\" 250 years ago to describe the supposed self-regulating nature of the marketplace."
 position: Business and Legal Affairs
 addressee: Philip J. Strina
 layout: review
