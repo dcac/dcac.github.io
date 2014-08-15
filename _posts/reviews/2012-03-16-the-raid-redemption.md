@@ -11,8 +11,10 @@ addressee: Ethan Beigel
 layout: review
 categories:
   - reviews
+  - series
   - netflix
 title: "The Raid: Redemption"
+series-name: SXSW 2012
 comments: true
 tags: [streaming,action, martial arts, netflix.ca, Postcards, SXSW]
 ---
@@ -22,8 +24,10 @@ Let me guess – uncooked spaghetti wrapped in a wet towel and broken against a 
 
 Despite a sometimes awkward narrative structure that switches jarringly between the melodramatic A and B storylines, it’s the long fight sequences (which trade in the elegant aestheticism of *The Matrix* and *Crouching Tiger Hidden Dragon* for a grimier, crueller, and much stabbier form of combat) that make the film exciting. Your wonderfully cringe-worthy foley work had me feeling the fight scenes with all six senses.
 
+{% contentfor signature %}
 Whhh-DTSSSH,
-
 Jared Young
-
+{% endcontentfor %}
+{% contentfor postscript %}
 P.S. The death of the unstoppable spider-monkey henchman—a piece of canvas soaked in mushroom soup and torn in half, right?
+{% endcontentfor %}

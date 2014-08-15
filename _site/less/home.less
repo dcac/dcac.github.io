@@ -328,6 +328,9 @@ div.review-text-home h2.addressee{
 }
 div.review-text p,div.review-text h2.star-rating {
   .review-grid-excerpt;
+  @media @mobile{
+    display:none;
+  }
 }
 p{
   font-family: @serif;
@@ -432,6 +435,7 @@ ul.now-streaming-list li.now-streaming-title span.star-rating {
 ul.now-streaming-list li.now-streaming-title span.star-rating img.star-small{
   //display: inline;
   height: @text-tiny;
+  width: @text-tiny;
   margin-right: @1px;
   margin-left:@1px;
   -webkit-filter: none;

@@ -10,8 +10,10 @@ addressee: Captain_404
 layout: review
 categories: 
   - reviews
+  - series
   - netflix
 title: "Indie Game: The Movie"
+series-name: SXSW 2012
 comments: true
 tags: [Braid, Canadian, documentary, Fez, independent, Letters, Super Meat Boy, SXSW, video games]
 ---

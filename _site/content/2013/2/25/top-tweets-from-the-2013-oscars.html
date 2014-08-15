@@ -74,7 +74,7 @@
             <ul>
               <li><a href="/features/">All Features</a></li>
               <li><a href="/features/essays/">Essays</a></li>
-              <li><a href="/features/series/">Series</a></li>
+              <li><a href="/features/series/">Series &amp; Festivals</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>
@@ -133,7 +133,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/8/15/sabotage.html" class="latest-review"><strong>Latest post: </strong><em>Sabotage</em> - Dear Arnold Schwarzenegger, Actor</a></li>
             
           </ul>
         </section>
@@ -143,7 +143,7 @@
 
       <section id="feature-hero">
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/features/main/top-tweets-from-the-2013-oscars.jpg);" data-stellar-background-ratio=".25"></div>
+          <div class="title-img" style="background-image:url(/img/article/main/top-tweets-from-the-2013-oscars.jpg);" data-stellar-background-ratio=".25"></div>
           <div class="row collapse">
             <div class="large-4 medium-4 columns feature-title-height">
               <div class="feature-title-text">
@@ -274,19 +274,19 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2014/7/15/the-case-against-andy-serkis.html">
+                <a href="/content/2013/11/10/eu-2013.html">
                   <div class="post-image">
-                    <img src="/img/features/thumb-300/the-case-against-andy-serkis.jpg" alt="The Case Against Andy Serkis" alt="Stamp" />
+                    <img src="/img/features/thumb-300/eu-2013.jpg" alt="European Union Film Festival 2013" alt="Stamp" />
                     <div class="corner-stamp"></div>
                     
                   </div>
                 </a>
                 
-                <a href="/content/2014/7/15/the-case-against-andy-serkis.html">
+                <a href="/content/2013/11/10/eu-2013.html">
                   <div class="review-text">
-                    <h1>The Case Against Andy Serkis</h1>
-                    <h2 class="addressee">Dear Andy Serkis, <span class="mobile-line-break"><br /></span></h2>
-                    <h2 class="author">By Christopher Redmond</h2>
+                    <h1>European Union Film Festival 2013</h1>
+                    <h2 class="addressee">Dear , <span class="mobile-line-break"><br /></span></h2>
+                    <h2 class="author">By Dear Cast & Crew</h2>
                   </div>
                 </a>
               </div>
@@ -350,7 +350,7 @@
             <ul>
               <li><a href="/features/">All Features</a></li>
               <li><a href="/features/essays/">Essays</a></li>
-              <li><a href="/features/series/">Series</a></li>
+              <li><a href="/features/series/">Series &amp; Festivals</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>                  
@@ -556,7 +556,7 @@
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });
-    if(Modernizr.svg) {
+    if(!Modernizr.svgasimg) {
       //alert("hi!");
       $('img[src*="svg"]').attr('src', function() {
           return $(this).attr('src').replace('.svg', '.png');

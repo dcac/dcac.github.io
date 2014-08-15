@@ -9,7 +9,10 @@ excerpt: "As an editor, you probably appreciate a film with a solid organizing p
 position: Editor
 addressee: Tambet Tasuja
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - series
+series-name: European Union Film Festival 2013
 title: "Living Images"
 comments: true
 tags: [Estonia, EU FIlm Festival 2013, EUFF, European, European Union, Festivals, Film, Letters]

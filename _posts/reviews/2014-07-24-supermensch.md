@@ -9,7 +9,10 @@ excerpt: "You're one of the many people interviewed about the titular Hollywood 
 position: Paparazzi
 addressee: Derek Shook
 layout: review
-categories: reviews
+categories:
+  - reviews
+  - series
+series-name: TIFF 2013
 title: "Supermensch"
 date: 2014-07-24 13:06
 comments: true

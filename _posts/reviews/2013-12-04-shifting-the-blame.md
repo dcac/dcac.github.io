@@ -9,7 +9,10 @@ excerpt: "You can recognize a European film by the fact that most everything is 
 position: Produktionsleiter
 addressee: Darko Lovrinic
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - series
+series-name: European Union Film Festival 2013
 title: "Shifting the Blame"
 comments: true
 tags: [drama, EU FIlm Festival 2013, EUFF, Festivals, Germany, Letters, Shifting the Blame]

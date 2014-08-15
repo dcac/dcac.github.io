@@ -74,7 +74,7 @@
             <ul>
               <li><a href="/features/">All Features</a></li>
               <li><a href="/features/essays/">Essays</a></li>
-              <li><a href="/features/series/">Series</a></li>
+              <li><a href="/features/series/">Series &amp; Festivals</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>
@@ -133,7 +133,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/8/15/sabotage.html" class="latest-review"><strong>Latest post: </strong><em>Sabotage</em> - Dear Arnold Schwarzenegger, Actor</a></li>
             
           </ul>
         </section>
@@ -217,6 +217,7 @@
             </div>
               
             
+            
           </div>
         </div>
         <div id="up-next" class="up-next">
@@ -228,27 +229,6 @@
           
             
               <div class="large-4 medium-4 columns main-link-small">
-                <a href="/content/2014/1/20/august-osage-county.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb-300/august-osage-county.jpg" alt="August: Osage County" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2014/1/20/august-osage-county.html">
-                  <div class="review-text">
-                    <h1>August: Osage County</h1>
-                    <h2 class="addressee">Dear Ceri Thomas, <span class="mobile-line-break"><br /></span>Mix Technician</h2>
-                    <h2 class="author">By Jared Young</h2>
-                  </div>
-                </a>
-              </div>
-          
-          
-            
-              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2014/1/20/the-book-thief.html">
                   <div class="post-image">
                     <img src="/img/article/thumb-300/the-book-thief.jpg" alt="The Book Thief" alt="Stamp" />
@@ -263,6 +243,27 @@
                     <h1>The Book Thief</h1>
                     <h2 class="addressee">Dear Lucien Stephenson, <span class="mobile-line-break"><br /></span>Snow Effects Supervisor</h2>
                     <h2 class="author">By Di Golding</h2>
+                  </div>
+                </a>
+              </div>
+          
+          
+            
+              <div class="large-4 medium-4 columns hide-for-small-only">
+                <a href="/content/2014/1/20/august-osage-county.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/august-osage-county.jpg" alt="August: Osage County" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/1/20/august-osage-county.html">
+                  <div class="review-text">
+                    <h1>August: Osage County</h1>
+                    <h2 class="addressee">Dear Ceri Thomas, <span class="mobile-line-break"><br /></span>Mix Technician</h2>
+                    <h2 class="author">By Jared Young</h2>
                   </div>
                 </a>
               </div>
@@ -381,7 +382,7 @@
             <ul>
               <li><a href="/features/">All Features</a></li>
               <li><a href="/features/essays/">Essays</a></li>
-              <li><a href="/features/series/">Series</a></li>
+              <li><a href="/features/series/">Series &amp; Festivals</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>                  
@@ -587,7 +588,7 @@
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });
-    if(Modernizr.svg) {
+    if(!Modernizr.svgasimg) {
       //alert("hi!");
       $('img[src*="svg"]').attr('src', function() {
           return $(this).attr('src').replace('.svg', '.png');

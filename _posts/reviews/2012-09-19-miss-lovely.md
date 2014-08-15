@@ -9,8 +9,11 @@ excerpt: "For the first 30 minutes, you had me eating out of the palm of your ha
 position: Cinematographer
 addressee: K.U. Mohanan
 layout: review
-categories: reviews
-title: "TIFF: Miss Lovely"
+categories:
+  - reviews
+  - series
+series-name: TIFF 2012
+title: "Miss Lovely"
 comments: true
 tags: [Cannes, K.U. Mohanan, Miss Lovely, Nawazuddin Siddiqui, Niharika Singh, Robert Elswit, TIFF, Uncategorized]
 ---

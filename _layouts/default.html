@@ -207,7 +207,7 @@
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });
-    if(!Modernizr.svg) {
+    if(!Modernizr.svgasimg) {
       //alert("hi!");
       $('img[src*="svg"]').attr('src', function() {
           return $(this).attr('src').replace('.svg', '.png');

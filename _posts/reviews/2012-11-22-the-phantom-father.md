@@ -5,11 +5,14 @@ imdb: tt1382728
 image: the-phantom-father.jpg
 author: caseyt 
 stars: 2
-excerpt: "Like the main character in <em>The Phantom Father</em>, I felt compelled to do some research about history. Specifically, your history. I was curious how someone with a decidedly non-Romanian name gets not only a small role, but a co-writer credit on a Romanian film. And then I felt shame. You wrote <em>Wild at Heart</em>! And <em>Lost Highway</em>! I love David Lynch &ndash; I should know this!"
+excerpt: "Like the main character in _The Phantom Father_, I felt compelled to do some research about history. Specifically, your history. I was curious how someone with a decidedly non-Romanian name gets not only a small role, but a co-writer credit on a Romanian film. And then I felt shame. You wrote _Wild at Heart_! And _Lost Highway_! I love David Lynch - I should know this! "
 position: Co-writer and Actor
 addressee: Barry Giffords
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - series
+series-name: European Union Film Festival 2012
 title: "The Phantom Father"
 comments: true
 tags: [Barry Gifford, EU Film Festival, EUFF, European Union, Festivals, Letters, Marcel Lures, Romania]

@@ -9,7 +9,10 @@ excerpt: "You certainly had a lot of disparate elements to work with in Jonathan
 position: Editor
 addressee: Geoff Ashenhurst
 layout: review
-categories: reviews
+categories:
+  - reviews
+  - series
+series-name: TIFF 2013
 title: "The Art of the Steal"
 comments: true
 tags: [TIFF13, Canadian, Capper, Heist, Jay Baruchel, Jonothan Sobol, Kurt Russell, Letters, Matt Dillon, Ocean's 11, The Art of Steal, TIFF, Toronto International Film Festival]

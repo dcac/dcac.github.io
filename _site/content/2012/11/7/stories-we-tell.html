@@ -74,7 +74,7 @@
             <ul>
               <li><a href="/features/">All Features</a></li>
               <li><a href="/features/essays/">Essays</a></li>
-              <li><a href="/features/series/">Series</a></li>
+              <li><a href="/features/series/">Series &amp; Festivals</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>
@@ -133,7 +133,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/8/15/sabotage.html" class="latest-review"><strong>Latest post: </strong><em>Sabotage</em> - Dear Arnold Schwarzenegger, Actor</a></li>
             
           </ul>
         </section>
@@ -204,6 +204,7 @@
               Christopher</p>
             </div>
               
+            
             
           </div>
         </div>
@@ -369,7 +370,7 @@
             <ul>
               <li><a href="/features/">All Features</a></li>
               <li><a href="/features/essays/">Essays</a></li>
-              <li><a href="/features/series/">Series</a></li>
+              <li><a href="/features/series/">Series &amp; Festivals</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>                  
@@ -575,7 +576,7 @@
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });
-    if(Modernizr.svg) {
+    if(!Modernizr.svgasimg) {
       //alert("hi!");
       $('img[src*="svg"]').attr('src', function() {
           return $(this).attr('src').replace('.svg', '.png');

@@ -488,6 +488,12 @@ div.review-text h2.star-rating {
   color: #333333;
   margin-top: 0.3125rem;
 }
+@media only screen and (max-width: 640px) {
+  div.review-text p,
+  div.review-text h2.star-rating {
+    display: none;
+  }
+}
 p {
   font-family: "Georgia", serif;
   color: #333333;
@@ -644,27 +650,27 @@ div.film-credits {
 }
 div.film-credits h1 {
   margin: 0;
-  font-size: 1.5rem;
+  font-size: 0.75rem;
   line-height: 1.25rem;
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
-  color: #000000;
+  color: #636467;
   display: block;
   text-align: center;
-  text-transform: uppercase;
   margin-bottom: 0.625rem;
+  padding: 0 0.9375rem;
 }
 article h1.film-credits-title {
   margin: 0;
-  font-size: 1.5rem;
+  font-size: 0.75rem;
   line-height: 1.25rem;
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
-  color: #000000;
+  color: #636467;
   display: block;
   text-align: center;
-  text-transform: uppercase;
   margin-bottom: 0.625rem;
+  padding: 0 0.9375rem;
   margin-top: 0.625rem;
 }
 article h2.film-credits-description {
@@ -696,15 +702,15 @@ div.now-streaming {
 }
 .now-streaming h1 {
   margin: 0;
-  font-size: 1.5rem;
+  font-size: 0.75rem;
   line-height: 1.25rem;
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
-  color: #000000;
+  color: #636467;
   display: block;
   text-align: center;
-  text-transform: uppercase;
   margin-bottom: 0.625rem;
+  padding: 0 0.9375rem;
 }
 ul.now-streaming-list {
   list-style: none;
@@ -722,6 +728,7 @@ ul.now-streaming-list li.now-streaming-title span.star-rating {
 }
 ul.now-streaming-list li.now-streaming-title span.star-rating img.star-small {
   height: 0.625rem;
+  width: 0.625rem;
   margin-right: 0.0625rem;
   margin-left: 0.0625rem;
   -webkit-filter: none;
@@ -816,6 +823,9 @@ section.top-nav ul li a.slash {
 }
 section.top-nav a:hover {
   color: #000000;
+}
+.section-nav-head {
+  margin-bottom: 2.8125rem;
 }
 .section-title {
   width: 100%;
@@ -1442,7 +1452,7 @@ div.search-image img {
   display: none;
 }
 .close-x {
-  background: transparent url(../img/close-x.svg.svg) no-repeat 0 0;
+  background: transparent url(../img/close-x.svg) no-repeat 0 0;
   background-size: cover;
   width: 3.125rem;
   height: 3.125rem;
@@ -1456,7 +1466,7 @@ div.search-image img {
   margin: 0;
 }
 .no-svg .close-x {
-  background: transparent url(../img/close-x.svg.png) no-repeat 0 0;
+  background: transparent url(../img/close-x.png) no-repeat 0 0;
 }
 @media only screen and (max-width: 640px) {
   .close-x {
@@ -2438,44 +2448,44 @@ ul.pagination {
   display: inline-block;
 }
 ul.pagination span.right-arrow-off {
-  background: transparent url(../img/url(../img/global/pagination/right-arrow-off.svg).svg) no-repeat 0 0;
+  background: transparent url(../img/global/pagination/right-arrow-off.svg) no-repeat 0 0;
   width: 25px;
   height: 25px;
   display: inline-block;
   margin-top: 5px;
 }
 .no-svg ul.pagination span.right-arrow-off {
-  background: transparent url(../img/url(../img/global/pagination/right-arrow-off.svg).png) no-repeat 0 0;
+  background: transparent url(../img/global/pagination/right-arrow-off.png) no-repeat 0 0;
 }
 ul.pagination span.right-arrow-on {
-  background: transparent url(../img/url(../img/global/pagination/right-arrow-on.svg).svg) no-repeat 0 0;
+  background: transparent url(../img/global/pagination/right-arrow-on.svg) no-repeat 0 0;
   width: 25px;
   height: 25px;
   display: inline-block;
   margin-top: 5px;
 }
 .no-svg ul.pagination span.right-arrow-on {
-  background: transparent url(../img/url(../img/global/pagination/right-arrow-on.svg).png) no-repeat 0 0;
+  background: transparent url(../img/global/pagination/right-arrow-on.png) no-repeat 0 0;
 }
 ul.pagination span.left-arrow-off {
-  background: transparent url(../img/url(../img/global/pagination/left-arrow-off.svg).svg) no-repeat 0 0;
+  background: transparent url(../img/global/pagination/left-arrow-off.svg) no-repeat 0 0;
   width: 25px;
   height: 25px;
   display: inline-block;
   margin-top: 5px;
 }
 .no-svg ul.pagination span.left-arrow-off {
-  background: transparent url(../img/url(../img/global/pagination/left-arrow-off.svg).png) no-repeat 0 0;
+  background: transparent url(../img/global/pagination/left-arrow-off.png) no-repeat 0 0;
 }
 ul.pagination span.left-arrow-on {
-  background: transparent url(../img/url(../img/global/pagination/left-arrow-on.svg).svg) no-repeat 0 0;
+  background: transparent url(../img/global/pagination/left-arrow-on.svg) no-repeat 0 0;
   width: 25px;
   height: 25px;
   display: inline-block;
   margin-top: 5px;
 }
 .no-svg ul.pagination span.left-arrow-on {
-  background: transparent url(../img/url(../img/global/pagination/left-arrow-on.svg).png) no-repeat 0 0;
+  background: transparent url(../img/global/pagination/left-arrow-on.png) no-repeat 0 0;
 }
 ul.pagination li.current {
   /*
@@ -2627,10 +2637,14 @@ div.review-text h2.addressee {
 }
 div.author {
   min-height: 13.75rem;
+  margin-bottom: 2.8125rem;
 }
 .author h2 {
-  font-size: 0.875rem;
-  font-family: "Georgia", serif;
-  color: #333333;
-  margin-top: 5px;
+  font-size: 1.375rem;
+  font-weight: 700;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  color: #000000;
+  margin-top: 0.9375rem;
+  padding-bottom: 0.9375rem;
+  border-bottom: 0.3125rem solid #e6e7e8;
 }

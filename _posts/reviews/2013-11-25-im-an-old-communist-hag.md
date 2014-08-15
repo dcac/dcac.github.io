@@ -12,7 +12,7 @@ layout: review
 categories: 
   - reviews
   - series
-series-name: eu-festival-2013
+series-name: European Union Film Festival 2013
 title: "I'm an Old Communist Hag"
 comments: true
 tags: [communist, dictator, EU Film Festival, EU FIlm Festival 2013, EUFF, Festivals, Letters, Romania, Romanian]

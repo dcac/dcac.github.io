@@ -74,7 +74,7 @@
             <ul>
               <li><a href="/features/">All Features</a></li>
               <li><a href="/features/essays/">Essays</a></li>
-              <li><a href="/features/series/">Series</a></li>
+              <li><a href="/features/series/">Series &amp; Festivals</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>
@@ -133,14 +133,14 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/7/25/lucy.html" class="latest-review"><strong>Latest post: </strong><em>Lucy</em> - Dear Arnaud Hemery, Data Manager</a></li>
+            <li><a href="/content/2014/8/15/sabotage.html" class="latest-review"><strong>Latest post: </strong><em>Sabotage</em> - Dear Arnold Schwarzenegger, Actor</a></li>
             
           </ul>
         </section>
       </nav>
     </div>
 
-          <div class="row row-bottom-margin">
+          <div class="row section-nav-head">
       <div class="section-title">
         <h1>Reviews.</h1>
         <section>
@@ -155,6 +155,26 @@
     </div>
 
       <div class="row posts-grid" id="posts-grid">
+        
+          
+         <div class="section-post large-4 medium-4 small-6 columns left">
+          <a href="/content/2014/2/15/20-feet-from-stardom.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/20-feet-from-stardom.jpg" alt="20 Feet From Stardom" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/2/15/20-feet-from-stardom.html">
+                  <div class="review-text">
+                    <h1>20 Feet From Stardom</h1>
+                    <h2 class="addressee">Dear Gil Friesen, <span class="mobile-line-break"><br /></span>Producer</h2>
+                    <h2 class="author">By Di Golding</h2>
+                  </div>
+                </a>
+        </div>
         
           
          <div class="section-post large-4 medium-4 small-6 columns left">
@@ -597,7 +617,7 @@
         </div>
         
           
-         <div class="section-post large-4 medium-4 small-6 columns left">
+         <div class="section-post large-4 medium-4 small-6 columns left end">
           <a href="/content/2014/1/7/wolf-of-wall-street.html">
                   <div class="post-image">
                     <img src="/img/article/thumb-300/the-wolf-of-wall-street.jpg" alt="The Wolf of Wall Street" alt="Stamp" />
@@ -611,26 +631,6 @@
                   <div class="review-text">
                     <h1>The Wolf of Wall Street</h1>
                     <h2 class="addressee">Dear Jordan Belfort, <span class="mobile-line-break"><br /></span>Actor</h2>
-                    <h2 class="author">By Casey Tourangeau</h2>
-                  </div>
-                </a>
-        </div>
-        
-          
-         <div class="section-post large-4 medium-4 small-6 columns left end">
-          <a href="/content/2014/1/2/mandela-long-walk-to-freedom.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb-300/mandela-the-long-walk-to-freedom.jpg" alt="Mandela: Long Walk to Freedom" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2014/1/2/mandela-long-walk-to-freedom.html">
-                  <div class="review-text">
-                    <h1>Mandela: Long Walk to Freedom</h1>
-                    <h2 class="addressee">Dear Stephen Murphy, <span class="mobile-line-break"><br /></span>Key Prosthetic Makeup Artist</h2>
                     <h2 class="author">By Casey Tourangeau</h2>
                   </div>
                 </a>
@@ -738,7 +738,7 @@
             <ul>
               <li><a href="/features/">All Features</a></li>
               <li><a href="/features/essays/">Essays</a></li>
-              <li><a href="/features/series/">Series</a></li>
+              <li><a href="/features/series/">Series &amp; Festivals</a></li>
               <li><a href="/features/lists/">Lists</a></li>
             </ul>
           </li>                  
@@ -944,7 +944,7 @@
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });
-    if(Modernizr.svg) {
+    if(!Modernizr.svgasimg) {
       //alert("hi!");
       $('img[src*="svg"]').attr('src', function() {
           return $(this).attr('src').replace('.svg', '.png');

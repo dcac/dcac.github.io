@@ -11,7 +11,9 @@ addressee: Spike Jonze
 layout: review
 categories:
   - reviews
+  - series
 title: "Shut Up and Play the Hits"
+series-name: SXSW 2012
 comments: true
 tags: [streaming,concert, documentary, LCD Soundsystem, Postcards, SXSW]
 ---
