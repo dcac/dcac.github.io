@@ -207,7 +207,9 @@
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });
-    if(!Modernizr.svgasimg) {
+    Modernizr.addTest('svgasimg', document.implementation.hasFeature('http://www.w3.org/TR/SVG11/feature#Image', '1.1'));
+
+    if (!Modernizr.svgasimg) {
       //alert("hi!");
       $('img[src*="svg"]').attr('src', function() {
           return $(this).attr('src').replace('.svg', '.png');

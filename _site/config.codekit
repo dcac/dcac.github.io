@@ -308,94 +308,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/bower_components\/modernizr\/feature-detects\/elem-progress-meter.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/modernizr\/feature-detects\/elem-progress-meter.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/modernizr\/feature-detects\/min\/elem-progress-meter-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/modernizr\/feature-detects\/elem-ruby.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/modernizr\/feature-detects\/elem-ruby.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/modernizr\/feature-detects\/min\/elem-ruby-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/modernizr\/feature-detects\/elem-time.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/modernizr\/feature-detects\/elem-time.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/modernizr\/feature-detects\/min\/elem-time-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/modernizr\/feature-detects\/elem-track.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/modernizr\/feature-detects\/elem-track.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/modernizr\/feature-detects\/min\/elem-track-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/modernizr\/feature-detects\/emoji.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/modernizr\/feature-detects\/emoji.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/modernizr\/feature-detects\/min\/emoji-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/modernizr\/feature-detects\/es5-strictmode.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/modernizr\/feature-detects\/es5-strictmode.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/modernizr\/feature-detects\/min\/es5-strictmode-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/modernizr\/feature-detects\/event-deviceorientation-motion.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/modernizr\/feature-detects\/event-deviceorientation-motion.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/modernizr\/feature-detects\/min\/event-deviceorientation-motion-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/modernizr\/feature-detects\/exif-orientation.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/modernizr\/feature-detects\/exif-orientation.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/modernizr\/feature-detects\/min\/exif-orientation-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
 	"\/_site\/bower_components\/modernizr\/feature-detects\/file-api.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -28639,7 +28551,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 528168,
+		"initialSize": 262417,
 		"inputAbbreviatedPath": "\/img\/article\/main\/the-hangover-part-3.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/the-hangover-part-3.jpg",
 		"outputPathIsOutsideProject": 0,

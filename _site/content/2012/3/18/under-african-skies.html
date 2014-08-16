@@ -62,6 +62,7 @@
     <!-- Sidebar Nav -->
     <ul>
       <li><a href="#" id="side-search-toggle"><i class="fa fa-search"></i> <!-- Search --></a></li>
+      <li><a href="/">Home</a></li>
                           <li><span>Reviews</span>
             <ul>
               <li><a href="/reviews/">All Reviews</a></li>
@@ -192,7 +193,7 @@
 
 <p>Editing a documentary--especially one with so much musical performance--is a truly difficult task. And you made it look easy. Those scenes of Paul Simon reuniting with the South African musicians from <em>Graceland</em>? Masterful--they perfectly captured the joy of these artists playing together</p>
 
-<p>Was structuring the film around the sit-down between Simon and Dali Trambo, the founder of Artists Against Apartheid your idea as well? It reminds me of one of director Joe Berlinger&#39;s earlier collaborations with co-director Bruce Sinofsky, <em>Metallica: Some Kind of Monster. _Either way, it was a nice way to represent both sides of the controversy that sprung up around Simon&#39;s</em> <em>1985 seminal album</em>. <em>Maybe in the end, Simon&#39;s side</em> _gets a little more attention (the film clearly sides with that), but the depiction was much more even handed than I expected.</p>
+<p>Was structuring the film around the sit-down between Simon and Dali Trambo, the founder of Artists Against Apartheid your idea as well? It reminds me of one of director Joe Berlinger&#39;s earlier collaborations with co-director Bruce Sinofsky, <em>Metallica: Some Kind of Monster.</em> Either way, it was a nice way to represent both sides of the controversy that sprung up around Simon&#39;s seminal 1985 album. Maybe in the end, Simon&#39;s side gets a little more attention (the film clearly sides with his arguments), but the depiction was much more even handed than I expected.</p>
 
 <p>Sadly, editing this seamless and effective often goes unnoticed, so take it as a compliment when no one mentions how well this film is put together. Well, no one except for me.</p>
 
@@ -201,8 +202,9 @@
             
               
             <div class="signature-block" style="background-image:url(/img/writers/)">
-              <p class="signature-block-signoff">Yours in annoyance,
-Casey the Bitter</p>
+              <p class="signature-block-signoff"><strong>Yours in annoyance,</strong></p>
+
+<p>Casey the Bitter</p>
 
             </div>
               
@@ -600,7 +602,9 @@ Casey the Bitter</p>
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });
-    if(!Modernizr.svgasimg) {
+    Modernizr.addTest('svgasimg', document.implementation.hasFeature('http://www.w3.org/TR/SVG11/feature#Image', '1.1'));
+
+    if (!Modernizr.svgasimg) {
       //alert("hi!");
       $('img[src*="svg"]').attr('src', function() {
           return $(this).attr('src').replace('.svg', '.png');

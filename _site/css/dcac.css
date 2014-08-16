@@ -2058,11 +2058,13 @@ h3 span.position-small-txt {
   margin: 0 auto;
   margin-top: 1.25rem;
 }
-#review-copy ul {
+#review-copy ul,
+ol {
   margin-top: 1.25rem;
 }
 #review-copy li {
   margin-top: 0;
+  list-style-position: inside;
 }
 .signature {
   background-position-x: 80px;
@@ -2247,7 +2249,8 @@ h1.feature-hero {
 }
 @media only screen and (max-width: 640px) {
   h1.feature-hero {
-    font-size: 60px;
+    font-size: 2.5rem;
+    line-height: 2.5rem;
   }
 }
 @media only screen and (max-width: 640px) {
