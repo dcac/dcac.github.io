@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: life-itself.jpg
 imdb: tt2382298
 author: caseyt

@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: the-canyons.jpg
 imdb: tt2292959
 author: dig

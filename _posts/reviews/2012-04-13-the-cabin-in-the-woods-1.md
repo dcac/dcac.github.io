@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1259521
 image: the-cabin-in-the-woods-1.jpg
 author: jaredy

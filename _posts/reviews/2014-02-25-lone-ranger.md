@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1210819
 layout: review
 categories: 

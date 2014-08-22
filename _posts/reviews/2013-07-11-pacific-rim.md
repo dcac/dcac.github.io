@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1663662
 image: pacific-rim.jpg
 author: coryh

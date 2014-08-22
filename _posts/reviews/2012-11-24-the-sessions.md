@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1866249
 image: the-sessions.jpg
 author: christopherr

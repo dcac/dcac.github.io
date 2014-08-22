@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1623288
 image: paranorman.jpg
 author: caseyt

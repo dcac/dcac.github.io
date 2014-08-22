@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: laffaire-dumont.jpg
 imdb: tt2032388
 author: christopherr

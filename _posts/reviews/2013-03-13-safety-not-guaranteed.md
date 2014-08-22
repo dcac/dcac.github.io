@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: safety-not-guaranteed.jpg
 imdb: tt1862079
 author: jaredy

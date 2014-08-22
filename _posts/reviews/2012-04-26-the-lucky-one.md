@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1327194
 image: the-lucky-one.jpg
 author: caseyt

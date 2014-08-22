@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 author: all
 image: mockbusters.jpg
 stars: 

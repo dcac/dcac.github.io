@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: the-grand-seduction.jpg
 imdb: tt2319580
 author: natm 

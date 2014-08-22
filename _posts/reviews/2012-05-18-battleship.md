@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1440129
 image: battleship.jpg
 author: caseyt

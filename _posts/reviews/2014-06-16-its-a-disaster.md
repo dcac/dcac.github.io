@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: its-a-disaster.jpg
 imdb: tt1995341
 author: dig

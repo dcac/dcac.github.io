@@ -9,7 +9,18 @@ $(document).ready(function () {
       'width': ww,
       //'height': wh
       //'height': '500px'
-      });
+      });if($(window).width() < 1200){
+        $('#title-img').addClass('title-img');
+        $('#title-img').removeClass('title-img-fade');
+        $('#story-title').css({'background-color':'transparent'});
+        //$.stellar('refresh');
+      } 
+      else{
+          $('#title-img').addClass('title-img-fade');
+          $('#title-img').removeClass('title-img');
+          $('#story-title').css({'background-color':'#000'});
+          //$.stellar('refresh');
+      } 
     }
     //hide and show the mini nav bar for desktop and tablet layouts
     $("#top-nav").waypoint(function(direction){
@@ -29,12 +40,24 @@ $(document).ready(function () {
         horizontalScrolling: false,
         verticalOffset: 0,
         horizontalOffset: 0,
-    		hideDistantElements: false
+    		hideDistantElements: false,
+    		responsive: true
       });
-    } 
+      $('#title-img').attr("data-stellar-background-ratio",".25");
+      $('.status-row').attr("data-stellar-ratio","1.1");
+      $('.people-row').attr("data-stellar-ratio","1.1");
+    }
+    else{
+      //alert('hi');
+      $('#title-img').removeAttr("data-stellar-background-ratio");
+      $('.status-row').removeAttr("data-stellar-ratio");
+      $('.people-row').removeAttr("data-stellar-ratio");
+
+    }
   }
   $(window).load(function() {
     winResized();
+    
   }).bind('resize',function() {
     winResized();
     $('#mini-top-nav.mini-top-nav-hidden').removeAttr('style');

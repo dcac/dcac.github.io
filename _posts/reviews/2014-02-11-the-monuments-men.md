@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt2177771
 layout: review
 categories: [reviews,current-releases]

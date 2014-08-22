@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt2112868
 image: under-african-skies.jpeg
 author: caseyt

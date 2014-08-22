@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: still-mine.jpg
 imdb: tt2073086
 author: christopherr

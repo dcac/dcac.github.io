@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: the-fifth-estate.jpg
 imdb: tt1837703
 author: christopherr 

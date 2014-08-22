@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1764651
 image: the-expendables-2.jpg
 author: coryh

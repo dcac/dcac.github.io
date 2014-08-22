@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt0383028
 image: synecdoche-new-york.jpg
 author: coryh

@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: lee-daniels-the-butler.jpg
 imdb: tt1327773
 author: erinc

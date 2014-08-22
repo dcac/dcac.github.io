@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: how-i-live-now.jpeg
 imdb: tt1894476
 author: christopherr 

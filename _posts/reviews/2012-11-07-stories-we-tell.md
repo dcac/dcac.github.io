@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt2366450
 image:  stories-we-tell.jpg
 author: christopherr 

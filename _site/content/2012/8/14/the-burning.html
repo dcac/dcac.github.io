@@ -36,16 +36,49 @@
         $('#nav-header').css({'display':'none'});
       });
     });
-    if(!Modernizr.svg) {
-      $('img[src*="svg"]').attr('src', function() {
-          return $(this).attr('src').replace('.svg', '.png');
-      });
-    }
 		</script>
 
     <!-- Custom styles for this template -->
   
     <link href="/css/dcac.css" rel="stylesheet" />
+    
+    <style>
+    .title-img-fade {
+    background-image: -webkit-linear-gradient(left, 
+        rgba(0,0,0,0.9) 0%, 
+        rgba(0,0,0,0) 20%,
+        rgba(0,0,0,0) 80%,
+        rgba(0,0,0,0.9) 100%
+      ),
+      url('/img/article/main/the-burning.jpg');
+    background-image: -moz-linear-gradient(left, 
+        rgba(0,0,0,0.9) 0%, 
+        rgba(0,0,0,0) 20%,
+        rgba(0,0,0,0) 80%,
+        rgba(0,0,0,0.9) 100%
+      ),
+      url('/img/article/main/the-burning.jpg');
+    background-image: -o-linear-gradient(left, 
+        rgba(0,0,0,0.9) 0%, 
+        rgba(0,0,0,0) 20%,
+        rgba(0,0,0,0) 80%,
+        rgba(0,0,0,0.9) 100%
+      ),
+      url('/img/article/main/the-burning.jpg');
+    background-image: 
+      linear-gradient(left, 
+        rgba(0,0,0,0.9) 0%, 
+        rgba(0,0,0,0) 20%,
+        rgba(0,0,0,0) 80%,
+        rgba(0,0,0,0.9) 100%
+      ),
+      url('/img/article/main/the-burning.jpg');
+    }
+    .title-img {
+      background-image: url('/img/article/main/the-burning.jpg');
+    }
+  </style>
+    
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -144,7 +177,7 @@
 
       <section>
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/main/the-burning.jpg);" data-stellar-background-ratio=".25"></div>
+          <div id="title-img" class="title-img" data-stellar-background-ratio=".25"></div>
           <div class="row">
             <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
@@ -244,26 +277,6 @@
           
             
               <div class="large-4 medium-4 columns main-link-small">
-                <a href="/content/2013/7/12/mockbusters.html">
-                  <div class="post-image">
-                    <img src="/img/features/thumb-300/mockbusters.jpg" alt="Mockbusters" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    
-                  </div>
-                </a>
-                
-                <a href="/content/2013/7/12/mockbusters.html">
-                  <div class="review-text">
-                    <h1>Mockbusters</h1>
-                    <h2 class="addressee">Dear , <span class="mobile-line-break"><br /></span></h2>
-                    <h2 class="author">By Dear Cast & Crew</h2>
-                  </div>
-                </a>
-              </div>
-          
-          
-            
-              <div class="large-4 medium-4 columns hide-for-small-only">
                 <a href="/content/2013/7/12/godzilla-week.html">
                   <div class="post-image">
                     <img src="/img/features/thumb-300/godzilla-week.jpg" alt="Godzilla Week" alt="Stamp" />
@@ -275,6 +288,26 @@
                 <a href="/content/2013/7/12/godzilla-week.html">
                   <div class="review-text">
                     <h1>Godzilla Week</h1>
+                    <h2 class="addressee">Dear , <span class="mobile-line-break"><br /></span></h2>
+                    <h2 class="author">By Dear Cast & Crew</h2>
+                  </div>
+                </a>
+              </div>
+          
+          
+            
+              <div class="large-4 medium-4 columns hide-for-small-only">
+                <a href="/content/2013/7/12/mockbusters.html">
+                  <div class="post-image">
+                    <img src="/img/features/thumb-300/mockbusters.jpg" alt="Mockbusters" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                  </div>
+                </a>
+                
+                <a href="/content/2013/7/12/mockbusters.html">
+                  <div class="review-text">
+                    <h1>Mockbusters</h1>
                     <h2 class="addressee">Dear , <span class="mobile-line-break"><br /></span></h2>
                     <h2 class="author">By Dear Cast & Crew</h2>
                   </div>
@@ -589,14 +622,6 @@
     <script src="/vendor/jquery.lunr.search.js" type="text/javascript" charset="utf-8"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    if($(window).width() > 600){ 
-      $(window).stellar({
-        horizontalScrolling: false,
-        verticalOffset: 0,
-        horizontalOffset: 0,
-    		hideDistantElements: false
-      });
-    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

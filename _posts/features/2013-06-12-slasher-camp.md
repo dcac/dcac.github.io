@@ -1,6 +1,6 @@
 ---
 published: true
-section: Features
+section: Content
 author: all
 image: slasher-camp.jpg
 stars: 

@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: devils-knot-jpg
 imdb: tt0804463
 author: christopherr

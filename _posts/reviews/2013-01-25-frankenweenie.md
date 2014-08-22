@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: frankenweenie.jpg
 imdb: tt1142977
 author: coryh

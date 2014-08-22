@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: the-act-of-killing.jpg
 imdb: tt2375605
 author: christopherr

@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt3063516
 image: jackass-presents-bad-grandpa.jpg
 author: coryh

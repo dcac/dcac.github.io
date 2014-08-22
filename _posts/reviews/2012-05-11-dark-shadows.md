@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1077368
 image: dark-shadows.jpg
 author: christopherr

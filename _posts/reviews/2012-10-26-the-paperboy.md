@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1496422
 image: the-paperboy.jpg
 author: caseyt 

@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt2384328
 image: sarah-prefers-to-run.jpg
 author: christopherr

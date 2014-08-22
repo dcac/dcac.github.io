@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1366344
 image: the-sitter
 author: coryh 

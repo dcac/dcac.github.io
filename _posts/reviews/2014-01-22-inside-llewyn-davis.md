@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: inside-llewyn-davis.jpg
 imdb: tt2042568
 author: erinc 

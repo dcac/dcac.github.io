@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: youre-next.jpg
 imdb: tt1853739
 author: jenniferm

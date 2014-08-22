@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1253863
 image: 300-rise-of-an-empire.jpg
 stars: 3

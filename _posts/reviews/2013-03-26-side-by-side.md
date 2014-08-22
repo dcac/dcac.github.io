@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: side-by-side.jpg
 imdb: tt2014338
 author: christopherr

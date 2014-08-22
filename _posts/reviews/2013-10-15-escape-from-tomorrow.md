@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: escape-from-tomorrow.jpg
 imdb: tt2187884
 author: christopherr 

@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt2740710
 image: atlantic-rim.jpg
 author: kelany

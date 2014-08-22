@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: the-croods.jpg
 author: jaredy
 stars: 2.5

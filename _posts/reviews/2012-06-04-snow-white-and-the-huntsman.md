@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1735898
 image: snow-white-and-the-huntsman.jpg
 author: christopherr

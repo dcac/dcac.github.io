@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: identity-thief.jpg
 imdb: tt2024432
 author: jaredy

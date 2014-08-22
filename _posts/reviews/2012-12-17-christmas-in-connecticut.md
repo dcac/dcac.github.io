@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt0097958
 image: christmas-in-connecticut.jpg
 author: christopherr

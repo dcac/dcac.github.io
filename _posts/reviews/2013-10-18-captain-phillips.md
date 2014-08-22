@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: captain-phillips.jpg
 imdb: tt1535109
 author: jaredy 

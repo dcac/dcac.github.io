@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt0067217
 image: the-hospital.jpg
 author: coryh

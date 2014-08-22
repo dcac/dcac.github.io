@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: chasing-ice.jpg
 imdb: tt1579361
 author: christopherr

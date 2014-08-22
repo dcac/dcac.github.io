@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1675434
 image: intouchables.jpg
 author: christopherr 

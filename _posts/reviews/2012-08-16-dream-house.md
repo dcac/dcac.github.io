@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1462041
 image: dream-house.jpg
 author: christopherr 

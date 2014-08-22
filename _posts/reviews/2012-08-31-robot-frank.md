@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1990314
 image: robot-and-frank.jpg
 author: caseyt

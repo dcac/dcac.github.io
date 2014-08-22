@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1245492
 image: this-is-the-end.jpeg
 author: jaredy 

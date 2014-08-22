@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt2076220
 image: holy-motors.jpg
 author: christopherr 

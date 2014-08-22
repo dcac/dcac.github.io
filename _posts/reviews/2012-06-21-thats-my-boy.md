@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1232200
 image: thats-my-boy.jpg
 author: jaredy

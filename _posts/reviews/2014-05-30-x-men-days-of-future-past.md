@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: x-men-days-of-future-past.jpg
 imdb: tt1877832
 author: jaredy

@@ -36,16 +36,12 @@
         $('#nav-header').css({'display':'none'});
       });
     });
-    if(!Modernizr.svg) {
-      $('img[src*="svg"]').attr('src', function() {
-          return $(this).attr('src').replace('.svg', '.png');
-      });
-    }
 		</script>
 
     <!-- Custom styles for this template -->
   
     <link href="/css/dcac.css" rel="stylesheet" />
+    
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -258,7 +254,7 @@
         </div>
         
           
-         <div class="section-post large-4 medium-4 small-6 columns left">
+         <div class="section-post large-4 medium-4 small-6 columns left end">
           <a href="/content/2012/3/1/tinker-tailor-soldier-spy.html">
                   <div class="post-image">
                     <img src="/img/article/thumb-300/tinker-tailor-soldier-spy.jpg" alt="Tinker Tailor Soldier Spy" alt="Stamp" />
@@ -273,26 +269,6 @@
                     <h1>Tinker Tailor Soldier Spy</h1>
                     <h2 class="addressee">Dear Dear Peter Straughan, <span class="mobile-line-break"><br /></span>Screenwriter</h2>
                     <h2 class="author">By Cory Haggart</h2>
-                  </div>
-                </a>
-        </div>
-        
-          
-         <div class="section-post large-4 medium-4 small-6 columns left end">
-          <a href="/content/2012/2/24/warrior.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb-300/warrior.jpg" alt="Warrior" alt="Stamp" />
-                    <div class="corner-stamp"></div>
-                    
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2012/2/24/warrior.html">
-                  <div class="review-text">
-                    <h1>Warrior</h1>
-                    <h2 class="addressee">Dear Bryan Callen, <span class="mobile-line-break"><br /></span>Himself</h2>
-                    <h2 class="author">By Jared Young</h2>
                   </div>
                 </a>
         </div>
@@ -594,14 +570,6 @@
     <script src="/vendor/jquery.lunr.search.js" type="text/javascript" charset="utf-8"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    if($(window).width() > 600){ 
-      $(window).stellar({
-        horizontalScrolling: false,
-        verticalOffset: 0,
-        horizontalOffset: 0,
-    		hideDistantElements: false
-      });
-    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

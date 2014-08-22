@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: the-invisible-woman.jpg
 author: jenniferm
 stars: 4.5

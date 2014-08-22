@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: gabrielle.jpg
 imdb: tt3106846
 author: christopherr 

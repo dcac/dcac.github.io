@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1282153
 image: the-strange-case-of-angelica.jpg
 author: jaredy 

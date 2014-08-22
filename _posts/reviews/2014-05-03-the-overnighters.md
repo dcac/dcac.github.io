@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: the-overnighters.jpg
 imdb: tt3263996
 author: christopherr

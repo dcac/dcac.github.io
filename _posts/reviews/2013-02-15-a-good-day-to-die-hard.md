@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: a-good-day-to-die-hard.jpg
 imdb: tt1606378
 author: caseyt

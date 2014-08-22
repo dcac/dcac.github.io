@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: rhymes-for-young-ghouls.jpg
 imdb: tt2385195
 author: natm 

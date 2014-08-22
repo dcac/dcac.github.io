@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: oz-the-great-and-powerful.jpg
 imdb: tt1623205
 author: jaredy

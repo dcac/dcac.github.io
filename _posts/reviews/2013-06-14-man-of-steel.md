@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt0770828
 image: man-of-steel.jpg
 author: caseyt

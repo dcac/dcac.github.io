@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1645170
 image: the-dictator.jpg
 author: jaredy

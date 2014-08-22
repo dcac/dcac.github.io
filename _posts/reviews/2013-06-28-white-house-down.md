@@ -1,7 +1,7 @@
 ---
 layout: review
 published: true
-section: General
+section: Content
 image: "white-house-down.jpg"
 author: christopherr
 stars: 2

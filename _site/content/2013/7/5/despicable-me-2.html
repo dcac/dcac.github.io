@@ -36,16 +36,49 @@
         $('#nav-header').css({'display':'none'});
       });
     });
-    if(!Modernizr.svg) {
-      $('img[src*="svg"]').attr('src', function() {
-          return $(this).attr('src').replace('.svg', '.png');
-      });
-    }
 		</script>
 
     <!-- Custom styles for this template -->
   
     <link href="/css/dcac.css" rel="stylesheet" />
+    
+    <style>
+    .title-img-fade {
+    background-image: -webkit-linear-gradient(left, 
+        rgba(0,0,0,0.9) 0%, 
+        rgba(0,0,0,0) 20%,
+        rgba(0,0,0,0) 80%,
+        rgba(0,0,0,0.9) 100%
+      ),
+      url('/img/article/main/despicable-me-2.jpg');
+    background-image: -moz-linear-gradient(left, 
+        rgba(0,0,0,0.9) 0%, 
+        rgba(0,0,0,0) 20%,
+        rgba(0,0,0,0) 80%,
+        rgba(0,0,0,0.9) 100%
+      ),
+      url('/img/article/main/despicable-me-2.jpg');
+    background-image: -o-linear-gradient(left, 
+        rgba(0,0,0,0.9) 0%, 
+        rgba(0,0,0,0) 20%,
+        rgba(0,0,0,0) 80%,
+        rgba(0,0,0,0.9) 100%
+      ),
+      url('/img/article/main/despicable-me-2.jpg');
+    background-image: 
+      linear-gradient(left, 
+        rgba(0,0,0,0.9) 0%, 
+        rgba(0,0,0,0) 20%,
+        rgba(0,0,0,0) 80%,
+        rgba(0,0,0,0.9) 100%
+      ),
+      url('/img/article/main/despicable-me-2.jpg');
+    }
+    .title-img {
+      background-image: url('/img/article/main/despicable-me-2.jpg');
+    }
+  </style>
+    
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -104,7 +137,7 @@
     <div>
       <div class="container-shadow" id="main-container">    
                
-<div class="full-grey">
+<div class="full-white">
       <div class="row collapse">
         <div class="section-header">
           <section class="top-nav" id="top-nav">
@@ -144,7 +177,7 @@
 
       <section>
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/main/despicable-me-2.jpg);" data-stellar-background-ratio=".25"></div>
+          <div id="title-img" class="title-img" data-stellar-background-ratio=".25"></div>
           <div class="row">
             <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
@@ -187,23 +220,23 @@
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
             <p class="intro hide-for-small">Dear Katie Ballentine,</p>
-            <p class="intro">It makes sense to me that a film like <em>Despicable Me 2</em> would need a marketing consultant. I don&rsquo;t mean that as a shot at the film&rsquo;s quality; I&rsquo;m talking about public perception of animated films in general. When it comes to summer releases, animated films, as far as moviegoers seem to be concerned, fall into two basic tags: the one from Pixar, and everything else. With <em>Despicable Me 2</em> opening only a week and a half after Pixar&rsquo;s own <em>Monsters University</em>, I&rsquo;m sure you had your marketing work cut out for you.&nbsp;</p>
+            <p class="intro">It makes sense to me that a film like <em>Despicable Me 2</em> would need a marketing consultant. I don&#39;t mean that as a shot at the film&#39;s quality; I&#39;m talking about public perception of animated films in general. When it comes to summer releases, animated films, as far as moviegoers seem to be concerned, fall into two basic tags: the one from Pixar, and everything else. With <em>Despicable Me 2</em> opening only a week and a half after Pixar&#39;s own <em>Monsters University</em>, I&#39;m sure you had your marketing work cut out for you. </p>
 
-<p>Now, I&rsquo;m aware it&rsquo;s a critical fallacy to judge a film based on what it&rsquo;s not. It&rsquo;s an easy trap to fall into and&ndash; in the spirit of full disclosure &ndash; I&rsquo;ve been guilty of that sin myself (sorry, <a href="/content/2013/6/14/man-of-steel.html"><em>Man of Steel</em></a>, but you had it coming). So before this turns into an Armond White-style list of arbitrary comparisons*, I&rsquo;ll assure you, that&rsquo;s not what I&rsquo;m here to do. (Besides, you can read <a href="/content/2013/6/21/monsters-university.html">my thoughts</a> on <em>Monsters University</em> on your own time.)</p>
+<p>Now, I&#39;m aware it&#39;s a critical fallacy to judge a film based on what it&#39;s not. It&#39;s an easy trap to fall into and- in the spirit of full disclosure - I&#39;ve been guilty of that sin myself (sorry, <a href="/content/2013/6/14/man-of-steel.html"><em>Man of Steel</em></a>, but you had it coming). So before this turns into an Armond White-style list of arbitrary comparisons*, I&#39;ll assure you, that&#39;s not what I&#39;m here to do. (Besides, you can read <a href="/content/2013/6/21/monsters-university.html">my thoughts</a> on <em>Monsters University</em> on your own time.)</p>
 
-<p>From your own marketer&rsquo;s point of view, there&rsquo;s certainly plenty to get an audience interested in <em>Despicable Me 2.</em> As a sequel, much of your heavy lifting is already done: Steve Carell&rsquo;s Gru, the former-evil-scientist-turned-adoptive-father-to-three-daughters, as well as his army of yellow, squat, not-too-bright (but zany!) minions need no introduction. And the addition of Kristen Wiig, Ken Jeong, Benjamin Bratt, and Steve Coogan may not bring in the kids, but it does let the parents know that there is some top-drawer comic talent working alongside Carell.&nbsp;</p>
+<p>From your own marketer&#39;s point of view, there&#39;s certainly plenty to get an audience interested in <em>Despicable Me 2.</em> As a sequel, much of your heavy lifting is already done: Steve Carell&#39;s Gru, the former-evil-scientist-turned-adoptive-father-to-three-daughters, as well as his army of yellow, squat, not-too-bright (but zany!) minions need no introduction. And the addition of Kristen Wiig, Ken Jeong, Benjamin Bratt, and Steve Coogan may not bring in the kids, but it does let the parents know that there is some top-drawer comic talent working alongside Carell. </p>
 
-<p>Story wise, this also seems like a pretty easy sell, introducing some standard-but-fun spy film conventions into the <em>Despicable Me </em>universe. Contacted by the Anti Villain League, Gru is teamed up with Agent Lucy Wilde (Wiig) to investigate a plot that involves a giant flying magnet, world domination, and the local shopping mall. It&rsquo;s is a good set up, and Carrell and Wiig, posing as new mall shop owners, make a cute, supposedly mismatched undercover odd couple, even thought the outcome of their relationship is never in question. Unfortunately, like many marketing campaigns, this film is all set up. It stumbles in delivering the goods.</p>
+<p>Story wise, this also seems like a pretty easy sell, introducing some standard-but-fun spy film conventions into the _Despicable Me _universe. Contacted by the Anti Villain League, Gru is teamed up with Agent Lucy Wilde (Wiig) to investigate a plot that involves a giant flying magnet, world domination, and the local shopping mall. It&#39;s is a good set up, and Carrell and Wiig, posing as new mall shop owners, make a cute, supposedly mismatched undercover odd couple, even thought the outcome of their relationship is never in question. Unfortunately, like many marketing campaigns, this film is all set up. It stumbles in delivering the goods.</p>
 
-<p>When first given his assignment, Gru is shown a number of possible suspects, all shop owners. But what looks to be the set up to a fun caper &ndash; the reclusive Gru forced to interact with his fellow shop keeps &ndash; is mostly a dead end. Sure, there are two possible villains (Bratt and Jeong), but as it unfolds, <em>Despicable Me 2</em> loses its focus, adding extra stories (Gru&rsquo;s dating life, the first crush of one of his) that, while cute, drain much of the primary narrative&rsquo;s momentum. A few sequences that rely a little too much on pop culture references also do no favours, making the film itself feel less sure about its central premise than it should.&nbsp;</p>
+<p>When first given his assignment, Gru is shown a number of possible suspects, all shop owners. But what looks to be the set up to a fun caper - the reclusive Gru forced to interact with his fellow shop keeps - is mostly a dead end. Sure, there are two possible villains (Bratt and Jeong), but as it unfolds, <em>Despicable Me 2</em> loses its focus, adding extra stories (Gru&#39;s dating life, the first crush of one of his) that, while cute, drain much of the primary narrative&#39;s momentum. A few sequences that rely a little too much on pop culture references also do no favours, making the film itself feel less sure about its central premise than it should. </p>
 
-<p>Still, like the expertise you bring to your projects, <em>Despicable Me 2</em> does understand its target demographic. The theatre in which I watched it was full of children delighted with all of its busyness (or maybe because of it), and they didn&rsquo;t seem phased by, say, whether or not they grasped why a Barry White song was being used at a particular moment. For that, I&rsquo;ll give the film its due credit. I just wish I could have bought into it as wholly as they did.</p>
+<p>Still, like the expertise you bring to your projects, <em>Despicable Me 2</em> does understand its target demographic. The theatre in which I watched it was full of children delighted with all of its busyness (or maybe because of it), and they didn&#39;t seem phased by, say, whether or not they grasped why a Barry White song was being used at a particular moment. For that, I&#39;ll give the film its due credit. I just wish I could have bought into it as wholly as they did.</p>
 
 <p>Wanting to be more of an advocate,</p>
 
 <p>Casey</p>
 
-<p><p>*<em>Apologies if you are unfamiliar with White&rsquo;s oeuvre, but I cannot, in good conscience, bring myself to link to it here. For that, you&rsquo;re welcome.</em></p></div></p>
+<p>*<em>Apologies if you are unfamiliar with White&#39;s oeuvre, but I cannot, in good conscience, bring myself to link to it here. For that, you&#39;re welcome.</em></p>
 
             
               
@@ -574,14 +607,6 @@
     <script src="/vendor/jquery.lunr.search.js" type="text/javascript" charset="utf-8"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    if($(window).width() > 600){ 
-      $(window).stellar({
-        horizontalScrolling: false,
-        verticalOffset: 0,
-        horizontalOffset: 0,
-    		hideDistantElements: false
-      });
-    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

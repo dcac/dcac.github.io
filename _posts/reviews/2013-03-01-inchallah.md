@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: inchallah.jpg
 imdb: tt2336960
 author: christopherr

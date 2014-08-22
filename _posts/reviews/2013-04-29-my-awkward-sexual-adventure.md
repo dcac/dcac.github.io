@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: my-awkward-sexual-adventure.jpg
 imdb: tt2112210
 author: christopherr

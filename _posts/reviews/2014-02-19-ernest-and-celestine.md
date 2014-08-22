@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1816518
 image: ernest-and-celestine.jpg
 author: stefane

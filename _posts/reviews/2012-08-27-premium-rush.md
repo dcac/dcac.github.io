@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1547234
 image: premium-rush.jpg
 author: christopherr

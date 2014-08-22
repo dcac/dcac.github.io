@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1899353
 image: the-raid-redemption.jpg
 author: jaredy
@@ -29,5 +29,6 @@ Whhh-DTSSSH,
 Jared Young
 {% endcontentfor %}
 {% contentfor postscript %}
+
 P.S. The death of the unstoppable spider-monkey henchman—a piece of canvas soaked in mushroom soup and torn in half, right?
 {% endcontentfor %}

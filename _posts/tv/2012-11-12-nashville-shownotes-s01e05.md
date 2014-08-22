@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: 
 image: 
 author: christopherr 

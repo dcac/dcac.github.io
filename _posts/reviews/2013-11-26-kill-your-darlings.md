@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: kill-your-darlings.jpg
 imdb: tt1311071 
 author: erinc 

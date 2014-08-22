@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: the-case-against-andy-serkis.jpg
 imdb: 
 author: christopherr

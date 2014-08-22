@@ -1,7 +1,7 @@
 ---
 published: true
 imdb: tt1340800
-section: General
+section: Content
 image: tinker-tailor-soldier-spy.jpg
 author: coryh
 stars: 3.5

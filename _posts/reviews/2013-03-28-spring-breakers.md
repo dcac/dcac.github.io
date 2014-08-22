@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: spring-breakers.jpg
 imdb: tt2101441
 author: christopherr

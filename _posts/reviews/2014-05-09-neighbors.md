@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: neighbors.jpg
 imdb: tt2004420
 author: christopherr

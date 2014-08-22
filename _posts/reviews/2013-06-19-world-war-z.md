@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: world-war-z.jpg
 imdb: tt0816711
 author: jaredy

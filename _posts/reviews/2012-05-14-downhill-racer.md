@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt0064253
 image: downhill-racer.jpg
 author: christopherr

@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: admission.jpg
 imdb: tt1814621
 author: caseyt

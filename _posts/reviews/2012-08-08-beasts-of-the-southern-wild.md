@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt2125435
 image: beasts-of-the-southern-wild.jpg
 author: christopherr 

@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1345836
 image:  the-dark-knight-rises-2.jpg
 author: jaredy

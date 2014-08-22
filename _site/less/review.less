@@ -38,7 +38,7 @@ p::selection{
 }
 #story-title{
   height: @1px*500;
-  @media @mobile{
+    @media @mobile{
     height: 430px;
   }
 }
@@ -67,8 +67,29 @@ p::selection{
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-repeat: no-repeat;
   background-position: center;
   height: @1px*500;
+  @media @mobile{
+    height: @1px*320;
+  }
+}
+.title-img-fade{
+  width:1200px;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-repeat: no-repeat;
   @media @mobile{
     height: @1px*320;
   }

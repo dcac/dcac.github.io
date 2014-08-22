@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt2124908
 image: shut-up-and-play-the-hits.jpg
 author: caseyt 

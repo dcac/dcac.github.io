@@ -82,6 +82,7 @@ img.hero-image {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-repeat: no-repeat;
   background-position: center;
   height: 31.25rem;
 }
@@ -1569,11 +1570,34 @@ p::selection {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-repeat: no-repeat;
   background-position: center;
   height: 31.25rem;
 }
 @media only screen and (max-width: 640px) {
   .title-img {
+    height: 20rem;
+  }
+}
+.title-img-fade {
+  width: 1200px;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-repeat: no-repeat;
+}
+@media only screen and (max-width: 640px) {
+  .title-img-fade {
     height: 20rem;
   }
 }

@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: thor-the-dark-world.jpg
 imdb: tt1981115
 author: jaredy 

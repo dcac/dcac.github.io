@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1707386
 image: les-miserables.jpg
 author: christopherr 

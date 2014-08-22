@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: edge-of-tomorrow.jpg
 imdb: tt1631867
 author: christopherr 

@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1655442
 image:  the-artist.jpg
 author: christopherr

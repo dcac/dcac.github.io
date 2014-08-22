@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: anchorman-2-the-legend-continues.jpg
 imdb: tt1229340
 author: coryh 

@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: the-great-gatsby.jpg
 imdb: tt1343092
 author: christopherr

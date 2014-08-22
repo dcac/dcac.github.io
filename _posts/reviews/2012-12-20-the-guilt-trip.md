@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1694020
 image: the-guilt-trip.jpg
 author: jaredy

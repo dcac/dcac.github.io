@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt2178784
 image: game-of-thrones.jpg
 author: christopherr 

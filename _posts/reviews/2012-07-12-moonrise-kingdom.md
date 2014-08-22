@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1748122
 image: moonrise-kingdom.jpg
 author: christopherr

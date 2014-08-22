@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: august-osage-county.jpg
 imdb: tt1322269
 author: jaredy 

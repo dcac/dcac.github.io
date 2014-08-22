@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: 12-years-a-slave.jpg
 imdb: tt2024544
 author: christopherr 

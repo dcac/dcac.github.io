@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: the-other-woman.jpg
 imdb: tt2203939
 author: katherinew 

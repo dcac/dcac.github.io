@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1720616
 image: friends-with-kids.jpg
 author: christopherr

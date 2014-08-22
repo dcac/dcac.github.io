@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: deliver-us-from-evil.jpg
 imdb: tt2377322
 author: christopherr

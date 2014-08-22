@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: thunderstorm-the-return-of-thor.jpg
 imdb: tt1843309
 author: kelany 

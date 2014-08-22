@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: aftershock.jpg
 imdb: tt1780762
 author: christopherr

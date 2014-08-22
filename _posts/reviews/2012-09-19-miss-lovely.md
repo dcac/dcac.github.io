@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1629715
 image: miss-lovely.jpg
 author: christopherr 

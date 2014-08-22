@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: the-imposter.jpg
 imdb: tt1966604
 author: christopherr

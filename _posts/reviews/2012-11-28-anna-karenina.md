@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1781769
 image: anna-karenina.jpg
 author: coryh 

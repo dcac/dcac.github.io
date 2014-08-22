@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1568921
 image: the-secret-world-of-arrietty.jpg
 author: caseyt 

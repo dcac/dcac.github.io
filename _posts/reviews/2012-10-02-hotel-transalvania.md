@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt0837562
 image: hotel-transylvania.jpg
 author: coryh

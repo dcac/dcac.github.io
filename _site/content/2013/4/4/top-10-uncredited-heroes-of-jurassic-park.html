@@ -36,16 +36,12 @@
         $('#nav-header').css({'display':'none'});
       });
     });
-    if(!Modernizr.svg) {
-      $('img[src*="svg"]').attr('src', function() {
-          return $(this).attr('src').replace('.svg', '.png');
-      });
-    }
 		</script>
 
     <!-- Custom styles for this template -->
   
     <link href="/css/dcac.css" rel="stylesheet" />
+    
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -144,7 +140,7 @@
 
       <section id="feature-hero">
         <div id="story-title" class="title-info">
-          <div class="title-img" style="background-image:url(/img/article/main/top-10-uncredited-heroes-of-jurassic-park.jpg);" data-stellar-background-ratio=".25"></div>
+          <div id="title-img" data-stellar-background-ratio=".25"></div>
           <div class="row collapse">
             <div class="large-4 medium-4 columns feature-title-height">
               <div class="feature-title-text">
@@ -565,14 +561,6 @@
     <script src="/vendor/jquery.lunr.search.js" type="text/javascript" charset="utf-8"></script>
   	<script type="text/javascript" src="/js/main2.js"></script>
   	<script>
-    if($(window).width() > 600){ 
-      $(window).stellar({
-        horizontalScrolling: false,
-        verticalOffset: 0,
-        horizontalOffset: 0,
-    		hideDistantElements: false
-      });
-    }
     $(window).bind("load", function() {
       $.getScript("/js/onload.actions.js");
     });

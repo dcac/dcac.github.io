@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: the-square.jpg
 imdb: tt2486682
 author: natm 

@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt2771372
 image: veronica-mars.jpg
 author: dig

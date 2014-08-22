@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: jersey-boys.jpg
 imdb: tt1742044
 author: caseyt 

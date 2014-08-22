@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt2396566
 image: 20-feet-from-stardom.jpg
 author: dig

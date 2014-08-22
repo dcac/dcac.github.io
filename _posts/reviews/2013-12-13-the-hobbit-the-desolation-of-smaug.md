@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: the-hobbit-the-desolation-of-smaug.jpg
 imdb: tt1170358
 author: christopherr 

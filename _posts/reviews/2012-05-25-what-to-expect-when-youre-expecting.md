@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1586265
 image: what-to-expect-when-youre-expecting.jpg
 author: jaredy

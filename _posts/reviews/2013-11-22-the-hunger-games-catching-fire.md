@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: the-hunger-games-catching-fire.jpg
 imdb: tt1951264
 author: christopherr 

@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 image: and-so-it-goes.jpg
 imdb: tt2465146
 author: coryh 

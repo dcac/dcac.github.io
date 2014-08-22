@@ -1,6 +1,6 @@
 ---
 published: true
-section: General
+section: Content
 imdb: tt1764234
 image: killing-them-softly.jpg
 author: christopherr 
