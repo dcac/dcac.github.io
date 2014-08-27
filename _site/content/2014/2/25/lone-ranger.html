@@ -19,6 +19,7 @@
     <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
     <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
     <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
+    <script type="text/javascript" src="/js/hyphenate.js"></script>
     
     <!--Initialize the menu -->
 
@@ -182,7 +183,7 @@
             <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
                 <div class="title-block">
-                  <h1 class="hero">The Lone Ranger</h1>
+                  <h1 class="hero hyphenate">The Lone Ranger</h1>
                   <h2 class="hero-author">
                     By <a href="/writers/coryh">Cory Haggart</a>
                   </h2>
@@ -202,8 +203,8 @@
             </div>
             <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
-                <h3><span class="addressee">Dear Mike Thurman</span><br />
-                  <span class="position">Set Dressing Gangboss</span>
+                <h3><span class="addressee hyphenate">Dear Mike Thurman</span><br />
+                  <span class="position hyphenate">Set Dressing Gangboss</span>
                 </h3>
               </div>
             </div>
@@ -361,7 +362,7 @@
       success: function(data) {
         var html = '<div class="row imdb-info-row no-border full-width">';
         //html += '<img class="imdb-img" src="' +data.Poster +'" />';
-        html += '<img class="imdb-img" src="http://img.omdbapi.com/?i=tt1210819&apikey=bc6b02e2&h=450" />';
+        html += '<img class="imdb-img" src="http://img.omdbapi.com/?i=tt1210819&apikey=bc6b02e2&h=450" /><br />';
         html += '<span class="imdb-category">Directed by</span><br /><span class="imdb-data">' + data.Director.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';

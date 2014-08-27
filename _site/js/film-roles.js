@@ -12,9 +12,14 @@ $(document).ready(function () {
         html += '<article>';
         html += '<h1 class=film-credits-title>' + random_entry['Credit'] + '</h1>';
         html += '<h2 class="film-credits-description">' + random_entry['Definition'] + '</h2>';
-        html += '<a role="button" href="' + random_entry['Link'] + '">More</a>';
+        html += '<div class="film-credits-nav clearfix">';
+        html += '<a role="button" href="' + random_entry['Link'] + '">View More</a>';
+        html += '<ul>';
+          html += '<li class="film-credits-nav-prev"></li>';
+          html += '<li class="film-credits-nav-next"></li>';
+        html += '</ul>';
+        html += '</div>';
         html += '</article>';
-        html += '<div class="film-credits-nav"><i class="fa fa-chevron-left film-credit-previous"></i><i class="fa fa-chevron-right film-credit-next"></i></div>';
         $('#film-credits').append(html);
   //      showNextRole(entry,index);
       //});;

@@ -10,7 +10,7 @@ layout: default
             <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
                 <div class="title-block">
-                  <h1 class="hero">{{ page.title }}</h1>
+                  <h1 class="hero hyphenate">{{ page.title }}</h1>
                   <h2 class="hero-author">
                     By {% if author.profiled %}<a href="/writers/{{ page.author }}">{% endif %}{{ author.name }}{% if author.profiled %}</a>{% endif %}
                   </h2>
@@ -30,8 +30,8 @@ layout: default
             </div>
             <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
-                <h3><span class="addressee">Dear {{ page.addressee }}</span><br />
-                  {% assign positionSize = page.position | size %}{% if positionSize > 25 %}<span class="position-small-txt">{% else %}<span class="position">{% endif %}{{ page.position }}</span>
+                <h3><span class="addressee hyphenate">Dear {{ page.addressee }}</span><br />
+                  {% assign positionSize = page.position | size %}{% if positionSize > 25 %}<span class="position-small-txt hyphenate">{% else %}<span class="position hyphenate">{% endif %}{{ page.position }}</span>
                 </h3>
               </div>
             </div>
@@ -76,7 +76,7 @@ layout: default
       success: function(data) {
         var html = '<div class="row imdb-info-row no-border full-width">';
         //html += '<img class="imdb-img" src="' +data.Poster +'" />';
-        html += '<img class="imdb-img" src="http://img.omdbapi.com/?i={{ page.imdb }}&apikey=bc6b02e2&h=450" />';
+        html += '<img class="imdb-img" src="http://img.omdbapi.com/?i={{ page.imdb }}&apikey=bc6b02e2&h=450" /><br />';
         html += '<span class="imdb-category">Directed by</span><br /><span class="imdb-data">' + data.Director.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';

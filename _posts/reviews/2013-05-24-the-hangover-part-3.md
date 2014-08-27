@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: the-hangover-part-3.jpg
 imdb: tt1951261
 author: jaredy

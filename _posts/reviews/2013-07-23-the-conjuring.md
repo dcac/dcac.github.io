@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: the-conjuring.jpg
 imdb: tt1457767
 author: jaredy

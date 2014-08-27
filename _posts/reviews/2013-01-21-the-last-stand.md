@@ -1,5 +1,6 @@
 ---
 published: true
+section: Content
 image: the-last-stand.jpg 
 imdb: tt1549920
 author: christopherr

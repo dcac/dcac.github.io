@@ -115,6 +115,7 @@ h2.hero-addressee-home{
     line-height: @1px*18;
     font-size: @1px*16;
     margin-bottom: 0;
+    word-wrap: break-word;
   }
 }
 h2.hero-author-home{
@@ -162,6 +163,7 @@ h2.hero-date-home{
     bottom:10px;
     float: right;
     margin-bottom: @10px;
+    max-width: 35%;
   }
 }
 .home-status-title{
@@ -373,42 +375,87 @@ a:hover{
 //Sidebars
 
 div.film-credits{
-  background-color: @light-mid-grey;
+  background-color: #e5e4e4;
   margin-bottom: @25px;
-  min-height:@1px*200;
   position: relative;
-  padding-top: @10px;
+  padding-top: @1px*20;
+  padding-right: @20px;
+  padding-left: @20px;
+  padding-bottom: @20px;
 }
 div.film-credits h1{
-  .sidebar-head;
+  font-size: @1px*14;
+  font-family: @sans-serif;
+  color: #939598;
+  line-height: @1px*16;
+ font-weight: 700;
+ margin: 0;
 }
 article h1.film-credits-title{
-  .sidebar-head;
-  margin-top:@10px;
+ font-size: @1px*30;
+ line-height: @1px*28;
+ font-family: @sans-serif;
+ color: #000;
+ text-transform: capitalize;
+ width:80%;
+ font-weight: 700;
+}
+div.glossary-ribbon{
+  background-image: url('../img/home/glossary/ribbon.png');
+  background-size: cover;
+  width: @1px*41;
+  height: @1px*105;
+  display: block;
+  position: absolute;
+  top: 0;
+  right: @20px;
+  color: transparent;
+  border: none;
+  padding: 0;
+  margin: 0;
+  z-index: 2;
+  @media @mobile{
+  }
 }
 article h2.film-credits-description{
-  font-size: @text-tiny;
-  line-height: @text-small;
+  font-size: @text-small;
+  line-height: @1px*13;;
   font-family: @sans-serif;
-  font-weight: 100;
   color: #636466;
   display: block;
+  margin-bottom: 20px;
   text-align: left;
-  margin-left: @10px;
+  width:80%;
 }
 div.film-credits article a {
-  margin-left: @10px;
+  .button;
+  -o-transition: 0.5s;
+  -ms-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  float: left;
+}
+div.film-credits article a:hover {
+  .button-hover;
 }
 div.film-credits-nav{
   text-align:center;
-  background-color: @side-grey;
-  color: @light-grey;
-  position: absolute;
-  bottom: 0;
-  width:100%;
+}
+div.film-credits-nav ul{
+  list-style: none;
+  float: right;
+  margin-bottom: 0;
+}
+div.film-credits-nav ul li.film-credits-nav-prev{
+  .pagination-arrow('global/pagination/left-arrow-off');
+}
+div.film-credits-nav ul li.film-credits-nav-next{
+  .pagination-arrow('global/pagination/right-arrow-on');
+  margin-left: 10px;
 }
 div.now-streaming{
-  background-color: @light-mid-grey;
+  background-color: #e5e4e4;
   margin-bottom: @25px;
   margin-top: 0;
   padding-top: @15px;
@@ -449,8 +496,8 @@ li.now-streaming-title a {
   height: 100%;
   font-size: @text-small;
   line-height: @10px;
-  color: #949698;
+  color: #636466;
 }
-li.now-streaming-title a:hover {
-  background-color: #e0e0e0;
+li.now-streaming-title:hover {
+  background-color: #b8b8b8;
 }
