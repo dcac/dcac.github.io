@@ -162,7 +162,7 @@ div.hero-title {
 }
 @media only screen and (max-width: 640px) {
   .translucent-box {
-    padding-top: 20px;
+    padding-top: 0.625rem;
     background-color: rgba(0, 0, 0, 0.5);
   }
 }
@@ -200,9 +200,9 @@ h1.hero-home {
 }
 @media only screen and (max-width: 640px) {
   .hero-people {
-    float: left;
     margin-left: 15px;
     max-width: 60%;
+    margin-bottom: 10px;
   }
 }
 h2.hero-addressee-home {
@@ -268,11 +268,10 @@ h2.hero-date-home {
 }
 @media only screen and (max-width: 640px) {
   .home-status-container {
-    margin-right: 15px;
-    bottom: 10px;
-    float: right;
-    margin-bottom: 0.625rem;
+    right: 0.9375rem;
+    bottom: 0.625rem;
     max-width: 35%;
+    position: absolute;
   }
 }
 .home-status-title {
@@ -282,6 +281,12 @@ h2.hero-date-home {
   line-height: 1.125rem;
   font-weight: 700;
   text-align: left;
+}
+@media only screen and (max-width: 640px) {
+  .home-status-title {
+    font-size: 1rem;
+    line-height: 1rem;
+  }
 }
 .large-star-rating-home {
   display: block;
@@ -1710,7 +1715,7 @@ img.scrolled {
     margin-top: 300px;
     line-height: 0;
     width: 100%;
-    min-height: 120px;
+    min-height: 110px;
   }
 }
 @media only screen and (max-width: 640px) {

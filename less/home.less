@@ -64,7 +64,7 @@ div.hero-title{
 }
 .translucent-box{
   @media @mobile{
-    padding-top:20px;
+    padding-top:@10px;
     background-color: rgba(0,0,0,.5);
   }
 }
@@ -97,9 +97,9 @@ h1.hero-home{
 }
 .hero-people{
   @media @mobile{
-    float:left;
     margin-left:15px;
     max-width:60%;
+    margin-bottom: 10px;
   }
 }
 h2.hero-addressee-home{
@@ -159,11 +159,10 @@ h2.hero-date-home{
 }
 .home-status-container{
   @media @mobile{
-    margin-right:15px;
-    bottom:10px;
-    float: right;
-    margin-bottom: @10px;
+    right:@15px;
+    bottom: @10px;
     max-width: 35%;
+    position: absolute;
   }
 }
 .home-status-title{
@@ -173,6 +172,10 @@ h2.hero-date-home{
   line-height: @1px*18;
   font-weight: 700;
   text-align: left;
+  @media @mobile{
+    font-size: @1px*16;
+    line-height: @1px*16;
+  }
 }
 .large-star-rating-home{
   display: block;
