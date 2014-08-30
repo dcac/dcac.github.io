@@ -12,7 +12,7 @@ comments: true
 categories: 
   - essays
   - features
-categories: [eulogy, Robin Williams, Steven Spielberg, Hook, Jeff Bridges, Terry Gilliam, Christopher Nolan, Al Pacino, Walter Matthau]
+tags: [eulogy, Robin Williams, Steven Spielberg, Hook, Jeff Bridges, Terry Gilliam, Christopher Nolan, Al Pacino, Walter Matthau]
 ---
 The crew from Dear Cast and Crew writes one last letter to the great Robin Williams, sharing their thoughts and memories on everything from _The Survivors_ to _World’s Greatest Dad_ —and just about every film in between.
 

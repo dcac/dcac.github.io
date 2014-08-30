@@ -35,17 +35,6 @@ nav#menu-left {
   margin-right: auto;
   float: none;
 }
-.divider-rule {
-  z-index: 1;
-  height: 5px;
-  color: #c1c0c0;
-  background-color: #c1c0c0;
-  bottom: 10px;
-  position: absolute;
-  width: 100%;
-  display: block;
-  margin: 0;
-}
 .upper-left-toggle {
   position: fixed;
   z-index: 15;
@@ -479,13 +468,27 @@ div.review-text-home h2.addressee {
   margin: 0;
   font-weight: bold;
 }
+hr.grid-divider {
+  z-index: 1;
+  height: 5px;
+  color: #c1c0c0;
+  background-color: #c1c0c0;
+  bottom: 10px;
+  position: relative;
+  width: 100%;
+  display: block;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0.9375rem;
+  margin-top: 0.625rem;
+}
 /*
 .post-list{
   margin-bottom: 2.5rem;
 }
 */
 .home-feature {
-  margin-bottom: 3rem;
+  margin-bottom: 1.5625rem;
 }
 div.review-text p,
 div.review-text h2.star-rating {
@@ -549,7 +552,10 @@ a:hover {
   position: absolute;
   width: 100%;
   display: block;
-  margin: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-top: 0;
 }
 .load-posts-div,
 .goto-posts-div {
@@ -2237,7 +2243,10 @@ p.article-share i {
   position: absolute;
   width: 100%;
   display: block;
-  margin: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-top: 0;
 }
 /*
 
@@ -2705,7 +2714,10 @@ div.review-text h2.addressee {
   position: absolute;
   width: 100%;
   display: block;
-  margin: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-top: 0;
 }
 div.author {
   min-height: 13.75rem;

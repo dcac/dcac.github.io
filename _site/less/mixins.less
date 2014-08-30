@@ -115,16 +115,19 @@
   padding-right:15px;
   text-align: center;
 }
-.divider-rule{
+.divider-rule(@position:absolute,@margin-bottom:0,@margin-top:0){
   z-index: 1;
   height: 5px;
   color: #c1c0c0;
   background-color: #c1c0c0;
   bottom:10px;
-  position: absolute;
+  position: @position;
   width:100%;
   display: block;
-  margin: 0;
+  margin-left: 0;
+  margin-right:0;
+  margin-bottom: @margin-bottom;
+  margin-top: @margin-top;
 }
 
 .mobile-text(){
