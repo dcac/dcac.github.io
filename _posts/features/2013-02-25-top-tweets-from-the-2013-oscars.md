@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: top-tweets-from-the-2013-oscars.jpg 
 imdb: 
 author: all 

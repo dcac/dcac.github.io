@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: searching-for-sugar-man.jpg
 imdb: tt2125608
 author: caseyt

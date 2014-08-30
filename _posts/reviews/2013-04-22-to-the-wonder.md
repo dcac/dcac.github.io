@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: to-the-wonder.jpg
 imdb: tt1595656
 author: christopherr

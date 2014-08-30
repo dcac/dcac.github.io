@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt2083383
 image: trouble-with-the-curve.jpg
 author: jaredy

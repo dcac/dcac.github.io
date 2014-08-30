@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: a-royal-affair.jpg
 imdb: tt1276419
 author: christopherr

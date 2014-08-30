@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt2369135
 image: need-for-speed.jpg
 author: christopherr

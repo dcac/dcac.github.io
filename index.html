@@ -8,11 +8,47 @@ exclude_from_search: true
       
       {% include top-nav.html %}
       {% for post in site.posts limit:1 %}
+      <style>
+      .title-img-fade {
+      background-image: -webkit-linear-gradient(left, 
+          rgba(0,0,0,0.9) 0%, 
+          rgba(0,0,0,0) 20%,
+          rgba(0,0,0,0) 80%,
+          rgba(0,0,0,0.9) 100%
+        ),
+        url('/img/article/main/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}');
+      background-image: -moz-linear-gradient(left, 
+          rgba(0,0,0,0.9) 0%, 
+          rgba(0,0,0,0) 20%,
+          rgba(0,0,0,0) 80%,
+          rgba(0,0,0,0.9) 100%
+        ),
+        url('/img/article/main/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}');
+      background-image: -o-linear-gradient(left, 
+          rgba(0,0,0,0.9) 0%, 
+          rgba(0,0,0,0) 20%,
+          rgba(0,0,0,0) 80%,
+          rgba(0,0,0,0.9) 100%
+        ),
+        url('/img/article/main/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}');
+      background-image: 
+        linear-gradient(left, 
+          rgba(0,0,0,0.9) 0%, 
+          rgba(0,0,0,0) 20%,
+          rgba(0,0,0,0) 80%,
+          rgba(0,0,0,0.9) 100%
+        ),
+        url('/img/article/main/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}');
+      }
+      .title-img {
+        background-image: url('/img/article/main/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}');
+      }
+    </style>
       {% assign author = site.data.authors[post.author] %}
       <section id="hero-home">
         <div id="story-title" class="title-info">
           <a href="{{ post.url }}">
-            <div class="title-img" style="background-image:url(/img/article/main/{{ post.image }});"></div>
+            <div id="title-img" class="title-img" style=""></div>
             <div class="row collapse">
               <div class="large-4 medium-4 columns home-title-height">
                 <div class="hero-title-text">

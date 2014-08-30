@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: grace-of-monaco.jpg
 imdb: tt2095649
 author: christopherr 

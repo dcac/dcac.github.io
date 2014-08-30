@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt1853728
 image: django-unchained.jpg
 author: coryh 

@@ -36,7 +36,9 @@ layout: default
           <div class="large-2 medium-2 columns hide-for-small-only" id="film-row">
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
+            {% if page.addressee != "" %}
             <p class="intro hide-for-small">Dear {{ page.addressee }},</p>
+            {% endif %}
             {% assign author-sig = page.author %}{{ content | replace_first: '<p>','<p class="intro">' }}
             {% include signature.html %}
             {% contentblock postscript %}

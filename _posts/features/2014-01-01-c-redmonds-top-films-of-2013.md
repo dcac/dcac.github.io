@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 categories:
   - features
   - lists

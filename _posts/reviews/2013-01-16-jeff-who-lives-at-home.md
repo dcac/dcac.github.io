@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: jeff-who-lives-at-home.jpg
 imdb: tt1588334
 author: caseyt

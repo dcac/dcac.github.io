@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: obvious-child.jpg
 imdb: tt2910274
 author: christopherr

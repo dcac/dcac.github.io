@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt1638364
 image: the-armstrong-lie.jpg
 author: christopherr

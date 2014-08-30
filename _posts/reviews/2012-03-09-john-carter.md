@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt0401729
 image: john-carter.jpg
 author: christopherr

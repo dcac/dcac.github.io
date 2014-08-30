@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt1307068
 image: seeking-a-friend-for-the-end-of-the-world.jpg
 author: christopherr

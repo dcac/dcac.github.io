@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: the-birder.jpg
 imdb: tt2394003
 author: natm

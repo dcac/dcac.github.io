@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: living-images.jpg
 imdb: tt2715446
 author: caseyt 

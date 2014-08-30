@@ -49,6 +49,7 @@ dig:
   twitter:
   image: dig.jpg
   bio: '<strong>Di Golding</strong> spent nineteen years working as a bartender and server all over Canada. In her free time she was also a flight attendant, a baker, a model and a whitewater river guide. She studied scriptwriting at Algonquin College, and comedy screenwriting under SCTV scribe Dave Flaherty of Humber College. She was a film columnist for CBC Radio''s All In A Day, and has been published in The Daily Beast and Ottawa Magazine. She has what psychiatrists and her husband would describe as an ''unhealthy obsession'' with Jeff Bridges. She has exactly one <a href="http://www.imdb.com/title/tt2624344/fullcredits?ref_=tt_ov_st_sm">IMDb</a> credit.'
+  signature: dig-sig.png
   
 kelany:
   name: Kelan Young
@@ -57,6 +58,7 @@ kelany:
   email:
   twitter:
   image: kelany.jpg
+  bio: '<strong>Kelan Young</strong> grew up with a subscription to G-Fan magazine, which makes him one of Winnipeg’s leading kaiju scholars. His expertise in the realm of independent horror films and monsters movies has inspired several Dear Cast and Crew marathons, including Summer Slasher Camp, Mockbusters, and Godzilla Week.'
  
 natm:
   name: Nat Master

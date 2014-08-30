@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: shifting-the-blame.jpg
 imdb: tt2069985
 author: coryh 

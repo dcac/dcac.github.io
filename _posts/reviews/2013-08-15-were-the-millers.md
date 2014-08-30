@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: were-the-millers.jpg
 imdb: tt1723121
 author: jaredy

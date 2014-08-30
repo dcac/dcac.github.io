@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: out-of-the-furnace.jpeg
 imdb: tt1206543
 author: christopherr 

@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: only-god-forgives.jpg
 imdb: tt1602613
 author: christopherr 

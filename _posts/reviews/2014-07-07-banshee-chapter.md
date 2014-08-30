@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: banshee-chapter.jpg
 imdb: tt2011276
 author: kelany

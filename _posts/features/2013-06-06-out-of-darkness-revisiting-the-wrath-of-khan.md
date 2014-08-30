@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: out-of-darkness.jpg
 imdb: 
 author: jaredy 

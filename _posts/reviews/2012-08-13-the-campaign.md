@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt1790886
 image: the-campaign.jpg
 author: coryh

@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt1772341
 image: wreck-it-ralph.jpg
 author: jaredy 

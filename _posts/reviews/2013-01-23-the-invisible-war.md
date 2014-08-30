@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: the-invisible-war.jpg
 imdb: tt2120152
 author: christopherr

@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: finding-god-in-the-films-of-2012-pt-3.jpg
 imdb: 
 layout: feature

@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt0337692
 image: on-the-road.jpg
 author: christopherr

@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: how-to-train-your-dragon-2.jpg
 imdb: tt1646971
 author: christopherr 

@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: a-million-ways-to-die-in-the-west.jpg
 imdb: tt2557490
 author: coryh

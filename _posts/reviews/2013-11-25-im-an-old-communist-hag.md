@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: im-an-old-communist-hag.jpg
 imdb: tt3150858
 author: jaredy 

@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: monsters-university.jpg
 imdb: tt1453405
 author: caseyt

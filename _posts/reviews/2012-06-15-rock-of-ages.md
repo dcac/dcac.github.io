@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt1336608
 image: rock-of-ages.jpg
 author: coryh

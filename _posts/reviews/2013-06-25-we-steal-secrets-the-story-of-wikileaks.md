@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: we-steal-secrets-the-story-of-wikileaks.jpg
 imdb: tt1824254
 author: christopherr 

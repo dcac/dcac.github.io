@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: the-to-do-list.jpg
 imdb: tt1758795
 author: jaredy

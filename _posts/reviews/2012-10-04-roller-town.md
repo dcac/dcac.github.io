@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt1732730
 image: roller-town.jpg
 author: christopherr

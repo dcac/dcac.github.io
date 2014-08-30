@@ -1,6 +1,5 @@
 ---
-published: true
-section: Content
+published: false
 image: 
 imdb: 
 author: christopherr 

@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt1441952
 image: salmon-fishing-in-the-yemen.jpg
 author: christopherr

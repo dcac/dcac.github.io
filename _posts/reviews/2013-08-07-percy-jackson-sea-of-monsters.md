@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: percy-jackson-sea-of-monsters.jpg
 imdb: tt1854564
 author: katherinew

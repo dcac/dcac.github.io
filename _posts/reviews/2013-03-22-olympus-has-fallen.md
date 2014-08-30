@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: olympus-has-fallen.jpg
 imdb: tt2302755
 author: jaredy

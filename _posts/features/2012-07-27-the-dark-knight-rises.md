@@ -1,12 +1,9 @@
 ---
 published: true
-section: Content
 imdb: tt1345836
 image:  the-dark-knight-rises-2.jpg
 author: jaredy
-stars: 
 excerpt: "Rumor has it that you recently asked one of the prison guards how <em>The Dark Knight Rises</em> ends. You haven't seen the film in its entirety (and hopefully never will), so I thought I'd tell you a bit about the movie with which, for obvious and appalling reasons, you will forever be associated."
-position: 
 addressee: Recipient
 layout: feature
 categories:

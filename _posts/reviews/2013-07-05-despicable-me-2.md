@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: despicable-me-2.jpg
 imdb: tt1690953
 author: caseyt

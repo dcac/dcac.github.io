@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: mandela-the-long-walk-to-freedom.jpg
 imdb: tt2304771
 author: caseyt 

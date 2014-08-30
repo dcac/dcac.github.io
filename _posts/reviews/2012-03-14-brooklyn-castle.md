@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt1800266
 image: brooklyn-castle.jpg
 author: jaredy 

@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt1386703
 image: total-recall.jpg
 author: christopherr

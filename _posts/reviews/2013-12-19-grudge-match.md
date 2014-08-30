@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: grudge-match.jpg
 imdb: tt1661382
 author: dig 

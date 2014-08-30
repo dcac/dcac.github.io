@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: the-worlds-end.jpg
 imdb: tt1213663
 author: natm 

@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: man-of-tai-chi.jpg
 imdb: tt2016940
 author: christopherr 

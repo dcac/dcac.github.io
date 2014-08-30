@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: blue-is-the-warmest-colour.jpg
 imdb: tt2278871
 author: christopherr 

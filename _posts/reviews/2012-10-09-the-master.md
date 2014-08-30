@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt1560747
 image:  the-master.jpg
 author: jaredy 

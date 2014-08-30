@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: machete-kills.jpg
 imdb: tt2002718
 author: christopherr 

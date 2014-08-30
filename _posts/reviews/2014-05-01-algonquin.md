@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: algonquin.jpg
 imdb: tt2498340
 author: dig

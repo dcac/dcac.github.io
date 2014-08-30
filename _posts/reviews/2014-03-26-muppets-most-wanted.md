@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: muppets-most-wanted.jpg
 imdb: tt2281587
 author: jaredy

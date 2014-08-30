@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: indie-game-the-movie.jpg
 imdb: tt1942884
 author: caseyt

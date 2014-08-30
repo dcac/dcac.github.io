@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt2545118
 image: blackfish.jpg
 author: dig

@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt0065832
 image: hercules-in-new-york.jpg
 author: coryh 

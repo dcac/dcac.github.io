@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt0790724
 image: jack-reacher.jpg
 author: caseyt 

@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: saving-mr-banks.jpg
 imdb: tt2140373
 author: caseyt 

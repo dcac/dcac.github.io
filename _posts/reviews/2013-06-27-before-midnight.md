@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: before-midnight.jpg
 imdb: tt2209418
 author: rossc

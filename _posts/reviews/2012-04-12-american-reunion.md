@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt1605630
 image: american-reunion.jpg
 author: christopherr

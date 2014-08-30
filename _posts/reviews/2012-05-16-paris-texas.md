@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt0087884
 image: paris-texas.jpg
 author: christopherr

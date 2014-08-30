@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: planes-fire-and-rescue.jpg
 imdb: tt2980706
 author: christopherr

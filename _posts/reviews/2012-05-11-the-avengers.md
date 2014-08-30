@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt0848228
 image: the-avengers.jpg
 author: jaredy

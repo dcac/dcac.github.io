@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: closed-circuit.jpg
 imdb: tt2218003
 author: christopherr 

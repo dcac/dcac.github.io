@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: the-internets-own-boy.jpg
 imdb: tt3268458
 author: christopherr

@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt1490017
 image: the-lego-movie.jpg
 author: caseyt

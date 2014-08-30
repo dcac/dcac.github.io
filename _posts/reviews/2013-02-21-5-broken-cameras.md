@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: 5-broken-cameras.jpg
 imdb: tt2125423
 author: jaredy

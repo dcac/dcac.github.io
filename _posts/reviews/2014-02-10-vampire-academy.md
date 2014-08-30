@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt1686821
 image: vampire-academy.jpg
 author: dig

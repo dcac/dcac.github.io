@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: star-trek-into-darkness.jpg
 imdb: tt1408101
 author: christopherr

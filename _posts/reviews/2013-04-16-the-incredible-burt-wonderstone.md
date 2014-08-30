@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: the-incredible-burt-wonderstone.jpg
 imdb: tt0790628
 author: christopherr

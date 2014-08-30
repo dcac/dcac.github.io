@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: contracted.jpg
 imdb: tt2281159
 author: kelany

@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: the-amazing-spider-man-2.jpg
 imdb: tt1872181
 author:  emilyc

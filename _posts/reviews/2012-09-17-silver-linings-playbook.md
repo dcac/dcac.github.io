@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt1045658
 image: silver-linings-playbook.jpg
 author: christopherr

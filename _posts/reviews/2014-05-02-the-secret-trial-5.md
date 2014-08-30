@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: the-secret-trial-5.jpg
 imdb: tt3746002
 author: dig

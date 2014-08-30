@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: the-secret-life-of-walter-mitty.jpg
 imdb: tt0359950
 author: katherinew

@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: zero-dark-thirty.jpg
 imdb: tt1790885
 author: caseyt

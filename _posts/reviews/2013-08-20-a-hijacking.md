@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: a-hijacking.jpg
 imdb: tt2216240
 author: jaredy

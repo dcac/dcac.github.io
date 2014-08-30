@@ -1,12 +1,8 @@
 ---
 published: true
-section: Content
 image: the-case-against-andy-serkis.jpg
-imdb: 
 author: christopherr
-stars: 
 excerpt: "Dawn of the Planet of the Apes has reignited the debate about the role of the actor in motion capture performances."
-position: 
 addressee: Andy Serkis
 layout: feature
 categories: 
@@ -15,7 +11,7 @@ categories:
 title: "The Case Against Andy Serkis"
 date: 2014-07-15 13:49
 comments: true
-tags: [Academy Award, andy serkis, dawn, Essays, mo cap, motion caputure, Oscar, oscars, planet of the apes]
+tags: [dawn of the planet of the apes, andy serkis, special effects, science fiction, Academy Award, dawn, Essays, mo cap, motion capture, Oscar, oscars, planet of the apes]
 ---
 _Dawn of the Planet of the Apes_ has reignited the debate about the role of the actor in "motion capture" performances. Your supporters are already pushing for an Oscar nomination (you do, after all, have top billing in _Dawn_), while others are less enthusiastic about your contributions. I'm sorry to say that I find myself in the latter camp. I don't want you take this personally, but I don't think you - or anyone, for that matter - should win an acting award for this type of "mo-cap" performance.
 

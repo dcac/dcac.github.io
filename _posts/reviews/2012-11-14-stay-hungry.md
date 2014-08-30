@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt0075268
 image: stay-hungry.jpg
 author: caseyt

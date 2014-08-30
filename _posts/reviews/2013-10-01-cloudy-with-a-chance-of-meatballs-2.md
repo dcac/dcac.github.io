@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: cloudy-with-a-chance-of-meatballs-2.jpg
 imdb: tt1985966
 author: caseyt

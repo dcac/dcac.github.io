@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: jodorowskys-dune.jpg
 imdb: tt1935156
 author: coryh

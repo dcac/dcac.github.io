@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt2024519
 image: the-broken-circle-breakdown.jpg
 author: christopherr

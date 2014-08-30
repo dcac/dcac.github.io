@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: supermensch.jpg
 imdb: tt3074780
 author: dig

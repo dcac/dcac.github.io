@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: divergent.jpg
 imdb: tt1840309
 author:  dig

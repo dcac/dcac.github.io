@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: good-ol-freda.jpg
 imdb: tt2505938
 author: erinc

@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: godzilla-vs-mothra.jpg
 imdb: tt0058379
 author: kelany

@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: ruby-sparks.jpg
 imdb: tt1839492
 author: christopherr

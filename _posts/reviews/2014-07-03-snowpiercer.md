@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: snowpiercer.jpg
 imdb: tt1706620
 author: christopherr  

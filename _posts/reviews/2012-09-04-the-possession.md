@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt0431021
 image: the-possession.jpg
 author: jaredy

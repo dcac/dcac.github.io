@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt1446714
 image: prometheus.jpg
 author: jaredy

@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt2077721
 image: blackbird.jpg
 author: jakeh 

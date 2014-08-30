@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt1371111
 image:  cloud-atlas.jpg
 author: christopherr

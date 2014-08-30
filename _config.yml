@@ -25,6 +25,20 @@ author_paginate: 24
 lunr_search:
   excludes: [rss.xml, atom.xml]
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "post"
+    values:
+      section: Content
+      layout: review
+  -
+    scope:
+      path: ""
+      type: "post"
+    values:
+      comments: true
 
 sitemap:
     file: "/sitemap.xml"
@@ -54,48 +68,48 @@ jekyll_ga:
   filters:                  # optional
   sort: true                # Sort posts by this metric
 
-prose:
-  rooturl: '_posts'
-  siteurl: 'http://dcac.github.io/'
-  media: '/img/article'  
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "select"
-          label: "Layout"
-          options:
-          - name: "Review"
-            value: "review"
-          - name: "Essay"
-            value: "essay"
-      - name: "imdb"
-        field:
-          element: "text"
-          label: "IMDB"
-      - name: "author"
-        field:
-          element: "text"
-          label: "Author"
-      - name: "addressee"
-        field:
-          element: "text"
-          label: "Addressee"
-      - name: "position"
-        field:
-          element: "text"
-          label: "Position"
-      - name: "image"
-        field:
-          element: "text"
-          label: "Image"
-      - name: "excerpt"
-        field:
-          element: "textarea"
-          label: "Excerpt"
-      - name: "stars"
-        field:
-          element: "number"
-          label: "Rating"
-          type: "number"
-          value: "0"
+#prose:
+#  rooturl: '_posts'
+#  siteurl: 'http://dcac.github.io/'
+#  media: '/img/article'  
+#  metadata:
+#    _posts:
+#      - name: "layout"
+#        field:
+#          element: "select"
+#          label: "Layout"
+#          options:
+#          - name: "Review"
+#            value: "review"
+#          - name: "Essay"
+#            value: "essay"
+#      - name: "imdb"
+#        field:
+#          element: "text"
+#          label: "IMDB"
+#      - name: "author"
+#        field:
+#          element: "text"
+#          label: "Author"
+#      - name: "addressee"
+#        field:
+#          element: "text"
+#          label: "Addressee"
+#      - name: "position"
+#        field:
+#          element: "text"
+#          label: "Position"
+#      - name: "image"
+#        field:
+#          element: "text"
+#          label: "Image"
+#      - name: "excerpt"
+#        field:
+#          element: "textarea"
+#          label: "Excerpt"
+#      - name: "stars"
+#        field:
+#          element: "number"
+#          label: "Rating"
+#          type: "number"
+#          value: "0"

@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt1648179
 image:  here-comes-the-boom.jpg
 author: christopherr

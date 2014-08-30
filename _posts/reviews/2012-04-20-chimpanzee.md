@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt1222815
 image: chimpanzee.jpg
 author: coryh

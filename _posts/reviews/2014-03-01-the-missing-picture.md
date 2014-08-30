@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt2852470
 image: the-missing-picture.jpg
 author: christopherr

@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 layout: review
 categories:
 - reviews

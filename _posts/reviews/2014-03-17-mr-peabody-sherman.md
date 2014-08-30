@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: "mr-peabody-sherman.jpg"
 imdb: tt0864835
 author: dig

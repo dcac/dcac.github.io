@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: fruitvale-station.jpg
 imdb: tt2334649
 author: duncanm

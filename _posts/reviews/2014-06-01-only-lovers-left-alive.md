@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: only-lovers-left-alive.jpg
 imdb: tt1714915
 author: christopherr

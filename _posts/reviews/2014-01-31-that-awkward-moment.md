@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: that-awkward-moment.jpg
 author: christopherr
 stars: 2

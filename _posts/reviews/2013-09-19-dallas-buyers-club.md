@@ -1,7 +1,6 @@
 ---
 layout: review
 published: true
-section: Content
 image: "dallas-buyers-club.jpg"
 author: christopherr
 stars: 4

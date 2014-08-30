@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 author: all
 image: godzilla-week.jpg
 stars: 

@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: how-to-survive-a-plague.jpg
 imdb: tt2124803
 author: coryh

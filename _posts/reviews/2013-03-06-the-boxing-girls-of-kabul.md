@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: the-boxing-girls-of-kabul.jpg
 imdb: tt2391069
 author: coryh

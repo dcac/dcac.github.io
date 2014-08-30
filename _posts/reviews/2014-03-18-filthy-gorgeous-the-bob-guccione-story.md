@@ -5,7 +5,6 @@ categories:
   - current-releases
 imdb: tt2520096
 published: true
-section: Content
 image: "filthy-gorgeous-the-bob-guccione-story.jpg"
 author: caseyt
 stars: 2.5

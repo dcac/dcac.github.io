@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: the-impossible.jpg
 imdb: tt1649419
 author: christopherr 

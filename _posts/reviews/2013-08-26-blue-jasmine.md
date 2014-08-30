@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: blue-jasmine.jpg
 imdb: tt2334873
 author: emilyc

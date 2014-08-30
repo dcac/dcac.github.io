@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: maleficent.jpg
 imdb: tt1587310
 author: christopherr

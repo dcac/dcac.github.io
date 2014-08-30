@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt0080097
 image: the-villain.jpg
 author: christopherr 

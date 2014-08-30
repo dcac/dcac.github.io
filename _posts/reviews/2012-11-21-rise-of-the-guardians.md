@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt1446192
 image: rise-of-the-guardians.jpg
 author: all

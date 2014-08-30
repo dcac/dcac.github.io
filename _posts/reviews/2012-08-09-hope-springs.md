@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt1535438
 image: hope-springs.jpg
 author: jaredy 

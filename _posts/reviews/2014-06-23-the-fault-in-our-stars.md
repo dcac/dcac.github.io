@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: the-fault-in-our-stars.jpg
 imdb: tt2582846
 author: bridgetr 

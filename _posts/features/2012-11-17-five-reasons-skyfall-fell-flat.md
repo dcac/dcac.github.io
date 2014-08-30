@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: five-reasons-skyfall-fell-flat.jpg
 imdb: 
 author: all

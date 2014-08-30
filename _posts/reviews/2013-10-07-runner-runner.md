@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: runner-runner.jpg
 imdb: tt2364841
 author: katherinew 

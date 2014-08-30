@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt2011971
 image: monsieur-lazhar.jpg
 author: christopherr

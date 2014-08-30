@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: fast-furious-6.jpg
 imdb: tt1905041
 author: christopherr

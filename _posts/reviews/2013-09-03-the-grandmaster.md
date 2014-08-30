@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: the-grandmaster.jpg
 imdb: tt1462900
 author: caseyt 

@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt1655460
 image:  wanderlust.jpg
 author: jaredy

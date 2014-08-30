@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt2318092
 image: endless-love.jpg
 author: caseyt

@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: behind-the-candelabra.jpg
 imdb: tt1291580
 author: christopherr

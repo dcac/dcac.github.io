@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: godzilla-vs-king-kong.jpg
 imdb: tt0056142
 author: kelany 

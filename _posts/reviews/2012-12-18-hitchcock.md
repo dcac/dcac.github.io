@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt0975645
 image: hitchcock.jpg
 author: christopherr 

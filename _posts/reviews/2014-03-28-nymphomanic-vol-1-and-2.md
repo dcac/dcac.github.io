@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: nymphomaniac.jpg
 imdb: tt1937390
 author:  christopherr

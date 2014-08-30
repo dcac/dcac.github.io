@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: cloudburst.jpg
 imdb: tt1466054
 author: christopherr

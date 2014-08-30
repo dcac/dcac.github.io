@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: the-place-beyond-the-pines.jpg
 imdb: tt1817273
 author: jaredy

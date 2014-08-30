@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: the-railway-man.jpg
 imdb: tt2058107
 author: dig

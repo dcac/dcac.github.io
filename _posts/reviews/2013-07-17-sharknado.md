@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: sharknado.jpg
 imdb: tt2724064
 author: christopherr

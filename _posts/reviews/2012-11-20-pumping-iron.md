@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 imdb: tt0076578
 image: pumping-iron.jpg
 author: jaredy 

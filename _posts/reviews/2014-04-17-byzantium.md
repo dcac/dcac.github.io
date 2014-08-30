@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: byzantium.jpg
 imdb: tt1531901
 author: kelany

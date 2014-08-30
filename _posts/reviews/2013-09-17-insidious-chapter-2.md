@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: insidious-chapter-2.jpg
 imdb: tt2226417
 author: stefane

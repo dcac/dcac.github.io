@@ -1,6 +1,5 @@
 ---
 published: true
-section: Content
 image: giant-monsters-all-out-attack.jpg
 imdb: tt0279112
 author: kelany
