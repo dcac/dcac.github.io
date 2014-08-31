@@ -31,6 +31,8 @@ But there are others, which _Guardians_ relies on, that are beginning to reveal 
 
 Not that it matters, I guess. As long as we keep buying tickets, this formula isn't going to change.
 
-See you soon,
+{% contentfor signature %}
+**See you soon,**
 
 Christopher
+{% endcontentfor %}

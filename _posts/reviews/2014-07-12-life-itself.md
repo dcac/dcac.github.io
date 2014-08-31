@@ -31,5 +31,3 @@ But the thing is, some of these same names are involved in the production _Life 
 The post-Siskel years focus more on Chaz and Roger's relationship. Her influence on the man was certainly life-altering, but it feels incomplete to celebrate Ebert's critical legacy without fully addressing its critics (and believe me, I'm aware of the dangers of film criticism rooted in simplified [gimmicks][2]). This is a film made mainly by people who owe Ebert a debt of gratitude. The love that comes through is infectious; most of my own issues arose in the days after seeing _Life Itself._ It succeeds on an emotional level that carries us away from the nagging questions we may have. But Roger Ebert famously said that the movies are a "machine that generates empathy" for our fellow human beings .That's why I'm giving _Life Itself_ a thumbs up.
 
    [2]: /
-
-Casey

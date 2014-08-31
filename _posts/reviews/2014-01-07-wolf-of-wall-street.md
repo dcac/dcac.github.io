@@ -32,6 +32,9 @@ But Scorsese’s been around this block before. He knows enough about the charis
 And that’s what it really boils down to in The Wolf of Wall Street: it’s told through your eyes. Every time Scorsese sneaks in a genuine shock (say, a crime scene photograph of a broker’s suicide) you’re there to brush it aside with a quick “Anyway…” The filmmaker’s voice is constantly fighting against yours, which is ultimately makes the picture so remarkable.
 
 As much as you may have thought you owned the world, this isn’t really your movie, is it? It’s Scorsese’s, and he gets the last word. In that final scene, when you make your cameo, the final shot of the film implicates not only you, but all of us. That’s The Wolf of Wall Street’s last and best joke: that the victims want you to keep conning them so they might someday learn how to con someone else. 
-(Hopefully) seeing it clearly,
 
--Casey
+{% contentfor signature %}
+**(Hopefully) seeing it clearly,**
+
+Casey
+{% endcontentfor %}

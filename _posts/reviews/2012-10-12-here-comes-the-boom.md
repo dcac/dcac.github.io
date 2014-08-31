@@ -24,6 +24,8 @@ Unlike Mr. Voss, who gets his signature song, "Boom" by D.O.A., stolen from him 
 
 A film like this should take a cue from its lead character and do something brave, just for one scene. Have us believe you're bobbing left, then hit us with a right. Instead it's a whole lot of here-comes-the-fat, here-comes-the-training, here-comes-the-hero. It's the kind of straight-to-video movie Tom Arnold would have made a few years ago, but somehow James makes it just bearable enough to debut on the big screen. Maybe that's the parallel.
 
-Sounding off,
+{% contentfor signature %}
+**Sounding off,**
 
 Christopher
+{% endcontentfor %}

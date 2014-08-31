@@ -28,9 +28,12 @@ Which fantasy wins out in the end is a bit of a foregone conclusion, I suppose. 
 To give credit where it's due, though, director John Lee Hancock almost pulls it all off, based largely on the strong performances of his cast. Thompson herself is makes the film work almost all by herself, but Hanks, Farrell, and Giamatti also leave a good impression. Bradley Whitford Jason Swartzman, and B. J. Novak - as the creative team working with Travers on the adaptation - bring enough exuberance that I was almost--almost--convinced that the Disney way was the right way after all.
 
 It's all a little too simple, a little too perfect. Like a well-lit scene (or, ahem, theme park), the surfaces all appear perfect, shiny, and new. But it doesn't take too much inspection for that facade to give way as life, in all its imperfection and ugliness, to show through. And although _Saving Mr. Banks _come close to making me believe it's own brand of magic, it also reinforced that not everything fantastic holds up under close inspection.
-
-Turning off the lights on my way out,
+{% contentfor signature %}
+**Turning off the lights on my way out,**
 
 Casey
+{% endcontentfor %}
 
+{% contentfor postscript %}
 _*The only counterfactual I have to offer is the time I have spent at Disney World as an adult. But there is not nearly as much drinking in Disney's animated features._
+{% endcontentfor %}

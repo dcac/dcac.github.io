@@ -17,6 +17,8 @@ tags: [streaming,Breaking Bad, New on Netflix, Notes, Stand-In, Trading Places]
 ---
 I am sorry for just _now,_ merely 10 minutes ago when my girlfriend totally called it, realizing how far you've truly come.
 
-Yours Always, 
- 
+{% contentfor signature %}
+**yours always,**
+
 Cory
+{% endcontentfor %}

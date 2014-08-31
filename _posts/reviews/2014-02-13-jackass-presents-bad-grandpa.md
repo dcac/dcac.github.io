@@ -29,4 +29,7 @@ Because in the disguise, I get pranked too. Is there something special in the re
 
 Still, it's enjoyable. There's enough going on that your time watching it isn't wasted (unlink _Prometheus, _which was a technology demo disguised as a movie). But when you put together the disguise, and use it to mislead, you better know who's laughing and who's played. If you're expecting the wrong people to pay for their investment, you might not get more than the one try.
 
+{% contentfor signature %}
+
 Cory
+{% endcontentfor %}

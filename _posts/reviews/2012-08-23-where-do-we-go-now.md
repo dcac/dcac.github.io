@@ -29,6 +29,8 @@ Your job certainly got easier when the women bring a bus full of blonde Russian 
 
 Let me end by saying the film works wonders. The stakes are sky high and the final resolution is bold, unexpected, and poignant. You clearly understood what to emphasize, and eventually let actions speak louder than words. I guess you knew what you were doing after all. So you get the last laugh - literally, since the title comes from a climactic moment of clearly articulated dialogue.
 
-Thanks for listening,
+{% contentfor signature %}
+**Thanks for listening,**
 
 Christopher
+{% endcontentfor %}

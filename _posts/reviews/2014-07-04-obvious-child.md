@@ -29,6 +29,8 @@ The scene in which she's dumped by her distracted boyfriend (who keeps neurotica
 
 I laughed almost as hard as I cringed in this movie, yet never felt like the film was trying to force a Judd Apatow-level reaction. The direction, in fact, is almost staid in its simplicity, but reflects an unflinching confidence in the material. Not to mention, of course, trust in Slate herself, who carries the film in the worthiest way. She's at once hilarious and relatable, bold and modest, self-assured and fragile. In other words, the perfect mix.
 
-No further comment,
+{% contentfor signature %}
+**No further comment,**
 
-Christopher 
+Christopher
+{% endcontentfor %}

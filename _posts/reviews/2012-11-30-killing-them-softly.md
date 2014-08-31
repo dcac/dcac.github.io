@@ -24,6 +24,8 @@ Like John Hillcoat's _Lawless, _which came out earlier this year, Domink's third
 
 But hey, it's a free country. I got something from this film, and that's all that matters. Right?
 
-Critiquing them softly,
+{% contentfor signature %}
+**Critiquing them softly,**
 
 Christopher
+{% endcontentfor %}

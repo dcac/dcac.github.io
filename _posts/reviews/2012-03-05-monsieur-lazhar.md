@@ -29,8 +29,12 @@ The young actors, however, did deserve more prominence in the publicity I suppos
 
 I've now seen the film twice with vastly different audiences. First with critics at a steely press and industry screening during the Toronto International Film Festival, and again months later with patriotic cheerleaders at one of Heritage Minister James Moore's swanky Parliament Hill movie nights. In both cases, my own sample exit polls found people agreed the film was more moving _because_ of the director's resistance to sentimentality. The American poster does just the opposite, but I suppose getting the Yanks to swallow a French Canadian pill requires a lot of sugar. So here's hoping you find continued success south of the border.
 
-With glowing hearts,
+{% contentfor signature %}
+**With glowing hearts,**
 
 Christopher
+{% endcontentfor %}
 
+{% contentfor postscript %}
 P.S. Smart move taking your name off _Burlesque_.
+{% endcontentfor %}

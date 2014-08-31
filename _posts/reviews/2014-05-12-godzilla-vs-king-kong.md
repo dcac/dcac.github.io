@@ -29,6 +29,8 @@ What I like most about your score is that it lends weight to sequences that, in 
 
 That said, you could have been conducting the most talented orchestra in the world, but nothing would have been enough to distract from how tremendously ugly the Kong suit is. Do you know if anyone involved with the production was happy with how it turned out? It's a hell of an eyesore, and yet, it doesn't necessarily lessen the value of the finished product. It's just a shame that many Western viewers will be unable to see the film in its purest, uncut form, and be able to truly appreciate your masterful efforts.
 
-Yours, 
+{% contentfor signature %}
+**Yours,**
 
 Kelan
+{% endcontentfor %}

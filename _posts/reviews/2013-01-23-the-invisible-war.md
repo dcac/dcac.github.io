@@ -27,6 +27,8 @@ The real boost, however, is likely to come from reactions to the film. Based on 
 
 Then again I'm not your target audience, which I'm sure you'd agree is a good thing.
 
-Showing moral support,
+{% contentfor signature %}
+**Showing moral support,**
 
 Christopher
+{% endcontentfor %}

@@ -20,8 +20,12 @@ I'm so glad I killed your ass.** **_Act of Valor's_ first-person shooter cinemat
 
 Gotta go - I'm on a beach about to devirginate Yacht Girls 1, 2 and 3 to the soundtrack of _America, Fuck Yeah!_ So suck it. Yup, you too.
 
-No guts, no glory.
-  
-Christopher
+{% contentfor signature %}
+**No guts, no glory,**
 
+Christopher
+{% endcontentfor %}
+
+{% contentfor postscript %}
 P.S. You were the only Yacht Henchman. They just called you #1 to make you feel special.
+{% endcontentfor %}

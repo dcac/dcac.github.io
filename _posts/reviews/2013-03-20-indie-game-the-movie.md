@@ -39,6 +39,8 @@ Initially, I was willing to give the filmmakers the benefit of the doubt, citing
 
 So while the early promise may have been enough for you to invest your money, I hope the final product met your high expectations. It didn't for me.
 
-Please insert coin,
+{% contentfor signature %}
+**Please insert coin,**
 
 Casey
+{% endcontentfor %}

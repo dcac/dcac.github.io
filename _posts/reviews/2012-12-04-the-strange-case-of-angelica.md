@@ -40,6 +40,8 @@ She counterpoints: "They're the only ones who do it the old way. Now we use mach
 
 Yes, everyone else is obsessed with the machinery, but you, Manoel-- you're doing it the old way. Bravo!
 
-Com carinho
+{% contentfor signature %}
+**Com Carinho,**
 
 Jared
+{% endcontentfor %}

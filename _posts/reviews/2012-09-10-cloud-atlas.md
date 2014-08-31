@@ -30,6 +30,8 @@ The unmistakable tonal shifts between the film's three directors risks turning t
 
 Well, congratulations. Against all advice, you went there. To a place we didn't even know existed. Without standard plotting or pacing, we get a film we often can't follow, and yet, cannot turn away. What survives is truly a triumph of the medium. At one point, a character is told "one may transcend any convention if only one can dream of doing so." Indeed
 
-Dangerously yours,
+{% contentfor signature %}
+**Dangerously yours,**
 
 Christopher
+{% endcontentfor %}

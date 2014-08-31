@@ -32,6 +32,8 @@ It’s weird, too, that Costner’s wardrobe doesn’t suffer much duress. For t
 
 However you did it, the scenes that featured your work made the film work for me; it was the non-wardrobe malfunctions that tore me up.
 
-Cutting out,
+{% contentfor signature %}
+**Cutting out,**
 
 Christopher
+{% endcontentfor %}

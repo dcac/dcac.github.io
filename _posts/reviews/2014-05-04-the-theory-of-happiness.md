@@ -32,6 +32,8 @@ _The Theory of Happiness_ shows us how a group of people raised under the hammer
 
 In adding and subtracting good deeds and bad, it's difficult to surmise if anyone at SPARTA will end up happy. But if Orwell was right, you guys probably leave the tough questions to the pigs while you bask in the sunshine. 
 
-Remember, four legs good, two legs bad,
+{% contentfor signature %}
+**Remember, four legs good, two legs bad,**
 
 Di
+{% endcontentfor %}

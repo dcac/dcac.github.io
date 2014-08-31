@@ -33,6 +33,8 @@ Though director Scott Derrickson, who most recently helmed [_Sinister_][2] and w
 
 The grungy rooms you had to paint and re-paint give the proper sense of lived-in verisimilitude. The attention to detail is extremely useful until the third act, which is essentially one long by-the-book exorcism. At that point, all the subtlety you and the rest of the filmmakers (literally) goes flying out the window.
 
-Peeling off,
+{% contentfor signature %}
+**Peeling off,**
 
 Christopher
+{% endcontentfor %}

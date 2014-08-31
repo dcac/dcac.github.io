@@ -26,6 +26,8 @@ It was a little sketchy with Kenneth Branagh, though. He was well cast as the vi
 
 Since the story, directions, and roles are pretty much simulated, it's clear that soon they'll be doing this kind of movie alchemy with computers. "What if Meryl Streep played a Nazi Lieutenant played by Brad Pitt? Please wait. Loading…" You worry about your job, and we will worry about the movies we'll have to see.
 
-Trying it one more time, from the couch,
+{% contentfor signature %}
+**Trying it one more time, from the couch,**
 
 Cory
+{% endcontentfor %}

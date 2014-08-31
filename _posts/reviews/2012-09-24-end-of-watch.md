@@ -28,6 +28,8 @@ Ever since _The Blair Witch Project_, you camera operators have fought for ways 
 
 I guess the gamble pays off, because eventually we do. 
 
-Over and out,
+{% contentfor signature %}
+**Over and out,**
 
 Christopher
+{% endcontentfor %}

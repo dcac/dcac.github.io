@@ -32,6 +32,8 @@ While watching _Thunderstorm_, I, too, sometimes wanted to be somewhere else. Th
 
 But I do have to ask: what did you think of your Thunderstorm costume?  I can imagine how perplexed you must have been to find that, despite starring in a motion picture heavily reliant on Norse mythology, you would, in fact, be required to wear a rabbit-eared Iron Man suit in every action sequence. In fact, after your performance, the costume is the second-most brilliant element of the film. I can't help but give props to how cleverly it manages to steal from two of Marvel's biggest comic book characters _simultaneously_. Now _that's_ some good mockbustering.
 
-Sincerely yours,
+{% contentfor signature %}
+**Sincerely yours,**
 
-Kelan Young.
+Kelan
+{% endcontentfor %}

@@ -24,6 +24,7 @@ In the secondary roles, costumes and characters get even louder: from an ex-Viet
 
 When the collection of psychos is finally revealed, it's a nice to see the film hasn't traded style for substance. Caring about psychopaths isn't easy. But in this case, it's all the rage.
 
-Keep shopping 'til you drop,
-
+{% contentfor signature %}
+**Keep shopping til you drop,**
 Christopher
+{% endcontentfor %}

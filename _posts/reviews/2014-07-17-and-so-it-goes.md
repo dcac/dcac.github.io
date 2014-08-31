@@ -34,10 +34,14 @@ So how did you get involved in this saccharine disappointment? _Klowns_ was much
 
 Well, perhaps I'm still right. It's all part of a larger, circular arc. You can't see the whole picture by looking at one piece. There are myriad different ways to give up and cash in.
 
-Going, going, gone,
+{% contentfor signature %}
+**Going, going, gone.**
 
-Cory  
+Cory
+{% endcontentfor %}
 
+{% contentfor postscript %}
 *Andrus seems to specialize in multi-monosyllable movie titles that are hard to remember and have almost nothing to do with their movies, like _As Good As It Gets_ and _Life As A House._ Did they come out of a title generator? How about _Good Like It's Life_? Or _Go to the Room_? In either, a _____ man overcomes a hurtful loss with the help of _____ family member, his_____ ______, and some _____ neighbors. Your options are: old, minority, love interest, artistic, cantankerous, emotional, quirky.
 
 **Yeah, in _numbers_, thank you very much.
+*{% endcontentfor %}

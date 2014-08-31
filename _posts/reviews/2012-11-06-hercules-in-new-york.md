@@ -26,5 +26,8 @@ Apparently the studio said that _Hercules in New York _"was not met with an over
 
 You should have bought them, Mr. "Strong", to keep it out of circulation forever. Instead, maybe it will show some future Governator how one can rise from the ashes. Stinky, stinky, silly ashes.
 
-Best,  
+{% contentfor signature %}
+**Best,**
+
 Cory
+{% endcontentfor %}

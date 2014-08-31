@@ -29,6 +29,8 @@ At the other end of the 'adored by huge Hollywood hitters' spectrum, there's you
 
 Recent rock-docs like _It Might Get Loud_ and _Joe Strummer:The Future Is Unwritten_ manage, quite surprisingly, to strike an emotional chord. With _Supermensch_ it's all reverb. We learn very little about Shep's life before his fateful stop at the Landmark, other than that his mother was, in his words, "cruel". Shep's brush with death and his regrets over not having his own children are as deep as first time director Mike Myers is willing to take us, delivering what amounts to a celluloid love letter. Instead, Myers gives us the cinematic equivalent of a tabloid; it's fun, gossipy and light, but in the end is only supermeh.
 
-Don't get overexposed,
+{% contentfor signature %}
+**Don't get overexposed,**
 
 Di
+{% endcontentfor %}

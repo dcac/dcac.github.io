@@ -29,6 +29,8 @@ Accepting the countless oddities that fill each frame is one thing, but the larg
 
 Maybe in the end, your job was just to make sure people weren't sure exactly what's going on - to keep us guessing. That would make perfect sense, after all.
 
-Continuously yours,
+{% contentfor signature %}
+**Continuously yours,**
 
 Christopher
+{% endcontentfor %}

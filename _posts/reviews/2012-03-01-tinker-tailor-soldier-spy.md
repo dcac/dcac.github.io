@@ -52,6 +52,8 @@ The danger of using metaphors is that they can get away from you, obscuring inst
 
 That's a good story device, but I think it's where you erred, overreaching past a concise masterpiece. It's probably the same tragic mistake the characters each make: believing that they were ever anything other than mere pawns. It's the mistake we all make, really.
 
+{% contentfor signature %}
 **Sigh.**
 
 Cory
+{% endcontentfor %}

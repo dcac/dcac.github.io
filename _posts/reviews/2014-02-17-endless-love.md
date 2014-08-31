@@ -31,5 +31,3 @@ Jade dose succumb to David's charms, mostly because he salvages a botched party 
 Anyway, with the relationship heating up and Jade questioning the future planned out by her father, Papa Butterfield takes the family to their lake house (_Restoration Hardware, Summer Nights_ 1994). When David arrives, tensions rise, secrets are revealed, and plot devices that manage to be both predictable and lazily executed occur--including the most conveniently-timed car accident one could possibly hope for.
 
 Will these two crazy lovers make it? Will obsessive parents and ex-girlfriends succeed in driving them apart? Will David spend his days working in his father's garage (_Fossil Vintage Wear _1995)? _Endless Love_ works its way through all these questions with all the boldness and panache of painting a room taupe: sure, it's tasteful and makes everything work, but it's bland and safe and boring as hell. 
-
-Casey

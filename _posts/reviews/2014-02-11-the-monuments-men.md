@@ -23,6 +23,8 @@ Clooney and co-writer Grant Heslov worked from the book by Robert M. Edsel and B
 
 I wonder what it’s like for someone in your position to see a finished film like The Monuments Men. On paper, it should work. I wanted it to work. It’s hard to find so much fault with a film that means so well. You did what George asked of you—it’s just too bad George didn’t live up to his part of the bargain.
 
-Wishing it was some other way,
+{% contentfor signature %}
+**Wishing it was some other way,**
 
 Casey
+{% endcontentfor %}

@@ -38,6 +38,8 @@ In the end, the music you cleared was effective and appropriate - particularly s
 
    [6]: http://www.azlyrics.com/lyrics/acdc/thunderstruck.html
 
-Clearing you for landing,
+{% contentfor signature %}
+**Clearing you for landing,**
 
-Christopher 
+Christopher
+{% endcontentfor %}

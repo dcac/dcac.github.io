@@ -31,6 +31,8 @@ As it stands, the most memorable scenes are the obvious ones: the soldiers takin
 
 But I guess that's just how you Hollywood execs see the theatre of war.
 
-Peace out,
+{% contentfor signature %}
+**Peasce out,**
 
 Christopher
+{% endcontentfor %}

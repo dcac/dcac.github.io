@@ -30,6 +30,8 @@ Beyond well-oiled comedy and believable idiosyncrasies, the film eventually pack
 
 So unlike you, I'll never know if there were only subtle differences between takes or dramatically different interpretations attempted by the actors. But what made the final cut certainly belongs in the big leagues.
 
-Repeatedly yours,
+{% contentfor signature %}
+**Repeatedly yours,**
 
 Christopher
+{% endcontentfor %}

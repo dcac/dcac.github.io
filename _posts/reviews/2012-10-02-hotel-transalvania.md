@@ -31,6 +31,8 @@ Some people will be really happy that this is an animated feature with none of t
 
 Everyone gets their turn, just like Warhol said. So just take it and be grateful. In these times, we all gotta be economical.
 
-Thanks a lot, toots,
+{% contentfor signature %}
+**Thanks a lot, toots,**
 
 Cory
+{% endcontentfor %}

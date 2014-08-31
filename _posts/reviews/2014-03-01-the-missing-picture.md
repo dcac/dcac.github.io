@@ -30,6 +30,8 @@ It's not the first documentary this year to find imaginative ways to [reenact a 
    [1]: /content/2013/9/13/the-act-of-killing.html
    [2]: http://www.imdb.com/title/tt1391092/?ref_=nv_sr_1
 
-Thanks for helping fill in the picture,
+{% contentfor signature %}
+**Thanks for helping fill in the picture,**
 
 Christopher
+{% endcontentfor %}

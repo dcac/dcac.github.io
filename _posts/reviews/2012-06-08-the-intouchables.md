@@ -24,6 +24,8 @@ Together, you've built a world we at once recognize, sympathize with, and envy. 
 
 The result is funny, touching, and a breath of fresh air. In other words, you and your team really classed up the joint - even when it was filled with prostitutes and actual joints.
 
-A bientot!
+{% contentfor signature %}
+**À bientôt!**
 
 Christopher
+{% endcontentfor %}

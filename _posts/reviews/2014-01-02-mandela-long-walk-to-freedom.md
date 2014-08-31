@@ -28,5 +28,3 @@ Instead, _Mandela: Long Walk to Freedom_ expands its scope and tries to be two t
 The effect is to render Mandela a passive figure in his own life. Chadwick isn't able to find a way to dramatize Mandela's personal transformation. That is certainly the harder story to tell cinematically, but it is also the central story to Mandela's life. And as Chadwick focuses on events occurring outside the prison walls, he keeps returning to Mandela in scenes that increasingly feel like prison visits, each lasting only long enough for Mandela to espouse some vague piece of wisdom before moving on.
 
 We know there's a lot more to Mandela than that. It's a tribute to Elba's performance that even under all that weight, his fire and intelligence manage to shine through at all. But all too often he is left to suffocate beneath the mask you crafted. In ignoring the illuminating details of Mandela's journey, _Mandela: Long Walk to Freedom_ stumbles long before it arrives at its destination.
-
-Casey

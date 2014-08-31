@@ -4,8 +4,8 @@ imdb: tt1707386
 image: les-miserables.jpg
 author: christopherr 
 stars: 4.5
-excerpt: "&ldquo;It was actually pretty good&hellip; for a chick flick.&rdquo; &ndash; Doug Redmond"
-position: "Reluctant Audience Member (and Real-Life Javert)"
+excerpt: '"It was actually pretty good… for a chick flick." - Doug Redmond'
+position: "Reluctant Audience Member (and Real-Life Javert) "
 addressee: Dad 
 layout: review
 categories: reviews
@@ -35,6 +35,8 @@ We couldn't expect you to share the enthusiasm of your wife and daughter (who fl
 
 And you know what they say - misery loves company. So I'm glad we saw this together. Even if it's you know, one of "those" movies. 
 
-Love, your son,
+{% contentfor signature %}
+**Love, your son,**
 
 Christopher
+{% endcontentfor %}

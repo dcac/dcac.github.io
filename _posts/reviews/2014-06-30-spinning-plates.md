@@ -24,6 +24,8 @@ As a foodie, you would be pleased to know that if Joesph hadn't chosen a career 
 
 No doubt, you would have loved the cinematic feast he prepared in your honour.
 
-Gratuity included, 
+{% contentfor signature %}
+**Gratuity included,**
 
 Di
+{% endcontentfor %}

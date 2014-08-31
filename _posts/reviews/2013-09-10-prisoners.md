@@ -32,6 +32,8 @@ And the deeper we push into the story, the more it becomes a morality tale.There
 
 Bruce, you've all made a picture that's as moving as, well, a dolly shot. It's smooth, beautiful, haunting and locked into its tracks - completely confident about where's it going. I enjoyed the ride so much (even at a run time of two and a half hours) that I was almost sad to see things finally resolve. But luckily, not at all unsatisfied.
 
-On track, 
+{% contentfor signature %}
+**On track,**
 
 Christopher
+{% endcontentfor %}

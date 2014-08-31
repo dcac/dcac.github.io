@@ -39,6 +39,8 @@ At 97 minutes, at least it's mercifully short, bucking the trend of the overblow
 
 But hey, a few more of these gigs and you could be in charge. Maybe I'll finally get the three-hour long version of _Aladdin_ told from Iago's perspective that I've always wanted.
 
-Sigh,
+{% contentfor signature %}
+**Sigh,**
 
-Christopher 
+Christopher
+{% endcontentfor %}

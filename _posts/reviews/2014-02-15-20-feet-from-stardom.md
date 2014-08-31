@@ -29,6 +29,8 @@ You were known as a nurturer of singers and songwriters at A&M. You allowed arti
 
 _20 Feet From Stardom_ aims for the heart, hoping, it seems, to duplicate the success of last year's Oscar winner _Searching For Sugarman_, another doc that profiles a singer who shoulda- coulda-woulda been a huge star. Unfortunately, the aim is off here. Where _Searching_ takes the audience on a magical mystery tour, _20 Feet_ languishes behind the music. Sure, it has a great beat, and you can dance to it, but it's more of a one-hit wonder than a timeless classic.
 
-RIP with the VIPs,   
+{% contentfor signature %}
+**RIP with the VIPs,**
 
 Di
+{% endcontentfor %}

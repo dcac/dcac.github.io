@@ -23,6 +23,8 @@ Ironically, a film like this may never have been designed for American audiences
 
 For that reason, I'd say you did a pretty good job. The director obviously understands the universal film language of shooting underdog action picture. Even if the rest of production is working from a very basic translation.
 
-진정으로
+{% contentfor signature %}
+**진정으로**
 
 Christopher
+{% endcontentfor %}

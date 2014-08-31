@@ -27,6 +27,8 @@ The film's final confrontation ends up referencing those sequences of St. Pierre
 
 Or maybe it was treated that way because you weren't able to acquire the rights.  But don't tell me. I don't want it to tarnish the film's precious image.
 
-Clearing out,
+{% contentfor signature %}
+**Clearing out,**
 
 Christopher
+{% endcontentfor %}

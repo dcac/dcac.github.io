@@ -32,6 +32,8 @@ You're no stranger to _Dawn'_s theme of competing ideologies. Above all, you wer
 
 For the sake of ape-kind, maybe that's not such a bad thing.
 
-Rest In Peace,
+{% contentfor signature %}
+**Rest in peace,**
 
-Di 
+Di
+{% endcontentfor %}

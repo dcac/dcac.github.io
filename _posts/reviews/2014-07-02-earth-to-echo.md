@@ -26,6 +26,8 @@ So let me start again. When I was your age, I would have loved _Earth to Echo_. 
 
 When I was your age that would have been pretty rad.
 
-Hoping Munch gets a spin-off sequel,
+{% contentfor signature %}
+**Hoping Munch gets a spin-off series,**
 
 Di
+{% endcontentfor %}

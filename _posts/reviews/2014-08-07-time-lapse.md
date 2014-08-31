@@ -26,6 +26,7 @@ These kinds of low-budget sci-fi movies are all about premise and consequences. 
 
 Writer/director Bradley King and writer/producer BP Cooper both do a fine job, but it's good that you were there, Sarah. You can see their ambitions straining against the production constraints; they always seem to be operating at the limits of what can be done without the whole thing falling apart. Some of the actor's lines, particularly early on, fall flat. Some details get muddied, so that it's unclear whether the film is being cleverly obtuse or just a bit messy.  But that's all fine. It's exactly what filmmakers should be doing in an effort like this. If they were trying to do your job, too, the whole thing might have come crashing in on itself. In a bad way.
 
-Recently yours,
-
+{% contentfor signature %}
+**Recently yours,**
 Cory
+{% endcontentfor %}

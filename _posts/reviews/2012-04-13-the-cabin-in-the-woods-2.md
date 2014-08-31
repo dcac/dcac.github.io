@@ -24,6 +24,8 @@ In order to respect the project, I'm trying to avoid spoiler territory, in case 
 
 For me, "too much wasted effort" was the overall theme of the film, laboring simple ideas to the point of unintelligible exhaustion. Be smart - next time someone invites you to a cabin in the woods, run.
 
-With only mild creature comforts,
+{% contentfor signature %}
+**With only mild creature comforts,**
 
 Christopher
+{% endcontentfor %}

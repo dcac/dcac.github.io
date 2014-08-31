@@ -25,6 +25,8 @@ And those faces. As much as anyone working today, Wong certainly understands the
 
 Surrounding this central relationship, there are other more traditional showcases for your work. Ip, for example, engages masters of different marital arts disciplines in his quest to create greater respect for Wing Chun, the (at the time) little-known style he teaches. All of these encounters, romantic or combative, are structured as narrative way points with very direct onscreen titles that fill in the gaps between scenes. Because this version of _The Grandmaster_ has been recut (by Wong himself) specifically to help Western audiences through some of the less familiar elements of Chinese history, these titles (which cover some major events in Ip's life) have a matter-of-factness that contrasts with the deep emotions of what does play out onscreen. Or maybe the emotional intensity is raised because of this contrast. Whatever the reason, as ungainly as it sounds, it works. Like the ways Ip is constantly called on to prove his backwoods style is the equal of more the established fighting forms, _The Grandmaster_'s form shows that art comes from the unlikeliest of combinations.
 
-Bowing in respect,
+{% contentfor signature %}
+**Bowing in respect,**
 
 Casey
+{% endcontentfor %}

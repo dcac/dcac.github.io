@@ -31,6 +31,3 @@ After high-level S.H.I.E.L.D. operatives are targeted in attacks, Cap and Black 
 But you know as well as I do that what any modern Marvel film really comes down to one simple question: does it whet the appetite for future Marvel installments? The answer is a qualified yes (though I can't deny that keeping everything in order is starting to get a little exhausting).  
 
 I guess I'll just have to let go and trust that you, like always, will do that heavy lifting for me.  
-
-
-Casey  

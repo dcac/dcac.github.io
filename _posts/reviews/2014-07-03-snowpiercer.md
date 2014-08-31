@@ -26,6 +26,8 @@ Deficiencies and disabilities in the making of a film, however, are less endeari
 
 Casualties come fast and furious in this South Korean co-production, which feels heavily influenced by Asian and South Asian hit films. It's one part _The Raid_, and a couple parts _Oldboy_ (a comparison the film comes by honestly with director Park Chan-wook as a producer). In fact, just imagine _Oldboy_'s violent hallway sequence stretched over the course of an entire film (and with some equally delicious plot turns). Yet there's also a lot of heart here, to the point where I kept feeling surprised and unprepared for any of the characters to die - the exact opposite feeling I get in franchise-focused Hollywood productions. _Snowpiercer, _by contrast, feels like a singular effort on a one-way track to thriller-ville. It succeeds - but after circling the world for a year now on the international film circuit (ironic, isn't it?), I'm just not sure enough outside factors will align to bring in audiences.
 
-Here's hoping people do line-up to see it.
+{% contentfor signature %}
+**Here's hoping people do line-up to see it,**
 
 Christopher
+{% endcontentfor %}

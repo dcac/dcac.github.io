@@ -25,6 +25,8 @@ You see, in a strange way, the existence of _Incendies_ actually hurts this film
 
 Ultimately, _Inch'Allah_ is far from a blemish on your stellar filmmography, but I can pretty much guarantee it won't be used to sell any of your next projects.
 
-Inching away,
+{% contentfor signature %}
+**Inching away,**
 
 Christopher
+{% endcontentfor %}

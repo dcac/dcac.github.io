@@ -28,8 +28,13 @@ When first given his assignment, Gru is shown a number of possible suspects, all
 
 Still, like the expertise you bring to your projects, _Despicable Me 2_ does understand its target demographic. The theatre in which I watched it was full of children delighted with all of its busyness (or maybe because of it), and they didn't seem phased by, say, whether or not they grasped why a Barry White song was being used at a particular moment. For that, I'll give the film its due credit. I just wish I could have bought into it as wholly as they did.
 
-Wanting to be more of an advocate,
+{% contentfor signature %}
+**Wanting to be more of an advocate,**
 
 Casey
+{% endcontentfor %}
 
+{% contentfor postscript %}
 *_Apologies if you are unfamiliar with White's oeuvre, but I cannot, in good conscience, bring myself to link to it here. For that, you're welcome._
+{% endcontentfor %}
+

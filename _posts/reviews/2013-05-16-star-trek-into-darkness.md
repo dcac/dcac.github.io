@@ -27,6 +27,8 @@ That said, I still feel this is an immensely enjoyable film that has to be the b
 
    [1]: http://www.youtube.com/watch?v=KaOC9danxNo
 
-Beaming out,
+{% contentfor signature %}
+**Beaming out,**
 
 Christopher
+{% endcontentfor %}

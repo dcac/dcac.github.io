@@ -27,6 +27,8 @@ Now, the main event: the clash between Godzilla and Mothra. Upon first glance it
 
 What gives this movie such a timeless feel, and perhaps what I appreciate most about it, is the message that no matter how bleak things may get, how dark, good always triumph over evil. I guess there's really nothing else left to say, other than thanks for everything you've done.  
   
-Rest in Peace,  
-  
+{% contentfor signature %}
+**Rest in Peace,**
+
 Kelan
+{% endcontentfor %}

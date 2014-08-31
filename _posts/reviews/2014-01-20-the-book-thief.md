@@ -31,6 +31,8 @@ A highlight for you must have been the scene involving Liesel and Hans carting b
 
 But in the end, _The Book Thief _too badly wants to deliver a little something for everyone. It's a lofty motivation that unfortunately ends up like one your slush-filled puddles; murky, shallow and soggy.
 
-Stay warm,
+{% contentfor signature %}
+**Stay warm,**
 
 Di
+{% endcontentfor %}

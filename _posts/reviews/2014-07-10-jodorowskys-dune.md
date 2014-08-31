@@ -31,6 +31,8 @@ And that effort, the attempt to make _Dune_, overwhelms everything else. This mo
 
 The weird thing about observing true creativity is that it can fly right under your radar. That's an idea worth building  a movie around. No matter how good this documentary is (and it's good), it must, by necessity, pale in comparison to its subject matter. Which is why it's better that the movie is mostly workmanlike and perfunctory. When what you're slinging is this wild, a plain suit and tie makes it easier for everyone to understand.
 
-Conventionally Yours,
+{% contentfor signature %}
+**Conventionally yours,**
 
 Cory
+{% endcontentfor %}

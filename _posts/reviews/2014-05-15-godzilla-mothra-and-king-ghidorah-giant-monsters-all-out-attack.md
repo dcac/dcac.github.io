@@ -29,6 +29,8 @@ The only real issue I have - and this has little to do with your involvement - i
 
 This may not be the Godzilla I grew up with - and, honestly, it's not one I am eager to see again - but as a one-and-done experiment that tries something a little different, it's pretty much perfect.
 
-Yours,
+{% contentfor signature %}
+**Yours,**
 
 Kelan
+{% endcontentfor %}

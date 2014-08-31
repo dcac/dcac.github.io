@@ -50,6 +50,8 @@ Though maybe that would have freed up your time to work on more films like [Insi
 
 Speaking of which--your turn to write back, Dawn!
 
-Feeling trapped,
+{% contentfor signature %}
+**Feeling trapped,**
 
-Christopher 
+Christopher
+{% endcontentfor %}

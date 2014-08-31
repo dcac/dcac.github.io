@@ -15,10 +15,39 @@ title: "American Reunion"
 comments: true
 tags: [American, Basket Case, comedy, Green Day, Pie, Reunion, Sequel, Uncategorized]
 ---
-<p>Do you have the time, to listen to me whine<br />About the way this film&rsquo;s stuck in &rsquo;99?<br />Pie is one those, melodramatic sequels<br />Neurotic with a tone of doubt about it.</p>
-<p>Sometimes I give them a free pass<br />Sometimes my mind enjoys this crap<br />But the films are adding up<br />What&rsquo;s next, three girls and a cup?<br />Am I just paranoid<br />or is this old?&nbsp;</p>
-<p>I went to the show<br />To see how far they&rsquo;d go<br />There&rsquo;s not a lack of sex<br />Or skin to go &lsquo;round.<br />Jim sure looked sore<br />When squishing his junk for<br />A trick that Judd Apatow<br />Wishes he&rsquo;d known.</p>
-<p>It&rsquo;s time to give up on this cast<br />It&rsquo;s time to let the past be past<br />These stars are all washed up<br />But the crowds keep showing up<br />This franchise should be done<br />But it goes on.</p>
-<p>Grasping for greenbacks<br />It&rsquo;s a modest comeback.&nbsp;</p>
-<p>Signed,</p>
-<p>Christopher</p>
+Do you have the time, to listen to me whine  
+About the way this film's stuck in '99?  
+Pie is one those, melodramatic sequels  
+Neurotic with a tone of doubt about it.
+
+Sometimes I give them a free pass  
+Sometimes my mind enjoys this crap  
+But the films are adding up  
+What's next, three girls and a cup?  
+Am I just paranoid  
+or is this old? 
+
+I went to the show  
+To see how far they'd go  
+There's not a lack of sex  
+Or skin to go 'round.  
+Jim sure looked sore  
+When squishing his junk for  
+A trick that Judd Apatow  
+Wishes he'd known.
+
+It's time to give up on this cast  
+It's time to let the past be past  
+These stars are all washed up  
+But the crowds keep showing up  
+This franchise should be done  
+But it goes on.
+
+Grasping for greenbacks  
+It's a modest comeback. 
+
+{% contentfor signature %}
+**Signed,**
+
+Christopher
+{% endcontentfor %}

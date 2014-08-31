@@ -44,6 +44,8 @@ America has come a long way in understanding AIDS and gay culture, but a plot de
 
 Maybe a little too brilliantly, since I was so absorbed in the story, I never even noticed what you were pushing. Sorry.
 
-Sold on everything else,
+{% contentfor signature %}
+**Sold on everything else,**
 
 Christopher
+{% endcontentfor %}

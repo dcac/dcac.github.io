@@ -38,6 +38,8 @@ And those robots! They were really big. Which makes me want to ask you something
 
    [5]: http://www.imdb.com/name/nm0015904/bio
 
-Punching out,
+{% contentfor signature %}
+**Punching out,**
 
 Cory
+{% endcontentfor %}

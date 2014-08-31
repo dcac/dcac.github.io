@@ -33,6 +33,8 @@ But after two hours, I couldn't help but feel that the film was becoming repetit
 
 Behind digital smoke, perhaps?
 
-Quitting while I'm ahead,
+{% contentfor signature %}
+**Quitting while I'm ahead,**
 
 Christopher
+{% endcontentfor %}

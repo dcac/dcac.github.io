@@ -28,6 +28,8 @@ After some struggle with rigid royal expectations, she embraces the challenge li
 
 But a little pomp and circumstance can go a long way. Director Olivier Dahan is more interested in escapism and paying tribute to the films of a bygone era (both in form and content) than he is about keeping pace with today's dark and serious filmmaking. _Grace of Monaco _may not be a picture of perfect narrative decorum, but at least it's too slight to be offensive.
 
-Congrats.
+{% contentfor signature %}
+**Congrats,**
 
 Christopher
+{% endcontentfor %}
