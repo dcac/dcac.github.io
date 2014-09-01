@@ -3,7 +3,7 @@ layout: review
 imdb: tt0087332
 categories: 
   - series
-title: "Ghosts of Ghostbusters: Laszlo Kovacs"
+title: "Ghosts of Ghostbusters: László Kovács"
 excerpt: 
 series-name: Ghosts of Ghostbusters
 addressee: Laszlo Kovacs
