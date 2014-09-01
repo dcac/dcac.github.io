@@ -2388,12 +2388,13 @@ ul.share-links li a.share-icon {
 ul.share-links li a {
   color: #fff;
   font-weight: 700;
+  line-height: 0.9375rem;
 }
 .comment-count-arrow {
   width: 0.4375rem;
   position: absolute;
   right: 25%;
-  top: 0.875rem;
+  top: 0.8125rem;
 }
 #feature-hero {
   height: 500px;
