@@ -175,4 +175,42 @@ if ($("#film-info").height() < ($.waypoints('viewportHeight')-65) && (fixSidebar
   },{
     offset: $.waypoints('viewportHeight')-rowheight.height()-65
   });
+  //share-icons -fix them when necessary too
+  var share = $('#share-links');
+    $('#review-copy').waypoint(function(direction) {
+      if (direction === 'down') {
+        share.css({
+          position:"fixed",
+          top: "85px"
+        });
+       //alert("size="+scrollDifferential)
+      }
+      else if (direction === 'up') {
+        share.css({
+          position:"absolute",
+          top:  "702px",
+          bottom: "auto"
+        });
+      }
+    },{
+      offset: 75 // Apply "stuck" when element 75px from top
+    });
+    $("#up-next").waypoint(function(direction){
+    if (direction === 'down') {
+      share.css({
+        position:"absolute",
+        top: 702+$('#review-copy').height()-share.height() + "px",
+        bottom: "auto",
+      });
+    }
+    else
+    if (direction === 'up') {
+      share.css({
+        top: "85px"
+      });
+        share.css({'position':'fixed'});
+    }
+  },{
+     offset: 240
+  });
 }

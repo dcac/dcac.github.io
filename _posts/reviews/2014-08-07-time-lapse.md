@@ -28,5 +28,6 @@ Writer/director Bradley King and writer/producer BP Cooper both do a fine job, b
 
 {% contentfor signature %}
 **Recently yours,**
+
 Cory
 {% endcontentfor %}

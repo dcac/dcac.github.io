@@ -2298,6 +2298,54 @@ p.article-share i {
     width: 90%;
   }
 }
+ul.share-links {
+  list-style: none;
+  padding: 0;
+  position: absolute;
+  top: 750px;
+  right: 0.625rem;
+  z-index: 4;
+  margin: 0;
+}
+ul.share-links li {
+  line-height: 0.75rem;
+  font-size: 1.5625rem;
+  text-align: center;
+  margin-bottom: 0.625rem;
+  color: #c1c0c0;
+}
+ul.share-links li a.share-icon {
+  color: #c1c0c0;
+}
+.comment-count {
+  width: intrinsic;
+  position: relative;
+  text-align: center;
+  margin-bottom: 1.25rem;
+}
+.comment-count-container {
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  background-color: #c1c0c0;
+  width: intrinsic;
+  min-width: 1.5625rem;
+  min-height: 1.25rem;
+  font-size: 0.75rem;
+  color: #fff;
+  padding: 0.125rem;
+  text-align: center;
+}
+ul.share-links li a {
+  color: #fff;
+  font-weight: 700;
+}
+.comment-count-arrow {
+  width: 0.4375rem;
+  position: absolute;
+  right: 25%;
+  top: 0.875rem;
+}
 #feature-hero {
   height: 500px;
   margin-bottom: 45px;
