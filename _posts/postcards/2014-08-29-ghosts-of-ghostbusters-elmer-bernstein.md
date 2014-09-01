@@ -14,8 +14,6 @@ image: ghostbusters-pt-9.jpg
 comments: true
 tags: [Ghostbusters, Ghostbusters Week, Letters, special effects, special series]
 ---
-It's the eggs. 
-
 You learned a little something, over your long and storied career, about how to score comedy films. You came to it late, though. In the early 1980s, even though you were already one of the most famous film composers in the business, John Landis still had to fight with the studio brass to bring you onboard National Lampoon’s Animal House (sure, he was probably a fan—but he also grew up down the street from you and was pals with your kids). They didn’t think you could score a straight-up comedy flick. And, boy, did you prove them wrong. 
 
 You followed up Animal House with a run of comedy scores that can only be described as legendary: Meatballs, Airplane!, The Blues Brothers, Stripes, and Trading Places (for which you were nominated for an Academy Award). 

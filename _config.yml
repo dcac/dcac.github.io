@@ -5,6 +5,11 @@ markdown: redcarpet
 highlighter: true
 #baseurl: www.dearcastandcrew.com.s3-website-us-east-1.amazonaws.com
 
+#RSS info
+name: Dear Cast & Crew
+description: Open letter film reviews, essays, and exchanges.
+url: www.dearcastandcrew.com
+
 # gems: ['jekyll/itafroma/post_groups']
 
 #pagination: true
@@ -14,15 +19,6 @@ custom_paginate: 24
 
 author_paginate: 24
 
-# post_groups:
-#     - key: author
-#       key_plural: authors
-
-# categories:
-#   - reviews
-#   - streaming
-#   - features
- 
 lunr_search:
   excludes: [rss.xml, atom.xml]
 
