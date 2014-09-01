@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    {% if page.layout == "article" %}<meta property="og:image" content="/img/article/thumb-600/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}}" />{% endif %}
     <title>{% if page.home %}{% else %}{{page.title}} | {%endif %}Dear Cast & Crew{% if page.home %} | Movie Reviews, News, and Contests{% endif %}</title>
     <link rel="icon" href="/favicon.png" type="image/png">
     
