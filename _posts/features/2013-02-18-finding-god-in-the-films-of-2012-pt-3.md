@@ -25,9 +25,6 @@ To read from the beginning, where we discuss Les Miserables, The Master, Prometh
 
 **The Construction of Deity** and _Cloud Atlas_
 
-![][2]
-
-   [2]: http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7d65/1361224010107/Cloud%20Atlas%20and%20God.jpg
 
 For all the dismissive criticism labeled against _Cloud Atlas_ for being overwrought, simplistic and too concerned with a lightweight central premise that "we're all connected," there are many other threads that make this a rich film.
 
@@ -40,10 +37,6 @@ No film since _In the Name of the Rose_ has done such an effective job of explor
  
 
 **The Interpretation of Faith **and _The Life of Pi_
-
-_![][3]_
-
-   [3]: http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7d66/1361224269903/Life%20of%20Pi%20and%20God.jpg
 
 Ang Lee's _Life of Pi_ delivers the boldest of promises: Pi, the castaway protagonist, has a story that will make us believe in God.
 

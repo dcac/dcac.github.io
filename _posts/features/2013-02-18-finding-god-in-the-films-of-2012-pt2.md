@@ -26,10 +26,6 @@ _**Part 2…
 
 **The Science of Believing** and _Prometheus_
 
-_![][4]  
-_
-
-   [4]: http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7c29/1361222586933/Prometheus%20and%20God.jpg
 
 Director Ridley Scott's science fiction epic isn't afraid to ask big questions about the meaning of life, but it sure has a hard time answering them.
 
@@ -42,10 +38,6 @@ In a time when real-life scientists are trying to unlock the "God particle", pro
 Or maybe mankind doesn't deserve to survive in the first place, if our planet's ambassadors are so damn inept.
 
 **The Importance of Doubt** and _The Grey_
-
-![][5]
-
-   [5]: http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7c2a/1361222916697/The%20Grey%20and%20God.jpg
 
 If you thought that a film featuring fistfights between Liam Neeson and a pack of wolves wouldn't offer anything more than mindless entertainment, you'd be wrong.
 

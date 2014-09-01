@@ -30,10 +30,6 @@ Here's a look at the way six major films found God in 2012.
 
 **The Tradition of Religion**_ _and_ Les Miserables_
 
-_![][3]_
-
-   [3]: http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7d46/1361220820647/Les%20Miserables%20and%20God.jpg
-
 Rebirth is one of the most powerful themes in theological discourse. The idea that a person can right their wrongs in pursuit of salvation is central tenet of all religions. It's also at the very heart of Victor Hugo's French novel _Les Miserables_, the story of a broken man who interprets an unexpected act of kindness as a divine second chance.
 
 Director Tom Hooper avows Jean Valjean (Hugh Jackman) as his Jesus-proxy early on, mimicking the Passion as the hero carries his cross (the French flag poll) under the orders of Pontius Pilate-stand-in Javert (Russel Crowe). Valjean is then lost in purgatory, roaming the French countryside, before finding God the not-so-subtle form of a Catholic priest. Valjean's resurrection is asserted when he vows "Jean Valjean is nothing now, a new story must begin", framed by an overhead crane shot that ascends endlessly into the heavens and concludes the first chapter of the film.
@@ -48,9 +44,6 @@ It's all moving and unapologetically melodramatic, but to be a true believer, yo
 
 **The Recruitment of Worship**_ _and** **_The Master_
 
-![][4]
-
-   [4]: http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7d47/1361220977008/The%20Master%20and%20God.jpg
 
 Primarily interpreted as a thinly-veiled portrait of Scientology, _The Master_ tells the story of one man's futile attempt to find greater meaning. The sexual and alcohol addictions of WWII veteran Freddie Quell (Joaquin Phoenix) ostracize him from others until charismatic leader Lancaster Dodd (Phillip Seymour Hoffman) invites him to join The Cause. But, despite Lancaster's best efforts to win over his petulant disciple, Freddie never fully commits himself to purpose. This is less a refusal of their nascent doctrine than Freddie's inability to give himself over to anything other than his own personal demons.
 
