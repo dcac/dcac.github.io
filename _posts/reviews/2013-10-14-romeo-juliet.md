@@ -8,7 +8,9 @@ excerpt: "When the idea came to do a modern, yet classic, version of <em>Romeo &
 position: Writer and Producer
 addressee: Julian Fellowes
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Romeo & Juliet"
 comments: true
 tags: [adaptation, classic, Downton Abbey, drama, Juliet, Letters, love, romance, Romeo]

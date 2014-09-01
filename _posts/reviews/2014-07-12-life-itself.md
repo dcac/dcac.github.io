@@ -8,8 +8,10 @@ excerpt: "I was going to start this letter by asking you if it was intimidating 
 position: Roger Ebert's Narrative Voice
 addressee: Steve Stanton
 layout: review
-categories: reviews
-title: "Life Itself"
+categories: 
+  - reviews
+  - current-releases
+title:  "Life Itself"
 date: 2014-07-12 04:52
 comments: true
 tags: [documentary, film criticism, Gene Siskel, Letters, Roger Ebert, Steve James]

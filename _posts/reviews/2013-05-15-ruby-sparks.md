@@ -11,6 +11,7 @@ layout: review
 categories: 
   - reviews
   - netflix
+  - on-video
 title: "Ruby Sparks"
 comments: true
 tags: [comedy, fantasy, Letters, netflix.ca, Paul Dano, romance, Zoe Kazan]

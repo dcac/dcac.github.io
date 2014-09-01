@@ -11,6 +11,7 @@ layout: review
 categories: 
   - reviews
   - netflix
+  - on-video
 title: "How To Survive A Plague"
 comments: true
 tags: [Act UP, activist, AIDS, archival, documentary, fight, Letters, Occupy, Oscar, protest, Tea Party]

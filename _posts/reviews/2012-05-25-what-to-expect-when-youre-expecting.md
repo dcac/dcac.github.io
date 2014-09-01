@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "What to Expect When You're Expecting"
 comments: true
 tags: [Uncategorized]

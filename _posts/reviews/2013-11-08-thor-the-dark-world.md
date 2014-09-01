@@ -8,7 +8,9 @@ excerpt: "It seems absurd to argue that an original idea can be expressed in a s
 position: Concept Artist
 addressee: Magdalena Kusowska
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Thor: The Dark World"
 comments: true
 tags: [Thor,marvel, comics,avengers]

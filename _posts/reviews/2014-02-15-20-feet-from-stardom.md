@@ -11,6 +11,7 @@ layout: review
 categories: 
   - reviews
   - netflix
+  - on-video
 title: "20 Feet From Stardom"
 comments: true
 tags: [documentary, Letters, music, Oscars 2014]

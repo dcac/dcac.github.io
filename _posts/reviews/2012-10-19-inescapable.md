@@ -8,7 +8,9 @@ excerpt: "This sounds familiar: a retired secret agent must travel to a foreign 
 position: Unit Publicist
 addressee: Cynthia Amsden
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Inescapable"
 comments: true
 tags: [Alzexander Siddig. Marissa Tomei, Canadian, drama, joshua jackson, Letters, liam neeson, rubba nadda, syria. taken]

@@ -8,7 +8,9 @@ excerpt:
 position: Actress
 addressee: Barbara Jefford
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Philomena"
 comments: true
 tags: [drama, events, inspired by, Letters, Oscars 2014, real, true story]

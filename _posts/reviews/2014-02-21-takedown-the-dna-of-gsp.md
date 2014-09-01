@@ -10,7 +10,7 @@ addressee: Koo Atswali
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - on-video
 title: "Takedown: The DNA of GSP"
 comments: true
 tags: [Canadian, documentary, fighting, George St. Pierre, GSP, Letters, mixed martial arts, MMA, UFC]

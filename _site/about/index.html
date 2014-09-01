@@ -115,7 +115,7 @@
     </nav>
     <div>
       <div class="container-shadow" id="main-container">    
-                
+               
 <div class="full-grey">
       <div class="row collapse">
         <div class="section-header">
@@ -146,30 +146,47 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/8/22/the-f-word.html" class="latest-review"><strong>Latest post: </strong><em>The F Word</em> - Dear Sam Morris, Daniel Radcliffe's Bodyguard</a></li>
+            <li><a href="/content/2014/9/1/if-i-stay.html" class="latest-review"><strong>Latest post: </strong><em>If I Stay</em> - Dear The Juilliard School, Performing Arts Conservatory</a></li>
             
           </ul>
         </section>
       </nav>
     </div>
 
-          <div class="row">
-      <div class="section-title">
-        <h1>About.</h1>
-        <section>
-          <ul class="section-right-nav">
-           <li class="section-right-nav"><a href="/about/writers">Writers</a></li>
-           <li class="section-right-nav"><a href="/about/contact/">Contact</a></li>
-          </ul>
-        </section>
-      </div>
-    </div>
-      <div class="row">
-        <p>Dear Cast and Crew is a series of open letters to the people behind the most powerful medium in the world.</p>
-        <p>It’s not just the big names who make a movie worth watching. The smallest contribution from the most unlikely source can be the most rewarding element of a film. Those people deserve to be praised. And sometimes they deserve to share the blame.</p>
-        <p>That’s why we write our letters.</p>
-      </div>
-      
+      <section id="body-text">
+        <div class="row">
+          <div class="large-4 medium-4 columns hide-for-small-only">
+          </div>
+          <div class="large-8 medium-8 columns" id="body-copy">
+            <h1>About</h1>
+
+<p>Dear Cast and Crew is a series of open letters to the people behind the most powerful medium in the world.</p>
+
+<p>It’s not just the big names who make a movie worth watching. The smallest contribution from the most unlikely source can be the most rewarding element of a film. Those people deserve to be praised. And sometimes they deserve to share the blame.</p>
+
+<p>That’s why we write our letters.</p>
+
+<h2>The Guilty Parties</h2>
+
+<p><strong>Jared Young – Inspector General</strong><br>
+A title is reserved for our pickiest writer, who strong-armed his way into being the site’s de-facto editor-in-chief. As a result, please send all hate mail his way.</p>
+
+<p><strong>Casey Tourangeau – Station Manager</strong><br>
+You know that guy in the engine room, covered in soot, screaming “SHE’S GONNA BLOW, DAMN YOU!!”? That’s Casey. Only the soot is our HTML code… and his rants against the Bayification of cinema. </p>
+
+<p><strong>Christopher Redmond – Postmaster</strong><br>
+Honorary title awarded for having the best personal time management and cranking out the most reviews. By, like, a lot.</p>
+
+<p><strong>Cory Haggard – Special Delivery Agent</strong><br>
+He may not write as often as he’d like, but when he does, it’s always special. Yes, in the Olympic sense.</p>
+
+<p><strong>Di Golding – Route Officer</strong><br>
+Nobody knows exactly what a Route Officer does, but stay the fuck out of her way. Once Di gets on a roll, no recipient is left standing. </p>
+
+          </div>
+        </div>
+      </section>
+
       </div>
 <div id="footer">
         <footer class="mm-fixed-bottom">
@@ -205,7 +222,8 @@
                               <li>
             <a href="/contact/">Contact</a>
           </li>
-                  </ul>                </div>
+                  </ul>
+                </div>
               </div>
               <div class="large-4 medium-6 columns divider collapse" data-equalizer-watch>
                 <div class="footer-block">
@@ -245,7 +263,7 @@
             <div class="row">
               <div class="small-12 columns collapse">
                 <hr />
-                <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+                <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved. | <a href="/privacy/">Privacy Policy</a></p>
               </div>
             </div>
           </div>
@@ -321,14 +339,12 @@
         $form.find('input:radio, input:checkbox')
         .removeAttr('checked').removeAttr('selected');
       }
-      $("#search-form").submit(function(e) {
-          e.preventDefault();
-      });
+
       $(document).keyup(function(e){
         if(e.keyCode === 27) {
           $("#search-modal").css("display","none");
           $("body").css("overflow","auto");
-        resetForm($('#search'));
+          resetForm($('#search'));
         }
       });
       $('#nav-toggle').click(function(){

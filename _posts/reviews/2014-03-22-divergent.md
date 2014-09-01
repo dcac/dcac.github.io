@@ -8,7 +8,9 @@ excerpt: "Did you have one of those big box of crayons as a kid? You know, the 6
 position: Digital Colourist
 addressee: Tom Reiser
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Divergent"
 date: 2014-03-22 17:56
 comments: true

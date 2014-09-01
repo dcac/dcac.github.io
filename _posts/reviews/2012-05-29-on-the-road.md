@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "Cannes 2012: On The Road"
 comments: true
 tags: [Cannes, Festivals, jack kerouc, k-stew, kristen stewart, on the road]

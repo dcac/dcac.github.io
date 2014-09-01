@@ -8,7 +8,9 @@ excerpt: "They say possession is nine-tenths of the law. In other words, the per
 position: Property Master
 addressee: Michael S. Martin
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "12 Years a Slave"
 comments: true
 tags: [12 years a slave, Benedict Cumberbatch, Brad Pitt, Letters, Michael Fassbender, Oscars 2014, Paul Dano, Paul Giamatti, Sarah Paulson, steve mcqueen]

@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta property="og:image" content="/img/article/thumb-600/bernie.jpg}" />
+    <meta property="og:image" content="/img/article/thumb-600/bernie.jpg" />
     <title>Bernie | Dear Cast & Crew</title>
     <link rel="icon" href="/favicon.png" type="image/png">
     
@@ -183,7 +183,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/8/22/the-f-word.html" class="latest-review"><strong>Latest post: </strong><em>The F Word</em> - Dear Sam Morris, Daniel Radcliffe's Bodyguard</a></li>
+            <li><a href="/content/2014/9/1/if-i-stay.html" class="latest-review"><strong>Latest post: </strong><em>If I Stay</em> - Dear The Juilliard School, Performing Arts Conservatory</a></li>
             
           </ul>
         </section>
@@ -210,7 +210,7 @@
                 </div>
               </li>
               <li>
-                <a class="share-icon" target="_blank" href="http://twitter.com/home?status=Dear%20Tina Kerr,%20Extras Casting Director%20for%20BERNIE%20http%3A///content/2012/4/27/bernie.html"><i class="fa fa-twitter"></i></a>
+                <a class="share-icon" target="_blank" href="http://twitter.com/home?status=Dear%20Tina Kerr%2C%20Extras Casting Director%20for%20BERNIE%20http%3A///content/2012/4/27/bernie.html"><i class="fa fa-twitter"></i></a>
               </li>
               <li>
                 <a class="share-icon" target="_blank" href="http://www.facebook.com/sharer.php?u=http%3A///content/2012/4/27/bernie.html"><i class="fa fa-facebook"></i></a>
@@ -231,7 +231,7 @@
                   <h2 class="hero-date">
                     Mailed on April 27, 2012
                   </h2>
-                  <hr class="title-divider" />
+                <hr class="title-divider" />
                 </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" alt="Stamp image" />
@@ -303,6 +303,8 @@
               
               
               
+              
+              
               <p><a href="/content/2012/3/17/sxsw-2012.html">Read all of Dear Cast &amp; Crew's SXSW 2012 coverage.</a></p>
               
               
@@ -329,7 +331,7 @@
                 <a href="/content/2012/3/17/sxsw-2012.html">
                   <div class="review-text">
                     <h1>SXSW 2012</h1>
-                    <h2 class="addressee">Dear , <span class="mobile-line-break"><br /></span></h2>
+                    <h2 class="addressee">Dear Readers, <span class="mobile-line-break"><br /></span></h2>
                     <h2 class="author">By Dear Cast & Crew</h2>
                   </div>
                 </a>
@@ -410,7 +412,7 @@
                   <div class="post-image">
                     <img src="/img/article/thumb-300/bernie.jpg" alt="Bernie Image" />
                     <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /></div>
+                    
                   </div>
                 </a>
                 
@@ -493,7 +495,8 @@
                               <li>
             <a href="/contact/">Contact</a>
           </li>
-                  </ul>                </div>
+                  </ul>
+                </div>
               </div>
               <div class="large-4 medium-6 columns divider collapse" data-equalizer-watch>
                 <div class="footer-block">
@@ -533,7 +536,7 @@
             <div class="row">
               <div class="small-12 columns collapse">
                 <hr />
-                <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+                <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved. | <a href="/privacy/">Privacy Policy</a></p>
               </div>
             </div>
           </div>
@@ -609,14 +612,12 @@
         $form.find('input:radio, input:checkbox')
         .removeAttr('checked').removeAttr('selected');
       }
-      $("#search-form").submit(function(e) {
-          e.preventDefault();
-      });
+
       $(document).keyup(function(e){
         if(e.keyCode === 27) {
           $("#search-modal").css("display","none");
           $("body").css("overflow","auto");
-        resetForm($('#search'));
+          resetForm($('#search'));
         }
       });
       $('#nav-toggle').click(function(){

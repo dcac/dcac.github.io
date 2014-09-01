@@ -10,7 +10,6 @@ addressee: Graham Greene
 layout: review
 categories: 
   - reviews
-  - current-releases
   - series
 series-name: mockbusters
 title: "Atlantic Rim"

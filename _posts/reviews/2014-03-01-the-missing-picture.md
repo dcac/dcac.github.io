@@ -10,7 +10,7 @@ addressee: Sarith Mang
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - on-video
 title: "The Missing Picture"
 comments: true
 tags: [cambodia, khmer rouge, Letters, Oscars 2014, pol pot, The Missing Picture]

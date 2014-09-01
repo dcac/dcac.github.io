@@ -8,7 +8,9 @@ excerpt: "I&rsquo;m guessing you&rsquo;ve never seen that HBSC &ldquo;Your Point
 position: Make-up and Tattoo Artist
 addressee: Contanza Garcia
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Aftershock"
 comments: true
 tags: [aftershock, Chile, Disaster, earthquake, Eli Roth, horror, independent, Letters, low budget, movie, tsunami]

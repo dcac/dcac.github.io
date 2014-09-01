@@ -11,6 +11,7 @@ layout: review
 categories:
   - reviews
   - netflix
+  - on-video
 title: "Premium Rush"
 comments: true
 tags: [action, Cycling, Cyclist, David Koepp, JGL, Joseph Gordon-Levitt, Premium Rush, Uncategorized]

@@ -12,6 +12,7 @@ categories:
   - reviews
   - series
   - netflix
+  - on-video
 title: "The Raid: Redemption"
 series-name: SXSW 2012
 comments: true

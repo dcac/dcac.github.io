@@ -8,8 +8,10 @@ excerpt: "It's easy to imagine you heading off to the first day of shooting with
 position: Boom Operator
 addressee: Brett Becker
 layout: review
-categories: reviews
-title: "Banshee Chapter"
+categories: 
+  - reviews
+  - current-releases
+title:  "Banshee Chapter"
 date: 2014-07-07 15:14
 comments: true
 tags: [horror, Letters]

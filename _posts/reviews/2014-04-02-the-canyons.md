@@ -11,6 +11,7 @@ layout: review
 categories: 
 - reviews
 - netflix
+  - on-video
 title: "The Canyons"
 date: 2014-04-02 19:08
 comments: true

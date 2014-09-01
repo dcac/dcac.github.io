@@ -8,7 +8,9 @@ excerpt: "Not only did you provide a glorious backdrop to this muddled but enjoy
 position: Locations Manager
 addressee: Pierre Blondin
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "The Young and Prodigious T.S. Spivet"
 date: 2014-06-20 14:51
 comments: true

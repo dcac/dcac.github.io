@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "That's My Boy"
 comments: true
 tags: [Adam Sandler, comedy, Happy Madison, Letters]

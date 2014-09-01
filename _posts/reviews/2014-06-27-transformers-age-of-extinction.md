@@ -8,8 +8,10 @@ excerpt: "When it comes to melting metal on Hollywood sets, it's hard to top you
 position: Welder
 addressee: Steve Salazar
 layout: review
-categories: reviews
-title: "Transformers: Age of Extinction"
+categories: 
+  - reviews
+  - current-releases
+title:  "Transformers: Age of Extinction"
 date: 2014-06-27 18:02
 comments: true
 tags: [action, Letters, sci-fi, transformers]

@@ -11,6 +11,7 @@ layout: review
 categories:
   - reviews
   - netflix
+  - on-video
 title: "Prometheus"
 comments: true
 tags: [Alien, Charlize Theron, Letters, netflix.ca, Noomi Rapace, Prometheus, Ridely Scott]

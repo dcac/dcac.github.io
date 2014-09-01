@@ -12,6 +12,7 @@ categories:
   - reviews
   - series
   - netflix
+  - on-video
 title: "Indie Game: The Movie"
 series-name: SXSW 2012
 comments: true

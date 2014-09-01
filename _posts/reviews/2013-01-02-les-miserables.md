@@ -8,7 +8,9 @@ excerpt: '"It was actually pretty good… for a chick flick." - Doug Redmond'
 position: "Reluctant Audience Member (and Real-Life Javert) "
 addressee: Dad 
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Les Misérables"
 comments: true
 tags: [Anne Hathaway, Fanien, Hugh Jackman, I Dreamed a Dream, Jean Valjean, Les Mis, Les Miserables, Les Misrables, Letters, On My Own, One More Day, Russel Crow, Susan Boyle]

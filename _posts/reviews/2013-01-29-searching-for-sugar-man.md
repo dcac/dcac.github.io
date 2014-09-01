@@ -11,6 +11,7 @@ layout: review
 categories: 
   - reviews
   - netflix
+  - on-video
 title: "Searching for Sugar Man"
 comments: true
 tags: [documentary, Letters, oscars, Sixto Rodriguez]

@@ -8,7 +8,9 @@ excerpt: "Roller disco double dicker.&rdquo; That was you, wasn&rsquo;t it?"
 position: Random Phrase Generator
 addressee: Lonnie Kleinman
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Roller Town"
 comments: true
 tags: [Andrew Bush, Canada, Canadian film, comedy, Kayla Lorette, Mark Little, Picnicface, Roller Town, Scott Vrooman, Uncategorized]

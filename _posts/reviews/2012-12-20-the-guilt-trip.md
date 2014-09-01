@@ -11,6 +11,7 @@ layout: review
 categories: 
   - reviews
   - netflix
+  - on-video
 title: "The Guilt Trip"
 comments: true
 tags: [Anne Fletcher, Barbara Streisand, comedy, Letters, mother, road trip, Seth Rogan, son, The Guilt Trip]

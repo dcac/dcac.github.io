@@ -8,7 +8,9 @@ excerpt: "When I sit down to write a review for Dear Cast and Crew, I often spen
 position: writer
 addressee: Erica Rivenoja
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Cloudy with a Chance of Meatballs 2"
 comments: true
 tags: [Animation, Cloudy With a Chance of Meatballs 2, comedy, Family, Letters, Sequel, Steven Jobs]

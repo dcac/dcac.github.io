@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "Blue is the Warmest Colour"
 comments: true
 tags: [actress, adele, blue is the warmest color, Blue is the warmest colour, Cannes 2013, controversy, first assistant director, graphic, la vie d'adele, lesbian, Letters, novel, nudity]

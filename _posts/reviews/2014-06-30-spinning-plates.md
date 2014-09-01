@@ -8,8 +8,10 @@ excerpt: "In the end credits of Spinning Plates, your son writes \"In loving mem
 position: Director's Dad
 addressee: Leon Levy
 layout: review
-categories: reviews
-title: "Spinning Plates"
+categories: 
+  - reviews
+  - current-releases
+title:  "Spinning Plates"
 date: 2014-06-30 16:16
 comments: true
 tags: [documentary, food, foodie, Letters, netflix, restaurant]

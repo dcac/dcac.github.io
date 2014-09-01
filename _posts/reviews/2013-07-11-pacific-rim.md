@@ -8,7 +8,9 @@ excerpt:
 position: Fight Choreographer and Designer
 addressee: Bradley Allan
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Pacific Rim"
 comments: true
 tags: [action, blockbuster, Letters, Pacific Rim, sci-fi, summer]

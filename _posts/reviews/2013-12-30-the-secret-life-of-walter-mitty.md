@@ -8,7 +8,9 @@ excerpt:
 position: Actors
 addressee: Horny Chileans
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "The Secret Life of Walter Mitty"
 comments: true
 tags: [comedy, drama, Letters]

@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "Star Trek Into Darkness"
 comments: true
 tags: [Benedict Cumberpatch, blockbuster, Chris Pine, j.j. Abrams, Letters, Oscars 2014, sci-fi, Sequel, Star Trek, summer, Zachary Quinto]

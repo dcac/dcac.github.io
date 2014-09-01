@@ -2,7 +2,6 @@
 layout: review
 categories: 
   - reviews
-  - current-releases
 imdb: tt2520096
 published: true
 image: "filthy-gorgeous-the-bob-guccione-story.jpg"

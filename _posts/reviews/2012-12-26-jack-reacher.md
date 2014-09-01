@@ -11,6 +11,7 @@ layout: review
 categories: 
   - reviews
   - netflix
+  - on-video
 title: "Jack Reacher"
 comments: true
 tags: [action, adaptation, Christopher McQuarrie, Jack Reacher, Lee Child, Letters, novel, Tom Cruise, Werner Herzog]

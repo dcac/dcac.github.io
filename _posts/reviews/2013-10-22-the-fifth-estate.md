@@ -8,7 +8,9 @@ excerpt: "I'm not much of a computer guy, but I always hear complaints about non
 position: Screen Graphics Designer
 addressee: Shaun Yue
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "The Fifth Estate"
 comments: true
 tags: [based on, Benedict Cumberbatch, Bill Condon, Daniel Bruhl, inspired by, Julian assange, the fifth estate, thriller, true events, true story, Uncategorized, wikileaks]

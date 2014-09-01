@@ -8,7 +8,9 @@ excerpt: "The general consensus is that any Muppets movie is better than noMuppe
 position: Songwriter
 addressee: Bret McKenzie
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Muppets Most Wanted"
 date: 2014-03-26 14:41
 comments: true

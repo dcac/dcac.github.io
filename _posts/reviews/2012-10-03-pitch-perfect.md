@@ -8,7 +8,9 @@ excerpt: "Maybe originality is overrated. Today&rsquo;s biggest musical stars ar
 position: Re-recording Mix Technician
 addressee: Steve Schatz
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Pitch Perfect"
 comments: true
 tags: [a cappella, Anna Kendrick, comedy, musical, PItch Perfect, Rebel Wilson, Uncategorized]

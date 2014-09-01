@@ -8,8 +8,10 @@ excerpt: "Few people on this planet are as qualified to talk about the Internet 
 position: Inventor of the World Wide Web
 addressee: Tim Berners-Lee
 layout: review
-categories: reviews
-title: "The Internet's Own Boy"
+categories: 
+  - reviews
+  - current-releases
+title:  "The Internet's Own Boy"
 date: 2014-07-09 15:45
 comments: true
 tags: [bio pic, biopic, documentary, hacktivism, hHot Docs, internet, Letters]

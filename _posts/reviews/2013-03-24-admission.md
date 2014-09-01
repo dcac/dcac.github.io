@@ -8,7 +8,9 @@ excerpt: "There&#8217;s a lot of standing-in going on in <em>Admission</em>. I d
 position: Nat Wolff's Stand-In
 addressee: Jay Scott
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Admission"
 comments: true
 tags: [comedy, Letters, Paul Rudd, Paul Weitz, Tina Fey]

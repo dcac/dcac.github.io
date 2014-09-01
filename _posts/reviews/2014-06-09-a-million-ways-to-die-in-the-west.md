@@ -8,8 +8,10 @@ excerpt: "Ladiesandgentlemensteprightup, do I have something special for you! Lo
 position: Snake Oil Salesman
 addressee: Dennis Haskins
 layout: review
-categories: reviews
-title: "A Million Ways to Die in the West"
+categories: 
+  - reviews
+  - current-releases
+title:  "A Million Ways to Die in the West"
 date: 2014-06-09 15:09
 comments: true
 tags: [comedy, Letters]

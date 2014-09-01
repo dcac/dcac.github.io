@@ -8,7 +8,9 @@ excerpt: "Not even you could have seen this coming. On December 26<sup>th</sup>,
 position: Water Supervisor
 addressee: Dolofo Mart&iacute;n Crespo
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "The Impossible"
 comments: true
 tags: [Boxing Day, Disaster, Ewan McGregor, inspired by, Letters, Namoi Watts, natural, Oscar, The Impossible, true events, true story, tsunami, water]

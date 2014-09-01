@@ -8,7 +8,9 @@ excerpt: "Good day, sir. I hope this letter finds you well. I’m writing to you
 position: Leader of The Cause 
 addressee: Lancaster Dodd
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "The Master"
 comments: true
 tags: [Amy Adams, beliver, crazy, cult, Joaquin Phoenix, P.T. Anderson, Philip Seymour Hoffman, religion, Scientology movie, The Cause, The Master, Tom Cruise, Uncategorized]

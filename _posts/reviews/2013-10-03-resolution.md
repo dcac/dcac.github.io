@@ -8,7 +8,9 @@ excerpt:
 position: Screenwriter
 addressee: Dear Justin Benson
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Resolution"
 comments: true
 tags: [horror, Letters, mystery, Resolution, thriller]

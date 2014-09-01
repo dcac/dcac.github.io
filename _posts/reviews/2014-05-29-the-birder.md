@@ -8,8 +8,10 @@ excerpt: "I'm not into birdwatching. I mean, sure, I get pretty excited when I s
 position: Birding Consultant
 addressee: Sarah Rupert
 layout: review
-categories: reviews
-title: "The Birder"
+categories: 
+  - reviews
+  - current-releases
+title:  "The Birder"
 date: 2014-05-29 12:35
 comments: true
 tags: [Canadian, comedy, indie, Letters]

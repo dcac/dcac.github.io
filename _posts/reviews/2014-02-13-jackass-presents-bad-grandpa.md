@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "Jackass Presents Bad Grandpa"
 comments: true
 tags: [Letters, Oscars 2014]

@@ -8,7 +8,9 @@ excerpt: "I assume you're pretty familiar with sex."
 position: "Research and Help to the Director"
 addressee: Anne Linnet
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Nymphomanic Vol. 1 and 2"
 date: 2014-03-28 16:55
 comments: true

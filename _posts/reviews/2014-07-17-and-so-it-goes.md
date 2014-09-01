@@ -8,8 +8,10 @@ excerpt: "We get older. We learn and develop. We try, we fail, we try again. Our
 position: Executive Producer
 addressee: Grant Cramer
 layout: review
-categories: reviews
-title: "And So it Goes"
+categories: 
+  - reviews
+  - current-releases
+title:  "And So it Goes"
 date: 2014-07-17 15:06
 comments: true
 tags: [comedy, drama, Executive Producer, Letters, Michael Douglas]

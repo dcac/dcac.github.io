@@ -8,7 +8,9 @@ excerpt: "I&rsquo;d like to know what the panic in director Lee Daniels&rsquo; v
 position: "Sound Mixer: Additional Photography"
 addressee: Dennis Grzesik
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "The Paperboy"
 comments: true
 tags: [drama, Lee Daniels, Letters, Matthew McConaughey, Nicole Kidman, Zac Efron]

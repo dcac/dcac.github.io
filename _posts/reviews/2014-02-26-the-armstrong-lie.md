@@ -11,6 +11,7 @@ layout: review
 categories: 
 - reviews
 - netflix
+  - on-video
 title: "The Armstrong Lie"
 comments: true
 tags: [Alex Gibney, documentary, lance armstrong, Letters, livestong]

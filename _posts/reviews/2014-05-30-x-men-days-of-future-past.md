@@ -8,8 +8,10 @@ excerpt: "You know a little something about continuity, don't you? It's kind of 
 position: Script Supervisor
 addressee: Christine Wilson
 layout: review
-categories: reviews
-title: "X-Men: Days of Future Past"
+categories: 
+  - reviews
+  - current-releases
+title:  "X-Men: Days of Future Past"
 date: 2014-05-30 14:04
 comments: true
 tags: [action, comic book, Letters, preboot, Prequel, Sequel, x-men]

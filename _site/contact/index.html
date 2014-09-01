@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     
-    <title>About | Dear Cast & Crew</title>
+    <title>Contact | Dear Cast & Crew</title>
     <link rel="icon" href="/favicon.png" type="image/png">
     
     <!-- Analytics -->
@@ -115,7 +115,7 @@
     </nav>
     <div>
       <div class="container-shadow" id="main-container">    
-                
+               
 <div class="full-grey">
       <div class="row collapse">
         <div class="section-header">
@@ -146,30 +146,42 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/8/22/the-f-word.html" class="latest-review"><strong>Latest post: </strong><em>The F Word</em> - Dear Sam Morris, Daniel Radcliffe's Bodyguard</a></li>
+            <li><a href="/content/2014/9/1/if-i-stay.html" class="latest-review"><strong>Latest post: </strong><em>If I Stay</em> - Dear The Juilliard School, Performing Arts Conservatory</a></li>
             
           </ul>
         </section>
       </nav>
     </div>
 
-          <div class="row">
-      <div class="section-title">
-        <h1>About.</h1>
-        <section>
-          <ul class="section-right-nav">
-           <li class="section-right-nav"><a href="/about/writers">Writers</a></li>
-           <li class="section-right-nav"><a href="/about/contact/">Contact</a></li>
-          </ul>
-        </section>
-      </div>
-    </div>
-      <div class="row">
-        <p>Dear Cast and Crew is a series of open letters to the people behind the most powerful medium in the world.</p>
-        <p>It’s not just the big names who make a movie worth watching. The smallest contribution from the most unlikely source can be the most rewarding element of a film. Those people deserve to be praised. And sometimes they deserve to share the blame.</p>
-        <p>That’s why we write our letters.</p>
-      </div>
-      
+      <section id="body-text">
+        <div class="row">
+          <div class="large-4 medium-4 columns hide-for-small-only">
+          </div>
+          <div class="large-8 medium-8 columns" id="body-copy">
+            <h1>Contact</h1>
+
+<h2>General Inquiries</h2>
+
+<p><strong>Email:</strong> <a href="mailto:info@dearcastandcrew.com">info@dearcastandcrew.com</a></p>
+
+<h2>Mailing address</h2>
+
+<p><strong>Dear Cast &amp; Crew</strong><br>
+289 Somerset Street East<br>
+Ottawa ON<br>
+K1N 6V9<br>
+Canada  </p>
+
+<h2>Dear Cast &amp; Crew Social Platforms</h2>
+
+<p><strong>Twitter:</strong> <a href="http://www.twitter.com/dearcastandcrew/">http://www.twitter.com/dearcastandcrew/</a><br>
+<strong>Facebook:</strong> <a href="http://www.facebok.com/dearcastandcrew">http://www.facebok.com/dearcastandcrew</a><br>
+<strong>Leterboxd:</strong> <a href="http://www.letterboxd.com/dearcastandcrew">http://www.letterboxd.com/dearcastandcrew</a>  </p>
+
+          </div>
+        </div>
+      </section>
+
       </div>
 <div id="footer">
         <footer class="mm-fixed-bottom">
@@ -205,7 +217,8 @@
                               <li>
             <a href="/contact/">Contact</a>
           </li>
-                  </ul>                </div>
+                  </ul>
+                </div>
               </div>
               <div class="large-4 medium-6 columns divider collapse" data-equalizer-watch>
                 <div class="footer-block">
@@ -245,7 +258,7 @@
             <div class="row">
               <div class="small-12 columns collapse">
                 <hr />
-                <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+                <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved. | <a href="/privacy/">Privacy Policy</a></p>
               </div>
             </div>
           </div>
@@ -321,14 +334,12 @@
         $form.find('input:radio, input:checkbox')
         .removeAttr('checked').removeAttr('selected');
       }
-      $("#search-form").submit(function(e) {
-          e.preventDefault();
-      });
+
       $(document).keyup(function(e){
         if(e.keyCode === 27) {
           $("#search-modal").css("display","none");
           $("body").css("overflow","auto");
-        resetForm($('#search'));
+          resetForm($('#search'));
         }
       });
       $('#nav-toggle').click(function(){

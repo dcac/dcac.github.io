@@ -8,7 +8,9 @@ excerpt: "Scanning the credits for <em>Zero Dark Thirty</em>, I noticed yours: &
 position: Technical Consultant
 addressee: Barry Rice
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Zero Dark Thirty"
 comments: true
 tags: [controversy, drama, Jessica Chastain, Kathryn Bigelow, Letters, war]

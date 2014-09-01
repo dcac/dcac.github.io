@@ -8,8 +8,10 @@ excerpt: "Your credit at the end of Only Lovers Left Alive might be one of my fa
 position: Instigation and Inspiration
 addressee: Sara Driver
 layout: review
-categories: reviews
-title: "Only Lovers Left Alive"
+categories: 
+  - reviews
+  - current-releases
+title:  "Only Lovers Left Alive"
 date: 2014-06-01 14:17
 comments: true
 tags: [comedy, dark comedy, drama, emo, goth, Letters, vampires]

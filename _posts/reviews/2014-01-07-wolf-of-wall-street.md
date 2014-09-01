@@ -1,6 +1,8 @@
 ---
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 published: true
 title: The Wolf of Wall Street
 tags: reviews

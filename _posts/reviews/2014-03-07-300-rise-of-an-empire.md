@@ -9,7 +9,7 @@ addressee: Themistocles
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - on-video
 title: "300: Rise of an Empire"
 author: jaredy
 comments: true

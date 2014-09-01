@@ -7,7 +7,9 @@ excerpt:
 position: Makeup Artist for Mr. Efron
 addressee: Joseph Farulla
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "That Awkward Moment"
 comments: true
 tags: [assistant, Letters, Make-up, makeup, Mr. Efron, naked, nude, personal, pretty, Zac Efron]

@@ -8,7 +8,9 @@ excerpt: "In your position, you have to do what you&rsquo;re told. If a set dres
 position: Swing Gang
 addressee: Sabrina van Hoof
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Eddie: The Sleepwalking Cannibal"
 comments: true
 tags: [Canadian, comedy, Eddie the Sleepwalking Cannibal, horror, Thure Lindhardt, Uncategorized]

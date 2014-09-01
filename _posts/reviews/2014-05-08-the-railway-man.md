@@ -8,8 +8,10 @@ excerpt: "It's your job to put relevant objects into the hands of the actors. If
 position: Prop Masters
 addressee: Justine Dunn and Jim Elliot
 layout: review
-categories: reviews
-title: "The Railway Man"
+categories: 
+  - reviews
+  - current-releases
+title:  "The Railway Man"
 date: 2014-05-08 19:55
 comments: true
 tags: [adaptation, Letters, novel, The Railway Man]

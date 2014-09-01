@@ -8,7 +8,9 @@ excerpt: "Maybe you can help me see the point of this movie. I understand how pe
 position: Contact Lens Technician
 addressee: Mandy Ketcheson
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Silent Hill : Revelation"
 comments: true
 tags: [adaptation, Adelaide Clemens, Canadian, contact lens, gamer, horro, Kit Harrington, Sean Bean, Sequel, SIlent Hill, Uncategorized, video game]

@@ -8,7 +8,9 @@ excerpt: "CRASH! BANG! ZOOM! In a <em>Fast and Furious</em> world, this is the c
 position: Action Sequence Designer
 addressee: David C.P. Chan
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Fast & Furious 6"
 comments: true
 tags: [action, Car, Chris Ludacris Bridges, fast, Fast and Furious 6, furious, Jordana Brewster, Letters, Paul Walker, Sequel, Sung Kang, Tyrese Gibson, Vin Disel]

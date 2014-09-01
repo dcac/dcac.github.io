@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "The Sitter"
 comments: true
 tags: [comedy, Jonah Hill, Letters, netflix.ca, Zip.ca]

@@ -8,7 +8,9 @@ excerpt: "The conflict in the West Bank has been going on for so long, in such f
 position: Director
 addressee: Emad Burnat
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "5 Broken Cameras"
 comments: true
 tags: [documentary, Emad Burnat, Israel, Letters, oscars, Palestine]

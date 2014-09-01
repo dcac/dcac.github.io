@@ -8,7 +8,9 @@ excerpt: "Far be it for me to question your taste. Your production company, micr
 position: Producer
 addressee: Kim McGraw
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Inch'Allah"
 comments: true
 tags: [Anas Barbeau-Lavalette, Canadian, conflict, doctor, drama, Israel, Kim McGraw, Letters, medicine, Middle East, Palestine]

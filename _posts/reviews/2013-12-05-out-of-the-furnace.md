@@ -8,7 +8,9 @@ excerpt: "Some people can take a punch for a living. Not many, mind you, and for
 position: Fight Scene Stand-In
 addressee: Carmen Frank Roberts III
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Out of the Furnace"
 comments: true
 tags: [Casey Affleck, Christian Bale, drama, fighting, Stand-In, Uncategorized, war]

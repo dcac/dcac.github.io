@@ -8,7 +8,9 @@ excerpt: "I&rsquo;m sorry to bother you this afternoon, Mr. Bateman, but our rec
 position: Actor
 addressee: Jason Bateman
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Identity Thief"
 comments: true
 tags: [comedy, Jason Bateman, Letters, Melissa McCarthy]

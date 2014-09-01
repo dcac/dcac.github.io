@@ -8,7 +8,9 @@ excerpt: "I barely even know where to start."
 position: Producer
 addressee: Christopher Nolan
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Man of Steel"
 comments: true
 tags: [comics, Letters, Russel Crow, Superman, Zack Snyder]

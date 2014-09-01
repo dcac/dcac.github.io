@@ -7,7 +7,9 @@ excerpt:
 position: Head Hair Stylist
 addressee: Kathrine Gordon
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "American Hustle"
 comments: true
 tags: [70s, Amy Adams, Bradley Cooper, Christian Bale, David O. Russell, drama, Jennifer Lawrence, Letters, Oscars 2014]

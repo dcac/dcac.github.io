@@ -8,7 +8,9 @@ excerpt: "When you collaborate with Terrence Malick, you do so at your own risk.
 position: Artistic Collaborator
 addressee: Tyler Savage
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "To The Wonder"
 comments: true
 tags: [Ben Affleck, Experiemental, Letters, Olga Kurylenko, Rachel McAdams]

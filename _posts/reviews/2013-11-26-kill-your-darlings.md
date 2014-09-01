@@ -8,7 +8,9 @@ excerpt: "Capturing the youthful rebellions of another time on film is tricky. T
 position: Music Supervisor
 addressee: Randall Poster
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Kill Your Darlings"
 comments: true
 tags: [based on a true story, bio, drama, inspired by, Kill Your Darlings, story,]

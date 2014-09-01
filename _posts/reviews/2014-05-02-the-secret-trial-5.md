@@ -8,8 +8,10 @@ excerpt: "I saw you once, but I doubt you saw me in the sea of faces at Parliame
 position: Subject
 addressee: Sophie Harkat
 layout: review
-categories: reviews
-title: "The Secret Trial 5"
+categories: 
+  - reviews
+  - current-releases
+title:  "The Secret Trial 5"
 date: 2014-05-02 21:26
 comments: true
 tags: [Canadian, Festivals, Hot Docs, Hot Docs 2014, law, Muslim, parliament, The Secret Trial 5]

@@ -8,8 +8,10 @@ excerpt: "Scenic artists like you can often help good horror films stand apart f
 position: Standby Painter
 addressee: Amber Fleming-Shon
 layout: review
-categories: reviews
-title: "Deliver Us From Evil"
+categories: 
+  - reviews
+  - current-releases
+title:  "Deliver Us From Evil"
 date: 2014-07-13 13:56
 comments: true
 tags: [cops, crime, events, horror, inspired by, Letters, new york, police, story, true story]

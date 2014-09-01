@@ -8,8 +8,10 @@ excerpt: "A lot of things need to line-up for a film to succeed. There are the o
 position: Pipeline Technical Director
 addressee: Derik Gokstorp,
 layout: review
-categories: reviews
-title: "Snowpiercer"
+categories: 
+  - reviews
+  - current-releases
+title:  "Snowpiercer"
 date: 2014-07-03 13:01
 comments: true
 tags: [action, apocalypse, Letters, snowpiercer, south korea, thriller]

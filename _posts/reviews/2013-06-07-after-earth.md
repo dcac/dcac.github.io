@@ -8,7 +8,9 @@ excerpt: "That was a hell of a workout for you guys."
 position: Principal Actors
 addressee: Jaden Smith's Eyebrows
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "After Earth"
 comments: true
 tags: [Jaden Smith, Letters, M. Knight Shyamalan, sci-fi, Will Smith]

@@ -8,8 +8,10 @@ excerpt: "There are a lot of special effects in Maleficent. We're talking Avatar
 position: Bluescreen Stagehand
 addressee: Alan Titmuss
 layout: review
-categories: reviews
-title: "Maleficent"
+categories: 
+  - reviews
+  - current-releases
+title:  "Maleficent"
 date: 2014-06-04 13:10
 comments: true
 tags: [angelina jolie, Disney, fantasy, Letters]

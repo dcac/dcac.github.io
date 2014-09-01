@@ -11,6 +11,7 @@ layout: review
 categories: 
  - reviews
  - netflix
+  - on-video
 title: "Side By Side"
 comments: true
 tags: [Christopher Nolan, Danny Boyle, David Fincher, David Lynch, digital, documentary, Film, George Lucas, James Cameron, Letters, Martin Scorsese, Red, video]

@@ -8,8 +8,10 @@ excerpt: "What's the proper way to say this? Grace of Monaco is little... clumsy
 position: Etiquette Coach
 addressee: Corinne Devaux
 layout: review
-categories: reviews
-title: "Grace of Monaco"
+categories: 
+  - reviews
+  - current-releases
+title:  "Grace of Monaco"
 date: 2014-07-08 15:43
 comments: true
 tags: [bio, bio pic, biopic, Cannes, drama, Letters, melodrama]

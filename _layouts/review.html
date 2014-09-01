@@ -20,15 +20,15 @@ layout: default
                   <h2 class="hero-date">
                     Mailed on {{ page.date | date: "%B %d, %Y" }}
                   </h2>
-                  <hr class="title-divider" />
+                {% if page.stars %}<hr class="title-divider" />{% endif %}
                 </div>
-                <div class="status-container">
+                {% if page.stars %}<div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" alt="Stamp image" />
                 {% if page.stars < 1.5 %}Junk<br />Mail{% elsif page.stars >= 1.5 and page.stars < 2.5 %}Return to<br />Sender{% elsif page.stars >= 2.5 and page.stars < 3.5 %}Standard<br />Delivery{% elsif page.stars >= 3.5 and page.stars < 4.5  %}Air<br />Mail{% elsif page.stars >= 4.5 %}Priority<br />Post{% endif %}<br />
                   <div class="large-star-rating">
                     {% for i in (1..page.stars) %}<img class="star-large" src="/img/global/star-blue.svg" alt="Star"/>{% endfor %}{% assign half_star = page.stars | modulo:1 %}{% if half_star > 0 %}<img class="star-large" src="/img/global/star-blue-half.svg" alt="Half Star" />{% endif %}{% assign empty_stars = 5 | minus: page.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img class="star-large" src="/img/global/star-white.svg" alt="Empty Star" />{% endfor %}{% endif %}
                   </div>
-                </div>
+                </div>{% endif %}
               </div>
             </div>
             <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">

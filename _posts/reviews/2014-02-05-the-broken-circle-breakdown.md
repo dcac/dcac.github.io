@@ -8,7 +8,9 @@ excerpt:
 position: Stage Manager
 addressee: Liesbeth de Wilde
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "The Broken Circle Breakdown"
 comments: true
 tags: [belgian, belgium, bluegrass, drama, foreign language, Letters, music, Oscars 2014]

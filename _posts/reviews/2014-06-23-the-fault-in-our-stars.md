@@ -8,8 +8,10 @@ excerpt: "You're obviously a sharp guy. If you hadn't done your job right, this 
 position: Focus Puller
 addressee: Luuk Schmitz
 layout: review
-categories: reviews
-title: "The Fault in Our Stars"
+categories: 
+  - reviews
+  - current-releases
+title:  "The Fault in Our Stars"
 date: 2014-06-23 12:38
 comments: true
 tags: [adaptation, cancer, drama, Letters, novel, romance, teen]

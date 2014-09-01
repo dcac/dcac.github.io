@@ -8,7 +8,9 @@ excerpt: "There are many reasons to make movies. Jon Peters tried for years to m
 position: Costume Designer
 addressee: Eiko Ishioka
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Mirror, Mirror"
 comments: true
 tags: [fantasy, Julia Roberts, Letters, oscars]

@@ -146,7 +146,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/8/22/the-f-word.html" class="latest-review"><strong>Latest post: </strong><em>The F Word</em> - Dear Sam Morris, Daniel Radcliffe's Bodyguard</a></li>
+            <li><a href="/content/2014/9/1/if-i-stay.html" class="latest-review"><strong>Latest post: </strong><em>If I Stay</em> - Dear The Juilliard School, Performing Arts Conservatory</a></li>
             
           </ul>
         </section>
@@ -554,7 +554,8 @@
                               <li>
             <a href="/contact/">Contact</a>
           </li>
-                  </ul>                </div>
+                  </ul>
+                </div>
               </div>
               <div class="large-4 medium-6 columns divider collapse" data-equalizer-watch>
                 <div class="footer-block">
@@ -594,7 +595,7 @@
             <div class="row">
               <div class="small-12 columns collapse">
                 <hr />
-                <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+                <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved. | <a href="/privacy/">Privacy Policy</a></p>
               </div>
             </div>
           </div>
@@ -670,14 +671,12 @@
         $form.find('input:radio, input:checkbox')
         .removeAttr('checked').removeAttr('selected');
       }
-      $("#search-form").submit(function(e) {
-          e.preventDefault();
-      });
+
       $(document).keyup(function(e){
         if(e.keyCode === 27) {
           $("#search-modal").css("display","none");
           $("body").css("overflow","auto");
-        resetForm($('#search'));
+          resetForm($('#search'));
         }
       });
       $('#nav-toggle').click(function(){

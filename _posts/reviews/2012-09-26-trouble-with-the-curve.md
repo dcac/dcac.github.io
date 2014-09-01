@@ -8,7 +8,9 @@ excerpt: "Perhaps Clint Eastwood is a more powerful figure than we realize."
 position: Casting Director
 addressee: Geoffrey Milcat
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Trouble With The Curve"
 comments: true
 tags: [baseball, clint eastwood, drama, extras, john goodman, Letters, sports]

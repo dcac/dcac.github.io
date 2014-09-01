@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "Wrath of the Titans"
 comments: true
 streaming: true

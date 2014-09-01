@@ -10,6 +10,7 @@ layout: review
 categories: 
   - reviews
   - netflix
+  - on-video
 title: "The Croods"
 comments: true
 tags: [animated, Animation, comedy, croods, dreamworks, Family, Letters, nicolas cage, Oscars 2014, Ryan Reynolds]

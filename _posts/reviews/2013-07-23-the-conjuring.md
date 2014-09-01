@@ -8,7 +8,9 @@ excerpt: "This has been an exhausting few months, Mark. The heat. The humidity. 
 position: Camera Operator
 addressee: Mark Meyers
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "THE CONJURING"
 comments: true
 tags: [Air Mail, ghosts, horror, james wan, patrick wilson, summer of 2013, suspense, the conjuring, Uncategorized, vera farmiga]

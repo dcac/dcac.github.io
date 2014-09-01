@@ -8,7 +8,9 @@ excerpt: "Like a lovelorn schoolboy with a pet falcon on his shoulder and vintag
 position: Music Supervisor
 addressee: Marguerite Philips
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Safety Not Guaranteed"
 comments: true
 tags: [aubrey plaza, drama, independent, Letters, Mark Duplass, sci-fi]

@@ -10,7 +10,7 @@ addressee: Matt Rusk
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - on-video
 title: "Need for Speed"
 comments: true
 tags: [action, adaptation, Letters, need for speed]

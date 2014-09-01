@@ -8,8 +8,10 @@ excerpt: "I'm ashamed to admit this, but I haven't worked out since I was 15 yea
 position: Physical Trainer
 addressee: Martin Turk
 layout: review
-categories: reviews
-title: "Edge of Tomorrow"
+categories: 
+  - reviews
+  - current-releases
+title:  "Edge of Tomorrow"
 date: 2014-06-06 13:54
 comments: true
 tags: [action, doug liman, Emily Blunt, Letters, sci-fi, syfy, Tom Cruise]

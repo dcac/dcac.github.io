@@ -11,6 +11,7 @@ layout: review
 categories: 
   - reviews
   - netflix
+  - on-video
 title: "Before Midnight"
 comments: true
 tags: [Before Midnight, Ethan Hawke, Julie Delpy, Letters, Oscars 2014, Richard Linklater, Sequel]

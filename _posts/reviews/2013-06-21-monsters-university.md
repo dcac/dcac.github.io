@@ -8,7 +8,9 @@ excerpt: "I wonder if someone in your profession prefers to work on an animated 
 position: Sound Designer
 addressee: Tom Myers
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Monsters University"
 comments: true
 tags: [Animation, Letters, MOnsters University, Pixar, Prequel, Sequel]

@@ -10,7 +10,7 @@ addressee: Shane Garner
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - on-video
 title: "Endless Love"
 comments: true
 tags: [Bruce Greenwood, adaptation, teen, romance, Romantic, drama]

@@ -8,8 +8,10 @@ excerpt: "When the final credits rolled on The Overnighters at Hot Docs in Toron
 position: Bidding and Scheduling at Skywalker Sound,
 addressee: Charlotte Moore
 layout: review
-categories: reviews
-title: "The Overnighters"
+categories: 
+  - reviews
+  - current-releases
+title:  "The Overnighters"
 date: 2014-05-03 15:06
 comments: true
 tags: [documentary, Festivals, Hot Docs, Hot Docs 2014, overnighters, Tribeca]

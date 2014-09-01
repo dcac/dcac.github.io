@@ -4,6 +4,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: Dirty Wars
 tags: reviews
 image: "dirty-wars.jpg"

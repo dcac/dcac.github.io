@@ -8,7 +8,9 @@ excerpt:
 position: "Set Lighting Technician: Disneyland Resorts"
 addressee: Thomas McCarty
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Saving Mr. Banks"
 comments: true
 tags: [Colin Farrell, drama, Emma Thompson, Letters, Mary Poppins, Oscars 2014, P.L. Travers, Paul Giamatti, Tom Hanks, Walt Disney]

@@ -8,7 +8,9 @@ excerpt:
 position: Casting Director
 addressee: Deborah Aquila
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Jack Ryan: Shadow Recruit"
 comments: true
 tags: [action, Chris Pine, Jack Ryan, Kenneth Brannagh, Letters, Tom Clancy]

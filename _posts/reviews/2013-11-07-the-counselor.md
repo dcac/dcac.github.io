@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "The Counselor"
 comments: true
 tags: [Brad Pitt, Cameron Diaz, drama, drugs, Javier Bardem, Letters, Michael Fassbender, Penelope Cruz, ridley scott]

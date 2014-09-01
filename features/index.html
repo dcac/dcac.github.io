@@ -38,7 +38,7 @@ exclude_from_search: true
             {% endif %}
           {% endfor %}
           {% if paginator.next_page %}
-            <li><a  href="/{{ page.category }}/{{ paginator.next_page_path }}"><span class="right-arrow-on"></span></a></li>
+            <li><a  href="/{{ page.category }}{{ paginator.next_page_path }}"><span class="right-arrow-on"></span></a></li>
           {% else %}
             <li><span class="right-arrow-off"></span></li>
           {% endif %}

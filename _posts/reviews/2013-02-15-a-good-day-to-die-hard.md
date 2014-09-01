@@ -11,6 +11,7 @@ layout: review
 categories: 
   - reviews
   - netflix
+  - on-video
 title: "A Good Day to Die Hard"
 comments: true
 tags: [action, bruce willis, Die Hard, John McTiernan, Letters, Sequel, shitty sequels]

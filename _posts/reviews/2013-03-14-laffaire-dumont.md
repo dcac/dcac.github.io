@@ -8,7 +8,9 @@ excerpt: "For such a painstakingly specific and accurate film, you sure have a g
 position: Special Equipment Supplier
 addressee: Jean-Patrick Joseph
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "L'affaire Dumont"
 comments: true
 tags: [based on, Canadian, history, inspired by, L'affaire Dumont, Letters, prison, true story, wrongfully accused]

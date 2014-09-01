@@ -8,7 +8,9 @@ excerpt: "You wouldn't think it, but there's a rich cinematic history of shark-c
 position: Shark Chum Thrower
 addressee: Avery Bederman
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "All is Lost"
 comments: true
 tags: [Oscars 2014, Uncategorized]

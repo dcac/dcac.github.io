@@ -10,6 +10,7 @@ addressee: Dear Peter Straughan
 categories:
 - reviews
 - netflix
+  - on-video
 title: "Tinker Tailor Soldier Spy"
 comments: true
 streaming: true

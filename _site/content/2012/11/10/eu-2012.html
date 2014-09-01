@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta property="og:image" content="/img/article/thumb-600/eu-2012.jpg}" />
+    <meta property="og:image" content="/img/article/thumb-600/eu-2012.jpg" />
     <title>European Union Film Festival 2012 | Dear Cast & Crew</title>
     <link rel="icon" href="/favicon.png" type="image/png">
     
@@ -183,13 +183,39 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/8/22/the-f-word.html" class="latest-review"><strong>Latest post: </strong><em>The F Word</em> - Dear Sam Morris, Daniel Radcliffe's Bodyguard</a></li>
+            <li><a href="/content/2014/9/1/if-i-stay.html" class="latest-review"><strong>Latest post: </strong><em>If I Stay</em> - Dear The Juilliard School, Performing Arts Conservatory</a></li>
             
           </ul>
         </section>
       </nav>
     </div>
 
+      <section>
+        <ul class="share-links" id="share-links">
+              <li>
+                <div class="comment-count">
+                  <div class="comment-count-container">
+                    <a class="comment-count-link" href="http://localhost:4000/content/2012/11/10/eu-2012.html#disqus_thread"></a>
+                  </div>
+                  <div class="comment-count-arrow">
+                    <?xml version="1.0" encoding="utf-8"?>
+                    <!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+                    <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+                    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    	 viewBox="0 0 20 23.4" enable-background="new 0 0 20 23.4" xml:space="preserve">
+                      <polyline fill="#c1c0c0" points="0,23.4 0,0 20,0 "/>
+                    </svg>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <a class="share-icon" target="_blank" href="http://twitter.com/home?status=Dear%20Readers%2C%20%20for%20EUROPEAN UNION FILM FESTIVAL 2012%20http%3A///content/2012/11/10/eu-2012.html"><i class="fa fa-twitter"></i></a>
+              </li>
+              <li>
+                <a class="share-icon" target="_blank" href="http://www.facebook.com/sharer.php?u=http%3A///content/2012/11/10/eu-2012.html"><i class="fa fa-facebook"></i></a>
+              </li>
+            </ul>
+      </section>
        <section id="feature-hero">
         <div id="story-title" class="title-info">
           <a href="">
@@ -214,9 +240,7 @@
       <section class="main-copy">
         <div class="row">
           <div class="large-12 medium-12 columns collapse" id="review-copy">
-            <p>Yeah, I think it&#39;s a major embarrassment having an uncle in prison. Listen, Doc, you know there&#39;s something I haven&#39;t told you about the night we made that tape. Oh, uh, hey you, get your damn hands off her. Do you really think I oughta swear? Oh, you mean how you&#39;re supposed to act on a first date. Marty, you seem so nervous, is something wrong?</p>
-
-<p>Marty, I always wear a suit to the office. You alright? This is for all you lovers out there. That&#39;s a great idea. I&#39;d love to park. Good, you could start by sweeping the floor. Who the hell is John F. Kennedy?</p>
+            <p>Tired of always seeing the same old Hollywood formula? Mix it up with the Canadian Film Institute! Join our coverage of the <a href="http://www.cfi-icf.ca/index.php?option=com_cfi&amp;task=showevent&amp;id=96&amp;Itemid=842">27th annual European Union Film Festival</a> to read about some of the most interesting titles from across the pond from 2012.</p>
 
           </div>
         </div>
@@ -230,6 +254,26 @@
         </div>
         <div class="row posts-grid" id="posts-grid">
     
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
+    
+          
     
           
     
@@ -447,7 +491,8 @@
                               <li>
             <a href="/contact/">Contact</a>
           </li>
-                  </ul>                </div>
+                  </ul>
+                </div>
               </div>
               <div class="large-4 medium-6 columns divider collapse" data-equalizer-watch>
                 <div class="footer-block">
@@ -487,7 +532,7 @@
             <div class="row">
               <div class="small-12 columns collapse">
                 <hr />
-                <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+                <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved. | <a href="/privacy/">Privacy Policy</a></p>
               </div>
             </div>
           </div>
@@ -563,14 +608,12 @@
         $form.find('input:radio, input:checkbox')
         .removeAttr('checked').removeAttr('selected');
       }
-      $("#search-form").submit(function(e) {
-          e.preventDefault();
-      });
+
       $(document).keyup(function(e){
         if(e.keyCode === 27) {
           $("#search-modal").css("display","none");
           $("body").css("overflow","auto");
-        resetForm($('#search'));
+          resetForm($('#search'));
         }
       });
       $('#nav-toggle').click(function(){

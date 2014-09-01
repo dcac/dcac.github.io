@@ -8,8 +8,10 @@ excerpt: "I want to run something by you: I feel that the truly surprising peopl
 position: Salvador Dali's Muse
 addressee: Amanda Lear
 layout: review
-categories: reviews
-title: "Jodorowsky's Dune"
+categories: 
+  - reviews
+  - current-releases
+title:  "Jodorowsky's Dune"
 date: 2014-07-10 16:00
 comments: true
 tags: [documentary, Dune, Jodorowsky, Letters, sci-fi, science fiction]

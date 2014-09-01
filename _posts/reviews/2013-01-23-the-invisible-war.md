@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "The Invisible War"
 comments: true
 tags: [NotInvisible, documentary, invisible, Invisible War, Letters, military, not, rape, scandal, sex, sexual assualt, U.S., women]

@@ -8,7 +8,9 @@ excerpt: "I know, I know: it seems like I should write this letter to a member o
 position: Apprentice Editor 
 addressee: Andy Campion
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "The Hobbit: An Unexpected Journey"
 comments: true
 tags: [adventure, andy seriks, fantasy, ian mckellan, Letters, Lord of the Rings, peter jackson, the hobit]

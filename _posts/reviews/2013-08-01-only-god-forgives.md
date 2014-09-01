@@ -8,7 +8,9 @@ excerpt: "You'll notice I'm not attaching one of your own photos to this letter.
 position: Still Photographer
 addressee: Kapong 'Shi' Kornporiphan
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Only God Forgives"
 comments: true
 tags: [art house, bangkok, boxing, Cannes, hey girl, Letters, muay thai, only god forgives, Ryan Gosling, thailand, violent]

@@ -11,6 +11,7 @@ layout: review
 categories: 
   - reviews
   - netflix
+  - on-video
 title: "The Sessions"
 comments: true
 tags: [boobs, Breasts, Breathing Lessons, Helen Hunts, John Hawkes, Letters, naked, nipple, nude, Oscar, The Sessions, tits]

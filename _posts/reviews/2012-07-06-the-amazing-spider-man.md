@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "The Amazing Spider-Man"
 comments: true
 tags: [action, Amazing Spider-Man, Andrew Garfield, comics, Emma Stone, Letters, Marc Webb, Sam Raimi]

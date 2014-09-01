@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "Total Recall"
 comments: true
 tags: [aaction, Colin Farrell, Jessica Biel, Kate Beckinsale, Len Wiseman, Philip K. Dick, Remake, sci-fi, Total recall, Uncategorized]

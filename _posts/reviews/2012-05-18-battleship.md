@@ -11,6 +11,7 @@ layout: review
 categories:
   - reviews
   - netflix
+  - on-video
 title: "Battleship"
 comments: true
 tags: [action, battleship, Letters, negative]

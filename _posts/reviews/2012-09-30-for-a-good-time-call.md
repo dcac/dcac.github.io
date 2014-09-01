@@ -8,7 +8,9 @@ excerpt: "Every movie asks us to believe in a unique little world. Some movies d
 position: Set Decorator
 addressee: Sarah Sprawls
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "For a Good Time, Call..."
 comments: true
 tags: [Ari Raynor, comedy, For a good time call, Justin Travis, Lauren Miller, Review, Seth Rogan, Uncategorized]

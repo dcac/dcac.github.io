@@ -8,7 +8,9 @@ excerpt: "It&rsquo;s a well-known secret in low-budget filmmaking that if you ke
 position: Craft Services
 addressee: Tim Webber
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Cloudburst"
 comments: true
 tags: [Academy Award, Brenda Fricker, Canadian, cinema, gay, GLBT, lesbian, Letters, Olympia Dukakis, queer, winner]

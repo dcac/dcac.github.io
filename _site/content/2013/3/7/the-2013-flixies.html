@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta property="og:image" content="/img/article/thumb-600/the-2013-flixies.jpg}" />
+    <meta property="og:image" content="/img/article/thumb-600/the-2013-flixies.jpg" />
     <title>THE 2013 FLIXIES | Dear Cast & Crew</title>
     <link rel="icon" href="/favicon.png" type="image/png">
     
@@ -183,13 +183,39 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/8/22/the-f-word.html" class="latest-review"><strong>Latest post: </strong><em>The F Word</em> - Dear Sam Morris, Daniel Radcliffe's Bodyguard</a></li>
+            <li><a href="/content/2014/9/1/if-i-stay.html" class="latest-review"><strong>Latest post: </strong><em>If I Stay</em> - Dear The Juilliard School, Performing Arts Conservatory</a></li>
             
           </ul>
         </section>
       </nav>
     </div>
 
+      <section>
+        <ul class="share-links" id="share-links">
+              <li>
+                <div class="comment-count">
+                  <div class="comment-count-container">
+                    <a class="comment-count-link" href="http://localhost:4000/content/2013/3/7/the-2013-flixies.html#disqus_thread"></a>
+                  </div>
+                  <div class="comment-count-arrow">
+                    <?xml version="1.0" encoding="utf-8"?>
+                    <!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+                    <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+                    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    	 viewBox="0 0 20 23.4" enable-background="new 0 0 20 23.4" xml:space="preserve">
+                      <polyline fill="#c1c0c0" points="0,23.4 0,0 20,0 "/>
+                    </svg>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <a class="share-icon" target="_blank" href="http://twitter.com/home?status=Dear%20Netflix Fans%2C%20%20for%20THE 2013 FLIXIES%20http%3A///content/2013/3/7/the-2013-flixies.html"><i class="fa fa-twitter"></i></a>
+              </li>
+              <li>
+                <a class="share-icon" target="_blank" href="http://www.facebook.com/sharer.php?u=http%3A///content/2013/3/7/the-2013-flixies.html"><i class="fa fa-facebook"></i></a>
+              </li>
+            </ul>
+      </section>
 
       <section id="feature-hero">
         <div id="story-title" class="title-info">
@@ -418,7 +444,7 @@ Also: Starbuck.</p>
                 <a href="/content/2013/12/14/2013-silver-stamps.html">
                   <div class="review-text">
                     <h1>2013 Silver Stamps</h1>
-                    <h2 class="addressee">Dear , <span class="mobile-line-break"><br /></span></h2>
+                    <h2 class="addressee">Dear Readers, <span class="mobile-line-break"><br /></span></h2>
                     <h2 class="author">By Dear Cast & Crew</h2>
                   </div>
                 </a>
@@ -498,7 +524,7 @@ Also: Starbuck.</p>
                   <div class="post-image">
                     <img src="/img/article/thumb-300/the-2013-flixies.jpg" alt="THE 2013 FLIXIES Image" />
                     <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                    
                   </div>
                 </a>
                 
@@ -546,7 +572,8 @@ Also: Starbuck.</p>
                               <li>
             <a href="/contact/">Contact</a>
           </li>
-                  </ul>                </div>
+                  </ul>
+                </div>
               </div>
               <div class="large-4 medium-6 columns divider collapse" data-equalizer-watch>
                 <div class="footer-block">
@@ -586,7 +613,7 @@ Also: Starbuck.</p>
             <div class="row">
               <div class="small-12 columns collapse">
                 <hr />
-                <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+                <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved. | <a href="/privacy/">Privacy Policy</a></p>
               </div>
             </div>
           </div>
@@ -662,14 +689,12 @@ Also: Starbuck.</p>
         $form.find('input:radio, input:checkbox')
         .removeAttr('checked').removeAttr('selected');
       }
-      $("#search-form").submit(function(e) {
-          e.preventDefault();
-      });
+
       $(document).keyup(function(e){
         if(e.keyCode === 27) {
           $("#search-modal").css("display","none");
           $("body").css("overflow","auto");
-        resetForm($('#search'));
+          resetForm($('#search'));
         }
       });
       $('#nav-toggle').click(function(){

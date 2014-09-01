@@ -8,7 +8,9 @@ excerpt: ">Sounding authentic is so important. In your line of work, if the audi
 position: Supervising Sound Editor
 addressee: Rich Bologna
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Compliance"
 comments: true
 tags: [Ann Dowd, based on, call, Cpmpliance, Criag Zobel, Dreama Walker, inspired by, Letters, phone, prank, sexual assualt, true story]

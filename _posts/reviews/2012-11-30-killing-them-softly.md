@@ -10,6 +10,7 @@ addressee: Philip J. Strina
 layout: review
 categories: 
   - reviews
+  - on-video
 title: "Killing Them Softly"
 comments: true
 tags: [action, Andrew Dominik, Brad Pitt, Cannes, crime, economic crisis, economy, ganger, Killing Them Softly, Letters, mob, Scoot McNairy, Tarantino]

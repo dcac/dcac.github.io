@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "The Pirates! Band of Misfits"
 comments: true
 tags: [Animation, Charactrer Molder, comedy, Family, Pirates, Tanja Kramfert, Uncategorized]

@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "Byzantium"
 date: 2014-04-17 18:13
 comments: true

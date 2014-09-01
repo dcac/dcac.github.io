@@ -8,7 +8,9 @@ excerpt: "How do I put this nicely? Without even knowing who you were, I could s
 position: Actors
 addressee: Elise and Electra Avellan
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Machete Kills"
 comments: true
 tags: [action, appeal, boobs, Breasts, Letters, Machete Kills, naked, nude, nudity, Robert Rodriguez, Sequel, sex, spoof]

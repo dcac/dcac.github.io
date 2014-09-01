@@ -8,7 +8,9 @@ excerpt:
 position: Development Executive
 addressee: Timothy C. Sullivan
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Lone Survivor"
 comments: true
 tags: [courage, events, inspired by, Letters, Lone survivor, military, Oscars 2014, Peter Berg, survivor, true story, war]

@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "Hitchcock"
 comments: true
 tags: [Alfred, all-time, Anthony Hopkins, best film, Ed Geins, Hichcock, Letters, Psycho, Scarlett Johansson, Sight and Sount, undefined, Vertigo]

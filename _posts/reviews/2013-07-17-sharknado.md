@@ -11,6 +11,7 @@ layout: review
 categories: 
   - reviews
   - netflix
+  - on-video
 title: "Sharknado"
 comments: true
 tags: [sharknado, horror, Letters, low budget, mockbuster, movie, sci-fi, sharks, special, syfy, Thunder Levin, TV]

@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta property="og:image" content="/img/article/thumb-600/the-wind-rises.jpg}" />
+    <meta property="og:image" content="/img/article/thumb-600/the-wind-rises.jpg" />
     <title>The Wind Rises | Dear Cast & Crew</title>
     <link rel="icon" href="/favicon.png" type="image/png">
     
@@ -183,7 +183,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/8/22/the-f-word.html" class="latest-review"><strong>Latest post: </strong><em>The F Word</em> - Dear Sam Morris, Daniel Radcliffe's Bodyguard</a></li>
+            <li><a href="/content/2014/9/1/if-i-stay.html" class="latest-review"><strong>Latest post: </strong><em>If I Stay</em> - Dear The Juilliard School, Performing Arts Conservatory</a></li>
             
           </ul>
         </section>
@@ -210,7 +210,7 @@
                 </div>
               </li>
               <li>
-                <a class="share-icon" target="_blank" href="http://twitter.com/home?status=Dear%20Takeshi Seyama,%20Editor%20for%20THE WIND RISES%20http%3A///content/2014/2/28/the-wind-rises.html"><i class="fa fa-twitter"></i></a>
+                <a class="share-icon" target="_blank" href="http://twitter.com/home?status=Dear%20Takeshi Seyama%2C%20Editor%20for%20THE WIND RISES%20http%3A///content/2014/2/28/the-wind-rises.html"><i class="fa fa-twitter"></i></a>
               </li>
               <li>
                 <a class="share-icon" target="_blank" href="http://www.facebook.com/sharer.php?u=http%3A///content/2014/2/28/the-wind-rises.html"><i class="fa fa-facebook"></i></a>
@@ -231,7 +231,7 @@
                   <h2 class="hero-date">
                     Mailed on February 28, 2014
                   </h2>
-                  <hr class="title-divider" />
+                <hr class="title-divider" />
                 </div>
                 <div class="status-container">
                   <img src="/img/global/stamp.svg" class="standard review-stamp" alt="Stamp image" />
@@ -385,7 +385,7 @@
                   <div class="post-image">
                     <img src="/img/article/thumb-300/the-wind-rises.jpg" alt="The Wind Rises Image" />
                     <div class="corner-stamp"></div>
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                    
                   </div>
                 </a>
                 
@@ -468,7 +468,8 @@
                               <li>
             <a href="/contact/">Contact</a>
           </li>
-                  </ul>                </div>
+                  </ul>
+                </div>
               </div>
               <div class="large-4 medium-6 columns divider collapse" data-equalizer-watch>
                 <div class="footer-block">
@@ -508,7 +509,7 @@
             <div class="row">
               <div class="small-12 columns collapse">
                 <hr />
-                <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+                <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved. | <a href="/privacy/">Privacy Policy</a></p>
               </div>
             </div>
           </div>
@@ -584,14 +585,12 @@
         $form.find('input:radio, input:checkbox')
         .removeAttr('checked').removeAttr('selected');
       }
-      $("#search-form").submit(function(e) {
-          e.preventDefault();
-      });
+
       $(document).keyup(function(e){
         if(e.keyCode === 27) {
           $("#search-modal").css("display","none");
           $("body").css("overflow","auto");
-        resetForm($('#search'));
+          resetForm($('#search'));
         }
       });
       $('#nav-toggle').click(function(){

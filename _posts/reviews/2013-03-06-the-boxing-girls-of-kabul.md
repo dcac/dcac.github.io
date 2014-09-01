@@ -11,6 +11,7 @@ layout: review
 categories: 
  - reviews
  - netflix
+  - on-video
 title: "The Boxing Girls of Kabul"
 comments: true
 tags: [Afghanistan, Canadian, Canadian Screen Awards, documentary, Kabul, Letters]

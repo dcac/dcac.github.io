@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "Good Ol' Freda"
 comments: true
 tags: [documentary, fan club, Freda Kelly, Letters, music, The Beatles]

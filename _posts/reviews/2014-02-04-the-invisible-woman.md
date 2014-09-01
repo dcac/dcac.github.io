@@ -7,7 +7,9 @@ excerpt:
 position: Director and Actor 
 addressee: Ralph Fiennes
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "The Invisible Woman"
 comments: true
 tags: [Charles Dickens, drama, historical, Letters, Oscars 2014]

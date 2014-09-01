@@ -8,8 +8,10 @@ excerpt: "The Theory of Happiness opens on you guys. A whole herd of you cooling
 position: Background Artists
 addressee: Cattle
 layout: review
-categories: reviews
-title: "The Theory of Happiness"
+categories: 
+  - reviews
+  - current-releases
+title:  "The Theory of Happiness"
 date: 2014-05-04 23:39
 comments: true
 tags: [Festivals, Hot Docs, Hot Docs 2014, russia, ukraine]

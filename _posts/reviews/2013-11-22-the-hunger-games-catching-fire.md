@@ -8,7 +8,9 @@ excerpt: "In a world of authoritarian dictatorship, you need to keep a close eye
 position: Crowd Supervisor
 addressee: Dominic Drane
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "The Hunger Games: Catching Fire"
 comments: true
 tags: [Catching Fire, drama, dystopia, fantasy, Letters, teen, The Hunger Games]

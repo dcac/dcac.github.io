@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "Man of Tai Chi"
 comments: true
 tags: [China, debut, director, directorial, fight, fighting, first, hong kong, Keanu Reeves, kung-fu, Letters, martial arts, Tiger Chen]

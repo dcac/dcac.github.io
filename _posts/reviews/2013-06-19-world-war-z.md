@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "World War Z"
 comments: true
 tags: [action, Brad Pitt, horror, Letters, Marc Forster, zombies]

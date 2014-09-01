@@ -8,7 +8,9 @@ excerpt: "Liberace was, by all accounts, a fabulous man. <em>Fab-u-lous</em>. A 
 position: Best Boy
 addressee: Greg Fusak
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Behind the Candelabra"
 comments: true
 tags: [based on, bio, biography, Cannes, Dan Aakroyd, Festivals, HBO, inspired by, Liberace, Matt Damon, Michael Douglas, Rob Lowe, True based]

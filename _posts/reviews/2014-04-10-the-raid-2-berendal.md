@@ -8,7 +8,9 @@ excerpt: "So, they brought in the big guns. Not literally, of course. While guns
 position: Foley Artist
 addressee: Sean England
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "The Raid 2: Berendal"
 date: 2014-04-10 14:36
 comments: true

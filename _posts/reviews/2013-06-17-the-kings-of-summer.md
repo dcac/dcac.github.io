@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "The Kings of Summer"
 comments: true
 tags: [Letters, Nick Offerman, Nick Robinson, Sundance, The Kings of Summer]

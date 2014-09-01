@@ -8,7 +8,9 @@ excerpt: "You&rsquo;ve got to be careful what you say about a movie like <em>Gan
 position: Vocal Contractor
 addressee: Jasper Randall
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Gangster Squad"
 comments: true
 tags: [Anthony Mackie, Emma Stone, Gangster Squad, Giovanni Ribisi, Josh Brolin, Letters, Michael Pena, Nick Nolte, Robert Patrick, Ryan Gosling]

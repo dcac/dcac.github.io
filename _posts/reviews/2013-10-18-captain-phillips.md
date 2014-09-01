@@ -8,7 +8,9 @@ excerpt: "Anyone who has battled rush hour traffic knows how difficult the seemi
 position: Transportation Captain
 addressee: Chris Basso
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Captain Phillips"
 comments: true
 tags: [Oscars 2014, Uncategorized]

@@ -11,6 +11,7 @@ layout: review
 categories: 
   - reviews
   - netflix
+  - on-video
 title: "Don't You Forget About Me"
 comments: true
 tags: [Canadian, documentary, Letters, Letters to the Dead, netflix.ca]

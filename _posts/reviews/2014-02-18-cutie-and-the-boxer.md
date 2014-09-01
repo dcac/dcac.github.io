@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "Cutie and the Boxer"
 comments: true
 tags: [artist, biography, biopic, documentary, Letters, Oscars 2014]

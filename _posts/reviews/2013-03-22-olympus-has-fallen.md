@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "Olympus Has Fallen"
 comments: true
 tags: [Aaron Eckart, action, composer, Gerard Butler, Letters, president, white house]

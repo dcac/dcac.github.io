@@ -11,6 +11,7 @@ layout: review
 categories:
   - reviews
   - netflix
+  - on-video
 title: "Wanderlust"
 comments: true
 streaming: true

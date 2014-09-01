@@ -8,7 +8,9 @@ excerpt: "Don&rsquo;t you think there&rsquo;s something dangerous in the very pr
 position: Photo Double
 addressee: James Rawlings
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "This is the End"
 comments: true
 tags: [apocalypse, comedy, Craig Robinson, Danny McBride, James Franco, Jay Baruchel, Letters, Seth Rogan]

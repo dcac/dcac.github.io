@@ -8,7 +8,9 @@ excerpt: "Just like the psychedelic social stratification in the World of Oz, wi
 position: Second Second Assistant Director
 addressee: Michael Saunders
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Oz The Great and Powerful"
 comments: true
 tags: [fantasy, James Franco, Letters, Mila Kunis, sSam Raimi]

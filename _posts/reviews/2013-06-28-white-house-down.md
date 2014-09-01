@@ -6,7 +6,9 @@ author: christopherr
 stars: 2
 position: Senior Pyrotechnician
 addressee: David Loveday
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: White House Down
 comments: true
 tags: 

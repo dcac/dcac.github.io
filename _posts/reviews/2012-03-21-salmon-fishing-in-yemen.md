@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "Salmon Fishing in the Yemen"
 comments: true
 streaming: true

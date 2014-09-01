@@ -8,7 +8,9 @@ excerpt: "I&rsquo;m glad I wasn&rsquo;t supposed to know your character&rsquo;s 
 position: Ballroom Guest (uncredited)
 addressee: Denis Khoroshko
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Anna Karenina"
 comments: true
 tags: [adaptation, Anna Karenina, Epic, Joe Wright, Keira Knightly, Leo Tolstoy, Rassian, romance, Uncategorized]

@@ -8,8 +8,9 @@ excerpt: "You've certainly left behind one hell of a legacy, and the crowning ac
 position: Director of Special Effects
 addressee: Eiji Tsuburaya
 layout: review
-categories: 
+categories:
  - reviews
+  - on-video
  - series
 series-name: Godzilla Week
 title: "Godzilla Vs. Mothra"

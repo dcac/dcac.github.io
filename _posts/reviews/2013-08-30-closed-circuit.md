@@ -8,7 +8,9 @@ excerpt: "Here&rsquo;s what I remember from my high school physics class: when c
 position: Electrician
 addressee: Wailoon Chung
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Closed Circuit"
 comments: true
 tags: [CLosed Circuit, electrician, electricity, Eric Nana, Letters, Rebecca Hall, spy, thriller]

@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "Rock of Ages"
 comments: true
 tags: [Alec Baldwin, comedy, hair, hair metal, Letters, musical, Rock of Ages, Romantic Comedy, Tom Cruise]

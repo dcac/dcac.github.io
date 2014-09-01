@@ -8,7 +8,9 @@ excerpt: "It makes sense to me that a film like <em>Despicable Me 2</em> would n
 position: Marketing Consultant
 addressee: Katie Ballentine
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Despicable Me 2"
 comments: true
 tags: [Animation, comedy, Family, Kristen Wiig, Letters, Oscars 2014, Steve Carrell]

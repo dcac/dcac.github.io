@@ -4,7 +4,7 @@ imdb: tt1837709
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - on-video
 title: Winter's Tale
 tags: reviews
 image: "winters-tale.jpg"

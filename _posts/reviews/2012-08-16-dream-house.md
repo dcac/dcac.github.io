@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "Dream House"
 comments: true
 tags: [Daniel Craig, Dream House, Jim Sheridan, junk, Naomi Watts, negative, Rachel Weisz, Review, Uncategorized]

@@ -8,7 +8,9 @@ excerpt:
 position:  Digital Set Designer
 addressee: Kristen Anderson
 layout: review
-categories: [reviews,current-releases]
+categories: 
+  - reviews
+  - on-video
 title: "The LEGO Movie"
 comments: true
 tags: [Animation, Chris Pratt, comedy, Elizabeth Banks, LEGO, Letters, Morgan Freeman, Will Arnett]

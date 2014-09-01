@@ -8,7 +8,9 @@ excerpt:
 position: Screenwriter
 addressee: Daniel Waters
 layout: review
-categories: [reviews,current-releases]
+categories: 
+  - reviews
+  - on-video
 title: "Vampire Academy"
 comments: true
 tags: [horror, Letters, teen, Vampire Academy]

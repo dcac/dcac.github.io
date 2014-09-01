@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "Dark Shadows"
 comments: true
 tags: [comedy, horror, Jonny Depp, Letters, Tim Burton]

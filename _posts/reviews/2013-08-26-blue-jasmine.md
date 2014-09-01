@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "Blue Jasmine"
 comments: true
 tags: [Blue Jasmine, comedy, drama, Letters, Oscars 2014, Woody Allen]

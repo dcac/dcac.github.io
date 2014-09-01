@@ -8,7 +8,9 @@ excerpt: "Hollywood has a wonderful tradition of attracting the world's biggest 
 position: Screenplay Translator
 addressee: Jacob J. Yoo
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "The Last Stand"
 comments: true
 tags: [action, arnold schwarzenegger, comedy, Jee-woon Kim, Johnny Knoxville, Kim Jee-woon, Korean, Letters, Luis Guzman, Peter Stormare, Southy Korea, The Last Stand, transalation]

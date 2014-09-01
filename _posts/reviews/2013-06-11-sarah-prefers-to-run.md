@@ -8,7 +8,9 @@ excerpt: "I have a theory. It has to do with what makes a film worthy of playing
 position: Art Director
 addressee: Bruno-Pierre Houle
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Sarah Prefers to Run"
 comments: true
 tags: [Canadian film, Cannes, Chloe Robichaud, Letters, Quebec, queer]

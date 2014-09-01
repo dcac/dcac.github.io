@@ -8,7 +8,9 @@ excerpt: "I know you're no ordinary guy, regardless of what you claimed in your 
 position: Special Appearance Maker
 addressee: Robert Charlebois
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Gabrielle"
 comments: true
 tags: [Canadian, drama, Gabrielle, Letters, mentally challenged, Quebec, Robert Charlebois]

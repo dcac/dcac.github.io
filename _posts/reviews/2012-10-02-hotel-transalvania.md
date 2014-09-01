@@ -8,7 +8,9 @@ excerpt: "It's your job to keep the show from becoming one big mess. But things 
 position: Producer
 addressee: Michelle Murdocca
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Hotel Transylvania"
 comments: true
 tags: [Adam Sandler, bikini, boobs, Hotel Transavania, naked, nude, Selena Gomez, sexy, shower, Uncategorized]

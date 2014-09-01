@@ -11,6 +11,7 @@ layout: review
 categories: 
   - reviews
   - netflix
+  - on-video
 title: "A Royal Affair"
 comments: true
 tags: [A Royal Affair, Best, Danish, drama, foreign language, historic, Letters, Mad Mikkelson, Oscar, royalty]

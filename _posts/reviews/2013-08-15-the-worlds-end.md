@@ -8,7 +8,9 @@ excerpt: "Five middle-aged men walk into a pub&mdash;"
 position: Teenager #3
 addressee: Luke J. Scott
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "The World's End"
 comments: true
 tags: [apocalypose, beer, comedy, Edgar Wright, end of the world, Essays, Newton Haven, sci-fi, Simon Pegg, The World's End]

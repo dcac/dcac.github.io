@@ -8,7 +8,9 @@ excerpt: "They say cinematography is the art of painting with light. Until the l
 position: Lighting Console Operator
 addressee: Andy Mountain
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Under the Skin"
 date: 2014-06-11 13:34
 comments: true

@@ -9,7 +9,10 @@ position: Composer
 addressee: Akira Ifukube
 layout: review
 categories: 
+
  - reviews
+  - on-video
+
  - series
 series-name: Godzilla Week
 title: "Godzilla vs. King Kong"

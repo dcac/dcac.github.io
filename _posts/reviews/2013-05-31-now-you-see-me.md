@@ -8,7 +8,9 @@ excerpt: "When people marvel at movie magic, it&rsquo;s not usually card tricks 
 position: Head Magic Consultant
 addressee: David Kwong
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Now You See Me"
 comments: true
 tags: [and Dave Franco, Ilsa Fisher, Jesse Eisenberg, Letters, magic, Mark Ruffalo, Melanie Laurent, Michael Cain, Morgan Freeman, Now You See Me, revealed, secrets, Woody Harrelson]

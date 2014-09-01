@@ -8,7 +8,9 @@ excerpt: "The Sapphires_ very actively (and unsuccessfully) strives to find its 
 position: Archive Researcher
 addressee: Lisa Savage
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "The Sapphires"
 comments: true
 tags: [Australian, Chris Dowd, drama, historical, Letters, Motown, music]

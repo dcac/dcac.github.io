@@ -8,8 +8,10 @@ excerpt: "That was a dirty trick you pulled. About a half hour into Planes: Fire
 position: Music Clearance
 addressee: Amy Ross
 layout: review
-categories: reviews
-title: "Planes: Fires & Rescue"
+categories: 
+  - reviews
+  - current-releases
+title:  "Planes: Fires & Rescue"
 date: 2014-07-21 16:14
 comments: true
 tags: [adventure, child, children, Disney, Family, Letters, Pixar]

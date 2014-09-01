@@ -8,8 +8,10 @@ excerpt: "The opening shot of Bruce McDonald's The Husband is clear: Maxwell McC
 position: Cinematographer
 addressee: Daniel Grant
 layout: review
-categories: reviews
-title: "The Husband"
+categories: 
+  - reviews
+  - current-releases
+title:  "The Husband"
 date: 2014-05-01 17:18
 comments: true
 tags: [Canadian, drama, Letters]

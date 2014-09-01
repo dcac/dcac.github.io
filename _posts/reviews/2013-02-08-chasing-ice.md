@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "Chasing Ice"
 comments: true
 tags: [Before My Time, Best song, Extreme Ice Survey, J. Ralph, James Balog, lapse, Letters, Oscar, photography, Scarlett Johansson, time]

@@ -11,6 +11,7 @@ layout: review
 categories: 
 - reviews
 - netflix
+  - on-video
 title: "The Great Beauty"
 comments: true
 tags: [foreign language, italian, italy, Letters, Oscars 2014, rome, The great beauty]

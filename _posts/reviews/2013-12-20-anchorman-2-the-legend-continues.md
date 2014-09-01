@@ -8,7 +8,9 @@ excerpt:
 position: Stand-in
 addressee: Vincent Cox II
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Anchorman 2: The Legend Continues"
 comments: true
 tags: [comedy, Kristen Wiig, Letters, Paul Rudd, Steve Carrell, will ferrell]

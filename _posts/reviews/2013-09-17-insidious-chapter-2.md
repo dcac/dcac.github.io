@@ -8,7 +8,9 @@ excerpt: "With <em>Insidious</em>, you hit upon a creepy idea about the supernat
 position: Screenwriter
 addressee: Leigh Whannell
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Insidious Chapter 2"
 comments: true
 tags: [horror, Insidious Chapter 2, Leigh Whannell, Letters, Sequel]

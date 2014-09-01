@@ -11,6 +11,7 @@ layout: review
 categories: 
   - reviews
   - netflix
+  - on-video
 title: "Rise of the Guardians"
 comments: true
 tags: [8 year old, child, Letters, Review, Rise of the Guardians, Santa]

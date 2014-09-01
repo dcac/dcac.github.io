@@ -8,7 +8,9 @@ excerpt: "You didn&rsquo;t live long enough to see Sarah blossom from adorable c
 position: Documentary Subject
 addressee:  Diane Polley
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Stories We Tell"
 comments: true
 tags: [Canadian, Diane Polley, documentary, Family, Letters to the Dead, NFB, ONF, personal, Sarah POlley, Stories We Tell, Uncategorized]

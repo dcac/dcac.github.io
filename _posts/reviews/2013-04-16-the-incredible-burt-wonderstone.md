@@ -8,7 +8,9 @@ excerpt: "Comedy rarely feels more desperate than when it revolves around a bad 
 position: Wig Maker
 addressee: Victoria Wood
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "The Incredible Burt Wonderstone"
 comments: true
 tags: [comedy, illusions, Jim Carrey, las vegas, Letters, magic, magicians, spoof, Steve Buscemi, Steve Carrell, street]

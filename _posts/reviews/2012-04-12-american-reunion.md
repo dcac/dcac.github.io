@@ -11,6 +11,7 @@ layout: review
 categories:
   - reviews
   - netflix
+  - on-video
 title: "American Reunion"
 comments: true
 tags: [American, Basket Case, comedy, Green Day, Pie, Reunion, Sequel, Uncategorized]

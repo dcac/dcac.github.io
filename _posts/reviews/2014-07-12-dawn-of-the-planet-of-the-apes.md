@@ -8,8 +8,10 @@ excerpt: "You were the star of the film that started it all."
 position: Actor and Former President of the NRA
 addressee: Charlton Heston
 layout: review
-categories: reviews
-title: "Dawn of the Planet of the Apes"
+categories: 
+  - reviews
+  - current-releases
+title:  "Dawn of the Planet of the Apes"
 date: 2014-07-12 21:45
 comments: true
 tags: [action, adventure, apes, franchise, Letters, planet, sci-fi, Sequel]

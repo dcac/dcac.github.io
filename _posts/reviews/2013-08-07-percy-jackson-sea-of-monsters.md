@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "Percy Jackson: Sea of Monsters"
 comments: true
 tags: [action, adaptation, adventure, book, children, Family, fantasy, Letters, Percy Jackson, Sea of Monsters]

@@ -8,7 +8,9 @@ excerpt:
 position: Mix Technician
 addressee: Ceri Thomas
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "August: Osage County"
 comments: true
 tags: [adaptation, drama, Julia Roberts, Letters, Meryl Streep, Oscars 2014]

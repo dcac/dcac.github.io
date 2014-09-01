@@ -2,7 +2,9 @@
 published: true
 imdb: tt2177771
 layout: review
-categories: [reviews,current-releases]
+categories: 
+  - reviews
+  - on-video
 title: The Monuments Men
 tags: reviews
 image: "monuments-men.jpg"

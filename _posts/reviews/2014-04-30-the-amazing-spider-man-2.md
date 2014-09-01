@@ -8,8 +8,10 @@ excerpt: "Congratulations on creating something of a cohesive narrative out of t
 position: Editor 
 addressee: Pietro Scalia
 layout: review
-categories: reviews
-title: "The Amazing Spider-Man 2"
+categories: 
+  - reviews
+  - current-releases
+title:  "The Amazing Spider-Man 2"
 date: 2014-04-30 19:49
 comments: true
 tags: [action, comic book, Letters, Marvel, Sequel, spider-man]

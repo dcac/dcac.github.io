@@ -3,7 +3,7 @@ permalink: /content/:year/:i_month/:i_day/:title.html
 name: Dear Cast & Crew
 markdown: redcarpet
 highlighter: true
-baseurl: www.dearcastandcrew.com.s3-website-us-east-1.amazonaws.com
+#baseurl: www.dearcastandcrew.com.s3-website-us-east-1.amazonaws.com
 
 # gems: ['jekyll/itafroma/post_groups']
 
@@ -34,12 +34,15 @@ defaults:
     values:
       section: Content
       layout: review
+      grid-display: true
+      stars: false
   -
     scope:
       path: ""
       type: "post"
     values:
       comments: true
+
 
 sitemap:
     file: "/sitemap.xml"

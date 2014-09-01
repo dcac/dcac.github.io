@@ -8,7 +8,9 @@ excerpt: "Those are some mighty big balls you&rsquo;ve got.&nbsp; Like, cartooni
 position: Clearance Counsel
 addressee: Christopher L. Perez
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Escape from Tomorrow"
 comments: true
 tags: [black and white, company, countdown, court, Disney, Escape from Tomorrow, independent, lawsuit, Letters, movie, sue, sued, Walter Disney]

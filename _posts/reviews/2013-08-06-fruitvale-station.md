@@ -11,6 +11,7 @@ layout: review
 categories: 
 - reviews
 - netflix
+  - on-video
 title: "Fruitvale Station"
 comments: true
 tags: [awards, Cannes, dance, Fruitvale Station, inspired by, Letters, Martin, shooting, Sundance, trial, true story, Zimmerman]

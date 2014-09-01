@@ -8,8 +8,10 @@ excerpt: "It's rare to find a comedy that actually has something to say."
 position: Commentary Mixer
 addressee: Eric Milano
 layout: review
-categories: reviews
-title: "Obvious Child"
+categories: 
+  - reviews
+  - current-releases
+title:  "Obvious Child"
 date: 2014-07-04 12:38
 comments: true
 tags: [abortion, comedy, independent, indie, jenny slate, Letters, short film]

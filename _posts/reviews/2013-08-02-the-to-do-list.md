@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "The To-Do List"
 comments: true
 tags: [2 live crew, aubrey plaza, comedy, luther campbell, me so horny, sex, teen, to-do list, Uncategorized]

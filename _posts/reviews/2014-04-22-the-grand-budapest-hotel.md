@@ -8,7 +8,9 @@ excerpt: "No one builds precious little worlds quite like Wes Anderson. Well, <e
 position: Miniature Model Painter
 addressee: Katharina Hafermaas
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "The Grand Budapest Hotel"
 date: 2014-04-22 19:27
 comments: true

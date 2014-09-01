@@ -4,7 +4,7 @@ imdb: tt1210819
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - on-video
 title: The Lone Ranger
 tags: reviews
 image: "lone-ranger.jpg"

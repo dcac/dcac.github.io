@@ -8,7 +8,10 @@ excerpt: "It's not as embarrassing as you might think to have been fired a week 
 position: Fired Director
 addressee: Andrew Davis
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
+  - netflix
 title: "The Running Man"
 date: 2014-07-14 15:40
 comments: true

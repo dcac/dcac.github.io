@@ -146,7 +146,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/8/22/the-f-word.html" class="latest-review"><strong>Latest post: </strong><em>The F Word</em> - Dear Sam Morris, Daniel Radcliffe's Bodyguard</a></li>
+            <li><a href="/content/2014/9/1/if-i-stay.html" class="latest-review"><strong>Latest post: </strong><em>If I Stay</em> - Dear The Juilliard School, Performing Arts Conservatory</a></li>
             
           </ul>
         </section>
@@ -179,6 +179,46 @@
           </div>
         </div>
         <div class="row posts-grid" id="posts-grid">
+          
+          
+           <div class="section-post large-3 medium-3 small-6 columns">
+             <a href="/content/2012/8/22/the-expendables-2.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/the-expendables-2.jpg" alt="The Expendables 2" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2012/8/22/the-expendables-2.html">
+                  <div class="review-text">
+                    <h1>The Expendables 2</h1>
+                    <h2 class="addressee">Dear Brian Wentzel, <span class="mobile-line-break"><br /></span>Key Armourer</h2>
+                    <h2 class="author">By Cory Haggart</h2>
+                  </div>
+                </a>
+           </div>
+          
+          
+           <div class="section-post large-3 medium-3 small-6 columns">
+             <a href="/content/2012/8/21/synecdoche-new-york.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/synecdoche-new-york.jpg" alt="Synecdoche, New York" alt="Stamp" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2012/8/21/synecdoche-new-york.html">
+                  <div class="review-text">
+                    <h1>Synecdoche, New York</h1>
+                    <h2 class="addressee">Dear Karl Sison, <span class="mobile-line-break"><br /></span>Dirt Removal</h2>
+                    <h2 class="author">By Cory Haggart</h2>
+                  </div>
+                </a>
+           </div>
           
           
            <div class="section-post large-3 medium-3 small-6 columns">
@@ -400,7 +440,8 @@
                               <li>
             <a href="/contact/">Contact</a>
           </li>
-                  </ul>                </div>
+                  </ul>
+                </div>
               </div>
               <div class="large-4 medium-6 columns divider collapse" data-equalizer-watch>
                 <div class="footer-block">
@@ -440,7 +481,7 @@
             <div class="row">
               <div class="small-12 columns collapse">
                 <hr />
-                <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved.</p>
+                <p class="copyright">Copyright &copy; 2012-14 Dear Cast & Crew. All rights reserved. | <a href="/privacy/">Privacy Policy</a></p>
               </div>
             </div>
           </div>
@@ -516,14 +557,12 @@
         $form.find('input:radio, input:checkbox')
         .removeAttr('checked').removeAttr('selected');
       }
-      $("#search-form").submit(function(e) {
-          e.preventDefault();
-      });
+
       $(document).keyup(function(e){
         if(e.keyCode === 27) {
           $("#search-modal").css("display","none");
           $("body").css("overflow","auto");
-        resetForm($('#search'));
+          resetForm($('#search'));
         }
       });
       $('#nav-toggle').click(function(){

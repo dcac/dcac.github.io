@@ -8,8 +8,10 @@ excerpt: "From movie to movie and adventure to adventure, the villains, love int
 position: Producer
 addressee: Kevin Feige
 layout: review
-categories: reviews
-title: "Captain America: The Winter Soldier"
+categories: 
+  - reviews
+  - current-releases
+title:  "Captain America: The Winter Soldier"
 date: 2014-04-04 19:34
 comments: true
 tags: [action, Avengers, Captain America, Chris Evans, comics, Letters, Marvel, Robert Redford, Samuel L. Jackson, Scarlett Johansson]

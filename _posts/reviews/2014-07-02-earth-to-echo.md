@@ -8,8 +8,10 @@ excerpt: "When I was your age, there was nothing more annoying than an adult sta
 position: Actor
 addressee: Reese Hartwig
 layout: review
-categories: reviews
-title: "Earth to Echo"
+categories: 
+  - reviews
+  - current-releases
+title:  "Earth to Echo"
 date: 2014-07-02 17:39
 comments: true
 tags: [Family, Letters, Reese Hartwig, science fiction]

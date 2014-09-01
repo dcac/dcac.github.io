@@ -11,6 +11,7 @@ layout: review
 categories: 
   - reviews
   - netflix
+  - on-video
 title: "The Dictator"
 comments: true
 tags: [Ben Kingsley, comedy, Letters, netflix.ca, Sacha Baron Cohen, The Dictator]

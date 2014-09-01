@@ -8,7 +8,9 @@ excerpt: "Well, here we go. Back to Middle Earth. Again. The Hobbit: The Desolat
 position: Look Development
 addressee: Bryant Hardwick
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "The Hobbit: The Desolation of Smaug"
 comments: true
 tags: [fantasy, Letters, Lord of the Rings, Oscars 2014, Sequel, Smaug, The Hobbit]

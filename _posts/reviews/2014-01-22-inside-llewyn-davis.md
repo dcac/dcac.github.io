@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "Inside Llewyn Davis"
 comments: true
 tags: [60s, Animal, cat, Coen Brothers, Ethan Coeh, Joel Coen, Letters, music, Oscar Issac, Oscars 2014, pet, trainer]

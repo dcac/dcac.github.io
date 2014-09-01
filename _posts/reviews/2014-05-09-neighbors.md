@@ -8,8 +8,10 @@ excerpt: "Few people realize that Unit Production Managers are supposed to appea
 position: Unit Production Manager
 addressee: Brian Bell
 layout: review
-categories: reviews
-title: "Neighbors"
+categories: 
+  - reviews
+  - current-releases
+title:  "Neighbors"
 date: 2014-05-09 15:32
 comments: true
 tags: [abs, comedy, frat, fraternity, Letters, Neighbors, Seth Rogan, Zac Efron]

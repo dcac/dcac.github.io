@@ -10,7 +10,6 @@ addressee: Ray Besharah
 layout: review
 categories: 
   - reviews
-  - current-releases
   - series
 series-name: mockbusters
 title: "Thunderstorm: The Return of Thor"

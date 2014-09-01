@@ -8,7 +8,9 @@ excerpt: "Pierre Elliot Trudeau once famously proclaimed: &ldquo;There&rsquo;s n
 position: Financial Supporter
 addressee: Government of Canada
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "My Awkward Sexual Adventure"
 comments: true
 tags: [Canada, Canadian, comedy, Film, government of canada, Jonas Chernick, Letters, Sean Garrity, tax credits, telefilm]

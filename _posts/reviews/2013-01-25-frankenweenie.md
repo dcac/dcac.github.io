@@ -8,7 +8,9 @@ excerpt: "It would be funny even if it wasn&#8217;t true.* When the producers co
 position: Movie Dracula
 addressee: Christopher Lee
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Frankenweenie"
 comments: true
 tags: [Animation, Christopher Lee, Disney, horror, Letters, Tim Burton]

@@ -8,7 +8,9 @@ excerpt: "I&rsquo;m not sure how, but you handled it. Whatever crazy request Tar
 position: Boss Wrangler
 addressee: Rusty Hendrickson
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Django Unchained"
 comments: true
 tags: [Chistoph Waltz, Django Unchained, Jamie Foxx, Kerry Washington, Letters, Quentin Tarantino, Samuel L. Jackson]

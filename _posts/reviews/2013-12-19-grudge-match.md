@@ -8,7 +8,9 @@ excerpt: "I'm not embarrassed to admit I've never met a boxing movie that didn't
 position: Video Graphics Designer 
 addressee: Brigitte Fauchaux
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Grudge Match"
 comments: true
 tags: [Bechdel Test, boxing, comedy, drama, feminist, junk, Letters]

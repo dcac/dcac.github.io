@@ -8,7 +8,9 @@ excerpt: "Thank you for your sense of humour. Considering this movie frustrated 
 position: Composer
 addressee: Mads Heldtberg
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "You're Next"
 comments: true
 tags: [bloody, comedy, composer, dark, home invasion, horror, Letters, music, score, thriller]

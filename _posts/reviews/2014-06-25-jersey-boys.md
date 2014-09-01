@@ -8,8 +8,10 @@ excerpt: "Composing additional music for Jersey Boys sounds like a bit of a than
 position: Additional Music
 addressee: Kyle Eastwood
 layout: review
-categories: reviews
-title: "Jersey Boys"
+categories: 
+  - reviews
+  - current-releases
+title:  "Jersey Boys"
 date: 2014-06-25 03:49
 comments: true
 tags: [broadway, clint eastwood, drama, Letters, musical]

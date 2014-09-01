@@ -8,7 +8,9 @@ excerpt:
 position: Theme Song	
 addressee: '"We Used to Be Friends"'
 layout: review
-categories: [reviews,current-releases]
+categories: 
+  - reviews
+  - on-video
 title: "Veronica Mars"
 comments: true
 tags: [Kickstarter, Kristen Bell, Letters, TV, Veronica Mars]

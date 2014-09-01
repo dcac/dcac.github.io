@@ -8,7 +8,9 @@ excerpt:
 position: Key Prosthetic Makeup Artist
 addressee: Stephen Murphy
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Mandela: Long Walk to Freedom"
 comments: true
 tags: [biography, biopic, drama, Idris Elba, Letters, Mandela, Naomi Harris, Oscars 2014]

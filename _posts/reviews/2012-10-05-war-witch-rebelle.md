@@ -8,7 +8,9 @@ excerpt: "When outside forces start shooting a local population, they usually do
 position: Release Coordinator
 addressee: Lucie Bourgouin
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "War Witch (Rebelle)"
 comments: true
 tags: [Africa, Berlinale, Canada, Canadian, child soldier, Congo, Kim Nguyen, Oscar, Rachel Mwanza, Rebelle, Uncategorized, war, War Witch]

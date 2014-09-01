@@ -8,8 +8,10 @@ excerpt: "This is not hyperbole. You represent everything that's wrong with Holl
 position: Consumer Product and Franchise Development
 addressee: Robert Apple
 layout: review
-categories: reviews
-title: "How to Train Your Dragon 2"
+categories: 
+  - reviews
+  - current-releases
+title:  "How to Train Your Dragon 2"
 date: 2014-06-13 19:48
 comments: true
 tags: [Animation, comedy, Family, Letters]

@@ -8,7 +8,9 @@ excerpt: "This &ldquo;genny&rdquo; you were operating &ndash; it was a generator
 position: Genny Operator
 addressee: Richard Pryce
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Still Mine"
 comments: true
 tags: [Canadian, Canadian Screen Awards, drama, genevieve bujold, james cromwell, Letters, michael mcGowan]

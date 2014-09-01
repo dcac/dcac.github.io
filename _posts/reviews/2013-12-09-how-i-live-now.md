@@ -8,7 +8,9 @@ excerpt: "What's that old expression, \"Home is where the heart is\"? I'm more i
 position: Accommodations Coordinator
 addressee: Nadia Luthera
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "How I Live Now"
 comments: true
 tags: [adaptation, coming of age, drama, Letters, U.K., world war 3, world war three, WW3, WWIII, YA, young aduklt]

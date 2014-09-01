@@ -1,6 +1,6 @@
 ---
 published: true
-imdb: tt0097958
+imdb: tt0103961
 image: christmas-in-connecticut.jpg
 author: christopherr
 stars: 1

@@ -1,4 +1,4 @@
-<div class="large-6 medium-6 columns home-feature">  
+<div class="large-6 medium-6 columns small-7 home-feature">  
                 <a href="{{ post.url }}">
                   <div class="post-image">
                     <img src="/img/article/thumb-300/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}" alt="{{ page.title }} Image" />
@@ -6,9 +6,9 @@
                   </div>
                 </a>
               </div>
-              <div class="large-6 medium-6 columns home-feature">
+              <div class="large-6 medium-6 small-5 columns home-feature">
                 <a href="{{ post.url }}">
-                  <div class="review-text">
+                  <div class="feature-text-home">
                     <h1>{{ post.title }}</h1>
                     <h2 class="author">By {{ author.name }}{{ post._ga }}</h2>
                     <p>{{ post.excerpt }}</p>

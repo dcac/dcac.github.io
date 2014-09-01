@@ -11,6 +11,7 @@ layout: review
 categories: 
   - reviews
   - netflix
+  - on-video
 title: "A Hijacking"
 comments: true
 tags: [a hijacking, acting, action, Actor, danish cinema, Review, soren malling, suspense, thriller, Uncategorized]

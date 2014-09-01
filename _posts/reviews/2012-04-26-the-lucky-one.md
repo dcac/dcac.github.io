@@ -11,6 +11,7 @@ layout: review
 categories:
   - reviews
   - netflix
+  - on-video
 title: "The Lucky One"
 comments: true
 tags: [James Dever, Louisiana, marines, Nicholas Sparks, romance, Scott Hicks, The Lucky One, Uncategorized, Zac Efron]

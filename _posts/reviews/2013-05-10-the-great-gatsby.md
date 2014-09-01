@@ -8,7 +8,9 @@ excerpt: "Sup Z. Sorry, I mean Mr. Carter. Ugh, that doesn&rsquo;t feel right. Y
 position: Executive Producer
 addressee: Shawn "Jay-Z" Carter
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "The Great Gatsby"
 comments: true
 tags: [adaptation, Baz Lurhmann, Beyonc, Beyonce, Carey Mulligan, hip hop, Jay-Z, Leonardo DiCaprio, Letters, Oscars 2014, The Great Gatsby, Tobey Maguire]

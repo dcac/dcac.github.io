@@ -8,7 +8,9 @@ excerpt: "Re: Form-7DA Generic Deduction(s) Request"
 position: Production Accountant
 addressee: Mary Sunshine
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "We're the Millers"
 comments: true
 tags: [comedy, jason sudeikis, jennifer aniston, Letters, We're the Millers]

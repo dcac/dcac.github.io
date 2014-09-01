@@ -8,7 +8,9 @@ excerpt: "What would you wear to the apocalypse? You've certainly thought about 
 position: Wardrobe Supervisor
 addressee: Kristen Saints
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "It's a Disaster"
 date: 2014-06-16 15:33
 comments: true

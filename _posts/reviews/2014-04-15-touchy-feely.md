@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "Touchy Feely"
 date: 2014-04-15 16:01
 comments: true

@@ -8,7 +8,9 @@ excerpt: "There's a lot of buzz online about Afflicted, the little Canadian horr
 position: New Media Consultant
 addressee: Sue Biely
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Afflicted"
 date: 2014-06-12 15:55
 comments: true

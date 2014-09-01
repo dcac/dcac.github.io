@@ -12,9 +12,9 @@ exclude_from_search: true
       <div class="row posts-grid" id="posts-grid">
         {% for post in paginator.posts %}
           {% assign author = site.data.authors[post.author] %}
-         <div class="section-post large-4 medium-4 small-6 columns left{% if forloop.last %} end{% endif %}">
+        {% if post.stars %}<div class="section-post large-4 medium-4 small-6 columns left{% if forloop.last %} end{% endif %}">
           {% include post-grid/post.html %}
-        </div>
+        </div>{% endif %}
         {% endfor %}
       </div>
       <div class="pagination-centered">
@@ -38,7 +38,7 @@ exclude_from_search: true
             {% endif %}
           {% endfor %}
           {% if paginator.next_page %}
-            <li><a  href="/{{ page.category }}/{{ paginator.next_page_path }}"><span class="right-arrow-on"></span></a></li>
+            <li><a  href="/{{ page.category }}{{ paginator.next_page_path }}"><span class="right-arrow-on"></span></a></li>
           {% else %}
             <li><span class="right-arrow-off"></span></li>
           {% endif %}

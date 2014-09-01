@@ -5,7 +5,12 @@
   z-index: 2;
   min-height: 100%;
   position: relative;
+}
+#row-height{
+  @media @mobile{
+    padding-bottom: @45px;
   }
+}
 .margin-fix{
  // margin-top: -45px;
 }
@@ -305,26 +310,36 @@ div.review-text-home{
     margin-left: 20px;
   }
 }
-div.review-text-home h1{
+div.home-feature{
+  @media @mobile{
+    margin-left: -@10px;
+    margin-bottom: 0;
+  }
+}
+div.review-text-home h1, div.feature-text-home h1{
   .review-grid-head;
   @media @mobile{
     margin-bottom: 10px;
   }
 }
-div.review-text-home h2.author{
+div.review-text-home h2.author, div.feature-text-home h2.author{
   .review-grid-byline(@text-small,@serif);
   font-style: italic;
 }
-div.review-text-home h2.star-rating{
+div.review-text-home h2.star-rating, div.review-text-home h2.star-rating{
   .review-grid-byline(@text-small);
   font-weight: 750;
 }
-div.review-text-home h2.addressee{
+div.review-text-home h2.addressee, div.review-text-home h2.addressee{
   .review-grid-byline(@text-small);
   font-weight:bold;
 }
 hr.grid-divider{
   .divider-rule(relative,@15px,@10px);
+  @media @mobile{
+    height: @1px;
+    margin-top: @25px;
+  }
 }
 /*
 .post-list{
@@ -334,7 +349,7 @@ hr.grid-divider{
 .home-feature{
   margin-bottom: @25px;
 }
-div.review-text p,div.review-text h2.star-rating {
+div.feature-text-home p,div.review-text h2.star-rating {
   .review-grid-excerpt;
   @media @mobile{
     display:none;

@@ -8,8 +8,11 @@ excerpt: "We get nearly an hour into Godzilla, Mothra and King Ghidorah: Giant M
 position: Suit Builder
 addressee: Takuya Yamabe
 layout: review
-categories: 
+categories:
+
  - reviews
+  - on-video
+
  - series
 series-name: Godzilla Week
 title: "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack"

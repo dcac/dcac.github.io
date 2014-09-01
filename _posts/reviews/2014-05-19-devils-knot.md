@@ -8,7 +8,9 @@ excerpt: "The trial against the West Memphis Three is considered to be one of th
 position: Legal Services
 addressee: Greg Bernstein
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Devil's Knot"
 date: 2014-05-19 18:04
 comments: true

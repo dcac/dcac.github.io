@@ -8,7 +8,9 @@ excerpt: "It doesn&rsquo;t take long for you and your stunt team to make an impr
 position: Stunt Coordinator
 addressee: Brian Smyj
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "The Place Beyond the Pines"
 comments: true
 tags: [Bradley Cooper, crime, drama, Eva Mendes, Ryan Gosling, Uncategorized]

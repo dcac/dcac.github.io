@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "We Steal Secrets: The Story of WikiLeaks"
 comments: true
 tags: [Alex Gibney, documentary, Julian assange, Letters, We steal Sectrets, wikileaks]

@@ -8,7 +8,9 @@ excerpt: "Admit it. You walked on set every day yelling â€œHere Comes the Boomâ€
 position: Boom Operator
 addressee: Joel Reidy 
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Here Comes the Boom"
 comments: true
 tags: [Bas Rutten, Boom operator, fat, fighter, Henry Winkle, Here Comes the Boom, Kevin James, MMA, Salma Hayek, UFC, Uncategorized]

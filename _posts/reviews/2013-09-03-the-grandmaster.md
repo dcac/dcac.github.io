@@ -8,7 +8,9 @@ excerpt: "\"(Sammo Hung) is the best action director ever in Hong Kong cinema.\"
 position: Action Choreographer
 addressee: Yuen Woo-ping
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "The Grandmaster"
 comments: true
 tags: [action, drama, foreign language, Letters, Oscars 2014, tony leung, wong kar wai, ziyi zhang]

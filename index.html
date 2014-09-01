@@ -7,7 +7,7 @@ exclude_from_search: true
 ---
       
       {% include top-nav.html %}
-      {% for post in site.posts limit:1 %}
+      {% for post in site.categories['reviews'] or site.categories['features'] limit:1 %}
       <style>
       .title-img-fade {
       background-image: -webkit-linear-gradient(left, 
@@ -65,7 +65,7 @@ exclude_from_search: true
                         Mailed on {{ post.date | date: "%B %d, %Y" }}
                       </h2>
                     </div>
-                    <div class="home-status-container">
+                    {% if post.stars %}<div class="home-status-container">
                       <div class="home-status-title show-for-small-only">
                         <img src="/img/global/stamp.svg" class="standard review-stamp" alt="Stamp" />
                     {% if post.stars < 1.5 %}Junk<br />Mail{% elsif post.stars >= 1.5 and post.stars < 2.5 %}Return to<br />Sender{% elsif post.stars >= 2.5 and post.stars < 3.5 %}Standard<br />Delivery{% elsif post.stars >= 3.5 and post.stars < 4.5  %}Air<br />Mail{% elsif post.stars >= 4.5 %}Priority<br />Post{% endif %}<br />
@@ -73,7 +73,7 @@ exclude_from_search: true
                       <div class="large-star-rating-home">
                         {% for i in (1..post.stars) %}<img class="star-large" src="/img/global/star-blue.svg" alt="" />{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<img class="star-large" src="/img/global/star-blue-half.svg" alt="" />{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img class="star-large" src="/img/global/star-white.svg" alt="" />{% endfor %}{% endif %}
                       </div>
-                    </div>
+                    </div>{% endif %}
                   </div>
                 </div>
               </div>
@@ -110,7 +110,7 @@ exclude_from_search: true
               {% include post-grid/post-feature.html %}
             </div>
             <div class="row">
-              <div class="large-12 medium-12 columns">
+              <div class="large-12 medium-12 columns hide-for-small-only">
                 <hr class="grid-divider" />
               </div>
             </div>

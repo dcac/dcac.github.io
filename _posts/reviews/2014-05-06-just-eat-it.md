@@ -8,8 +8,10 @@ excerpt: "As your camera pans dramatically over a patchwork of rural fields, I w
 position: Aerial Cinematography
 addressee: Thomas Miller
 layout: review
-categories: reviews
-title: "Just Eat It"
+categories: 
+  - reviews
+  - current-releases
+title:  "Just Eat It"
 date: 2014-05-06 15:11
 comments: true
 tags: [Canadian, documentary, Festivals, Hot Docs, Hot Docs 2014]

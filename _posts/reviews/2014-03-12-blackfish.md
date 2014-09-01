@@ -11,6 +11,7 @@ layout: review
 categories: 
   - reviews
   - netflix
+  - on-video
 title: "Blackfish"
 comments: true
 tags: [blackfish, documentary, Letters, netflix]

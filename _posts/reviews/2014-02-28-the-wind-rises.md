@@ -10,7 +10,7 @@ addressee: Takeshi Seyama
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - on-video
 title: "The Wind Rises"
 comments: true
 tags: [Letters, Oscars 2014, Studio Ghibli, The Wind Rises]

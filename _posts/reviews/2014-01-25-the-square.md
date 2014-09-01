@@ -11,6 +11,7 @@ layout: review
 categories: 
   - reviews
   - netflix
+  - on-video
 title: "The Square"
 comments: true
 tags: [documentary, Egypt, Letters, netflix, Oscars 2014, protest, The Square]

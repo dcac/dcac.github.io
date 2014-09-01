@@ -8,8 +8,10 @@ excerpt: "Let's get this out of the way: I was not a Garden State fan. When I fi
 position: Writer / Director / Actor / Producer
 addressee: Zach Braff
 layout: review
-categories: reviews
-title: "Wish I Was Here"
+categories: 
+  - reviews
+  - current-releases
+title:  "Wish I Was Here"
 date: 2014-07-23 14:37
 comments: true
 tags: [comedy, crowd, drama, funding, Kickstarter, Letters, zach braff]

@@ -8,7 +8,9 @@ excerpt: "Tell me the truth, Bryant. It's all a joke, isn't it? An expensive, el
 position: Stand-in for Zach Galifianakis
 addressee: Bryant Powell
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "The Hangover Part 3"
 comments: true
 tags: [Bradley Cooper, comedy, Ed Helms, heather graham, Letters, zack galifianakis]

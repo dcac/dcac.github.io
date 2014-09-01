@@ -11,6 +11,7 @@ layout: review
 categories: 
 - reviews
 - netflix
+  - on-video
 title: "Runner Runner"
 comments: true
 tags: [Ben Affleck, Costa Rica, crocodile, Gambling, Justin Timberlake, Letters, online, Runner Runner]

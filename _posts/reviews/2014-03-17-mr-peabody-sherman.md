@@ -9,7 +9,7 @@ addressee: Wayback Machine
 layout: review
 categories: 
   - reviews
-  - "current-releases"
+  - on-video
 title: "Mr. Peabody & Sherman"
 comments: true
 tags: 

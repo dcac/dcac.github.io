@@ -8,7 +8,9 @@ excerpt: "You&rsquo;re a co-director. A producer. A cinematographer. A make-up a
 position: Crew Member
 addressee: Anonymous
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "The Act of Killing"
 comments: true
 tags: [Best, documentary, Film, indonesia, Letters, Oscars 2014, The Act of Killing]

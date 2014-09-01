@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "The Campaign"
 comments: true
 tags: [comedy, poiltics, the campaign, Uncategorized, will ferrell, zack galifianakis]

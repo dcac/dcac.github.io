@@ -4,7 +4,7 @@ imdb: tt2172934
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - on-video
 title: 3 Days to Kill
 tags: reviews
 image: "3-days-to-kill.jpg"

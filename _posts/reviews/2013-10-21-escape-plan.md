@@ -8,7 +8,9 @@ excerpt: "The efficacy of the escape plan at the heart of <em>Escape Plan</em> h
 position: "Assistant Property Master, Second Unit"
 addressee: lixandra Petrovich
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Escape Plan"
 comments: true
 tags: [action, arnold schwarzenegger, crime, Letters, prison, sylvester stallone]

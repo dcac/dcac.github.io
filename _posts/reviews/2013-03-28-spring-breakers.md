@@ -11,6 +11,7 @@ layout: review
 categories: 
  - reviews
  - netflix
+  - on-video
 title: "Spring Breakers"
 comments: true
 tags: [bikini, harmony korine, Letters, Selena Gomez, Spring Break, vanessa hudgens]

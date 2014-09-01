@@ -8,7 +8,9 @@ excerpt: "You have something of a reputation for your Oscar campaigns. Whether i
 position: Executive Producer
 addressee: Harvey Weinstein
 layout: review
-categories: reviews
+categories: 
+  - reviews
+  - on-video
 title: "Lee Daniels' The Butler"
 comments: true
 tags: [Forest Whitaker, Harvey Weinstein, Lee Daniels, Letters, Oprah, Oscar, The Butler]

@@ -8,8 +8,10 @@ excerpt: "With your iconic lakes, forests, and sunsets, you've long been an insp
 position: Location
 addressee: Algonquin Provincial Park
 layout: review
-categories: reviews
-title: "Algonquin"
+categories: 
+  - reviews
+  - current-releases
+title:  "Algonquin"
 date: 2014-05-01 14:01
 comments: true
 tags: [Canadian, drama, Letters]

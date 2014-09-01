@@ -11,6 +11,7 @@ layout: review
 categories:
 - reviews
 - netflix
+  - on-video
 title: "The Book Thief"
 comments: true
 tags: [adaptation, book, Letters, nazis, novel, Oscars 2014, The book thief, world war 2, wwII]
