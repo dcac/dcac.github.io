@@ -23,64 +23,61 @@ Here are some of the best tweets we received during our #DearAcademy live-tweeti
 
 ![][2]
 
-   [2]: http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7d75/1361814975727/DearAcademy%20Oscar%20Mayfair%20live%20tweet%201.png
+   [2]: /img/features/inline/dear-acadamy-1.png
 
 ![][3]
 
-   [3]: http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7d76/1361815015025/DearAcademy%20Oscar%20Mayfair%20live%20tweet%202.png
+   [3]:  /img/features/inline/dear-acadamy-2.png
 
 ![][4]
 
-   [4]: http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7d77/1361815031057/DearAcademy%20Oscar%20Mayfair%20live%20tweet%203.png
+   [4]:  /img/features/inline/dear-acadamy-3.png
 
 ![][5]
 
-   [5]: http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7d78/1361815051337/DearAcademy%20Oscar%20Mayfair%20live%20tweet%204.png
+   [5]:  /img/features/inline/dear-acadamy-4.png
 
 ![][6]
 
-   [6]: http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7d79/1361815065127/DearAcademy%20Oscar%20Mayfair%20live%20tweet%205.png
+   [6]:  /img/features/inline/dear-acadamy-5.png
 
 ![][7]
 
-   [7]: http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7d7a/1361815077813/DearAcademy%20Oscar%20Mayfair%20live%20tweet%206.png
+   [7]:  /img/features/inline/dear-acadamy-6.png
 
 ![][8]
 
-   [8]: http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7d7b/1361815095527/DearAcademy%20Oscar%20Mayfair%20live%20tweet%207.png
+   [8]:  /img/features/inline/dear-acadamy-7.png
 
 ![][9]
 
-   [9]: http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7d7c/1361815107024/DearAcademy%20Oscar%20Mayfair%20live%20tweet%208.png
+   [9]:  /img/features/inline/dear-acadamy-8.png
 
 ![][10]
 
-   [10]: http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7d7d/1361815123023/DearAcademy%20Oscar%20Mayfair%20live%20tweet%209.png
+   [10]:  /img/features/inline/dear-acadamy-8.png
 
 ![][11]
 
-   [11]: http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7d7e/1361815158347/DearAcademy%20Oscar%20Mayfair%20live%20tweet%2010.png
+   [11]:  /img/features/inline/dear-acadamy-9.png
 
 ![][12]
 
-   [12]: http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7d7f/1361815172003/DearAcademy%20Oscar%20Mayfair%20live%20tweet%2011.png
+   [12]:  /img/features/inline/dear-acadamy-10.png
 
 ![][13]
 
-   [13]: http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7d80/1361815192153/DearAcademy%20Oscar%20Mayfair%20live%20tweet%2012.png
+   [13]:  /img/features/inline/dear-acadamy-11.png
 
 ![][14]
 
-   [14]: http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7d81/1361815207153/DearAcademy%20Oscar%20Mayfair%20live%20tweet%2013.png
+   [14]:  /img/features/inline/dear-acadamy-12.png
 
 ![][15]
 
-   [15]: http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7d82/1361815239967/DearAcademy%20Oscar%20Mayfair%20live%20tweet%2015.png
+   [15]:  /img/features/inline/dear-acadamy-13.png
 
-![][16]
-
-   [16]: http://static.squarespace.com/static/5005f6bcc4aa41161b33e89e/5329cf1fe4b07c068ebf74de/5329cf20e4b07c068ebf7d83/1361815255083/DearAcademy%20Oscar%20Mayfair%20live%20tweet%2016.png
 
 For more thoughts on the 2013 Oscars, listen to Dear Cast and Crew's Christopher Redmond review the show on Live.88.5 radio in Ottawa, ON.
-
-[youtube http://www.youtube.com/watch?v=AcX4n5PMEH8&w=420&h=315]
+	
+<iframe width="420" height="315" src="//www.youtube.com/embed/AcX4n5PMEH8" frameborder="0" allowfullscreen></iframe>
