@@ -3,7 +3,7 @@ permalink: /content/:year/:i_month/:i_day/:title.html
 name: Dear Cast & Crew
 markdown: redcarpet
 highlighter: true
-baseurl: www.dearcastandcrew.com
+#baseurl: www.dearcastandcrew.com
 
 #RSS info
 name: Dear Cast & Crew
