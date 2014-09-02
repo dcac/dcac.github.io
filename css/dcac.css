@@ -1106,6 +1106,11 @@ li.social a:hover {
   -o-transition-property: top, right, bottom, left, border;
   transition-property: top, right, bottom, left, border;
 }
+@media only screen and (max-width: 640px) {
+  #footer {
+    min-height: 21.875rem;
+  }
+}
 .footer {
   position: relative;
   margin: 0 auto;

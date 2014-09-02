@@ -284,7 +284,10 @@ ul.left{
   -moz-transition-property: top, right, bottom, left, border;
   -ms-transition-property: top, right, bottom, left, border;
   -o-transition-property: top, right, bottom, left, border;
-  transition-property: top, right, bottom, left, border; 
+  transition-property: top, right, bottom, left, border;
+  @media @mobile{
+    min-height: @1px*350;
+  }
 }
 .footer{
   position:relative;
