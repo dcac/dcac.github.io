@@ -15,7 +15,7 @@ title: "Top 10 Uncredited Heroes of Jurassic Park"
 comments: true
 tags: [Essays, Film, Jurassic Park, list, re-release, Top 10, uncredited]
 ---
-Hard to believe 20 years have passed since you all helped bring Steven Spielberg's _Jurassic Park _to life. This action/sci-fi/horror/drama phenomenon was a landmark in blockbuster cinema and continues to be just as thrilling today in 3D as it was during the original release. So how disappointing it must have been to not have your work acknowledged in the film's final credits. Again.
+Hard to believe 20 years have passed since you all helped bring Steven Spielberg's _Jurassic Park_ to life. This action/sci-fi/horror/drama phenomenon was a landmark in blockbuster cinema and continues to be just as thrilling today in 3D as it was during the original release. So how disappointing it must have been to not have your work acknowledged in the film's final credits. Again.
 
 Luckily, as the film tells us, life finds a way. In this case, via the Internet.  So hold onto your butts, we're about to break you out of obscurity. Natural selection, be damned! 
 
