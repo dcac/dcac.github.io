@@ -4,6 +4,7 @@ title: Particle Fever
 imdb: tt1385956
 addressee: Alan Friedman
 position: Science Outreach Consultant
+image: particle-fever.jpg
 stars: 4
 layout: review 
 categories: 

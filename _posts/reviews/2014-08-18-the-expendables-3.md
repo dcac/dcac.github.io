@@ -4,6 +4,7 @@ title: The Expendables 3
 imdb: tt2333784
 addressee: Nicolas Cage
 position: (Declined)
+image: the-expendables-3.jpg
 stars: 2
 layout: review 
 categories: 

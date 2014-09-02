@@ -629,7 +629,9 @@
         $form.find('input:radio, input:checkbox')
         .removeAttr('checked').removeAttr('selected');
       }
-
+      $("#search-form").submit(function(e) {
+          e.preventDefault();
+      });
       $(document).keyup(function(e){
         if(e.keyCode === 27) {
           $("#search-modal").css("display","none");

@@ -8,7 +8,7 @@ excerpt:
 series-name: Ghosts of Ghostbusters
 addressee: Harold Ramis
 position: Writer and Actor
-date: 2014-08-30 03:11
+date: 2014-08-29 11:11
 author: jaredy
 image: ghostbusters-pt-10.jpg
 comments: true

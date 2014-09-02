@@ -4,6 +4,7 @@ title: Time Lapse
 imdb: tt2669336
 addressee: Sarah Craig
 position: Line Producer
+image: time-lapse.jpg
 stars: 3.5
 layout: review 
 categories: 

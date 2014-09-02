@@ -3,6 +3,7 @@ title: "The Purge: Anarchy"
 addressee: Jacques Jouffret
 imdb: tt2975578
 position: Cinematographer
+image: the-purge-anarchy.jpg
 stars: 2
 layout: review 
 categories: 

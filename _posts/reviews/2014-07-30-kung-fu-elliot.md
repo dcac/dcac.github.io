@@ -4,6 +4,7 @@ title: Kung Fu Elliot
 imdb: tt3228302
 addressee: Matthew Bauckman and Jaret Belliveau
 position: Directors
+image: kung-fu-elliot.jpg
 stars: 2
 layout: review 
 categories: 

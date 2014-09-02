@@ -197,7 +197,7 @@
               <li>
                 <div class="comment-count">
                   <div class="comment-count-container">
-                    <a class="comment-count-link" href="http://localhost:4000/content/2014/8/30/ghosts-of-ghostbusters-harold-ramis.html#disqus_thread"></a>
+                    <a class="comment-count-link" href="http://localhost:4000/content/2014/8/29/ghosts-of-ghostbusters-harold-ramis.html#disqus_thread"></a>
                   </div>
                   <div class="comment-count-arrow">
                     <?xml version="1.0" encoding="utf-8"?>
@@ -211,10 +211,10 @@
                 </div>
               </li>
               <li>
-                <a class="share-icon" target="_blank" href="http://twitter.com/home?status=Dear%20Harold Ramis%2C%20Writer and Actor%20for%20GHOSTS OF GHOSTBUSTERS: HAROLD RAMIS%20http%3A///content/2014/8/30/ghosts-of-ghostbusters-harold-ramis.html"><i class="fa fa-twitter"></i></a>
+                <a class="share-icon" target="_blank" href="http://twitter.com/home?status=Dear%20Harold Ramis%2C%20Writer and Actor%20for%20GHOSTS OF GHOSTBUSTERS: HAROLD RAMIS%20http%3A///content/2014/8/29/ghosts-of-ghostbusters-harold-ramis.html"><i class="fa fa-twitter"></i></a>
               </li>
               <li>
-                <a class="share-icon" target="_blank" href="http://www.facebook.com/sharer.php?u=http%3A///content/2014/8/30/ghosts-of-ghostbusters-harold-ramis.html"><i class="fa fa-facebook"></i></a>
+                <a class="share-icon" target="_blank" href="http://www.facebook.com/sharer.php?u=http%3A///content/2014/8/29/ghosts-of-ghostbusters-harold-ramis.html"><i class="fa fa-facebook"></i></a>
               </li>
             </ul>
       </section>
@@ -230,7 +230,7 @@
                     By <a href="/writers/jaredy">Jared Young</a>
                   </h2>
                   <h2 class="hero-date">
-                    Mailed on August 30, 2014
+                    Mailed on August 29, 2014
                   </h2>
                 
                 </div>
@@ -377,7 +377,7 @@
       (function() {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
       dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-      var disqus_identifier = '/content/2014/8/30/ghosts-of-ghostbusters-harold-ramis.html';
+      var disqus_identifier = '/content/2014/8/29/ghosts-of-ghostbusters-harold-ramis.html';
       var disqus_title = 'Ghosts of Ghostbusters: Harold Ramis';
       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
       })();
@@ -394,7 +394,7 @@
       </div>
       <div class="post large-4 medium-4 columns" style="display:none;">
         
-        <a href="/content/2014/8/30/ghosts-of-ghostbusters-harold-ramis.html">
+        <a href="/content/2014/8/29/ghosts-of-ghostbusters-harold-ramis.html">
                   <div class="post-image">
                     <img src="/img/article/thumb-300/ghostbusters-pt-10.jpg" alt="Ghosts of Ghostbusters: Harold Ramis Image" />
                     <div class="corner-stamp"></div>
@@ -402,7 +402,7 @@
                   </div>
                 </a>
                 
-                <a href="/content/2014/8/30/ghosts-of-ghostbusters-harold-ramis.html">
+                <a href="/content/2014/8/29/ghosts-of-ghostbusters-harold-ramis.html">
                   <div class="review-text">
                     <h1>Ghosts of Ghostbusters: Harold Ramis</h1>
                     <h2 class="addressee">Dear Harold Ramis, Writer and Actor</h2>
@@ -604,7 +604,9 @@
         $form.find('input:radio, input:checkbox')
         .removeAttr('checked').removeAttr('selected');
       }
-
+      $("#search-form").submit(function(e) {
+          e.preventDefault();
+      });
       $(document).keyup(function(e){
         if(e.keyCode === 27) {
           $("#search-modal").css("display","none");

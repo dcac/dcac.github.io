@@ -346,7 +346,9 @@ Nobody knows exactly what a Route Officer does, but stay the fuck out of her way
         $form.find('input:radio, input:checkbox')
         .removeAttr('checked').removeAttr('selected');
       }
-
+      $("#search-form").submit(function(e) {
+          e.preventDefault();
+      });
       $(document).keyup(function(e){
         if(e.keyCode === 27) {
           $("#search-modal").css("display","none");

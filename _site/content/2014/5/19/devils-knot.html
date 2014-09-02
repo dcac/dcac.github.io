@@ -338,18 +338,18 @@
           
             
               <div class="large-4 medium-4 columns hide-for-small-only">
-                <a href="/content/2014/8/30/ghosts-of-ghostbusters-harold-ramis.html">
+                <a href="/content/2014/8/29/ghosts-of-ghostbusters-elmer-bernstein.html">
                   <div class="post-image">
-                    <img src="/img/article/thumb-300/ghostbusters-pt-10.jpg" alt="Ghosts of Ghostbusters: Harold Ramis" alt="Stamp" />
+                    <img src="/img/article/thumb-300/ghostbusters-pt-9.jpg" alt="Ghosts of Ghostbusters: Elmer Bernstein" alt="Stamp" />
                     <div class="corner-stamp"></div>
                     
                   </div>
                 </a>
                 
-                <a href="/content/2014/8/30/ghosts-of-ghostbusters-harold-ramis.html">
+                <a href="/content/2014/8/29/ghosts-of-ghostbusters-elmer-bernstein.html">
                   <div class="review-text">
-                    <h1>Ghosts of Ghostbusters: Harold Ramis</h1>
-                    <h2 class="addressee">Dear Harold Ramis, <span class="mobile-line-break"><br /></span>Writer and Actor</h2>
+                    <h1>Ghosts of Ghostbusters: Elmer Bernstein</h1>
+                    <h2 class="addressee">Dear Elmer Bernstein, <span class="mobile-line-break"><br /></span>Composer</h2>
                     <h2 class="author">By Jared Young</h2>
                   </div>
                 </a>
@@ -595,7 +595,9 @@
         $form.find('input:radio, input:checkbox')
         .removeAttr('checked').removeAttr('selected');
       }
-
+      $("#search-form").submit(function(e) {
+          e.preventDefault();
+      });
       $(document).keyup(function(e){
         if(e.keyCode === 27) {
           $("#search-modal").css("display","none");

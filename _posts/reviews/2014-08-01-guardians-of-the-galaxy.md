@@ -4,6 +4,7 @@ title: Guardians of the Galaxy
 imdb: tt2015381
 addressee: Stan Lee
 position: Cameo Appearance Maker
+image: guardians-of-the-galaxy.jpg
 stars: 3
 layout: review 
 categories: 
