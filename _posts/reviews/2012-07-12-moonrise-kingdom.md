@@ -10,6 +10,8 @@ addressee: Lee Wimer
 layout: review
 categories:
   - reviews
+  - netflix
+  - on-video
 title: "Moonrise Kingdom"
 comments: true
 tags: [Bill Murry, Cannes, Color, Colour, Correction, Kingdom, Moonrise, Timing, Uncategorized, Wed Anderson]

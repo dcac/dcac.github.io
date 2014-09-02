@@ -10,6 +10,7 @@ addressee: Steve Stafford
 layout: review
 categories:
   - reviews
+  - netflix
 title: "Seeking a Friend for the End of the World"
 comments: true
 tags: [comedy, Disaster, Keira Knightly, Romantic, Steve Carrell, Uncategorized]

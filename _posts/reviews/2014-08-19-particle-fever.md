@@ -9,6 +9,7 @@ stars: 4
 layout: review 
 categories: 
   - reviews
+  - netflix
 date: 2014-08-19 19:46
 author: christopherr
 comments: true

@@ -9,7 +9,9 @@ position: Set Security
 addressee: Jason Devil
 layout: review
 categories:
+  - netflix
   - reviews
+  - on-video
 title: "The Dark Knight Rises"
 comments: true
 tags: [Bane, Batman, Christopher Nolan, DKR, Review, secrets, security, set, TDKR, The Dark Knight Rises]

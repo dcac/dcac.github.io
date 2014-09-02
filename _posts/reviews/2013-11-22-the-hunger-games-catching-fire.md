@@ -11,6 +11,7 @@ layout: review
 categories: 
   - reviews
   - on-video
+  - netflix
 title: "The Hunger Games: Catching Fire"
 comments: true
 tags: [Catching Fire, drama, dystopia, fantasy, Letters, teen, The Hunger Games]

@@ -10,6 +10,7 @@ addressee: Geoffrey Milcat
 layout: review
 categories: 
   - reviews
+  - netflix
   - on-video
 title: "Trouble With The Curve"
 comments: true

@@ -10,6 +10,7 @@ addressee: Joe Roth
 layout: review
 categories:
   - reviews
+  - netflix
 title: "Snow White and the Huntsman"
 comments: true
 tags: [Hunstman, Joe Roth, k-stew, kristen stewart, Letters, Lord of the Rings, LOTR, Snow, SWATH, White]
