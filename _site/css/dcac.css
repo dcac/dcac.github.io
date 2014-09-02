@@ -1701,6 +1701,11 @@ p::selection {
     padding-top: 0.625rem;
   }
 }
+@media only screen and (max-width: 1000px) {
+  #body-text p {
+    padding-right: 1.5625rem;
+  }
+}
 @media only screen and (max-width: 640px) {
   #review-copy {
     margin-top: 0;
@@ -2355,6 +2360,7 @@ ul.share-links {
   right: 0.625rem;
   z-index: 4;
   margin: 0;
+  background-color: rgba(255, 255, 255, 0.75);
 }
 ul.share-links li {
   line-height: 0.75rem;

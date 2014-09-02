@@ -103,6 +103,11 @@ p::selection{
     padding-top: @1px*10;
   }
 }
+#body-text p{
+  @media @large{
+    padding-right:@25px;
+  }
+}
 #review-copy{ 
   @media @mobile{
     margin-top: 0;
@@ -677,6 +682,7 @@ p.article-share i{
   right:@10px;
   z-index: 4;
   margin: 0;
+  background-color: rgba(255,255,255,.75);
 }
 ul.share-links li{
   line-height: @1px*12;

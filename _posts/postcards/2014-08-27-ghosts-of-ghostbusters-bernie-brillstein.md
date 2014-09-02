@@ -16,7 +16,7 @@ tags: [dead, Ghostbusters, Ghostbusters Week]
 ---
 I knew who you were even before _Ghostbusters_. Which, considering I was eleven years-old at the time, either says a lot about your reputation, or says a lot about what an odd kid I was.
 
-I'd seen your name on the credits of _Hee-Haw, The Muppet Show_,_ _and _Saturday Night Live_. I read that you became John Belushi's manager by accident when he refused to sign his SNL contract minutes before the first show went to air. He would commit only if _you_, Lorne Michaels' manager, represented him. You agreed, and Belushi became your first star client.
+I'd seen your name on the credits of _Hee-Haw, The Muppet Show_, and _Saturday Night Live_. I read that you became John Belushi's manager by accident when he refused to sign his SNL contract minutes before the first show went to air. He would commit only if _you_, Lorne Michaels' manager, represented him. You agreed, and Belushi became your first star client.
 
 You broke a lot of ground in the late-70s and early-80s. You convinced Atlantic Records to pony up a hundred-and-twenty-five grand to produce an album by the as-yet-unknown Blues Brothers_._ You were one of the first to profit from packaging TV shows, hiring your own writers to create projects, then filling them with your own stars, and executive producing the programs yourself. After selling them to networks, this scheme guaranteed you a producing credit and points on the back end. Until you gamed the system, an exec producer was largely a figurehead. But, by packaging talent, you held all the cards. It's a tactic that has since become the industry standard, and one you carried on into the 1990s with shows like _The Sopranos, Politically Incorrect_, and _The Larry Sanders Show._ 
 
@@ -29,5 +29,5 @@ Your dollar investment paid off. But more than that, it made you the original ga
 {% contentfor signature %}
 **Well played, sir.**
 
-Casey
+Di
 {% endcontentfor %}

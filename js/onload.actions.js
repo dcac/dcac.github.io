@@ -85,6 +85,89 @@ function winResized() {
       });
     }
   }
+  //Stick the imdb sidebar to the top when reached
+
+  var rowheight = $("#review-copy");
+  var filmRow = $("#film-row");
+  //var side = $("#side-column");
+  var reviewSidebar = $("#review-sidebar");
+  
+  if (reviewSidebar.height() > rowheight.height()){
+    rowheight.css({
+      height: reviewSidebar.height()
+    });
+    var fixSidebar = false;
+  }
+  else{
+    var fixSidebar = true;
+  }
+  filmRow.css({
+    height: rowheight.height()
+  });
+  $(window).resize(function(){
+  reviewSidebar.css({
+    width: filmRow.width()
+    });
+  });
+
+
+  //If the viewport minus the top bar is taller than the sidebar, fix it in place
+  
+  if ($("#film-info").height() < ($.waypoints('viewportHeight')-65) && (fixSidebar)) {
+    $('#review-copy').waypoint(function(direction) {
+    //alert(sidebar.width());
+     if (direction === 'down') {
+        reviewSidebar.css({
+          top: "65px",
+          width: reviewSidebar.width(),
+          height: $.waypoints('viewportHeight')-65
+          
+        });
+        if ($(window).width() <= 640){
+            reviewSidebar.css({'position':'relative'});
+          }
+          else{
+            reviewSidebar.css({'position':'fixed'});
+          }
+       //alert("size="+scrollDifferential)
+      }
+      else if (direction === 'up') {
+        reviewSidebar.css({
+          position:"absolute",
+          top: "0",
+          bottom: "auto",
+          width: reviewSidebar.width()
+        });
+      }
+    },{
+      offset: 65 // Apply "stuck" when element 65px from top
+    });
+    $("#review-copy").waypoint(function(direction){
+      if (direction === 'down') {
+        reviewSidebar.css({
+          position:"absolute",
+          bottom: "0",
+          top: "auto",
+          width: reviewSidebar.width()
+        });
+      }
+      else
+      if (direction === 'up') {
+        reviewSidebar.css({
+          top: "65px"
+        });
+        if ($(window).width() <= 640){
+           reviewSidebar.css({'position':'relative'});
+        }
+        else{
+          reviewSidebar.css({'position':'fixed'});
+        }
+      }
+    },{
+      offset: $.waypoints('viewportHeight')-rowheight.height()-65
+    });
+  }
+
 }
 
 $(window).bind('resize',function() {
@@ -95,122 +178,42 @@ $(document).ready(function(){
 });
   
 
-//Stick the imdb sidebar to the top when reached
 
-var rowheight = $("#review-copy");
-var filmRow = $("#film-row");
-//var side = $("#side-column");
-var reviewSidebar = $("#review-sidebar");
-if (reviewSidebar.height() > rowheight.height()){
-  rowheight.css({
-    height: reviewSidebar.height()
-  });
-  var fixSidebar = false;
-}
-else{
-  var fixSidebar = true;
-}
-filmRow.css({
-  height: rowheight.height()
-});
-$(window).resize(function(){
-reviewSidebar.css({
-  width: filmRow.width()
-  });
-});
-
-
-//If the viewport minus the top bar is taller than the sidebar, fix it in place
-
-if ($("#film-info").height() < ($.waypoints('viewportHeight')-65) && (fixSidebar)) {
+//share-icons -fix them when necessary too
+var share = $('#share-links');
   $('#review-copy').waypoint(function(direction) {
-  //alert(sidebar.width());
-   if (direction === 'down') {
-      reviewSidebar.css({
-        top: "65px",
-        width: reviewSidebar.width(),
-        height: $.waypoints('viewportHeight')-65
-        
+    if (direction === 'down') {
+      share.css({
+        position:"fixed",
+        top: "85px"
       });
-      if ($(window).width() <= 640){
-          reviewSidebar.css({'position':'relative'});
-        }
-        else{
-          reviewSidebar.css({'position':'fixed'});
-        }
      //alert("size="+scrollDifferential)
     }
     else if (direction === 'up') {
-      reviewSidebar.css({
+      share.css({
         position:"absolute",
-        top: "0",
-        bottom: "auto",
-        width: reviewSidebar.width()
+        top:  "702px",
+        bottom: "auto"
       });
     }
   },{
-    offset: 65 // Apply "stuck" when element 65px from top
+    offset: 75 // Apply "stuck" when element 75px from top
   });
-  $("#review-copy").waypoint(function(direction){
-    if (direction === 'down') {
-      reviewSidebar.css({
-        position:"absolute",
-        bottom: "0",
-        top: "auto",
-        width: reviewSidebar.width()
-      });
-    }
-    else
-    if (direction === 'up') {
-      reviewSidebar.css({
-        top: "65px"
-      });
-      if ($(window).width() <= 640){
-         reviewSidebar.css({'position':'relative'});
-      }
-      else{
-        reviewSidebar.css({'position':'fixed'});
-      }
-    }
-  },{
-    offset: $.waypoints('viewportHeight')-rowheight.height()-65
-  });
-  //share-icons -fix them when necessary too
-  var share = $('#share-links');
-    $('#review-copy').waypoint(function(direction) {
-      if (direction === 'down') {
-        share.css({
-          position:"fixed",
-          top: "85px"
-        });
-       //alert("size="+scrollDifferential)
-      }
-      else if (direction === 'up') {
-        share.css({
-          position:"absolute",
-          top:  "702px",
-          bottom: "auto"
-        });
-      }
-    },{
-      offset: 75 // Apply "stuck" when element 75px from top
+  $("#up-next").waypoint(function(direction){
+  if (direction === 'down') {
+    share.css({
+      position:"absolute",
+      top: 702+$('#review-copy').height()-share.height() + "px",
+      bottom: "auto",
     });
-    $("#up-next").waypoint(function(direction){
-    if (direction === 'down') {
-      share.css({
-        position:"absolute",
-        top: 702+$('#review-copy').height()-share.height() + "px",
-        bottom: "auto",
-      });
-    }
-    else
-    if (direction === 'up') {
-      share.css({
-        top: "85px"
-      });
-        share.css({'position':'fixed'});
-    }
-  },{
-     offset: 240
-  });
-}
+  }
+  else
+  if (direction === 'up') {
+    share.css({
+      top: "85px"
+    });
+      share.css({'position':'fixed'});
+  }
+},{
+   offset: 240
+});
