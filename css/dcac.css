@@ -2402,6 +2402,7 @@ ul.share-links li a {
 }
 .comment-count-arrow {
   width: 0.4375rem;
+  height: 1.25rem;
   position: absolute;
   right: 25%;
   top: 0.8125rem;
