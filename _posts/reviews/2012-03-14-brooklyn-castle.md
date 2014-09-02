@@ -9,9 +9,9 @@ position: Producer and Editor
 addressee: Nelson Dellamaggiore
 layout: review
 categories:
-- reviews
-- series
-- netflix
+  - reviews
+  - series
+  - netflix
   - on-video
 title: "Brooklyn Castle"
 series-name: SXSW 2012

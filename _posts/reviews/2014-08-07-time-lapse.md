@@ -8,7 +8,7 @@ image: time-lapse.jpg
 stars: 3.5
 layout: review 
 categories: 
-- reviews
+  - reviews
 date: 2014-08-07 15:17
 author: coryh
 comments: true

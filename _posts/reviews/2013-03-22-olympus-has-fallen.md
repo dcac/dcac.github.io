@@ -9,8 +9,8 @@ position: Composer
 addressee: Trevor Morris
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "Olympus Has Fallen"
 comments: true

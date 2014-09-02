@@ -9,8 +9,8 @@ position: Completion Guarantor
 addressee: Ali Moshref
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "The Counselor"
 comments: true

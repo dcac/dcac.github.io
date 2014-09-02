@@ -9,8 +9,8 @@ position: Character Modeler
 addressee: Tanja Kramfert
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "The Pirates! Band of Misfits"
 comments: true

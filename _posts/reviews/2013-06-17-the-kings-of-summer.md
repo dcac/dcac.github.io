@@ -9,8 +9,8 @@ position: Production Designer
 addressee: Tyler B. Robinson
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "The Kings of Summer"
 comments: true

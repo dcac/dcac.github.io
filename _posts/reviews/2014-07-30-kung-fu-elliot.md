@@ -8,7 +8,7 @@ image: kung-fu-elliot.jpg
 stars: 2
 layout: review 
 categories: 
-- reviews
+  - reviews
 date: 2014-07-30 14:19
 author: caseyt
 comments: true

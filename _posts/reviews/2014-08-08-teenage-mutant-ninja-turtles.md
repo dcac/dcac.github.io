@@ -8,7 +8,7 @@ image: teenage-mutant-ninja-turtles.jpg
 stars: 2.5
 layout: review 
 categories: 
-- reviews
+  - reviews
 date: 2014-08-08 16:31
 author: christopherr
 comments: true

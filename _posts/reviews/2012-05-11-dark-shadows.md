@@ -9,8 +9,8 @@ position: Weather Consultant
 addressee: Richard Wild
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "Dark Shadows"
 comments: true

@@ -9,8 +9,8 @@ position: Production Designer
 addressee: Claude Par&eacute
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "Percy Jackson: Sea of Monsters"
 comments: true

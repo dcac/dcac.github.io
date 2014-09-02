@@ -9,8 +9,8 @@ position: Boom Operator
 addressee: Valeria Ghiran
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "The Artist"
 comments: true

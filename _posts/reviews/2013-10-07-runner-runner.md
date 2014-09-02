@@ -9,8 +9,8 @@ position: Performer
 addressee: Crocodile
 layout: review
 categories: 
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "Runner Runner"
 comments: true

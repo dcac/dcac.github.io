@@ -9,8 +9,8 @@ position: Steadicam Operator
 addressee: Alessandro Brambilla 
 layout: review
 categories: 
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "The Great Beauty"
 comments: true

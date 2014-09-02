@@ -8,7 +8,7 @@ position: Production Designer
 stars: 4
 layout: review 
 categories: 
-- reviews
+  - reviews
 date: 2014-08-17 16:13
 author: natm
 comments: true

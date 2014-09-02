@@ -9,8 +9,8 @@ position: Errors and Omissions Counsel
 addressee: Robert Stein
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "We Steal Secrets: The Story of WikiLeaks"
 comments: true

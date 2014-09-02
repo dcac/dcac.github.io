@@ -9,8 +9,8 @@ position: Composer
 addressee: James Horner
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "The Amazing Spider-Man"
 comments: true

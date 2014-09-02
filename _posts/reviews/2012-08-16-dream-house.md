@@ -9,8 +9,8 @@ position: Payroll Accountant
 addressee: Debra Gibson
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "Dream House"
 comments: true

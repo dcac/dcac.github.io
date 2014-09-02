@@ -9,8 +9,8 @@ position: Special Makeup Effects Artist
 addressee: Mayera Abeita
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
 title: "Contracted"
 date: 2014-05-27 20:47
 comments: true

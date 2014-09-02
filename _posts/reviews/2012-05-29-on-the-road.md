@@ -9,8 +9,8 @@ position: Dance Consultant
 addressee: Talia Evtushenko
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "Cannes 2012: On The Road"
 comments: true

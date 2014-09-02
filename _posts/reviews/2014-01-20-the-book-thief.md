@@ -9,8 +9,8 @@ position: Snow Effects Supervisor
 addressee: Lucien Stephenson
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "The Book Thief"
 comments: true

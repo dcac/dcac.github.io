@@ -8,7 +8,7 @@ image: the-expendables-3.jpg
 stars: 2
 layout: review 
 categories: 
-- reviews
+  - reviews
 date: 2014-08-18 15:45
 author: jaredy
 comments: true

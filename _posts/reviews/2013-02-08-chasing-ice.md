@@ -9,8 +9,8 @@ position: Time-Lapse Photographer
 addressee: Austin Post
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "Chasing Ice"
 comments: true

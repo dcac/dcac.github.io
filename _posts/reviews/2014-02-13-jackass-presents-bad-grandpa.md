@@ -9,8 +9,8 @@ position: Special Makeup Designer
 addressee: Tony Gardner
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "Jackass Presents Bad Grandpa"
 comments: true

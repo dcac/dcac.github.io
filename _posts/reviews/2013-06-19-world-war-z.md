@@ -9,8 +9,8 @@ position: Director
 addressee: Marc Foster
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "World War Z"
 comments: true

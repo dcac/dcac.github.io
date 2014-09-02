@@ -9,8 +9,8 @@ position: Blonde Fan
 addressee: Emma Jacobs
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "Hitchcock"
 comments: true

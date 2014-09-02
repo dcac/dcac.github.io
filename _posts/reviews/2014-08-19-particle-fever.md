@@ -8,7 +8,7 @@ image: particle-fever.jpg
 stars: 4
 layout: review 
 categories: 
-- reviews
+  - reviews
 date: 2014-08-19 19:46
 author: christopherr
 comments: true

@@ -9,8 +9,8 @@ position: Co-Screenwriter
 addressee: Heather Hach
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "What to Expect When You're Expecting"
 comments: true

@@ -9,8 +9,8 @@ position: Artist
 addressee: Noriko Shinohara
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "Cutie and the Boxer"
 comments: true

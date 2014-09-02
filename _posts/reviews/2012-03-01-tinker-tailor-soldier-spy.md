@@ -8,8 +8,8 @@ excerpt: "Peter, you should have known better."
 position: Screenwriter
 addressee: Dear Peter Straughan
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "Tinker Tailor Soldier Spy"
 comments: true

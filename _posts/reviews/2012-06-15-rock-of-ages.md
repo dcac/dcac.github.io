@@ -9,8 +9,8 @@ position: Hair Stylist
 addressee: Sean Flanigan
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "Rock of Ages"
 comments: true

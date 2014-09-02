@@ -9,8 +9,8 @@ position: Biking Lifestyle Consultant
 addressee: Kelsey Wood
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "Touchy Feely"
 date: 2014-04-15 16:01

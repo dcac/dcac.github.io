@@ -9,8 +9,8 @@ position: Script Supervisor
 addressee: Ronit Ravich-Boss
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "That's My Boy"
 comments: true

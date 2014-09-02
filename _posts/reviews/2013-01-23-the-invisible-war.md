@@ -9,8 +9,8 @@ position: Distribution Advisor
 addressee: Jonathan Dana
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "The Invisible War"
 comments: true

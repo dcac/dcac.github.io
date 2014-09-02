@@ -2,8 +2,8 @@
 published: true
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: Dirty Wars
 tags: reviews

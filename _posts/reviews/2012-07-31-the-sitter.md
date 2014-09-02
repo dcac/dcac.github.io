@@ -9,8 +9,8 @@ position: Costume Ager/Dyer
 addressee: David Paulin
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "The Sitter"
 comments: true

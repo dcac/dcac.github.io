@@ -9,8 +9,8 @@ position: Environment Artist
 addressee: Andy Potter
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "Total Recall"
 comments: true

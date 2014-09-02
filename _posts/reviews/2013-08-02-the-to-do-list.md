@@ -9,8 +9,8 @@ position: Lead Singer of 2 Live Crew
 addressee: Luther Campbell
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "The To-Do List"
 comments: true

@@ -8,7 +8,7 @@ image: guardians-of-the-galaxy.jpg
 stars: 3
 layout: review 
 categories: 
-- reviews
+  - reviews
 date: 2014-08-01 14:53
 author: christopherr
 comments: true

@@ -9,8 +9,8 @@ position: Production Designers
 addressee: Zaza and Zyk
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "Ernest and Celestine"
 comments: true

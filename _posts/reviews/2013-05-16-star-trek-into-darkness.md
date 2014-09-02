@@ -9,8 +9,8 @@ position: Lighting Artist
 addressee: Fritz Beck
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "Star Trek Into Darkness"
 comments: true

@@ -9,8 +9,8 @@ position: First Assistant Director
 addressee: Monya Galbi
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "Blue is the Warmest Colour"
 comments: true

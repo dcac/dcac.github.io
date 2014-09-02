@@ -9,8 +9,8 @@ position: Actress
 addressee: Sally Hawkins
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "Blue Jasmine"
 comments: true

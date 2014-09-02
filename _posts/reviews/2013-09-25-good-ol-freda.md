@@ -9,8 +9,8 @@ position: "Editor and Co-Producer"
 addressee: Helen Kearns
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "Good Ol' Freda"
 comments: true

@@ -7,7 +7,7 @@ image: the-purge-anarchy.jpg
 stars: 2
 layout: review 
 categories: 
-- reviews
+  - reviews
 date: 2014-08-04 17:02
 author: kelany
 comments: true

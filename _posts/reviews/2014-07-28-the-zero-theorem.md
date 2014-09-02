@@ -8,7 +8,7 @@ image: the-zero-theorem.jpg
 stars: 3
 layout: review 
 categories: 
-- reviews
+  - reviews
 date: 2014-07-28 19:50
 author: dig
 comments: true

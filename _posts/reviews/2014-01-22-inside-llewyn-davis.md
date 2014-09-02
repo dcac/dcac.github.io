@@ -9,8 +9,8 @@ position: Head Animal Trainer,
 addressee: Dawn Barkan
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "Inside Llewyn Davis"
 comments: true

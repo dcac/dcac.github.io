@@ -9,8 +9,8 @@ position: Casting Director
 addressee: Nina Henninger
 layout: review
 categories: 
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "Fruitvale Station"
 comments: true

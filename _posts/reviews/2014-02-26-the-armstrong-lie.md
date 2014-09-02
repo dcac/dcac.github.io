@@ -9,8 +9,8 @@ position: Smoke Artist
 addressee: Benjamin Murray
 layout: review
 categories: 
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "The Armstrong Lie"
 comments: true

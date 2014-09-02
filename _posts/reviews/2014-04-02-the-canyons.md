@@ -9,8 +9,8 @@ position: Editor (Almost)
 addressee: Steven Soderbergh
 layout: review
 categories: 
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "The Canyons"
 date: 2014-04-02 19:08

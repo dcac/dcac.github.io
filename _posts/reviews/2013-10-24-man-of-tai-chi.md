@@ -9,8 +9,8 @@ position: Fighter Casting
 addressee: Mike Leeder
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "Man of Tai Chi"
 comments: true

@@ -9,8 +9,8 @@ position: Photo Double/Stand-in for Dan Aykroyd
 addressee: Steven Clawson
 layout: review
 categories:
-- reviews
-- netflix
+  - reviews
+  - netflix
   - on-video
 title: "The Campaign"
 comments: true
