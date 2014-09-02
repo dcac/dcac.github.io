@@ -152,3 +152,6 @@ The voyeuristic implications say more about the audience than they do about the 
 With highest regards,
 
 Di
+
+{% contentfor signature %}
+{% endcontentfor %}

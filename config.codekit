@@ -366,6 +366,39 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/_site\/bower_components\/foundation\/js\/foundation\/foundation.slider.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/foundation.slider.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/min\/foundation.slider-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/bower_components\/foundation\/js\/foundation\/foundation.tab.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/foundation.tab.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/min\/foundation.tab-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/bower_components\/foundation\/js\/foundation\/foundation.tooltip.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/foundation.tooltip.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/min\/foundation.tooltip-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/_site\/bower_components\/foundation\/js\/foundation\/foundation.topbar.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -12100,17 +12133,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/img\/article\/main\/top-tweets-from-2013-oscars.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 217092,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/top-tweets-from-2013-oscars.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/top-tweets-from-2013-oscars.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_site\/img\/article\/main\/total-recall.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -23118,28 +23140,6 @@
 		"initialSize": 3421,
 		"inputAbbreviatedPath": "\/_site\/img\/netflix_small.png",
 		"outputAbbreviatedPath": "\/_site\/img\/netflix_small.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/new-logo-75.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 6848,
-		"inputAbbreviatedPath": "\/_site\/img\/new-logo-75.png",
-		"outputAbbreviatedPath": "\/_site\/img\/new-logo-75.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/new-logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3190,
-		"inputAbbreviatedPath": "\/_site\/img\/new-logo.png",
-		"outputAbbreviatedPath": "\/_site\/img\/new-logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -36763,13 +36763,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/article\/main\/top-tweets-from-2013-oscars.jpg": {
+	"\/img\/article\/main\/top-tweets-from-the-2013-oscars.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 217092,
-		"inputAbbreviatedPath": "\/img\/article\/main\/top-tweets-from-2013-oscars.jpg",
-		"outputAbbreviatedPath": "\/img\/article\/main\/top-tweets-from-2013-oscars.jpg",
+		"inputAbbreviatedPath": "\/img\/article\/main\/top-tweets-from-the-2013-oscars.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/top-tweets-from-the-2013-oscars.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -47785,28 +47785,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/new-logo-75.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 6848,
-		"inputAbbreviatedPath": "\/img\/new-logo-75.png",
-		"outputAbbreviatedPath": "\/img\/new-logo-75.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/new-logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2491,
-		"inputAbbreviatedPath": "\/img\/new-logo.png",
-		"outputAbbreviatedPath": "\/img\/new-logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/search\/search-icon.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -47880,6 +47858,17 @@
 		"initialSize": 12048,
 		"inputAbbreviatedPath": "\/img\/writers\/coryh.jpg",
 		"outputAbbreviatedPath": "\/img\/writers\/coryh.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/writers\/dcac-sig.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1281,
+		"inputAbbreviatedPath": "\/img\/writers\/dcac-sig.png",
+		"outputAbbreviatedPath": "\/img\/writers\/dcac-sig.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
