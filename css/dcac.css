@@ -1706,6 +1706,9 @@ p::selection {
     padding-right: 1.5625rem;
   }
 }
+#body-text img {
+  margin-top: 2.8125rem;
+}
 @media only screen and (max-width: 640px) {
   #review-copy {
     margin-top: 0;
