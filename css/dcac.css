@@ -2231,6 +2231,7 @@ ol {
 #review-copy .signature img.signature-img {
   float: left;
   display: block;
+  margin-top: 0;
 }
 /*
 
