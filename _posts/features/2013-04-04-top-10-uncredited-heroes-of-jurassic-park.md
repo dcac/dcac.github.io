@@ -80,9 +80,9 @@ Screaming kids is hardly anyone's idea of fun. But there's a wonderful balance i
 [8]: /img/features/inline/jurassic-park-7.jpg
 
 **_7. Dear Ron Mendell, Lead Model Maker_** (uncredited),  
-This is one of the most obvious examples of just how old _Jurassic Park_ is: models were still being made with lead, of all things. Maybe it was for the best that _Jurassic Park_ paved the way towards computer graphics, since the health risks of working with lead are not worth even the most amazing-- 
+This is one of the most obvious examples of just how old _Jurassic Park_ is: models were still being made with lead, of all things. Maybe it was for the best that _Jurassic Park_ paved the way towards computer graphics, since the health risks of working with lead are not worth even the most amazing— 
 
-Oh, wait--_Lead _Model Maker? You were the main model maker on the movie? Well, uh, good job then, because everything looked fantastic. Real or digital.
+Oh, wait—*Lead* Model Maker? You were the main model maker on the movie? Well, uh, good job then, because everything looked fantastic. Real or digital.
 
  ***
  
@@ -99,7 +99,7 @@ What a time to be interning. You start a project expecting to learn cutting edge
 ![][11]
 
 **9. Dear Brian Smrz, Driver of Grant, Sattler & Malcolm's Jeep** (uncredited),  
-I don't know if you had the easier job, or the harder one. You're the driver of the jeep that takes Sam Elliott, Laura Dern, and Jeff Goldbloom to their first glimpse of _Jurassic Park's_ amazing creatures. On one hand, you didn't have to do much reacting to the yet-unfinished effects on location, with the been-there-done-that expression you employ as the other three pretended to stare in wonder. On the other hand, you missed what might have been your only chance to make the [Spielberg Face][12].
+I don't know if you had the easier job, or the harder one. You're the driver of the jeep that takes Sam Elliott, Laura Dern, and Jeff Goldbloom to their first glimpse of *Jurassic Park*'s amazing creatures. On one hand, you didn't have to do much reacting to the yet-unfinished effects on location, with the been-there-done-that expression you employ as the other three pretended to stare in wonder. On the other hand, you missed what might have been your only chance to make the [Spielberg Face][12].
 
    [11]: /img/features/inline/jurassic-park-9.jpg
 
@@ -107,9 +107,10 @@ I don't know if you had the easier job, or the harder one. You're the driver of 
 ![][13]
 
 **10. Dear John Alvin, Poster Artist** (uncredited),  
-I'm glad that IMDB exists so you can get your due credit, because dude, that poster is iconic. And beyond that, it's almost a character itself in the movie, that logo appearing on all manner of ready-to-sell merchandise lining the park's gift shop. It actually marks a turning point in Spielberg's career. Coming off the disastrous _Hook_-a critical and commercial low point - this was an early example of Spielberg bringing some self-awareness to his films, taking a shot at the tie-in friendly filmmaking for which he was known, reflecting on the idea of art (or, in the film's case, creation) as commerce. It's no coincidence that 1993 began Spielberg's second act as a more confident, self-assured artist.
+I'm glad that IMDB exists so you can get your due credit, because dude, that poster is iconic. And beyond that, it's almost a character itself in the movie, that logo appearing on all manner of ready-to-sell merchandise lining the park's gift shop. It actually marks a turning point in Spielberg's career. Coming off the disastrous *Hook*—a critical and commercial low point—this was an early example of Spielberg bringing some self-awareness to his films, taking a shot at the tie-in friendly filmmaking for which he was known, reflecting on the idea of art (or, in the film's case, creation) as commerce. It's no coincidence that 1993 began Spielberg's second act as a more confident, self-assured artist.
 
-   [13]: /img/features/inline/jurassic-park-10.jpg
+[12]: http://www.ugo.com/movies/the-spielberg-face-a-legacy   
+[13]: /img/features/inline/jurassic-park-10.jpg
 
  
 
