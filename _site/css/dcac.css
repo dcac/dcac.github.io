@@ -2400,10 +2400,16 @@ ul.share-links li a.share-icon {
   padding: 0.125rem;
   text-align: center;
 }
+.comment-count-container:hover {
+  background-color: #5BC2EF;
+}
 ul.share-links li a {
   color: #fff;
   font-weight: 700;
   line-height: 0.9375rem;
+}
+ul.share-links li a:hover {
+  color: #5BC2EF;
 }
 .comment-count-arrow {
   width: 0.4375rem;
@@ -2411,6 +2417,13 @@ ul.share-links li a {
   position: absolute;
   right: 25%;
   top: 0.8125rem;
+}
+.comment-count-arrow svg {
+  fill: #c1c0c0;
+}
+.comment-count:hover * {
+  fill: #5BC2EF;
+  cursor: pointer;
 }
 #feature-hero {
   height: 500px;
