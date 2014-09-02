@@ -1,6 +1,6 @@
 all:
   name: Dear Cast & Crew
-  short-name: The Dear Cast & Crew crew
+  short-name: <strong>The Dear Cast & Crew crew</strong>
   signature: dcac-sig.png
   
 caseyt:
@@ -50,7 +50,7 @@ dig:
   email:
   twitter:
   image: dig.jpg
-  bio: '<strong>Di Golding</strong> spent nineteen years working as a bartender and server all over Canada. In her free time she was also a flight attendant, a baker, a model and a whitewater river guide. She studied scriptwriting at Algonquin College, and comedy screenwriting under SCTV scribe Dave Flaherty of Humber College. She was a film columnist for CBC Radio''s All In A Day, and has been published in The Daily Beast and Ottawa Magazine. She has what psychiatrists and her husband would describe as an ''unhealthy obsession'' with Jeff Bridges. She has exactly one <a href="http://www.imdb.com/title/tt2624344/fullcredits?ref_=tt_ov_st_sm">IMDb</a> credit.'
+  bio: '<strong>Di Golding got most of her film education the old fashion way - by working in a video store (for more years than she''s willing to admit). She studied scriptwriting at Algonquin College, and comedy screenwriting under SCTV scribe Dave Flaherty of Humber College. She was a film columnist for CBC Radio''s All In A Day, and has been published in The Daily Beast and Ottawa Magazine. She has what psychiatrists and her husband would describe as an ''unhealthy obsession'' with Jeff Bridges. She has exactly one <a href="http://www.imdb.com/title/tt2624344/fullcredits?ref_=tt_ov_st_sm">IMDb</a> credit.'
   signature: dig-sig.png
   
 kelany:

@@ -13,7 +13,7 @@ $(document).ready(function () {
         html += '<h1 class=film-credits-title>' + random_entry['Credit'] + '</h1>';
         html += '<h2 class="film-credits-description">' + random_entry['Definition'] + '</h2>';
         html += '<div class="film-credits-nav clearfix">';
-        html += '<a role="button" href="' + random_entry['Link'] + '">Read More</a>';
+        html += '<a role="button" href="' + random_entry['Link'] + '">See an example</a>';
 /*
         html += '<ul>';
           html += '<li class="film-credits-nav-prev"></li>';

@@ -8,7 +8,7 @@ excerpt:
 series-name: Ghosts of Ghostbusters
 addressee: Chuck Gaspar
 position: Special Effects Supervisor
-date: 2014-08-29 03:11
+date: 2014-08-28 11:11
 author: caseyt
 image: ghostbusters-pt-8.jpg
 comments: true
