@@ -34,7 +34,7 @@ layout: default
             <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
                 <h3><span class="addressee hyphenate">Dear {{ page.addressee }}</span><br />
-                  {% assign positionSize = page.position | size %}{% if positionSize > 25 %}<span class="position-small-txt hyphenate">{% else %}<span class="position hyphenate">{% endif %}{{ page.position }}</span>
+                  {% assign positionSize = page.position | size %}{% if positionSize > 20 %}<span class="position-small-txt hyphenate">{% else %}<span class="position hyphenate">{% endif %}{{ page.position }}</span>
                 </h3>
               </div>
             </div>

@@ -8,7 +8,7 @@ $(document).ready(function () {
       var random_entry = entry[Math.floor(Math.random() * entry.length)];
       random_entry.current = 5;
       //$.each(data, function(entryIndex, entry) {
-        var html = '<h1>Film Role-adex</h1>';
+        var html = '<h1>Film Role•a•dex</h1>';
         html += '<article>';
         html += '<h1 class=film-credits-title>' + random_entry['Credit'] + '</h1>';
         html += '<h2 class="film-credits-description">' + random_entry['Definition'] + '</h2>';

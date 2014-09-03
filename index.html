@@ -7,7 +7,7 @@ exclude_from_search: true
 ---
       
       {% include top-nav.html %}
-      {% for post in site.categories['reviews'] or site.categories['features'] limit:1 %}
+      {% for post in site.posts limit:1 %}
       <style>
       .title-img-fade {
       background-image: -webkit-linear-gradient(left, 
@@ -85,7 +85,14 @@ exclude_from_search: true
   
       <div class="row" id="row-height">
         <div class="large-8 medium-8 columns">
-          {% for post in site.categories['reviews'] offset:1 limit:4 %}
+          {% for post in site.posts limit:1 %}
+            {% if post.categories contains "features" %}
+            {% assign offsetnum = 0 %}
+            {% else %}
+            {% assign offsetnum = 1 %}
+            {% endif %}
+          {% endfor %}
+          {% for post in site.categories['reviews'] offset:offsetnum limit:4 %}
           {% assign author = site.data.authors[post.author] %}
           {% assign loopindex = forloop.index | modulo: 2 %}
           {% if loopindex == 1 %}
@@ -104,7 +111,15 @@ exclude_from_search: true
                 <hr class="grid-divider" />
               </div>
             </div>
-          {% for post in site.categories['features'] limit:1 %}
+          
+          {% for post in site.posts limit:1 %}
+            {% if post.categories contains "features" %}
+            {% assign offsetnum = 1 %}
+            {% else %}
+            {% assign offsetnum = 0 %}
+            {% endif %}
+          {% endfor %}
+          {% for post in site.categories['features'] limit:1 offset:offsetnum %}
           {% assign author = site.data.authors[post.author] %}
             <div class="row">
               {% include post-grid/post-feature.html %}
