@@ -2,8 +2,8 @@
 layout: none
 ---
 {
-  "posts" : [
-    {% for post in site.categories['reviews'] offset:10 limit:24  %}
+  "posts" : [{% for post in site.posts limit:1 %}{% if post.categories contains "features" %}{% assign offsetnum = 9 %}{% else %}{% assign offsetnum = 10 %}{% endif %}{% endfor %}
+    {% for post in site.categories['reviews'] offset:offsetnum limit:24  %}
     "{{ post.url }}"{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ]

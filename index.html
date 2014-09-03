@@ -177,7 +177,14 @@ exclude_from_search: true
             <hr class="more-reviews-rule">
           </div>
           <div class="row" id="load-posts-area">
-            {% for post in site.categories['reviews'] offset:9 limit:6 %}
+            {% for post in site.posts limit:1 %}
+              {% if post.categories contains "features" %}
+              {% assign offsetnum = 8 %}
+              {% else %}
+              {% assign offsetnum = 9 %}
+              {% endif %}
+            {% endfor %}
+            {% for post in site.categories['reviews'] offset:offsetnum limit:6 %}
             {% assign author = site.data.authors[post.author] %}
              <div class="post large-4 medium-4 columns">
               {% include post-grid/post.html %}
