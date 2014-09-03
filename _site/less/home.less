@@ -313,7 +313,12 @@ div.review-text-home{
 }
 div.home-feature{
   @media @mobile{
-    margin-left: -@10px;
+    margin-bottom: 0;
+  }
+}
+div.feature-text-home {
+  @media @mobile{
+    margin-left: -@1px*7;
     margin-bottom: 0;
   }
 }
@@ -327,11 +332,11 @@ div.review-text-home h2.author, div.feature-text-home h2.author{
   .review-grid-byline(@text-small,@serif);
   font-style: italic;
 }
-div.review-text-home h2.star-rating, div.review-text-home h2.star-rating{
+div.review-text-home h2.star-rating, div.feature-text-home h2.star-rating{
   .review-grid-byline(@text-small);
   font-weight: 750;
 }
-div.review-text-home h2.addressee, div.review-text-home h2.addressee{
+div.review-text-home h2.addressee, div.feature-text-home h2.addressee{
   .review-grid-byline(@text-small);
   font-weight:bold;
 }
