@@ -1,6 +1,6 @@
 ---
 published: true
-image: devils-knot-jpg
+image: devils-knot.jpg
 imdb: tt0804463
 author: christopherr
 stars: 1.5
