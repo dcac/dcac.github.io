@@ -27,4 +27,4 @@ The film's general steadiness has a lot to do with the world you created. The bl
 
 I really appreciated that even when Holloman begins to grow a spine, nothing around him changes. You didn't suddenly make his world brighter, or more airy, or add dashes of colour. In a film that is all about perception, this choice enhances the narrative by focusing attention on the characters. Although the second half of the film is all about horrible things befalling Lawrence, to me it was still Holloman's story, and you allowed it to remain as such. Since I began the film identifying closely with Holloman, I'm glad you didn't force me to stray too far from his point of view. He just doesn't strike me as the type to suddenly wake up to find the sky a brighter shade of blue.
 
-In appreciation of things "white bread, baloney." 
+In appreciation of things "white bread, baloney."

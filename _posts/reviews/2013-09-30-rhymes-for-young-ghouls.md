@@ -28,6 +28,7 @@ With so much going on in 90 minutes, I anticipated the film would, at some point
 
 But that's the advantage of being a first-time filmmaker. Aside from documentaries on the residential school system and its survivors, I can only think of a few fictional narrative films on the subject. There's also no real canon of First Nations Cinema. So you had the luxury of a more or less blank slate, both in terms of crafting the story and designing the way in which it would be told. Why not fill it in with zombies, ghosts, and mythical beasts? 
 
-Best,
+{% contentfor signature %}	Best,
 
-Nat
+Nat.
+{% endcontentfor %}

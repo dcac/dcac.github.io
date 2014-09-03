@@ -24,6 +24,7 @@ First, you show us what brought the people to Tahrir Square in the first place. 
 
 I loved that you ended the film with images of Tahrir on a night in 2013, astoundingly crowded once again following the ousting of Mohammed Morsi. This is how the world first saw the Square, and rather than having it symbolize a one-off event that dominated the news cycle for a short while a couple of years ago, you remind us that there is no book-ending to be had here, and that all we have actually seen is the beginning of the story.
 
-Best,
+{% contentfor signature %}	Best,
 
-Nat
+Nat.
+{% endcontentfor %}

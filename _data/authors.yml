@@ -47,7 +47,7 @@ dig:
   name: Di Golding
   short-name: Di
   profiled: true
-  email:
+  email: di@dearcastandcrew.com
   twitter:
   image: dig.jpg
   bio: '<strong>Di Golding got most of her film education the old fashion way - by working in a video store (for more years than she''s willing to admit). She studied scriptwriting at Algonquin College, and comedy screenwriting under SCTV scribe Dave Flaherty of Humber College. She was a film columnist for CBC Radio''s All In A Day, and has been published in The Daily Beast and Ottawa Magazine. She has what psychiatrists and her husband would describe as an ''unhealthy obsession'' with Jeff Bridges. She has exactly one <a href="http://www.imdb.com/title/tt2624344/fullcredits?ref_=tt_ov_st_sm">IMDb</a> credit.'
@@ -66,8 +66,12 @@ kelany:
 natm:
   name: Nat Master
   short-name: Nat
+  profiled: true
   email:
   twitter:
+  image: natm.jpg
+  signature: natm-sig.png
+  bio: "<strong>Nat Master</strong> grew up on a steady diet of Bollywood cinema, as there was little else to watch in Dubai in the mid 1980s. Her lifelong love of cinema led her to pursue a master’s degree in Film Studies at Carleton University after pretending to major in Political Science. A freelance writer with a day job, Nat owns every film ever made by or featuring Edward Burns (even the one with the dinosaur), and secretly hopes Dear Cast & Crew will review Bollywood movies someday."
   
 stefane:
   name: Stefan Ellison
@@ -133,8 +137,8 @@ scottb:
   name: Scott Belyea
   short-name: Scott
   
-test:
-  name: Test Author
-  short-name: Test
+jennfinn:
+  name: Jennifer Smart and Finn Tourangeau
+  short-name: Jenn & Finn
   email:
   twitter:

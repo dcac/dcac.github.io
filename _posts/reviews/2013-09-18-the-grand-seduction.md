@@ -33,6 +33,7 @@ But enough about your stellar production design (again, well done). We need to t
 
 As the daughter of a cricket enthusiast, watching Murray and co. attempt to stage a match for Dr. Lewis is something I won't soon forget. I can fully relate to the sheer confusion that comes from trying to figure cricket out. To their credit, the boys nearly had it. Somewhat. Okay, not at all, really. What Tickle Cove needed more than a doctor was a cricket coach. Someone to explain the bunsen, mollygrubber, and silly-nanny, and to teach them that an oar is a poor substitute for a cricket bat.  I mean come on, it felt like they were being taught by a production designer.
 
-Best,
+{% contentfor signature %}	Best,
 
-Nat
+Nat.
+{% endcontentfor %}

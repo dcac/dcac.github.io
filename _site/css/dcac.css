@@ -661,6 +661,7 @@ div.film-credits {
   padding-right: 1.25rem;
   padding-left: 1.25rem;
   padding-bottom: 1.25rem;
+  min-height: 9.375rem;
 }
 div.film-credits h1 {
   font-size: 0.875rem;

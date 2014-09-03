@@ -8,12 +8,12 @@ $(document).ready(function () {
       var random_entry = entry[Math.floor(Math.random() * entry.length)];
       random_entry.current = 5;
       //$.each(data, function(entryIndex, entry) {
-        var html = '<h1>DC&C Random Role</h1>';
+        var html = '<h1>Film Role-adex</h1>';
         html += '<article>';
         html += '<h1 class=film-credits-title>' + random_entry['Credit'] + '</h1>';
         html += '<h2 class="film-credits-description">' + random_entry['Definition'] + '</h2>';
         html += '<div class="film-credits-nav clearfix">';
-        html += '<a role="button" href="' + random_entry['Link'] + '">See an example</a>';
+        html += '<a role="button" href="' + random_entry['Link'] + '">See a example</a>';
 /*
         html += '<ul>';
           html += '<li class="film-credits-nav-prev"></li>';

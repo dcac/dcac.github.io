@@ -28,6 +28,7 @@ But while the comedy is welcome, I can't say the same for most of the film's var
 
 For a light-hearted story of a family in crisis, you bring a lot of heavy baggage. But I applaud your ability to avoid whacking the audience over the head with excessive epiphanies and neatly tied-up endings. By the end of the film, there is catharsis for all involved. But I wouldn't go as far as to say the characters - Aidan in particular - are any wiser than when we first meet them. I appreciated that. The heart of the film lies in its characters finding strength by standing on their own while they stand together. It's a touch saccharine—but not so much that your teeth hurt. 
 
-Best,
+{% contentfor signature %}	Best,
 
 Nat.
+{% endcontentfor %}
