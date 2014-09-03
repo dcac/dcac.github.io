@@ -197,7 +197,7 @@ var share = $('#share-links');
       });
     }
   },{
-    offset: 75 // Apply "stuck" when element 75px from top
+    offset: 85 // Apply "stuck" when element 75px from top
   });
   $("#up-next").waypoint(function(direction){
   if (direction === 'down') {

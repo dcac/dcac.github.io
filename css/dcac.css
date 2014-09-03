@@ -2407,6 +2407,9 @@ ul.share-links li a {
 ul.share-links li a:hover {
   color: #5BC2EF;
 }
+a.comment-count-link:hover {
+  color: #ffffff;
+}
 .comment-count-arrow {
   width: 0.4375rem;
   height: 1.25rem;
@@ -2423,7 +2426,7 @@ ul.share-links li a:hover {
 }
 #feature-hero {
   height: 500px;
-  margin-bottom: 45px;
+  margin-bottom: 0.625rem;
 }
 @media only screen and (max-width: 640px) {
   #feature-hero {
