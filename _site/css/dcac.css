@@ -52,6 +52,9 @@ nav#menu-left {
 .text-shadow {
   text-shadow: 0 0 0.125rem #333333;
 }
+.text-shadow-none {
+  text-shadow: none;
+}
 .container-shadow {
   background-color: #fff;
   z-index: 2;
@@ -3093,6 +3096,7 @@ li > a:hover {
   left: 10px;
   bottom: 10px;
   z-index: 1;
+  text-shadow: 0 0 0.125rem #333333;
 }
 #home-feature p {
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
@@ -3103,6 +3107,7 @@ li > a:hover {
   color: #ffffff;
   margin-top: 0.625rem;
   margin-bottom: 0;
+  text-shadow: 0 0 0.125rem #333333;
 }
 .postcard-review {
   margin-bottom: 2.8125rem;
@@ -3136,12 +3141,13 @@ h1.postcard-film-title {
   line-height: 3.75rem;
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
-  text-shadow: 0 0 2px #333333;
+  text-shadow: 0 0 0.125rem #333333;
 }
 @media only screen and (max-width: 780px) {
   h1.postcard-film-title {
     font-size: 3.75rem;
     line-height: 3.125rem;
+    text-shadow: none;
   }
 }
 @media only screen and (max-width: 640px) {
@@ -3159,6 +3165,12 @@ h1.postcard-film-title {
   position: relative;
   padding-left: 15px;
   padding-right: 15px;
+}
+@media only screen and (max-width: 640px) {
+  .postcard-title-info {
+    padding-left: 0;
+    padding-right: 0;
+  }
 }
 .postcard-status-row {
   height: 21.875rem;

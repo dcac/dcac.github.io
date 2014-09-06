@@ -36,7 +36,7 @@
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro hide-for-small">Dear {{ post.addressee }},</p>
+            <p class="intro">Dear {{ post.addressee }},</p>
             {{ post.content | replace_first: '<p>','<p class="intro">' }}
             {% if author.bio %}{% include signature-post.html %}{% endif %}
             {% contentblock postscript %}

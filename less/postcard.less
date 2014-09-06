@@ -29,10 +29,11 @@ h1.postcard-film-title {
   line-height: @1px*60;
   font-family: @sans-serif;
   font-weight: 700;
-  text-shadow: 0 0 2px @dark-grey;
+    .text-shadow;
   @media @medium{
     font-size: @1px*60;
     line-height: @1px*50;
+    .text-shadow-none;
   }
   @media @mobile{
     color: #000; 
@@ -49,6 +50,10 @@ h1.postcard-film-title {
   position: relative;
   padding-left: 15px;
   padding-right: 15px;
+  @media @mobile{
+    padding-left: 0;
+    padding-right: 0;
+  }
 }
 .postcard-status-row{
   height:@1px*350;
