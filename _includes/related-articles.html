@@ -4,13 +4,13 @@
             <hr class="up-next-rule">
           </div>
           <div class="row">
-          {% for post in site.related_posts limit: 1 %}
+          {% for post in site.related_posts where post.grid-display==true limit: 1 %}
             {% assign author = site.data.authors[post.author] %}
               <div class="large-4 medium-4 columns main-link-small">
                 {% include post-grid/post.html %}
               </div>
           {% endfor %}
-          {% for post in site.related_posts offset: 1 limit: 2 %}
+          {% for post in site.related_posts where post.grid-display offset: 1 limit: 2 %}
             {% assign author = site.data.authors[post.author] %}
               <div class="large-4 medium-4 columns hide-for-small-only">
                 {% include post-grid/post.html %}

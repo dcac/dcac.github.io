@@ -20,7 +20,7 @@ custom_paginate: 24
 author_paginate: 24
 
 lunr_search:
-  excludes: [rss.xml, atom.xml,feed.xml]
+  excludes: [rss.xml, atom.xml,feed.xml,tiff-postcard]
 
 defaults:
   -
@@ -38,8 +38,7 @@ defaults:
       type: "post"
     values:
       comments: true
-
-
+      
 sitemap:
     file: "/sitemap.xml"
     exclude:

@@ -1,0 +1,55 @@
+---
+layout: default
+---
+      {% include top-nav.html %}
+      <section>
+        {% include share.html %}
+      </section>
+       <section id="feature-hero">
+        <div id="story-title" class="title-info">
+          <a href="{{ post.url }}">
+            <div id="title-img" data-stellar-background-ratio=".25" alt="Main Image"></div>
+            <div class="row collapse">
+              <div class="large-4 medium-4 columns feature-title-height">
+                <div class="feature-title-text">
+                  <h1 class="feature-hero">{{ page.title }}</h1>
+                  <div class="translucent-box clearfix">
+                    <div class="feature-info">
+                      <h2 class="feature-sub-title">
+                       A Dear Cast &amp; Crew Series
+                      </h2>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </section>
+      <section class="main-copy">
+        <div class="row series-intro">
+          <div class="large-2 medium-2 columns side-spacer hide-for-small-only"></div>
+          <div class="large-8 medium-8 columns" id="series-copy">
+            {{ content }}
+          </div>
+          <div class="large-2 medium-2 columns side-spacer hide-for-small-only"></div>
+        </div>
+        <div class="more-reviews">
+          <div class="row collapse">
+            <div class="large-12 columns collapse writer-head-block">
+              <h1 class="more-reviews-title">The Movies</h1>
+              <hr class="more-reviews-rule">
+            </div>
+          </div>
+        </div>
+        <div class="row posts-grid" id="posts-grid">
+    {% for post in site.categories['festivals'] where post.series-name == page.series-name reversed %}
+          <div class=" section-post large-4 medium-4 small-6 columns left{% if forloop.last %} end{% endif %}">
+    {% assign author = site.data.authors[post.author] %}
+            {% include post-grid/post.html %}
+          </div>
+          {% endfor %}
+        </div>
+      </section>
+      {% include disqus.html %}
+      

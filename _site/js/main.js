@@ -22,6 +22,26 @@ $(document).ready(function () {
           //$.stellar('refresh');
       } 
     }
+    var $imageHome=$('#home-feature');
+    if ($imageHome.size()) {
+      var hww=$(window).width();
+      //var wh=$(window).height();
+      $imageHome.css({
+      'width': hww,
+      //'height': wh
+      //'height': '500px'
+      });if($(window).width() < 1200){
+        $('#home-feature-img').addClass('home-feature-img');
+        $('#home-feature-img').removeClass('home-feature-img-fade');
+        $('#home-feature').css({'background-color':'transparent'});
+        //$.stellar('refresh');
+      } 
+      else{
+          $('#home-feature-img').addClass('home-feature-img-fade');
+          $('#home-feature-img').removeClass('home-feature-img');
+          //$.stellar('refresh');
+      } 
+    }
     //hide and show the mini nav bar for desktop and tablet layouts
     $("#top-nav").waypoint(function(direction){
       if ((direction === "down") && ($(window).width() > 640)){
@@ -44,12 +64,14 @@ $(document).ready(function () {
     		responsive: true
       });
       $('#title-img').attr("data-stellar-background-ratio",".25");
+      $('#home-feature-img').attr("data-stellar-background-ratio",".25");
       $('.status-row').attr("data-stellar-ratio","1.1");
       $('.people-row').attr("data-stellar-ratio","1.1");
     }
     else{
       //alert('hi');
       $('#title-img').removeAttr("data-stellar-background-ratio");
+      $('#home-feature-img').removeAttr("data-stellar-background-ratio");
       $('.status-row').removeAttr("data-stellar-ratio");
       $('.people-row').removeAttr("data-stellar-ratio");
 

@@ -4,7 +4,7 @@ image: the-worlds-end.jpg
 imdb: tt1213663
 author: natm 
 stars: 4
-excerpt: "Five middle-aged men walk into a pub&mdash;"
+excerpt: "Five middle-aged men walk into a pub—"
 position: Teenager #3
 addressee: Luke J. Scott
 layout: review

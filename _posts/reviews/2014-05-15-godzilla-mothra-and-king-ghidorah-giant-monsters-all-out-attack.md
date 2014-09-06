@@ -9,13 +9,11 @@ position: Suit Builder
 addressee: Takuya Yamabe
 layout: review
 categories:
-
  - reviews
   - on-video
-
  - series
 series-name: Godzilla Week
-title: "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack"
+title: "GMK: Giant Monsters All-Out Attack"
 date: 2014-05-15 16:01
 comments: true
 tags: [Godzilla, Godzilla Week, Godzilla Week, Japan, kaiju, Letters, monsters]

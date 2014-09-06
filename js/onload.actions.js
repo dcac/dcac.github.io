@@ -107,7 +107,7 @@ function winResized() {
   //alert(scrollOffest);
   
   // determine if the viewport is higher than the IMB information, and if so, allow the sidebar to fix itself to the top when scrolled to.
-  var fixSidebar
+  var fixSidebar;
   if ($('#film-info').height() > $.waypoints('viewportHeight')-65){
       fixSidebar = false;
     //alert(fixSidebar);
@@ -216,7 +216,7 @@ $(document).ready(function(){
 
 //share-icons -fix them when necessary too
 var share = $('#share-links');
-  $('#review-copy').waypoint(function(direction) {
+  $('#share-links').waypoint(function(direction) {
     if (direction === 'down') {
       share.css({
         position:"fixed",

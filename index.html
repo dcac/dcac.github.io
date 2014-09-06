@@ -4,94 +4,21 @@ css: dcac.css
 home: true
 section: Home
 exclude_from_search: true
+home_feature_display: true
 ---
       
       {% include top-nav.html %}
-      {% for post in site.posts limit:1 %}
-      <style>
-      .title-img-fade {
-      background-image: -webkit-linear-gradient(left, 
-          rgba(0,0,0,0.9) 0%, 
-          rgba(0,0,0,0) 20%,
-          rgba(0,0,0,0) 80%,
-          rgba(0,0,0,0.9) 100%
-        ),
-        url('/img/article/main/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}');
-      background-image: -moz-linear-gradient(left, 
-          rgba(0,0,0,0.9) 0%, 
-          rgba(0,0,0,0) 20%,
-          rgba(0,0,0,0) 80%,
-          rgba(0,0,0,0.9) 100%
-        ),
-        url('/img/article/main/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}');
-      background-image: -o-linear-gradient(left, 
-          rgba(0,0,0,0.9) 0%, 
-          rgba(0,0,0,0) 20%,
-          rgba(0,0,0,0) 80%,
-          rgba(0,0,0,0.9) 100%
-        ),
-        url('/img/article/main/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}');
-      background-image: 
-        linear-gradient(left, 
-          rgba(0,0,0,0.9) 0%, 
-          rgba(0,0,0,0) 20%,
-          rgba(0,0,0,0) 80%,
-          rgba(0,0,0,0.9) 100%
-        ),
-        url('/img/article/main/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}');
-      }
-      .title-img {
-        background-image: url('/img/article/main/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}');
-      }
-    </style>
-      {% assign author = site.data.authors[post.author] %}
-      <section id="hero-home">
-        <div id="story-title" class="title-info">
-          <a href="{{ post.url }}">
-            <div id="title-img" class="title-img" style=""></div>
-            <div class="row collapse">
-              <div class="large-4 medium-4 columns home-title-height">
-                <div class="hero-title-text">
-                  <h1 class="hero-home">{{ post.title }}</h1>
-                  <div class="translucent-box clearfix">
-                    <div class="hero-people">
-                      <h2 class="hero-addressee-home hyphenate">
-                        Dear {{ post.addressee }}, <span class="mobile-line-break"><br /></span>{{ post.position }}
-                      </h2>
-                      <h2 class="hero-author-home">
-                        By {{ author.name }}
-                      </h2>
-                      <h2 class="hero-date-home hidden-for-medium-up">
-                        Mailed on {{ post.date | date: "%B %d, %Y" }}
-                      </h2>
-                    </div>
-                    {% if post.stars %}<div class="home-status-container">
-                      <div class="home-status-title show-for-small-only">
-                        <img src="/img/global/stamp.svg" class="standard review-stamp" alt="Stamp" />
-                    {% if post.stars < 1.5 %}Junk<br />Mail{% elsif post.stars >= 1.5 and post.stars < 2.5 %}Return to<br />Sender{% elsif post.stars >= 2.5 and post.stars < 3.5 %}Standard<br />Delivery{% elsif post.stars >= 3.5 and post.stars < 4.5  %}Air<br />Mail{% elsif post.stars >= 4.5 %}Priority<br />Post{% endif %}<br />
-                      </div>
-                      <div class="large-star-rating-home">
-                        {% for i in (1..post.stars) %}<img class="star-large" src="/img/global/star-blue.svg" alt="" />{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<img class="star-large" src="/img/global/star-blue-half.svg" alt="" />{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img class="star-large" src="/img/global/star-white.svg" alt="" />{% endfor %}{% endif %}
-                      </div>
-                    </div>{% endif %}
-                  </div>
-                </div>
-              </div>
-            </div>
-          </a>
-        </div>
-      </section>
-      {% endfor %}
-  
+        {% if page.home_feature_display == true %}
+          {% include home/home-feature.html %}
+        {% else %}
+          {% for post in site.categories['series-index'] limit:1 %}
+            {%include home/home-hero.html %}
+          {% endfor %}
+        {% endif %}
+      
       <div class="row" id="row-height">
         <div class="large-8 medium-8 columns">
-          {% for post in site.posts limit:1 %}
-            {% if post.categories contains "features" %}
-            {% assign offsetnum = 0 %}
-            {% else %}
-            {% assign offsetnum = 1 %}
-            {% endif %}
-          {% endfor %}
+          
           {% for post in site.categories['reviews'] offset:offsetnum limit:4 %}
           {% assign author = site.data.authors[post.author] %}
           {% assign loopindex = forloop.index | modulo: 2 %}

@@ -1,0 +1,79 @@
+      <section>
+        <div id="story-title-{{post.title | handleize }}" class="postcard-title-info">
+          <div id="postcard-title-img-{{post.title | handleize }}" class="postcard-title-img" style="background-image:url('/img/article/main/{{post.image}}')"></div>
+          <div class="row postcard-title-margin">
+            <div class="large-4 medium-4 columns collapse postcard-status-row">
+              <div class="postcard-review-status">
+                <div class="title-block">
+                  <h2 class="hero-author">
+                    By {% if author.profiled %}<a href="/writers/{{ post.author }}">{% endif %}{{ author.name }}{% if author.profiled %}</a>{% endif %}
+                  </h2>
+                {% if post.stars %}<hr class="title-divider" />{% endif %}
+                </div>
+                {% if post.stars %}<div class="status-container">
+                  <img src="/img/global/stamp.svg" class="standard review-stamp" alt="Stamp image" />
+                {% if post.stars < 1.5 %}Junk<br />Mail{% elsif post.stars >= 1.5 and post.stars < 2.5 %}Return to<br />Sender{% elsif post.stars >= 2.5 and post.stars < 3.5 %}Standard<br />Delivery{% elsif post.stars >= 3.5 and post.stars < 4.5  %}Air<br />Mail{% elsif post.stars >= 4.5 %}Priority<br />Post{% endif %}<br />
+                  <div class="large-star-rating">
+                    {% for i in (1..post.stars) %}<img class="star-large" src="/img/global/star-blue.svg" alt="Star"/>{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<img class="star-large" src="/img/global/star-blue-half.svg" alt="Half Star" />{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img class="star-large" src="/img/global/star-white.svg" alt="Empty Star" />{% endfor %}{% endif %}
+                  </div>
+                </div>{% endif %}
+              </div>
+            </div>
+            <div class="large-8 medium-8 columns collapse postcard-people-row">
+              <div class="postcard-review-people">
+                <h1 class="postcard-film-title hyphenate">{{ post.title }}</h1>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section>
+        <div class="row">
+          <div class="large-4 medium-4 columns hide-for-small-only" id="film-row-{{ post.title | handleize }}">
+            <div id="review-sidebar-{{ post.title | handleize }}">
+              <div id="film-info-{{ post.title | handleize }}" class="film-info">
+             </div>
+            </div>
+          </div>
+          <div class="large-8 medium-8 columns" id="review-copy">
+            <p class="intro hide-for-small">Dear {{ post.addressee }},</p>
+            {{ post.content | replace_first: '<p>','<p class="intro">' }}
+            {% if author.bio %}{% include signature-post.html %}{% endif %}
+            {% contentblock postscript %}
+          </div>
+        </div>
+      </section>
+    <script>
+    //get the movie info from IMDB
+    $.ajax({
+      
+      url: "http://omdbapi.com/?i={{ post.imdb }}",
+      dataType: 'jsonp',
+      success: function(data) {
+        var html = '<div class="row imdb-info-row no-border full-width">';
+        //html += '<img class="imdb-img" src="' +data.Poster +'" />';
+        html += '<span class="imdb-category">Directed by</span><br /><span class="imdb-data">' + data.Director.replace(/\,/g, '<br />') +'</span>';
+        html += '</div>';
+        html += '<div class="row imdb-info-row">';
+        html += '<span class="imdb-category">Written by</span><br /><span class="imdb-data">';
+        var writers = data.Writer;
+        var writers_array = writers.split(',');
+
+        for(var i = 0; i < writers_array.length; i++) {
+           // Trim the excess whitespace.
+           writers_array[i] = writers_array[i].replace(/^\s*/, "").replace(/\s*$/, "");
+           // Add additional code here, such as:
+           if ((writers_array[i].indexOf('characters') == -1) && (writers_array[i].indexOf('story') == -1) && (writers_array[i].indexOf('creator') == -1) && (writers_array[i].indexOf('screen story') == -1) && (writers_array[i].indexOf('television story') == -1) && (writers_array[i].indexOf('article') == -1) && (writers_array[i].indexOf('additional') == -1) && ((writers_array[i].indexOf('play') == -1) || (writers_array[i].indexOf('screenplay') > -1)) && (writers_array[i].indexOf('song') == -1) && (writers_array[i].indexOf('uncredited') == -1) && (writers_array[i].indexOf('also') == -1) && (writers_array[i].indexOf('book') == -1) && (writers_array[i].indexOf('novel') == -1) && (writers_array[i].indexOf('based on') == -1)){
+           html += writers_array[i].replace('(screenplay)', '').replace('(written by)', '').replace('(written for the screen by)', '') + '<br />';
+           }
+        }
+        html += '</span>';
+        html += '</div>';
+        html += '<div class="row imdb-info-row">';
+        html += '<span class="imdb-category">Starring<br /></span><span class="imdb-data">'+ data.Actors.replace(/\,/g, '<br />') +'</span>';
+        html += '</div>';
+        $('#film-info-{{ post.title | handleize }}').append(html);
+        html += '</div>';
+      }
+    });
+    </script>
