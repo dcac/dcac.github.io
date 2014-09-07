@@ -53,7 +53,7 @@ nav#menu-left {
   text-shadow: 0 0 0.125rem #333333;
 }
 .text-shadow-none {
-  text-shadow: none;
+  text-shadow: 0 0 0 #333333;
 }
 .container-shadow {
   background-color: #fff;
@@ -3035,19 +3035,22 @@ div.author {
   }
 }
 #home-feature li:hover {
-  background-color: #ffffff;
+  background-color: rgba(255, 255, 255, 0.5);
   color: #636467;
   background-image: url('../img/home/feature/calendar-square-grey.svg');
+  text-shadow: 0 0 0 #333333;
 }
 #home-feature li.today:hover {
   background-color: transparent;
   color: #ffffff;
   background-image: url('../img/home/feature/calendar-square-today-grey.svg');
+  text-shadow: 0 0 0 #333333;
 }
 #home-feature li.future:hover {
   background-color: transparent;
   color: #ffffff;
   background-image: url('../img/home/feature/calendar-square-future.svg');
+  text-shadow: 0 0 0 #333333;
 }
 li > a {
   display: block;
@@ -3055,8 +3058,9 @@ li > a {
   height: 100%;
   color: #ffffff;
 }
-li > a:hover {
+li > a:hover * {
   color: #636467;
+  text-shadow: 0 0 0 #333333;
 }
 #home-feature li.today span.day {
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
@@ -3095,13 +3099,34 @@ li > a:hover {
     top: 5px;
   }
 }
-#home-feature li.today img {
+#home-feature li img {
   margin: 0;
   padding: 0;
   z-index: 0;
   position: absolute;
+  top: 2px;
+  left: 2px;
+  z-index: -5;
+  opacity: 0.65;
+  background-color: #ffffff;
+}
+@media only screen and (max-width: 640px) {
+  #home-feature li img {
+    width: 43px;
+    height: 43px;
+    top: 2px;
+    left: 2px;
+  }
+}
+#home-feature li.today img {
+  margin: 0;
+  padding: 0;
+  z-index: -5;
+  position: absolute;
   top: 16px;
   left: 19px;
+  opacity: 1;
+  background-color: #ffffff;
 }
 @media only screen and (max-width: 640px) {
   #home-feature li.today img {
@@ -3206,7 +3231,7 @@ h1.postcard-film-title {
   h1.postcard-film-title {
     font-size: 3.75rem;
     line-height: 3.125rem;
-    text-shadow: none;
+    text-shadow: 0 0 0 #333333;
   }
 }
 @media only screen and (max-width: 640px) {

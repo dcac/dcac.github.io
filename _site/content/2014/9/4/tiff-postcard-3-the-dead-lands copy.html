@@ -154,7 +154,45 @@
     </nav>
     <div>
       <div class="container-shadow" id="main-container">    
+               
+<div class="full-white">
+      <div class="row collapse">
+        <div class="section-header">
+          <section class="top-nav" id="top-nav">
+            <a href="/" class="logo-link"></a>
+            <ul>
+              <li><a href="/reviews/">Reviews</a></li>
+              <li><a href="/features/" class="slash">Features</a></li>
+              <!-- <li><a href="/podcast/">Podcast</a></li> -->
+              <li><a href="/writers/" class="slash">Writers</a></li>
+              <li><a href="#" id="top-search-toggle" class="top-search-toggle slash"><i class="fa fa-search"></i></a></li>
+            </ul>
+          </section>
+        </div>
+      </div>
+    </div>
         
+    <div class="mini-top-nav-hidden mm-fixed-top" id="mini-top-nav">
+      <nav class="top-bar">
+        <ul class="title-area">
+          <li class="name dcac-logo" id="nav-toggle"></li>
+        </ul>
+        <section class="top-bar-section">
+          <!-- Right Nav Section -->
+          <ul class="right">
+            <li class="search" id="mini-top-search-toggle"><a href="#" class="mini-search-link"><i class="fa fa-search"></i></a></li>
+          </ul>
+          <ul class="left">
+            
+            
+            <li><a href="/content/2014/9/4/as-above-so-below.html" class="latest-review"><strong>Latest review: </strong><em>As Above So Below</em> - Dear Eric Viellerobe, Set Designer</a></li>
+            
+          </ul>
+        </section>
+      </nav>
+    </div>
+
+
       <section>
         <ul class="share-links hide-for-small-only" id="share-links">
               <li>
@@ -180,13 +218,17 @@
       </section>
       <section>
         <div id="story-title" class="title-info">
-          <div id="postcard-title-img" class="postcard-title-img" data-stellar-background-ratio=".25"></div>
+          <div id="title-img" class="title-img" data-stellar-background-ratio=".25"></div>
           <div class="row">
             <div class="large-4 medium-4 columns collapse status-row" data-stellar-ratio="1.1">
               <div class="review-status">
                 <div class="title-block">
+                  <h1 class="hero hyphenate">The Dead Lands</h1>
                   <h2 class="hero-author">
                     By <a href="/writers/christopherr">Christopher Redmond</a>
+                  </h2>
+                  <h2 class="hero-date">
+                    Mailed on September 04, 2014
                   </h2>
                 <hr class="title-divider" />
                 </div>
@@ -201,17 +243,19 @@
             </div>
             <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
-                <h1><span class="addressee hyphenate">The Dead Lands</span></h1>
+                <h3><span class="addressee hyphenate">Dear TIFF</span><br />
+                  <span class="position hyphenate"></span>
+                </h3>
               </div>
             </div>
           </div>
         </div>
       </section>
-      <section>
+      <section id="body-text">
         <div class="row">
           <div class="large-4 medium-4 columns hide-for-small-only" id="film-row">
             <div id="review-sidebar">
-              <div id="film-info" class="film-info-The Dead Lands">
+              <div id="film-info" class="film-info">
              </div>
             </div>
           </div>
@@ -229,6 +273,33 @@
               <img class="signature-img" src="/img/writers/christopherr-sig.png" /><br />
               Christopher</p>
             </div>
+              
+            
+            
+              
+              
+              <p><a href="/content/2014/9/4/tiff-2014.html">Read all of Dear Cast &amp; Crew's TIFF 2014 coverage.</a></p>
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
               
             
           </div>
@@ -317,7 +388,7 @@
         html += '<div class="row imdb-info-row">';
         html += '<span class="imdb-category">Starring<br /></span><span class="imdb-data">'+ data.Actors.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
-        $('#film-info-the-dead-lands').append(html);
+        $('#film-info').append(html);
         html += '</div>';
       }
     });

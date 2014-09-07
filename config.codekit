@@ -7327,6 +7327,42 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/9\/5\/tiff-postcard-3-goodbye-to-language-34.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/9\/5\/tiff-postcard-3-goodbye-to-language-34.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2014\/9\/5\/tiff-postcard-4-st-vincent.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/9\/5\/tiff-postcard-4-st-vincent.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2014\/9\/6\/tiff-2014-day-three.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/9\/6\/tiff-2014-day-three.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2014\/9\/6\/tiff-postcard-1-the-riot-club.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/9\/6\/tiff-postcard-1-the-riot-club.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/css\/animate.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -9152,6 +9188,17 @@
 		"initialSize": 176573,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/good-ol-freda.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/good-ol-freda.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/goodbye-to-language-3d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103303,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/goodbye-to-language-3d.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/goodbye-to-language-3d.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -11059,6 +11106,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/main\/st-vincent.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 129992,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/st-vincent.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/st-vincent.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/main\/star-trek-into-darkness.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -12177,6 +12235,17 @@
 		"initialSize": 219630,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-railway-man.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-railway-man.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-riot-club.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112937,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-riot-club.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-riot-club.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -14161,6 +14230,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-300\/force-majeure.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12717,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/force-majeure.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/force-majeure.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-300\/frankenweenie.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -14432,6 +14512,17 @@
 		"initialSize": 12883,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/good-ol-freda.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/good-ol-freda.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/goodbye-to-language-3d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10854,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/goodbye-to-language-3d.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/goodbye-to-language-3d.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -16350,6 +16441,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-300\/st-vincent.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9448,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/st-vincent.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/st-vincent.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-300\/star-trek-into-darkness.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -17413,6 +17515,17 @@
 		"initialSize": 15478,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/the-railway-man.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/the-railway-man.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/the-riot-club.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11833,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/the-riot-club.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/the-riot-club.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -19177,6 +19290,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-600\/force-majeure.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33450,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/force-majeure.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/force-majeure.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-600\/frankenweenie.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -19448,6 +19572,17 @@
 		"initialSize": 29888,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/good-ol-freda.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/good-ol-freda.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/goodbye-to-language-3d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28963,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/goodbye-to-language-3d.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/goodbye-to-language-3d.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -21080,6 +21215,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-600\/St.-Vincent-Movie-Wallpaper.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25555,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/St.-Vincent-Movie-Wallpaper.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/St.-Vincent-Movie-Wallpaper.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-600\/star-trek-into-darkness.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -21923,6 +22069,17 @@
 		"initialSize": 40957,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-railway-man.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-railway-man.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-riot-club.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30336,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-riot-club.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-riot-club.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -23683,6 +23840,17 @@
 		"initialSize": 3025,
 		"inputAbbreviatedPath": "\/_site\/img\/home\/feature\/5.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/home\/feature\/5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/home\/feature\/6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3382,
+		"inputAbbreviatedPath": "\/_site\/img\/home\/feature\/6.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/home\/feature\/6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -34268,6 +34436,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/goodbye-to-language-3d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103303,
+		"inputAbbreviatedPath": "\/img\/article\/main\/goodbye-to-language-3d.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/goodbye-to-language-3d.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/goon.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -36171,6 +36350,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/st-vincent.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 129992,
+		"inputAbbreviatedPath": "\/img\/article\/main\/st-vincent.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/st-vincent.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/star-trek-into-darkness.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -37289,6 +37479,17 @@
 		"initialSize": 219630,
 		"inputAbbreviatedPath": "\/img\/article\/main\/the-railway-man.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/the-railway-man.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/main\/the-riot-club.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112937,
+		"inputAbbreviatedPath": "\/img\/article\/main\/the-riot-club.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/the-riot-club.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -39273,6 +39474,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-300\/force-majeure.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12717,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/force-majeure.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/force-majeure.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-300\/frankenweenie.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -39544,6 +39756,17 @@
 		"initialSize": 12883,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/good-ol-freda.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/good-ol-freda.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-300\/goodbye-to-language-3d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10854,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/goodbye-to-language-3d.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/goodbye-to-language-3d.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -41462,6 +41685,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-300\/st-vincent.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9448,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/st-vincent.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/st-vincent.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-300\/star-trek-into-darkness.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -42525,6 +42759,17 @@
 		"initialSize": 15478,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/the-railway-man.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/the-railway-man.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-300\/the-riot-club.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11833,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/the-riot-club.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/the-riot-club.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -44289,6 +44534,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-600\/force-majeure.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33450,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/force-majeure.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/force-majeure.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-600\/frankenweenie.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -44560,6 +44816,17 @@
 		"initialSize": 29888,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/good-ol-freda.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/good-ol-freda.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-600\/goodbye-to-language-3d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28963,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/goodbye-to-language-3d.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/goodbye-to-language-3d.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -46192,6 +46459,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-600\/St.-Vincent-Movie-Wallpaper.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25555,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/St.-Vincent-Movie-Wallpaper.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/St.-Vincent-Movie-Wallpaper.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-600\/star-trek-into-darkness.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -47035,6 +47313,17 @@
 		"initialSize": 40957,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/the-railway-man.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/the-railway-man.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-600\/the-riot-club.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30336,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/the-riot-club.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/the-riot-club.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -48795,6 +49084,17 @@
 		"initialSize": 3025,
 		"inputAbbreviatedPath": "\/img\/home\/feature\/5.jpg",
 		"outputAbbreviatedPath": "\/img\/home\/feature\/5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/home\/feature\/6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3382,
+		"inputAbbreviatedPath": "\/img\/home\/feature\/6.jpg",
+		"outputAbbreviatedPath": "\/img\/home\/feature\/6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

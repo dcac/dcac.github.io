@@ -38,6 +38,7 @@ layout: default
         {% if post.series-name == page.series-name and post.date == page.date%}
         {% assign author = site.data.authors[post.author] %}
             <div class="postcard-review">
+            <a id="{{ post.title | handleize }}"></a>
              {% include postcard-review.html %}
             </div>
         {% endif %}

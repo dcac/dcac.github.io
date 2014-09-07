@@ -1254,17 +1254,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_site\/bower_components\/jquery\/src\/event.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/event.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/min\/event-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
 	"\/_site\/bower_components\/jquery\/src\/event\/alias.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -1282,336 +1271,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/event\/support.js",
 		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/event\/min\/support-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/exports\/amd.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/exports\/amd.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/exports\/min\/amd-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/exports\/global.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/exports\/global.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/exports\/min\/global-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/intro.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/intro.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/min\/intro-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/jquery.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/jquery.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/min\/jquery-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/manipulation.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/manipulation.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/min\/manipulation-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/manipulation\/support.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/manipulation\/support.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/manipulation\/min\/support-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/manipulation\/var\/rcheckableType.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/manipulation\/var\/rcheckableType.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/manipulation\/var\/min\/rcheckableType-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/offset.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/offset.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/min\/offset-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/outro.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/outro.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/min\/outro-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/queue.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/queue.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/min\/queue-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/queue\/delay.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/queue\/delay.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/queue\/min\/delay-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/selector-native.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/selector-native.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/min\/selector-native-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/selector-sizzle.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/selector-sizzle.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/min\/selector-sizzle-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/selector.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/selector.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/min\/selector-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/serialize.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/serialize.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/min\/serialize-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/sizzle\/dist\/sizzle.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/sizzle\/dist\/sizzle.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/sizzle\/dist\/min\/sizzle-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/sizzle\/dist\/sizzle.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/sizzle\/dist\/sizzle.min.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/sizzle\/dist\/min\/sizzle.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/traversing.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/traversing.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/min\/traversing-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/traversing\/findFilter.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/traversing\/findFilter.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/traversing\/min\/findFilter-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/traversing\/var\/rneedsContext.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/traversing\/var\/rneedsContext.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/traversing\/var\/min\/rneedsContext-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/var\/arr.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/var\/arr.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/var\/min\/arr-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/var\/class2type.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/var\/class2type.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/var\/min\/class2type-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/var\/concat.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/var\/concat.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/var\/min\/concat-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/var\/hasOwn.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/var\/hasOwn.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/var\/min\/hasOwn-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/var\/indexOf.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/var\/indexOf.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/var\/min\/indexOf-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/var\/pnum.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/var\/pnum.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/var\/min\/pnum-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/var\/push.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/var\/push.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/var\/min\/push-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/var\/rnotwhite.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/var\/rnotwhite.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/var\/min\/rnotwhite-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/var\/slice.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/var\/slice.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/var\/min\/slice-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/bower_components\/jquery\/src\/var\/strundefined.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/var\/strundefined.js",
-		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/src\/var\/min\/strundefined-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7327,6 +6986,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/9\/5\/tiff-postcard-3-goodbye-to-language-34.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/9\/5\/tiff-postcard-3-goodbye-to-language-34.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2014\/9\/5\/tiff-postcard-4-st-vincent.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/9\/5\/tiff-postcard-4-st-vincent.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/css\/animate.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -9152,6 +8829,17 @@
 		"initialSize": 176573,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/good-ol-freda.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/good-ol-freda.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/goodbye-to-language-3d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103303,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/goodbye-to-language-3d.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/goodbye-to-language-3d.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -11055,6 +10743,17 @@
 		"initialSize": 138796,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/spring-breakers.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/spring-breakers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/st-vincent.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 129992,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/st-vincent.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/st-vincent.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -13633,6 +13332,358 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-300\/cloudburst.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16012,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/cloudburst.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/cloudburst.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/cloudy-with-a-chance-of-meatballs-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21527,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/cloudy-with-a-chance-of-meatballs-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/cloudy-with-a-chance-of-meatballs-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/compliance.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14522,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/compliance.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/compliance.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/contracted.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10360,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/contracted.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/contracted.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/cosmopolis.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10744,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/cosmopolis.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/cosmopolis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/cutie-and-the-boxer.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26106,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/cutie-and-the-boxer.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/cutie-and-the-boxer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/dallas-buyers-club.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19581,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/dallas-buyers-club.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/dallas-buyers-club.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/dark-shadows.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10513,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/dark-shadows.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/dark-shadows.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/dawn-of-the-planet-of-the-apes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14958,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/dawn-of-the-planet-of-the-apes.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/dawn-of-the-planet-of-the-apes.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/dear-robin-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8986,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/dear-robin-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/dear-robin-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/deliver-us-from-evil.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11873,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/deliver-us-from-evil.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/deliver-us-from-evil.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/despicable-me-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17283,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/despicable-me-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/despicable-me-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/devils-knot.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13983,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/devils-knot.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/devils-knot.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/dirty-wars-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29350,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/dirty-wars-4.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/dirty-wars-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/dirty-wars-copy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28909,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/dirty-wars-copy.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/dirty-wars-copy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/dirty-wars.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29694,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/dirty-wars.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/dirty-wars.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/divergent.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20941,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/divergent.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/divergent.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/django-unchained.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15962,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/django-unchained.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/django-unchained.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/don-jon.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12223,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/don-jon.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/don-jon.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/dont-you-forget-about-me.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17848,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/dont-you-forget-about-me.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/dont-you-forget-about-me.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/downhill-racer.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13859,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/downhill-racer.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/downhill-racer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/dream-house.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12549,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/dream-house.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/dream-house.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/dredd.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17157,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/dredd.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/dredd.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/drug-war.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16713,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/drug-war.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/drug-war.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/early-schwarzenegger.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12964,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/early-schwarzenegger.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/early-schwarzenegger.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/earth-to-echo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18863,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/earth-to-echo.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/earth-to-echo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/eddie-the-sleepwalking-cannibal.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12139,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/eddie-the-sleepwalking-cannibal.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/eddie-the-sleepwalking-cannibal.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/edge-of-tomorrow.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15160,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/edge-of-tomorrow.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/edge-of-tomorrow.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/edwin-boyd-citizen-gangster.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15766,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/edwin-boyd-citizen-gangster.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/edwin-boyd-citizen-gangster.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/elysium.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21964,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/elysium.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/elysium.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/end-of-watch.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14549,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/end-of-watch.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/end-of-watch.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/endless-love.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33839,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/endless-love.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/endless-love.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-300\/enemy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -13805,6 +13856,17 @@
 		"initialSize": 17138,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/for-a-good-time-call.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/for-a-good-time-call.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/force-majeure.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12717,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/force-majeure.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/force-majeure.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -14080,6 +14142,17 @@
 		"initialSize": 12883,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/good-ol-freda.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/good-ol-freda.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/goodbye-to-language-3d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10854,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/goodbye-to-language-3d.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/goodbye-to-language-3d.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15994,6 +16067,17 @@
 		"initialSize": 14042,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/spring-breakers.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/spring-breakers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/st-vincent.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9448,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/st-vincent.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/st-vincent.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -18825,6 +18909,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-600\/force-majeure.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33450,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/force-majeure.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/force-majeure.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-600\/frankenweenie.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -19096,6 +19191,17 @@
 		"initialSize": 29888,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/good-ol-freda.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/good-ol-freda.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/goodbye-to-language-3d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28963,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/goodbye-to-language-3d.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/goodbye-to-language-3d.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -20724,6 +20830,17 @@
 		"initialSize": 32807,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/spring-breakers.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/spring-breakers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/St.-Vincent-Movie-Wallpaper.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25555,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/St.-Vincent-Movie-Wallpaper.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/St.-Vincent-Movie-Wallpaper.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -34105,6 +34222,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/goodbye-to-language-3d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103303,
+		"inputAbbreviatedPath": "\/img\/article\/main\/goodbye-to-language-3d.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/goodbye-to-language-3d.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/goon.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -36008,6 +36136,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/st-vincent.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 129992,
+		"inputAbbreviatedPath": "\/img\/article\/main\/st-vincent.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/st-vincent.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/star-trek-into-darkness.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -37126,6 +37265,17 @@
 		"initialSize": 219630,
 		"inputAbbreviatedPath": "\/img\/article\/main\/the-railway-man.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/the-railway-man.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/main\/the-riot-club.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112937,
+		"inputAbbreviatedPath": "\/img\/article\/main\/the-riot-club.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/the-riot-club.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -39110,6 +39260,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-300\/force-majeure.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12717,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/force-majeure.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/force-majeure.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-300\/frankenweenie.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -39381,6 +39542,17 @@
 		"initialSize": 12883,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/good-ol-freda.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/good-ol-freda.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-300\/goodbye-to-language-3d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10854,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/goodbye-to-language-3d.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/goodbye-to-language-3d.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -41299,6 +41471,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-300\/st-vincent.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9448,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/st-vincent.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/st-vincent.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-300\/star-trek-into-darkness.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -42362,6 +42545,17 @@
 		"initialSize": 15478,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/the-railway-man.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/the-railway-man.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-300\/the-riot-club.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11833,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/the-riot-club.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/the-riot-club.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -44126,6 +44320,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-600\/force-majeure.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33450,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/force-majeure.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/force-majeure.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-600\/frankenweenie.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -44397,6 +44602,17 @@
 		"initialSize": 29888,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/good-ol-freda.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/good-ol-freda.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-600\/goodbye-to-language-3d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28963,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/goodbye-to-language-3d.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/goodbye-to-language-3d.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -46029,6 +46245,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-600\/St.-Vincent-Movie-Wallpaper.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25555,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/St.-Vincent-Movie-Wallpaper.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/St.-Vincent-Movie-Wallpaper.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-600\/star-trek-into-darkness.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -46872,6 +47099,17 @@
 		"initialSize": 40957,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/the-railway-man.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/the-railway-man.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-600\/the-riot-club.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30336,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/the-riot-club.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/the-riot-club.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -48632,6 +48870,17 @@
 		"initialSize": 3025,
 		"inputAbbreviatedPath": "\/img\/home\/feature\/5.jpg",
 		"outputAbbreviatedPath": "\/img\/home\/feature\/5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/home\/feature\/6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3382,
+		"inputAbbreviatedPath": "\/img\/home\/feature\/6.jpg",
+		"outputAbbreviatedPath": "\/img\/home\/feature\/6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
