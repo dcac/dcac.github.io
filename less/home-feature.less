@@ -53,6 +53,9 @@
   bottom:25px;
   width: 100%;
   text-align: center;
+  @media @mobile{
+    bottom: 0;
+  }
 }
 #home-feature ul{
   list-style: none;
@@ -64,25 +67,31 @@
   display: inline-block;
   width:90px;
   height:90px;
-  margin: 0 7px;
+  margin: 0 4px;
   background: url('../img/home/feature/calendar-square.svg') no-repeat;
   position: relative;
   margin-bottom:15px;
+  .text-shadow;
   @media @mobile{
     width: 45px;
+  height:45px;
+  margin-bottom:7px;
   }
 }
 #home-feature li.future{
   background: url('../img/home/feature/calendar-square-future.svg') no-repeat;
+  .text-shadow;
 }
 #home-feature li.today{
   width:120px;
   height:120px;
-  margin: 0 3px;
+  margin: 0 2px;
   background: url('../img/home/feature/calendar-square-today.svg') no-repeat;
   position: relative;
+  .text-shadow;
   @media @mobile{
-    width: 45px;
+    width: 60px;
+    height:60px;
   }
 }
 #home-feature li:hover{
@@ -118,6 +127,12 @@ li > a:hover{
   position: absolute;
   right:25px;
   top: 25px;
+  @media @mobile{
+    font-size: 20px;
+    line-height: 20px;
+  right:12px;
+  top: 12px;
+  }
 }
 #home-feature li.today span.month{
   font-family: @sans-serif;
@@ -129,6 +144,12 @@ li > a:hover{
   left:25px;
   bottom: 25px;
   z-index: 1;
+  @media @mobile{
+    font-size: 20px;
+    line-height: 20px;
+    right:5px;
+    top: 5px;
+  }
 }
 #home-feature li.today img{
   margin: 0;
@@ -137,6 +158,12 @@ li > a:hover{
   position: absolute;
   top:16px;
   left: 19px;
+  @media @mobile{
+    width:43px;
+    height:43px;
+    top:8px;
+    left: 9px;
+  }
 }
 #home-feature li span.day{
   font-family: @sans-serif;
@@ -147,6 +174,13 @@ li > a:hover{
   right:10px;
   top: 10px;
   z-index: 1;
+  .text-shadow;
+  @media @mobile{
+    font-size: 20px;
+    line-height: 20px;
+    right:5px;
+    top: 5px;
+  }
 }
 #home-feature li span.month{
   font-family: @sans-serif;
@@ -159,6 +193,12 @@ li > a:hover{
   bottom: 10px;
   z-index: 1;
   .text-shadow;
+  @media @mobile{
+    font-size: 8px;
+    line-height: 8px;
+    left:5px;
+    bottom: 5px;
+  }
 }
 #home-feature p{
   font-family: @sans-serif;
@@ -170,4 +210,9 @@ li > a:hover{
   margin-top: @10px;
   margin-bottom: 0;
   .text-shadow;
+  @media @mobile{
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: normal;
+  }
 }

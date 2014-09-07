@@ -2988,6 +2988,11 @@ div.author {
   width: 100%;
   text-align: center;
 }
+@media only screen and (max-width: 640px) {
+  #home-feature .link-container {
+    bottom: 0;
+  }
+}
 #home-feature ul {
   list-style: none;
   text-align: center;
@@ -2998,29 +3003,35 @@ div.author {
   display: inline-block;
   width: 90px;
   height: 90px;
-  margin: 0 7px;
+  margin: 0 4px;
   background: url('../img/home/feature/calendar-square.svg') no-repeat;
   position: relative;
   margin-bottom: 15px;
+  text-shadow: 0 0 0.125rem #333333;
 }
 @media only screen and (max-width: 640px) {
   #home-feature li {
     width: 45px;
+    height: 45px;
+    margin-bottom: 7px;
   }
 }
 #home-feature li.future {
   background: url('../img/home/feature/calendar-square-future.svg') no-repeat;
+  text-shadow: 0 0 0.125rem #333333;
 }
 #home-feature li.today {
   width: 120px;
   height: 120px;
-  margin: 0 3px;
+  margin: 0 2px;
   background: url('../img/home/feature/calendar-square-today.svg') no-repeat;
   position: relative;
+  text-shadow: 0 0 0.125rem #333333;
 }
 @media only screen and (max-width: 640px) {
   #home-feature li.today {
-    width: 45px;
+    width: 60px;
+    height: 60px;
   }
 }
 #home-feature li:hover {
@@ -3057,6 +3068,14 @@ li > a:hover {
   right: 25px;
   top: 25px;
 }
+@media only screen and (max-width: 640px) {
+  #home-feature li.today span.day {
+    font-size: 20px;
+    line-height: 20px;
+    right: 12px;
+    top: 12px;
+  }
+}
 #home-feature li.today span.month {
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 12px;
@@ -3068,6 +3087,14 @@ li > a:hover {
   bottom: 25px;
   z-index: 1;
 }
+@media only screen and (max-width: 640px) {
+  #home-feature li.today span.month {
+    font-size: 20px;
+    line-height: 20px;
+    right: 5px;
+    top: 5px;
+  }
+}
 #home-feature li.today img {
   margin: 0;
   padding: 0;
@@ -3075,6 +3102,14 @@ li > a:hover {
   position: absolute;
   top: 16px;
   left: 19px;
+}
+@media only screen and (max-width: 640px) {
+  #home-feature li.today img {
+    width: 43px;
+    height: 43px;
+    top: 8px;
+    left: 9px;
+  }
 }
 #home-feature li span.day {
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
@@ -3085,6 +3120,15 @@ li > a:hover {
   right: 10px;
   top: 10px;
   z-index: 1;
+  text-shadow: 0 0 0.125rem #333333;
+}
+@media only screen and (max-width: 640px) {
+  #home-feature li span.day {
+    font-size: 20px;
+    line-height: 20px;
+    right: 5px;
+    top: 5px;
+  }
 }
 #home-feature li span.month {
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
@@ -3098,6 +3142,14 @@ li > a:hover {
   z-index: 1;
   text-shadow: 0 0 0.125rem #333333;
 }
+@media only screen and (max-width: 640px) {
+  #home-feature li span.month {
+    font-size: 8px;
+    line-height: 8px;
+    left: 5px;
+    bottom: 5px;
+  }
+}
 #home-feature p {
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 20px;
@@ -3108,6 +3160,13 @@ li > a:hover {
   margin-top: 0.625rem;
   margin-bottom: 0;
   text-shadow: 0 0 0.125rem #333333;
+}
+@media only screen and (max-width: 640px) {
+  #home-feature p {
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: normal;
+  }
 }
 .postcard-review {
   margin-bottom: 2.8125rem;
