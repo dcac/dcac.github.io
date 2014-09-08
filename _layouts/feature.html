@@ -33,8 +33,9 @@ layout: default
         <div class="row">
           <div class="large-2 medium-2 columns side-spacer hide-for-small-only"></div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            {% if page.addressee != "" %}
-            <p class="intro hide-for-small">Dear {{ page.addressee }},</p>
+            {% if page.addressee %}
+            {% assign name = page.addressee | split: ' ' %}
+            <p class="intro hide-for-small">Dear {{ name.first }},</p>
             {% endif %}
             {% assign author-sig = page.author %}{{ content | replace_first: '<p>','<p class="intro">' }}
             {% include signature.html %}

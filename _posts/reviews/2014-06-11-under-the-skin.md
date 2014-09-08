@@ -14,7 +14,7 @@ categories:
 title: "Under the Skin"
 date: 2014-06-11 13:34
 comments: true
-tags: [Arthouse, drama, Letters, sci-fi]
+tags: [Arthouse, drama, Letters, sci-fi,Scarlett Johansson]
 ---
 They say cinematography is the art of painting with light. Until the last decade, that meant bulbs were your brushes, kilowatts your oils, celluloid your canvas. They were combined with care and purpose to elicit a certain mood. But with the advent of incredible low-light digital cameras, many filmmakers now opt to find the light rather than create it (rendering your job obsolete). Yet every once in a while, a film somehow manages to combine both techniques to stunning effect.
 

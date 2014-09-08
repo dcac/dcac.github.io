@@ -119,6 +119,9 @@ function winResized() {
     reviewSidebar.css({
       width: filmRow.width()
     });
+    filmInfo.css({
+      width: filmRow.width()
+    });
   });
 
 
@@ -152,7 +155,8 @@ function winResized() {
         filmInfo.css({
           position:"absolute",
           top:"0",
-          bottom: "auto"
+          bottom: "auto",
+          width: reviewSidebar.width()
         });
       }
     },{
@@ -169,7 +173,8 @@ function winResized() {
         filmInfo.css({
           position:"absolute",
           bottom:"0",
-          top: "auto"
+          top: "auto",
+          width: reviewSidebar.width()
         });
       }
       else
@@ -187,14 +192,16 @@ function winResized() {
           filmInfo.css({
             position:"absolute",
             top:"0",
-            bottom: "auto"
+            bottom: "auto",
+          width: reviewSidebar.width()
           });
         }
         else {
           $('#film-info').css({
             position:"absolute",
             top:"auto",
-            bottom: "0"
+            bottom: "0",
+          width: reviewSidebar.width()
           });
         }
       }//alert($.waypoints('viewportHeight')-$("#film-row").height()-765);

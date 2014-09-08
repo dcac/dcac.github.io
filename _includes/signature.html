@@ -1,6 +1,7 @@
 {% capture result %}{% contentblock signature %}{% endcapture %}
               {% if result != '' %}
             <div class="signature-block" style="background-image:url(/img/writers/{{author.signature}})">
+              {% assign img = author.signature %}
               {{ result | replace_first: '<p>','<p class="signature-block-signoff">'}}
             </div>
               {% else %}

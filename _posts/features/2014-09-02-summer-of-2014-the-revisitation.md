@@ -5,7 +5,7 @@ title: "Summer of 2014: The Revisitation"
 image: summer-of-2014-the-revisitation.jpg
 excerpt: "A second look at the Summer of 2014 to see if it really will only be remembered  as the year 13-year old boys finally seized total control of our cineplexes."
 author: christopherr
-addressee: "Summer of 2014"
+addressee: 
 categories:
   - essays
   - features

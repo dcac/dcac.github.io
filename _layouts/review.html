@@ -50,7 +50,8 @@ layout: default
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            <p class="intro hide-for-small">Dear {{ page.addressee }},</p>
+            {% assign name = page.addressee | split: ' ' %}
+            <p class="intro hide-for-small">Dear {{ name.first }},</p>
             {{ content | replace_first: '<p>','<p class="intro">' }}
             {% if author.bio %}{% include signature.html %}{% endif %}
             {% contentblock postscript %}

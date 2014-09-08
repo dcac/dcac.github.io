@@ -2,13 +2,12 @@
 layout: feature
 title: "He Said/She Said: Dissecting the Gender Politics of Under the Skin"
 image: he-she-under-the-skin.jpg
-addressee: Readers
 date: 2014-07-31 13:45
 author: all
 comments: true
-tags: [Essays, gender, postcard, Scarlett Johansson, sci-fi, under the skin, women]
+tags: [Essays, gender, postcard, Scarlett Johansson, sci-fi, Under The Skin, women]
 ---
-A special Dear Cast & Crew postcard exchange in which **Christopher Redmond** and **Di Golding** dissect and determine if the mores more than meets the eye to Jonathan Glazer's lats film.
+A special Dear Cast & Crew postcard exchange in which **Christopher Redmond** and **Di Golding** dissect and determine if there's more than meets the eye to Jonathan Glazer's lats film.
 
 _**Warning**: Contains spoilers._
 
