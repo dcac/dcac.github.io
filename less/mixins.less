@@ -1,13 +1,13 @@
 //SVG Fallbck mixin
-.make-bg-svg(@name,@x:0,@y:0,@repeat:no-repeat) {
+.make-bg-svg(@name,@x:0,@y:0,@repeat:no-repeat,@color:transparent) {
 
   @svg: ~"../img/@{name}.svg";
   @png: ~"../img/@{name}.png";
   //height: 200px;
-  background: transparent url(@svg) @repeat @x @y;
+  background: @color url(@svg) @repeat @x @y;
 
   .no-svg & {
-    background: transparent url(@png) @repeat @x @y;
+    background: @color url(@png) @repeat @x @y;
   }
 }
 //Headers
