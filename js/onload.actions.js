@@ -19,9 +19,9 @@ function winResized() {
     var siderow = $("#side-row");
     //var side = $("#side-column");
     var sidebar = $("#home-sidebar");
-    var gridWidth = $(".post-image").width();
+    var gridWidth = $(".post-image-home").width();
     var winHeight = ($.waypoints('viewportHeight')-65);
-    
+    //alert(gridWidth);
     //Make sure the sidebar width is tied to the grid on resize
   
     siderow.css({
@@ -38,11 +38,11 @@ function winResized() {
           sidebar.css({
             position:"fixed",
             top: "65px",
-            width: gridWidth
+            width: $(".post-image-home").width()
           });
           siderow.css({
             //height: row.height(),
-            width: gridWidth
+            width: $(".post-image-home").width()
           });
         }
         else if (direction === 'up') {
@@ -50,11 +50,11 @@ function winResized() {
             position:"absolute",
             top: "0",
             bottom: "auto",
-            width: gridWidth
+            width: $(".post-image-home").width()
           });
           siderow.css({
             //height: row.height(),
-            width: gridWidth
+            width: $(".post-image-home").width()
           });
         }
       },{
@@ -66,18 +66,23 @@ function winResized() {
             position:"absolute",
             bottom: "0",
             top: "auto",
-            width: gridWidth
+            width: $(".post-image-home").width()
           });
           siderow.css({
             //height: row.height(),
-            width: gridWidth
+            width: $(".post-image-home").width()
           });
         }
         else
         if (direction === 'up') {
           sidebar.css({
             position:"fixed",
-            top: "65px"
+            top: "65px",
+            width: $(".post-image-home").width()
+          });
+          siderow.css({
+            //height: row.height(),
+            width: $(".post-image-home").width()
           });
         }
       },{
