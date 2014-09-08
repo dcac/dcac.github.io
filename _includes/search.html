@@ -1,0 +1,55 @@
+<!-- Search --> 
+    <script>
+      function resetForm($form) {
+        $form.find('input:text, input:password, input:file, select, textarea').val('');
+        $form.find('input:radio, input:checkbox')
+        .removeAttr('checked').removeAttr('selected');
+      }
+      $("#search-form").submit(function(e) {
+          e.preventDefault();
+      });
+      $(document).keyup(function(e){
+        if(e.keyCode === 27) {
+          $("#search-modal").css("display","none");
+          $("body").css("overflow","auto");
+          resetForm($('#search'));
+        }
+      });
+      $('#nav-toggle').click(function(){
+        $("#menu-left").trigger("open");
+            $('#nav-button-container').css({'display':'none'});
+            $('#film-info').fadeOut('fast');
+            $('#side-row').fadeOut('fast');
+      });
+      $('#menu-toggle-top').click(function(){
+        $("#menu-left").trigger("open");
+        $('#film-info').fadeOut('fast');
+        $('#side-row').fadeOut('fast');
+      });
+      $("#menu-left")
+       .mmenu()
+       //.trigger( "open.mm" )
+       .on(
+          "closed.mm",
+          function()
+          {
+            $('#nav-button-container').fadeIn('slow');
+            $('#film-info').fadeIn('slow');
+            $('#side-row').fadeIn('slow');
+            $('#body-text').waypoint(function(){
+              $('#nav-button-container').css({'display':'none'});
+            });
+          }
+       );
+      $('#side-search-toggle,#footer-search-toggle,#top-search-toggle,#mini-top-search-toggle').click(function(){
+        $("#search-modal").css("display","block");
+        $('#nav-button-container').css({'display':'none'});
+        $("body").css("overflow","hidden");
+      });
+      $('button.close-x').click(function(){
+        $("#search-modal").css("display","none");
+        $("body").css("overflow","auto");
+        resetForm($('#search'));
+      });
+      
+    </script>

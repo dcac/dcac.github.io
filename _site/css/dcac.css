@@ -2214,7 +2214,6 @@ ol {
   width: 100%;
   background-repeat: no-repeat;
   display: block;
-  height: 80px;
 }
 #review-copy p.signature-block-signoff {
   display: block;
@@ -3008,10 +3007,13 @@ div.author {
   width: 90px;
   height: 90px;
   margin: 0 4px;
-  background: url('../img/home/feature/calendar-square.svg') no-repeat;
+  background: transparent url(../img/home/feature/calendar-square.svg) no-repeat 0 0;
   position: relative;
   margin-bottom: 15px;
   text-shadow: 0 0 0.125rem #333333;
+}
+.no-svg #home-feature li {
+  background: transparent url(../img/home/feature/calendar-square.png) no-repeat 0 0;
 }
 @media only screen and (max-width: 640px) {
   #home-feature li {
@@ -3021,16 +3023,22 @@ div.author {
   }
 }
 #home-feature li.future {
-  background: url('../img/home/feature/calendar-square-future.svg') no-repeat;
+  background: transparent url(../img/home/feature/calendar-square-future.svg) no-repeat 0 0;
   text-shadow: 0 0 0.125rem #333333;
+}
+.no-svg #home-feature li.future {
+  background: transparent url(../img/home/feature/calendar-square-future.png) no-repeat 0 0;
 }
 #home-feature li.today {
   width: 120px;
   height: 120px;
   margin: 0 2px;
-  background: url('../img/home/feature/calendar-square-today.svg') no-repeat;
+  background: transparent url(../img/home/feature/calendar-square-today.svg) no-repeat 0 0;
   position: relative;
   text-shadow: 0 0 0.125rem #333333;
+}
+.no-svg #home-feature li.today {
+  background: transparent url(../img/home/feature/calendar-square-today.png) no-repeat 0 0;
 }
 @media only screen and (max-width: 640px) {
   #home-feature li.today {
@@ -3041,20 +3049,29 @@ div.author {
 #home-feature li:hover {
   background-color: rgba(255, 255, 255, 0.5);
   color: #636467;
-  background-image: url('../img/home/feature/calendar-square-grey.svg');
+  background: transparent url(../img/home/feature/calendar-square-grey.svg) no-repeat 0 0;
   text-shadow: 0 0 0 #333333;
+}
+.no-svg #home-feature li:hover {
+  background: transparent url(../img/home/feature/calendar-square-grey.png) no-repeat 0 0;
 }
 #home-feature li.today:hover {
   background-color: transparent;
   color: #ffffff;
-  background-image: url('../img/home/feature/calendar-square-today-grey.svg');
+  background: transparent url(../img/home/feature/calendar-square-today-grey.svg) no-repeat 0 0;
   text-shadow: 0 0 0 #333333;
+}
+.no-svg #home-feature li.today:hover {
+  background: transparent url(../img/home/feature/calendar-square-today-grey.png) no-repeat 0 0;
 }
 #home-feature li.future:hover {
   background-color: transparent;
   color: #ffffff;
-  background-image: url('../img/home/feature/calendar-square-future.svg');
+  background: transparent url(../img/home/feature/calendar-square-future.svg) no-repeat 0 0;
   text-shadow: 0 0 0 #333333;
+}
+.no-svg #home-feature li.future:hover {
+  background: transparent url(../img/home/feature/calendar-square-future.png) no-repeat 0 0;
 }
 li > a {
   display: block;

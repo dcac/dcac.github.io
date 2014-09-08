@@ -68,7 +68,7 @@
   width:90px;
   height:90px;
   margin: 0 4px;
-  background: url('../img/home/feature/calendar-square.svg') no-repeat;
+  .make-bg-svg('../img/home/feature/calendar-square');
   position: relative;
   margin-bottom:15px;
   .text-shadow;
@@ -79,14 +79,14 @@
   }
 }
 #home-feature li.future{
-  background: url('../img/home/feature/calendar-square-future.svg') no-repeat;
+  .make-bg-svg('../img/home/feature/calendar-square-future');
   .text-shadow;
 }
 #home-feature li.today{
   width:120px;
   height:120px;
   margin: 0 2px;
-  background: url('../img/home/feature/calendar-square-today.svg') no-repeat;
+  .make-bg-svg('../img/home/feature/calendar-square-today');
   position: relative;
   .text-shadow;
   @media @mobile{
@@ -97,19 +97,19 @@
 #home-feature li:hover{
   background-color: rgba(255,255,255,.5);
   color: #636467;
-  background-image: url('../img/home/feature/calendar-square-grey.svg');
+  .make-bg-svg('../img/home/feature/calendar-square-grey');
   .text-shadow-none;
 }
 #home-feature li.today:hover{
   background-color: transparent;
   color: @white;
-  background-image: url('../img/home/feature/calendar-square-today-grey.svg');
+  .make-bg-svg('../img/home/feature/calendar-square-today-grey');
   .text-shadow-none;
 }
 #home-feature li.future:hover{
   background-color: transparent;
   color: @white;
-  background-image: url('../img/home/feature/calendar-square-future.svg');
+  .make-bg-svg('../img/home/feature/calendar-square-future');
   .text-shadow-none;
 }
 li > a{

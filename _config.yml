@@ -31,19 +31,10 @@ defaults:
       layout: review
       grid-display: true
       stars: false
-  -
-    scope:
-      path: ""
-      type: "post"
-    values:
-      comments: true
-        -
-    scope:
-      path: ""
-      type: "post"
-    values:
       addressee: false
-      
+      comments: true
+      split_name: true
+
 sitemap:
     file: "/sitemap.xml"
     exclude:
