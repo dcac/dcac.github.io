@@ -1,5 +1,6 @@
 ---
 grid-display: false
+exclude_from_search: true
 layout: review
 imdb: tt3399916
 categories: 
