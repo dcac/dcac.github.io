@@ -871,6 +871,10 @@ a.logo-link {
   font-size: 0.875rem;
   color: #939598;
 }
+a.top-search-toggle:hover {
+  font-size: 0.875rem;
+  color: #000;
+}
 section.top-nav ul {
   position: absolute;
   font-size: 0.75rem;
@@ -3072,13 +3076,13 @@ div.author {
 .no-svg #home-feature li.future:hover {
   background: transparent url(../img/home/feature/calendar-square-future.png) no-repeat 0 0;
 }
-li > a {
+#home-feature li > a {
   display: block;
   width: 100%;
   height: 100%;
   color: #ffffff;
 }
-li > a:hover * {
+#home-feature li > a:hover * {
   color: #f4efcb;
   text-shadow: 0 0 0 #333333;
 }

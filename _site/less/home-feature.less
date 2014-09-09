@@ -95,8 +95,8 @@
   }
 }
 #home-feature li:hover{
-   color: #f4efcb;
-  .make-bg-svg('../img/home/feature/calendar-square-over');
+  color: #f4efcb;
+  .make-bg-svg('../img/home/feature/calendar-square-over',0,0,no-repeat,rgba(255,255,255,.25));
   .text-shadow-none;
 }
 #home-feature li.today:hover{
@@ -111,13 +111,13 @@
   .make-bg-svg('../img/home/feature/calendar-square-future');
   .text-shadow-none;
 }
-li > a{
+#home-feature  li > a{
   display: block;
   width:100%;
   height:100%;
   color: @white;
 }
-li > a:hover *{
+#home-feature  li > a:hover *{
   color: #f4efcb;
   .text-shadow-none;
 }
@@ -157,6 +157,7 @@ li > a:hover *{
 #home-feature li img{
   margin: 0;
   padding: 0;
+  z-index: 0;
   position: absolute;
   top:2px;
   left: 2px;
