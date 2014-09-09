@@ -3047,21 +3047,21 @@ div.author {
   }
 }
 #home-feature li:hover {
-  color: #636467;
-  background: rgba(255, 255, 255, 0.5) url(../img/home/feature/calendar-square-grey.svg) no-repeat 0 0;
+  color: #f4efcb;
+  background: transparent url(../img/home/feature/calendar-square-over.svg) no-repeat 0 0;
   text-shadow: 0 0 0 #333333;
 }
 .no-svg #home-feature li:hover {
-  background: rgba(255, 255, 255, 0.5) url(../img/home/feature/calendar-square-grey.png) no-repeat 0 0;
+  background: transparent url(../img/home/feature/calendar-square-over.png) no-repeat 0 0;
 }
 #home-feature li.today:hover {
   background-color: transparent;
   color: #ffffff;
-  background: transparent url(../img/home/feature/calendar-square-today-grey.svg) no-repeat 0 0;
+  background: transparent url(../img/home/feature/calendar-square-today-over.svg) no-repeat 0 0;
   text-shadow: 0 0 0 #333333;
 }
 .no-svg #home-feature li.today:hover {
-  background: transparent url(../img/home/feature/calendar-square-today-grey.png) no-repeat 0 0;
+  background: transparent url(../img/home/feature/calendar-square-today-over.png) no-repeat 0 0;
 }
 #home-feature li.future:hover {
   background-color: transparent;
@@ -3079,7 +3079,7 @@ li > a {
   color: #ffffff;
 }
 li > a:hover * {
-  color: #636467;
+  color: #f4efcb;
   text-shadow: 0 0 0 #333333;
 }
 #home-feature li.today span.day {
@@ -3122,7 +3122,6 @@ li > a:hover * {
 #home-feature li img {
   margin: 0;
   padding: 0;
-  z-index: 0;
   position: absolute;
   top: 2px;
   left: 2px;
