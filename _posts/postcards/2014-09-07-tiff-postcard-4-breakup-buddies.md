@@ -25,4 +25,4 @@ My only real complaint is that the subtitles were too fast; there’s so much wi
 It was also a soothing balm to my own broken heart. 
 
 **Sincerely,**  
-Diane Carol Harding
+Diane Carol Harder

@@ -27,7 +27,7 @@
             <li class="search" id="mini-top-search-toggle"><a href="#" class="mini-search-link"><i class="fa fa-search"></i></a></li>
           </ul>
           <ul class="left">
-            {% for post in site.categories[reviews'] limit:1 %}
+            {% for post in site.categories['reviews'] limit:1 %}
             {% assign author = site.data.authors[post.author] %}
             <li><a href="{{ post.url }}" class="latest-review"><strong>Latest review: </strong><em>{{ post.title }}</em> - Dear {{ post.addressee }}, {{ post.position }}</a></li>
             {% endfor %}

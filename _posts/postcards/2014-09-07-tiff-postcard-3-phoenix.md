@@ -21,4 +21,4 @@ A lot of people probably roll their eyes when they hear about another Holocaust 
 Yes, the Holocaust is the setup. The main character is a survivor of Auschwitz, and the film never lets us forget it. But that’s not really what the story is about. It's about the recovery, the haunting, and the feelings of betrayal survivors were forced to deal with in the midst of their normal, everyday lives. All of which is masterfully handled, both in the performances and the cinematography. Heavy stuff, but I was definitely glad that I spent my Saturday morning at the theater.
 
 **Sincerely,**  
-Diane Carol Harding
+Diane Carol Harder
