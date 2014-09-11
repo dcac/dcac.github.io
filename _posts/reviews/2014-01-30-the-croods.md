@@ -1,5 +1,6 @@
 ---
 published: true
+imdb: tt0481499
 image: the-croods.jpg
 author: jaredy
 stars: 2.5
@@ -22,13 +23,13 @@ It's a testament to how far the digital arts have come in the last two decades t
 
 And now you've given us _The Croods._
 
- But, wait: I'm not using the term mediocre as a pejorative. Sure, mediocre is a synonym for undistinguished or unexceptional, but it's easy to forget that distinction and exception are rare feats, and not always what art aspires to. Indeed, mediocrity has its advantages.
+But, wait: I'm not using the term mediocre as a pejorative. Sure, mediocre is a synonym for undistinguished or unexceptional, but it's easy to forget that distinction and exception are rare feats, and not always what art aspires to. Indeed, mediocrity has its advantages.
 
 While mediocrity might be a foreign concept to someone like you, it's not new to contemporary animated family films. DreamWorks Animation, in particular. One of the reasons they've never been able to replicate Pixar's critical and financial success is that they don't seem to subscribe to auteur theory. Instead, they develop their projects the same way a toy company develops new products. In the case of The _Croods_, you were just one of five screenwriters (and who knows how many more punch-up artists) meddling with this script. By contrast, it only took two people - you and your first wife, Connie Booth - to write every single episode of _Fawlty Towers_. In this sense, DreamWorks Animation is a sort of mediocrity factory; of the twenty-seven films they've released since 1998, only one, _How To Train Your Dragon_, has found the sort of unanimous acclaim Pixar regularly enjoyed in its pre-sequel heyday.
 
 So, how did you end up mixed up with them?
 
-My understanding is that it began with an adaptation of Roald Dahl's [The Twits][3]. And from there evolved into an idea for a caveman buddy-flick. Only Hollywood's special brand of tinkering could have mutated that into what we get onscreen in _The Croods_: a generic generational drama about a parent who wants one thing and a child who wants another, complete with a foul-mouthed granny, a sarcastic pet lemur, and a strong-willed, stereotype-breaking female lead character who nonetheless goes weak-kneed over a handsome fella and squeals with delight over a pair of shoes.
+My understanding is that it began with an adaptation of Roald Dahl's *[The Twits][3]*. And from there evolved into an idea for a caveman buddy-flick. Only Hollywood's special brand of tinkering could have mutated that into what we get onscreen in _The Croods_: a generic generational drama about a parent who wants one thing and a child who wants another, complete with a foul-mouthed granny, a sarcastic pet lemur, and a strong-willed, stereotype-breaking female lead character who nonetheless goes weak-kneed over a handsome fella and squeals with delight over a pair of shoes.
 
    [3]: http://en.wikipedia.org/wiki/The_Twits
 

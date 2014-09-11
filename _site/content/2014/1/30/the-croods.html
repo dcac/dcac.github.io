@@ -178,7 +178,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/9/10/as-above-so-below.html" class="latest-review"><strong>Latest review: </strong><em>As Above So Below</em> - Dear Eric Viellerobe, Set Designer</a></li>
+            <li><a href="/content/2014/9/4/as-above-so-below.html" class="latest-review"><strong>Latest review: </strong><em>As Above So Below</em> - Dear Eric Viellerobe, Set Designer</a></li>
             
           </ul>
         </section>
@@ -266,7 +266,7 @@
 
 <p>So, how did you end up mixed up with them?</p>
 
-<p>My understanding is that it began with an adaptation of Roald Dahl&#39;s <a href="http://en.wikipedia.org/wiki/The_Twits">The Twits</a>. And from there evolved into an idea for a caveman buddy-flick. Only Hollywood&#39;s special brand of tinkering could have mutated that into what we get onscreen in <em>The Croods</em>: a generic generational drama about a parent who wants one thing and a child who wants another, complete with a foul-mouthed granny, a sarcastic pet lemur, and a strong-willed, stereotype-breaking female lead character who nonetheless goes weak-kneed over a handsome fella and squeals with delight over a pair of shoes.</p>
+<p>My understanding is that it began with an adaptation of Roald Dahl&#39;s <em><a href="http://en.wikipedia.org/wiki/The_Twits">The Twits</a></em>. And from there evolved into an idea for a caveman buddy-flick. Only Hollywood&#39;s special brand of tinkering could have mutated that into what we get onscreen in <em>The Croods</em>: a generic generational drama about a parent who wants one thing and a child who wants another, complete with a foul-mouthed granny, a sarcastic pet lemur, and a strong-willed, stereotype-breaking female lead character who nonetheless goes weak-kneed over a handsome fella and squeals with delight over a pair of shoes.</p>
 
 <p>But I was talking about the advantages of mediocrity, wasn&#39;t I?</p>
 
@@ -406,12 +406,12 @@
     //get the movie info from IMDB
     $.ajax({
       
-      url: "http://omdbapi.com/?i=",
+      url: "http://omdbapi.com/?i=tt0481499",
       dataType: 'jsonp',
       success: function(data) {
         var html = '<div class="row imdb-info-row no-border full-width">';
         //html += '<img class="imdb-img" src="' +data.Poster +'" />';
-        html += '<img class="imdb-img" src="http://img.omdbapi.com/?i=&apikey=bc6b02e2&h=450" /><br />';
+        html += '<img class="imdb-img" src="http://img.omdbapi.com/?i=tt0481499&apikey=bc6b02e2&h=450" /><br />';
         html += '<span class="imdb-category">Directed by</span><br /><span class="imdb-data">' + data.Director.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
