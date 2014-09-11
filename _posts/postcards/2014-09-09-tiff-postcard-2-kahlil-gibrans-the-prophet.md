@@ -2,7 +2,7 @@
 grid-display: false
 exclude_from_search: true
 layout: review
-imdb: tt2414040
+imdb: tt1640718
 categories: 
   - series
 title: "Kahlil Gibran's The Prophet"
@@ -12,7 +12,7 @@ series-name: TIFF 2014
 addressee: TIFF
 position: ""
 author: natm
-image: the-prophet-kahlil-gibran.jpg
+image: kahlil-gibrans-the-prophet.jpg
 comments: true
 ---
 The idea of an animated feature based on _The Prophet_, Kahlil Gibran's collection of poetic essays, was enough to spark my curiosity while selecting my festival fare this year. Though a few lines and passages from the book have stayed with me over the years, I'm not really one for poetry. It doesn't 'come alive' for me very easily. But today was the exception.
