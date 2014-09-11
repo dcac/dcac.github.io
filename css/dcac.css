@@ -3117,10 +3117,10 @@ div.author {
 }
 @media only screen and (max-width: 640px) {
   #home-feature li.today span.month {
-    font-size: 20px;
-    line-height: 20px;
-    right: 5px;
-    top: 5px;
+    font-size: 8px;
+    line-height: 8px;
+    right: 12px;
+    top: 12px;
   }
 }
 #home-feature li img {
