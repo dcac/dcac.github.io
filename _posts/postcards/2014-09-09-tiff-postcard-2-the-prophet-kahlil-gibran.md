@@ -5,7 +5,7 @@ layout: review
 imdb: tt2414040
 categories: 
   - series
-title: "The Prophet Kahlil Gibran"
+title: "Kahlil Gibran's The Prophet"
 excerpt: 
 stars: 4
 series-name: TIFF 2014
