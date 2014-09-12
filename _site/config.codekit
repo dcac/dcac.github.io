@@ -7435,6 +7435,69 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/9\/8\/tiff-2014-day-five copy.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/9\/8\/tiff-2014-day-five copy.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2014\/9\/8\/tiff-postcard-1-mommy.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/9\/8\/tiff-postcard-1-mommy.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2014\/9\/8\/tiff-postcard-2-foxcatcher.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/9\/8\/tiff-postcard-2-foxcatcher.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2014\/9\/8\/tiff-postcard-3-an-eye-for-beauty copy.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/9\/8\/tiff-postcard-3-an-eye-for-beauty copy.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2014\/9\/9\/tiff-2014-day-six.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/9\/9\/tiff-2014-day-six.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2014\/9\/9\/tiff-postcard-1-a-second-chance.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/9\/9\/tiff-postcard-1-a-second-chance.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2014\/9\/9\/tiff-postcard-2-kahlil-gibrans-the-prophet.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/9\/9\/tiff-postcard-2-kahlil-gibrans-the-prophet.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/css\/animate.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -7768,13 +7831,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/img\/article\/main\/22-Jump-Street.jpg": {
+	"\/_site\/img\/article\/main\/22-jump-Street.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 281228,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/22-Jump-Street.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/22-Jump-Street.jpg",
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/22-jump-Street.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/22-jump-Street.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -7900,6 +7963,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/main\/a-second-chance.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93124,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/a-second-chance.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/a-second-chance.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/main\/act-of-valor.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -8006,6 +8080,17 @@
 		"initialSize": 132311,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/amour.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/amour.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/an-eye-for-beauty.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 186066,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/an-eye-for-beauty.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/an-eye-for-beauty.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -8457,6 +8542,17 @@
 		"initialSize": 76842,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/contracted.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/contracted.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/corbo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68796,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/corbo.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/corbo.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -9007,6 +9103,17 @@
 		"initialSize": 139956,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/force-majeure.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/force-majeure.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/foxcatcher.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98301,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/foxcatcher.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/foxcatcher.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -9803,6 +9910,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/main\/kahlil-gibrans-the-prophet.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123029,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/kahlil-gibrans-the-prophet.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/kahlil-gibrans-the-prophet.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/main\/kill-your-darlings.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -10166,6 +10284,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/main\/manglehorn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115739,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/manglehorn.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/manglehorn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/main\/margaret.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -10228,6 +10357,17 @@
 		"initialSize": 165989,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/mockbusters.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/mockbusters.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/mommy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63719,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/mommy.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/mommy.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -10338,6 +10478,17 @@
 		"initialSize": 209758,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/neighbors.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/neighbors.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/nightcrawler.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57166,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/nightcrawler.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/nightcrawler.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -11647,6 +11798,17 @@
 		"initialSize": 98958,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-canyons.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-canyons.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-captive.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90967,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-captive.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-captive.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -13334,6 +13496,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-300\/a-second-chance.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9380,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/a-second-chance.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/a-second-chance.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-300\/act-of-valor.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -13440,6 +13613,17 @@
 		"initialSize": 11103,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/amour.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/amour.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/an-eye-for-beauty.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13895,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/an-eye-for-beauty.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/an-eye-for-beauty.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -13891,6 +14075,17 @@
 		"initialSize": 10360,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/contracted.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/contracted.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/corbo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8249,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/corbo.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/corbo.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -14397,6 +14592,17 @@
 		"initialSize": 12717,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/force-majeure.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/force-majeure.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/foxcatcher.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10232,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/foxcatcher.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/foxcatcher.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15204,6 +15410,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-300\/kahlil-gibrans-the-prophet.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10527,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/kahlil-gibrans-the-prophet.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/kahlil-gibrans-the-prophet.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-300\/kill-your-darlings.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15578,6 +15795,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-300\/manglehorn-al-pacino1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13422,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/manglehorn-al-pacino1.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/manglehorn-al-pacino1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-300\/margaret.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15754,6 +15982,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-300\/nightcrawler.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6083,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/nightcrawler.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/nightcrawler.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-300\/noah.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15794,6 +16033,17 @@
 		"initialSize": 17875,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/nymphomaniac.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/nymphomaniac.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/o-MOMMY-facebook.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7096,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/o-MOMMY-facebook.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/o-MOMMY-facebook.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -17037,6 +17287,17 @@
 		"initialSize": 12383,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/the-canyons.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/the-canyons.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/the-captive.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9657,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/the-captive.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/the-captive.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -18603,6 +18864,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-600\/a-second-chance.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51505,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/a-second-chance.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/a-second-chance.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-600\/act-of-valor.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -18720,6 +18992,17 @@
 		"initialSize": 25088,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/amour.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/amour.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/an-eye-for-beauty.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38908,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/an-eye-for-beauty.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/an-eye-for-beauty.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -19142,6 +19425,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-600\/corbo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19573,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/corbo.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/corbo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-600\/cosmopolis.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -19534,6 +19828,17 @@
 		"initialSize": 33450,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/force-majeure.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/force-majeure.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/foxcatcher.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23898,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/foxcatcher.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/foxcatcher.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -20253,6 +20558,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-600\/kahlil-gibrans-the-prophet.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29959,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/kahlil-gibrans-the-prophet.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/kahlil-gibrans-the-prophet.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-600\/kill-your-darlings.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -20528,6 +20844,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-600\/manglehorn-al-pacino1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32153,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/manglehorn-al-pacino1.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/manglehorn-al-pacino1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-600\/margaret.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -20590,6 +20917,17 @@
 		"initialSize": 25215,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/mockbusters.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/mockbusters.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/mommy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17676,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/mommy.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/mommy.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -20667,6 +21005,17 @@
 		"initialSize": 38732,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/neighbors.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/neighbors.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/nightcrawler.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14217,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/nightcrawler.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/nightcrawler.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -21800,6 +22149,17 @@
 		"initialSize": 27567,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-canyons.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-canyons.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-captive.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23839,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-captive.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-captive.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -24147,6 +24507,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/home\/feature\/8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2503,
+		"inputAbbreviatedPath": "\/_site\/img\/home\/feature\/8.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/home\/feature\/8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/home\/feature\/9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2686,
+		"inputAbbreviatedPath": "\/_site\/img\/home\/feature\/9.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/home\/feature\/9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/home\/feature\/calendar-square-future.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -25639,6 +26021,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/letters\/2012\/4\/18\/edwin-boyd-citizen-gangster.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/letters\/2012\/4\/19\/titanic-3d.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/letters\/2012\/4\/19\/titanic-3d.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -33608,6 +33999,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/a-second-chance.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93124,
+		"inputAbbreviatedPath": "\/img\/article\/main\/a-second-chance.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/a-second-chance.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/act-of-valor.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -33714,6 +34116,17 @@
 		"initialSize": 132311,
 		"inputAbbreviatedPath": "\/img\/article\/main\/amour.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/amour.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/main\/an-eye-for-beauty.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 186066,
+		"inputAbbreviatedPath": "\/img\/article\/main\/an-eye-for-beauty.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/an-eye-for-beauty.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -34165,6 +34578,17 @@
 		"initialSize": 76842,
 		"inputAbbreviatedPath": "\/img\/article\/main\/contracted.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/contracted.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/main\/corbo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68796,
+		"inputAbbreviatedPath": "\/img\/article\/main\/corbo.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/corbo.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -34715,6 +35139,17 @@
 		"initialSize": 139956,
 		"inputAbbreviatedPath": "\/img\/article\/main\/force-majeure.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/force-majeure.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/main\/foxcatcher.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98301,
+		"inputAbbreviatedPath": "\/img\/article\/main\/foxcatcher.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/foxcatcher.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -35511,6 +35946,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/kahlil-gibrans-the-prophet.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123029,
+		"inputAbbreviatedPath": "\/img\/article\/main\/kahlil-gibrans-the-prophet.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/kahlil-gibrans-the-prophet.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/kill-your-darlings.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -35874,6 +36320,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/manglehorn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115739,
+		"inputAbbreviatedPath": "\/img\/article\/main\/manglehorn.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/manglehorn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/margaret.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -35936,6 +36393,17 @@
 		"initialSize": 165989,
 		"inputAbbreviatedPath": "\/img\/article\/main\/mockbusters.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/mockbusters.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/main\/mommy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63719,
+		"inputAbbreviatedPath": "\/img\/article\/main\/mommy.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/mommy.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -36046,6 +36514,17 @@
 		"initialSize": 209758,
 		"inputAbbreviatedPath": "\/img\/article\/main\/neighbors.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/neighbors.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/main\/nightcrawler.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57166,
+		"inputAbbreviatedPath": "\/img\/article\/main\/nightcrawler.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/nightcrawler.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -37355,6 +37834,17 @@
 		"initialSize": 98958,
 		"inputAbbreviatedPath": "\/img\/article\/main\/the-canyons.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/the-canyons.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/main\/the-captive.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90967,
+		"inputAbbreviatedPath": "\/img\/article\/main\/the-captive.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/the-captive.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -39042,6 +39532,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-300\/a-second-chance.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9380,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/a-second-chance.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/a-second-chance.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-300\/act-of-valor.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -39148,6 +39649,17 @@
 		"initialSize": 11103,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/amour.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/amour.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-300\/an-eye-for-beauty.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13895,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/an-eye-for-beauty.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/an-eye-for-beauty.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -39599,6 +40111,17 @@
 		"initialSize": 10360,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/contracted.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/contracted.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-300\/corbo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8249,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/corbo.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/corbo.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -40105,6 +40628,17 @@
 		"initialSize": 12717,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/force-majeure.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/force-majeure.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-300\/foxcatcher.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10232,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/foxcatcher.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/foxcatcher.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -40912,6 +41446,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-300\/kahlil-gibrans-the-prophet.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10527,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/kahlil-gibrans-the-prophet.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/kahlil-gibrans-the-prophet.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-300\/kill-your-darlings.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -41286,6 +41831,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-300\/manglehorn-al-pacino1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13422,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/manglehorn-al-pacino1.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/manglehorn-al-pacino1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-300\/margaret.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -41462,6 +42018,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-300\/nightcrawler.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6083,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/nightcrawler.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/nightcrawler.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-300\/noah.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -41502,6 +42069,17 @@
 		"initialSize": 17875,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/nymphomaniac.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/nymphomaniac.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-300\/o-MOMMY-facebook.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7096,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/o-MOMMY-facebook.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/o-MOMMY-facebook.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -42745,6 +43323,17 @@
 		"initialSize": 12383,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/the-canyons.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/the-canyons.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-300\/the-captive.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9657,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/the-captive.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/the-captive.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -44311,6 +44900,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-600\/a-second-chance.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51505,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/a-second-chance.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/a-second-chance.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-600\/act-of-valor.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -44428,6 +45028,17 @@
 		"initialSize": 25088,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/amour.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/amour.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-600\/an-eye-for-beauty.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38908,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/an-eye-for-beauty.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/an-eye-for-beauty.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -44850,6 +45461,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-600\/corbo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19573,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/corbo.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/corbo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-600\/cosmopolis.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -45242,6 +45864,17 @@
 		"initialSize": 33450,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/force-majeure.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/force-majeure.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-600\/foxcatcher.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23898,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/foxcatcher.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/foxcatcher.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -45961,6 +46594,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-600\/kahlil-gibrans-the-prophet.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29959,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/kahlil-gibrans-the-prophet.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/kahlil-gibrans-the-prophet.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-600\/kill-your-darlings.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -46236,6 +46880,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-600\/manglehorn-al-pacino1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32153,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/manglehorn-al-pacino1.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/manglehorn-al-pacino1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-600\/margaret.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -46298,6 +46953,17 @@
 		"initialSize": 25215,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/mockbusters.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/mockbusters.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-600\/mommy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17676,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/mommy.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/mommy.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -46375,6 +47041,17 @@
 		"initialSize": 38732,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/neighbors.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/neighbors.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-600\/nightcrawler.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14217,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/nightcrawler.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/nightcrawler.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -47508,6 +48185,17 @@
 		"initialSize": 27567,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/the-canyons.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/the-canyons.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-600\/the-captive.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23839,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/the-captive.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/the-captive.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -49851,6 +50539,28 @@
 		"initialSize": 2722,
 		"inputAbbreviatedPath": "\/img\/home\/feature\/7.jpg",
 		"outputAbbreviatedPath": "\/img\/home\/feature\/7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/home\/feature\/8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2503,
+		"inputAbbreviatedPath": "\/img\/home\/feature\/8.jpg",
+		"outputAbbreviatedPath": "\/img\/home\/feature\/8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/home\/feature\/9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2686,
+		"inputAbbreviatedPath": "\/img\/home\/feature\/9.jpg",
+		"outputAbbreviatedPath": "\/img\/home\/feature\/9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

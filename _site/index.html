@@ -155,21 +155,67 @@
             <div id="home-feature-img" class="home-feature-img" style="background-image: url('/img/article/main/tiff-2014.jpg');"></div>
           </a>
           <div class="row collapse">
-            <div class=" hero-height">
-              <div class="link-container" data-stellar-ratio="1.1">
-                <ul>
-                  <li class="today"><a href="/content/2014/9/9/tiff-2014-day-six.html"><span class="month">Sep</span><span class="day">9</span><img src="/img/home/feature/9.jpg" /></span></a></li>
-                  <li class="future"><span class="day">10</span></li>
-                  <li class="future"><span class="day">11</span></li>
-                  <li class="future"><span class="day">12</span></li>
-                  <li class="future"><span class="day">13</span></li>
-                </ul>
+            <div class="hero-height">
+              <div class="link-container" id="link-container"data-stellar-ratio="1.1">
+                <div class="slide-container">
+                <a class="slide-left hide-for-small-only" id="slide-left" href="#"></a>
+                  <div id="weeks">
+                    <ul id="week-one">
+                      <li><a href="/content/2014/9/4/tiff-2014-day-one.html"><span class="month">Sep</span><span class="day">4</span><img src="/img/home/feature/4.jpg" /></span></a></li>
+                      <li><a href="/content/2014/9/5/tiff-2014-day-two.html"><span class="day">5</span><img src="/img/home/feature/5.jpg" /></a></li>
+                      <li><a href="/content/2014/9/6/tiff-2014-day-three.html"><span class="day">6</span><img src="/img/home/feature/6.jpg" /></a></li>
+                      <li><a href="/content/2014/9/7/tiff-2014-day-four.html"><span class="day">7</span><img src="/img/home/feature/7.jpg" /></a></li>
+                      <li><a href="/content/2014/9/8/tiff-2014-day-five.html"><span class="day">8</span><img src="/img/home/feature/8.jpg" /></a></li>
+                    </ul>
+                    <ul id="week-two">
+                      <li class="today"><a href="/content/2014/9/9/tiff-2014-day-six.html"><span class="month">Sep</span><span class="day">9</span><img src="/img/home/feature/9.jpg" /></span></a></li>
+                      <li class="future"><span class="day">10</span></li>
+                      <li class="future"><span class="day">11</span></li>
+                      <li class="future"><span class="day">12</span></li>
+                      <li class="future"><span class="day">13</span></li>
+                    </ul>
+                  </div>
+                <a class="slide-right-off hide-for-small-only" id="slide-right" href="#"></a>
+                </div>
                 <p>The Toronto International Film Festival. Day Six.</p>
               </div>
             </div>
           </div>
         </div>
       </section>
+      <script>
+        $('#slide-left').click(function() {
+  
+          $("#week-one").animate({
+              left: '16'
+          }, 500, function() {
+              $(this).css('left', '16');
+          });
+      
+          $('#week-two').animate({
+              left: '100%'
+          }, 500);
+          $('#slide-left').addClass('slide-left-off');
+          $('#slide-left').removeClass('slide-left');
+          $('#slide-right').addClass('slide-right');
+          $('#slide-right').removeClass('slide-right-off');
+        });
+        $('#slide-right').click(function() {
+      
+          $('#week-two').animate({
+              left: '0'
+          }, 500, function() {
+              $(this).css('left', '0');
+          });
+          $('#week-one').animate({
+              left: '-100%'
+          }, 500);
+          $('#slide-left').addClass('slide-left');
+          $('#slide-left').removeClass('slide-left-off');
+          $('#slide-right').addClass('slide-right-off');
+          $('#slide-right').removeClass('slide-right');
+        });
+      </script>
         
       
       <div class="row" id="row-height">
