@@ -2980,6 +2980,7 @@ div.author {
   height: 500px;
   position: relative;
   z-index: 2;
+  display: none;
 }
 @media only screen and (max-width: 640px) {
   #home-feature .hero-height {
@@ -3010,6 +3011,7 @@ div.author {
 @media only screen and (max-width: 640px) {
   #home-feature .link-container {
     bottom: 0;
+    height: auto;
   }
 }
 .slide-container {
