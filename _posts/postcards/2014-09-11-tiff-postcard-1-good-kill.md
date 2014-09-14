@@ -8,7 +8,7 @@ categories:
   - series
 title: "Good Kill"
 excerpt: 
-stars: 4.5
+stars: 3.5
 series-name: TIFF 2014
 addressee: TIFF
 position: ""
