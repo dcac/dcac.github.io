@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 grid-display: false
 exclude_from_search: true
 layout: review
