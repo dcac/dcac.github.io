@@ -43,7 +43,7 @@ layout: default
           </div>
         </div>
         <div class="row posts-grid" id="posts-grid">
-    {% for post in site.categories['festivals'] where post.series-name == page.series-name reversed %}
+    {% for post in site.categories['festivals'] reversed where post.series-name == page.series-name %}
           <div class=" section-post large-4 medium-4 small-6 columns left{% if forloop.last %} end{% endif %}">
     {% assign author = site.data.authors[post.author] %}
             {% include post-grid/post.html %}
