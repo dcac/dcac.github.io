@@ -2994,12 +2994,31 @@ div.author {
   position: absolute;
   left: -575px;
   top: 16px;
+  width: 520px;
+  margin: 0;
+  padding: 0;
+}
+@media only screen and (max-width: 640px) {
+  #week-one {
+    width: 300px;
+    margin: auto;
+    padding: auto;
+  }
 }
 #week-two {
   position: absolute;
   left: 0;
   top: 0;
   width: 560px;
+  margin: 0;
+  padding: 0;
+}
+@media only screen and (max-width: 640px) {
+  #week-two {
+    width: 300px;
+    margin: auto;
+    padding: auto;
+  }
 }
 #home-feature .link-container {
   position: absolute;
