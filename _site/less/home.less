@@ -241,8 +241,7 @@ div.post-list-home.post-image{
 .post-image img{
   z-index: 0;
 }
-.corner-stamp{
-  .make-bg-svg('global/stamp-white');
+.corner-stamp, .essays-stamp, .interviews-stamp, .lists-stamp, .series-stamp,.festivals-stamp{
   background-size: cover;
   width: @1px*40;
   height: @1px*40;
@@ -263,6 +262,21 @@ div.post-list-home.post-image{
     top: @10px;
     right: @10px;
   }
+}
+.corner-stamp{
+  .make-bg-svg('global/stamp-white');
+}
+.essays-stamp{
+  .make-bg-svg('global/essays-stamp');
+}
+.interviews-stamp{
+  .make-bg-svg('global/interviews-stamp');
+}
+.series-stamp{
+  .make-bg-svg('global/series-stamp');
+}
+.lists-stamp{
+  .make-bg-svg('global/lists-stamp');
 }
 .small-star-rating{
   position: absolute;

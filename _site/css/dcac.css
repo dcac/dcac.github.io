@@ -354,8 +354,12 @@ div.post-list-home.post-image {
 .post-image img {
   z-index: 0;
 }
-.corner-stamp {
-  background: transparent url(../img/global/stamp-white.svg) no-repeat 0 0;
+.corner-stamp,
+.essays-stamp,
+.interviews-stamp,
+.lists-stamp,
+.series-stamp,
+.festivals-stamp {
   background-size: cover;
   width: 2.5rem;
   height: 2.5rem;
@@ -371,16 +375,48 @@ div.post-list-home.post-image {
   -webkit-filter: drop-shadow(0 0 0.125rem #939598);
   filter: drop-shadow(0 0 0.125rem #939598);
 }
-.no-svg .corner-stamp {
-  background: transparent url(../img/global/stamp-white.png) no-repeat 0 0;
-}
 @media only screen and (max-width: 640px) {
-  .corner-stamp {
+  .corner-stamp,
+  .essays-stamp,
+  .interviews-stamp,
+  .lists-stamp,
+  .series-stamp,
+  .festivals-stamp {
     width: 1.25rem;
     height: 1.25rem;
     top: 0.625rem;
     right: 0.625rem;
   }
+}
+.corner-stamp {
+  background: transparent url(../img/global/stamp-white.svg) no-repeat 0 0;
+}
+.no-svg .corner-stamp {
+  background: transparent url(../img/global/stamp-white.png) no-repeat 0 0;
+}
+.essays-stamp {
+  background: transparent url(../img/global/essays-stamp.svg) no-repeat 0 0;
+}
+.no-svg .essays-stamp {
+  background: transparent url(../img/global/essays-stamp.png) no-repeat 0 0;
+}
+.interviews-stamp {
+  background: transparent url(../img/global/interviews-stamp.svg) no-repeat 0 0;
+}
+.no-svg .interviews-stamp {
+  background: transparent url(../img/global/interviews-stamp.png) no-repeat 0 0;
+}
+.series-stamp {
+  background: transparent url(../img/global/series-stamp.svg) no-repeat 0 0;
+}
+.no-svg .series-stamp {
+  background: transparent url(../img/global/series-stamp.png) no-repeat 0 0;
+}
+.lists-stamp {
+  background: transparent url(../img/global/lists-stamp.svg) no-repeat 0 0;
+}
+.no-svg .lists-stamp {
+  background: transparent url(../img/global/lists-stamp.png) no-repeat 0 0;
 }
 .small-star-rating {
   position: absolute;
