@@ -42,12 +42,18 @@
             <div class="row collapse">
               <div class="large-4 medium-4 columns home-title-height">
                 <div class="hero-title-text">
-                  <h1 class="hero-home">{{ post.title }}</h1>
+                  <h1 class="{% assign titleSize = post.title | size %}{% if titleSize > 20 %}hero-home-small-txt{% else %}hero-home{% endif %}">{{ post.title }}</h1>
                   <div class="translucent-box clearfix">
                     <div class="hero-people">
+                      {% if post.categories contains "reviews" %}
                       <h2 class="hero-addressee-home hyphenate">
                         Dear {{ post.addressee }}, <span class="mobile-line-break"><br /></span>{{ post.position }}
                       </h2>
+                      {% else %}
+                      <h2 class="hero-excerpt-home">
+                        {{ post.excerpt }}
+                      </h2>
+                      {% endif %}
                       <h2 class="hero-author-home">
                         By {{ author.name }}
                       </h2>

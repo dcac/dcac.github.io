@@ -1,5 +1,5 @@
 ---
-layout: feature
+layout: interview
 published: true
 image: trailer-park-boys-interview.jpg
 title: Holy F#ck, Boys! We interview the Trailer Park Boys
@@ -20,7 +20,7 @@ Mike Smith (Bubbles)
 Rob Wells (Ricky)  
 John Paul Tremblay (Julian)
 
-**_C. Redmond_: How drunk were you when you came up with the original idea for _Swearnet_?**
+**C. Redmond: How drunk were you when you came up with the original idea for _Swearnet_?**
 
 **Mike:** Not too drunk. Probably pretty high though.
 

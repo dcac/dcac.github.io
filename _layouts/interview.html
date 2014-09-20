@@ -1,0 +1,43 @@
+---
+layout: default
+---
+     {% include top-nav.html %}
+      <section>
+        {% include share.html %}
+      </section>
+{% assign author = site.data.authors[page.author] %}
+      <section id="feature-hero">
+        <div id="story-title" class="title-info">
+          <div id="title-img" data-stellar-background-ratio=".25"></div>
+          <div class="row collapse">
+            <div class="large-4 medium-4 columns feature-title-height">
+              <div class="feature-title-text">
+                <h1 class="interview-hero">{{ page.title }}</h1>
+                <div class="translucent-box clearfix">
+                  <div class="feature-info">
+                    <h2 class="feature-hero-author">
+                      By {{ author.name }} 
+                    </h2>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="body-text">
+        <div class="row">
+          <div class="large-2 medium-2 columns side-spacer hide-for-small-only"></div>
+          <div class="large-8 medium-8 columns" id="review-copy">
+            {{ content | replace_first: '<p>','<p class="intro">' }}
+          </div>
+          <div class="large-2 medium-2 columns side-spacer hide-for-small-only"></div>
+        </div>
+        {% include related-articles.html %}
+      </section>
+      {% include disqus.html %}
+      <div class="post large-4 medium-4 columns" style="display:none;">
+        {% assign author = site.data.authors[page.author] %}
+        {% include post-grid/page.html %}
+      </div>

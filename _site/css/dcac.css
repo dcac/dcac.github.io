@@ -196,6 +196,20 @@ h1.hero-home {
     line-height: 2.5rem;
   }
 }
+h1.hero-home-small-txt {
+  color: #ffffff;
+  font-size: 3.75rem;
+  line-height: 3.125rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-weight: 700;
+  text-shadow: 0 0 2px #333333;
+}
+@media only screen and (max-width: 640px) {
+  h1.hero-home-small-txt {
+    font-size: 30px;
+    line-height: 1.5625rem;
+  }
+}
 @media only screen and (max-width: 640px) {
   .hero-people {
     margin-left: 15px;
@@ -219,6 +233,22 @@ h2.hero-addressee-home {
     font-size: 1rem;
     margin-bottom: 0;
     word-wrap: break-word;
+  }
+}
+h2.hero-excerpt-home {
+  color: #ffffff;
+  font-size: 1.25rem;
+  font-weight: 400;
+  line-height: 1.375rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  text-shadow: 0 0 2px #333333;
+  position: relative;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+@media only screen and (max-width: 640px) {
+  h2.hero-excerpt-home {
+    display: none;
   }
 }
 h2.hero-author-home {
@@ -354,12 +384,8 @@ div.post-list-home.post-image {
 .post-image img {
   z-index: 0;
 }
-.corner-stamp,
-.essays-stamp,
-.interviews-stamp,
-.lists-stamp,
-.series-stamp,
-.festivals-stamp {
+.corner-stamp {
+  background: transparent url(../img/global/stamp-white.svg) no-repeat 0 0;
   background-size: cover;
   width: 2.5rem;
   height: 2.5rem;
@@ -375,48 +401,16 @@ div.post-list-home.post-image {
   -webkit-filter: drop-shadow(0 0 0.125rem #939598);
   filter: drop-shadow(0 0 0.125rem #939598);
 }
+.no-svg .corner-stamp {
+  background: transparent url(../img/global/stamp-white.png) no-repeat 0 0;
+}
 @media only screen and (max-width: 640px) {
-  .corner-stamp,
-  .essays-stamp,
-  .interviews-stamp,
-  .lists-stamp,
-  .series-stamp,
-  .festivals-stamp {
+  .corner-stamp {
     width: 1.25rem;
     height: 1.25rem;
     top: 0.625rem;
     right: 0.625rem;
   }
-}
-.corner-stamp {
-  background: transparent url(../img/global/stamp-white.svg) no-repeat 0 0;
-}
-.no-svg .corner-stamp {
-  background: transparent url(../img/global/stamp-white.png) no-repeat 0 0;
-}
-.essays-stamp {
-  background: transparent url(../img/global/essays-stamp.svg) no-repeat 0 0;
-}
-.no-svg .essays-stamp {
-  background: transparent url(../img/global/essays-stamp.png) no-repeat 0 0;
-}
-.interviews-stamp {
-  background: transparent url(../img/global/interviews-stamp.svg) no-repeat 0 0;
-}
-.no-svg .interviews-stamp {
-  background: transparent url(../img/global/interviews-stamp.png) no-repeat 0 0;
-}
-.series-stamp {
-  background: transparent url(../img/global/series-stamp.svg) no-repeat 0 0;
-}
-.no-svg .series-stamp {
-  background: transparent url(../img/global/series-stamp.png) no-repeat 0 0;
-}
-.lists-stamp {
-  background: transparent url(../img/global/lists-stamp.svg) no-repeat 0 0;
-}
-.no-svg .lists-stamp {
-  background: transparent url(../img/global/lists-stamp.png) no-repeat 0 0;
 }
 .small-star-rating {
   position: absolute;
@@ -2500,6 +2494,22 @@ h1.feature-hero {
   h1.feature-hero {
     font-size: 2.5rem;
     line-height: 2.5rem;
+    text-align: left;
+    margin-left: 0.9375rem;
+  }
+}
+h1.interview-hero {
+  color: #ffffff;
+  font-size: 3.125rem;
+  line-height: 3.125rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-weight: 700;
+  text-shadow: 0 0 2px #333333;
+}
+@media only screen and (max-width: 640px) {
+  h1.interview-hero {
+    font-size: 1.875rem;
+    line-height: 1.875rem;
     text-align: left;
     margin-left: 0.9375rem;
   }

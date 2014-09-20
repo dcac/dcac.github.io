@@ -149,77 +149,80 @@
     </div>
 
         
-          <section id="hero-home">
-        <div id="home-feature" class="title-info">
-          <a href="/content/2014/09/05/tiff-2014.html">
-            <div id="home-feature-img" class="home-feature-img" style="background-image: url('/img/article/main/tiff-2014.jpg');"></div>
-          </a>
-          <div class="row collapse">
-            <div class="hero-height">
-              <div class="link-container" id="link-container"data-stellar-ratio="1.1">
-                <div class="slide-container">
-                <a class="slide-left hide-for-small-only" id="slide-left" href="#"></a>
-                  <div id="weeks">
-                    <ul id="week-one">
-                      <li><a href="/content/2014/9/4/tiff-2014-day-one.html"><span class="month">Sep</span><span class="day">4</span><img src="/img/home/feature/4.jpg" /></span></a></li>
-                      <li><a href="/content/2014/9/5/tiff-2014-day-two.html"><span class="day">5</span><img src="/img/home/feature/5.jpg" /></a></li>
-                      <li><a href="/content/2014/9/6/tiff-2014-day-three.html"><span class="day">6</span><img src="/img/home/feature/6.jpg" /></a></li>
-                      <li><a href="/content/2014/9/7/tiff-2014-day-four.html"><span class="day">7</span><img src="/img/home/feature/7.jpg" /></a></li>
-                      <li><a href="/content/2014/9/8/tiff-2014-day-five.html"><span class="day">8</span><img src="/img/home/feature/8.jpg" /></a></li>
-                    </ul>
-                    <ul id="week-two">
-                      <li><a href="/content/2014/9/9/tiff-2014-day-six.html"><span class="month">Sep</span><span class="day">9</span><img src="/img/home/feature/9.jpg" /></span></a></li>
-                      <li><a href="/content/2014/9/10/tiff-2014-day-seven.html"><span class="day">10</span><img src="/img/home/feature/10.jpg" /></span></a></li>
-                      <li><a href="/content/2014/9/11/tiff-2014-day-eight.html"><span class="day">11</span><img src="/img/home/feature/11.jpg" /></span></a></li>
-                      <li><a href="/content/2014/9/12/tiff-2014-day-nine.html"><span class="day">12</span><img src="/img/home/feature/12.jpg" /></span></a></li>
-                      <li class="today"><a href="/content/2014/9/13/tiff-2014-day-ten.html"><span class="day">13</span><img src="/img/home/feature/13.jpg" /></span></a></li>
-                    </ul>
+          
+            <style>
+      .title-img-fade {
+      background-image: -webkit-linear-gradient(left, 
+          rgba(0,0,0,0.9) 0%, 
+          rgba(0,0,0,0) 20%,
+          rgba(0,0,0,0) 80%,
+          rgba(0,0,0,0.9) 100%
+        ),
+        url('/img/article/main/10-questions-with-randall-william-cook.jpg');
+      background-image: -moz-linear-gradient(left, 
+          rgba(0,0,0,0.9) 0%, 
+          rgba(0,0,0,0) 20%,
+          rgba(0,0,0,0) 80%,
+          rgba(0,0,0,0.9) 100%
+        ),
+        url('/img/article/main/10-questions-with-randall-william-cook.jpg');
+      background-image: -o-linear-gradient(left, 
+          rgba(0,0,0,0.9) 0%, 
+          rgba(0,0,0,0) 20%,
+          rgba(0,0,0,0) 80%,
+          rgba(0,0,0,0.9) 100%
+        ),
+        url('/img/article/main/10-questions-with-randall-william-cook.jpg');
+      background-image: 
+        linear-gradient(left, 
+          rgba(0,0,0,0.9) 0%, 
+          rgba(0,0,0,0) 20%,
+          rgba(0,0,0,0) 80%,
+          rgba(0,0,0,0.9) 100%
+        ),
+        url('/img/article/main/10-questions-with-randall-william-cook.jpg');
+      }
+      .title-img {
+        background-image: url('/img/article/main/10-questions-with-randall-william-cook.jpg');
+      }
+    </style>
+      
+      <section id="hero-home">
+        <div id="story-title" class="title-info">
+          <a href="/content/2014/9/20/10-questions-with-randall-william-cook.html">
+            <div id="title-img" class="title-img" style=""></div>
+            <div class="row collapse">
+              <div class="large-4 medium-4 columns home-title-height">
+                <div class="hero-title-text">
+                  <h1 class="hero-home-small-txt">10 Questions with Randall William Cook, Animation Supervisor.</h1>
+                  <div class="translucent-box clearfix">
+                    <div class="hero-people">
+                      
+                      <h2 class="hero-excerpt-home">
+                        Randall William Cook talks about what it was like to work on the groundbreaking <em>The Lord of the Rings</em> trilogy, misconceptions about his profession, and the state of blockbuster filmmaking today.
+                      </h2>
+                      
+                      <h2 class="hero-author-home">
+                        By Christopher Redmond
+                      </h2>
+                      <h2 class="hero-date-home hidden-for-medium-up">
+                        Mailed on September 20, 2014
+                      </h2>
+                    </div>
+                    
                   </div>
-                <a class="slide-right-off hide-for-small-only" id="slide-right" href="#"></a>
                 </div>
-                <p>The Toronto International Film Festival. Day Ten.</p>
               </div>
             </div>
-          </div>
+          </a>
         </div>
       </section>
-      <script>
-        $('#slide-left').click(function() {
-  
-          $("#week-one").animate({
-              left: '16'
-          }, 500, function() {
-              $(this).css('left', '16');
-          });
       
-          $('#week-two').animate({
-              left: '100%'
-          }, 500);
-          $('#slide-left').addClass('slide-left-off');
-          $('#slide-left').removeClass('slide-left');
-          $('#slide-right').addClass('slide-right');
-          $('#slide-right').removeClass('slide-right-off');
-        });
-        $('#slide-right').click(function() {
-      
-          $('#week-two').animate({
-              left: '0'
-          }, 500, function() {
-              $(this).css('left', '0');
-          });
-          $('#week-one').animate({
-              left: '-100%'
-          }, 500);
-          $('#slide-left').addClass('slide-left');
-          $('#slide-left').removeClass('slide-left-off');
-          $('#slide-right').addClass('slide-right-off');
-          $('#slide-right').removeClass('slide-right');
-        });
-        $(window).load(function () {
-          $('#home-feature .hero-height').hide().fadeIn('slow');
-        
-        });
-      </script>
+            
+            
+            
+          
+          
         
       
       <div class="row" id="row-height">
@@ -535,6 +538,26 @@
             
             
              <div class="post large-4 medium-4 columns">
+              <a href="/content/2014/8/15/sabotage.html">
+                  <div class="post-image">
+                    <img src="/img/article/thumb-300/sabotage.jpg" alt="Sabotage Image" />
+                    <div class="corner-stamp"></div>
+                    
+                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue-half.svg" class="star-small" alt="Half Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
+                  </div>
+                </a>
+                
+                <a href="/content/2014/8/15/sabotage.html">
+                  <div class="review-text">
+                    <h1>Sabotage</h1>
+                    <h2 class="addressee">Dear Arnold Schwarzenegger, <span class="mobile-line-break"><br /></span>Actor</h2>
+                    <h2 class="author">By Jared Young</h2>
+                  </div>
+                </a>
+            </div>
+          
+            
+             <div class="post large-4 medium-4 columns">
               <a href="/content/2014/8/13/hercules.html">
                   <div class="post-image">
                     <img src="/img/article/thumb-300/hercules.jpg" alt="Hercules Image" />
@@ -629,26 +652,6 @@
                     <h1>Boyhood</h1>
                     <h2 class="addressee">Dear Stephen Light, <span class="mobile-line-break"><br /></span>Production Coordinator</h2>
                     <h2 class="author">By Christopher Redmond</h2>
-                  </div>
-                </a>
-            </div>
-          
-            
-             <div class="post large-4 medium-4 columns">
-              <a href="/content/2014/8/4/the-purge-anarchy.html">
-                  <div class="post-image">
-                    <img src="/img/article/thumb-300/the-purge-anarchy.jpg" alt="The Purge: Anarchy Image" />
-                    <div class="corner-stamp"></div>
-                    
-                    <div class="small-star-rating"><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-blue.svg" class="star-small" alt="Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /><img src="/img/global/star-white.svg" class="star-small" alt="Empty Star" /></div>
-                  </div>
-                </a>
-                
-                <a href="/content/2014/8/4/the-purge-anarchy.html">
-                  <div class="review-text">
-                    <h1>The Purge: Anarchy</h1>
-                    <h2 class="addressee">Dear Jacques Jouffret, <span class="mobile-line-break"><br /></span>Cinematographer</h2>
-                    <h2 class="author">By Kelan Young</h2>
                   </div>
                 </a>
             </div>

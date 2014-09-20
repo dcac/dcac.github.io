@@ -101,6 +101,19 @@ h1.hero-home{
     
   }
 }
+h1.hero-home-small-txt{
+  color: @white;
+  font-size: @1px*60;
+  line-height: @1px*50;
+  font-family: @sans-serif;
+  font-weight: 700;
+  text-shadow: 0 0 2px @dark-grey;
+  @media @mobile{
+    font-size: 30px;
+    line-height: @1px*25;
+    
+  }
+}
 .hero-people{
   @media @mobile{
     margin-left:15px;
@@ -123,6 +136,21 @@ h2.hero-addressee-home{
     margin-bottom: 0;
     word-wrap: break-word;
   }
+}
+h2.hero-excerpt-home{
+  color: @white; 
+  font-size: @20px;
+  font-weight: 400;
+  line-height: @1px*22;
+  font-family: @sans-serif;
+  text-shadow: 0 0 2px @dark-grey;
+  position: relative;
+  padding-left: 20%;
+  padding-right: 20%;
+  @media @mobile{
+    display: none;
+  }
+  
 }
 h2.hero-author-home{
   color: @white; 
