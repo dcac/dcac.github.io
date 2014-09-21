@@ -14,11 +14,11 @@ categories:
 tags: [lord of the rings, peter jackson, academy awards, oscars,animation,special effects,fantasy]
 ---
 
-11 years after The Return of the King took home 11 Oscars, Christopher Redmond speaks with three-time Academy Award winner Randall William Cook about what it was like to work on the groundbreaking *The Lord of the Rings* trilogy, misconceptions about his profession, and the state of blockbuster filmmaking today.
+11 years after *The Return of the King* took home 11 Oscars, Christopher Redmond speaks with three-time Academy Award winner Randall William Cook about what it was like to work on the groundbreaking *The Lord of the Rings* trilogy, misconceptions about his profession, and the state of blockbuster filmmaking today.
 
 **You're best known for your work on *The Lord of the Rings* trilogy. Can you talk about how you got that job?**
 
-I was hired and employed as Animation Director until about a month before the film came out, then I was told, "oh, the DGA (Director's Guild of America) won't let us give you that. So can you come up with your own credit? Whatever you want." Well I wanted Animation Director, but never mind. So we settled for Animation Designer and Supervisor.
+I was hired and employed as Animation Director until about a month before the film came out, then I was told, "Oh, the DGA (Director's Guild of America) won't let us give you that. So can you come up with your own credit? Whatever you want." Well I wanted Animation Director, but never mind. So we settled for Animation Designer and Supervisor.
 
 Peter and I worked together in a way that isn't industry standard - that is to say that he hired me and I was answerable directly to him. I was the first American hire that they made back in 1998 - and I was hired on to design action scenes.
 
@@ -56,7 +56,7 @@ If you're painting a house, it doesn't matter if you have Picasso or Diego River
 
 **Is there a standard career path to getting where you got?**
 
-**Hell no! When I was seven I thought I was going to be Ray Harryhausen, not knowing that that job was already taken. I didn't know what I was going to be. Because I'm interested in so many different things, I did a lot of butterfly chasing in my career. I guess I never made a huge success at any of it because I was not so interested at having a steady job as I was in doing something that was interesting.**
+Hell no! When I was seven I thought I was going to be Ray Harryhausen, not knowing that that job was already taken. I didn't know what I was going to be. Because I'm interested in so many different things, I did a lot of butterfly chasing in my career. I guess I never made a huge success at any of it because I was not so interested at having a steady job as I was in doing something that was interesting.
 
 When I did films like *The Gate* or *I Mad Man*, I pretty much had control of what the characters would be doing on screen and had control of how I would achieve the various effects, be it trick perspective shots or stop-motion. I gravitated towards opportunities that didn't pigeonhole me.
 
