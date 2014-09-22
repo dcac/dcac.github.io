@@ -3501,239 +3501,61 @@ h1.postcard-film-title {
     margin-top: 2.1875rem;
   }
 }
-#search {
-  margin-top: 6.25rem;
-}
-@media only screen and (max-width: 640px) {
-  #search {
-    margin-top: 2.8125rem;
-  }
-}
-.search-head {
-  position: fixed;
-  width: 100%;
-  height: 10.9375rem;
-  background-color: rgba(0, 0, 0, 0.85);
-  z-index: 15;
-}
-@media only screen and (max-width: 640px) {
-  .search-head {
-    height: 6.25rem;
-  }
-}
-.search-form {
-  width: 34.375rem;
-  margin: 0 auto;
-}
-@media only screen and (max-width: 640px) {
-  .search-form {
-    width: 17.5rem;
-  }
-}
-.entries {
-  width: 100%;
-  margin: 0 auto;
-}
-input[type=text],
-input[type=text]:focus {
+.field input[type=email] {
   border-top: 0;
   border-left: 0;
   border-right: 0;
-  border-bottom: 0;
-  background: #ffffff url('../img/search/search-icon.png') no-repeat 25px 15px;
-  font-size: 1.5rem;
-  font-weight: 700;
-  height: 4.0625rem;
-  color: #a7a9ac;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
-  margin: 0 auto;
-  padding: 10px;
-  padding-top: 20px;
-  padding-left: 95px;
-  border: none;
-}
-@media only screen and (max-width: 640px) {
-  input[type=text],
-  input[type=text]:focus {
-    font-size: 1.125rem;
-    height: 2.8125rem;
-    background: #ffffff;
-    padding: 10px;
-  }
-}
-.search-results {
-  width: 34.375rem;
-  margin: 0 auto;
-  margin-top: 10.9375rem;
-  z-index: 10;
-}
-@media only screen and (max-width: 640px) {
-  .search-results {
-    width: 17.5rem;
-    margin-top: 5.625rem;
-  }
-}
-.search-results a {
+  border-bottom: 0.0625rem;
+  border-color: #f00;
+  background: #575758;
+  font-size: 0.875rem;
   color: #fff;
-}
-.search-modal-icon {
-  font-size: 2.25rem;
-  float: left;
-  color: #fff;
-}
-div.search-results-article {
-  margin-top: 1.5625rem;
-  display: block;
-  position: relative;
-  float: none !important;
-  clear: both;
-  border-top: solid 0.0625rem rgba(255, 255, 255, 0.5);
-  width: 34.375rem;
-}
-@media only screen and (max-width: 640px) {
-  div.search-results-article {
-    width: 17.5rem;
-  }
-}
-div.search-result {
-  display: block;
-  margin-left: 1.25rem;
-  float: left;
-  margin-top: 0.9375rem;
-  margin-bottom: 1.5625rem;
-  width: 11.25rem;
-}
-p.search-result a {
-  font-weight: bold;
-  text-decoration: none;
-}
-p.search-result a:hover {
-  text-decoration: underline;
-}
-h1.search-title {
-  font-size: 1.375rem;
-  line-height: 1.5rem;
   font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
-  font-weight: 700;
-  color: #fff;
-  letter-spacing: 0.0625rem;
-  margin-top: 0;
+  padding: 9px;
+  padding-left: 57px;
+  margin: 0;
+  width: 290px;
+  background: #575758 url('../img/footer/email.png') 9px 8px no-repeat;
 }
-@media only screen and (max-width: 640px) {
-  h1.search-title {
-    font-size: 1rem;
-    line-height: 1.125rem;
-  }
-}
-p.search-author {
-  font-size: 0.75rem;
-  font-family: "Georgia", serif;
-  font-style: italic;
-  color: #d1d3d4;
-  line-height: 0.75rem;
-  margin-top: 0.3125rem;
-  margin-bottom: 0;
-}
-@media only screen and (max-width: 640px) {
-  p.search-author {
-    font-size: 0.625rem;
-    line-height: 0.75rem;
-  }
-}
-p.search-addressee {
-  font-size: 0.75rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
-  color: #d1d3d4;
-  font-weight: 700;
-  line-height: 0.875rem;
-  margin-top: 5px;
-  margin-bottom: 0;
-}
-@media only screen and (max-width: 640px) {
-  p.search-addressee {
-    font-size: 0.75rem;
-    line-height: 0.875rem;
-  }
-}
-p.search-date {
+.newsletter-signup input[type=submit] {
+  border-top: 1px;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0.0625rem;
+  border-color: #f00;
+  background: transparent;
   font-size: 0.625rem;
-  font-family: "Georgia", serif;
-  color: #fff;
-  line-height: 0.875rem;
-  margin-top: 0.3125rem;
-  margin-bottom: 0;
-}
-div.search-image {
-  width: 6.25rem;
-  height: 6.25rem;
-  background-size: 6.25rem;
-  display: block;
-  margin-top: 0.9375rem;
-  margin-bottom: 1.5625rem;
-  background-color: #fff;
-  -moz-border-radius: 50%;
-  -webkit-border-radius: 50%;
-  border-radius: 50%;
-  overflow: hidden;
-  float: left;
-}
-@media only screen and (max-width: 640px) {
-  div.search-image {
-    width: 3.125rem;
-    height: 3.125rem;
-    background-size: 3.125rem;
-    margin-bottom: 0.75rem;
-  }
-}
-div.search-image img {
-  width: 11.25rem;
-  display: block;
-  max-width: 18.75rem;
-  margin-left: -3.125rem;
-  float: left;
-}
-@media only screen and (max-width: 640px) {
-  div.search-image img {
-    width: 5.625rem;
-    display: block;
-    max-width: 9.375rem;
-    margin-left: -1.5625rem;
-  }
-}
-.search-modal {
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.9);
-  z-index: 2500;
-  position: fixed;
-  top: 0;
-  left: 0;
-  overflow: scroll;
-}
-#search-modal {
-  display: none;
-}
-.close-x {
-  background: transparent url(../img/close-x.svg) no-repeat 0 0;
-  background-size: cover;
-  width: 3.125rem;
-  height: 3.125rem;
-  display: block;
-  position: fixed;
-  top: 1.25rem;
-  right: 1.25rem;
-  color: transparent;
-  border: none;
+  color: #f00;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   padding: 0;
   margin: 0;
+  width: auto;
+  display: none;
 }
-.no-svg .close-x {
-  background: transparent url(../img/close-x.png) no-repeat 0 0;
+#mc_embed_signup .button {
+  background-color: #aaa;
+  clear: both;
+  border: 0 none;
+  border-radius: 4px;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 15px;
+  font-weight: bold;
+  height: 32px;
+  line-height: 32px;
+  margin: 10px 5px 10px 0;
+  padding: 0 22px;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: top;
+  white-space: nowrap;
+  width: auto;
 }
-@media only screen and (max-width: 640px) {
-  .close-x {
-    width: 1.25rem;
-    height: 1.25rem;
-    top: 0.625rem;
-  }
+#mce-success-response,
+#mce-error-response {
+  width: 290px;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 0.875rem;
 }
