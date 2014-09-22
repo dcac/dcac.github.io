@@ -12,7 +12,6 @@ categories:
   - interviews
   - essays
 tags: [lord of the rings, peter jackson, academy awards, oscars,animation,special effects,fantasy]
-<<<<<<< HEAD
 ---
 
 11 years after *The Return of the King* took home 11 Oscars, Christopher Redmond speaks with three-time Academy Award winner Randall William Cook about what it was like to work on the groundbreaking *The Lord of the Rings* trilogy, misconceptions about his profession, and the state of blockbuster filmmaking today.
@@ -168,4 +167,3 @@ Another boyhood crush of mine was Jonathan Winters who played all these characte
 That was a statistic, and it was real nice that we did work that was recognized by a number of voters. But that's a team effort. Most Oscars are. When you've got a 12-man animation team on film one, and a 44 animation team on film three, you have to look at those statues and figure which percentage of it belongs to which other people on the crew.
 
 The night we got the first one, at an after ceremony dinner, I spoke to Robert Redford. He said "how does it feel?", because he'd won one that night as well. I said, "it's alright, but two weeks ago, Ray Harryhausen came down to visit in New Zealand to give a little talk, and he brought along the skeleton that had appeared in *The 7th Voyage of Sinbad* and I got to hold that skeleton in my hands. That's really what got me into this racket, and that was a lot bigger thrill.
->>>>>>> FETCH_HEAD
