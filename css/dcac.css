@@ -3501,3 +3501,135 @@ h1.postcard-film-title {
     margin-top: 2.1875rem;
   }
 }
+h1.contest-title {
+  color: #ffffff;
+  font-size: 3.75rem;
+  line-height: 3.75rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-weight: 700;
+  text-shadow: 0 0 2px #333333;
+}
+@media only screen and (max-width: 640px) {
+  h1.contest-title {
+    font-size: 2.5rem;
+    line-height: 2.5rem;
+    text-align: left;
+    margin-left: 0.9375rem;
+  }
+}
+.contest-title-text {
+  text-align: center;
+  bottom: 15px;
+  position: absolute;
+  width: 100%;
+}
+@media only screen and (max-width: 640px) {
+  .contest-title-text {
+    min-height: 120px;
+    bottom: 0;
+    width: 100%;
+    margin: 0;
+  }
+}
+form.wufoo {
+  background-color: #ffffff;
+}
+.wufoo input.text {
+  border: 1px solid #575758;
+  font-size: 0.875rem;
+  color: #575758;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  padding: 9px;
+  margin: 0;
+  width: 80%;
+  background: #ffffff;
+  height: .875rem;
+  padding-left: 57px;
+}
+.wufoo input#Field109 {
+  background: #ffffff url('../img/forms/location.png') 9px 5px no-repeat;
+}
+.wufoo input#Field108 {
+  background: #ffffff url('../img/forms/name.png') 9px 5px no-repeat;
+}
+.wufoo input#Field1 {
+  border: 1px solid #575758;
+  font-size: 0.875rem;
+  color: #575758;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  padding: 9px;
+  padding-left: 57px;
+  margin: 0;
+  width: 80%;
+  background: #ffffff url('../img/footer/email.png') 9px 5px no-repeat;
+}
+form.wufoo {
+  margin-top: 35px;
+}
+form.wufoo .focused {
+  background-color: #eee;
+}
+.newsletter-signup input[type=submit] {
+  border-top: 1px;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0.0625rem;
+  border-color: #f00;
+  background: transparent;
+  font-size: 0.625rem;
+  color: #f00;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  padding: 0;
+  margin: 0;
+  width: auto;
+  display: none;
+}
+form.wufoo a:hover {
+  padding-top: 40px;
+  text-decoration: none;
+  color: #f00;
+}
+form.wufoo fieldset {
+  margin: 0;
+}
+input#saveForm.btTxt.submit {
+  background-color: #aaa;
+  clear: both;
+  border: 0 none;
+  border-radius: 4px;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 15px;
+  font-weight: bold;
+  height: 32px;
+  line-height: 32px;
+  margin: 0 5px 0 0;
+  padding: 0 22px;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: top;
+  white-space: nowrap;
+  width: auto;
+}
+label.choice {
+  font-size: 0.875rem;
+  color: #575758;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+}
+fieldset {
+  margin: 0;
+  margin-top: 0.625rem;
+  padding: 0;
+  border: 0;
+}
+form.wufoo span.req {
+  display: none;
+}
+#mce-success-response,
+#mce-error-response {
+  width: 290px;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 0.875rem;
+}

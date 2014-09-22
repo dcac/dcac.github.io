@@ -34,6 +34,7 @@ defaults:
       addressee: false
       comments: true
       split_name: true
+      home-display: true
 
 sitemap:
     file: "/sitemap.xml"
