@@ -8,13 +8,13 @@ home_feature_display: false
 ---
       
       {% include top-nav.html %}
-        {% if page.home_feature_display == true %}
-          {% include home/home-feature.html %}
-        {% else %}
-          {% for post in site.posts limit:1 %}
-            {%include home/home-hero.html %}
-          {% endfor %}
-        {% endif %}
+      {% if page.home_feature_display == true %}
+        {% include home/home-feature.html %}
+      {% else %}
+        {% for post in site.posts limit:1 %}
+          {%include home/home-hero.html %}
+        {% endfor %}
+      {% endif %}
       
       <div class="row" id="row-height">
         <div class="large-8 medium-8 columns">
