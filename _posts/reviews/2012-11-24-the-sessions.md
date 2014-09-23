@@ -16,7 +16,7 @@ title: "The Sessions"
 comments: true
 tags: [boobs, Breasts, Breathing Lessons, Helen Hunts, John Hawkes, Letters, naked, nipple, nude, Oscar, The Sessions, tits]
 ---
-How's it going, girls? Long time no see (since _The Waterdance _twenty years go, to be exact). To tell the truth, I thought our relationship was over. Not even the cow-flinging winds of an F-5 _Twister _were enough to bring you back to me (even as I hoped against hope with each repeated VHS viewing). Then you won an Oscar with that wet T-shirt, and I figured, well, this is _As Good As it Gets_. You had matured and moved on and I managed, with great difficulty, to forget you.
+How's it going, girls? Long time no see (since _The Waterdance_ twenty years go, to be exact). To tell the truth, I thought our relationship was over. Not even the cow-flinging winds of an F-5 _Twister_ were enough to bring you back to me (even as I hoped against hope with each repeated VHS viewing). Then you won an Oscar with that wet T-shirt, and I figured, well, this is _As Good As it Gets_. You had matured and moved on and I managed, with great difficulty, to forget you.
 
 Now, in _The Sessions_, you've come out of retirement guns-a-blazin' with a performance that features Natasha Henstridge-levels of exposure. But you've done so for a wonderful film that revels in the 90s (like me) and is the perfect vehicle to make your big comeback.
 
@@ -32,7 +32,7 @@ When Mark is hired to write a research paper on sex for the disabled, we get a m
 
 Helen Hunt is the polar opposite: controlled, calm, and commanding. She exposes you early and often as she performs body awareness exercises with Mark. To his delight, she guides the back of his hand through breast etiquette: "If you touch one, you have to touch the other. It's sort of a rule." Lessons of this type are apparently what separate sex surrogates from prostitutes, although the film doesn't split hairs. Besides being more introspective about her work (your work, really), she institutes a strict limit on the number of encounters, which becomes the film's inherit drama. She's less worried about overstaying her welcome than about "emotional transference". Basically, building elaborate long-term fantasies about her (I wouldn't know anything about that).
 
-You've done a great job, you two. I appreciate your bold decision to appear at this relatively late age, and I understand if we can never see each other again. Those are the rules, after all. But it was pretty great to break them--just this once.
+You've done a great job, you two. I appreciate your bold decision to appear at this relatively late age, and I understand if we can never see each other again. Those are the rules, after all. But it was pretty great to break them—just this once.
 
 {% contentfor signature %}
 **Yours truly,**
