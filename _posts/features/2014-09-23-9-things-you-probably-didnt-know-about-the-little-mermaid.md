@@ -2,15 +2,15 @@
 layout: feature
 published: true
 image: 9-things-you-probably-didnt-know-about-the-little-mermaid.jpg
-title: "9 Things You Probably Did not Know About The Little Mermaid"
-addressee:
+title: "9 Things You Probably Didn't Know About The Little Mermaid"
+addressee: Readers
 excerpt: "Co-writers/co-directors Ron Clements and John Musker, at the 2014 Ottawa International Animation Festival, talk about kick-starting the Disney Renaissance."
 author: christopherr
 comments: true
 categories:
   - features
   - lists
-tags: [Animation,cartoon,list,disney,OIAF,festivals]
+tags: [Animation,animation,cartoon,interview,list,disney,OIAF,festivals]
 ---
 To celebrate the 25th anniversary of _The Little Mermaid_, co-writers/co-directors Ron Clements and John Musker spoke at the 2014 [Ottawa International Animation Festival](https://www.animationfestival.ca) about kick-starting the Disney Renaissance. Here are some of the behind-the-scenes tidbits they revealed:
 

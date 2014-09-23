@@ -3,7 +3,7 @@ layout: interview
 published: true
 image: 10-questions-with-randall-william-cook.jpg
 title: 10 Questions with Randall William Cook, Animation Supervisor.
-addressee:
+addressee: Readers
 excerpt: "Randall William Cook talks about what it was like to work on the groundbreaking <em>The Lord of the Rings</em> trilogy, misconceptions about his profession, and the state of blockbuster filmmaking today."
 author: christopherr
 comments: true
