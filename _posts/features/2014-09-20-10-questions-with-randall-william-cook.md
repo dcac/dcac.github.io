@@ -11,7 +11,7 @@ categories:
   - features
   - interviews
   - essays
-tags: [lord of the rings, peter jackson, academy awards, oscars,animation,special effects,fantasy]
+tags: [lord of the rings, peter jackson, academy awards, interview,oscars,animation,special effects,fantasy]
 ---
 
 11 years after *The Return of the King* took home 11 Oscars, Christopher Redmond speaks with three-time Academy Award winner Randall William Cook about what it was like to work on the groundbreaking *The Lord of the Rings* trilogy, misconceptions about his profession, and the state of blockbuster filmmaking today.
