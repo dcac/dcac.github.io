@@ -5,7 +5,7 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     {% if page.section == "Content" %}<meta property="og:image" content="http://www.dearcastandcrew.com/img/article/thumb-600/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}" />
-    <meta property="og:title" content="{% if page.categories contains "reviews" %}Dear%20{{ page.addressee }}%2C%20{{ page.position }}%20for%20{{ page.title |upcase }}{% else %}{{ page.title }}{% endif %}" />{% endif %}
+    <meta property="og:title" content="{% if page.categories contains "reviews" %}Dear {{ page.addressee }} {{ page.position }} for {{ page.title |upcase }}{% else %}{{ page.title }}{% endif %}" />{% endif %}
     <title>{% if page.home %}{% else %}{{page.title}} | {%endif %}Dear Cast & Crew{% if page.home %} | Movie Reviews, Essays, and Exchanges{% endif %}</title>
     <script type="text/javascript" src="http://fast.fonts.net/jsapi/053a7698-a2e7-4a94-b380-2cfed49d680a.js"></script>
     <link rel="icon" href="/favicon.png" type="image/png">
