@@ -15,7 +15,7 @@ addressee:  John Larson
 tags: [Denzel Washington,action,military,Antoine Fuqua,tools]
 ---
 
-There are a lot of crazy ways to die. No less than a thousand [according to Spike TV,](http://www.spike.com/shows/1000-ways-to-die) and up to a million [according to Seth MacFarlane](http://www.dearcastandcrew.com/content/2014/6/9/a-million-ways-to-die-in-the-west.html). Many successful film franchises, like _Final Destination, Saw, _and_ Friday the 13th_, have made their reputations by finding creative ways to kill people off. That's fine for a horror film – and even the occasional comedy – but in the case of _The Equalizer_, the fact the filmmakers kept turning to an art department employee like you for their inspiration represents everything that's wrong with the film.
+There are a lot of crazy ways to die. No less than a thousand [according to Spike TV,](http://www.spike.com/shows/1000-ways-to-die) and up to a million [according to Seth MacFarlane](http://www.dearcastandcrew.com/content/2014/6/9/a-million-ways-to-die-in-the-west.html). Many successful film franchises, like _Final Destination_, _Saw_, and _Friday the 13th_, have made their reputations by finding creative ways to kill people off. That's fine for a horror film – and even the occasional comedy – but in the case of _The Equalizer_, the fact the filmmakers kept turning to an art department employee like you for their inspiration represents everything that's wrong with the film.
 
 Maybe it was my fault to expect something of substance in the reunion of Denzel Washington and Antoine Fuqua, the director who coached him to an Academy Award in _Training Day_. After all, neither of them have made much else besides this sort of action vehicle since then. But even with lowered expectations, _The Equalizer_ is constantly firing blanks.
 
@@ -27,7 +27,8 @@ Killing – or more specifically, the _ways_ people are killed – shouldn't be 
 
 And that story involves a lot of your tools and the creative ways they kill people. Which is fine, until McCall literally starts stepping over machine guns in favour of hardware store props—you know, just to keep his life interesting. He calmly walks into countless confrontations with villains, always "giving them a chance" before dispatching them with ease. He's never in any real danger, and lazy cross-cutting tries to trick the audience into believing the bad guys are always right on his tail. Instead, he's always five steps ahead in ways the filmmakers don't even try to explain. He has every tool he ever needs, be it electronic gizmos or hedge- (and head-) trimming shears.
 
-{% contentfor signature %}**Feeling like a tool for looking forward to this,**
+{% contentfor signature %}
+**Feeling like a tool for looking forward to this,**
 
 Christopher
 {% endcontentfor %}
