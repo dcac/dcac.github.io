@@ -99,7 +99,7 @@ What a time to be interning. You start a project expecting to learn cutting edge
 ![][11]
 
 **9. Dear Brian Smrz, Driver of Grant, Sattler & Malcolm's Jeep** (uncredited),  
-I don't know if you had the easier job, or the harder one. You're the driver of the jeep that takes Sam Elliott, Laura Dern, and Jeff Goldbloom to their first glimpse of *Jurassic Park*'s amazing creatures. On one hand, you didn't have to do much reacting to the yet-unfinished effects on location, with the been-there-done-that expression you employ as the other three pretended to stare in wonder. On the other hand, you missed what might have been your only chance to make the [Spielberg Face][12].
+I don't know if you had the easier job, or the harder one. You're the driver of the jeep that takes Sam Neill, Laura Dern, and Jeff Goldbloom to their first glimpse of *Jurassic Park*'s amazing creatures. On one hand, you didn't have to do much reacting to the yet-unfinished effects on location, with the been-there-done-that expression you employ as the other three pretended to stare in wonder. On the other hand, you missed what might have been your only chance to make the [Spielberg Face][12].
 
    [11]: /img/features/inline/jurassic-park-9.jpg
 
