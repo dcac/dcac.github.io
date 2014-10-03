@@ -15839,13 +15839,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/img\/article\/thumb-300\/Insidious-Chapter-2.jpg": {
+	"\/_site\/img\/article\/thumb-300\/insidious-chapter-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 15539,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/Insidious-Chapter-2.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/Insidious-Chapter-2.jpg",
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/insidious-chapter-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/insidious-chapter-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -40105,6 +40105,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/this-is-where-i-leave-you.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99428,
+		"inputAbbreviatedPath": "\/img\/article\/main\/this-is-where-i-leave-you.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/this-is-where-i-leave-you.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/thor-the-dark-world.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -41795,6 +41806,17 @@
 		"initialSize": 20923,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/enemy.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/enemy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-300\/EP-140919121.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8488,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/EP-140919121.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/EP-140919121.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -50661,6 +50683,17 @@
 		"initialSize": 39690,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/this-is-the-end.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/this-is-the-end.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-600\/this-is-where-i-leave-you.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22694,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/this-is-where-i-leave-you.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/this-is-where-i-leave-you.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
