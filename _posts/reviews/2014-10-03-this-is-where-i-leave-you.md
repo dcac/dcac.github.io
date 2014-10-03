@@ -4,7 +4,7 @@ categories:
   - reviews
   - current-releases
 published: true
-title: This is where I Leave You
+title: This is Where I Leave You
 image: "this-is-where-i-leave-you.jpg"
 imdb: tt1371150
 author: dig
@@ -16,7 +16,7 @@ tags: [Jason Bateman, Tina Fey, Katherine Hahn,comedy,ensemble]
 ---
 Some might find it strange that a dialogue-driven, ensemble dramedy like _This Is Where I Leave You_ required any stunts. Those people are probably only-children.
 
-When my brothers and I were kids, we used to stage fights. Mostly in slow-motion with the "nun-nun-nun-nun" sound effect from _The __Six Million Dollar__ Man_ to accompany punches that purposely didn't make contact. But sometimes we got into serious fights, with real blood and broken furniture and punches that were most certainly meant to connect. You must have siblings as well. From the fight scenes, stunt driving, and various choreographed physicality executed by you and your team, it would seem that you have a firm grasp of complex family dynamics.
+When my brothers and I were kids, we used to stage fights. Mostly in slow-motion with the "nun-nun-nun-nun" sound effect from _The Six Million Dollar Man_ to accompany punches that purposely didn't make contact. But sometimes we got into serious fights, with real blood and broken furniture and punches that were most certainly meant to connect. You must have siblings as well. From the fight scenes, stunt driving, and various choreographed physicality executed by you and your team, it would seem that you have a firm grasp of complex family dynamics.
 
 _This Is Where I Leave You_ also fights a lot with its proverbial parent – the novel. The film suffers from the typical book-to-film adaptation problem where there's just too much story to pack into 100 minutes. This film is genuinely funny, poignant, and true, with fine performances that unfortunately only scratch the surface of a deeper truth about family and forgiveness.
 
