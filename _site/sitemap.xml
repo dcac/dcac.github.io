@@ -2149,8 +2149,14 @@
         <lastmod>2014-10-01T14:14:27-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/content/2014/10/3/this-is-where-i-leave-you.html</loc>
-        <lastmod>2014-10-03T15:42:35-04:00</lastmod>
+        <loc>
+            http://www.dearcastandcrew.com/content/2014/10/3/this-is-where-i-leave-you%20copy.html
+        </loc>
+        <lastmod>2014-10-03T16:39:39-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/10/6/My-Old-Lady.html</loc>
+        <lastmod>2014-10-07T07:20:47-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/all-posts.json</loc>
@@ -2174,7 +2180,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2014-10-03T15:42:35-04:00</lastmod>
+        <lastmod>2014-10-07T07:20:47-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/reviews/current-releases/</loc>
