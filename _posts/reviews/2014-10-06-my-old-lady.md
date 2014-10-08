@@ -24,7 +24,8 @@ You did do a fine job giving Mathilde's apartment (or is it Mathias' apartment? 
 
 While reasonably well-wrought on their own, the narrative and stylistic elements simply do not fit together, chafing against each other in a way that indicates an overall lack of certainty, resulting in a film that isn't quite sure what it wants to be. To be fair, _My Old Lady_ is not without its charming moments, but they all take place in the brief sojourns from the main plot. Mathias' friendship with a local realtor, and a random riverside encounter with an opera singer brought a smile to my face, and made me wonder if Mathias _had_ to go home right then or if he could stay outside and play just a little while longer.
 
-{% contentfor signature %}**Best,**
+{% contentfor signature %}
+**Best,**
 
 Nat
 {% endcontentfor %}
