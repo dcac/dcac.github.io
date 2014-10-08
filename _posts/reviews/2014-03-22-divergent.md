@@ -14,7 +14,7 @@ categories:
 title: "Divergent"
 date: 2014-03-22 17:56
 comments: true
-tags: [action, drama, Letters, teen]
+tags: [ya,young adult,science fiction,action, drama, Letters, teen]
 ---
 Did you have one of those big box of crayons as a kid? You know, the 64-pack with colours called 'Goldenrod' and 'Mahogony' and a built-in sharpener on the side? If you did, and you were like me, you probably used all of them at least once. But I get the feeling from seeing your work in other films - _American Hustle_ and _Django Unchained_, to name a few - that you prefer a simplified spectrum with which to paint your worlds. And while you take your cues from the director and DP, the tools with which to create the palette of the film, like that long ago box of crayons, are ultimately in your hands. In _Divergent,_ you employ them sparingly but with great effect.
 

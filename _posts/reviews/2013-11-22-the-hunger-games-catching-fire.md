@@ -14,7 +14,7 @@ categories:
   - netflix
 title: "The Hunger Games: Catching Fire"
 comments: true
-tags: [Catching Fire, drama, dystopia, fantasy, Letters, teen, The Hunger Games]
+tags: [ya,young adult,science fiction,Catching Fire, drama, dystopia, fantasy, Letters, teen, The Hunger Games]
 ---
 In a world of authoritarian dictatorship, you need to keep a close eye on the masses. Make sure nobody steps out of line. If people disobey orders, they need to be eliminated. Erased from existence. After all, if even a few get out of hand, they could disrupt the whole delicate system. Which is of course why you were brought into the world of _The Hunger Games_. Well, the post-production visual effects world anyway. But I'm sure the same rules applied.
 

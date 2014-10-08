@@ -15,7 +15,7 @@ categories:
 title: "The Hunger Games"
 comments: true
 streaming: true
-tags: [Jennifer Lawrence, Kelly Doty, Letters, netflix.ca, Post-Prouction Intern, Review, The Hunger Games]
+tags: [ya,young adult,science fiction,Jennifer Lawrence, Kelly Doty, Letters, netflix.ca, Post-Prouction Intern, Review, The Hunger Games]
 ---
 As your first big gig in Hollywood, you really landed the jackpot. First, you got to be the envy of your jealous friends, who undoubtedly tried to claw out every detail of how the filmmakers would adapt Suzanne Collin's wildly popular novel The Hunger Games. More importantly though, while you were busy running around getting coffee for the editors, colourists, and data managers, I hope you picked up a little something for yourself: like a lesson in how the pressures of catering to a rabid fan-base doesn't have to result in pandering to a common denominator.
 
