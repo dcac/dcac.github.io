@@ -14,8 +14,8 @@ tags: [David Fincher, Ben Addleck, essay]
 ---
 Dear Cinema,
 
-You had a good run. Quite frankly, you changed the world. But in the 21<sup>st</sup>
- century, the world has changed you. Look no further than David Fincher's latest film _Gone Girl_ for proof. 
+**You had a good run. Quite frankly, you changed the world. But in the 21<sup>st</sup>
+ century, the world has changed you. Look no further than David Fincher's latest film _Gone Girl_ for proof.** 
 
 It's the canary in the cinematic coal mine.
 
