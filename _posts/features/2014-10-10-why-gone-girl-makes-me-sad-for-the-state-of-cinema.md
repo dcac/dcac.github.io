@@ -19,7 +19,7 @@ Dear Cinema,
 
 It's the canary in the cinematic coal mine.
 
-_Gone Girl_ is a good film. Almost a great film. It has a runtime of two and a half hours, but earns every minute – and then some. The story is juicy and complex, the performances are dialed in just right, and the plot twists are both frequent and fascinating. In any other era, _Gone Girl_ would have been worthy and welcomed in movie theaters.
+_Gone Girl_ is a good film. [Almost a great film](/content/2014/10/9/gone-girl.html "Gone Girl review"). It has a runtime of two and a half hours, but earns every minute – and then some. The story is juicy and complex, the performances are dialed in just right, and the plot twists are both frequent and fascinating. In any other era, _Gone Girl_ would have been worthy and welcomed in movie theaters.
 
 Today, _Gone Girl_ belongs on television. As a mini-series, where all great stories are told – unencumbered by the restraints of cinema.
 
