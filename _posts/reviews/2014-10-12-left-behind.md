@@ -25,3 +25,6 @@ But here's the thing: despite the surprisingly competent – dare I say _good_ -
 Religious beliefs aside, both the Rapture (an event which, strangely, is never referred to in the film as such) and the Apocalypse are fascinating stories that offer a lot of potential. It's a shame you wasted them here. Maybe that's the fault of Tim LaHaye and Jerry B. Jenkins - like I said, I haven't read the source material, so I don't know what you were working with - but, as the co-writer AND the producer, you had the opportunity to do more.
 
 One final aside: I know the producers make the final decision when it comes to the score, so you should know that it's pretty shlocky at times.
+
+**Sincerely,**  
+Diane Carol Harder
