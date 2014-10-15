@@ -4,7 +4,7 @@ published: true
 image: why-gone-girl-makes-me-sad-for-the-state-of-cinema.jpg
 title: "Why Gone Girl Makes Me Sad for the State of Cinema"
 addressee: 
-excerpt: "Why <em>Gone Girl</em> belongs on television as a mini-series, unencumbered by the restraints of cinema"
+excerpt: "Why <em>Gone Girl</em> belongs on television as a mini-series, unencumbered by the restraints of cinema."
 author: christopherr
 comments: true
 categories:
