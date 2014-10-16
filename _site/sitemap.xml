@@ -2172,7 +2172,7 @@
         <loc>
             http://www.dearcastandcrew.com/content/2014/10/10/why-gone-girl-makes-me-sad-for-the-state-of-cinema.html
         </loc>
-        <lastmod>2014-10-13T19:40:18-04:00</lastmod>
+        <lastmod>2014-10-15T12:12:22-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2014/10/12/left-behind.html</loc>
@@ -2187,6 +2187,10 @@
         <lastmod>2014-10-15T10:52:14-04:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/10/16/tusk.html</loc>
+        <lastmod>2014-10-16T09:50:20-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/all-posts.json</loc>
         <lastmod>2014-09-28T13:46:04-04:00</lastmod>
     </url>
@@ -2195,11 +2199,11 @@
         <lastmod>2014-10-07T18:22:07-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/dig/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/christopherr/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/features/lists/</loc>
+        <loc>http://www.dearcastandcrew.com/features/series/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
@@ -2211,19 +2215,11 @@
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/features/essays/</loc>
-        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
-    </url>
-    <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2014-10-15T10:52:14-04:00</lastmod>
+        <lastmod>2014-10-16T09:50:20-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/features/series/</loc>
-        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/reviews/on-video/</loc>
+        <loc>http://www.dearcastandcrew.com/reviews/current-releases/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
@@ -2231,15 +2227,23 @@
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/coryh/</loc>
+        <loc>http://www.dearcastandcrew.com/reviews/on-video/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/caseyt/</loc>
+        <loc>http://www.dearcastandcrew.com/features/essays/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/kelany/</loc>
+        <loc>http://www.dearcastandcrew.com/features/lists/</loc>
+        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/writers/dig/</loc>
+        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/writers/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
@@ -2251,15 +2255,19 @@
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/christopherr/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/caseyt/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/coryh/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/reviews/current-releases/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/kelany/</loc>
+        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/about/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
@@ -2271,12 +2279,12 @@
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/about/</loc>
-        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
-    </url>
-    <url>
         <loc>http://www.dearcastandcrew.com/contests/john-wick-contest.html</loc>
         <lastmod>2014-10-03T12:10:07-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/contests/nightcrawler-contest.html</loc>
+        <lastmod>2014-10-16T09:39:29-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/pride-contest.html</loc>
