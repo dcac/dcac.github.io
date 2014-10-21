@@ -35,6 +35,7 @@ defaults:
       comments: true
       split_name: true
       home-display: true
+      title-display: true
 
 sitemap:
     file: "/sitemap.xml"

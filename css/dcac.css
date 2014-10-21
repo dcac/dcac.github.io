@@ -251,6 +251,22 @@ h2.hero-excerpt-home {
     display: none;
   }
 }
+h2.hero-excerpt-home-title {
+  color: #ffffff;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.25rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  text-shadow: 0 0 2px #333333;
+  position: relative;
+}
+@media only screen and (max-width: 640px) {
+  h2.hero-excerpt-home-title {
+    font-size: 18px;
+    line-height: 1.125rem;
+    text-align: left;
+  }
+}
 h2.hero-author-home {
   color: #ffffff;
   font-size: 0.875rem;
@@ -2558,6 +2574,22 @@ h2.feature-sub-title {
     line-height: 1.25rem;
     font-size: 1.125rem;
     margin-bottom: 0;
+  }
+}
+h2.feature-hero-small-title {
+  color: #ffffff;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.25rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  text-shadow: 0 0 2px #333333;
+  position: relative;
+}
+@media only screen and (max-width: 640px) {
+  h2.feature-hero-small-title {
+    font-size: 18px;
+    line-height: 1.125rem;
+    text-align: left;
   }
 }
 h2.feature-hero-author {
