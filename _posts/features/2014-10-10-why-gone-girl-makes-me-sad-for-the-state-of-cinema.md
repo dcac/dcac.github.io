@@ -10,7 +10,7 @@ comments: true
 categories:
   - features
   - lists
-tags: [David Fincher, Ben Addleck, essay]
+tags: [David Fincher, Ben Affleck, essay]
 ---
 Dear Cinema,
 

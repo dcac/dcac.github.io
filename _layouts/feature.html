@@ -38,8 +38,7 @@ layout: default
             <p class="intro hide-for-small">Dear {{ name.first }},</p>
             {% endif %}
             {% assign author-sig = page.author %}{{ content | replace_first: '<p>','<p class="intro">' }}
-            {% include signature.html %}
-            {% contentblock postscript %}
+            {% if author.bio %}{% include signature.html %}{% endif %}
           </div>
           <div class="large-2 medium-2 columns side-spacer hide-for-small-only"></div>
         </div>
