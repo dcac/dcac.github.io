@@ -5,7 +5,7 @@ image: a-conversation-with-jess-gonchor-production-designer.jpg
 title: A Conversation with Jess Gonchor, Production Designer
 title-display: false
 addressee: Readers
-excerpt: "Academy Award-nominated Production Designer Joss Gonchor talks to Christopher Redmond about his craft, his career, and what it takes to rise through the ranks in Hollywood."
+excerpt: "Academy Award-nominated Production Designer Jess Gonchor talks to Christopher Redmond about his craft, his career, and what it takes to rise through the ranks in Hollywood."
 author: christopherr
 comments: true
 categories:
@@ -17,7 +17,7 @@ tags: [academy awards, interview,oscars,production designer,Coen Brothers,The Lo
 
 ****
 
-From the set of _Hail, Caesar!_ – his sixth film with the Joel and Ethan Coen – Academy Award-nominated Production Designer Joss Gonchor talks to Christopher Redmond about his craft, his career, and what it takes to rise through the ranks in Hollywood.
+From the set of _Hail, Caesar!_ – his sixth film with the Joel and Ethan Coen – Academy Award-nominated Production Designer Jess Gonchor talks to Christopher Redmond about his craft, his career, and what it takes to rise through the ranks in Hollywood.
 
 **What made you want to become a Production Designer?**
 
