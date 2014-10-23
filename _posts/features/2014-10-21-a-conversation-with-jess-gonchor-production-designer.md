@@ -12,7 +12,7 @@ categories:
   - features
   - interviews
   - essays
-tags: [academy awards, interview,oscars,production designer,Coen Brothers,The Lone ranger,]
+tags: [academy awards, interview,oscars,production designer,Coen Brothers,The Lone Ranger,]
 ---
 
 ****

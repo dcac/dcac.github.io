@@ -12,7 +12,7 @@ stars: 1
 excerpt: This is where the short description will go.
 position: Documentalist
 addressee:  Guillermo Martel
-tags: [Brad Pitt,world war 2, drama, action, war]
+tags: [Elijah Wood, Sasha Grey, thriller,negative review]
 ---
 My first thought when I saw your job title was: "Well, that sounds stupid—it must be a mistake." Which was similar to the thought I had when I first heard the concept for _Open Windows_. But after watching the film – and looking up the definition of "documentalist" – I can say that both things, sadly, actually exist.
 
