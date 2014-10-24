@@ -24,7 +24,7 @@ Unless of course, you have generous friends like Dear Cast and Crew, who give ti
 **Edmonton**  
 **Calgary**  
 **Victoria**  
-**Vancouver**
+**Vancouver**  
 **Winnipeg**
 
 To win a pair double passes to see **NIGHTCRAWLER on Oct. 29th**, featuring Lou Bloom in action, enter below.
