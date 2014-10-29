@@ -13,7 +13,7 @@ series-name: TIFF 2014
 addressee: TIFF
 position: ""
 author: christopherr
-image: nightcrawler.jpg
+image: nightcrawler-tiff.jpg
 comments: true
 ---
 That first clap you heard when the screening was over? That was me. And the sigh of relief right afterwards? That was me, too. I was waiting to find the film at this year's festival that I'd flip over, and I finally did.
