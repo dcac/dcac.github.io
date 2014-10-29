@@ -13,7 +13,7 @@ addressee:
 ---
 ***Dear Hungry Fans,***
 
-You're craving tickets to the newest film in *The Hunger Games* saga - aren't you? Well eat this up!
+You're craving tickets to the newest film in *The Hunger Games* saga — aren't you? Well eat this up!
 
 We've got advance tickets for *The Hunger Games: Mockingjay Part 1* in the following Canadian districts:
 
