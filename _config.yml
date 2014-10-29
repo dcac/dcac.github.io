@@ -36,6 +36,7 @@ defaults:
       split_name: true
       home-display: true
       title-display: true
+      share-display: standard
 
 sitemap:
     file: "/sitemap.xml"
