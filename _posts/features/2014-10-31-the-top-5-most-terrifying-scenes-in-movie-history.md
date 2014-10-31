@@ -1,6 +1,7 @@
 ---
 layout: feature
 published: true
+date: 2014-10-31 10:00
 image: the-top-5-most-terrifying-scenes-in-movie-history.jpg
 title: "The Top 5 Most Terrifying Scenes in Movie History"
 addressee: Readers
