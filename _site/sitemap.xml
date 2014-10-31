@@ -1978,7 +1978,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2014/9/7/tiff-postcard-1-the-search.html</loc>
-        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
+        <lastmod>2014-10-30T09:45:45-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2014/9/7/tiff-postcard-2-red-army.html</loc>
@@ -2036,7 +2036,7 @@
         <loc>
             http://www.dearcastandcrew.com/content/2014/9/9/tiff-postcard-4-nightcrawler.html
         </loc>
-        <lastmod>2014-10-29T12:30:50-04:00</lastmod>
+        <lastmod>2014-10-29T12:33:28-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2014/9/10/tiff-2014-day-seven.html</loc>
@@ -2132,7 +2132,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2014/9/25/pride.html</loc>
-        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
+        <lastmod>2014-10-30T09:47:14-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2014/9/29/The-equalizer.html</loc>
@@ -2192,7 +2192,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2014/10/17/fury.html</loc>
-        <lastmod>2014-10-17T11:47:21-04:00</lastmod>
+        <lastmod>2014-10-30T09:44:59-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2014/10/20/open-windows.html</loc>
@@ -2208,7 +2208,7 @@
         <loc>
             http://www.dearcastandcrew.com/content/2014/10/22/the-province-of-television.html
         </loc>
-        <lastmod>2014-10-22T13:07:15-04:00</lastmod>
+        <lastmod>2014-10-30T09:46:02-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2014/10/23/the-one-i-love.html</loc>
@@ -2218,11 +2218,15 @@
         <loc>
             http://www.dearcastandcrew.com/content/2014/10/24/birdman-or-the-unexpected-virtue-of-ignorance.html
         </loc>
-        <lastmod>2014-10-27T10:50:49-04:00</lastmod>
+        <lastmod>2014-10-30T09:47:13-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2014/10/29/nightcrawler.html</loc>
-        <lastmod>2014-10-29T12:26:53-04:00</lastmod>
+        <lastmod>2014-10-30T09:47:18-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/10/30/john-wick.html</loc>
+        <lastmod>2014-10-30T09:48:44-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/all-posts.json</loc>
@@ -2233,7 +2237,7 @@
         <lastmod>2014-10-07T18:22:07-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/dig/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/caseyt/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
@@ -2250,7 +2254,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2014-10-29T12:30:50-04:00</lastmod>
+        <lastmod>2014-10-30T09:48:44-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/reviews/current-releases/</loc>
@@ -2277,7 +2281,7 @@
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/caseyt/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/dig/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
@@ -2285,8 +2289,8 @@
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/natm/</loc>
-        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
+        <loc>http://www.dearcastandcrew.com/writers/timm/</loc>
+        <lastmod>2014-10-30T09:39:40-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/writers/christopherr/</loc>
@@ -2294,14 +2298,14 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/writers/</loc>
-        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
+        <lastmod>2014-10-30T09:41:51-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/writers/jaredy/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/about/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/natm/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
@@ -2310,6 +2314,10 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/privacy/</loc>
+        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/about/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>

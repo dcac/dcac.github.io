@@ -33,6 +33,7 @@ They are probably functional parallels between your work and the service Lou pro
 One other parallel came to mind as I watched this film. If cinema is – and I'm sure you'll agree with me here, Mike – a continuing conversation, then Gyllenhaal's Lou Bloom is flawlessly described in this quote from another, equally vivid film about an organism attuned to its environment: "…a survivor, unclouded by conscience, remorse, or delusions of morality."
 
 **To all the Nightcrawlers,**
-
+{% contentfor signature%}
 **Cheers,**  
 Tim
+{% endcontentfor %}

@@ -23,6 +23,3 @@ The Search, Michael Hazanavicius’ follow up to his phenomenally successful *
 ​I can imagine your disappointment then, when you first screened it. Despite rambling, often stilted performances from the two principal cast members, it has great cinematography and some remarkable visual storytelling that is then undercut by long-winded, hackneyed speechifying (from Bening particularly).
 
 A six dressed up as a nine is somehow more disappointing than just a six.
-
-**Sincerely,**  
-Tim

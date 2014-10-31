@@ -41,6 +41,3 @@ The feeling you get at the conclusion of _Deadwood_ or _The Hour_, as opposed to
 Personally, I'm glad you look the way you do. Just yesterday I witnessed an excellent example of what you do so well: a Welsh/BBC series called _Hinterland_. Great writing, interesting visuals, competent performances. The strange thing was that the very first episode was ninety minutes long, self-contained, and gave no previous context for the world or characters.
 
 It didn't bite in quite the same way. There was a restraint inherent in the storytelling, a tendency to bow to the one expediency television can never escape: that there is always a next episode.
-
-**Sincerely,**
-Tim
