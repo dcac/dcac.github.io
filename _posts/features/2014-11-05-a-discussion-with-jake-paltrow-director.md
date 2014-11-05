@@ -4,7 +4,6 @@ published: true
 image: a-discussion-with-jake-paltrow-director.jpg
 title: A Discussion with Jake Paltrow, Director
 title-display: false
-addressee: Readers
 excerpt: "C. Redmond talks to writer/director Jake Paltrow about what he learned from working on P.T. Anderson's first film, how he communicates with each department on set, and what's it like to have his godfather, Steven Spielberg, show up at his film premieres."
 author: christopherr
 comments: true

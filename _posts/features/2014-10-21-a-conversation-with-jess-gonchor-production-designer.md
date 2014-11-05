@@ -4,7 +4,6 @@ published: true
 image: a-conversation-with-jess-gonchor-production-designer.jpg
 title: A Conversation with Jess Gonchor, Production Designer
 title-display: false
-addressee: Readers
 excerpt: "Academy Award-nominated Production Designer Jess Gonchor talks to Christopher Redmond about his craft, his career, and what it takes to rise through the ranks in Hollywood."
 author: christopherr
 comments: true
