@@ -29,7 +29,7 @@ Or not. An alien race called the S'krell have similar plans for Nova Prime, and 
 
 Jaden's poor larynx must have been pretty decimated after delivering all that exposition in the film's first ten minutes, because, for the rest of the film, you two are forced to be the outer space-Karate Kid's primary method of expressing emotion. The onus fell on you, the suborbital ridge, to do the heavy lifting.
 
-And that's a lot of lifting.  In the absence of help from any other limbs or organs, you heroically stepped up to convey young Kitai's inner turmoil. Lowering to demonstrated his disappointment at not passing his space-ranger exams; frowning to express frustration that his dad isn't as much a part of his life as he'd like; arching to illustrate the joy of accompanying his father on a training mission; lifting high to communicate the horror he feels when that mission, of course, goes terribly wrong.
+And that's a lot of lifting.  In the absence of help from any other limbs or organs, you heroically stepped up to convey young Kitai's inner turmoil. Lowering to demonstrate his disappointment at not passing his space-ranger exams; frowning to express frustration that his dad isn't as much a part of his life as he'd like; arching to illustrate the joy of accompanying his father on a training mission; lifting high to communicate the horror he feels when that mission, of course, goes terribly wrong.
 
 But you are only capable of so much. The _corrugator supercilii_ muscle only moves in two directions, after all. Jaden Smith's crinkled brow achieves little more than expressing the general notion that he has feelings. You know, that look teenage boys use to convince girls that they're different than the other guys.
 
