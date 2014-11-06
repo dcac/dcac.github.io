@@ -4,7 +4,7 @@ categories:
   - reviews
   - current-releases
 published: true
-title: ""Tim's Vermeer
+title: "Tim's Vermeer"
 image: "tims-vermeer.jpg"
 imdb: tt3089388
 author: dig
