@@ -16,10 +16,10 @@ Looking to crack the universe's code for romance?  How about taking a date to se
 
 We're giving away double passes for the Stephen Hawking film that's received all sorts of Oscar buzz since it premiered at TIFF. We have tickets for the following Canadian cities:
 
-**Victoria**  
-**Ottawa**  
-**Winnipeg**  
-**Edmonton**
+**Victoria (Nov. 19)**  
+**Edmonton (Nov. 19)**  
+**Winnipeg (Nov. 20)**  
+**Ottawa (Nov. 20)**
 
 Enter below for your chance to win.
 
