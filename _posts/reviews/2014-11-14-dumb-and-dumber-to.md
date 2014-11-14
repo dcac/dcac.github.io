@@ -6,7 +6,7 @@ categories:
 published: true
 title: "Dumb and Dumber To"
 image: "dumb-and-dumber-to.jpg"
-imdb: tt0109686
+imdb: tt2096672
 author: christopherr
 stars: 4
 excerpt: This is where the short description will go.
