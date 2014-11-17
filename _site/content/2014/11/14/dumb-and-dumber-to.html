@@ -179,7 +179,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2014/11/14/dumb-and-dumber-to.html" class="latest-review"><strong>Latest review: </strong><em>Dumb and Dumber To</em> - Dear Jennifer Lawrence, Cameo Remover</a></li>
+            <li><a href="/content/2014/11/17/rosewater.html" class="latest-review"><strong>Latest review: </strong><em>Rosewater</em> - Dear Jon Stewart, Director</a></li>
             
           </ul>
         </section>
@@ -417,12 +417,12 @@
     //get the movie info from IMDB
     $.ajax({
       
-      url: "http://omdbapi.com/?i=tt0109686",
+      url: "http://omdbapi.com/?i=tt2096672",
       dataType: 'jsonp',
       success: function(data) {
         var html = '<div class="row imdb-info-row no-border full-width">';
         //html += '<img class="imdb-img" src="' +data.Poster +'" />';
-        html += '<img class="imdb-img" src="http://img.omdbapi.com/?i=tt0109686&apikey=bc6b02e2&h=450" /><br />';
+        html += '<img class="imdb-img" src="http://img.omdbapi.com/?i=tt2096672&apikey=bc6b02e2&h=450" /><br />';
         html += '<span class="imdb-category">Directed by</span><br /><span class="imdb-data">' + data.Director.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
