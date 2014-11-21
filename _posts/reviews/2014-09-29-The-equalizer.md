@@ -5,7 +5,7 @@ categories:
   - current-releases
 published: true
 title: The Equalizer
-image: "the-equalizer"
+image: "the-equalizer.jpg"
 imdb: tt0455944
 author: christopherr
 stars: 2
