@@ -14,7 +14,7 @@ position: "Writer and Editor"
 addressee:  "Greg O’Toole"
 tags: [documentary,abortion,editor]
 ---
-Your job is to work with the filmmakers – in the case of _After Tiller_, producers/directors Martha Shane and Lana Wilson – to assemble their footage into an effective narrative. It’s, and I’m sure some of those choices were difficult. You help shape the story, offer advice, but, ultimately, the final decisions are not yours to make. You need to trust that the people making these decisions know what’s best. 
+Your job is to work with the filmmakers – in the case of _After Tiller_, producers/directors Martha Shane and Lana Wilson – to assemble their footage into an effective narrative. It’s all about offering choices, and I’m sure some of those choices were difficult. You help shape the story, offer advice, but, ultimately, the final decisions are not yours to make. You need to trust that the people making these decisions know what’s best. 
 
 Unlike scripted films, documentaries aren’t typically “written” until all the footage has been compiled. It’s only _after_ viewing the footage that the story is uncovered, pieced together by editing. Shane and Wilson relied on your expertise to guide them through the murky moral waters of the abortion debate to tell a part of the story that has so far been overlooked: that of the abortion provider. 
 
