@@ -2,7 +2,7 @@
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - netflix
 published: true
 title: "After Tiller"
 image: "after-tiller.jpg"
