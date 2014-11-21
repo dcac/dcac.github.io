@@ -33,7 +33,7 @@ Dr. Robinson recalls working in a state where the woman is required to tell a co
 
 None of these doctors wanted to be political activists. They just want to help women. And they still grapple with ethical conundrums on a daily basis, all while keeping Dr. Tiller’s ethos at the forefront of their practices: that a woman’s body is smarter than a doctor. 
 
-The truth you encouraged Shane and Wilson to seek is the real hero of this story. Thank you for guiding it’s journey. 
+The truth you encouraged Shane and Wilson to seek is the real hero of this story. Thank you for guiding its journey. 
 
 {% contentfor signature %}
 **Highest regards,**
