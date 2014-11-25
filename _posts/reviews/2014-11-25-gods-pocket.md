@@ -2,7 +2,7 @@
 layout: review
 categories: 
   - reviews
-  - netflix
+  - current-releases
 published: true
 title: "God's Pocket"
 image: "gods-pocket.jpg"
@@ -13,11 +13,11 @@ excerpt: This is where the short description will go.
 position: Christina Hendricks
 addressee: Actor
 tags: 
-  - documentary
-  - netflix
-  - africa
-  - sound effects
-  - guns
+  - thriller
+  - Philip Seymour Hoffman
+  - Christina Hendricks
+  - John Tuturro
+  - John Slatery
 ---
 
 You’re best known as Joan Harris, the chilly office manager at the fictional ad agency in _Mad Men_. Joan is the proud figurehead of the Good Ship _Sterling Cooper & Partners_, and not just because of her bombshell appearance. She’s the confident queen bee, feared, respected. But beneath the facade she’s a complicated, vulnerable woman. Joan is a character that comes along once in an actor’s lifetime. The kind of role that really showcases your gifts, and, no doubt, the kind of role that spoils you for future work. Especially roles like _God’s Pocket_, in which your character is a literal figurehead: sculpted, wooden, and designed to lead men into a storm. 
