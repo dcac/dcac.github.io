@@ -10,8 +10,8 @@ imdb: tt2920808
 author: dig
 stars: 2
 excerpt: This is where the short description will go.
-position: Christina Hendricks
-addressee: Actor
+position: Actor
+addressee: Christina Hendricks
 tags: 
   - thriller
   - Philip Seymour Hoffman
