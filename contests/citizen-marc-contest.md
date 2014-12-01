@@ -4,7 +4,7 @@ layout: contest
 home-display: false
 grid-display: false
 exclude_from_search: true
-published: true
+published: false
 imdb: tt3008530
 image: citizen-marc-contest.jpg
 title: Win a pass to the Advance Screening of Citizen Marc!

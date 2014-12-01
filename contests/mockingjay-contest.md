@@ -4,7 +4,7 @@ layout: contest
 home-display: false
 grid-display: false
 exclude_from_search: true
-published: true
+published: false
 imdb: tt1951265
 image: mockingjay-contest.jpg
 title: "Win a pass to the Advance Screening of The Hunger Games: Mockingjay Part 1!"

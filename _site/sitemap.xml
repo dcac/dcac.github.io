@@ -2325,19 +2325,19 @@
         <lastmod>2014-11-07T09:54:47-05:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/christopherr/</loc>
-        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/features/lists/</loc>
-        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
+        <loc>http://www.dearcastandcrew.com/writers/</loc>
+        <lastmod>2014-10-30T09:41:51-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/features/series/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/features/essays/</loc>
+        <loc>http://www.dearcastandcrew.com/features/</loc>
+        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/features/lists/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
@@ -2357,7 +2357,15 @@
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/features/</loc>
+        <loc>http://www.dearcastandcrew.com/reviews/streaming/</loc>
+        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/features/essays/</loc>
+        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/writers/christopherr/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
@@ -2365,7 +2373,7 @@
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/reviews/streaming/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/dig/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
@@ -2373,11 +2381,7 @@
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/dig/</loc>
-        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/writers/kelany/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/natm/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
@@ -2385,15 +2389,11 @@
         <lastmod>2014-10-30T09:39:40-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/</loc>
-        <lastmod>2014-10-30T09:41:51-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/writers/jaredy/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/kelany/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/natm/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/jaredy/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
@@ -2431,6 +2431,10 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/st-vincent-contest.html</loc>
         <lastmod>2014-11-07T09:54:47-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/contests/the-imitation-game-contest.html</loc>
+        <lastmod>2014-12-01T15:48:58-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/the-theory-of-everything-contest.html</loc>
