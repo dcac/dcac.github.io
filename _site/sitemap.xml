@@ -2317,23 +2317,29 @@
         <lastmod>2014-12-01T15:28:57-05:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2014/12/3/the-penguins-of-madagascar.html
+        </loc>
+        <lastmod>2014-12-04T10:06:39-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/all-posts.json</loc>
         <lastmod>2014-09-28T13:46:04-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/contests/citizen-marc-contest.html</loc>
-        <lastmod>2014-11-07T09:54:47-05:00</lastmod>
+        <loc>http://www.dearcastandcrew.com/writers/christopherr/</loc>
+        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/</loc>
-        <lastmod>2014-10-30T09:41:51-04:00</lastmod>
+        <loc>http://www.dearcastandcrew.com/features/essays/</loc>
+        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/features/series/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/features/</loc>
+        <loc>http://www.dearcastandcrew.com/reviews/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
@@ -2342,18 +2348,10 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2014-12-01T15:34:10-05:00</lastmod>
+        <lastmod>2014-12-04T10:06:39-05:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/reviews/current-releases/</loc>
-        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/reviews/</loc>
-        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/reviews/on-video/</loc>
+        <loc>http://www.dearcastandcrew.com/features/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
@@ -2361,15 +2359,7 @@
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/features/essays/</loc>
-        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/writers/christopherr/</loc>
-        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/writers/caseyt/</loc>
+        <loc>http://www.dearcastandcrew.com/reviews/on-video/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
@@ -2377,8 +2367,8 @@
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/coryh/</loc>
-        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
+        <loc>http://www.dearcastandcrew.com/writers/</loc>
+        <lastmod>2014-10-30T09:41:51-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/writers/natm/</loc>
@@ -2389,19 +2379,23 @@
         <lastmod>2014-10-30T09:39:40-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/kelany/</loc>
-        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
-    </url>
-    <url>
         <loc>http://www.dearcastandcrew.com/writers/jaredy/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/privacy/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/caseyt/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/contact/</loc>
+        <loc>http://www.dearcastandcrew.com/reviews/current-releases/</loc>
+        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/writers/kelany/</loc>
+        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/writers/coryh/</loc>
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
@@ -2409,32 +2403,16 @@
         <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/contests/john-wick-contest.html</loc>
-        <lastmod>2014-11-07T09:54:47-05:00</lastmod>
+        <loc>http://www.dearcastandcrew.com/contact/</loc>
+        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/contests/mockingjay-contest.html</loc>
-        <lastmod>2014-11-07T09:54:47-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/contests/nightcrawler-contest.html</loc>
-        <lastmod>2014-11-07T09:54:47-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/contests/pride-contest.html</loc>
-        <lastmod>2014-11-07T09:54:47-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/contests/rosewater-contest.html</loc>
-        <lastmod>2014-11-07T09:54:47-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/contests/st-vincent-contest.html</loc>
-        <lastmod>2014-11-07T09:54:47-05:00</lastmod>
+        <loc>http://www.dearcastandcrew.com/privacy/</loc>
+        <lastmod>2014-09-29T09:47:16-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/the-imitation-game-contest.html</loc>
-        <lastmod>2014-12-01T15:48:58-05:00</lastmod>
+        <lastmod>2014-12-01T15:51:24-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/the-theory-of-everything-contest.html</loc>
