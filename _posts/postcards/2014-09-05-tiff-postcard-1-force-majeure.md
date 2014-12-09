@@ -7,7 +7,7 @@ categories:
   - series
 title: "Force Majeure"
 excerpt: 
-stars: 3.5
+stars: 4.5
 day: 1
 series-name: TIFF 2014
 addressee: TIFF
