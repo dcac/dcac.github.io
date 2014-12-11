@@ -5,7 +5,8 @@
             </div>
               {% else %}
             <div class="signature clearfix">
-              <p class="signature-signoff"><strong>Sincerely,</strong><br />
+              <p class="signature-signoff"><strong>
+              <p class="signature-signoff"><strong>{% if post.author == "natm" %}Best,{% else %}Sincerely,{% endif %}</strong><br />
               <img class="signature-img" src="/img/writers/{{ author.signature }}" /><br />
               {{ author.short-name }}</p>
             </div>
