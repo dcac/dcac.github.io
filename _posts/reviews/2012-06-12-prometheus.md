@@ -14,7 +14,7 @@ categories:
   - on-video
 title: "Prometheus"
 comments: true
-tags: [Alien, Charlize Theron, Letters, netflix.ca, Noomi Rapace, Prometheus, Ridely Scott]
+tags: [Ridely Scott,Alien, Charlize Theron, Letters, netflix.ca, Noomi Rapace, Prometheus, ]
 ---
 I'm writing you a letter. It's also a movie review. That's what we do here: write movie reviews in the form of personal correspondence. I'm about to review _Prometheus_, the film that you both co-wrote. I was disappointed by it. Mostly because of your screenplay. It's a screenplay that, unfortunately, doesn't mince words. See, sometimes words need to be minced. Or else you end up with something like this: a letter that is a movie review that is written exclusively as exposition and is therefore interminable to sit through.
 
