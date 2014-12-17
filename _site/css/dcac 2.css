@@ -3048,10 +3048,6 @@ div.author {
     height: 20rem;
   }
 }
-#home-feature {
-  background-image: url('../img/home/custom/2014-silver-stamps/bg.jpg');
-  background-repeat: repeat-x;
-}
 .home-feature-img-fade {
   width: 1200px;
   display: block;
@@ -3078,22 +3074,10 @@ div.author {
   height: 500px;
   position: relative;
   z-index: 2;
-  text-align: center;
   display: none;
 }
 @media only screen and (max-width: 640px) {
   #home-feature .hero-height {
-    height: 300px;
-  }
-}
-#home-feature .hero-height-stamps {
-  height: 500px;
-  position: relative;
-  z-index: 2;
-  text-align: center;
-}
-@media only screen and (max-width: 640px) {
-  #home-feature .hero-height-stamps {
     height: 300px;
   }
 }
@@ -3432,94 +3416,30 @@ a.slide-right-off:hover {
     bottom: 5px;
   }
 }
-/*
-#home-feature p{
-  font-family: @sans-serif;
+#home-feature p {
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 20px;
   line-height: 20px;
   font-weight: 700;
   letter-spacing: -1px;
-  color: @white;
-  margin-top: 400px;
+  color: #ffffff;
+  margin-top: 0.625rem;
   margin-bottom: 0;
-  .text-shadow;
-  @media @mobile{
+  text-shadow: 0 0 0.125rem #333333;
+}
+@media only screen and (max-width: 640px) {
+  #home-feature p {
     font-size: 12px;
     line-height: 12px;
     letter-spacing: normal;
   }
 }
-*/
-.stamp-outline {
-  z-index: 15;
+.animated-gif {
   display: block;
-  width: 150px;
-  height: 150px;
-  background-image: url('../img/home/custom/2014-silver-stamps/stamp-icon.png');
-  background-size: 150px 150px;
-  background-repeat: no-repeat;
-  position: absolute;
-  top: 175px;
-  display: none;
-}
-@media only screen and (max-width: 640px) {
-  .stamp-outline {
-    width: 100px;
-    height: 100px;
-    top: 100px;
-    background-size: 100px 100px;
-  }
-}
-.animated-stamp {
-  z-index: 14;
-  display: block;
-  width: 106px;
-  height: 103px;
-  background-image: url('../img/home/custom/2014-silver-stamps/stamps-animated.gif');
-  background-size: 106px 103px;
-  background-repeat: no-repeat;
-  position: absolute;
-  top: 22px;
-  left: 22px;
-}
-@media only screen and (max-width: 640px) {
-  .animated-stamp {
-    width: 70px;
-    height: 69px;
-    top: 16px;
-    left: 16px;
-    background-size: 70px 69px;
-  }
-}
-#stamps-title {
-  position: absolute;
-  bottom: 75px;
-  width: 100%;
-  text-align: center;
-  display: none;
-}
-@media only screen and (max-width: 640px) {
-  #stamps-title {
-    bottom: 30px;
-  }
-}
-p.stamps {
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
-  font-size: 60px;
-  line-height: 20px;
-  font-weight: 700;
-  letter-spacing: -1px;
-  color: #ffffff;
-  margin-top: 25rem;
-  margin-bottom: 0;
-  text-shadow: 0 0 0.125rem #333333;
-}
-@media only screen and (max-width: 640px) {
-  p.stamps {
-    font-size: 32px;
-    line-height: 32px;
-    letter-spacing: normal;
-  }
+  width: 300px;
+  height: 300px;
+  background-image: url('../img/home/cutsom/2014-silver-stamps/animated-stamp.gif');
+  background-color: #f00;
 }
 .postcard-review {
   margin-bottom: 2.8125rem;

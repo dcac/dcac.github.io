@@ -17,6 +17,10 @@
     height: @1px*320;
   }
 }
+#home-feature{
+  background-image: url('../img/home/custom/2014-silver-stamps/bg.jpg');
+  background-repeat: repeat-x;
+}
 .home-feature-img-fade{
   width:1200px;
   display: block;
@@ -41,7 +45,16 @@
   height:500px;
   position: relative;
   z-index: 2;
-  display: none;
+  text-align: center;
+  display:none;
+  @media @mobile{
+    height: 300px;
+  }
+}#home-feature .hero-height-stamps{
+  height:500px;
+  position: relative;
+  z-index: 2;
+  text-align: center;
   @media @mobile{
     height: 300px;
   }
@@ -331,6 +344,7 @@ a.slide-left-off:hover,a.slide-right-off:hover{
     bottom: 5px;
   }
 }
+/*
 #home-feature p{
   font-family: @sans-serif;
   font-size: 20px;
@@ -338,12 +352,76 @@ a.slide-left-off:hover,a.slide-right-off:hover{
   font-weight: 700;
   letter-spacing: -1px;
   color: @white;
-  margin-top: @10px;
+  margin-top: 400px;
   margin-bottom: 0;
   .text-shadow;
   @media @mobile{
     font-size: 12px;
     line-height: 12px;
+    letter-spacing: normal;
+  }
+}
+*/
+.stamp-outline{
+  z-index: 15;
+  display: block;
+  width: 150px;
+  height: 150px;
+  background-image: url('../img/home/custom/2014-silver-stamps/stamp-icon.png');
+  background-size: 150px 150px;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 175px;
+  display:none;
+  @media @mobile{
+    width: 100px;
+    height: 100px;
+    top: 100px;
+    background-size: 100px 100px;
+  }
+}
+.animated-stamp{
+  z-index: 14;
+  display: block;
+  width: 106px;
+  height: 103px;
+  background-image: url('../img/home/custom/2014-silver-stamps/stamps-animated.gif');
+  background-size: 106px 103px;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 22px;
+  left: 22px;
+  @media @mobile{
+    width: 70px;
+    height: 69px;
+    top: 16px;
+    left: 16px;
+    background-size: 70px 69px;
+  }
+}
+#stamps-title{
+  position: absolute;
+  bottom: 75px;
+  width:100%;
+  text-align: center;
+  display: none;
+  @media @mobile{
+    bottom: 30px;
+  }
+}
+p.stamps{
+  font-family: @sans-serif;
+  font-size: 60px;
+  line-height: 20px;
+  font-weight: 700;
+  letter-spacing: -1px;
+  color: @white;
+  margin-top: @1px*400;
+  margin-bottom: 0;
+  .text-shadow;
+  @media @mobile{
+    font-size: 32px;
+    line-height: 32px;
     letter-spacing: normal;
   }
 }
