@@ -6,6 +6,9 @@ layout: default
         {% include share.html %}
       </section>
 {% assign author = site.data.authors[page.author] %}
+{% if page.custom-header %}
+     {% include {{page.header-file}} %}
+{% else %}
       <section id="feature-hero">
         <div id="story-title" class="title-info">
           <div id="title-img" data-stellar-background-ratio=".25"></div>
@@ -28,7 +31,7 @@ layout: default
           </div>
         </div>
       </section>
-
+{% endif %}
       <section id="body-text">
         <div class="row">
           <div class="large-2 medium-2 columns side-spacer hide-for-small-only"></div>

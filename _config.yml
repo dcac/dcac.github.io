@@ -37,6 +37,7 @@ defaults:
       home-display: true
       title-display: true
       share-display: standard
+      custom-header: false
 
 sitemap:
     file: "/sitemap.xml"
