@@ -9,7 +9,7 @@ author: christopherr
 comments: true
 categories:
   - features
-  - lists
+  - essays
 tags: [David Fincher, Ben Affleck, essay]
 ---
 Dear Cinema,
