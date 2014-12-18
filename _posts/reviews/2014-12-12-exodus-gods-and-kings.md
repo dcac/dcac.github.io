@@ -2,7 +2,7 @@
 layout: review
 categories: 
   - reviews
-  - netflix
+  - current-releases
 published: true
 title: "Exodus: Gods and Kings"
 image: "exodus-gods-and-kings.jpg"
