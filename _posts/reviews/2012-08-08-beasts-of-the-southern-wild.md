@@ -12,7 +12,7 @@ categories:
   - reviews
 title: "Beasts of the Southern Wild"
 comments: true
-tags: [Beasts, Ben, Benh, Best, Cannes, Film, Uncategorized, undefined, Zeitlin]
+tags: [Quvenzhane Wallis,Beasts, Ben, Benh, Best, Cannes, Film, Uncategorized, undefined, Zeitlin]
 ---
 I'm blown away. Watching _Beasts of the Southern Wild_ was like experiencing whistling fireworks for the first time. In the opening minutes, I focused skeptically on a tiny spark that spun and squealed, alone and aimless. But the darkness never stood a chance. You then set off an explosion of life, light, and music that sets the stage for one of the best films of the year.
 
