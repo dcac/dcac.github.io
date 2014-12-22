@@ -19,7 +19,7 @@ tags:
   - family
   - fantasy
 ---
-Did you know? Could you see the fatigue,? Did you spend more time than usual on set? Because from where I was sitting all I could see a man who seemed emptied out. The word “bereft” and all that it implies was at the forefront of my mind every time he was onscreen. I didn’t love Robin Williams the same way [many people seemed to](http://www.dearcastandcrew.com/content/2014/8/12/dear-robin.html). But I found myself getting pretty upset as I sat and watched his light going out.
+Did you know? Could you see the fatigue? Did you spend more time than usual on set? Because from where I was sitting all I could see was a man who seemed emptied out. The word “bereft” and all that it implies was at the forefront of my mind every time he was onscreen. I didn’t love Robin Williams the same way [many people seemed to](http://www.dearcastandcrew.com/content/2014/8/12/dear-robin.html). But I found myself getting pretty upset as I sat and watched his light going out.
 
 _Night at the Museum: Secret of the Tomb_ is most notable for the fact that it’s one of the last films Robin Williams made before ending his life. Otherwise it is a pretty forgettable return to a franchise that is largely...well, forgettable. The whole gang (plus a Neanderthal version of Ben Stiller—don’t ask how that happens) head off to England to...
 
