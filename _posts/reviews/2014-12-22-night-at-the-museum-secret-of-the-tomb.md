@@ -23,7 +23,7 @@ Did you know? Could you see the fatigue? Did you spend more time than usual on s
 
 _Night at the Museum: Secret of the Tomb_ is most notable for the fact that it’s one of the last films Robin Williams made before ending his life. Otherwise it is a pretty forgettable return to a franchise that is largely...well, forgettable. The whole gang (plus a Neanderthal version of Ben Stiller—don’t ask how that happens) head off to England to...
 
-...never mind. It really isn’t important. There’s a MacGuffin about the moon and Ben Kinsley as Pharaoh and a tablet that looks like an Egyptian iPad, but that’s all just an excuse to change locations to the British Museum in London.
+...never mind. It really isn’t important. There’s a MacGuffin about the moon and Ben Kingsley as Pharaoh and a tablet that looks like an Egyptian iPad, but that’s all just an excuse to change locations to the British Museum in London.
 
 Did the set feel different? In an industry that often eats its young as a matter of course, I sometimes wonder how reptilian you must become to manage. You might actually know, eh, Hugh? You’ve spent a lot of time as the invisible man on set. Your IMDB page reads like the CV of a Ricky Gervais character: Fair Goer (uncredited) _Philomena,_ Wealthy Gentleman (uncredited) _Parks and Recreation,_ Hospital visitor (uncredited) _Gangsta Granny._ I can’t imagine the bad behavior and prima donna tantrums you must have witnessed (especially on _Gangsta Granny_).
 
