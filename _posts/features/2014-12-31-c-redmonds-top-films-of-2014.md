@@ -6,13 +6,14 @@ categories:
 image: c-redmonds-top-films-of-2014.jpg
 author: christopherr
 stars: 
+date: 2014-12-31 01:01:00
 excerpt: "What happens when the writers of Dear Cast and Crew try to come to a consensus about the year's best films? We decide to make individual lists."
 position: 
 addressee: Readers
 layout: feature
 title: "C. Redmond's Top Films of 2014"
 comments: true
-tags: [Awards, awesome, Best, Canadian, critic, films, good, list, movies, Top films 2013, worst, year end]
+tags: [Awards, awesome, Best, Canadian, critic, films, good, list, movies, Top films 2014, worst, year end]
 ---
 If you read the site frequently, you’ll know that we are home to B-movie aficionados, superhero apologists, and film school theorists alike. Read a few reviews and you’ll quickly get to know who has a soft spot for everything Canadian, and who refuses to bestow perfect praise on anything _ever_. 
 
@@ -106,4 +107,8 @@ They Came Together
 ***Bon cinema,***
 
 Christopher
+{% endcontentfor  %}
+
+{% contentfor postscript %}
+For another take on 2014, check out [Jared Young's Top Films of 2014](/content/2014/12/31/jared-youngs-top-films-of-2014.html).
 {% endcontentfor  %}

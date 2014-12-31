@@ -42,6 +42,7 @@ layout: default
             {% endif %}
             {% assign author-sig = page.author %}{{ content | replace_first: '<p>','<p class="intro">' }}
             {% if author.bio %}{% include signature.html %}{% endif %}
+            {% contentblock postscript %}
           </div>
           <div class="large-2 medium-2 columns side-spacer hide-for-small-only"></div>
         </div>

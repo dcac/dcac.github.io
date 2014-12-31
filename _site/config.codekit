@@ -443,6 +443,38 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/bower_components\/foundation\/scss\/foundation.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/scss\/foundation.scss",
+		"outputAbbreviatedPath": "\/css\/foundation.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/_site\/bower_components\/foundation\/scss\/normalize.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/scss\/normalize.scss",
+		"outputAbbreviatedPath": "\/css\/normalize.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/_site\/bower_components\/jquery-placeholder\/demo.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -489,6 +521,28 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery.cookie\/jquery.cookie.js",
 		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery.cookie\/min\/jquery.cookie-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/bower_components\/jquery\/dist\/jquery.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/dist\/jquery.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/dist\/min\/jquery-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/bower_components\/jquery\/dist\/jquery.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/jquery\/dist\/jquery.min.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/jquery\/dist\/min\/jquery.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6135,11 +6189,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/content\/2014\/12\/17\/the-hobbit-the-battle-of-the-five-armies.html": {
+	"\/_site\/content\/2014\/12\/17\/the-hobbit-the-battle-of-the-five-armies copy.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/17\/the-hobbit-the-battle-of-the-five-armies.html",
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/17\/the-hobbit-the-battle-of-the-five-armies copy.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -6153,11 +6207,65 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/12\/20\/annie.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/20\/annie.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2014\/12\/22\/night-at-the-museum-secret-of-the-tomb.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/22\/night-at-the-museum-secret-of-the-tomb.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2014\/12\/29\/unbroken.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/29\/unbroken.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2014\/12\/3\/the-penguins-of-madagascar.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/3\/the-penguins-of-madagascar.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2014\/12\/30\/c-redmonds-top-films-of-2014.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/30\/c-redmonds-top-films-of-2014.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2014\/12\/30\/jared-youngs-top-films-of-2014.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/30\/jared-youngs-top-films-of-2014.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2014\/12\/30\/the-imitation-game.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/30\/the-imitation-game.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -8702,6 +8810,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/main\/annie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110880,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/annie.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/annie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/main\/argo.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -8995,6 +9114,17 @@
 		"initialSize": 230611,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/c-redmonds-top-films-of-2013.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/c-redmonds-top-films-of-2013.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/c-redmonds-top-films-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123829,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/c-redmonds-top-films-of-2014.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/c-redmonds-top-films-of-2014.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -10605,6 +10735,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/main\/jared-youngs-top-films-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 101621,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/jared-youngs-top-films-of-2014.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/jared-youngs-top-films-of-2014.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/main\/jeff-who-lives-at-home-image-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -11338,6 +11479,17 @@
 		"initialSize": 209758,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/neighbors.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/neighbors.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/night-at-the-museum-secret-of-the-tomb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 193113,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/night-at-the-museum-secret-of-the-tomb.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/night-at-the-museum-secret-of-the-tomb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -12574,6 +12726,974 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/main\/thats-my-boy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 250824,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/thats-my-boy.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/thats-my-boy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-2013-flixies.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 152514,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-2013-flixies.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-2013-flixies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-act-of-killing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83154,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-act-of-killing.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-act-of-killing.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-amazing-spider-man-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 159035,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-amazing-spider-man-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-amazing-spider-man-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-amazing-spider-man.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 187566,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-amazing-spider-man.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-amazing-spider-man.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-armstrong-lie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 139833,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-armstrong-lie.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-armstrong-lie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-art-of-the-steal.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 132739,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-art-of-the-steal.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-art-of-the-steal.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-artist.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 183817,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-artist.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-artist.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-avengers.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 273480,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-avengers.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-avengers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-babadook.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 155341,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-babadook.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-babadook.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-battered-bastards-of-baseball.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 148092,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-battered-bastards-of-baseball.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-battered-bastards-of-baseball.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-birder.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 146855,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-birder.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-birder.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-book-thief.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 164472,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-book-thief.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-book-thief.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-bourne-legacy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 182808,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-bourne-legacy.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-bourne-legacy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-boxing-girls-of-kabul.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 370285,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-boxing-girls-of-kabul.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-boxing-girls-of-kabul.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-broken-circle-breakdown.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93723,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-broken-circle-breakdown.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-broken-circle-breakdown.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-burning.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89536,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-burning.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-burning.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-cabin-in-the-woods-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 181638,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-cabin-in-the-woods-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-cabin-in-the-woods-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-cabin-in-the-woods-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 262333,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-cabin-in-the-woods-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-cabin-in-the-woods-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-campaign.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 205788,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-campaign.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-campaign.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-canyons.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98958,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-canyons.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-canyons.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-captive.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90967,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-captive.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-captive.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-case-against-andy-serkis.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 181297,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-case-against-andy-serkis.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-case-against-andy-serkis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-company.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 278939,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-company.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-company.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-conjuring.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 171802,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-conjuring.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-conjuring.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-connection.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90041,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-connection.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-connection.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-counsellor.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 202565,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-counsellor.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-counsellor.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-counselor.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 346335,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-counselor.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-counselor.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-croods 2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 448436,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-croods 2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-croods 2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-croods.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 206948,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-croods.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-croods.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-dark-knight-rises-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18075,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-dark-knight-rises-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-dark-knight-rises-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-dark-knight-rises.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 316610,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-dark-knight-rises.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-dark-knight-rises.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-dead-lands.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130354,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-dead-lands.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-dead-lands.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-dictator.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 243890,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-dictator.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-dictator.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-equalizer.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115837,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-equalizer.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-equalizer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-expendables-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 147113,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-expendables-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-expendables-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-expendables-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 159855,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-expendables-3.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-expendables-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-f-word.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 166271,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-f-word.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-f-word.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-fault-in-our-stars.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75335,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-fault-in-our-stars.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-fault-in-our-stars.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-fifth-estate.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99087,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-fifth-estate.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-fifth-estate.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-five-year-engagement.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 157559,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-five-year-engagement.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-five-year-engagement.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-giver.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 211372,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-giver.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-giver.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-grand-budapest-hotel.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 322082,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-grand-budapest-hotel.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-grand-budapest-hotel.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-grand-seduction.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 182014,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-grand-seduction.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-grand-seduction.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-grandmaster.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 121114,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-grandmaster.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-grandmaster.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-great-beauty.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 117918,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-great-beauty.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-great-beauty.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-great-gatsby.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 186341,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-great-gatsby.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-great-gatsby.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-grey.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 198625,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-grey.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-grey.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-guilt-trip.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 234603,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-guilt-trip.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-guilt-trip.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-hangover-part-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 262417,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-hangover-part-3.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-hangover-part-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-help.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 202747,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-help.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-help.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-hobbit-an-unexpected-journey.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 388367,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-hobbit-an-unexpected-journey.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-hobbit-an-unexpected-journey.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-hobbit-the-battle-of-the-five-armies.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 307612,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-hobbit-the-battle-of-the-five-armies.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-hobbit-the-battle-of-the-five-armies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-hobbit-the-desolation-of-smaug.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 202964,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-hobbit-the-desolation-of-smaug.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-hobbit-the-desolation-of-smaug.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-hobbit.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 203025,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-hobbit.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-hobbit.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-hospital.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 207783,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-hospital.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-hospital.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-host.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 155383,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-host.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-host.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-hunger-games-catching-fire.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 215417,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-hunger-games-catching-fire.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-hunger-games-catching-fire.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-hunger-games-mockingjay-part-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106690,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-hunger-games-mockingjay-part-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-hunger-games-mockingjay-part-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-hunger-games.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 101326,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-hunger-games.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-hunger-games.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-hunt.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123954,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-hunt.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-hunt.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-husband.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 185406,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-husband.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-husband.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-imitation-game-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 346059,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-imitation-game-contest.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-imitation-game-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-imitation-game-tiff.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 118606,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-imitation-game-tiff.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-imitation-game-tiff.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-imitation-game.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 118606,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-imitation-game.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-imitation-game.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-impossible.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 197832,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-impossible.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-impossible.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-imposter.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 504420,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-imposter.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-imposter.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-incredible-burt-wonderstone.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 140357,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-incredible-burt-wonderstone.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-incredible-burt-wonderstone.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-internets-own-boy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97148,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-internets-own-boy.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-internets-own-boy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-intouchables.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 165221,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-intouchables.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-intouchables.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-invisible-war.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 169877,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-invisible-war.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-invisible-war.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-invisible-woman.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76010,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-invisible-woman.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-invisible-woman.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-judge.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 87036,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-judge.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-judge.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-kings-of-summer.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 273256,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-kings-of-summer.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-kings-of-summer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-last-stand.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 143025,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-last-stand.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-last-stand.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-lego-movie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 182040,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-lego-movie.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-lego-movie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-look-of-silence.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 119225,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-look-of-silence.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-look-of-silence.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-lucky-one.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60749,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-lucky-one.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-lucky-one.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-make-up-of-2012-pt-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 195586,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-make-up-of-2012-pt-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-make-up-of-2012-pt-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-make-up-of-2012-pt-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 173870,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-make-up-of-2012-pt-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-make-up-of-2012-pt-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-master.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105286,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-master.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-master.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-maze-runner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 222952,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-maze-runner.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-maze-runner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-missing-picture.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 169310,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-missing-picture.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-missing-picture.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-odd-life-of-timothy-green.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 341248,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-odd-life-of-timothy-green.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-odd-life-of-timothy-green.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-one-i-love.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56760,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-one-i-love.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-one-i-love.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-other-woman.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 184575,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-other-woman.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-other-woman.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-overnighters.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 150888,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-overnighters.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-overnighters.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/the-paperboy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 233273,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-paperboy.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-paperboy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/main\/the-penguins-of-madagascar.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -13296,6 +14416,17 @@
 		"initialSize": 87736,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/tusk.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/tusk.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/unbroken.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 141090,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/unbroken.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/unbroken.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -14092,6 +15223,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-300\/annie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8209,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/annie.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/annie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-300\/argo.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -14385,6 +15527,17 @@
 		"initialSize": 15505,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/c-redmonds-top-films-of-2013.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/c-redmonds-top-films-of-2013.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/c-redmonds-top-films-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11018,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/c-redmonds-top-films-of-2014.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/c-redmonds-top-films-of-2014.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15929,6 +17082,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-300\/jared-youngs-top-films-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9160,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/jared-youngs-top-films-of-2014.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/jared-youngs-top-films-of-2014.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-300\/jeff-who-lives-at-home-image-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -16662,6 +17826,17 @@
 		"initialSize": 15775,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/neighbors.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/neighbors.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/night-at-the-museum-secret-of-the-tomb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9105,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/night-at-the-museum-secret-of-the-tomb.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/night-at-the-museum-secret-of-the-tomb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -18525,6 +19700,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-300\/the-imitation-game-tiff.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10579,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/the-imitation-game-tiff.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/the-imitation-game-tiff.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-300\/the-imitation-game.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -19493,6 +20679,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-300\/unbroken.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11602,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/unbroken.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/unbroken.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-300\/under-african-skies.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -20285,6 +21482,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-600\/annie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20109,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/annie.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/annie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-600\/argo.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -20578,6 +21786,17 @@
 		"initialSize": 37073,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/c-redmonds-top-films-of-2013.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/c-redmonds-top-films-of-2013.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/c-redmonds-top-films-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30142,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/c-redmonds-top-films-of-2014.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/c-redmonds-top-films-of-2014.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -22122,6 +23341,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-600\/jared-youngs-top-films-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23470,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/jared-youngs-top-films-of-2014.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/jared-youngs-top-films-of-2014.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-600\/jeff-who-lives-at-home-image-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -22811,6 +24041,17 @@
 		"initialSize": 38732,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/neighbors.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/neighbors.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/night-at-the-museum-secret-of-the-tomb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21994,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/night-at-the-museum-secret-of-the-tomb.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/night-at-the-museum-secret-of-the-tomb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -24003,6 +25244,127 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-600\/teenage-mutant-ninja-turtles.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43038,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/teenage-mutant-ninja-turtles.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/teenage-mutant-ninja-turtles.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/that-awkward-moment.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27873,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/that-awkward-moment.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/that-awkward-moment.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/thats-my-boy-.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43590,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/thats-my-boy-.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/thats-my-boy-.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/thats-my-boy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15893,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/thats-my-boy.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/thats-my-boy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-2013-flixies.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39510,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-2013-flixies.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-2013-flixies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-act-of-killing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22922,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-act-of-killing.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-act-of-killing.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-amazing-spider-man-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37084,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-amazing-spider-man-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-amazing-spider-man-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-amazing-spider-man.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18976,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-amazing-spider-man.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-amazing-spider-man.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-armstrong-lie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35588,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-armstrong-lie.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-armstrong-lie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-art-of-the-steal.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31717,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-art-of-the-steal.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-art-of-the-steal.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-artist.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42259,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-artist.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-artist.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-600\/the-avengers.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -24575,6 +25937,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-600\/the-imitation-game-tiff.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29449,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-imitation-game-tiff.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-imitation-game-tiff.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-600\/the-imitation-game.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -25059,6 +26432,182 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-600\/the-sitter.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45449,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-sitter.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-sitter.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-square.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29574,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-square.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-square.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-strange-case-of-angelica.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15796,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-strange-case-of-angelica.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-strange-case-of-angelica.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-theory-of-everything-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13150,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-theory-of-everything-contest.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-theory-of-everything-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-theory-of-everything.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20727,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-theory-of-everything.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-theory-of-everything.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-theory-of-happiness.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59364,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-theory-of-happiness.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-theory-of-happiness.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-to-do-list.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36742,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-to-do-list.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-to-do-list.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-top-5-most-terrifying-scenes-in-movie-history.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30476,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-top-5-most-terrifying-scenes-in-movie-history.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-top-5-most-terrifying-scenes-in-movie-history.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-town-that-dreaded-sundown.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10583,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-town-that-dreaded-sundown.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-town-that-dreaded-sundown.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-trip-to-italy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19407,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-trip-to-italy.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-trip-to-italy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-villain.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59475,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-villain.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-villain.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-wind-rises.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20458,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-wind-rises.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-wind-rises.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-wolf-of-wall-street.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43798,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-wolf-of-wall-street.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-wolf-of-wall-street.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-words.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40714,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-words.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-words.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-worlds-end.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39724,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-worlds-end.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-worlds-end.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/the-young-and-prodigious-t-s-spivet.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37986,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-young-and-prodigious-t-s-spivet.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-young-and-prodigious-t-s-spivet.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-600\/the-young-and-prodigious-ts-spivet.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -25374,6 +26923,17 @@
 		"initialSize": 19423,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/tusk.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/tusk.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/unbroken.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29312,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/unbroken.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/unbroken.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -26001,6 +27561,182 @@
 		"initialSize": 132037,
 		"inputAbbreviatedPath": "\/_site\/img\/features\/main\/2012-silver-stamps.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/features\/main\/2012-silver-stamps.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/features\/main\/2013-silver-stamps.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 178892,
+		"inputAbbreviatedPath": "\/_site\/img\/features\/main\/2013-silver-stamps.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/features\/main\/2013-silver-stamps.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/features\/main\/c-redmonds-top-films-of-2013.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 230611,
+		"inputAbbreviatedPath": "\/_site\/img\/features\/main\/c-redmonds-top-films-of-2013.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/features\/main\/c-redmonds-top-films-of-2013.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/features\/main\/early-schwarzenegger.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 152869,
+		"inputAbbreviatedPath": "\/_site\/img\/features\/main\/early-schwarzenegger.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/features\/main\/early-schwarzenegger.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/features\/main\/finding-god-in-the-films-of-2012-pt-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130953,
+		"inputAbbreviatedPath": "\/_site\/img\/features\/main\/finding-god-in-the-films-of-2012-pt-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/features\/main\/finding-god-in-the-films-of-2012-pt-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/features\/main\/finding-god-in-the-films-of-2012-pt-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 158013,
+		"inputAbbreviatedPath": "\/_site\/img\/features\/main\/finding-god-in-the-films-of-2012-pt-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/features\/main\/finding-god-in-the-films-of-2012-pt-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/features\/main\/finding-god-in-the-films-of-2012-pt-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 230438,
+		"inputAbbreviatedPath": "\/_site\/img\/features\/main\/finding-god-in-the-films-of-2012-pt-3.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/features\/main\/finding-god-in-the-films-of-2012-pt-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/features\/main\/five-reasons-skyfall-fell-flat.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 163215,
+		"inputAbbreviatedPath": "\/_site\/img\/features\/main\/five-reasons-skyfall-fell-flat.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/features\/main\/five-reasons-skyfall-fell-flat.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/features\/main\/godzilla-week.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107313,
+		"inputAbbreviatedPath": "\/_site\/img\/features\/main\/godzilla-week.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/features\/main\/godzilla-week.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/features\/main\/mockbusters.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 165989,
+		"inputAbbreviatedPath": "\/_site\/img\/features\/main\/mockbusters.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/features\/main\/mockbusters.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/features\/main\/out-of-darkness.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115882,
+		"inputAbbreviatedPath": "\/_site\/img\/features\/main\/out-of-darkness.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/features\/main\/out-of-darkness.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/features\/main\/slasher-camp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 183383,
+		"inputAbbreviatedPath": "\/_site\/img\/features\/main\/slasher-camp.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/features\/main\/slasher-camp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/features\/main\/the-2013-flixies.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 152514,
+		"inputAbbreviatedPath": "\/_site\/img\/features\/main\/the-2013-flixies.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/features\/main\/the-2013-flixies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/features\/main\/the-case-against-andy-serkis.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 181297,
+		"inputAbbreviatedPath": "\/_site\/img\/features\/main\/the-case-against-andy-serkis.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/features\/main\/the-case-against-andy-serkis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/features\/main\/the-dark-knight-rises-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18075,
+		"inputAbbreviatedPath": "\/_site\/img\/features\/main\/the-dark-knight-rises-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/features\/main\/the-dark-knight-rises-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/features\/main\/the-make-up-of-2012-pt-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 195586,
+		"inputAbbreviatedPath": "\/_site\/img\/features\/main\/the-make-up-of-2012-pt-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/features\/main\/the-make-up-of-2012-pt-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/features\/main\/the-make-up-of-2012-pt-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 173870,
+		"inputAbbreviatedPath": "\/_site\/img\/features\/main\/the-make-up-of-2012-pt-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/features\/main\/the-make-up-of-2012-pt-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -32136,6 +33872,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/reviews\/page20\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/reviews\/page20\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/reviews\/page3\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -36803,6 +38548,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/annie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110880,
+		"inputAbbreviatedPath": "\/img\/article\/main\/annie.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/annie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/argo.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -37096,6 +38852,17 @@
 		"initialSize": 230611,
 		"inputAbbreviatedPath": "\/img\/article\/main\/c-redmonds-top-films-of-2013.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/c-redmonds-top-films-of-2013.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/main\/c-redmonds-top-films-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123829,
+		"inputAbbreviatedPath": "\/img\/article\/main\/c-redmonds-top-films-of-2014.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/c-redmonds-top-films-of-2014.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -38706,6 +40473,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/jared-youngs-top-films-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 101621,
+		"inputAbbreviatedPath": "\/img\/article\/main\/jared-youngs-top-films-of-2014.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/jared-youngs-top-films-of-2014.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/jeff-who-lives-at-home-image-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -39439,6 +41217,17 @@
 		"initialSize": 209758,
 		"inputAbbreviatedPath": "\/img\/article\/main\/neighbors.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/neighbors.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/main\/night-at-the-museum-secret-of-the-tomb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 193113,
+		"inputAbbreviatedPath": "\/img\/article\/main\/night-at-the-museum-secret-of-the-tomb.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/night-at-the-museum-secret-of-the-tomb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -41368,6 +43157,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/the-imitation-game-tiff.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 118606,
+		"inputAbbreviatedPath": "\/img\/article\/main\/the-imitation-game-tiff.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/the-imitation-game-tiff.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/the-imitation-game.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -42358,6 +44158,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/unbroken.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 141090,
+		"inputAbbreviatedPath": "\/img\/article\/main\/unbroken.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/unbroken.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/under-african-skies.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -43150,6 +44961,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-300\/annie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8209,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/annie.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/annie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-300\/argo.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -43443,6 +45265,17 @@
 		"initialSize": 15505,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/c-redmonds-top-films-of-2013.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/c-redmonds-top-films-of-2013.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-300\/c-redmonds-top-films-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11018,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/c-redmonds-top-films-of-2014.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/c-redmonds-top-films-of-2014.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -44987,6 +46820,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-300\/jared-youngs-top-films-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9160,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/jared-youngs-top-films-of-2014.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/jared-youngs-top-films-of-2014.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-300\/jeff-who-lives-at-home-image-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -45720,6 +47564,17 @@
 		"initialSize": 15775,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/neighbors.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/neighbors.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-300\/night-at-the-museum-secret-of-the-tomb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9105,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/night-at-the-museum-secret-of-the-tomb.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/night-at-the-museum-secret-of-the-tomb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -47583,6 +49438,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-300\/the-imitation-game-tiff.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10579,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/the-imitation-game-tiff.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/the-imitation-game-tiff.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-300\/the-imitation-game.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -48551,6 +50417,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-300\/unbroken.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11602,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/unbroken.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/unbroken.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-300\/under-african-skies.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -49343,6 +51220,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-600\/annie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20109,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/annie.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/annie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-600\/argo.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -49636,6 +51524,17 @@
 		"initialSize": 37073,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/c-redmonds-top-films-of-2013.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/c-redmonds-top-films-of-2013.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-600\/c-redmonds-top-films-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30142,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/c-redmonds-top-films-of-2014.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/c-redmonds-top-films-of-2014.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -51180,6 +53079,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-600\/jared-youngs-top-films-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23470,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/jared-youngs-top-films-of-2014.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/jared-youngs-top-films-of-2014.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-600\/jeff-who-lives-at-home-image-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -51869,6 +53779,17 @@
 		"initialSize": 38732,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/neighbors.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/neighbors.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-600\/night-at-the-museum-secret-of-the-tomb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21994,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/night-at-the-museum-secret-of-the-tomb.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/night-at-the-museum-secret-of-the-tomb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -53754,6 +55675,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-600\/the-imitation-game-tiff.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29449,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/the-imitation-game-tiff.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/the-imitation-game-tiff.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-600\/the-imitation-game.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -54729,6 +56661,17 @@
 		"initialSize": 19423,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/tusk.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/tusk.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-600\/unbroken.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29312,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/unbroken.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/unbroken.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
