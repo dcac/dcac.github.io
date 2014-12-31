@@ -6,7 +6,7 @@ categories:
 image: c-redmonds-top-films-of-2013.jpg
 author: christopherr
 stars: 
-excerpt: 'While the editorial staff of Dear Cast and Crew couldn&rsquo;t settle on any definitive best-of list to cap off the year, the concession prize is that Chridtopher Redmons offers his own personal short list for the year&rsquo;s best films.'
+excerpt: 'While the editorial staff of Dear Cast and Crew couldn&rsquo;t settle on any definitive best-of list to cap off the year, the concession prize is that Chridtopher Redmond offers his own personal short list for the year&rsquo;s best films.'
 position: 
 addressee: Readers
 layout: feature
@@ -126,5 +126,6 @@ Finally, my **Notably Unseen of 2013** are _Inside Llewyn Davis_, _Her_, _The Wo
 
 {% contentfor signature %}
 ***Bon cinema,***
+
 Christopher
 {% endcontentfor  %}
