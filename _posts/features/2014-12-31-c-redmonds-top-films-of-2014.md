@@ -110,5 +110,5 @@ Christopher
 {% endcontentfor  %}
 
 {% contentfor postscript %}
-For another take on 2014, check out [Jared Young's Top Films of 2014](/content/2014/12/31/jared-youngs-top-films-of-2014.html).
+For another take on 2014, check out [Jared Young's Top Films of 2014](/content/2014/12/30/jared-youngs-top-films-of-2014.html).
 {% endcontentfor  %}
