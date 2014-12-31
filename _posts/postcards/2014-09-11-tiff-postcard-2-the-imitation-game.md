@@ -13,7 +13,7 @@ series-name: TIFF 2014
 addressee: TIFF
 position: ""
 author: christopherr
-image: the-imitation-game.jpg
+image: the-imitation-game-tiff.jpg
 comments: true
 ---
 This is The Important British film with a capital WWII that everyone at the festival has been waiting for. And wow, it delivers.
