@@ -7,6 +7,7 @@ stars: 3.5
 excerpt: 
 position: Actors
 addressee: Horny Chileans
+split_name: false
 layout: review
 categories: 
   - reviews
@@ -25,7 +26,7 @@ Desperate to save his job, and longing to break free from a colorless life, Mitt
 
 Enter horny Chilean sailors.  You dock in a remote port in Iceland at the same time as Mitty, who's searching for his photographer.  But you're searching for the nearest strip-joint.  In the port, a lone bicycle offers the only means of transportation.  You charge for the bike, emboldened by your voracious sexual appetites, but Mitty grabs it first and rides off, emboldened by his desire to live a meaningful life. 
 
-Up until this point, Mitty was a fainthearted character. But racing horny Chilean sailors, and winning, inadvertently reignites his desire to sink his teeth into life.  Your scene embodies the humorous way _The Secret Life of Walter Mitty _depicts how a depressed individual comes into his own, but it also highlights the important role that underdogs play in shaping outcomes in life. Indeed, that's one of the movie's messages: everybody counts; everybody has a part to play in the larger scheme of things… whether you're a horny Chilean sailor who's just come back from sea or a middle-aged geek who's looking for adventure.
+Up until this point, Mitty was a fainthearted character. But racing horny Chilean sailors, and winning, inadvertently reignites his desire to sink his teeth into life.  Your scene embodies the humorous way _The Secret Life of Walter Mitty_ depicts how a depressed individual comes into his own, but it also highlights the important role that underdogs play in shaping outcomes in life. Indeed, that's one of the movie's messages: everybody counts; everybody has a part to play in the larger scheme of things… whether you're a horny Chilean sailor who's just come back from sea or a middle-aged geek who's looking for adventure.
 
 In its subplot, the movie addresses hard topics like coping with a loved one's death, or with debilitating insecurity; but it does so in a light-hearted inspirational way.  By way of example, as I exited the movie theatre, a man and woman from the crowd in front of me were playfully spanking each other, which spoke volumes about the film's uplifting effect. I can't imagine playful spanks after _Dancer in the Dark_ or _Schindler's List_.
 
@@ -33,6 +34,6 @@ _The Secret Life of Walter Mitty_ is a finely executed Hollywood comedy with you
 
 There's just one major discrepancy: the movie urges viewers to live life to the fullest, yet to see the film you have to sit inactively for hours on end in a dark cinema, living vicariously through improbable fictional characters.  While Walter Mitty transforms into a man of action on screen, viewers are transform into Mitty's former self, dreaming life away…
 
-Perplexed,
+**Perplexed,**
 
 Katherine
