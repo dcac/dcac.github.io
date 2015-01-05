@@ -2404,12 +2404,15 @@
         <loc>http://www.dearcastandcrew.com/content/2015/1/5/the-interview.html</loc>
         <lastmod>2015-01-04T23:20:31-05:00</lastmod>
 <<<<<<< HEAD
+<<<<<<< HEAD
     </url>
     <url>
         <loc>
             http://www.dearcastandcrew.com/content/2015/1/5/yes-nightcrawler-is-the-best-film-of-2014.html
         </loc>
         <lastmod>2015-01-05T14:22:52-05:00</lastmod>
+=======
+>>>>>>> FETCH_HEAD
 =======
 >>>>>>> FETCH_HEAD
     </url>
@@ -2440,7 +2443,11 @@
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <lastmod>2015-01-05T14:22:52-05:00</lastmod>
+=======
+        <lastmod>2015-01-04T23:20:31-05:00</lastmod>
+>>>>>>> FETCH_HEAD
 =======
         <lastmod>2015-01-04T23:20:31-05:00</lastmod>
 >>>>>>> FETCH_HEAD

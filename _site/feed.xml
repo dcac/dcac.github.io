@@ -8,6 +8,7 @@
 		
 			<item>
 <<<<<<< HEAD
+<<<<<<< HEAD
 				<title>Yes, Nightcrawler is the Best Film of 2014</title>
 				<description>&lt;p&gt;Dear Fellow Critics,&lt;/p&gt;
 
@@ -41,6 +42,8 @@
 			</item>
 		
 			<item>
+=======
+>>>>>>> FETCH_HEAD
 =======
 >>>>>>> FETCH_HEAD
 				<title>The Interview</title>
@@ -419,6 +422,9 @@ They Came Together&lt;br&gt;
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2014/12/18/2014-silver-stamps.html</guid>
 			</item>
 		
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
 >>>>>>> FETCH_HEAD
 	</channel>
 </rss>

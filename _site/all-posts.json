@@ -2,8 +2,11 @@
   "posts" : [
     
 <<<<<<< HEAD
+<<<<<<< HEAD
     "/content/2014/12/11/fading-gigolo.html",
     
+=======
+>>>>>>> FETCH_HEAD
 =======
 >>>>>>> FETCH_HEAD
     "/content/2014/12/10/third-person.html",
@@ -56,6 +59,9 @@
     "/content/2014/10/31/before-i-go-to-sleep.html",
     
     "/content/2014/10/30/john-wick.html"
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
 >>>>>>> FETCH_HEAD
     
   ]
