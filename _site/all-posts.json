@@ -1,6 +1,13 @@
 {
   "posts" : [
     
+<<<<<<< HEAD
+    "/content/2014/12/11/fading-gigolo.html",
+    
+=======
+>>>>>>> FETCH_HEAD
+    "/content/2014/12/10/third-person.html",
+    
     "/content/2014/12/8/the-babadook.html",
     
     "/content/2014/12/5/corner-gas-the-movie.html",
@@ -43,11 +50,13 @@
     
     "/content/2014/11/3/young-ones.html",
     
+<<<<<<< HEAD
+    "/content/2014/10/31/before-i-go-to-sleep.html"
+=======
     "/content/2014/10/31/before-i-go-to-sleep.html",
     
-    "/content/2014/10/30/john-wick.html",
-    
-    "/content/2014/10/29/nightcrawler.html"
+    "/content/2014/10/30/john-wick.html"
+>>>>>>> FETCH_HEAD
     
   ]
 }

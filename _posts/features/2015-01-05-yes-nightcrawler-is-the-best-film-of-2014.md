@@ -1,0 +1,39 @@
+---
+layout: feature
+published: true
+image: yes-nightcrawler-is-the-best-film-of-2014.jpg
+title: "Yes, Nightcrawler is the Best Film of 2014"
+addressee: 
+excerpt: "C. Redmond argues why Tony Gilroy's dark thriller should be atop everyone's list."
+author: christopherr
+comments: true
+categories:
+  - features
+  - essays
+tags: [Nightcrawler, Awards, awesome, Best,critic, films, good, list, movies, Top films 2014, worst, year end]
+---
+Dear Fellow Critics,
+
+**This letter is addressed to you, but, admittedly, it’s an attempt to validate my own convictions. I wish I could have leaned back, stretched out my arms in self-satisfied comfort, and submitted my [Top Films of 2014](http://www.dearcastandcrew.com/content/2014/12/31/c-redmonds-top-films-of-2014.html) with the same confidence [(and perfect photo) as I did in 2013](http://www.dearcastandcrew.com/content/2014/1/1/c-redmonds-top-films-of-2013.html). But that hasn’t been the case.**
+
+Last year, I knew [_The Act of Killing_](http://www.dearcastandcrew.com/content/2013/9/13/the-act-of-killing.html) was unequivocally the most impressive, entertaining, and important cinematic accomplishment of the year. [_Boyhood_](http://www.dearcastandcrew.com/content/2014/8/5/boyhood.html) has garnered similar praise from many of you this year, yet I can’t comply in calling it the best of the best. True, Richard Linklater’s 12-year character study is brilliant, poignant, and deceivingly simple, but I left the theatre without that instant appreciation. It took a few days for the film’s lackadaisical rhythm and fleeting preciousness worked me over. My own son is quickly growing before my eyes, so the film certainly has a special place in my heart—but it’s only second place on my list. 
+
+Looking back, I almost didn’t trust [my initial reaction to _Nightcrawler_](http://www.dearcastandcrew.com/content/2014/9/9/tiff-postcard-4-nightcrawler.html) at the Toronto International Film Festival. I was giddy when the credits rolled, both thrilled and relieved to have found a film I could enthusiastically champion. The experience was all the more surprising since I walked in to the theater knowing only two things: the title and the star. The only promotional still frame I saw of Jake Gyllenhaal – eyes bulging, arm carefully outstretched with a flashlight fixed on the door of a van – was enough to get me curious about what awaited. 
+
+To my spoilerphobic delight, that particular frame comes in first scene of the film. As Gyllenhaal’s Lou Bloom is caught sneaking around an industrial compound by a security guard, we get the first of many strange, stilted interactions with authority figures. Appearing to acquiesce to the man’s demands, he suddenly notices the guard’s wristwatch and pounces on him like a wild animal. He becomes a [_Force Majeure_](http://www.dearcastandcrew.com/content/2014/9/5/tiff-postcard-1-force-majeure.html) more revealing than a controlled avalanche. And in that moment, the rules of the universe are established immediately: if you want something, take it. Consequences are a burden of the weak. And, in the case of the guard’s fate, never even revealed. Within the first five minutes, I felt a rush of excitement. Anything could happen in this film. It’s a thrill I rarely receive in today’s sequel-heavy, reboot-filled, regurgitation-plagued movie landscape. 
+
+What followed was a master class of narrative clarity and character ambiguity. As a seasoned Hollywood scriptwriter, Gilroy knows all the beats of a studio script and gleefully undermines them at every turn. There’s no clashing of what the hero wants vs. what he needs. No sympathetic background to get us invested in his character. No mid-point turn or all-is-lost moment of self-doubt. Gilroy doesn’t[save the cat](http://www.savethecat.com/)—he strangles it, and doesn’t sacrifice a thing. 
+
+Everything we need to know about Lou Bloom is revealed through action or inference. His dialogue is all lifted from corporate HR manuals and every human interaction is purely transactional. He’s the living embodiment of _The Corporation_. Not even Jordan Belfort in [_The Wolf of Wall Street_](http://www.dearcastandcrew.com/content/2014/1/7/wolf-of-wall-street.html) could outmaneuver this coyote of the Sunset Strip. The biggest difference between the two men, in fact, is not their occupations, but rather the decade in which they exist. 
+
+Like [_Spring Breakers_](http://www.dearcastandcrew.com/content/2013/3/28/spring-breakers.html) in 2013, _Nightcrawler_ is the 2014 film that best taps into the Millennial experience. The pursuit of happiness is exaggerated to expose the depraved benchmarks of those ideals. There are no shades of grey along the way to success, only neon signs, black lights, and hot red cars. Lie, steal, cheat, sabotage, kill—just don’t lose focus. It’s the only way to get ahead. You will be justified and rewarded. The audience will even be on your side.
+
+I sure as hell was. 
+
+My unexpected support for Bloom’s sociopathic drive came, in part, from 2014 marking my first year as a full-time freelancer. The otherwise abstract notion of the “Economy” has had a very real effect on my quality of life. The deck always feels stacked against you, and working for almost nothing in order to “establish a business relationship” (as Bloom agrees to when selling stolen copper piping), is not an introductory step, but a _Groundhog Day_ reality in an industry that’s struggling to survive. Not just in creating media content, but the very spirit of entrepreneurialism. _Nightcrawler_ isn’t [just a modern version of _Network_](https://thedissolve.com/reviews/1181-nightcrawler/)_,_ satirizing local journalism. It’s a critique of the entire capitalist system. Lou is a wired intelligence playing [_The Imitation Game_](http://www.dearcastandcrew.com/content/2014/9/11/tiff-postcard-2-the-imitation-game.html) with the human race; [an enigma](http://www.dearcastandcrew.com/content/2014/12/30/the-imitation-game.html) of the free market cracked by the Axis of Evil. To take a quote from Ridley’s Scott’s [undeservingly derided _Exodus: Gods and Kings_](http://www.dearcastandcrew.com/content/2014/12/12/exodus-gods-and-kings.html): “That’s the irony, isn’t it? The people most suited to attaining power are the least suiting to having it.” 
+
+In most films, Rick the Intern (played to perfection by Riz Ahmed) would have served as an audience surrogate to help us see through the madness; a Bud Fox to Bloom’s Gordon Gekko. Instead, Rick is a disposable partner whose pink slip is a meager handful of blood-covered cash. But in the business world, them’s the breaks (or the lack-thereof, in the case of Lou’s rival). The high gear the film reaches in the third act gave me [_Whiplash_](http://www.dearcastandcrew.com/content/2014/9/4/tiff-postcard-2-whiplash.html). It felt both earned and appropriate. The implausibilities that [many argued](http://blogs.indiewire.com/criticwire/nightcrawler-reviews-taxi-driver-meets-network-20140906) over were completely irrelevant to me because the allegory was so strong.
+
+And that’s what makes _Nightcrawler_ so poignant. Lou Bloom is not a hero, he’s a victor. A tribute who not only survives the contemporary [_Hunger Games_](http://www.dearcastandcrew.com/content/2012/3/24/the-hunger-games.html), but learns to control them. The incongruous musical score by James Newton Howard underscores this triumph with synthesized fervor, playing more like a soundtrack in Bloom’s mind than a cue for tension to the audience. I never felt inspired by his amoral actions—but I did understand them. And that’s a mighty tall order for someone as contemptible as Lou Bloom. No film has used black comedy and biting social commentary to to such an effect since _A Clockwork Orange_. 
+
+So again I say, with bolstered confidence: yes, _Nightcrawler_ is the best film of 2014.
