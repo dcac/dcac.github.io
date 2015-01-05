@@ -161,6 +161,9 @@ div.hero-title {
   .translucent-box {
     padding-top: 0.625rem;
     background-color: rgba(0, 0, 0, 0.5);
+    bottom: 0;
+    position: absolute;
+    width: 100%;
   }
 }
 #hero-home {
@@ -3519,6 +3522,21 @@ p.stamps {
     font-size: 32px;
     line-height: 32px;
     letter-spacing: normal;
+  }
+}
+h1.hero-home-best-of-title {
+  color: #ffffff;
+  font-size: 2.5rem;
+  line-height: 2.5rem;
+  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-weight: 700;
+  text-shadow: 0 0 2px #333333;
+}
+@media only screen and (max-width: 640px) {
+  h1.hero-home-best-of-title {
+    font-size: 20px;
+    line-height: 1.25rem;
+    margin-top: 40px;
   }
 }
 .postcard-review {

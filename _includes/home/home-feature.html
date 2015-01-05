@@ -1,45 +1,51 @@
-<section id="hero-home">
-           <a href="/content/2014/12/18/2014-silver-stamps.html">
-              <div id="home-feature" class="title-info">
-                <div id="home-feature-img" class="home-feature-img" style="background-image: url('/img/home/custom/2014-silver-stamps/hero.jpg');"></div>
-              <div class="row collapse">
-                <div class="hero-height-stamps">
-                  <div class="stamp-outline">
-                    <div class="animated-stamp"></div>
-                  </div>
-                  <div id="stamps-title">
-                    <p class="stamps">The 2014 Sliver Stamps</p>
-                  </div>
+<style>
+      .title-img-fade {
+      background-image: -webkit-linear-gradient(left, 
+          rgba(0,0,0,0.9) 0%, 
+          rgba(0,0,0,0) 20%,
+          rgba(0,0,0,0) 80%,
+          rgba(0,0,0,0.9) 100%
+        ),
+        url('/img/home/custom/best-of-2014/nightcrawler.jpg');
+      background-image: -moz-linear-gradient(left, 
+          rgba(0,0,0,0.9) 0%, 
+          rgba(0,0,0,0) 20%,
+          rgba(0,0,0,0) 80%,
+          rgba(0,0,0,0.9) 100%
+        ),
+        url('/img/home/custom/best-of-2014/nightcrawler.jpg');
+      background-image: -o-linear-gradient(left, 
+          rgba(0,0,0,0.9) 0%, 
+          rgba(0,0,0,0) 20%,
+          rgba(0,0,0,0) 80%,
+          rgba(0,0,0,0.9) 100%
+        ),
+        url('/img/home/custom/best-of-2014/nightcrawler.jpg');
+      background-image: 
+        linear-gradient(left, 
+          rgba(0,0,0,0.9) 0%, 
+          rgba(0,0,0,0) 20%,
+          rgba(0,0,0,0) 80%,
+          rgba(0,0,0,0.9) 100%
+        ),
+        url('/img/home/custom/best-of-2014/nightcrawler.jpg');
+      }
+      .title-img {
+        background-image: url('/img/home/custom/best-of-2014/nightcrawler.jpg');
+      }
+    </style>
+    <section id="hero-home">
+      <div id="story-title" class="title-info">
+         <a href="/content/2015/1/5/yes-nightcrawler-is-the-best-film-of-2014.html">
+            <div id="title-img" class="title-img" style=""></div>
+            <div class="row collapse">
+              
+              <div class="large-4 medium-4 columns home-title-height">
+                <div class="hero-title-text">
+                  <!-- <h1 class="hero-home-best-of-title">Yes, Nightcrawler is the Best Film of 2014</h1> -->
                 </div>
               </div>
             </div>
           </a>
+        </div>
       </section>
-      <script>
-        
-        function homeResized(){
-        if ($(window).width() > 640){
-          var stampWidth = 75;
-        }
-        else {
-          stampWidth = 50;
-        }  
-        var heroWidth = $('.hero-height-stamps').width() / 2 - stampWidth;
-          $('.stamp-outline').css({'left': heroWidth });
-          //alert(heroWidth);
-        }
-        $(window).load(function () {
-          setTimeout( function(){ 
-          $('.stamp-outline').hide().fadeIn('slow');
-            }
-           , 500 );
-          setTimeout( function(){ 
-            $('#stamps-title').hide().fadeIn('slow');
-            }
-           , 3000 );
-          homeResized();
-        });
-        $(window).bind('resize',function() {
-          homeResized();
-        });
-      </script>

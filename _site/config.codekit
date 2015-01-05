@@ -56,6 +56,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_includes\/home\/home-feature-ss-2014.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/home\/home-feature-ss-2014.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_includes\/home\/home-feature-tiff.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -442,6 +451,253 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/bower_components\/fastclick\/lib\/fastclick.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/fastclick\/lib\/fastclick.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/fastclick\/lib\/min\/fastclick-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/bower_components\/foundation\/css\/foundation.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/css\/foundation.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/bower_components\/foundation\/css\/foundation.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/css\/foundation.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/bower_components\/foundation\/css\/normalize.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/css\/normalize.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/bower_components\/foundation\/js\/foundation.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/min\/foundation-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/bower_components\/foundation\/js\/foundation.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation.min.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/min\/foundation.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/bower_components\/foundation\/js\/foundation\/foundation.abide.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/foundation.abide.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/min\/foundation.abide-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/bower_components\/foundation\/js\/foundation\/foundation.accordion.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/foundation.accordion.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/min\/foundation.accordion-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/bower_components\/foundation\/js\/foundation\/foundation.alert.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/foundation.alert.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/min\/foundation.alert-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/bower_components\/foundation\/js\/foundation\/foundation.clearing.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/foundation.clearing.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/min\/foundation.clearing-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/bower_components\/foundation\/js\/foundation\/foundation.dropdown.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/foundation.dropdown.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/min\/foundation.dropdown-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/bower_components\/foundation\/js\/foundation\/foundation.equalizer.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/foundation.equalizer.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/min\/foundation.equalizer-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/bower_components\/foundation\/js\/foundation\/foundation.interchange.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/foundation.interchange.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/min\/foundation.interchange-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/bower_components\/foundation\/js\/foundation\/foundation.joyride.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/foundation.joyride.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/min\/foundation.joyride-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/bower_components\/foundation\/js\/foundation\/foundation.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/foundation.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/min\/foundation-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/bower_components\/foundation\/js\/foundation\/foundation.magellan.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/foundation.magellan.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/min\/foundation.magellan-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/bower_components\/foundation\/js\/foundation\/foundation.offcanvas.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/foundation.offcanvas.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/min\/foundation.offcanvas-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/bower_components\/foundation\/js\/foundation\/foundation.orbit.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/foundation.orbit.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/min\/foundation.orbit-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/bower_components\/foundation\/js\/foundation\/foundation.reveal.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/foundation.reveal.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/min\/foundation.reveal-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/bower_components\/foundation\/js\/foundation\/foundation.slider.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/foundation.slider.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/min\/foundation.slider-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/bower_components\/foundation\/js\/foundation\/foundation.tab.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/foundation.tab.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/min\/foundation.tab-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/bower_components\/foundation\/js\/foundation\/foundation.tooltip.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/foundation.tooltip.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/min\/foundation.tooltip-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/bower_components\/foundation\/js\/foundation\/foundation.topbar.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/foundation.topbar.js",
+		"outputAbbreviatedPath": "\/_site\/bower_components\/foundation\/js\/foundation\/min\/foundation.topbar-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		},
 	"\/_site\/bower_components\/foundation\/scss\/foundation.scss": {
 		"createSourceMap": 0,
@@ -8043,6 +8299,42 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/1\/2\/into-the-woods.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/1\/2\/into-the-woods.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/1\/4\/wild.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/1\/4\/wild.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/1\/5\/the-interview.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/1\/5\/the-interview.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/1\/5\/yes-nightcrawler-is-the-best-film-of-2014.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/1\/5\/yes-nightcrawler-is-the-best-film-of-2014.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/contests\/the-imitation-game-contest.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -10676,6 +10968,17 @@
 		"initialSize": 41778,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/interstellar.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/interstellar.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/into-the-woods.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 146329,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/into-the-woods.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/into-the-woods.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -13485,6 +13788,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/main\/the-interview.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 179493,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-interview.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-interview.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/main\/the-intouchables.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -14640,6 +14954,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/main\/wild.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65236,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/wild.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/wild.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/main\/winters-tale-29.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -14735,6 +15060,17 @@
 		"initialSize": 104070,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/x-men-days-of-future-past.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/x-men-days-of-future-past.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/yes-nightcrawler-is-the-best-film-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90898,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/yes-nightcrawler-is-the-best-film-of-2014.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/yes-nightcrawler-is-the-best-film-of-2014.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -17023,6 +17359,17 @@
 		"initialSize": 5222,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/interstellar.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/interstellar.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/into-the-woods.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11680,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/into-the-woods.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/into-the-woods.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -19766,6 +20113,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-300\/the-interview.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10336,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/the-interview.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/the-interview.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-300\/the-intouchables.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -20888,6 +21246,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-300\/wild.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7245,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/wild.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/wild.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-300\/winters-tale-29.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -20983,6 +21352,17 @@
 		"initialSize": 11756,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/x-men-days-of-future-past.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/x-men-days-of-future-past.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/yes-nightcrawler-is-the-best-film-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7426,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/yes-nightcrawler-is-the-best-film-of-2014.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/yes-nightcrawler-is-the-best-film-of-2014.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -23282,6 +23662,17 @@
 		"initialSize": 11978,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/interstellar.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/interstellar.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/into-the-woods.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33667,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/into-the-woods.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/into-the-woods.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -26003,6 +26394,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-600\/the-interview.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27872,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-interview.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/the-interview.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-600\/the-intouchables.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -27136,6 +27538,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-600\/wild.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16588,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/wild.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/wild.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-600\/winters-tale-29.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -27231,6 +27644,17 @@
 		"initialSize": 27343,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/x-men-days-of-future-past.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/x-men-days-of-future-past.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/yes-nightcrawler-is-the-best-film-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16852,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/yes-nightcrawler-is-the-best-film-of-2014.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/yes-nightcrawler-is-the-best-film-of-2014.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -28474,6 +28898,28 @@
 		"initialSize": 13195,
 		"inputAbbreviatedPath": "\/_site\/img\/home\/custom\/2014-silver-stamps\/stamp-icon.png",
 		"outputAbbreviatedPath": "\/_site\/img\/home\/custom\/2014-silver-stamps\/stamp-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/home\/custom\/best-of-2014\/cristopherr.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61650,
+		"inputAbbreviatedPath": "\/_site\/img\/home\/custom\/best-of-2014\/cristopherr.png",
+		"outputAbbreviatedPath": "\/_site\/img\/home\/custom\/best-of-2014\/cristopherr.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/home\/custom\/best-of-2014\/nightcrawler.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36084,
+		"inputAbbreviatedPath": "\/_site\/img\/home\/custom\/best-of-2014\/nightcrawler.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/home\/custom\/best-of-2014\/nightcrawler.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -30259,6 +30705,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/letters\/2012\/5\/2\/the-pirates-band-of-misfits.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/letters\/2012\/5\/23\/cannes-2012-lawless.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/letters\/2012\/5\/23\/cannes-2012-lawless.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -32365,6 +32820,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/letters\/2014\/1\/28\/philomena.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/letters\/2014\/1\/30\/that-awkward-moment.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/letters\/2014\/1\/30\/that-awkward-moment.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -38156,7 +38620,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 113059,
+		"initialSize": 106103,
 		"inputAbbreviatedPath": "\/img\/article\/main\/2014-silver-stamps.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/2014-silver-stamps.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -40418,6 +40882,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/into-the-woods.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 146329,
+		"inputAbbreviatedPath": "\/img\/article\/main\/into-the-woods.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/into-the-woods.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/iron-man-3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -41093,7 +41568,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 63719,
+		"initialSize": 188664,
 		"inputAbbreviatedPath": "\/img\/article\/main\/mommy.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/mommy.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -43172,7 +43647,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 118606,
+		"initialSize": 90100,
 		"inputAbbreviatedPath": "\/img\/article\/main\/the-imitation-game.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/the-imitation-game.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -43183,7 +43658,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 198013,
+		"initialSize": 197832,
 		"inputAbbreviatedPath": "\/img\/article\/main\/the-impossible.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/the-impossible.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -43219,6 +43694,17 @@
 		"initialSize": 97148,
 		"inputAbbreviatedPath": "\/img\/article\/main\/the-internets-own-boy.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/the-internets-own-boy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/main\/the-interview.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 179493,
+		"inputAbbreviatedPath": "\/img\/article\/main\/the-interview.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/the-interview.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -44378,6 +44864,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/wild.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65236,
+		"inputAbbreviatedPath": "\/img\/article\/main\/wild.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/wild.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/winters-tale-29.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -44473,6 +44970,17 @@
 		"initialSize": 104070,
 		"inputAbbreviatedPath": "\/img\/article\/main\/x-men-days-of-future-past.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/x-men-days-of-future-past.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/main\/yes-nightcrawler-is-the-best-film-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90898,
+		"inputAbbreviatedPath": "\/img\/article\/main\/yes-nightcrawler-is-the-best-film-of-2014.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/yes-nightcrawler-is-the-best-film-of-2014.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -46761,6 +47269,17 @@
 		"initialSize": 5222,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/interstellar.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/interstellar.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-300\/into-the-woods.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11680,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/into-the-woods.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/into-the-woods.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -49504,6 +50023,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-300\/the-interview.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10336,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/the-interview.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/the-interview.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-300\/the-intouchables.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -50626,6 +51156,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-300\/wild.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7245,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/wild.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/wild.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-300\/winters-tale-29.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -50721,6 +51262,17 @@
 		"initialSize": 11756,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/x-men-days-of-future-past.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/x-men-days-of-future-past.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-300\/yes-nightcrawler-is-the-best-film-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7426,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/yes-nightcrawler-is-the-best-film-of-2014.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/yes-nightcrawler-is-the-best-film-of-2014.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -53020,6 +53572,17 @@
 		"initialSize": 11978,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/interstellar.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/interstellar.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-600\/into-the-woods.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33667,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/into-the-woods.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/into-the-woods.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -55741,6 +56304,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-600\/the-interview.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27872,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/the-interview.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/the-interview.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-600\/the-intouchables.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -56874,6 +57448,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-600\/wild.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16588,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/wild.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/wild.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-600\/winters-tale-29.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -56969,6 +57554,17 @@
 		"initialSize": 27343,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/x-men-days-of-future-past.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/x-men-days-of-future-past.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-600\/yes-nightcrawler-is-the-best-film-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16852,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/yes-nightcrawler-is-the-best-film-of-2014.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/yes-nightcrawler-is-the-best-film-of-2014.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -58212,6 +58808,28 @@
 		"initialSize": 13195,
 		"inputAbbreviatedPath": "\/img\/home\/custom\/2014-silver-stamps\/stamp-icon.png",
 		"outputAbbreviatedPath": "\/img\/home\/custom\/2014-silver-stamps\/stamp-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/home\/custom\/best-of-2014\/cristopherr.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61650,
+		"inputAbbreviatedPath": "\/img\/home\/custom\/best-of-2014\/cristopherr.png",
+		"outputAbbreviatedPath": "\/img\/home\/custom\/best-of-2014\/cristopherr.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/home\/custom\/best-of-2014\/nightcrawler.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36084,
+		"inputAbbreviatedPath": "\/img\/home\/custom\/best-of-2014\/nightcrawler.jpg",
+		"outputAbbreviatedPath": "\/img\/home\/custom\/best-of-2014\/nightcrawler.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

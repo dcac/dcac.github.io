@@ -1,0 +1,45 @@
+<section id="hero-home">
+           <a href="/content/2014/12/18/2014-silver-stamps.html">
+              <div id="home-feature" class="title-info">
+                <div id="home-feature-img" class="home-feature-img" style="background-image: url('/img/home/custom/2014-silver-stamps/hero.jpg');"></div>
+              <div class="row collapse">
+                <div class="hero-height-stamps">
+                  <div class="stamp-outline">
+                    <div class="animated-stamp"></div>
+                  </div>
+                  <div id="stamps-title">
+                    <p class="stamps">The 2014 Sliver Stamps</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </a>
+      </section>
+      <script>
+        
+        function homeResized(){
+        if ($(window).width() > 640){
+          var stampWidth = 75;
+        }
+        else {
+          stampWidth = 50;
+        }  
+        var heroWidth = $('.hero-height-stamps').width() / 2 - stampWidth;
+          $('.stamp-outline').css({'left': heroWidth });
+          //alert(heroWidth);
+        }
+        $(window).load(function () {
+          setTimeout( function(){ 
+          $('.stamp-outline').hide().fadeIn('slow');
+            }
+           , 500 );
+          setTimeout( function(){ 
+            $('#stamps-title').hide().fadeIn('slow');
+            }
+           , 3000 );
+          homeResized();
+        });
+        $(window).bind('resize',function() {
+          homeResized();
+        });
+      </script>
