@@ -57,7 +57,14 @@ home_feature_display: true
               </div>
             </div>
           {% endfor %}
-          {% for post in site.categories['reviews'] offset:5 limit:4 %}
+          {% for post in site.posts limit:1 %}
+            {% if post.categories contains "features" %}
+            {% assign offsetnum = 4 %}
+            {% else %}
+            {% assign offsetnum = 5 %}
+            {% endif %}
+          {% endfor %}
+          {% for post in site.categories['reviews'] offset:offsetnum limit:4 %}
           {% assign author = site.data.authors[post.author] %}
           {% assign loopindex = forloop.index | modulo: 2 %}
           {% if loopindex == 1 %}
