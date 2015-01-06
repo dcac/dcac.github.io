@@ -1493,6 +1493,7 @@
 		"ignoreWasSetByUser": 0,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		"inputAbbreviatedPath": "\/_site\/bower_components\/modernizr\/feature-detects\/audio-webaudio-api.js",
 		"outputAbbreviatedPath": "\/_site\/bower_components\/modernizr\/feature-detects\/min\/audio-webaudio-api-min.js",
 		"outputPathIsOutsideProject": 0,
@@ -10350,6 +10351,10 @@
 		"inputAbbreviatedPath": "\/_site\/content\/2012\/8\/21\/synecdoche-new-york.html",
 		"outputAbbreviatedPath": "No Output Path",
 >>>>>>> FETCH_HEAD
+=======
+		"inputAbbreviatedPath": "\/_site\/content\/2012\/8\/21\/synecdoche-new-york.html",
+		"outputAbbreviatedPath": "No Output Path",
+>>>>>>> FETCH_HEAD
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -11259,9 +11264,14 @@
 		"ignoreWasSetByUser": 0,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		"initialSize": 188664,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/mommy.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/mommy.jpg",
+=======
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/3\/8\/oz-the-great-and-powerful.html",
+		"outputAbbreviatedPath": "No Output Path",
+>>>>>>> FETCH_HEAD
 =======
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/3\/8\/oz-the-great-and-powerful.html",
 		"outputAbbreviatedPath": "No Output Path",
@@ -11419,6 +11429,7 @@
 		},
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	"\/_site\/img\/article\/main\/no-the-trip-to-italy-is-the-best-film-of-the-year.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -11454,10 +11465,45 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/5\/16\/star-trek-into-darkness.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/5\/15\/ruby-sparks.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/5\/15\/ruby-sparks.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/5\/16\/star-trek-into-darkness.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/5\/16\/star-trek-into-darkness.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2013\/5\/24\/the-hangover-part-3.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/5\/24\/the-hangover-part-3.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2013\/5\/27\/fast-furious-6.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/5\/27\/fast-furious-6.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/5\/16\/star-trek-into-darkness.html": {
 		"fileType": 8192,
@@ -11471,10 +11517,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/5\/24\/the-hangover-part-3.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/5\/29\/behind-the-candelabra.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/5\/29\/behind-the-candelabra.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/5\/3\/iron-man-3.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/5\/3\/iron-man-3.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/5\/24\/the-hangover-part-3.html": {
 		"fileType": 8192,
@@ -11488,10 +11551,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/5\/27\/fast-furious-6.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/5\/31\/now-you-see-me.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/5\/31\/now-you-see-me.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/6\/11\/sarah-prefers-to-run.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/11\/sarah-prefers-to-run.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/5\/27\/fast-furious-6.html": {
 		"fileType": 8192,
@@ -11505,10 +11585,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/5\/29\/behind-the-candelabra.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/6\/12\/slasher-camp.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/12\/slasher-camp.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/6\/12\/this-is-the-end.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/12\/this-is-the-end.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/5\/29\/behind-the-candelabra.html": {
 		"fileType": 8192,
@@ -11522,10 +11619,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/5\/3\/iron-man-3.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/6\/13\/the-purge.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/13\/the-purge.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/6\/14\/man-of-steel.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/14\/man-of-steel.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/5\/3\/iron-man-3.html": {
 		"fileType": 8192,
@@ -11539,10 +11653,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/5\/31\/now-you-see-me.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/6\/17\/the-kings-of-summer.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/17\/the-kings-of-summer.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/6\/19\/world-war-z.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/19\/world-war-z.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/5\/31\/now-you-see-me.html": {
 		"fileType": 8192,
@@ -11556,10 +11687,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/11\/sarah-prefers-to-run.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/6\/20\/trance.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/20\/trance.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/6\/21\/monsters-university.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/21\/monsters-university.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/6\/11\/sarah-prefers-to-run.html": {
 		"fileType": 8192,
@@ -11573,10 +11721,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/12\/slasher-camp.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/6\/25\/we-steal-secrets-the-story-of-wikileaks.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/25\/we-steal-secrets-the-story-of-wikileaks.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/6\/27\/before-midnight.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/27\/before-midnight.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/6\/12\/slasher-camp.html": {
 		"fileType": 8192,
@@ -11590,10 +11755,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/12\/this-is-the-end.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/6\/28\/white-house-down.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/28\/white-house-down.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/6\/6\/out-of-darkness-revisiting-the-wrath-of-khan.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/6\/out-of-darkness-revisiting-the-wrath-of-khan.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/6\/12\/this-is-the-end.html": {
 		"fileType": 8192,
@@ -11607,10 +11789,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/13\/the-purge.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/6\/7\/after-earth.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/7\/after-earth.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/7\/11\/pacific-rim.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/7\/11\/pacific-rim.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/6\/13\/the-purge.html": {
 		"fileType": 8192,
@@ -11624,10 +11823,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/14\/man-of-steel.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/7\/12\/grown-ups-2.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/7\/12\/grown-ups-2.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/7\/12\/mockbusters.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/7\/12\/mockbusters.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/6\/14\/man-of-steel.html": {
 		"fileType": 8192,
@@ -11641,10 +11857,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/17\/the-kings-of-summer.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/7\/17\/sharknado.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/7\/17\/sharknado.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/7\/20\/red-2.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/7\/20\/red-2.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/6\/17\/the-kings-of-summer.html": {
 		"fileType": 8192,
@@ -11658,10 +11891,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/19\/world-war-z.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/7\/23\/the-conjuring.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/7\/23\/the-conjuring.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/7\/5\/despicable-me-2.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/7\/5\/despicable-me-2.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/6\/19\/world-war-z.html": {
 		"fileType": 8192,
@@ -11675,10 +11925,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/20\/trance.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/8\/1\/only-god-forgives.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/8\/1\/only-god-forgives.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/8\/14\/planes.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/8\/14\/planes.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/6\/20\/trance.html": {
 		"fileType": 8192,
@@ -11692,10 +11959,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/21\/monsters-university.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/8\/15\/the-worlds-end.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/8\/15\/the-worlds-end.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/8\/15\/were-the-millers.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/8\/15\/were-the-millers.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/6\/21\/monsters-university.html": {
 		"fileType": 8192,
@@ -11709,10 +11993,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/25\/we-steal-secrets-the-story-of-wikileaks.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/8\/2\/the-to-do-list.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/8\/2\/the-to-do-list.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/8\/20\/a-hijacking.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/8\/20\/a-hijacking.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/6\/25\/we-steal-secrets-the-story-of-wikileaks.html": {
 		"fileType": 8192,
@@ -11726,10 +12027,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/27\/before-midnight.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/8\/21\/jobs.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/8\/21\/jobs.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/8\/22\/lovelace.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/8\/22\/lovelace.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/6\/27\/before-midnight.html": {
 		"fileType": 8192,
@@ -11743,10 +12061,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/28\/white-house-down.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/8\/23\/in-a-world.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/8\/23\/in-a-world.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/8\/26\/blue-jasmine.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/8\/26\/blue-jasmine.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/6\/28\/white-house-down.html": {
 		"fileType": 8192,
@@ -11760,10 +12095,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/6\/out-of-darkness-revisiting-the-wrath-of-khan.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/8\/27\/youre-next.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/8\/27\/youre-next.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/8\/30\/closed-circuit.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/8\/30\/closed-circuit.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/6\/6\/out-of-darkness-revisiting-the-wrath-of-khan.html": {
 		"fileType": 8192,
@@ -11777,10 +12129,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/6\/7\/after-earth.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/8\/6\/fruitvale-station.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/8\/6\/fruitvale-station.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/8\/7\/percy-jackson-sea-of-monsters.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/8\/7\/percy-jackson-sea-of-monsters.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/6\/7\/after-earth.html": {
 		"fileType": 8192,
@@ -11794,10 +12163,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/7\/11\/pacific-rim.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/8\/9\/elysium.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/8\/9\/elysium.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/9\/10\/prisoners.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/9\/10\/prisoners.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/7\/11\/pacific-rim.html": {
 		"fileType": 8192,
@@ -11811,10 +12197,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/7\/12\/grown-ups-2.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/9\/10\/riddick.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/9\/10\/riddick.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/9\/10\/tiff-2013.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/9\/10\/tiff-2013.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/7\/12\/grown-ups-2.html": {
 		"fileType": 8192,
@@ -11828,10 +12231,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/7\/12\/mockbusters.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/9\/12\/atlantic-rim.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/9\/12\/atlantic-rim.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/9\/13\/the-act-of-killing.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/9\/13\/the-act-of-killing.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/7\/12\/mockbusters.html": {
 		"fileType": 8192,
@@ -11845,10 +12265,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/7\/17\/sharknado.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/9\/17\/insidious-chapter-2.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/9\/17\/insidious-chapter-2.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/9\/18\/the-grand-seduction.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/9\/18\/the-grand-seduction.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/7\/17\/sharknado.html": {
 		"fileType": 8192,
@@ -12287,10 +12724,18 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2013\/9\/19\/dallas-buyers-club.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/9\/19\/dallas-buyers-club.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/9\/19\/dallas-buyers-club.html",
+>>>>>>> FETCH_HEAD
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2013\/9\/19\/dallas-buyers-club.html": {
 		"fileType": 8192,
@@ -12491,10 +12936,18 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/17\/jack-ryan-shadow-recruit.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/9\/20\/the-art-of-the-steal.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/9\/20\/the-art-of-the-steal.html",
+>>>>>>> FETCH_HEAD
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/1\/17\/jack-ryan-shadow-recruit.html": {
 		"fileType": 8192,
@@ -12508,10 +12961,18 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/2\/mandela-long-walk-to-freedom.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/9\/25\/good-ol-freda.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/9\/25\/good-ol-freda.html",
+>>>>>>> FETCH_HEAD
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/1\/2\/mandela-long-walk-to-freedom.html": {
 		"fileType": 8192,
@@ -12525,10 +12986,18 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/20\/august-osage-county.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/9\/27\/don-jon.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/9\/27\/don-jon.html",
+>>>>>>> FETCH_HEAD
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/1\/20\/august-osage-county.html": {
 		"fileType": 8192,
@@ -12542,10 +13011,18 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/20\/the-book-thief.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/9\/3\/the-grandmaster.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/9\/3\/the-grandmaster.html",
+>>>>>>> FETCH_HEAD
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/1\/20\/the-book-thief.html": {
 		"fileType": 8192,
@@ -12559,10 +13036,18 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/22\/inside-llewyn-davis.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/9\/30\/rhymes-for-young-ghouls.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/9\/30\/rhymes-for-young-ghouls.html",
+>>>>>>> FETCH_HEAD
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/1\/22\/inside-llewyn-davis.html": {
 		"fileType": 8192,
@@ -12576,10 +13061,18 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/25\/the-square.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/9\/4\/getaway.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/9\/4\/getaway.html",
+>>>>>>> FETCH_HEAD
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/1\/25\/the-square.html": {
 		"fileType": 8192,
@@ -12593,10 +13086,18 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/27\/the-hunt.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2013\/9\/5\/lee-daniels-the-butler.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/9\/5\/lee-daniels-the-butler.html",
+>>>>>>> FETCH_HEAD
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/1\/27\/the-hunt.html": {
 		"fileType": 8192,
@@ -12610,10 +13111,18 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/28\/philomena.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/1\/1\/c-redmonds-top-films-of-2013.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/1\/c-redmonds-top-films-of-2013.html",
+>>>>>>> FETCH_HEAD
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/1\/28\/philomena.html": {
 		"fileType": 8192,
@@ -12627,10 +13136,18 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/30\/the-croods.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/1\/10\/nebraska.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/10\/nebraska.html",
+>>>>>>> FETCH_HEAD
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/1\/30\/the-croods.html": {
 		"fileType": 8192,
@@ -12644,10 +13161,18 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/31\/that-awkward-moment.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/1\/14\/her.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/14\/her.html",
+>>>>>>> FETCH_HEAD
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/1\/31\/that-awkward-moment.html": {
 		"fileType": 8192,
@@ -12661,10 +13186,18 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/7\/wolf-of-wall-street.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/1\/16\/drug-war.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/16\/drug-war.html",
+>>>>>>> FETCH_HEAD
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/1\/7\/wolf-of-wall-street.html": {
 		"fileType": 8192,
@@ -12678,10 +13211,18 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/9\/lone-survivor.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/1\/17\/jack-ryan-shadow-recruit.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/17\/jack-ryan-shadow-recruit.html",
+>>>>>>> FETCH_HEAD
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/1\/9\/lone-survivor.html": {
 		"fileType": 8192,
@@ -12695,10 +13236,18 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/1\/the-trip-to-italy.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/1\/2\/mandela-long-walk-to-freedom.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/2\/mandela-long-walk-to-freedom.html",
+>>>>>>> FETCH_HEAD
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/10\/1\/the-trip-to-italy.html": {
 		"fileType": 8192,
@@ -12712,10 +13261,18 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/10\/why-gone-girl-makes-me-sad-for-the-state-of-cinema.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/1\/20\/august-osage-county.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/20\/august-osage-county.html",
+>>>>>>> FETCH_HEAD
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/10\/10\/why-gone-girl-makes-me-sad-for-the-state-of-cinema.html": {
 		"fileType": 8192,
@@ -12729,10 +13286,18 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/12\/left-behind.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/1\/20\/the-book-thief.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/20\/the-book-thief.html",
+>>>>>>> FETCH_HEAD
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/10\/12\/left-behind.html": {
 		"fileType": 8192,
@@ -12746,10 +13311,18 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/14\/st-vincent.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/1\/22\/inside-llewyn-davis.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/22\/inside-llewyn-davis.html",
+>>>>>>> FETCH_HEAD
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/10\/14\/st-vincent.html": {
 		"fileType": 8192,
@@ -12763,10 +13336,18 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/15\/citizen-marc.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/1\/25\/the-square.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/25\/the-square.html",
+>>>>>>> FETCH_HEAD
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/10\/15\/citizen-marc.html": {
 		"fileType": 8192,
@@ -12780,10 +13361,18 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/16\/tusk.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/1\/27\/the-hunt.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/27\/the-hunt.html",
+>>>>>>> FETCH_HEAD
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/10\/16\/tusk.html": {
 		"fileType": 8192,
@@ -13103,10 +13692,18 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/17\/rosewater.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/1\/28\/philomena.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/28\/philomena.html",
+>>>>>>> FETCH_HEAD
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/11\/17\/rosewater.html": {
 		"fileType": 8192,
@@ -13120,10 +13717,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/18\/big-hero-6.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/1\/30\/the-croods.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/30\/the-croods.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/1\/31\/that-awkward-moment.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/31\/that-awkward-moment.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/11\/18\/big-hero-6.html": {
 		"fileType": 8192,
@@ -13137,10 +13751,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/19\/wolves.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/1\/7\/wolf-of-wall-street.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/7\/wolf-of-wall-street.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/1\/9\/lone-survivor.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/1\/9\/lone-survivor.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/11\/19\/wolves.html": {
 		"fileType": 8192,
@@ -13154,10 +13785,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/20\/after-tiller.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/10\/1\/the-trip-to-italy.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/1\/the-trip-to-italy.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/10\/10\/why-gone-girl-makes-me-sad-for-the-state-of-cinema.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/10\/why-gone-girl-makes-me-sad-for-the-state-of-cinema.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/11\/20\/after-tiller.html": {
 		"fileType": 8192,
@@ -13171,10 +13819,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/21\/the-hunger-games-mockingjay-part-1.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/10\/12\/left-behind.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/12\/left-behind.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/10\/14\/st-vincent.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/14\/st-vincent.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/11\/21\/the-hunger-games-mockingjay-part-1.html": {
 		"fileType": 8192,
@@ -13188,10 +13853,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/24\/virunga.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/10\/15\/citizen-marc.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/15\/citizen-marc.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/10\/16\/tusk.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/16\/tusk.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/11\/24\/virunga.html": {
 		"fileType": 8192,
@@ -13205,10 +13887,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/25\/gods-pocket.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/10\/17\/fury.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/17\/fury.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/10\/20\/open-windows.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/20\/open-windows.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/11\/25\/gods-pocket.html": {
 		"fileType": 8192,
@@ -13222,10 +13921,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/26\/the-town-that-dreaded-sundown copy.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/10\/21\/a-conversation-with-jess-gonchor-production-designer.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/21\/a-conversation-with-jess-gonchor-production-designer.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/10\/22\/the-province-of-television.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/22\/the-province-of-television.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/11\/26\/the-town-that-dreaded-sundown copy.html": {
 		"fileType": 8192,
@@ -13239,10 +13955,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/27\/laggies.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/10\/23\/the-one-i-love.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/23\/the-one-i-love.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/10\/24\/birdman-or-the-unexpected-virtue-of-ignorance.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/24\/birdman-or-the-unexpected-virtue-of-ignorance.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/11\/27\/laggies.html": {
 		"fileType": 8192,
@@ -13256,10 +13989,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/28\/horrible-bosses-2.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/10\/29\/nightcrawler.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/29\/nightcrawler.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/10\/3\/this-is-where-i-leave-you.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/3\/this-is-where-i-leave-you.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/11\/28\/horrible-bosses-2.html": {
 		"fileType": 8192,
@@ -13273,10 +14023,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/3\/young-ones.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/10\/30\/john-wick.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/30\/john-wick.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/10\/31\/before-i-go-to-sleep.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/31\/before-i-go-to-sleep.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/11\/3\/young-ones.html": {
 		"fileType": 8192,
@@ -13290,10 +14057,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/5\/a-discussion-with-jake-paltrow-director.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/10\/31\/the-top-5-most-terrifying-scenes-in-movie-history.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/31\/the-top-5-most-terrifying-scenes-in-movie-history.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/10\/6\/My-Old-Lady.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/6\/My-Old-Lady.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/11\/5\/a-discussion-with-jake-paltrow-director.html": {
 		"fileType": 8192,
@@ -13307,10 +14091,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/5\/tims-vermeer.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/10\/7\/the-maze-runner.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/7\/the-maze-runner.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/10\/8\/night-moves.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/8\/night-moves.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/11\/5\/tims-vermeer.html": {
 		"fileType": 8192,
@@ -13324,10 +14125,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/7\/mommy copy.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/10\/9\/gone-girl.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/10\/9\/gone-girl.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/11\/10\/interstellar.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/10\/interstellar.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/11\/7\/mommy copy.html": {
 		"fileType": 8192,
@@ -13341,10 +14159,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/7\/mommy%20copy.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/11\/13\/e-team.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/13\/e-team.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/11\/14\/dumb-and-dumber-to.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/14\/dumb-and-dumber-to.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/11\/7\/mommy%20copy.html": {
 		"fileType": 8192,
@@ -13358,10 +14193,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/7\/mommy.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/11\/17\/rosewater.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/17\/rosewater.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/11\/18\/big-hero-6.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/18\/big-hero-6.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/11\/7\/mommy.html": {
 		"fileType": 8192,
@@ -13375,10 +14227,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/1\/the-theory-of-everything.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/11\/19\/wolves.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/19\/wolves.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/11\/20\/after-tiller.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/20\/after-tiller.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/12\/1\/the-theory-of-everything.html": {
 		"fileType": 8192,
@@ -13392,10 +14261,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/10\/third-person.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/11\/21\/the-hunger-games-mockingjay-part-1.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/21\/the-hunger-games-mockingjay-part-1.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/11\/24\/virunga.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/24\/virunga.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/12\/10\/third-person.html": {
 		"fileType": 8192,
@@ -13409,10 +14295,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/11\/fading-gigolo.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/11\/25\/gods-pocket.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/25\/gods-pocket.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/11\/26\/the-town-that-dreaded-sundown copy.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/26\/the-town-that-dreaded-sundown copy.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/12\/11\/fading-gigolo.html": {
 		"fileType": 8192,
@@ -13426,10 +14329,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/12\/exodus-gods-and-kings.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/11\/27\/laggies.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/27\/laggies.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/11\/28\/horrible-bosses-2.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/28\/horrible-bosses-2.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/12\/12\/exodus-gods-and-kings.html": {
 		"fileType": 8192,
@@ -13443,10 +14363,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/16\/canadas-hottest-filmmaker-is-making-a-hollywood-movie-and-a-classic-mistake.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/11\/3\/young-ones.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/3\/young-ones.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/11\/5\/a-discussion-with-jake-paltrow-director.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/5\/a-discussion-with-jake-paltrow-director.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/12\/16\/canadas-hottest-filmmaker-is-making-a-hollywood-movie-and-a-classic-mistake.html": {
 		"fileType": 8192,
@@ -13460,10 +14397,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/17\/2014-silver-stamps.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/11\/5\/tims-vermeer.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/5\/tims-vermeer.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/11\/7\/mommy copy.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/7\/mommy copy.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/12\/17\/2014-silver-stamps.html": {
 		"fileType": 8192,
@@ -13477,10 +14431,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/17\/the-hobbit-the-battle-of-the-five-armies copy.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/11\/7\/mommy%20copy.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/7\/mommy%20copy.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/11\/7\/mommy.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/11\/7\/mommy.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/12\/17\/the-hobbit-the-battle-of-the-five-armies copy.html": {
 		"fileType": 8192,
@@ -13494,10 +14465,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/18\/2014-silver-stamps.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/12\/1\/the-theory-of-everything.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/1\/the-theory-of-everything.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/12\/10\/third-person.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/10\/third-person.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/12\/18\/2014-silver-stamps.html": {
 		"fileType": 8192,
@@ -13511,10 +14499,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/20\/annie.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/12\/11\/fading-gigolo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/11\/fading-gigolo.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/12\/12\/exodus-gods-and-kings.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/12\/exodus-gods-and-kings.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/12\/20\/annie.html": {
 		"fileType": 8192,
@@ -13528,10 +14533,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/22\/night-at-the-museum-secret-of-the-tomb.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/12\/16\/canadas-hottest-filmmaker-is-making-a-hollywood-movie-and-a-classic-mistake.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/16\/canadas-hottest-filmmaker-is-making-a-hollywood-movie-and-a-classic-mistake.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/12\/17\/2014-silver-stamps.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/17\/2014-silver-stamps.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/12\/22\/night-at-the-museum-secret-of-the-tomb.html": {
 		"fileType": 8192,
@@ -13545,10 +14567,27 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/29\/unbroken.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/12\/17\/the-hobbit-the-battle-of-the-five-armies copy.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/17\/the-hobbit-the-battle-of-the-five-armies copy.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/12\/18\/2014-silver-stamps.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/18\/2014-silver-stamps.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
 <<<<<<< HEAD
 	"\/_site\/content\/2014\/12\/29\/unbroken.html": {
 		"fileType": 8192,
@@ -13562,11 +14601,51 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/3\/the-penguins-of-madagascar.html",
 >>>>>>> FETCH_HEAD
+=======
+	"\/_site\/content\/2014\/12\/20\/annie.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/20\/annie.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2014\/12\/22\/night-at-the-museum-secret-of-the-tomb.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/22\/night-at-the-museum-secret-of-the-tomb.html",
+>>>>>>> FETCH_HEAD
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 <<<<<<< HEAD
+<<<<<<< HEAD
+	"\/_site\/content\/2014\/12\/3\/the-penguins-of-madagascar.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/3\/the-penguins-of-madagascar.html",
+=======
+	"\/_site\/content\/2014\/12\/29\/unbroken.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/29\/unbroken.html",
+>>>>>>> FETCH_HEAD
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+<<<<<<< HEAD
+	"\/_site\/content\/2014\/12\/30\/c-redmonds-top-films-of-2014.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+=======
+=======
 	"\/_site\/content\/2014\/12\/3\/the-penguins-of-madagascar.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -13576,15 +14655,14 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+>>>>>>> FETCH_HEAD
 	"\/_site\/content\/2014\/12\/30\/c-redmonds-top-films-of-2014.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
 =======
-	"\/_site\/content\/2014\/12\/30\/c-redmonds-top-films-of-2014.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
 >>>>>>> FETCH_HEAD
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/12\/30\/c-redmonds-top-films-of-2014.html",
 		"outputAbbreviatedPath": "No Output Path",
@@ -14002,9 +15080,14 @@
 		"ignoreWasSetByUser": 0,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		"initialSize": 90100,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-imitation-game.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-imitation-game.jpg",
+=======
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/4\/2\/the-canyons.html",
+		"outputAbbreviatedPath": "No Output Path",
+>>>>>>> FETCH_HEAD
 =======
 		"inputAbbreviatedPath": "\/_site\/content\/2014\/4\/2\/the-canyons.html",
 		"outputAbbreviatedPath": "No Output Path",
