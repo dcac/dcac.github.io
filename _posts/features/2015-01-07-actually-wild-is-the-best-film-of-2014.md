@@ -12,7 +12,7 @@ categories:
   - essays
 tags: [The Trip to Italy,Nightcrawler, Awards, awesome, Best,critic, films, good, list, movies, Top films 2014, worst, year end]
 ---
-Dear Readers, 
+Dear Fellow Critics, 
 
 _Grudge Match_ was the last film I saw in 2013 and the first film I reviewed for Dear Cast and Crew. [_Wild_](http://www.dearcastandcrew.com/content/2015/1/4/wild.html) was the last film I saw in 2014, and the first film I reviewed in 2015. 
 
@@ -22,7 +22,7 @@ I’m a sucker for an underdog story, especially a boxing one, but what disappoi
 
 _Wild_ already had a strike against it when I heard that it had been adapted from an Oprah Book Club pick, a memoir by a woman who walked 1100 miles of the gruelling Pacific Crest Trail alone. I steeled myself for treacly sentimentality and faux-earnest narration over an Enya-heavy soundtrack. I apologized in advance to my sci-fi-loving husband who would much rather have been watching [_Interstellar_](http://www.dearcastandcrew.com/content/2014/11/10/interstellar.html). But from the first few moments that Reese Witherspoon appeared onscreen, bleeding and swearing, I was captivated. Humbled, even.
 
-Unlike my esteemed colleague Christopher, I did not see 200 films in 2014. I didn’t see 100. I doubt I even saw 50. This has less to do with the state of modern cinema and more to do with the fact that I _really_ dislike going to the theatre unless I absolutely have to. I’m always the first member of the DCAC crew to volunteer to watch a screener from the comfort of my couch. Based on the paltry number of films I saw in 2014, it may not even be fair for me to weigh in on which one was the best. But I can make argument for why _Wild_ was the most important. 
+Unlike my esteemed colleague Christopher, I did not see 200 films in 2014. I didn’t see 100. I doubt I even saw 50. This has less to do with the state of modern cinema and more to do with the fact that I _really_ dislike going to the theatre unless I absolutely have to. I’m always the first member of the DCAC crew to volunteer to watch a screener from the comfort of my couch. Based on the paltry number of films I saw in 2014, it may not even be fair for me to weigh in on which one was the best. But I can make an argument for why _Wild_ was the most important. 
 
 I’ve spent almost fifteen years watching movies professionally, but rarely do I watch them for myself. Every once in a while a film manages to sneak past my critical gaze and move me, not just as a critic, but as an individual. _Children of Men_ and _Diving Bell and the Butterfly_ are some recent examples. _C.R.A.Z.Y._, as well. All of which feature male protagonists. 
 
