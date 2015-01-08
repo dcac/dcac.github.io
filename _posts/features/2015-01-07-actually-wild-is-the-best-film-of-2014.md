@@ -14,7 +14,7 @@ tags: [The Trip to Italy,Nightcrawler, Awards, awesome, Best,critic, films, good
 ---
 Dear Fellow Critics, 
 
-_Grudge Match_ was the last film I saw in 2013 and the first film I reviewed for Dear Cast and Crew. [_Wild_](http://www.dearcastandcrew.com/content/2015/1/4/wild.html) was the last film I saw in 2014, and the first film I reviewed in 2015. 
+**_Grudge Match_ was the last film I saw in 2013 and the first film I reviewed for Dear Cast and Crew. [_Wild_](http://www.dearcastandcrew.com/content/2015/1/4/wild.html) was the last film I saw in 2014, and the first film I reviewed in 2015. **
 
 I was more excited to see _Grudge Match_. 
 
