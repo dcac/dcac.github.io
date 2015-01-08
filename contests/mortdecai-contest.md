@@ -6,15 +6,15 @@ grid-display: false
 exclude_from_search: true
 published: true
 imdb: tt3045616
-image: mordecai-contest.jpg
-title: Win a pass to the Advance Screening of Mordecai!
+image: mortdecai-contest.jpg
+title: Win a pass to the Advance Screening of Mortdecai!
 addressee: 
 ---
 ***Dear Johnny Depp Fans,***
 
 Do you love Johnny Depp in all his Johnny Deppiness? Then get ready to go deep into Johnny Deppdom!
 
-We're giving away free passes to his newest film MORTDECAI on January 22 in the following Canadian cities:
+We're giving away free passes to his newest film MORTDECAI on **January 22** in the following Canadian cities:
 
 **Toronto**  
 **Vancouver**  
