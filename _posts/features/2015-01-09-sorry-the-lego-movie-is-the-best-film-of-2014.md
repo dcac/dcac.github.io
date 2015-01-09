@@ -1,10 +1,10 @@
 ---
 layout: feature
 published: true
-image: sorry-the-lego-movie-is-best-film-of-2014.jpg
-title: "Sorry, The Lego Movie is Best Film of 2014"
+image: sorry-the-lego-movie-is-the-best-film-of-2014.jpg
+title: "Sorry, The Lego Movie is the Best Film of 2014"
 addressee: 
-excerpt: "Really, The Lego Movie? Yes The Lego Movie. Find"
+excerpt: "Really, The Lego Movie? Yes The Lego Movie."
 author: caseyt
 comments: true
 categories:
