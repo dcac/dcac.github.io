@@ -56,6 +56,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_includes\/home\/home-feature (Casey Tourangeau's conflicted copy 2015-01-07).html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/home\/home-feature (Casey Tourangeau's conflicted copy 2015-01-07).html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_includes\/home\/home-feature-ss-2014.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -8335,11 +8344,38 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/content\/2015\/1\/6\/no-the-trip-to-italy-is-the-best-film-of-the-year.html": {
+	"\/_site\/content\/2015\/1\/6\/no-the-trip-to-italy-is-the-best-film-of-2014.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/content\/2015\/1\/6\/no-the-trip-to-italy-is-the-best-film-of-the-year.html",
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/1\/6\/no-the-trip-to-italy-is-the-best-film-of-2014.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/1\/7\/actually-wild-is-the-best-film-of-2014.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/1\/7\/actually-wild-is-the-best-film-of-2014.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/1\/8\/seriously-birdman-is-the-best-film-of-2014.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/1\/8\/seriously-birdman-is-the-best-film-of-2014.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/contests\/mortdecai-contest.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/contests\/mortdecai-contest.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -8953,6 +8989,17 @@
 		"initialSize": 174071,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/act-of-valor.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/act-of-valor.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/actually-wild-is-the-best-film-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63778,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/actually-wild-is-the-best-film-of-2014.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/actually-wild-is-the-best-film-of-2014.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -11718,6 +11765,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/main\/mortdecai-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 218677,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/mortdecai-contest.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/mortdecai-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/main\/mr-peabody-sherman.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -12605,6 +12663,17 @@
 		"initialSize": 198440,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/serena.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/serena.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/seriously-birdman-is-the-best-film-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 206302,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/seriously-birdman-is-the-best-film-of-2014.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/seriously-birdman-is-the-best-film-of-2014.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15421,6 +15490,17 @@
 		"initialSize": 16568,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/act-of-valor.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/act-of-valor.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/actually-wild-is-the-best-film-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7401,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/actually-wild-is-the-best-film-of-2014.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/actually-wild-is-the-best-film-of-2014.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -19011,6 +19091,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-300\/seriously-birdman-is-the-best-film-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10394,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/seriously-birdman-is-the-best-film-of-2014.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/seriously-birdman-is-the-best-film-of-2014.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-300\/seven-psychopaths.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -21724,6 +21815,17 @@
 		"initialSize": 43098,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/act-of-valor.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/act-of-valor.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/actually-wild-is-the-best-film-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16902,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/actually-wild-is-the-best-film-of-2014.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/actually-wild-is-the-best-film-of-2014.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -25277,6 +25379,17 @@
 		"initialSize": 35744,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/serena.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/serena.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/seriously-birdman-is-the-best-film-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27002,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/seriously-birdman-is-the-best-film-of-2014.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/seriously-birdman-is-the-best-film-of-2014.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -28944,6 +29057,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/home\/custom\/best-of-2014\/birdman.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 213166,
+		"inputAbbreviatedPath": "\/_site\/img\/home\/custom\/best-of-2014\/birdman.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/home\/custom\/best-of-2014\/birdman.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/home\/custom\/best-of-2014\/cristopherr.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -28973,6 +29097,17 @@
 		"initialSize": 95819,
 		"inputAbbreviatedPath": "\/_site\/img\/home\/custom\/best-of-2014\/the-trip-to-italy.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/home\/custom\/best-of-2014\/the-trip-to-italy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/home\/custom\/best-of-2014\/wild.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94161,
+		"inputAbbreviatedPath": "\/_site\/img\/home\/custom\/best-of-2014\/wild.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/home\/custom\/best-of-2014\/wild.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -29438,6 +29573,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
+		},
+	"\/_site\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/_site\/js\/app.js": {
 		"fileType": 64,
@@ -35408,6 +35552,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/writers\/dig\/page3\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/writers\/dig\/page3\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/writers\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -38514,6 +38667,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/favicon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15491,
+		"inputAbbreviatedPath": "\/favicon.png",
+		"outputAbbreviatedPath": "\/favicon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/features\/essays\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -38887,6 +39051,17 @@
 		"initialSize": 174071,
 		"inputAbbreviatedPath": "\/img\/article\/main\/act-of-valor.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/act-of-valor.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/main\/actually-wild-is-the-best-film-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63778,
+		"inputAbbreviatedPath": "\/img\/article\/main\/actually-wild-is-the-best-film-of-2014.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/actually-wild-is-the-best-film-of-2014.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -41652,6 +41827,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/mortdecai-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 218677,
+		"inputAbbreviatedPath": "\/img\/article\/main\/mortdecai-contest.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/mortdecai-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/mr-peabody-sherman.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -41780,6 +41966,17 @@
 		"initialSize": 129841,
 		"inputAbbreviatedPath": "\/img\/article\/main\/nightcrawler.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/nightcrawler.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/main\/no-the-trip-to-italy-is-the-best-film-of-the-year.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85048,
+		"inputAbbreviatedPath": "\/img\/article\/main\/no-the-trip-to-italy-is-the-best-film-of-the-year.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/no-the-trip-to-italy-is-the-best-film-of-the-year.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -42528,6 +42725,17 @@
 		"initialSize": 198440,
 		"inputAbbreviatedPath": "\/img\/article\/main\/serena.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/serena.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/main\/seriously-birdman-is-the-best-film-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 206302,
+		"inputAbbreviatedPath": "\/img\/article\/main\/seriously-birdman-is-the-best-film-of-2014.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/seriously-birdman-is-the-best-film-of-2014.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -45344,6 +45552,17 @@
 		"initialSize": 16568,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/act-of-valor.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/act-of-valor.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-300\/actually-wild-is-the-best-film-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7401,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/actually-wild-is-the-best-film-of-2014.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/actually-wild-is-the-best-film-of-2014.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -48175,6 +48394,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-300\/no-the-trip-to-italy-is-the-best-film-of-the-year.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8076,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/no-the-trip-to-italy-is-the-best-film-of-the-year.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/no-the-trip-to-italy-is-the-best-film-of-the-year.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-300\/noah.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -48919,6 +49149,17 @@
 		"initialSize": 13564,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/serena.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/serena.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-300\/seriously-birdman-is-the-best-film-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10394,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/seriously-birdman-is-the-best-film-of-2014.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/seriously-birdman-is-the-best-film-of-2014.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -51636,6 +51877,17 @@
 		"initialSize": 43098,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/act-of-valor.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/act-of-valor.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-600\/actually-wild-is-the-best-film-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16902,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/actually-wild-is-the-best-film-of-2014.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/actually-wild-is-the-best-film-of-2014.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -54434,6 +54686,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-600\/no-the-trip-to-italy-is-the-best-film-of-the-year.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18977,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/no-the-trip-to-italy-is-the-best-film-of-the-year.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/no-the-trip-to-italy-is-the-best-film-of-the-year.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-600\/noah.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -55178,6 +55441,17 @@
 		"initialSize": 35744,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/serena.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/serena.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-600\/seriously-birdman-is-the-best-film-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27002,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/seriously-birdman-is-the-best-film-of-2014.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/seriously-birdman-is-the-best-film-of-2014.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -58845,6 +59119,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/home\/custom\/best-of-2014\/birdman.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 213166,
+		"inputAbbreviatedPath": "\/img\/home\/custom\/best-of-2014\/birdman.jpg",
+		"outputAbbreviatedPath": "\/img\/home\/custom\/best-of-2014\/birdman.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/home\/custom\/best-of-2014\/cristopherr.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -58863,6 +59148,28 @@
 		"initialSize": 36084,
 		"inputAbbreviatedPath": "\/img\/home\/custom\/best-of-2014\/nightcrawler.jpg",
 		"outputAbbreviatedPath": "\/img\/home\/custom\/best-of-2014\/nightcrawler.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/home\/custom\/best-of-2014\/the-trip-to-italy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95819,
+		"inputAbbreviatedPath": "\/img\/home\/custom\/best-of-2014\/the-trip-to-italy.jpg",
+		"outputAbbreviatedPath": "\/img\/home\/custom\/best-of-2014\/the-trip-to-italy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/home\/custom\/best-of-2014\/wild.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94161,
+		"inputAbbreviatedPath": "\/img\/home\/custom\/best-of-2014\/wild.jpg",
+		"outputAbbreviatedPath": "\/img\/home\/custom\/best-of-2014\/wild.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
