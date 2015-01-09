@@ -14,7 +14,7 @@ tags: [The Trip to Italy,Nightcrawler, Awards, awesome, Best,critic, films, good
 ---
 Dear Fellow Critics, 
 
-As you know, picking a best film of the year is a special sort of ethical dilemma. Your selection doesn’t just define your aesthetic tastes, but who you are as a person at that particular moment in time (if I was writing this essay in 1996, you’d be hearing all about the hyperkinetic genius of Michael Bay’s _The Rock_). 
+**As you know, picking a best film of the year is a special sort of ethical dilemma. Your selection doesn’t just define your aesthetic tastes, but who you are as a person at that particular moment in time (if I was writing this essay in 1996, you’d be hearing all about the hyperkinetic genius of Michael Bay’s _The Rock_). **
 
 If you take the process of annointing a “best film” seriously (and you half-should), you have to make some important decisions about how you approach the act of criticism itself. Is the best film your favorite film? The film that you enjoyed the most, that seemed to speak most directly to your experience, your worldview, your personal tastes? Or is it the film that, in some explicit and objective way, best exemplifies the potential of cinema as an art form? Something empirically superior? If you’re lucky, you’ve seen a film that represents some amalgamation of those two noble goals. Otherwise, you’re making an objective judgment of something inextricably subjective.
 
