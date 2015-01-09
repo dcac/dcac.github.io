@@ -34,7 +34,7 @@ It’s in the last act that the film evolved from extremely well-crafted mid-win
 
 Back to February. For those of you unfamiliar with the particular joys of dealing with a too-large Lego collection under the control of a child’s active imagination, the content of most conversations involves the variations of the words “mess,” “disorder,” and “disaster.” In fact, I’d used those exact words about two days prior, capped off with the classic: “Why can’t you just keep these things together?”
 
-As _The Lego Movie_ made it’s deft shift from animation to live action, revealing the _deus_ behind its _machina_ (and providing a beautiful reason for all the flights of fancy and random encounters), I couldn’t help but see a bit of myself in Will Farrell’s father character. I’m sure that’s not a unique reaction. I bet a lot of parents saw themselves in that scene. No, it wasn't the concept itself that stayed with me. It was the moment Farrell addressed his son by name: Finn. Which happens to be _my_ son’s name. 
+As _The Lego Movie_ made it’s deft shift from animation to live action, revealing the _deus_ behind its _machina_ (and providing a beautiful reason for all the flights of fancy and random encounters), I couldn’t help but see a bit of myself in Will Ferrell’s father character. I’m sure that’s not a unique reaction. I bet a lot of parents saw themselves in that scene. No, it wasn't the concept itself that stayed with me. It was the moment Farrell addressed his son by name: Finn. Which happens to be _my_ son’s name. 
 
 That’s when I sort of lost it.
 
