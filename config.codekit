@@ -56,15 +56,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_includes\/home\/home-feature (Casey Tourangeau's conflicted copy 2015-01-07).html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_includes\/home\/home-feature (Casey Tourangeau's conflicted copy 2015-01-07).html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_includes\/home\/home-feature-ss-2014.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -9770,215 +9761,6 @@
 		"initialSize": 182457,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/dear-robin-3.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/dear-robin-3.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/dear-robin-4.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 116702,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/dear-robin-4.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/dear-robin-4.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/dear-robin-5.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 110452,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/dear-robin-5.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/dear-robin-5.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/deliver-us-from-evil.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 142206,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/deliver-us-from-evil.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/deliver-us-from-evil.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/despicable-me-2.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 189182,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/despicable-me-2.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/despicable-me-2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/devils-knot.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 124265,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/devils-knot.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/devils-knot.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/dirty-wars copy.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2.99514e+06,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/dirty-wars copy.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/dirty-wars copy.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/dirty-wars-4.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2.2503e+06,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/dirty-wars-4.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/dirty-wars-4.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/dirty-wars.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 256934,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/dirty-wars.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/dirty-wars.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/divergent.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 274289,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/divergent.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/divergent.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/django-unchained.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 191521,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/django-unchained.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/django-unchained.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/don-jon.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 108163,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/don-jon.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/don-jon.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/dont-you-forget-about-me.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 212382,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/dont-you-forget-about-me.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/dont-you-forget-about-me.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/downhill-racer.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 230045,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/downhill-racer.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/downhill-racer.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/dream-house.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 165151,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/dream-house.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/dream-house.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/dredd.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 160565,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/dredd.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/dredd.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/drug-war.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 197237,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/drug-war.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/drug-war.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/dumb-and-dumber-to.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 107753,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/dumb-and-dumber-to.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/dumb-and-dumber-to.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/e-team.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 136740,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/e-team.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/e-team.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/early-schwarzenegger.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 152869,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/early-schwarzenegger.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/early-schwarzenegger.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -39363,6 +39145,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/best-of-ct.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 86829,
+		"inputAbbreviatedPath": "\/img\/article\/main\/best-of-ct.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/best-of-ct.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/big-hero-6.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -45864,6 +45657,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-300\/best-of-ct.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9302,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/best-of-ct.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/best-of-ct.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-300\/big-hero-6.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -52196,6 +52000,17 @@
 		"initialSize": 37332,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/bernie.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/bernie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-600\/best-of-ct.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20672,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/best-of-ct.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/best-of-ct.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -59148,6 +58963,17 @@
 		"initialSize": 36084,
 		"inputAbbreviatedPath": "\/img\/home\/custom\/best-of-2014\/nightcrawler.jpg",
 		"outputAbbreviatedPath": "\/img\/home\/custom\/best-of-2014\/nightcrawler.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/home\/custom\/best-of-2014\/the-lego-movie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98853,
+		"inputAbbreviatedPath": "\/img\/home\/custom\/best-of-2014\/the-lego-movie.jpg",
+		"outputAbbreviatedPath": "\/img\/home\/custom\/best-of-2014\/the-lego-movie.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

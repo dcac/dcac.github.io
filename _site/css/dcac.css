@@ -1788,6 +1788,12 @@ p::selection {
     margin-top: 0;
   }
 }
+#review-copy p a {
+  text-decoration: underline;
+}
+#review-copy p a:hover {
+  text-decoration: none;
+}
 #image {
   z-index: 0;
   left: -50000px;
