@@ -20,7 +20,7 @@ I’m fascinated by the changing relationship we can have with works of art. The
 
 What I’m trying to say is, I reserve the right to look back at the version of me that wrote this and say: “What an idiot!_”_
 
-Maybe when I wandered into the theatre on that cold February morning with my 9 year-old son at my side, it was the ideal time for me to watch _The Lego Movie._
+But when I wandered into the theatre on that cold February morning with my 9 year-old son at my side, it was the ideal time for me to watch _The Lego Movie._
 
 To be honest, I’d taken the review assignment as much for him as anything else. I figured there’d be a few laughs. After all, watching the careers of directors Phil Lord and Christopher Miller as they moved from _Cloudy with a Chance of Meatballs_ to _21 Jump Street_ to _The Lego Movie_ is a fascinating exercise in and of itself. But, really, I knew that bringing a dyed-in-the-wool Lego fanatic would be reward enough—even if I ended up disliking the movie. 
 
