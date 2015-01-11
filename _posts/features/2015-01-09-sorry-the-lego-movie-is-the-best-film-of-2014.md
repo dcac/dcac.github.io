@@ -22,7 +22,7 @@ What I’m trying to say is, I reserve the right to look back at the version of 
 
 Maybe when I wandered into the theatre on that cold February morning with my 9 year-old son at my side, it was the ideal time for me to watch _The Lego Movie._
 
-To be honest, I’d taken the review assignment as much for him as anything else. I figured there’d be a few laughs. After all, watching the careers of directors Phil Lord and Christopher Miller as they moved from _Cloudy with a Chance of Meatballs_ to _21 Jump Street_ to _The Lego Movie_ is a fascinating exercise in and of itself. But, really, I knew that bringing a died-in-the-wool Lego fanatic would be reward enough—even if I ended up disliking the movie. 
+To be honest, I’d taken the review assignment as much for him as anything else. I figured there’d be a few laughs. After all, watching the careers of directors Phil Lord and Christopher Miller as they moved from _Cloudy with a Chance of Meatballs_ to _21 Jump Street_ to _The Lego Movie_ is a fascinating exercise in and of itself. But, really, I knew that bringing a dyed-in-the-wool Lego fanatic would be reward enough—even if I ended up disliking the movie. 
 
 Needless to say, [_that’s not what happened_](http://www.dearcastandcrew.com/content/2014/2/7/the-lego-movie.html). 
 
@@ -34,7 +34,7 @@ It’s in the last act that the film evolved from extremely well-crafted mid-win
 
 Back to February. For those of you unfamiliar with the particular joys of dealing with a too-large Lego collection under the control of a child’s active imagination, the content of most conversations involves the variations of the words “mess,” “disorder,” and “disaster.” In fact, I’d used those exact words about two days prior, capped off with the classic: “Why can’t you just keep these things together?”
 
-As _The Lego Movie_ made it’s deft shift from animation to live action, revealing the _deus_ behind its _machina_ (and providing a beautiful reason for all the flights of fancy and random encounters), I couldn’t help but see a bit of myself in Will Ferrell’s father character. I’m sure that’s not a unique reaction. I bet a lot of parents saw themselves in that scene. No, it wasn't the concept itself that stayed with me. It was the moment Farrell addressed his son by name: Finn. Which happens to be _my_ son’s name. 
+As _The Lego Movie_ made its deft shift from animation to live action, revealing the _deus_ behind its _machina_ (and providing a beautiful reason for all the flights of fancy and random encounters), I couldn’t help but see a bit of myself in Will Ferrell’s father character. I’m sure that’s not a unique reaction. I bet a lot of parents saw themselves in that scene. No, it wasn't the concept itself that stayed with me. It was the moment Farrell addressed his son by name: Finn. Which happens to be _my_ son’s name. 
 
 That’s when I sort of lost it.
 
