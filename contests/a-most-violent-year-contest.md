@@ -21,7 +21,7 @@ Screenings will take place in the following cities:
 
 **Jan. 19 - Toronto**  
 **Jan. 21 - Vancouver**  
-**Jan. 21 - Victor**  
+**Jan. 21 - Victoria**  
 **Jan. 21 - Calgary**  
 **Jan. 21 - Edmonton**  
 **Jan. 21 - Halifax**  
