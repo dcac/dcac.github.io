@@ -13,7 +13,7 @@ categories:
   - on-video
 title: "The Master"
 comments: true
-tags: [Amy Adams, beliver, crazy, cult, Joaquin Phoenix, P.T. Anderson, Philip Seymour Hoffman, religion, Scientology movie, The Cause, The Master, Tom Cruise, Uncategorized]
+tags: [P.T. Anderson,Amy Adams, beliver, crazy, cult, Joaquin Phoenix,  Philip Seymour Hoffman, religion, Scientology movie, The Cause, The Master, Tom Cruise]
 ---
 Good day, sir. I hope this letter finds you well. I'm writing to you in hopes of learning more about the program you're offering. I was at the local movie house recently and watched the newsreel documentary _The Master_, which reported on your curative relationship with the troubled drifter Freddie Quell. While I am not a naval veteran like Mr. Quell, and suffer only from mild versions of the sexual psychoses and alcoholic crackups that he does, I nonetheless believe that the psychological processing you put him through would be beneficial on my journey towards self-actualization.
 
