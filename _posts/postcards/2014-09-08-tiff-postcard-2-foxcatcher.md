@@ -12,7 +12,7 @@ series-name: TIFF 2014
 addressee: TIFF
 position: ""
 author: christopherr
-image: foxcatcher.jpg
+image: foxcatcher-tiff.jpg
 comments: true
 ---
 Some films feel important from the very first frame. _Foxcatcher_, with its dreamy slow motion historical footage, and sparse soundtrack, is one of them.
