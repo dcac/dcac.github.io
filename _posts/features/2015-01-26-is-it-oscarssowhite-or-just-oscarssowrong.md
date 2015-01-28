@@ -2,7 +2,7 @@
 layout: feature
 published: true
 image: is-oscarsowhite-or-is-oscarsowrong.jpg
-title: "Is #OscarSoWhite or is #OscarSoWrong?"
+title: "Is it #OscarsSoWhite or just #OscarsSoWrong?"
 addressee: 
 date: 2015-01-26 09:00:00
 excerpt: "What the controversy over <em>Selma</em>’s snub might really mean."
