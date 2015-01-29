@@ -13,7 +13,7 @@ series-name: TIFF 2014
 addressee: TIFF
 position: ""
 author: christopherr
-image: whiplash.jpg
+image: whiplash-tiff.jpg
 comments: true
 ---
 
