@@ -10,10 +10,10 @@ imdb: tt1100089
 author: kelany
 stars: 2
 excerpt: This is where the short description will go.
-addressee: Steve Carrell
+addressee: Steve Carell
 position: "Actor"
 tags: 
-  - Steve Carrell
+  - Steve Carell
   - Channing Tatum
   - Mark Ruffalo
   - wrestling
