@@ -179,7 +179,7 @@
           <ul class="left">
             
             
-            <li><a href="/content/2015/2/5/mr-turner.html" class="latest-review"><strong>Latest review: </strong><em>Mr. Turner</em> - Dear Dick Pope, Cinematographer</a></li>
+            <li><a href="/content/2015/2/6/jupiter-ascending.html" class="latest-review"><strong>Latest review: </strong><em>Jupiter Ascending</em> - Dear Terry Gilliam, Actor</a></li>
             
           </ul>
         </section>
@@ -410,12 +410,12 @@
     //get the movie info from IMDB
     $.ajax({
       
-      url: "http://omdbapi.com/?i=tt2802154",
+      url: "http://omdbapi.com/?i=tt2473794",
       dataType: 'jsonp',
       success: function(data) {
         var html = '<div class="row imdb-info-row no-border full-width">';
         //html += '<img class="imdb-img" src="' +data.Poster +'" />';
-        html += '<img class="imdb-img" src="http://img.omdbapi.com/?i=tt2802154&apikey=bc6b02e2&h=450" /><br />';
+        html += '<img class="imdb-img" src="http://img.omdbapi.com/?i=tt2473794&apikey=bc6b02e2&h=450" /><br />';
         html += '<span class="imdb-category">Directed by</span><br /><span class="imdb-data">' + data.Director.replace(/\,/g, '<br />') +'</span>';
         html += '</div>';
         html += '<div class="row imdb-info-row">';
