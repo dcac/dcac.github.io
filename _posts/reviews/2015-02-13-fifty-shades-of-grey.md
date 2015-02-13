@@ -16,8 +16,8 @@ split_name: true
 tags: 
   - sex
   - adaptation
-  - Twilight
   - BDSM  
+  - Twilight
 ---
 
 I mean, really. Why even bother showing up?
