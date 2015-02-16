@@ -5203,6 +5203,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2013\/3\/7\/the-2013-flixies.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2013\/3\/7\/the-2013-flixies.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2013\/3\/8\/oz-the-great-and-powerful.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -8416,6 +8425,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/1\/26\/is-it-oscarssowhite-or-just-oscarssowrong.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/1\/26\/is-it-oscarssowhite-or-just-oscarssowrong.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2015\/1\/28\/whiplash.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -8524,6 +8542,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/2\/16\/5-radical-ways-to-rejuvenate-the-oscars.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/2\/16\/5-radical-ways-to-rejuvenate-the-oscars.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2015\/2\/2\/finding-vivian-maier.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -8538,6 +8565,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2015\/2\/4\/leviathan.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/2\/5\/mr-turner.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/2\/5\/mr-turner.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -8832,6 +8868,42 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/features\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/features\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/features\/lists\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/features\/lists\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/features\/page2\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/features\/page2\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/features\/page3\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/features\/page3\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/features\/series\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -8962,6 +9034,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/main\/22-Jump-Street.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 281228,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/22-Jump-Street.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/22-Jump-Street.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/main\/3-days-to-kill.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -9002,6 +9085,17 @@
 		"initialSize": 359466,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/5-broken-cameras.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/5-broken-cameras.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/5-radical-ways-to-rejuvenate-the-oscars.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36898,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/5-radical-ways-to-rejuvenate-the-oscars.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/5-radical-ways-to-rejuvenate-the-oscars.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -10051,6 +10145,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/main\/Despicable-Me-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 189182,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/Despicable-Me-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/Despicable-Me-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/main\/devils-knot.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -10436,6 +10541,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/main\/fifty-shades-of-grey.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61077,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/fifty-shades-of-grey.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/fifty-shades-of-grey.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/main\/filth.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -10542,6 +10658,17 @@
 		"initialSize": 139956,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/force-majeure.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/force-majeure.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98301,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -11290,6 +11417,17 @@
 		"initialSize": 136627,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/inside-llewyn-davis.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/inside-llewyn-davis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/Insidious-Chapter-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115672,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/Insidious-Chapter-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/Insidious-Chapter-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -12053,6 +12191,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/main\/Monsters-University.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 168304,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/Monsters-University.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/Monsters-University.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/main\/monuments-men.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -12537,6 +12686,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/main\/Pitch-Perfect.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 197253,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/Pitch-Perfect.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/Pitch-Perfect.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/main\/planes-fire-and-rescue.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -12603,6 +12763,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/main\/Prisoners.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 117152,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/Prisoners.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/Prisoners.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/Project-X.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204816,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/Project-X.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/Project-X.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/main\/prometheus.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -12632,6 +12814,17 @@
 		"initialSize": 183376,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/quartet.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/quartet.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/RED-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204041,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/RED-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/RED-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -13186,6 +13379,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/main\/spinning-plates.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 121714,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/spinning-plates.JPG",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/spinning-plates.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/main\/spring-breakers.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -13380,6 +13584,28 @@
 		"initialSize": 116768,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/taken-3.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/taken-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/Tammy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 223305,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/Tammy.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/Tammy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/Ted.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 190207,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/Ted.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/Ted.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15353,6 +15579,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/main\/whiplash (Di Golding's conflicted copy 2015-02-14).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88551,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/whiplash (Di Golding's conflicted copy 2015-02-14).jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/whiplash (Di Golding's conflicted copy 2015-02-14).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/main\/whiplash-tiff.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15679,6 +15916,17 @@
 		"initialSize": 29024,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/5-broken-cameras.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/5-broken-cameras.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/5-radical-ways-to-rejuvenate-the-oscars.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3272,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/5-radical-ways-to-rejuvenate-the-oscars.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/5-radical-ways-to-rejuvenate-the-oscars.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -17036,6 +17284,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-300\/fifty-shades-of-grey.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6619,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/fifty-shades-of-grey.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/fifty-shades-of-grey.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-300\/filth.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -17142,6 +17401,17 @@
 		"initialSize": 12717,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/force-majeure.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/force-majeure.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-300\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10232,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -22261,6 +22531,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-600\/5-radical-ways-to-rejuvenate-the-oscars.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7474,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/5-radical-ways-to-rejuvenate-the-oscars.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/5-radical-ways-to-rejuvenate-the-oscars.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-600\/5brokencamerascameras1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -23625,6 +23906,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/article\/thumb-600\/fifty-shades-of-grey.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15023,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/fifty-shades-of-grey.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/fifty-shades-of-grey.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/article\/thumb-600\/filth.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -23731,6 +24023,17 @@
 		"initialSize": 33450,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/force-majeure.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/force-majeure.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/thumb-600\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23898,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -39704,6 +40007,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/22-Jump-Street.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 281228,
+		"inputAbbreviatedPath": "\/img\/article\/main\/22-Jump-Street.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/22-Jump-Street.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/3-days-to-kill.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -39744,6 +40058,17 @@
 		"initialSize": 359466,
 		"inputAbbreviatedPath": "\/img\/article\/main\/5-broken-cameras.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/5-broken-cameras.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/main\/5-radical-ways-to-rejuvenate-the-oscars.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36898,
+		"inputAbbreviatedPath": "\/img\/article\/main\/5-radical-ways-to-rejuvenate-the-oscars.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/5-radical-ways-to-rejuvenate-the-oscars.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -40793,6 +41118,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/Despicable-Me-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 189182,
+		"inputAbbreviatedPath": "\/img\/article\/main\/Despicable-Me-2.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/Despicable-Me-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/devils-knot.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -41295,6 +41631,17 @@
 		"initialSize": 139956,
 		"inputAbbreviatedPath": "\/img\/article\/main\/force-majeure.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/force-majeure.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/main\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98301,
+		"inputAbbreviatedPath": "\/img\/article\/main\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -42043,6 +42390,17 @@
 		"initialSize": 136627,
 		"inputAbbreviatedPath": "\/img\/article\/main\/inside-llewyn-davis.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/inside-llewyn-davis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/main\/Insidious-Chapter-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115672,
+		"inputAbbreviatedPath": "\/img\/article\/main\/Insidious-Chapter-2.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/Insidious-Chapter-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -42806,6 +43164,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/Monsters-University.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 168304,
+		"inputAbbreviatedPath": "\/img\/article\/main\/Monsters-University.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/Monsters-University.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/monuments-men.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -43290,6 +43659,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/Pitch-Perfect.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 197253,
+		"inputAbbreviatedPath": "\/img\/article\/main\/Pitch-Perfect.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/Pitch-Perfect.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/planes-fire-and-rescue.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -43356,6 +43736,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/Prisoners.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 117152,
+		"inputAbbreviatedPath": "\/img\/article\/main\/Prisoners.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/Prisoners.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/main\/Project-X.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204816,
+		"inputAbbreviatedPath": "\/img\/article\/main\/Project-X.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/Project-X.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/prometheus.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -43385,6 +43787,17 @@
 		"initialSize": 183376,
 		"inputAbbreviatedPath": "\/img\/article\/main\/quartet.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/quartet.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/main\/RED-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204041,
+		"inputAbbreviatedPath": "\/img\/article\/main\/RED-2.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/RED-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -43939,6 +44352,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/spinning-plates.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 121714,
+		"inputAbbreviatedPath": "\/img\/article\/main\/spinning-plates.JPG",
+		"outputAbbreviatedPath": "\/img\/article\/main\/spinning-plates.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/spring-breakers.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -44133,6 +44557,28 @@
 		"initialSize": 116768,
 		"inputAbbreviatedPath": "\/img\/article\/main\/taken-3.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/taken-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/main\/Tammy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 223305,
+		"inputAbbreviatedPath": "\/img\/article\/main\/Tammy.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/Tammy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/main\/Ted.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 190207,
+		"inputAbbreviatedPath": "\/img\/article\/main\/Ted.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/Ted.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -46106,6 +46552,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/main\/whiplash (Di Golding's conflicted copy 2015-02-14).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88551,
+		"inputAbbreviatedPath": "\/img\/article\/main\/whiplash (Di Golding's conflicted copy 2015-02-14).jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/whiplash (Di Golding's conflicted copy 2015-02-14).jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/main\/whiplash-tiff.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -46432,6 +46889,17 @@
 		"initialSize": 29024,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/5-broken-cameras.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/5-broken-cameras.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-300\/5-radical-ways-to-rejuvenate-the-oscars.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3272,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/5-radical-ways-to-rejuvenate-the-oscars.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/5-radical-ways-to-rejuvenate-the-oscars.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -47906,6 +48374,17 @@
 		"initialSize": 12717,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/force-majeure.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/force-majeure.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-300\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10232,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -53025,6 +53504,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/article\/thumb-600\/5-radical-ways-to-rejuvenate-the-oscars.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7474,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/5-radical-ways-to-rejuvenate-the-oscars.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/5-radical-ways-to-rejuvenate-the-oscars.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/article\/thumb-600\/5brokencamerascameras1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -54506,6 +54996,17 @@
 		"initialSize": 33450,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/force-majeure.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/force-majeure.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-600\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23898,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
