@@ -18,7 +18,7 @@ nav#menu-left {
   color: #333333;
   font-size: 0.875rem;
   line-height: 1.25rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   width: 100%;
   margin: 0 auto;
   margin-top: 1.25rem;
@@ -109,7 +109,7 @@ div.hero-title {
   }
 }
 .hero-title h1 {
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   color: #ffffff;
   font-weight: 800;
   font-size: 2.25rem;
@@ -189,7 +189,7 @@ h1.hero-home {
   color: #ffffff;
   font-size: 6.25rem;
   line-height: 5.3125rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   text-shadow: 0 0 2px #333333;
 }
@@ -203,7 +203,7 @@ h1.hero-home-small-txt {
   color: #ffffff;
   font-size: 3.75rem;
   line-height: 3.125rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   text-shadow: 0 0 2px #333333;
 }
@@ -225,7 +225,7 @@ h2.hero-addressee-home {
   font-size: 1.25rem;
   font-weight: 700;
   line-height: 0.875rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   text-shadow: 0 0 2px #333333;
   position: relative;
 }
@@ -243,7 +243,7 @@ h2.hero-excerpt-home {
   font-size: 1.25rem;
   font-weight: 400;
   line-height: 1.375rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   text-shadow: 0 0 2px #333333;
   position: relative;
   padding-left: 20%;
@@ -259,7 +259,7 @@ h2.hero-excerpt-home-title {
   font-size: 1.5rem;
   font-weight: 800;
   line-height: 1.25rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   text-shadow: 0 0 2px #333333;
   position: relative;
 }
@@ -323,7 +323,7 @@ h2.hero-date-home {
 }
 .home-status-title {
   color: #ffffff;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 1.125rem;
   line-height: 1.125rem;
   font-weight: 700;
@@ -510,7 +510,7 @@ div.review-text-home {
 div.review-text-home h1,
 div.feature-text-home h1 {
   font-size: 1.125rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   line-height: 1rem;
   color: #000000;
@@ -533,7 +533,7 @@ div.feature-text-home h2.author {
 div.review-text-home h2.star-rating,
 div.feature-text-home h2.star-rating {
   font-size: 0.75rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   color: #939598;
   margin: 0;
   font-weight: 750;
@@ -541,7 +541,7 @@ div.feature-text-home h2.star-rating {
 div.review-text-home h2.addressee,
 div.feature-text-home h2.addressee {
   font-size: 0.75rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   color: #939598;
   margin: 0;
   font-weight: bold;
@@ -615,7 +615,7 @@ a:hover {
   background-color: #ffffff;
   color: #000;
   font-weight: 500;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   font-size: 22px;
   margin-left: 15px;
@@ -655,7 +655,7 @@ a:hover {
   padding-left: 2.1875rem;
   padding-top: 0.9375rem;
   padding-bottom: 0.625rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 0.875rem;
   margin-bottom: 0;
   color: #ffffff;
@@ -671,7 +671,7 @@ a:hover {
   padding-left: 2.1875rem;
   padding-top: 0.9375rem;
   padding-bottom: 0.625rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 0.875rem;
   margin-bottom: 0;
   color: #636467;
@@ -688,7 +688,7 @@ a:hover {
   padding-left: 2.1875rem;
   padding-top: 0.9375rem;
   padding-bottom: 0.625rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 0.875rem;
   margin-bottom: 0;
   color: #ffffff;
@@ -704,7 +704,7 @@ a:hover {
   padding-left: 2.1875rem;
   padding-top: 0.9375rem;
   padding-bottom: 0.625rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 0.875rem;
   margin-bottom: 0;
   color: #636467;
@@ -729,7 +729,7 @@ div.film-credits {
 }
 div.film-credits h1 {
   font-size: 0.875rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   color: #939598;
   line-height: 1rem;
   font-weight: 700;
@@ -738,7 +738,7 @@ div.film-credits h1 {
 article h1.film-credits-title {
   font-size: 1.875rem;
   line-height: 1.75rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   color: #000;
   text-transform: capitalize;
   width: 80%;
@@ -762,7 +762,7 @@ div.glossary-ribbon {
 article h2.film-credits-description {
   font-size: 0.75rem;
   line-height: 0.8125rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   color: #636466;
   display: block;
   margin-bottom: 20px;
@@ -775,7 +775,7 @@ div.film-credits article a {
   padding-left: 0.9375rem;
   padding-top: 0.9375rem;
   padding-bottom: 0.625rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 0.875rem;
   margin-bottom: 0;
   color: #ffffff;
@@ -833,7 +833,7 @@ div.now-streaming {
   margin: 0;
   font-size: 0.75rem;
   line-height: 1.25rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   color: #636467;
   display: block;
@@ -907,7 +907,7 @@ li.now-streaming-title:hover {
 section.top-nav {
   color: #939598;
   font-size: 0.75rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   text-transform: uppercase;
   position: relative;
   height: 100%;
@@ -972,7 +972,7 @@ section.top-nav a:hover {
 }
 .section-title h1 {
   font-size: 1.5rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   color: #000;
   display: block;
@@ -1219,14 +1219,14 @@ footer ul {
   margin: 0;
 }
 footer p {
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   margin-bottom: 0.9375rem;
 }
 footer ul li,
 h1.footer-head {
   font-size: 12pt;
   line-height: 20pt;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: bold;
   color: #fff;
   display: table-cell;
@@ -1241,7 +1241,7 @@ footer ul.footer-single-links {
 footer ul.footer-single-links li {
   font-size: 10pt;
   line-height: 16px;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: bold;
   color: #fff;
   display: block;
@@ -1322,7 +1322,7 @@ footer a:hover {
 }
 footer .copyright {
   font-size: 0.75rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 500;
   color: #c7c8ca;
   display: block;
@@ -1348,7 +1348,7 @@ div.author {
   background: #575758;
   font-size: 0.875rem;
   color: #fff;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   padding: 9px;
   padding-left: 57px;
   margin: 0;
@@ -1364,7 +1364,7 @@ div.author {
   background: transparent;
   font-size: 0.625rem;
   color: #f00;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   padding: 0;
   margin: 0;
   width: auto;
@@ -1448,7 +1448,7 @@ input[type=text]:focus {
   font-weight: 700;
   height: 4.0625rem;
   color: #a7a9ac;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   margin: 0 auto;
   padding: 10px;
   padding-top: 20px;
@@ -1516,7 +1516,7 @@ p.search-result a:hover {
 h1.search-title {
   font-size: 1.375rem;
   line-height: 1.5rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   color: #fff;
   letter-spacing: 0.0625rem;
@@ -1545,7 +1545,7 @@ p.search-author {
 }
 p.search-addressee {
   font-size: 0.75rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   color: #d1d3d4;
   font-weight: 700;
   line-height: 0.875rem;
@@ -1841,7 +1841,7 @@ img.scrolled {
 }
 .review-status {
   color: #ffffff;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 1.375rem;
   line-height: 1.25rem;
   font-weight: 700;
@@ -1981,7 +1981,7 @@ h1.film {
   font-size: 1rem;
   line-height: 1.25rem;
   text-transform: uppercase;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   text-align: center;
 }
@@ -1991,7 +1991,7 @@ h1.film {
   color: #939598;
   font-size: 0.75rem;
   line-height: 1.375rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   text-align: right;
   font-weight: 700;
   padding: 0 !important;
@@ -2002,7 +2002,7 @@ h1.film {
   color: #000;
   font-size: 1.25rem;
   line-height: 1.375rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   text-align: left;
   font-weight: 700;
 }
@@ -2028,7 +2028,7 @@ h1.hero {
   color: #fff;
   font-size: 1.5rem;
   line-height: 1.5rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   text-align: left;
   margin: 0 auto;
@@ -2062,7 +2062,7 @@ article h1.black {
   font-size: 24pt;
   text-transform: uppercase;
   font-weight: 600;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   background-color: #ddd;
   opacity: .95;
   border-bottom: solid #333333 0.125rem;
@@ -2081,7 +2081,7 @@ h1.top {
   font-size: 1.25rem;
   text-transform: uppercase;
   font-weight: 600;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   text-align: left;
   margin: 0 auto;
   width: 100%;
@@ -2137,7 +2137,7 @@ h2.top {
   font-size: 0.75rem;
   text-transform: none;
   font-weight: 200;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   text-align: left;
   margin: 0 auto;
   width: 100%;
@@ -2167,7 +2167,7 @@ h3 span.addressee {
   text-align: left;
   font-size: 1.875rem;
   line-height: 3.125rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   text-shadow: 0 0 2px #333333;
   margin-left: 4px;
@@ -2178,7 +2178,7 @@ h3 span.addressee {
     text-align: left;
     font-size: 1.25rem;
     line-height: 2rem;
-    font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+    font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
     font-weight: 700;
     text-shadow: none;
   }
@@ -2188,7 +2188,7 @@ h3 span.position {
   text-align: left;
   font-size: 6.25rem;
   line-height: 5rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   text-shadow: 0 0 2px #333333;
 }
@@ -2204,7 +2204,7 @@ h3 span.position {
     text-align: left;
     font-size: 3.75rem;
     line-height: 3.125rem;
-    font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+    font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
     font-weight: 700;
   }
 }
@@ -2213,7 +2213,7 @@ h3 span.position-small-txt {
   text-align: left;
   font-size: 4.5rem;
   line-height: 4rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   text-shadow: 0 0 2px #333333;
 }
@@ -2223,7 +2223,7 @@ h3 span.position-small-txt {
     text-align: left;
     font-size: 3.125rem;
     line-height: 2.5rem;
-    font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+    font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
     font-weight: 700;
     text-shadow: none;
   }
@@ -2234,7 +2234,7 @@ h3 span.position-small-txt {
   color: #333333;
   font-size: 1rem;
   line-height: 1.25rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   width: 100%;
   margin: 0 auto;
@@ -2254,7 +2254,7 @@ h3 span.position-small-txt {
   color: #333333;
   font-size: 0.875rem;
   line-height: 1.25rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   width: 100%;
   margin: 0 auto;
   margin-top: 1.25rem;
@@ -2347,7 +2347,7 @@ p.article-share i {
   background-color: #e6e7e8;
   color: #000;
   font-weight: 500;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   font-size: 22px;
   margin-left: 15px;
@@ -2515,7 +2515,7 @@ h1.feature-hero {
   color: #ffffff;
   font-size: 4.5rem;
   line-height: 4.375rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   text-shadow: 0 0 2px #333333;
 }
@@ -2532,7 +2532,7 @@ h1.interview-hero {
   color: #ffffff;
   font-size: 3.125rem;
   line-height: 3.125rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   text-shadow: 0 0 2px #333333;
 }
@@ -2561,7 +2561,7 @@ h2.feature-hero-addressee {
   font-size: 1.25rem;
   font-weight: 700;
   line-height: 0.875rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   text-shadow: 0 0 2px #333333;
   position: relative;
 }
@@ -2578,7 +2578,7 @@ h2.feature-sub-title {
   font-size: 2.625rem;
   font-weight: 700;
   line-height: 0.875rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   text-shadow: 0 0 2px #333333;
   position: relative;
 }
@@ -2595,7 +2595,7 @@ h2.feature-hero-small-title {
   font-size: 1.5rem;
   font-weight: 800;
   line-height: 1.25rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   text-shadow: 0 0 2px #333333;
   position: relative;
 }
@@ -2638,7 +2638,7 @@ h2.feature-hero-date {
 h4 {
   color: #333333;
   font-size: 1.125rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   margin-top: 2.8125rem;
   padding: 0;
   text-align: left;
@@ -2667,7 +2667,7 @@ h4 {
   color: #333333;
   font-size: 1.125rem;
   line-height: 1.5rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   width: 100%;
   margin: 0 auto;
@@ -2696,7 +2696,7 @@ ul.section-right-nav {
 }
 li.section-right-nav {
   font-size: 1.25rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   color: #000;
   font-weight: 500;
   text-align: left;
@@ -2752,7 +2752,7 @@ li.section-right-nav a.current {
 }
 div.section-post h1 {
   font-size: 1.125rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   line-height: 1rem;
   color: #000000;
@@ -2868,7 +2868,7 @@ div.review-text {
 }
 div.review-text h1 {
   font-size: 1.125rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   line-height: 1rem;
   color: #000000;
@@ -2883,14 +2883,14 @@ div.review-text h2.author {
 }
 div.review-text h2.star-rating {
   font-size: 0.75rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   color: #939598;
   margin: 0;
   font-weight: 750;
 }
 div.review-text h2.addressee {
   font-size: 0.75rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   color: #939598;
   margin: 0;
   font-weight: bold;
@@ -2907,13 +2907,13 @@ div.review-text h2.addressee {
   color: #333333;
   font-size: 0.875rem;
   line-height: 1.25rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   width: 100%;
   margin: 0 auto;
   margin-top: 1.25rem;
 }
 .writer-bio h1 {
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 1.5rem;
   font-weight: 700;
 }
@@ -2955,7 +2955,7 @@ div.review-text h2.addressee {
   background-color: #e6e7e8;
   color: #000;
   font-weight: 500;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   font-size: 22px;
   margin-left: 15px;
@@ -2990,7 +2990,7 @@ div.author {
 .author h2 {
   font-size: 1.375rem;
   font-weight: 700;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   color: #000000;
   margin-top: 0.9375rem;
   padding-bottom: 0.9375rem;
@@ -3005,7 +3005,7 @@ div.author {
   color: #333333;
   font-size: 0.875rem;
   line-height: 1.25rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   width: 100%;
   margin: 0 auto;
   margin-top: 1.25rem;
@@ -3016,7 +3016,7 @@ div.author {
   color: #333333;
   font-size: 0.875rem;
   line-height: 1.25rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   width: 100%;
   margin: 0 auto;
   margin-top: 1.25rem;
@@ -3029,7 +3029,7 @@ div.author {
   color: #333333;
   font-size: 0.875rem;
   line-height: 1.25rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   width: 100%;
   margin: 0 auto;
   margin-top: 1.25rem;
@@ -3330,7 +3330,7 @@ a.slide-right-off:hover {
   text-shadow: 0 0 0 #333333;
 }
 #home-feature li.today span.day {
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   z-index: 1;
   font-size: 40px;
   line-height: 40px;
@@ -3348,7 +3348,7 @@ a.slide-right-off:hover {
   }
 }
 #home-feature li.today span.month {
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 12px;
   line-height: 12px;
   font-weight: 700;
@@ -3404,7 +3404,7 @@ a.slide-right-off:hover {
   }
 }
 #home-feature li span.day {
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 40px;
   line-height: 40px;
   font-weight: 700;
@@ -3423,7 +3423,7 @@ a.slide-right-off:hover {
   }
 }
 #home-feature li span.month {
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 12px;
   line-height: 12px;
   font-weight: 700;
@@ -3514,7 +3514,7 @@ a.slide-right-off:hover {
   }
 }
 p.stamps {
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 60px;
   line-height: 20px;
   font-weight: 700;
@@ -3535,7 +3535,7 @@ h1.hero-home-best-of-title {
   color: #ffffff;
   font-size: 2.5rem;
   line-height: 2.5rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   text-shadow: 0 0 2px #333333;
 }
@@ -3576,7 +3576,7 @@ h1.postcard-film-title {
   text-align: left;
   font-size: 4.5rem;
   line-height: 3.75rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   text-shadow: 0 0 0.125rem #333333;
 }
@@ -3593,7 +3593,7 @@ h1.postcard-film-title {
     text-align: left;
     font-size: 3.75rem;
     line-height: 3.125rem;
-    font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+    font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
     font-weight: 700;
   }
 }
@@ -3630,7 +3630,7 @@ h1.postcard-film-title {
 }
 .postcard-review-status {
   color: #ffffff;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-size: 1.375rem;
   line-height: 1.25rem;
   font-weight: 700;
@@ -3665,7 +3665,7 @@ h1.contest-title {
   color: #ffffff;
   font-size: 3.75rem;
   line-height: 3.75rem;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   font-weight: 700;
   text-shadow: 0 0 2px #333333;
 }
@@ -3698,7 +3698,7 @@ form.wufoo {
   border: 1px solid #575758;
   font-size: 0.875rem;
   color: #575758;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   padding: 9px;
   margin: 0;
   width: 80%;
@@ -3718,7 +3718,7 @@ form.wufoo {
   border: 1px solid #575758;
   font-size: 0.875rem;
   color: #575758;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   padding: 9px;
   padding-left: 57px;
   margin: 0;
@@ -3740,7 +3740,7 @@ form.wufoo .focused {
   background: transparent;
   font-size: 0.625rem;
   color: #f00;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
   padding: 0;
   margin: 0;
   width: auto;
@@ -3777,7 +3777,7 @@ input#saveForm.btTxt.submit {
 label.choice {
   font-size: 0.875rem;
   color: #575758;
-  font-family: "Helvetica Neue LT Std", "Helvetica Neue", "Helvetica" sans-serif;
+  font-family: "HelveticaNeueW10-67MdCn_777270", "Helvetica Neue", "Helvetica" sans-serif;
 }
 fieldset {
   margin: 0;

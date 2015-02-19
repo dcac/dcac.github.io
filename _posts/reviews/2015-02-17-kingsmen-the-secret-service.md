@@ -29,9 +29,7 @@ It was all there, plus some of the old Ultraviolence.
 
 Samuel L. Jackson might seem to be an odd avatar for [John Galt](about:blank), with his lisp and Flavor Flav fashion sense, but in all ways that matter he is a note perfect melding of a James Bond megalomaniac and the fatuous ideal of your Objectivist ethos.  Both are equally cartoonish, in their conception and motivations, and the combination works remarkably well within the confines of Vaughn’s surreal, amped up world.
 
-Vaughn himself seems particularly scattershot with his chosen targets. It is a laundry list of the unpleasant and woefully mislead. Religious fundamentalists, the lads down the pub, Old Money types and Venture Capitalists as well as brutal climbers like Michael Caine, who 
-
-is so eager to eradicate any trace of his humble beginnings that he gleefully subverts his life’s work to maintain the Kingsman’s class driven purity.
+Vaughn himself seems particularly scattershot with his chosen targets. It is a laundry list of the unpleasant and woefully mislead. Religious fundamentalists, the lads down the pub, Old Money types and Venture Capitalists as well as brutal climbers like Michael Caine, who is so eager to eradicate any trace of his humble beginnings that he gleefully subverts his life’s work to maintain the Kingsman’s class driven purity.
 
 There is also some confusion about what exactly is appropriate as an object of aspiration. Is it excellence? Power? Sexual Conquest? Saville Row smoothness? All of the above? But it is a glorious kind of manic confusion and Vaughn and the remarkably strong cast make it work eighty-five percent of the time. 
 
