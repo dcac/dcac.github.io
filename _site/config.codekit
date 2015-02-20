@@ -8551,6 +8551,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/2\/17\/kingsmen-the-secret-service.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/2\/17\/kingsmen-the-secret-service.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2015\/2\/2\/finding-vivian-maier.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -10662,17 +10671,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/img\/article\/main\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 98301,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_site\/img\/article\/main\/foxcatcher-tiff.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -11681,6 +11679,17 @@
 		"initialSize": 157052,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/killing-them-softly.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/killing-them-softly.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/article\/main\/kingsmen-the-secret-service.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 102755,
+		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/kingsmen-the-secret-service.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/kingsmen-the-secret-service.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -14831,358 +14840,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/img\/article\/main\/the-secret-life-of-walter-mitty.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 148106,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-secret-life-of-walter-mitty.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-secret-life-of-walter-mitty.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/the-secret-trial-5.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 299557,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-secret-trial-5.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-secret-trial-5.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/the-secret-world-of-arrietty.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 193235,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-secret-world-of-arrietty.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-secret-world-of-arrietty.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/the-sessions.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 172056,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-sessions.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-sessions.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/the-sitter.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 217060,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-sitter.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-sitter.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/the-square.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 125322,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-square.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-square.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/the-strange-case-of-angelica.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 59142,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-strange-case-of-angelica.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-strange-case-of-angelica.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/the-theory-of-everything-contest.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 132050,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-theory-of-everything-contest.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-theory-of-everything-contest.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/the-theory-of-everything.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 101076,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-theory-of-everything.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-theory-of-everything.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/the-theory-of-happiness.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 349176,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-theory-of-happiness.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-theory-of-happiness.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/the-to-do-list.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 163124,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-to-do-list.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-to-do-list.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/the-top-5-most-terrifying-scenes-in-movie-history.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 132133,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-top-5-most-terrifying-scenes-in-movie-history.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-top-5-most-terrifying-scenes-in-movie-history.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/the-town-that-dreaded-sundown.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 47070,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-town-that-dreaded-sundown.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-town-that-dreaded-sundown.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/the-trip-to-italy.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 73249,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-trip-to-italy.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-trip-to-italy.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/the-villain.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 305410,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-villain.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-villain.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/the-wind-rises.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 47006,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-wind-rises.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-wind-rises.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/the-wolf-of-wall-street.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 175155,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-wolf-of-wall-street.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-wolf-of-wall-street.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/the-words.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 170949,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-words.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-words.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/the-worlds-end.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 179996,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-worlds-end.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-worlds-end.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/the-young-and-prodigious-t-s-spivet.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 160242,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-young-and-prodigious-t-s-spivet.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-young-and-prodigious-t-s-spivet.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/the-young-and-prodigious-ts-spivet.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 302162,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-young-and-prodigious-ts-spivet.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-young-and-prodigious-ts-spivet.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/the-zero-theorem.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 221019,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/the-zero-theorem.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/the-zero-theorem.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/third-person.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 89861,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/third-person.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/third-person.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/this-is-40.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 146116,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/this-is-40.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/this-is-40.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/this-is-forty-picture06.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 172438,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/this-is-forty-picture06.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/this-is-forty-picture06.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/this-is-the-end.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 203173,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/this-is-the-end.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/this-is-the-end.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/this-is-where-i-leave-you.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 99428,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/this-is-where-i-leave-you.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/this-is-where-i-leave-you.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/thor-the-dark-world.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 191013,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/thor-the-dark-world.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/thor-the-dark-world.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/thunderstorm-the-return-of-thor.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 165989,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/thunderstorm-the-return-of-thor.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/thunderstorm-the-return-of-thor.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/tiff-2012.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 113886,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/tiff-2012.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/tiff-2012.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/tiff-2013.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 149780,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/tiff-2013.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/tiff-2013.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/tiff-2014.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 50949,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/tiff-2014.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/tiff-2014.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_site\/img\/article\/main\/time-lapse.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15575,17 +15232,6 @@
 		"initialSize": 201881,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/where-do-we-go-now.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/where-do-we-go-now.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/main\/whiplash (Di Golding's conflicted copy 2015-02-14).jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 88551,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/main\/whiplash (Di Golding's conflicted copy 2015-02-14).jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/main\/whiplash (Di Golding's conflicted copy 2015-02-14).jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -17401,17 +17047,6 @@
 		"initialSize": 12717,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/force-majeure.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/force-majeure.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/thumb-300\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 10232,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-300\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -24023,17 +23658,6 @@
 		"initialSize": 33450,
 		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/force-majeure.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/force-majeure.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/article\/thumb-600\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 23898,
-		"inputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/article\/thumb-600\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -36441,56 +36065,67 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_site\/vendor\/Stellar\/jquery.stellar.js": {
+	"\/_site\/vendor\/stellar\/jquery.stellar.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/vendor\/Stellar\/jquery.stellar.js",
-		"outputAbbreviatedPath": "\/_site\/vendor\/Stellar\/min\/jquery.stellar-min.js",
+		"inputAbbreviatedPath": "\/_site\/vendor\/stellar\/jquery.stellar.js",
+		"outputAbbreviatedPath": "\/_site\/vendor\/stellar\/min\/jquery.stellar-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_site\/vendor\/Stellar\/jquery.stellar.min.js": {
+	"\/_site\/vendor\/stellar\/jquery.stellar.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/vendor\/Stellar\/jquery.stellar.min.js",
-		"outputAbbreviatedPath": "\/_site\/vendor\/Stellar\/min\/jquery.stellar.min-min.js",
+		"inputAbbreviatedPath": "\/_site\/vendor\/stellar\/jquery.stellar.min.js",
+		"outputAbbreviatedPath": "\/_site\/vendor\/stellar\/min\/jquery.stellar.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_site\/vendor\/Stellar\/min\/jquery.stellar-ck.js": {
+	"\/_site\/vendor\/stellar\/min\/jquery.stellar-ck.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/vendor\/Stellar\/min\/jquery.stellar-ck.js",
-		"outputAbbreviatedPath": "\/_site\/vendor\/Stellar\/min\/min\/jquery.stellar-ck-min.js",
+		"inputAbbreviatedPath": "\/_site\/vendor\/stellar\/min\/jquery.stellar-ck.js",
+		"outputAbbreviatedPath": "\/_site\/vendor\/stellar\/min\/min\/jquery.stellar-ck-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_site\/vendor\/Stellar\/min\/jquery.stellar-min.js": {
+	"\/_site\/vendor\/stellar\/min\/jquery.stellar-min.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/vendor\/Stellar\/min\/jquery.stellar-min.js",
-		"outputAbbreviatedPath": "\/_site\/vendor\/Stellar\/min\/min\/jquery.stellar-min-min.js",
+		"inputAbbreviatedPath": "\/_site\/vendor\/stellar\/min\/jquery.stellar-min.js",
+		"outputAbbreviatedPath": "\/_site\/vendor\/stellar\/min\/min\/jquery.stellar-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_site\/vendor\/Stellar\/min\/min\/jquery.stellar-ck-min.js": {
+	"\/_site\/vendor\/stellar\/min\/min\/jquery.stellar-ck-min.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/vendor\/Stellar\/min\/min\/jquery.stellar-ck-min.js",
-		"outputAbbreviatedPath": "\/_site\/vendor\/Stellar\/min\/min\/min\/jquery.stellar-ck-min-min.js",
+		"inputAbbreviatedPath": "\/_site\/vendor\/stellar\/min\/min\/jquery.stellar-ck-min.js",
+		"outputAbbreviatedPath": "\/_site\/vendor\/stellar\/min\/min\/min\/jquery.stellar-ck-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/vendor\/stellar\/min\/min\/jquery.stellar-min-ck.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/vendor\/stellar\/min\/min\/jquery.stellar-min-ck.js",
+		"outputAbbreviatedPath": "\/_site\/vendor\/stellar\/min\/min\/min\/jquery.stellar-min-ck-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -41635,17 +41270,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/article\/main\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 98301,
-		"inputAbbreviatedPath": "\/img\/article\/main\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
-		"outputAbbreviatedPath": "\/img\/article\/main\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/article\/main\/foxcatcher-tiff.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -42654,6 +42278,17 @@
 		"initialSize": 157052,
 		"inputAbbreviatedPath": "\/img\/article\/main\/killing-them-softly.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/main\/killing-them-softly.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/main\/kingsmen-the-secret-service.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 102755,
+		"inputAbbreviatedPath": "\/img\/article\/main\/kingsmen-the-secret-service.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/main\/kingsmen-the-secret-service.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -46552,17 +46187,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/article\/main\/whiplash (Di Golding's conflicted copy 2015-02-14).jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 88551,
-		"inputAbbreviatedPath": "\/img\/article\/main\/whiplash (Di Golding's conflicted copy 2015-02-14).jpg",
-		"outputAbbreviatedPath": "\/img\/article\/main\/whiplash (Di Golding's conflicted copy 2015-02-14).jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/article\/main\/whiplash-tiff.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -48378,17 +48002,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/article\/thumb-300\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 10232,
-		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
-		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/article\/thumb-300\/foxcatcher-tiff.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -49397,6 +49010,17 @@
 		"initialSize": 17125,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/killing-them-softly.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/killing-them-softly.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-300\/kingsmen-the-secret-service.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8700,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-300\/kingsmen-the-secret-service.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-300\/kingsmen-the-secret-service.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -55000,17 +54624,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/article\/thumb-600\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 23898,
-		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
-		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/foxcatcher (Di Golding's conflicted copy 2015-02-14).jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/article\/thumb-600\/foxcatcher-tiff.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -56019,6 +55632,17 @@
 		"initialSize": 36675,
 		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/killing-them-softly.jpg",
 		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/killing-them-softly.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/article\/thumb-600\/kingsman-the-secret-service-KSS-012_rgb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19217,
+		"inputAbbreviatedPath": "\/img\/article\/thumb-600\/kingsman-the-secret-service-KSS-012_rgb.jpg",
+		"outputAbbreviatedPath": "\/img\/article\/thumb-600\/kingsman-the-secret-service-KSS-012_rgb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
