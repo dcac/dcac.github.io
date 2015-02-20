@@ -4,7 +4,7 @@ categories:
   - reviews
   - current-releases
 published: true
-title: "Two days, One Night"
+title: "Two Days, One Night"
 image: two-days-one-night.jpg
 imdb: tt2737050
 author: natm
