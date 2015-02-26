@@ -5,7 +5,7 @@ image: birdmans-win-is-bad-news-for-tiff.jpg
 title: "Birdman's Win is Bad News for TIFF"
 addressee: TIFF
 date: 2015-02-24 21:00:00
-excerpt: "Oscar’s Best Picture winner should ruffle a few feathers in Toronto "
+excerpt: "Oscar’s Best Picture winner should ruffle a few feathers in Toronto."
 author: christopherr
 comments: true
 categories:
@@ -14,7 +14,7 @@ categories:
 tags: [oscars,birdman, Michael Keaton, TIFF]
 ---
 
-**So you lost another potential feather in your cap. Big deal, right?**
+So you lost another potential feather in your cap. Big deal, right?
 
 Actually, yes, it is.
 

@@ -11,6 +11,7 @@ comments: true
 categories:
   - features
   - essays
+  - interviews
 tags: [Canadian, comedy, interview, Interview, Swear, Swearnet, Trailer Park Boys]
 ---
 Christopher Redmond spoke with Canadian icons the Trailer Park Boys about their non-Trailer Park Boys movie, _Swearnet_.
