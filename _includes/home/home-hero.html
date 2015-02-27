@@ -42,7 +42,7 @@
             <div class="row collapse">
               <div class="large-4 medium-4 columns home-title-height">
                 <div class="hero-title-text">
-                  {% if post.title-display == true %}<h1 class="{% assign titleSize = post.title | size %}{% if titleSize > 20 %}hero-home-small-txt{% else %}hero-home{% endif %}">{{ post.title }}</h1>{% endif %}
+                  {% if post.title-display == true %}{% if post.layout == "feature" %}<h1 class="{% assign titleSize = post.title | size %}{% if titleSize > 20 %}hero-home-feature-small-txt{% else %}hero-home-feature{% endif %}">{% else %}<h1 class="{% assign titleSize = post.title | size %}{% if titleSize > 20 %}hero-home-small-txt{% else %}hero-home{% endif %}">{% endif %}{{ post.title }}</h1>{% endif %}
                   <div class="translucent-box clearfix">
                     <div class="hero-people">
                       {% if post.categories contains "reviews" %}

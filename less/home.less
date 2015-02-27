@@ -64,7 +64,6 @@ div.hero-title{
     min-height:120px;
     bottom:0;
     width:100%;
-    margin:0;
   }
 }
 .translucent-box{
@@ -101,7 +100,20 @@ h1.hero-home{
   @media @mobile{
     font-size: 45px;
     line-height: @1px*40;
-    
+    margin:0;bottom: @1px*105;
+    position: absolute;
+  }
+}
+h1.hero-home-feature{
+  color: @white;
+  font-size: @1px*100;
+  line-height: @1px*85;
+  font-family: @sans-serif;
+  font-weight: 700;
+  text-shadow: 0 0 2px @dark-grey;
+  @media @mobile{
+    font-size: 45px;
+    line-height: @1px*40;
   }
 }
 h1.hero-home-small-txt{
@@ -114,7 +126,21 @@ h1.hero-home-small-txt{
   @media @mobile{
     font-size: 30px;
     line-height: @1px*25;
-    
+    margin:0;bottom: @100px;
+    position: absolute;
+  }
+}
+
+h1.hero-home-feature-small-txt{
+  color: @white;
+  font-size: @1px*60;
+  line-height: @1px*50;
+  font-family: @sans-serif;
+  font-weight: 700;
+  text-shadow: 0 0 2px @dark-grey;
+  @media @mobile{
+    font-size: 30px;
+    line-height: @1px*25;    
   }
 }
 .hero-people{

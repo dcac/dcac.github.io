@@ -11,7 +11,7 @@
                 <a href="{{ post.url }}">
                   <div class="review-text">
                     <h1>{{ post.title }}</h1>
-                    {% if post.addressee %}<h2 class="addressee">Dear {{ post.addressee }}, <span class="mobile-line-break"><br /></span>{{ post.position }}</h2>{% endif %}
+                    {% if post.layout == "review" %}<h2 class="addressee">Dear {{ post.addressee }}, <span class="mobile-line-break"><br /></span>{{ post.position }}</h2>{% endif %}
                     <h2 class="author">By {{ author.name }}</h2>
                   </div>
                 </a>
