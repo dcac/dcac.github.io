@@ -1,3 +1,5 @@
+notifications:
+  slack: dearcastandcrew:jvv61qTxJzGt56r6ZQ4Ep9LQ
 env:
   global:
   - secure: Vgnu95n4MKwqbu0hrGgFO/zNkY/EU4zTafGcH8ghXsrLTEKIO65aacETEpBEfc/xWaO+++FB2dFFYUt2FBfSCiNs6n986iTttuJrLwH9sojS9cefPPe/FFTyjQ25xE32ojNOp/CUKaZwMt9hIZyS6czIkUP2Ch8/VL0PC92c8MY=
