@@ -33,7 +33,7 @@ section.top-nav{
   width: 100%;
 }
 a.logo-link{
-  background: transparent @logo-xl-white no-repeat 0;
+  .make-bg-svg(@logo-xl-white);
   background-size: cover;
   height: @1px*70;
   width:@1px*164;
@@ -153,7 +153,7 @@ display: inline;
   }
 }
 .dcac-logo{
-  .make-bg-svg('global/dcac-logo');
+  .make-bg-svg('global/logo/dcac-logo');
   display: block;
 }
 .top-bar .name{
@@ -241,19 +241,19 @@ li.social{
   opacity: .8;
 }
 li.social a.social-twitter{
-  background: url('../img/footer/twitter.png') 0 0 no-repeat;
+  background: url('/assets/img/footer/twitter.png') 0 0 no-repeat;
   width:33px;
   height:27px;
   display: block;
 }
 li.social a.social-facebook{
-  background: url('../img/footer/facebook.png') 0 0 no-repeat;
+  background: url('/assets/img/footer/facebook.png') 0 0 no-repeat;
   width:14px;
   height:30px;
   display: block;
 }
 li.social a.social-letterboxd{
-  background: url('../img/footer/letterboxd.png') 0 0 no-repeat;
+  background: url('/assets/img/footer/letterboxd.png') 0 0 no-repeat;
   width:30px;
   height:30px;
   display: block;
@@ -384,25 +384,25 @@ footer hr{
   display: block;
 }
 a.social-twitter{
-  background: url('../img/footer/twitter.png') 0 0 no-repeat;
+  background: url('/assets/img/footer/twitter.png') 0 0 no-repeat;
   width:33px;
   height:27px;
   display: block;
 }
 a.social-facebook{
-  background: url('../img/footer/facebook.png') 0 0 no-repeat;
+  background: url('/assets/img/footer/facebook.png') 0 0 no-repeat;
   width:14px;
   height:30px;
   display: block;
 }
 a.social-letterboxd{
-  background: url('../img/footer/letterboxd.png') 0 0 no-repeat;
+  background: url('/assets/img/footer/letterboxd.png') 0 0 no-repeat;
   width:30px;
   height:30px;
   display: block;
 }
 a.social-rss{
-  background: url('../img/footer/rss.png') 0 0 no-repeat;
+  background: url('/assets/img/footer/rss.png') 0 0 no-repeat;
   width:27px;
   height:27px;
   display: block;
@@ -464,7 +464,7 @@ div.author{
   padding-left: 57px;
   margin: 0;
   width:290px;
-  background: #575758 url('../img/footer/email.png') 9px 8px no-repeat;
+  background: #575758 url('/assets/img/footer/email.png') 9px 8px no-repeat;
   
 }
 .newsletter-signup input[type=submit]{
@@ -511,9 +511,3 @@ div.author{
 
 /* side menu */
 
-.menu-header {
-  height: 65px;
-  line-height: 65px;
-  background: @logo-sm-white no-repeat;
-  display: block;
-}

@@ -7,25 +7,7 @@
 p::selection{
   background:#aaa;
 }
-#menu-toggle.site-nav{
-  .upper-left-toggle
-}
-.left-off-canvas-toggle{
-  .upper-left-toggle
-}
-#menu-toggle-top.logo-black {
-  background: url('../img/article/logo-sm.png') 15px 10px no-repeat;
-  transition: all .5s ease 0s;
-  border: none;
-  background-color: @dark-grey;
-  position: fixed;
-  top:0;
-  left:0;
-  color:transparent;
-  width: @1px*110;
-  height: @1px*85;
-  display: none;
-}
+
 .no-padding{
   max-width:@100px;
 }
@@ -117,25 +99,11 @@ p::selection{
     margin-top: 0;
   }
 }
-
 #review-copy p a {
   text-decoration: underline;
 }
 #review-copy p a:hover {
   text-decoration: none;
-}
-#image{
-  z-index: 0;
-  left:-50000px;
-  top:-50000px;
-}
-#image-small{
-  z-index: 0;
-  left:0;
-  top:0;
-  height: @1px*400;
-  width:100%;
-  overflow: hidden;
 }
 article {
   top:0;
@@ -196,18 +164,6 @@ img.scrolled {
     right: @15px;
   }
 }
-/*
-.status-container br{
-  @media @mobile{
-    content: '';
-  }
-}
-.status-container br:after{
-  @media @mobile{
-    content: ' ';
-  }
-}
-*/
 .status-row{
   height:@1px*504;
   @media @mobile{
@@ -324,7 +280,6 @@ h1.film{
   margin-top: @15px!important;
   margin-left: 0 !important;
   margin-right: 0 !important;
-  //padding-top: 15px;
 }
 .no-border{
   border:none;
@@ -341,7 +296,6 @@ h1.hero {
   color: #fff;
   font-size: @1px*24;
   line-height: @1px*24;
-  //text-transform: uppercase;
   font-family: @sans-serif;
   font-weight: 700;
   text-align: left;
@@ -450,14 +404,6 @@ h2.top{
   max-width:100%;
   padding: 0;
   line-height: 18pt;
-}
-#arrow{
-  position: relative;
-  bottom: @1px*30;
-  color: #fff;
-  font-size: @1px*30;
-  z-index: 2;
-  margin: 0 auto;
 }
  h3 {
   position: relative;
@@ -569,14 +515,6 @@ width: auto;
 margin-bottom: 70px;
 margin-top: 1.25rem;
 }
-/*
-#review-copy p.signature-block-signoff strong::after{
-  //background-color: #f00;
-  content:"";
-  display:block;
-  height: 80px;
-}
-*/
 
 #review-copy p.signature-signoff{
   float: left;
@@ -650,19 +588,14 @@ p.article-share i{
 }
 
 @media (min-width: 768px) {
-  /*section.title,h1.hero,h1.top,h2.hero,h2.top,
-  article h3,article p{
-    width:700px;
-  }*/
   article p{
-  padding-left: 0;
-  padding-right: 0;
+    padding-left: 0;
+    padding-right: 0;
   }
 }
 .comments-bg{
   width:100%;
   background-color: @light-grey;
-  //margin-top:30px;
 }
 .comments{
   max-width: @1px*960;

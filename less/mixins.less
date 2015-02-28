@@ -1,8 +1,8 @@
 //SVG Fallbck mixin
 .make-bg-svg(@name,@x:0,@y:0,@repeat:no-repeat,@color:transparent) {
 
-  @svg: ~"../img/@{name}.svg";
-  @png: ~"../img/@{name}.png";
+  @svg: ~"/assets/img/@{name}.svg";
+  @png: ~"/assets/img/@{name}.png";
   //height: 200px;
   background: @color url(@svg) @repeat @x @y;
 
@@ -60,7 +60,7 @@
   font-size:@1px*18;
   font-family: @sans-serif;
   font-weight: 700;
-  line-height: @1px*16;
+  line-height: @1px*18;
   color: @black;
   margin: 0;
 }
@@ -231,20 +231,7 @@
 }
 
 //Review Page
-.upper-left-toggle {
-  position:fixed;
-  z-index: 15;  
-  display: block;
-  background: @logo-md-white no-repeat;
-  width: @1px*138;
-  height: @1px*110;
-  color: transparent;
-  border: none;
-  margin:@10px 0 0 @10px;
-  transition: all .5s ease 0s;
-  transition-delay: .5s;
-  -webkit-transition-delay: .5s
-}
+
 .text-shadow{
   text-shadow: 0 0 @1px*2 @dark-grey;
 }

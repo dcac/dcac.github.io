@@ -15,6 +15,8 @@ url: www.dearcastandcrew.com
 #pagination: true
 #paginate: 24
 
+exclude: [s3_website.yml, bower_components, README.md, scss, less, js, Gemfile, Gemfile.lock, config.rb, config.codekit, bower.json, css, vendor]
+
 custom_paginate: 24
 author_paginate: 24
 
@@ -70,7 +72,7 @@ jekyll_ga:
 #prose:
 #  rooturl: '_posts'
 #  siteurl: 'http://dcac.github.io/'
-#  media: '/img/article'  
+#  media: '/assets/img/article'  
 #  metadata:
 #    _posts:
 #      - name: "layout"

@@ -1,10 +1,14 @@
+---
+layout: compress
+---
+
 <!doctype html>
 <html class="no-js" lang="en">
   <head>
     <meta charset="utf-8" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    {% if page.section == "Content" %}<meta property="og:image" content="http://www.dearcastandcrew.com/img/article/thumb-600/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}" />
+    {% if page.section == "Content" %}<meta property="og:image" content="http://www.dearcastandcrew.com/img/posts/thumb-600/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}" />
     <meta property="og:title" content="{% if page.categories contains "reviews" %}Dear {{ page.addressee }} {{ page.position }} for {{ page.title |upcase }}{% else %}{{ page.title }}{% endif %}" />{% endif %}
     <title>{% if page.home %}{% else %}{{page.title}} | {%endif %}Dear Cast & Crew{% if page.home %} | Movie Reviews, Essays, and Exchanges{% endif %}</title>
     <script type="text/javascript" src="http://fast.fonts.net/jsapi/053a7698-a2e7-4a94-b380-2cfed49d680a.js"></script>
@@ -23,21 +27,8 @@
       ga('send', 'pageview');
     
     </script>
-    
-    <!-- Foundation 5.0 -->
-    
-    <link rel="stylesheet" href="/css/foundation.css" />
-    
-    <!-- Fontawesome 4.0.3 -->
-    
-    <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  	<link href="/css/tooltipster.min.css" type="text/css" rel="stylesheet" />
-    <link href="/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
-    
-    <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
-    <script type="text/javascript" src="/bower_components/modernizr/modernizr.js"></script>
-    <script type="text/javascript" src="/vendor/jquery.mmenu/js/jquery.mmenu.min.js"></script>
-    <script type="text/javascript" src="/js/hyphenate.js"></script>
+    <link href="/assets/css/app.css" rel="stylesheet" />
+    <script type="text/javascript" src="/assets/js/app-top-min.js"></script>
     
     <!--Initialize the menu -->
 
@@ -59,7 +50,7 @@
 
     <!-- Custom styles for this template -->
   
-    <link href="/css/dcac.css" rel="stylesheet" />
+
     {% case page.section %}
     {% when 'Content' %}
     <style>
@@ -70,21 +61,21 @@
         rgba(0,0,0,0) 80%,
         rgba(0,0,0,0.9) 100%
       ),
-      url('/img/article/main/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}');
+      url('/assets/img/posts/main/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}');
     background-image: -moz-linear-gradient(left, 
         rgba(0,0,0,0.9) 0%, 
         rgba(0,0,0,0) 20%,
         rgba(0,0,0,0) 80%,
         rgba(0,0,0,0.9) 100%
       ),
-      url('/img/article/main/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}');
+      url('/assets/img/posts/main/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}');
     background-image: -o-linear-gradient(left, 
         rgba(0,0,0,0.9) 0%, 
         rgba(0,0,0,0) 20%,
         rgba(0,0,0,0) 80%,
         rgba(0,0,0,0.9) 100%
       ),
-      url('/img/article/main/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}');
+      url('/assets/img/posts/main/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}');
     background-image: 
       linear-gradient(left, 
         rgba(0,0,0,0.9) 0%, 
@@ -92,10 +83,10 @@
         rgba(0,0,0,0) 80%,
         rgba(0,0,0,0.9) 100%
       ),
-      url('/img/article/main/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}');
+      url('/assets/img/posts/main/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}');
     }
     .title-img {
-      background-image: url('/img/article/main/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}');
+      background-image: url('/assets/img/posts/main/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}');
     }
   </style>
     {% endcase %}
@@ -131,7 +122,7 @@
       <script id="search-results-template" class="search-results-template" type="text/mustache">
         {{#entries}}
           <div class="search-results-article">
-            <a href="{{url}}"><div class="search-image"><img src="/img/article/thumb-300/{{image}}" /></div>
+            <a href="{{url}}"><div class="search-image"><img src="/assets/img/posts/thumb-300/{{image}}" /></div>
             <div class="search-result">
               <h1 class="search-title">{{title}}</h1>
               <p class="search-addressee">Dear {{addressee}}, {{position}}</p>
@@ -201,7 +192,6 @@
       });
       $("#menu-left")
        .mmenu()
-       //.trigger( "open.mm" )
        .on(
           "closed.mm",
           function()
@@ -226,29 +216,14 @@
       });
       
     </script>
-    <script type="text/javascript" src="/bower_components/foundation/js/foundation.min.js"></script>
-    <script type="text/javascript" src="/bower_components/foundation/js/foundation/foundation.equalizer.js"></script>
-    <script type="text/javascript" src="/js/app.js"></script>
-  	<script type="text/javascript" src="/vendor/waypoints/waypoints.js"></script>
-  	<script type="text/javascript" src="/js/infinite-jekyll.js"></script>
-  	<script type="text/javascript" src="/js/film-roles.js"></script>
-    <script type="text/javascript" src="/vendor/tooltipster/jquery.tooltipster.min.js"></script>
-  	<script type="text/javascript" src="/vendor/contentshare/contentshare.ct.js"></script>
-  	<script type="text/javascript" src="/vendor/stellar/jquery.stellar.min.js"></script>
-    <script src="/vendor/lunr.js" type="text/javascript" charset="utf-8"></script>
-    <script src="/vendor/mustache.js" type="text/javascript" charset="utf-8"></script>
-    <script src="/vendor/date.format.js" type="text/javascript" charset="utf-8"></script>
-    <script src="/vendor/URI.min.js" type="text/javascript" charset="utf-8"></script>
-    <script src="/vendor/jquery.lunr.search.js" type="text/javascript" charset="utf-8"></script>
-  	<script type="text/javascript" src="/js/main.js"></script>
+    <script type="text/javascript" src="/assets/js/app-bottom-min.js"></script>
   	<script>
     $(window).bind("load", function() {
-      $.getScript("/js/onload.actions.js");
+      $.getScript("/assets/js/onload.actions-min.js");
     });
     Modernizr.addTest('svgasimg', document.implementation.hasFeature('http://www.w3.org/TR/SVG11/feature#Image', '1.1'));
 
     if (!Modernizr.svgasimg) {
-      //alert("hi!");
       $('img[src*="svg"]').attr('src', function() {
           return $(this).attr('src').replace('.svg', '.png');
       });

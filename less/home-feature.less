@@ -18,7 +18,7 @@
   }
 }
 #home-feature{
-  background-image: url('../img/home/custom/2014-silver-stamps/bg.jpg');
+  background-image: url('/assets/img/home/custom/2014-silver-stamps/bg.jpg');
   background-repeat: repeat-x;
 }
 .home-feature-img-fade{
@@ -128,7 +128,7 @@ a.slide-right{
   top:30px;
   height:80px;
   width: 20px;
-  background: url('../img/home/feature/chevron-right.svg') no-repeat;
+  .make-bg-svg(home/feature/chevron-right);
   display: block;
   opacity: .65;
   @media @mobile{
@@ -142,7 +142,7 @@ a.slide-right-off{
   top:30px;
   height:80px;
   width: 20px;
-  background: url('../img/home/feature/chevron-right-off.svg') no-repeat;
+  .make-bg-svg(home/feature/chevron-right-off);
   display: block;
   opacity: .25
 }
@@ -152,7 +152,7 @@ a.slide-left{
   top:30px;
   height:80px;
   width: 20px;
-  background: url('../img/home/feature/chevron-left.svg') no-repeat;
+  .make-bg-svg(home/feature/chevron-left);
   display: block;
   opacity: .65;
   @media @mobile{
@@ -169,7 +169,7 @@ a.slide-left-off{
   top:30px;
   height:80px;
   width: 20px;
-  background: url('../img/home/feature/chevron-left-off.svg') no-repeat;
+  .make-bg-svg(home/feature/chevron-left-off);
   display: block;
   opacity: .25
 }
@@ -188,7 +188,7 @@ a.slide-left-off:hover,a.slide-right-off:hover{
   width:90px;
   height:90px;
   margin: 0 4px;
-  .make-bg-svg('../img/home/feature/calendar-square');
+  .make-bg-svg(home/feature/calendar-square);
   position: relative;
   margin-bottom:15px;
   .text-shadow;
@@ -201,14 +201,14 @@ a.slide-left-off:hover,a.slide-right-off:hover{
   }
 }
 #home-feature li.future{
-  .make-bg-svg('../img/home/feature/calendar-square-future');
+  .make-bg-svg(home/feature/calendar-square-future);
   .text-shadow;
 }
 #home-feature li.today{
   width:120px;
   height:120px;
   margin: 0 2px;
-  .make-bg-svg('../img/home/feature/calendar-square-today');
+  .make-bg-svg(home/feature/calendar-square-today);
   position: relative;
   .text-shadow;
   @media @mobile{
@@ -218,19 +218,19 @@ a.slide-left-off:hover,a.slide-right-off:hover{
 }
 #home-feature li:hover{
   color: #f4efcb;
-  .make-bg-svg('../img/home/feature/calendar-square-over',0,0,no-repeat,rgba(255,255,255,.25));
+  .make-bg-svg('home/feature/calendar-square-over',0,0,no-repeat,rgba(255,255,255,.25));
   .text-shadow-none;
 }
 #home-feature li.today:hover{
   background-color: transparent;
   color: @white;
-  .make-bg-svg('../img/home/feature/calendar-square-today-over');
+  .make-bg-svg('home/feature/calendar-square-today-over');
   .text-shadow-none;
 }
 #home-feature li.future:hover{
   background-color: transparent;
   color: @white;
-  .make-bg-svg('../img/home/feature/calendar-square-future');
+  .make-bg-svg('home/feature/calendar-square-future');
   .text-shadow-none;
 }
 #home-feature  li > a{
@@ -367,7 +367,7 @@ a.slide-left-off:hover,a.slide-right-off:hover{
   display: block;
   width: 150px;
   height: 150px;
-  background-image: url('../img/home/custom/2014-silver-stamps/stamp-icon.png');
+  background-image: url('/assets/img/home/custom/2014-silver-stamps/stamp-icon.png');
   background-size: 150px 150px;
   background-repeat: no-repeat;
   position: absolute;
@@ -385,7 +385,7 @@ a.slide-left-off:hover,a.slide-right-off:hover{
   display: block;
   width: 106px;
   height: 103px;
-  background-image: url('../img/home/custom/2014-silver-stamps/stamps-animated.gif');
+  background-image: url('/assets/img/home/custom/2014-silver-stamps/stamps-animated.gif');
   background-size: 106px 103px;
   background-repeat: no-repeat;
   position: absolute;

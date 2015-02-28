@@ -29,7 +29,7 @@ p::selection{
   position:fixed;
   z-index: 15;  
   display: block;
-  background: url('../img/article/logo.png') no-repeat;
+  background: url('../img/posts/logo.png') no-repeat;
   width:138px;
   height:110px;
   color: transparent;
@@ -43,7 +43,7 @@ p::selection{
   position:fixed;
   z-index: 15;  
   display: block;
-  background: url('../img/article/logo.png') no-repeat;
+  background: url('../img/posts/logo.png') no-repeat;
   width:138px;
   height:110px;
   color: transparent;
@@ -54,7 +54,7 @@ p::selection{
   -webkit-transition-delay: .5s
 }
 #menu-toggle-top.logo-black {
-  background: url('../img/article/logo-sm.png') 15px 10px no-repeat;
+  background: url('/asets/img/posts/logo-sm.png') 15px 10px no-repeat;
   transition: all .5s ease 0s;
   border: none;
   background-color: #333;
@@ -75,20 +75,6 @@ p::selection{
 #menu-toggle.sidebar-active {
   opacity: 0;
   transition: all .5s ease 0s;
-}
-.down-arrow{
-  background: url('../img/down-arrow.png') no-repeat;
-  display: block;
-  width:42px;
-  height:24px;
-  z-index: 3;
-  color: transparent;
-  border: none;
-  position: absolute;
-  padding-top: 40px;
-  bottom: 75px;
-  cursor: pointer;
-  right:80px;
 }
 #title{
   display: block;

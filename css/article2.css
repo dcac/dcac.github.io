@@ -25,7 +25,7 @@ p::selection{
   position:fixed;
   z-index: 15;  
   display: block;
-  background: url('../img/article/logo.png') no-repeat;
+  background: url('../img/posts/logo.png') no-repeat;
   width:138px;
   height:110px;
   color: transparent;
@@ -39,7 +39,7 @@ p::selection{
   position:fixed;
   z-index: 15;  
   display: block;
-  background: url('../img/article/logo.png') no-repeat;
+  background: url('../img/posts/logo.png') no-repeat;
   width:138px;
   height:110px;
   color: transparent;
@@ -50,7 +50,7 @@ p::selection{
   -webkit-transition-delay: .5s
 }
 #menu-toggle-top.logo-black {
-  background: url('../img/article/logo-sm.png') 15px 10px no-repeat;
+  background: url('../img/posts/logo-sm.png') 15px 10px no-repeat;
   transition: all .5s ease 0s;
   border: none;
   background-color: #333;
@@ -147,7 +147,7 @@ img.scrolled {
 }
 span.stars, span.stars span {
     display: block;
-    background: url(../img/article/star.png) 0 -16px repeat-x;
+    background: url(../img/posts/star.png) 0 -16px repeat-x;
     width: 200px;
     height: 16px;
 }

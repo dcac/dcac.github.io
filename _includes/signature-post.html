@@ -1,13 +1,13 @@
 {% capture result %}{% contentblock signature %}{% endcapture %}
               {% if result != '' %}
-            <div class="signature-block" style="background-image:url(/img/writers/{{author.signature}})">
+            <div class="signature-block" style="background-image:url(/assets/img/writers/{{author.signature}})">
               {{ result | replace_first: '<p>','<p class="signature-block-signoff">'}}
             </div>
               {% else %}
             <div class="signature clearfix">
               <p class="signature-signoff"><strong>
               <p class="signature-signoff"><strong>{% if post.author == "natm" %}Best,{% else %}Sincerely,{% endif %}</strong><br />
-              <img class="signature-img" src="/img/writers/{{ author.signature }}" /><br />
+              <img class="signature-img" src="/assets/img/writers/{{ author.signature }}" /><br />
               {{ author.short-name }}</p>
             </div>
               {% endif %}

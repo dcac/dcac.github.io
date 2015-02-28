@@ -23,59 +23,59 @@ Here are some of the best tweets we received during our #DearAcademy live-tweeti
 
 ![][2]
 
-   [2]: /img/features/inline/dear-acadamy-1.png
+   [2]: /assets/img/features/inline/top-tweets-from-the-2013-oscars/1.png
 
 ![][3]
 
-   [3]:  /img/features/inline/dear-acadamy-2.png
+   [3]:  /assets/img/features/inline/top-tweets-from-the-2013-oscars/2.png
 
 ![][4]
 
-   [4]:  /img/features/inline/dear-acadamy-3.png
+   [4]:  /assets/img/features/inline/top-tweets-from-the-2013-oscars/3.png
 
 ![][5]
 
-   [5]:  /img/features/inline/dear-acadamy-4.png
+   [5]:  /assets/img/features/inline/top-tweets-from-the-2013-oscars/4.png
 
 ![][6]
 
-   [6]:  /img/features/inline/dear-acadamy-5.png
+   [6]:  /assets/img/features/inline/top-tweets-from-the-2013-oscars/5.png
 
 ![][7]
 
-   [7]:  /img/features/inline/dear-acadamy-6.png
+   [7]:  /assets/img/features/inline/top-tweets-from-the-2013-oscars/6.png
 
 ![][8]
 
-   [8]:  /img/features/inline/dear-acadamy-7.png
+   [8]:  /assets/img/features/inline/top-tweets-from-the-2013-oscars/7.png
 
 ![][9]
 
-   [9]:  /img/features/inline/dear-acadamy-8.png
+   [9]:  /assets/img/features/inline/top-tweets-from-the-2013-oscars/8.png
 
 ![][10]
 
-   [10]:  /img/features/inline/dear-acadamy-8.png
+   [10]:  /assets/img/features/inline/top-tweets-from-the-2013-oscars/8.png
 
 ![][11]
 
-   [11]:  /img/features/inline/dear-acadamy-9.png
+   [11]:  /assets/img/features/inline/top-tweets-from-the-2013-oscars/9.png
 
 ![][12]
 
-   [12]:  /img/features/inline/dear-acadamy-10.png
+   [12]:  /assets/img/features/inline/top-tweets-from-the-2013-oscars/10.png
 
 ![][13]
 
-   [13]:  /img/features/inline/dear-acadamy-11.png
+   [13]:  /assets/img/features/inline/top-tweets-from-the-2013-oscars/11.png
 
 ![][14]
 
-   [14]:  /img/features/inline/dear-acadamy-12.png
+   [14]:  /assets/img/features/inline/top-tweets-from-the-2013-oscars/12.png
 
 ![][15]
 
-   [15]:  /img/features/inline/dear-acadamy-13.png
+   [15]:  /assets/img/features/inline/top-tweets-from-the-2013-oscars/13.png
 
 
 For more thoughts on the 2013 Oscars, listen to Dear Cast and Crew's Christopher Redmond review the show on Live.88.5 radio in Ottawa, ON.

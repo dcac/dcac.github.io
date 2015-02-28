@@ -88,14 +88,14 @@ home_feature_display: false
                   <div class="glossary-ribbon"></div>
                 </div>
                 <div class="ad-space">
-                  <a href="#" class="thumbnail"><img src="img/netflix_small.png" alt="Netflix ad"/></a>
+                  <a href="#" class="thumbnail"><img src="/assets/img/home/netflix_small.png" alt="Netflix ad"/></a>
                 </div>
                 <div class="now-streaming">
                   <h1>Our reviews of movies now available on <br />Netflix Streaming.</h1>
                <!--    <h1 class="now-streaming-title">Now Streaming</h1> -->
                   <ul class="now-streaming-list">
                   {% for post in site.categories['netflix']  limit:15 %}
-                		<li class="now-streaming-title"><a href="{{ post.url }}">{{ post.title }} <span class="star-rating">{% for i in (1..post.stars) %}<img src="/img/global/star-red.svg" class="star-small" alt="" />{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<img src="/img/global/star-red-half.svg" class="star-small" alt="" />{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img src="/img/global/star-grey.svg" class="star-small" alt="" />{% endfor %}{% endif %}</span></a></li>
+                		<li class="now-streaming-title"><a href="{{ post.url }}">{{ post.title }} <span class="star-rating">{% for i in (1..post.stars) %}<img src="/assets/img/global/stars/star-red.svg" class="star-small" alt="" />{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<img src="/assets/img/global/stars/star-red-half.svg" class="star-small" alt="" />{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img src="/assets/img/global/stars/star-grey.svg" class="star-small" alt="" />{% endfor %}{% endif %}</span></a></li>
                     {% endfor %}
                   </ul>
                 </div>
