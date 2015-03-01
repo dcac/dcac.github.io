@@ -452,6 +452,7 @@ h3 span.position{
     line-height: @1px*50;
     font-family: @sans-serif;
     font-weight: 700;
+    text-shadow: none;
   }
 }h3 span.position-small-txt{
   color: @white; 
@@ -472,16 +473,8 @@ h3 span.position{
   }
 }
 #review-copy p.intro{
-  text-align:left;
-  position: relative;
-  color:@dark-grey;
-  font-size: @1px*16;
-  line-height: @1px*20;
-  font-family: @sans-serif;
+  .body-copy(@1px * 16, @1px * 24);
   font-weight: 700;
-  width:100%;
-  margin: 0 auto;
-  margin-top: @20px;
   @media @mobile{
     font-size: @1px*16;
     line-height: @1px*24;

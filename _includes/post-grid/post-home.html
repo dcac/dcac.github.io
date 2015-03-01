@@ -1,8 +1,12 @@
 <a href="{{ post.url }}">
                   <div class="post-image-home">
-                    <img class="img-size" data-interchange="[/assets/img/posts/thumb-300/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}, (default)], [/assets/img/posts/thumb-600/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}, (retina)]" alt="{{ post.title }} Image" />
+                     <img class="b-lazy img-size" 
+         src=data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+         data-src="/assets/img/posts/thumb-300/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %} | /assets/img/posts/thumb-600/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}"
+         alt="{{post.title }} image"
+    />
                     <noscript><img class="img-size" src="/assets/img/posts/thumb-300/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}" alt="{{ post.title }} Image" /></noscript>
-                    <div class="corner-stamp"></div>
+                    <div class="corner-stamp hide-for-small-only"></div>
                     {% if post.stars %}<div class="small-star-rating">{% for i in (1..post.stars) %}<img src="/assets/img/global/stars/star-blue.svg" class="star-small" alt="Star" />{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<img src="/assets/img/global/stars/star-blue-half.svg" class="star-small" alt="Half Star" />{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img src="/assets/img/global/stars/star-white.svg" class="star-small" alt="Empty Star" />{% endfor %}{% endif %}</div>{% endif %}
                   </div>
                 </a>
@@ -14,3 +18,5 @@
                     <h2 class="author">By {{ author.name }}</h2>
                   </div>
                 </a>
+                
+               

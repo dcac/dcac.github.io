@@ -25,7 +25,7 @@ home_feature_display: false
           {% if loopindex == 1 %}
            <div class="row">
           {% endif %}
-             <div class="post-list-home large-6 medium-6 columns grow">
+             <div class="post-list-home large-6 medium-6 columns grow" data-equalizer>
               {% include post-grid/post-home.html %}
             </div>
           {% assign loopindex = forloop.index | modulo: 2 %}

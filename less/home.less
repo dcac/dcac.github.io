@@ -304,6 +304,7 @@ div.post-list-home.post-image{
 }
 .post-image-home{
   position: relative;
+  max-height: 171*@1px;
   @media @mobile{
     float:left;
     width:55%;
@@ -311,10 +312,11 @@ div.post-list-home.post-image{
 }
 .post-image img{
   z-index: 0;
+  max-height: 171*@1px;
 }
 .img-size{
   width:100%;
-  height:100%; 
+  height:100%;
 }
 .corner-stamp, .corner-essay, .corner-list, .corner-series, .corner-interview{
   background-size: cover;
@@ -445,7 +447,7 @@ hr.grid-divider{
   margin-bottom: @25px;
 }
 div.feature-text-home p,div.review-text h2.star-rating {
-  .review-grid-excerpt;
+  .review-grid-excerpt(@1px*14);
   @media @mobile{
     display:none;
   }

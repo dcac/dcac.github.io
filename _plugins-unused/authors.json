@@ -1,0 +1,14 @@
+---
+layout: none
+---
+{% for author in site.authors %}
+{
+  "author" : [ "{{ author | first }}" ] "posts" : [
+    {% for posts in author %}
+      {% for post in posts %}   
+    "{{ post.title }}"{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    {% endfor %}
+  ]
+}
+{% endfor %}

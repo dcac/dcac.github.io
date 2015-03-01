@@ -37,12 +37,12 @@
 
 // Standard copy styles
 
-.body-copy{  
+.body-copy(@font-size:@text-regular,@line-height:@1px * 22){  
   text-align:left;
   position: relative;
   color:@dark-grey;
-  font-size: @text-regular;
-  line-height: @20px;
+  font-size: @font-size;
+  line-height: @line-height;
   font-family: @sans-serif;
   width:100%;
   margin: 0 auto;
