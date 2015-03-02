@@ -27,6 +27,7 @@ section.top-nav{
   color: #939598;
   font-size: @text-small;
   font-family: @sans-serif;
+  font-weight: bold;
   text-transform: uppercase;
   position: relative;
   height: 100%;
@@ -40,11 +41,11 @@ a.logo-link{
   display: block;
 }
 .top-search-toggle{
-  font-size: @1px*14;
+  font-size: @font-px*14;
   color:#939598;
 }
 a.top-search-toggle:hover{
-  font-size: @1px*14;
+  font-size: @font-px*14;
   color:#000;
 }
 section.top-nav ul {
@@ -64,6 +65,7 @@ section.top-nav ul li, section.top-nav ul li a {
   vertical-align: bottom;
   height:@text-small;
   line-height: @text-tiny; 
+  font-weight: bold;
 }
 section.top-nav ul li a.slash{
   .make-bg-svg('global/slash',@10px);
@@ -71,6 +73,7 @@ section.top-nav ul li a.slash{
 }
 section.top-nav a:hover{
   color: @black;
+  text-decoration: none;
 }
 .section-nav-head{
   margin-bottom: @1px*45;
@@ -85,10 +88,10 @@ section.top-nav a:hover{
   }
 }
 .section-title h1{
-  font-size: @1px*24;
+  font-size: @font-px*24;
   //line-height: @1px*24;
   font-family: @sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   color: #000;
   display: block;
   text-align: left;
@@ -156,6 +159,10 @@ display: inline;
   .make-bg-svg('global/logo/dcac-logo');
   display: block;
 }
+.top-bar-section ul li>a,.top-bar-section ul li{
+  font-family:@sans-serif;
+  font-weight:normal;
+}
 .top-bar .name{
   height:35px;
   width:45px;
@@ -220,7 +227,7 @@ img.side-home-link{
     position: relative;
     left: auto; }
 .mm-list{
-  font-weight: 700;
+  font-weight: bold;
 }
 
 .mm-fixed-bottom{
@@ -434,7 +441,7 @@ footer a:hover{
 footer .copyright{
   font-size: @text-small;
   font-family: @sans-serif;
-  font-weight: 500;
+  font-weight: normal;
   color: #c7c8ca;
   display: block;
   text-align: left;
@@ -506,7 +513,7 @@ div.author{
   width:290px;
   color: @white;
   font-weight: bold;
-  font-size: @1px*14;
+  font-size: @font-px*14;
 }
 
 /* side menu */

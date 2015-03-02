@@ -2,6 +2,15 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "18493",
 "files": {
+	"\/404.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/404.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_includes\/about-nav.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -461,6 +470,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/404.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/404.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/about\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -469,6 +487,48 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/assets\/css\/app.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/css\/app.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/assets\/img\/error\/404-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130383,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/error\/404-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 222876,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/error\/404-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 953899,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-3.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/_site\/assets\/img\/features\/inline\/dear-acadamy-1.png": {
 		"fileType": 32768,
@@ -1064,39 +1124,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/global\/dcac-full-logo-white.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 8420,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/global\/dcac-full-logo-white.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/global\/dcac-full-logo-white.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/global\/dcac-logo-stamp.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4164,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/global\/dcac-logo-stamp.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/global\/dcac-logo-stamp.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/global\/dcac-logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1255,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/global\/dcac-logo.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/global\/dcac-logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_site\/assets\/img\/global\/icons\/essay.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1181,6 +1208,17 @@
 		"initialSize": 8420,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo-grey.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo-grey.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/global\/logo\/dcac-full-logo-white.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4079,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo-white.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo-white.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3271,6 +3309,17 @@
 		"initialSize": 164546,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/flight.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/flight.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/focus.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110800,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/focus.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/focus.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -10062,6 +10111,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/focus.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9000,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/focus.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/focus.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/for-a-good-time-call.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -16735,6 +16795,17 @@
 		"initialSize": 33396,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/flight.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/flight.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/focus.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21603,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/focus.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/focus.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -27450,6 +27521,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/3\/1\/focus.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/1\/focus.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/contests\/71-contest.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -32510,6 +32590,39 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/assets\/img\/error\/404-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130383,
+		"inputAbbreviatedPath": "\/assets\/img\/error\/404-1.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/error\/404-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/error\/404-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93352,
+		"inputAbbreviatedPath": "\/assets\/img\/error\/404-2.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/error\/404-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/error\/404-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 953899,
+		"inputAbbreviatedPath": "\/assets\/img\/error\/404-3.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/error\/404-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/features\/inline\/dear-acadamy-1.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -33104,39 +33217,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/global\/dcac-full-logo-white.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 8420,
-		"inputAbbreviatedPath": "\/assets\/img\/global\/dcac-full-logo-white.png",
-		"outputAbbreviatedPath": "\/assets\/img\/global\/dcac-full-logo-white.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/global\/dcac-logo-stamp.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4164,
-		"inputAbbreviatedPath": "\/assets\/img\/global\/dcac-logo-stamp.png",
-		"outputAbbreviatedPath": "\/assets\/img\/global\/dcac-logo-stamp.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/global\/dcac-logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1255,
-		"inputAbbreviatedPath": "\/assets\/img\/global\/dcac-logo.png",
-		"outputAbbreviatedPath": "\/assets\/img\/global\/dcac-logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/assets\/img\/global\/icons\/essay.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -33221,6 +33301,17 @@
 		"initialSize": 8420,
 		"inputAbbreviatedPath": "\/assets\/img\/global\/logo\/dcac-full-logo-grey.png",
 		"outputAbbreviatedPath": "\/assets\/img\/global\/logo\/dcac-full-logo-grey.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/global\/logo\/dcac-full-logo-white.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4154,
+		"inputAbbreviatedPath": "\/assets\/img\/global\/logo\/dcac-full-logo-white.png",
+		"outputAbbreviatedPath": "\/assets\/img\/global\/logo\/dcac-full-logo-white.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -35311,6 +35402,17 @@
 		"initialSize": 164546,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/flight.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/flight.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/focus.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110800,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/focus.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/focus.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -42102,6 +42204,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/focus.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9000,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/focus.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/focus.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/for-a-good-time-call.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -48775,6 +48888,17 @@
 		"initialSize": 33396,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/flight.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/flight.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/focus.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21603,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/focus.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/focus.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -56919,6 +57043,24 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/config.rb": {
+		"fileType": 131072,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/config.rb",
+		"outputAbbreviatedPath": "\/config.rb",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/404.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/404.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/css\/animate.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -57121,7 +57263,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1233,
+		"initialSize": 15491,
 		"inputAbbreviatedPath": "\/favicon.png",
 		"outputAbbreviatedPath": "\/favicon.png",
 		"outputPathIsOutsideProject": 0,
@@ -57327,6 +57469,26 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/less\/404.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/less\/404.less",
+		"outputAbbreviatedPath": "\/css\/404.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
 	"\/less\/basic.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
@@ -57427,33 +57589,13 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/less\/home 2.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
-		"disableJavascript": 0,
-		"fileType": 1,
-		"ieCompatibility": 1,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/less\/home 2.less",
-		"outputAbbreviatedPath": "\/css\/home 2.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"relativeURLS": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"strictImports": 0,
-		"strictMath": 0,
-		"strictUnits": 0
-		},
 	"\/less\/home-feature.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/less\/home-feature.less",
 		"outputAbbreviatedPath": "\/css\/home-feature.css",
@@ -58687,12 +58829,12 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb": {
+	"\/Users\/Casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb": {
 		"fileType": 131072,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
-		"outputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
+		"inputAbbreviatedPath": "\/Users\/Casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
+		"outputAbbreviatedPath": "\/Users\/Casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},

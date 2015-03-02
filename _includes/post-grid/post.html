@@ -3,7 +3,7 @@
                     <img class="b-lazy img-size" 
          src=data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
          data-src="/assets/img/posts/thumb-300/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %} | /assets/img/posts/thumb-600/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}"
-         alt="{{post.image }} image"
+         alt="{{post.title }} image"
     />
                     <noscript><img class="img-size" src="/assets/img/posts/thumb-300/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}" alt="{{ post.title }} Image" /></noscript>
                     <div class="corner-stamp"></div>

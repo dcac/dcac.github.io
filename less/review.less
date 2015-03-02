@@ -19,7 +19,7 @@ p::selection{
   transition: all .5s ease 0s;
 }
 #story-title{
-  height: @1px*500;
+  height: 500px;
     @media @mobile{
     height: 430px;
   }
@@ -37,7 +37,7 @@ p::selection{
   }
 }
 .title-img{
-  height: @1px*500;
+  height: 500px;
   width: 100%;
   display: block;
   position: absolute;
@@ -136,9 +136,9 @@ img.scrolled {
 .review-status{
   color:@white;
   font-family: @sans-serif;
-  font-size: @1px*22;
-  line-height: @1px*20;
-  font-weight: 700;
+  font-size: @font-px*22;
+  line-height: @font-px*20;
+  font-weight: bold;
   position: absolute;
   bottom: 67px;
   .text-shadow;
@@ -158,8 +158,8 @@ img.scrolled {
     position: absolute;
     bottom: @1px*20;
     right:0;
-    font-size: @1px*16;
-    line-height: @1px*16;
+    font-size: @font-px*16;
+    line-height: @font-px*16;
     white-space:nowrap;
     right: @15px;
   }
@@ -249,7 +249,7 @@ h1.film{
   line-height: @20px;
   text-transform: uppercase;
   font-family: @sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   text-align: center;
 }
 .imdb-category{
@@ -257,10 +257,10 @@ h1.film{
   z-index: 2;
   color: #939598;
   font-size: @text-small;
-  line-height: @1px*22;
+  line-height: @font-px*22;
   font-family: @sans-serif;
   text-align: right;
-  font-weight: 700;
+  font-weight: bold;
   padding:0 !important;
 }
 
@@ -268,11 +268,11 @@ h1.film{
   position: relative;
   z-index: 2;
   color: #000;
-  font-size: @1px*20;
-  line-height: @1px*22;
+  font-size: @font-px*20;
+  line-height: @font-px*22;
   font-family: @sans-serif;
   text-align: left;
-  font-weight: 700;
+  font-weight: bold;
 }
 .imdb-info-row{
   border-top: 1px solid #c6c8ca;
@@ -294,10 +294,10 @@ h1.hero {
   position: relative;
   z-index: 2;
   color: #fff;
-  font-size: @1px*24;
-  line-height: @1px*24;
+  font-size: @font-px*24;
+  line-height: @font-px*24;
   font-family: @sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   text-align: left;
   margin: 0 auto;
   width:100%;
@@ -305,8 +305,8 @@ h1.hero {
   .text-shadow;
   @media @mobile{
     top: @1px*5;
-    font-size: @1px*18;
-    line-height: @1px*16;
+    font-size: @font-px*18;
+    line-height: @font-px*16;
     margin: 0;
     margin-bottom: 10px;
   }
@@ -344,16 +344,16 @@ article h1.black{
 h1.top{
   position: relative;
   color:@dark-grey;
-  font-size: @1px*20;
+  font-size: @font-px*20;
   text-transform: uppercase;
-  font-weight: 600;
+  font-weight: normal;
   font-family: @sans-serif;
   text-align: left;
   margin: 0 auto;
   width:100%;
   padding: 0;
   margin-top: @1px*12;
-  line-height: @1px*24;
+  line-height: @font-px*24;
 }
 h2.hero-author, h2.hero-date {
   position: relative;
@@ -363,13 +363,13 @@ h2.hero-author, h2.hero-date {
   margin: 0 auto;
   width:100%;
   font-size: @text-medium;
-  line-height: @1px*18;
+  line-height: @font-px*18;
   font-family: @serif;
   font-weight: 200;
   .text-shadow;
   @media @mobile{
-    font-size: @1px*15;
-    line-height: @1px*18;
+    font-size: @font-px*15;
+    line-height: @font-px*18;
     white-space:nowrap;
     position: relative;
     width:auto;
@@ -379,10 +379,10 @@ h2.hero-author, h2.hero-date {
 h2.hero-date{
   font-size: @text-regular;
   font-style: italic;
-  line-height: @1px*16;
+  line-height: @font-px*16;
   @media @mobile{
-    font-size: @1px*12;
-    line-height: @1px*18;
+    font-size: @font-px*12;
+    line-height: @font-px*18;
     white-space:nowrap;
     margin:0;
   }
@@ -417,67 +417,68 @@ h2.top{
 h3 span.addressee{
   color: @white; 
   text-align: left;
-  font-size: @1px*30;
-  line-height: @1px*50;
+  font-size: @font-px*30;
+  line-height: @font-px*50;
   font-family: @sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   text-shadow: 0 0 2px @dark-grey;
   margin-left:4px;
   @media @mobile{
     color: #939598; 
     text-align: left;
-    font-size: @1px*20;
-    line-height: @1px*32;
+    font-size: @font-px*20;
+    line-height: @font-px*32;
     font-family: @sans-serif;
-    font-weight: 700;
+    font-weight: bold;
     text-shadow: none;
   }
 }
 h3 span.position{
   color: @white; 
   text-align: left;
-  font-size: @1px*100;
-  line-height: @1px*80;
+  font-size: @font-px*100;
+  line-height: @font-px*72;
   font-family: @sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   text-shadow: 0 0 2px @dark-grey;
   @media @medium{
-    font-size: @1px*60;
-    line-height: @1px*50;
+    font-size: @font-px*60;
+    line-height: @font-px*50;
   }
   @media @mobile{
     color: #000; 
     text-align: left;
-    font-size: @1px*60;
-    line-height: @1px*50;
+    font-size: @font-px*60;
+    line-height: @font-px*50;
     font-family: @sans-serif;
-    font-weight: 700;
+    font-weight: bold;
     text-shadow: none;
   }
-}h3 span.position-small-txt{
+}
+h3 span.position-small-txt{
   color: @white; 
   text-align: left;
-  font-size: @1px*72;
-  line-height: @1px*64;
+  font-size: @font-px*72;
+  line-height: @font-px*64;
   font-family: @sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   text-shadow: 0 0 2px @dark-grey;
   @media @mobile{
     color: #000; 
     text-align: left;
-    font-size: @1px*50;
-    line-height: @1px*40;
+    font-size: @font-px*50;
+    line-height: @font-px*40;
     font-family: @sans-serif;
-    font-weight: 700;
+    font-weight: bold;
     text-shadow: none;
   }
 }
 #review-copy p.intro{
-  .body-copy(@1px * 16, @1px * 24);
-  font-weight: 700;
+  .body-copy(@font-px * 16, @font-px * 24);
+  font-weight: bold;
   @media @mobile{
-    font-size: @1px*16;
-    line-height: @1px*24;
+    font-size: @font-px*16;
+    line-height: @font-px*24;
   }
 }
 #review-copy p, #review-copy li,#review-copy ol{
@@ -610,7 +611,7 @@ p.article-share i{
   background-color: rgba(255,255,255,.75);
 }
 ul.share-links li{
-  line-height: @1px*12;
+  line-height: @font-px*12;
   font-size: @25px;
   text-align: center;
   margin-bottom: @10px;
@@ -633,7 +634,7 @@ ul.share-links li a.share-icon{
   width:intrinsic;
   min-width: @25px;
   min-height:@20px;
-  font-size: @1px*12;
+  font-size: @font-px*12;
   color: #fff;
   padding: @1px*2;
   text-align: center;
@@ -643,7 +644,7 @@ ul.share-links li a.share-icon{
 }
 ul.share-links li a{
   color: #fff;
-  font-weight: 700;
+  font-weight: bold;
   line-height: @15px;
 }
 ul.share-links li a:hover{

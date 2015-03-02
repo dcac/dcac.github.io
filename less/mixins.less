@@ -14,7 +14,7 @@
 .hero-title-text(){
   font-family: @sans-serif;
   color:@white;
-  font-weight: 800;
+  font-weight: bold;
   font-size: @text-large;
   letter-spacing: @1px;
   text-transform: uppercase;
@@ -37,13 +37,13 @@
 
 // Standard copy styles
 
-.body-copy(@font-size:@text-regular,@line-height:@1px * 22){  
+.body-copy(@font-size:@text-regular,@line-height:@font-px * 22,@font-family:@sans-serif){  
   text-align:left;
   position: relative;
   color:@dark-grey;
   font-size: @font-size;
   line-height: @line-height;
-  font-family: @sans-serif;
+  font-family: @font-family;
   width:100%;
   margin: 0 auto;
   margin-top: @20px;
@@ -59,7 +59,7 @@
 .review-grid-head() {
   font-size:@1px*18;
   font-family: @sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   line-height: @1px*18;
   color: @black;
   margin: 0;
@@ -99,9 +99,9 @@
   z-index: 2;
   background-color: @background;
   color:#000;
-  font-weight: 500;
+  font-weight: normal;
   font-family: @sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   font-size: 22px;
   text-align: center;
   margin-left:15px;
@@ -167,7 +167,7 @@
   font-size: @text-regular;
   margin-bottom: 0;
   color: @white;
-  font-weight: 700;
+  font-weight: bold;
   display:@display;
   border-radius: 3px;
   -moz-border-radius: 3px;
@@ -187,7 +187,7 @@
   font-size: @text-regular;
   margin-bottom: 0;
   color: @white;
-  font-weight: 700;
+  font-weight: bold;
   display:@display;
   border-radius: 3px;
   -moz-border-radius: 3px;
@@ -209,10 +209,10 @@
 //sidebar
 .sidebar-head(){
   margin:0;
-  font-size: @1px*12;
+  font-size: @font-px*12;
   line-height: @20px;
   font-family: @sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   color: #636467;
   display: block;
   text-align: center;

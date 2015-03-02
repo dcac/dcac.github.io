@@ -206,7 +206,7 @@ function winResized() {
             position:"absolute",
             top:"auto",
             bottom: "0",
-          width: reviewSidebar.width()
+            width: reviewSidebar.width()
           });
         }
       }//alert($.waypoints('viewportHeight')-$("#film-row").height()-765);

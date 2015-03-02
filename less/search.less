@@ -31,8 +31,8 @@ input[type=text], input[type=text]:focus{
   border-right: 0;
   border-bottom: 0;
   background: @white url('/assets/img/search/search-icon.png') no-repeat 25px 15px;
-  font-size: @1px*24;
-  font-weight: 700;
+  font-size: @font-px*24;
+  font-weight: bold;
   //line-height: @1px*65;
   height: @1px*65;
   color: #a7a9ac;
@@ -43,7 +43,7 @@ input[type=text], input[type=text]:focus{
   padding-left: 95px;
   border:none;
   @media @mobile{ 
-    font-size: @1px*18;
+    font-size: @font-px*18;
     height: @1px*45;
     background: @white;
     padding:10px;
@@ -96,15 +96,15 @@ p.search-result a:hover{
   text-decoration: underline;
 }
 h1.search-title{
-  font-size: @1px*22;
+  font-size: @font-px*22;
   line-height: @1px*24;
   font-family: @sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   color:#fff;
   letter-spacing: @1px;
   margin-top: 0;
   @media @mobile{
-    font-size: @1px*16;
+    font-size: @font-px*16;
     line-height: @1px*18;
   }
 }
@@ -117,7 +117,7 @@ h1.search-title{
   margin-top: @5px;
   margin-bottom: 0;
   @media @mobile{
-    font-size: @1px*10;
+    font-size: @font-px*10;
     line-height: @1px*12;
   }
 }
@@ -125,12 +125,12 @@ p.search-addressee{
   font-size: @search-regular;
   font-family: @sans-serif;
   color:#d1d3d4;
-  font-weight: 700;
+  font-weight: bold;
   line-height: @1px*14;
   margin-top: 5px;
   margin-bottom: 0;
   @media @mobile{
-    font-size: @1px*12;
+    font-size: @font-px*12;
     line-height: @1px*14;
   }
 }

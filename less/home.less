@@ -15,7 +15,7 @@
  // margin-top: -45px;
 }
 .review-fix{
- // margin-bottom: 45px;
+ // margin-bottom: @45px;
 }
 
 //Hero image and copy
@@ -38,7 +38,7 @@ div.hero-title{
   @media @mobile{
     bottom:0;
     top:auto;
-    min-height:130px;
+    min-height:@1px*130;
   }
 }
 .hero-title h1{
@@ -57,11 +57,11 @@ div.hero-title{
 */
 .hero-title-text{
   text-align: center;
-  bottom: 50px;
+  bottom: @50px;
   position: absolute;
   width:100%;
   @media @mobile{
-    min-height:120px;
+    min-height: @1px*120;
     bottom:0;
     width:100%;
   }
@@ -77,25 +77,25 @@ div.hero-title{
 }
 #hero-home{
   height: 500px;
-  margin-bottom: 45px;
+  margin-bottom: @45px;
   @media @mobile{
-    height:320px;
-    margin-bottom: -20px;
+    height:@1px*320;
+    margin-bottom: @1px*-20;
   }
 }
 .home-title-height{
   height: 500px;
   width:100%;
   @media @mobile{
-    height:320px;
+    height: @1px*320;
   }
 }
 h1.hero-home{
   color: @white;
-  font-size: @1px*100;
+  font-size: @font-px*100;
   line-height: @1px*85;
   font-family: @sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   text-shadow: 0 0 2px @dark-grey;
   @media @mobile{
     font-size: 45px;
@@ -106,26 +106,26 @@ h1.hero-home{
 }
 h1.hero-home-feature{
   color: @white;
-  font-size: @1px*100;
+  font-size: @font-px*100;
   line-height: @1px*85;
   font-family: @sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   text-shadow: 0 0 2px @dark-grey;
   @media @mobile{
-    font-size: 45px;
+    font-size: @45px;
     line-height: @1px*40;
   }
 }
 h1.hero-home-small-txt{
   color: @white;
-  font-size: @1px*60;
+  font-size: @font-px*60;
   line-height: @1px*50;
   font-family: @sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   text-shadow: 0 0 2px @dark-grey;
   @media @mobile{
-    font-size: 30px;
-    line-height: @1px*25;
+    font-size: @font-px*30;
+    line-height: @25px;
     margin:0;bottom: @100px;
     position: absolute;
   }
@@ -133,27 +133,27 @@ h1.hero-home-small-txt{
 
 h1.hero-home-feature-small-txt{
   color: @white;
-  font-size: @1px*60;
+  font-size: @font-px*60;
   line-height: @1px*50;
   font-family: @sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   text-shadow: 0 0 2px @dark-grey;
   @media @mobile{
-    font-size: 30px;
-    line-height: @1px*25;    
+    font-size: @font-px*30;
+    line-height: @25px;    
   }
 }
 .hero-people{
   @media @mobile{
-    margin-left:15px;
+    margin-left: @15px;
     max-width:55%;
-    margin-bottom: 10px;
+    margin-bottom: @10px;
   }
 }
 h2.hero-addressee-home{
   color: @white; 
   font-size: @20px;
-  font-weight: 700;
+  font-weight: bold;
   line-height: @1px*14;
   font-family: @sans-serif;
   text-shadow: 0 0 2px @dark-grey;
@@ -161,7 +161,7 @@ h2.hero-addressee-home{
   @media @mobile{
     text-align: left;
     line-height: @1px*18;
-    font-size: @1px*16;
+    font-size: @font-px*16;
     margin-bottom: 0;
     word-wrap: break-word;
   }
@@ -183,14 +183,14 @@ h2.hero-excerpt-home{
 }
 h2.hero-excerpt-home-title{
   color: @white; 
-  font-size: @1px*24;
-  font-weight: 800;
+  font-size: @font-px*24;
+  font-weight: bold;
   line-height: @1px*20;
   font-family: @sans-serif;
   text-shadow: 0 0 2px @dark-grey;
   position: relative;
   @media @mobile{
-    font-size: 18px;
+    font-size: @font-px*18;
     line-height: @1px*18;
     text-align: left;
   } 
@@ -204,7 +204,7 @@ h2.hero-author-home{
   font-style: italic;
   @media @mobile{
     text-align: left;
-    font-size: @1px*14;
+    font-size: @font-px*14;
     bottom: 0;
     font-style: normal;
     line-height: @1px*18;
@@ -245,12 +245,12 @@ h2.hero-date-home{
 .home-status-title{
   color:@white;
   font-family: @sans-serif;
-  font-size: @1px*18;
+  font-size: @font-px*18;
   line-height: @1px*18;
-  font-weight: 700;
+  font-weight: bold;
   text-align: left;
   @media @mobile{
-    font-size: @1px*16;
+    font-size: @font-px*16;
     line-height: @1px*16;
   }
 }
@@ -272,8 +272,6 @@ h2.hero-date-home{
   width:@1px*24;
   margin-left: @1px*4;
   margin-right: @1px*4;
-  -webkit-filter: drop-shadow( 0 0 @1px*2 #939598 );
-    filter: drop-shadow( 0 0 @1px*2 #939598 );
   @media @mobile{
     height:@1px*14;
     width:@1px*14;
@@ -286,8 +284,6 @@ h2.hero-date-home{
   height:@1px*18;
   width:@1px*18;
   margin-right: @1px*5;
-  -webkit-filter: drop-shadow( 0 0 @1px*2 #939598 );
-    filter: drop-shadow( 0 0 @1px*2 #939598 );
   @media @mobile{
     height:@1px*12;
     width:@1px*12;
@@ -308,11 +304,15 @@ div.post-list-home.post-image{
   @media @mobile{
     float:left;
     width:55%;
+    max-height:none;
   }
 }
 .post-image img{
   z-index: 0;
   max-height: 171*@1px;
+  @media @mobile{
+    max-height:none;
+  }
 }
 .img-size{
   width:100%;
@@ -380,9 +380,9 @@ div.post-list-home.post-image{
   @media @mobile{
     content:"";
     display: block;
-    height:1px;
+    height:@1px;
     border-top: 1px solid #c8c7c7;
-    margin-bottom: 20px;
+    margin-bottom: @20px;
   }
 }
 .post-list{
@@ -394,12 +394,12 @@ div.review-text-home{
   .animation;
   float: none;
   width:auto;
-  max-width:300px;
+  max-width: @1px*300;
   @media @mobile{
-    max-width:110px;
+    max-width: @1px*110;
     float: left;
     margin-top: 0;
-    margin-left: 20px;
+    margin-left: @20px;
   }
 }
 div.home-feature{
@@ -416,7 +416,7 @@ div.feature-text-home {
 div.review-text-home h1, div.feature-text-home h1{
   .review-grid-head;
   @media @mobile{
-    margin-bottom: 10px;
+    margin-bottom: @10px;
   }
 }
 div.review-text-home h2.author, div.feature-text-home h2.author{
@@ -473,7 +473,7 @@ a:hover{
 }
 .load-posts-div,.goto-posts-div{
   text-align: center;
-  margin-bottom: 40px;
+  margin-bottom: @1px*40;
 }
 .load-posts-button,.load-posts-button:focus{
   .home-button;
@@ -505,21 +505,21 @@ div.film-credits{
   min-height: @1px*175;
 }
 div.film-credits h1{
-  font-size: @1px*14;
+  font-size: @font-px*14;
   font-family: @sans-serif;
   color: #939598;
   line-height: @1px*16;
-  font-weight: 700;
+  font-weight: bold;
    margin: 0;
 }
 article h1.film-credits-title{
- font-size: @1px*30;
+ font-size: @font-px*30;
  line-height: @1px*28;
  font-family: @sans-serif;
  color: #000;
  text-transform: capitalize;
  width:80%;
- font-weight: 700;
+ font-weight: bold;
 }
 div.glossary-ribbon{
   background-image: url('/assets/img/home/glossary/ribbon.png');
@@ -544,7 +544,7 @@ article h2.film-credits-description{
   font-family: @sans-serif;
   color: #636466;
   display: block;
-  margin-bottom: 20px;
+  margin-bottom: @20px;
   text-align: left;
   width:80%;
 }
@@ -573,7 +573,7 @@ div.film-credits-nav ul li.film-credits-nav-prev{
 }
 div.film-credits-nav ul li.film-credits-nav-next{
   .pagination-arrow('global/pagination/right-arrow-on');
-  margin-left: 10px;
+  margin-left: @10px;
 }
 div.now-streaming{
   background-color: #e5e4e4;
@@ -611,8 +611,8 @@ ul.now-streaming-list li.now-streaming-title span.star-rating img.star-small{
 }
 li.now-streaming-title a {
   display: inline-block;
-  padding-right: 2px;
-  padding-left: 2px;
+  padding-right: @1px*2;
+  padding-left: @1px*2;
   width: 100%;
   height: 100%;
   font-size: @text-small;

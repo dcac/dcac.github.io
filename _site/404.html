@@ -1,0 +1,215 @@
+
+
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="alternate" type="application/rss+xml" title="Dear Cast & Crew" href="www.dearcastandcrew.com/feed.xml">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />  
+    <title>404 | Dear Cast & Crew</title>
+    <link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/053a7698-a2e7-4a94-b380-2cfed49d680a.css"/>
+    <link rel="icon" href="/favicon.png" type="image/png">
+    
+    <link href="/assets/css/app.css" rel="stylesheet" />
+    <script type="text/javascript" src="/assets/js/app-top-min.js"></script>
+    
+    <style>
+      html, body{
+        background-color: transparent;
+      }
+      #background-image{ 
+        width: 100vw;
+        height: 100vh; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        z-index: 0;
+        transition: 2s filter linear;
+        transition: 2s -webkit-filter linear;
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-position-y: center;
+        background-position: fixed;
+      }
+      #main-404{
+        width: 100vw;
+        height: 100vh; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        overflow: scroll;
+        position: fixed;
+        top:0;
+        z-index: 5;
+      }
+      #search-404{
+        margin-top: 25px;
+        -webkit-transition:  2s; /* For Safari 3.1 to 6.0 */
+        transition:  2s;
+      }
+      #logo{
+        width:200px;
+        height:85px;
+        position: absolute;
+        top:15px;
+        left:15px;
+        display: block;
+      }
+      #results-container{
+        margin: 25px auto 0 auto; 
+        right: 0;
+        left: 0;
+        top:95px;
+        width: 60%;
+        display:block;
+        background-color: rgba(0,0,0,.25);
+        height: 0;
+        overflow-y: scroll;
+      }
+      h1.results{
+        color:#fff;
+        font-family: dcac-sans;
+        font-weight: bold;
+        font-size: 1.8rem;
+        display:none;
+        text-align: center;
+        margin-top: 1.8rem;
+      }
+      #search-results{
+        display: none;
+      }
+      .search-results{
+        margin-top: auto;
+      }
+      div.search-result{
+        width:405px;
+      }
+      #main-copy-1, #main-copy-2, #main-copy-3{
+        display: none;
+        text-align: center;
+      }
+    </style>
+  </head>
+
+
+  <body>
+    
+    <div id="background-image"></div>
+    <div id="main-404">
+      <div id="logo"><a href="http://www.dearcastandcrew.com"><img src="/assets/img/global/logo/dcac-full-logo-white.svg" /></a></div>
+      <div class="copy">
+        <h1 id="main-copy-1">This is not the page you're looking for.</h1>
+        <h1 id="main-copy-2">There's nothing in this box.</h1>
+        <h1 id="main-copy-3">It's like looking for a page in a stack of pages.</h1>
+        <p>Your requested page was not found.</p>
+      </div>
+      <div id="search-container">
+        <div id="search-404" class="search-form">
+          <form method="get" id="search-form">
+            <input type="text" id="search-query" class="search-query" name="q" placeholder="Search Dear Cast & Crew" autocomplete="off" />
+          </form>
+        </div>
+        <div id="results-container">
+          <h1 class="results">Search Results</h1>
+          <section id="search-results" class="search-results">
+            <div class="entries">
+            </div>
+          </section>
+        </div>
+      </div>
+      <!-- <script type="text/javascript" src="/js/search.min.js"></script> -->
+      <script id="search-results-template" class="search-results-template" type="text/mustache">
+        {{#entries}}
+          <div class="search-results-article">
+            <a href="{{url}}"><div class="search-image"><img src="/assets/img/posts/thumb-300/{{image}}" /></div>
+            <div class="search-result">
+              <h1 class="search-title">{{title}}</h1>
+              <p class="search-addressee">Dear {{addressee}}, {{position}}</p>
+              <p class="search-author">By {{author}}</p>
+              <!-- <p class="search-date">{{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}</p> -->
+            </div></a>
+          </div>
+        {{/entries}}
+      </script>
+      
+      <script type="text/javascript">
+        
+        var imageSet = 1 + Math.floor(Math.random() * 3);
+        
+        var copyDiv = "#main-copy-" + imageSet;
+        
+        
+        $( "#background-image" ).css({
+          backgroundImage: "url('/assets/img/error/404-" + imageSet + ".jpg')",
+        })
+        $( copyDiv ).css({
+          display: "block"
+        })
+        
+        
+        $(function() {
+          $('#search-query').lunrSearch({
+            index:    '/search.json',
+            results:  '#search-results',
+            entries:  '.entries',
+            template: '#search-results-template'
+          });
+        });
+        resultHeight = $(window).height()-150;
+        $( "#search-query" ).focusin(function() {
+          $( ".copy" ).animate({opacity: 0, height: 0}, 'slow', function() {
+            $(this).remove();
+            //var resultHeight = window.height();
+            //alert(window.height());
+            $( "#results-container" ).animate({height:resultHeight},'slow');
+            $( "#results-container" ).css({
+              position: "fixed"
+            });
+          });
+          $( ".results" ).fadeIn('slow');
+          $( "#background-image" ).css({
+            filter: "blur(5px)",
+            '-webkit-filter': "blur(5px)"
+            });
+        });
+      </script>
+      <!-- Search --> 
+    <script>
+      function resetForm($form) {
+        $form.find('input:text, input:password, input:file, select, textarea').val('');
+        $form.find('input:radio, input:checkbox')
+        .removeAttr('checked').removeAttr('selected');
+      }
+      $("#search-form").submit(function(e) {
+          e.preventDefault();
+      });
+      $(document).keyup(function(e){
+        if(e.keyCode === 27) {
+          $("#search-modal").css("display","none");
+          $("body").css("overflow","auto");
+          resetForm($('#search'));
+        }
+      });
+      
+      
+    </script>
+    <script type="text/javascript" src="/assets/js/app-bottom-min.js"></script>
+  	<script>
+        Modernizr.addTest('svgasimg', document.implementation.hasFeature('http://www.w3.org/TR/SVG11/feature#Image', '1.1'));
+
+    if (!Modernizr.svgasimg) {
+      $('img[src*="svg"]').attr('src', function() {
+          return $(this).attr('src').replace('.svg', '.png');
+      });
+    }
+    $(document).ready(function(){
+      var bLazy = new Blazy();
+    });
+    </script>
+
+    </div>  
+  
+  </body>
+</html>
