@@ -90,6 +90,47 @@
         display: none;
         text-align: center;
       }
+      #site-nav{
+        font-family: dcac-sans;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 10px;
+      }
+      #site-nav ul{
+        display: table;
+        margin: 0;
+        list-style: none;
+        text-align: center;
+        margin: 0 auto;
+        text-shadow: 0px 0px 3px #333;
+      }
+      #site-nav ul li{
+        display: table-cell;
+        text-align: center;
+      }
+      #site-nav ul li::after{
+        content: "|";
+        color:#fff;
+        font-family: dcac-sans;
+      }
+      #site-nav ul li:last-child:after{
+        content: "";
+        color:#fff;
+        font-family: dcac-sans;
+      }
+      #site-nav ul li a{
+        color:#fff;
+        font-family: dcac-sans;
+        font-weight: bold;
+        font-size: .8rem;
+        text-transform: uppercase;
+        text-align: center;
+        padding: 0 10px;
+      }
+      #site-nav ul li a:hover{
+        text-decoration: none;
+        color:#000;
+      }
     </style>
   </head>
 
@@ -110,6 +151,14 @@
           <form method="get" id="search-form">
             <input type="text" id="search-query" class="search-query" name="q" placeholder="Search Dear Cast & Crew" autocomplete="off" />
           </form>
+        </div>
+        <div id="site-nav">
+          <ul>
+            <li><a href="http://www.dearcastandcrew.com">Home</a></li>
+            <li><a href="/reviews/">Reviews</a></li>
+            <li><a href="/features">Features</a></li>
+            <li><a href="/writers/">Writers</a></li>
+          </ul>
         </div>
         <div id="results-container">
           <h1 class="results">Search Results</h1>
@@ -159,6 +208,8 @@
         });
         resultHeight = $(window).height()-150;
         $( "#search-query" ).focusin(function() {
+          
+          $("#search-query").removeAttr('placeholder');
           $( ".copy" ).animate({opacity: 0, height: 0}, 'slow', function() {
             $(this).remove();
             //var resultHeight = window.height();
@@ -168,6 +219,7 @@
               position: "fixed"
             });
           });
+          $("#site-nav").animate({opacity:0},'fast');
           $( ".results" ).fadeIn('slow');
           $( "#background-image" ).css({
             filter: "blur(5px)",
