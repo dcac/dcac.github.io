@@ -488,6 +488,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/assets\/css\/app.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/css\/app.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/assets\/img\/error\/404-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -33912,6 +33921,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/a-girl-walks-home-alone-at-night.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37902,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/a-girl-walks-home-alone-at-night.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/a-girl-walks-home-alone-at-night.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/a-good-day-to-die-hard.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -47471,6 +47491,17 @@
 		"initialSize": 23431,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/a-discussion-with-jake-paltrow-director.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/a-discussion-with-jake-paltrow-director.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/a-girl-walks-home-alone-at-night.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12875,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/a-girl-walks-home-alone-at-night.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/a-girl-walks-home-alone-at-night.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
