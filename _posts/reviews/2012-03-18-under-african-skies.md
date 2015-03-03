@@ -1,7 +1,7 @@
 ---
 published: true
 imdb: tt2112868
-image: under-african-skies.jpeg
+image: under-african-skies.jpg
 author: caseyt
 stars: 4
 excerpt: "Editing a documentary&mdash;especially one with so much musical performance&mdash;is a truly difficult task. And you made it look easy. Those scenes of Paul Simon reuniting with the South African musicians from <em>Graceland</em>? Masterful&mdash;they perfectly captured the joy of these artists playing together."

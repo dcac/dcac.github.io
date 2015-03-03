@@ -1,6 +1,6 @@
 ---
 published: true
-image: mirror-mirror
+image: mirror-mirror.jpg
 imdb: tt1667353
 author: jaredy
 stars: 2.5

@@ -1,6 +1,6 @@
 ---
 published: true
-image: how-i-live-now.jpeg
+image: how-i-live-now.jpg
 imdb: tt1894476
 author: christopherr 
 stars: 3

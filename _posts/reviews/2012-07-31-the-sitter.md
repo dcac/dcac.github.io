@@ -1,7 +1,7 @@
 ---
 published: true
 imdb: tt1366344
-image: the-sitter
+image: the-sitter.jpg
 author: coryh 
 stars: 2
 excerpt: "Hi there. I am surprised you were required for this movie. Yours sounds like a job more befitting an historical epic or meticulous art film."
