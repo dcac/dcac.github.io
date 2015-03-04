@@ -488,15 +488,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/assets\/css\/app.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/assets\/css\/app.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/assets\/img\/error\/404-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1824,6 +1815,17 @@
 		"initialSize": 94639,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/a-discussion-with-jake-paltrow-director.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/a-discussion-with-jake-paltrow-director.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/a-girl-walks-home-alone-at-night.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37902,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/a-girl-walks-home-alone-at-night.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/a-girl-walks-home-alone-at-night.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -8714,6 +8716,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/a-girl-walks-home-alone-at-night.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5526,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/a-girl-walks-home-alone-at-night.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/a-girl-walks-home-alone-at-night.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/a-good-day-to-die-hard.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15387,6 +15400,17 @@
 		"initialSize": 23431,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/a-discussion-with-jake-paltrow-director.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/a-discussion-with-jake-paltrow-director.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/a-girl-walks-home-alone-at-night.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12875,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/a-girl-walks-home-alone-at-night.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/a-girl-walks-home-alone-at-night.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -27526,6 +27550,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/1\/focus.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/3\/2\/a-girl-walks-home-alone-at-night.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/2\/a-girl-walks-home-alone-at-night.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -40814,6 +40847,17 @@
 		"initialSize": 9648,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/a-discussion-with-jake-paltrow-director.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/a-discussion-with-jake-paltrow-director.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/a-girl-walks-home-alone-at-night.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5526,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/a-girl-walks-home-alone-at-night.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/a-girl-walks-home-alone-at-night.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -57065,15 +57109,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/config.rb": {
-		"fileType": 131072,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/config.rb",
-		"outputAbbreviatedPath": "\/config.rb",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/css\/404.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -57285,7 +57320,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 15491,
+		"initialSize": 1233,
 		"inputAbbreviatedPath": "\/favicon.png",
 		"outputAbbreviatedPath": "\/favicon.png",
 		"outputPathIsOutsideProject": 0,
@@ -58851,12 +58886,12 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/Users\/Casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb": {
+	"\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb": {
 		"fileType": 131072,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/Casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
-		"outputAbbreviatedPath": "\/Users\/Casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
+		"inputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
+		"outputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
