@@ -576,6 +576,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/error\/404-9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 171906,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-9.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/features\/inline\/dear-acadamy-1.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -32793,6 +32804,17 @@
 		"initialSize": 246696,
 		"inputAbbreviatedPath": "\/assets\/img\/error\/404-7.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/error\/404-7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/error\/404-8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 118380,
+		"inputAbbreviatedPath": "\/assets\/img\/error\/404-8.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/error\/404-8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

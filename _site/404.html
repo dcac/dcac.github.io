@@ -56,6 +56,7 @@
         top:15px;
         left:15px;
         display: block;
+        text-shadow: 0px 0px 3px #333;
       }
       #results-container{
         margin: 25px auto 0 auto; 
@@ -86,13 +87,21 @@
       div.search-result{
         width:405px;
       }
-      #main-copy-1, #main-copy-2, #main-copy-3, #main-copy-4, #main-copy-5, #main-copy-6, #main-copy-7, #main-copy-8{
+      #main-copy-1, #main-copy-2, #main-copy-3, #main-copy-4, #main-copy-5, #main-copy-6, #main-copy-7, #main-copy-8, #main-copy-9{
         display: none;
         text-align: center;
       }
-      h1#main-copy-8.main-smaller{
+      #logo-white, #logo-black{
+        display: none;
+      }
+      h1#main-copy-8.main-smaller, h1#main-copy-9.main-smaller{
         font-size: 3rem;
         line-height: 3rem;
+        @media @mobile{
+          font-size: 1.2rem;
+          text-align: left;
+          line-height: 1rem;
+        }
       }
       #site-nav{
         font-family: dcac-sans;
@@ -143,7 +152,10 @@
     
     <div id="background-image"></div>
     <div id="main-404">
-      <div id="logo"><a href="http://www.dearcastandcrew.com"><img src="/assets/img/global/logo/dcac-full-logo-white.svg" /></a></div>
+      <div id="logo"><a href="http://www.dearcastandcrew.com">
+        <img id="logo-white" src="/assets/img/global/logo/dcac-full-logo-white.svg" />
+        <img id="logo-black" src="/assets/img/global/logo/dcac-full-logo.svg" />
+      </a></div>
       <div class="copy">
         <h1 id="main-copy-1">This is not the page you're looking for.</h1>
         <h1 id="main-copy-2">There's nothing in this box.</h1>
@@ -153,6 +165,7 @@
         <h1 id="main-copy-6">Game over, man. GAME OVER!</h1>
         <h1 id="main-copy-7">Lose something?</h1>
         <h1 id="main-copy-8" class="main-smaller">Call it luck, call it karma, I believe everything happens for a reason. I believe that we were destined to get thrown outta this page.</h1>
+        <h1 id="main-copy-9" class="main-smaller">When you go looking for anything at all, your chances of finding it are very good. Because of all the things in the world, you're sure to find some of them.</h1>
         <p class="error-txt">Your requested page was not found.</p>
       </div>
       <div id="search-container">
@@ -194,7 +207,7 @@
       
       <script type="text/javascript">
         
-        var imageSet = 1 + Math.floor(Math.random() * 8);
+        var imageSet = 1 + Math.floor(Math.random() * 9);
         
         var copyDiv = "#main-copy-" + imageSet;
         
@@ -205,6 +218,16 @@
         $( copyDiv ).css({
           display: "block"
         })
+        if (imageSet >= 8) {
+          $( "#logo-black" ).css({
+            display: "block"
+          });
+        }
+        else{
+          $( "#logo-white" ).css({
+            display: "block"
+          });
+        }
         
         
         $(function() {
