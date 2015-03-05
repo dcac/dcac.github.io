@@ -3,7 +3,7 @@ layout: feature
 published: true
 image: yes-nightcrawler-is-the-best-film-of-2014.jpg
 title: "Yes, Nightcrawler is the Best Film of 2014"
-addressee: 
+addressee:  Fellow Critics
 excerpt: "C. Redmond argues why Dan Gilroy's dark thriller should be atop everyone's list."
 author: christopherr
 comments: true
@@ -12,8 +12,6 @@ categories:
   - essays
 tags: [Nightcrawler, Awards, awesome, Best,critic, films, good, list, movies, Top films 2014, worst, year end]
 ---
-Dear Fellow Critics,
-
 **This letter is addressed to you, but, admittedly, it’s an attempt to validate my own convictions. I wish I could have leaned back, stretched out my arms in self-satisfied comfort, and submitted my [Top Films of 2014](http://www.dearcastandcrew.com/content/2014/12/31/c-redmonds-top-films-of-2014.html) with the same confidence [(and perfect photo) as I did in 2013](http://www.dearcastandcrew.com/content/2014/1/1/c-redmonds-top-films-of-2013.html). But that hasn’t been the case.**
 
 Last year, I knew [_The Act of Killing_](http://www.dearcastandcrew.com/content/2013/9/13/the-act-of-killing.html) was unequivocally the most impressive, entertaining, and important cinematic accomplishment of the year. [_Boyhood_](http://www.dearcastandcrew.com/content/2014/8/5/boyhood.html) has garnered similar praise from many of you this year, yet I can’t comply in calling it the best of the best. True, Richard Linklater’s 12-year character study is brilliant, poignant, and deceivingly simple, but I left the theatre without that instant appreciation. It took a few days for the film’s lackadaisical rhythm and fleeting preciousness to work me over. My own son is quickly growing before my eyes, so the film certainly has a special place in my heart—but it’s only second place on my list. 

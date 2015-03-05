@@ -3,7 +3,7 @@ layout: feature
 published: true
 image: sorry-the-lego-movie-is-the-best-film-of-2014.jpg
 title: "Sorry, The Lego Movie is the Best Film of 2014"
-addressee: 
+addressee:  Fellow Critics
 excerpt: "Really, The Lego Movie? Yes The Lego Movie."
 author: caseyt
 comments: true
@@ -12,8 +12,6 @@ categories:
   - essays
 tags: [The Trip to Italy,Nightcrawler,Wild, Birdman, Awards, awesome, Best,critic, films, good, list, movies, Top films 2014, worst, year end]
 ---
-Dear Fellow Critics,
-
 Sometimes it’s as much about _when_ you see the movie as it about the movie itself. Roger Ebert famously reviewed _Unforgiven_ twice: months after his initial two-star review, he revised it to a full-blown four out of four. He reasoned that when he first saw the film (which he would eventually decide was a masterpiece), he was too distracted by events in his own life; he wasn’t in the right frame of mind to address it beyond a superficial level. Cinema is patient, though. When you are ready, it will be waiting.
 
 I’m fascinated by the changing relationship we can have with works of art. The way we’re pushed forward by life’s currents, and how that changes the way we relate to a thing that will forever remain unchanged. The films that have gained stature and meaning for me as I’ve gotten older – and, conversely, those that once seemed monumental and now look small and silly – are too numerous to list (I will provide two examples, though: _2001: A Space Odyssey_ and _Transformers: The Movie._ I’ll let you guess which is which).

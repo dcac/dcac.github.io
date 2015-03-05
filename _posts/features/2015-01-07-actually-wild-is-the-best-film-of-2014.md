@@ -3,7 +3,7 @@ layout: feature
 published: true
 image: actually-wild-is-the-best-film-of-2014.jpg
 title: "Actually, Wild is the Best Film of 2014"
-addressee: 
+addressee:  Fellow Critics
 excerpt: "Di Golding writes how a film she didn't even want to see became her favourite of the year"
 author: dig
 comments: true
@@ -12,7 +12,6 @@ categories:
   - essays
 tags: [The Trip to Italy,Nightcrawler, Awards, awesome, Best,critic, films, good, list, movies, Top films 2014, worst, year end]
 ---
-Dear Fellow Critics, 
 
 **_Grudge Match_ was the last film I saw in 2013 and the first film I reviewed for Dear Cast and Crew. [_Wild_](http://www.dearcastandcrew.com/content/2015/1/4/wild.html) was the last film I saw in 2014, and the first film I reviewed in 2015.**
 

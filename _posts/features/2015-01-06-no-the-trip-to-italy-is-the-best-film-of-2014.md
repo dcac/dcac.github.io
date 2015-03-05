@@ -3,7 +3,7 @@ layout: feature
 published: true
 image: no-the-trip-to-italy-is-the-best-film-of-the-year.jpg
 title: "No, The Trip To Italy is the Best Film of 2014"
-addressee: 
+addressee:  Fellow Critics
 excerpt: "Jared Young explains why Michael Winterbottom’s return voyage is better than the rest"
 author: jaredy
 comments: true
@@ -12,7 +12,6 @@ categories:
   - essays
 tags: [The Trip to Italy,Nightcrawler, Awards, awesome, Best,critic, films, good, list, movies, Top films 2014, worst, year end]
 ---
-Dear Fellow Critics, 
 
 **As you know, picking a best film of the year is a special sort of ethical dilemma. Your selection doesn’t just define your aesthetic tastes, but who you are as a person at that particular moment in time (if I was writing this essay in 1996, you’d be hearing all about the hyperkinetic genius of Michael Bay’s _The Rock_). **
 

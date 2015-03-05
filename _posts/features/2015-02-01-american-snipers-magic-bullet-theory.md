@@ -3,7 +3,7 @@ layout: feature
 published: true
 image: american-snipers-magic-bullet-theory.jpg
 title: "American Sniper's Magic Bullet Theory"
-addressee: 
+addressee: Readers
 excerpt: "Christopher Redmond on how the ending of <em>American Sniper</em> questions its hero's credibility."
 author: christopherr
 comments: true
@@ -11,10 +11,7 @@ categories:
   - features
   - essays
 tags: [oscars,war, controversy,Clint Eastwood]
----
-
-Dear Readers,
-**_American Sniper_ is a big fat box-office hit. It has become a must-see movie, not just for star-spangled flag-wavers, Oscar completionists and [plastic baby fetishists](http://www.hollywoodreporter.com/news/american-snipers-fake-baby-mocked-764702), but general audiences, too. Yes, the film is a legitimately well-made drama, and can be twisted to fit all sorts of personal and political agendas. But it’s also surprisingly subversive. How? Because the filmmakers suggest that Chris Kyle is a bit of a fraud.**
+---**_American Sniper_ is a big fat box-office hit. It has become a must-see movie, not just for star-spangled flag-wavers, Oscar completionists and [plastic baby fetishists](http://www.hollywoodreporter.com/news/american-snipers-fake-baby-mocked-764702), but general audiences, too. Yes, the film is a legitimately well-made drama, and can be twisted to fit all sorts of personal and political agendas. But it’s also surprisingly subversive. How? Because the filmmakers suggest that Chris Kyle is a bit of a fraud.**
 
 Many journalists, critics, and pundits have dissected Chris Kyle’s actions; whether he was motivated by patriotism, racism, or deeper psychology problems. But no one seems to be talking about how he may have made a lot of this stuff up. Or at least the film allows for that interpretation. 
 

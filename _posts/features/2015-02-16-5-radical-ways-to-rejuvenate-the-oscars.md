@@ -3,7 +3,7 @@ layout: feature
 published: true
 image: 5-radical-ways-to-rejuvenate-the-oscars.jpg
 title: "5 Radical Ways to Rejuvenate the Oscars"
-addressee: 
+addressee: Academy
 excerpt: "Christopher Redmond suggests nips, tucks, and full-on facelifts to his aging lover, the Academy Awards."
 author: christopherr
 comments: true
@@ -12,8 +12,6 @@ categories:
   - lists
 tags: [oscars,academy, awards]
 ---
-
-Dear Academy,
 
 **Look, I know the Academy Awards are not a public institution, bound by oversight committees, regulatory reforms, and never-ending calls to accountability. But they might as well be.**
 

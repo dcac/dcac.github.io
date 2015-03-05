@@ -3,7 +3,7 @@ layout: feature
 published: true
 image: seriously-birdman-is-the-best-film-of-2014.jpg
 title: "Seriously, Birdman is the Best Film of 2014"
-addressee: 
+addressee:  Fellow Critics
 excerpt: "Proving there is no such thing as consensus at Dear Cast and Crew, Tim McEown chimes in with his pick for the best of 2014."
 author: timm
 comments: true
@@ -12,7 +12,6 @@ categories:
   - essays
 tags: [The Trip to Italy,Nightcrawler, Awards, awesome, Best,critic, films, good, list, movies, Top films 2014, worst, year end]
 ---
-Dear Fellow Critics
 
 **Watching _Birdman (or The Unexpected Virtue of Ignorance)_ is like watching a sparrow navigate the interior of a building. It is an agitating, beautiful, visceral experience. There is a tension inherent to something that lives one wrong choice away from utter disaster every second of its 119 minutes of life.**
 
