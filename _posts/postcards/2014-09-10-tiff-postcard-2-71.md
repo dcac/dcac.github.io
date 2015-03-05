@@ -13,7 +13,7 @@ series-name: TIFF 2014
 addressee: TIFF
 position: ""
 author: dianech
-image: 71.jpg
+image: 71-tiff.jpg
 comments: true
 ---
 I'm not usually a fan of war movies (don't tell anyone, but still haven't seen_Saving Private Ryan_), but you definitely got my attention with this one.

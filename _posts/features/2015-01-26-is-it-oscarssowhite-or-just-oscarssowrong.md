@@ -3,7 +3,7 @@ layout: feature
 published: true
 image: is-oscarsowhite-or-is-oscarsowrong.jpg
 title: "Is it #OscarsSoWhite or just #OscarsSoWrong?"
-addressee: 
+addressee: America
 date: 2015-01-26 09:00:00
 excerpt: "What the controversy over <em>Selma</em>’s snub might really mean."
 author: all
@@ -13,7 +13,7 @@ categories:
   - essays
 tags: [oscars,Academy Awars,Selma, David Oyelowo]
 ---
-Dear America,**Since the Oscar nominations were announced last week, the noticeable lack of diversity among the high profile nominees has become a huge controversy. “The [whitest year](http://www.independent.co.uk/arts-entertainment/films/oscars/oscar-nominations-2015-academy-criticised-for-allwhite-nominees-in-acting-categories-9980457.html) since 1998!” has become a familiar lament. “Selma gets snubbed!” was a headline or sub-head in almost every single Oscar news item of the day. Hands were wrung—not just in self-righteous protest, but in disappointment over the dismissal of a [beautifully accomplished film](http://www.dearcastandcrew.com/content/2015/1/21/selma.html) that could have used the boost in profile.**
+-Since the Oscar nominations were announced last week, the noticeable lack of diversity among the high profile nominees has become a huge controversy. “The [whitest year](http://www.independent.co.uk/arts-entertainment/films/oscars/oscar-nominations-2015-academy-criticised-for-allwhite-nominees-in-acting-categories-9980457.html) since 1998!” has become a familiar lament. “Selma gets snubbed!” was a headline or sub-head in almost every single Oscar news item of the day. Hands were wrung—not just in self-righteous protest, but in disappointment over the dismissal of a [beautifully accomplished film](http://www.dearcastandcrew.com/content/2015/1/21/selma.html) that could have used the boost in profile.
 
 Selma being overlooked, however, feels less like an institutional crime than one of poor taste. 
 
