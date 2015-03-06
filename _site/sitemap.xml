@@ -2585,6 +2585,10 @@
         <lastmod>2015-03-05T10:11:10-05:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/3/6/the-valley-below.html</loc>
+        <lastmod>2015-03-06T10:42:10-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
         <lastmod>2015-03-03T07:29:00-05:00</lastmod>
     </url>
@@ -2618,7 +2622,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2015-03-05T12:01:50-05:00</lastmod>
+        <lastmod>2015-03-06T10:42:10-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/features/series/</loc>
@@ -2695,5 +2699,9 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/the-theory-of-everything-contest.html</loc>
         <lastmod>2015-03-03T07:29:00-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
+        <lastmod>2015-03-05T12:25:10-05:00</lastmod>
     </url>
 </urlset>

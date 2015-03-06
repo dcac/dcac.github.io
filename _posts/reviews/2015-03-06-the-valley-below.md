@@ -4,7 +4,7 @@ categories:
   - reviews
   - current-releases
 published: true
-title: "'The Valley Below"
+title: "The Valley Below"
 image: the-valley-below.jpg
 imdb: tt2739306
 author: dig
