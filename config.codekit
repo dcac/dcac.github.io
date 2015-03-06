@@ -470,29 +470,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/404.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/404.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/about\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/about\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/assets\/css\/app.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/assets\/css\/app.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1190,6 +1172,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/global\/grid\/grid-placeholder.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5456,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/global\/grid\/grid-placeholder.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/global\/grid\/grid-placeholder.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/global\/icons\/essay.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1835,6 +1828,17 @@
 		"initialSize": 107335,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/71-contest.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/71-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/71-tiff.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66793,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/71-tiff.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/71-tiff.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5832,6 +5836,358 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/salmon-fishing-in-the-yemen.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 236183,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/salmon-fishing-in-the-yemen.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/salmon-fishing-in-the-yemen.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/sarah-prefers-to-run.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 169940,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/sarah-prefers-to-run.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/sarah-prefers-to-run.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/savages.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 141249,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/savages.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/savages.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/saving-mr-banks.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 235174,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/saving-mr-banks.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/saving-mr-banks.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/searching-for-sugar-man.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65047,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/searching-for-sugar-man.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/searching-for-sugar-man.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/seeking-a-friend-for-the-end-of-the-world.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 241029,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/seeking-a-friend-for-the-end-of-the-world.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/seeking-a-friend-for-the-end-of-the-world.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/selma.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72517,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/selma.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/selma.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/serena.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 198440,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/serena.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/serena.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/seriously-birdman-is-the-best-film-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 206302,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/seriously-birdman-is-the-best-film-of-2014.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/seriously-birdman-is-the-best-film-of-2014.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/seven-psychopaths.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84399,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/seven-psychopaths.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/seven-psychopaths.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/sex-tape.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 225790,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/sex-tape.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/sex-tape.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/shame.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 178046,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/shame.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/shame.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/sharknado.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95420,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/sharknado.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/sharknado.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/shifting-the-blame.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 170703,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/shifting-the-blame.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/shifting-the-blame.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/short-term-12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 192655,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/short-term-12.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/short-term-12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/shut-up-and-play-the-hits.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 150550,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/shut-up-and-play-the-hits.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/shut-up-and-play-the-hits.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/side-by-side.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 146197,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/side-by-side.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/side-by-side.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/silent-hill-revelation.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 161859,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/silent-hill-revelation.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/silent-hill-revelation.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/silver-linings-playbook.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 117554,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/silver-linings-playbook.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/silver-linings-playbook.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/sinister.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 179299,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/sinister.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/sinister.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/skyfall.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 157612,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/skyfall.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/skyfall.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/slasher-camp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 183383,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/slasher-camp.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/slasher-camp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/snow-white-and-the-huntsman.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 274103,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/snow-white-and-the-huntsman.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/snow-white-and-the-huntsman.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/snowpiercer.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 132095,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/snowpiercer.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/snowpiercer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/somm.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69461,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/somm.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/somm.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/song-of-the-sea.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160257,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/song-of-the-sea.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/song-of-the-sea.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/sorry-the-lego-movie-is-the-best-film-of-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68858,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/sorry-the-lego-movie-is-the-best-film-of-2014.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/sorry-the-lego-movie-is-the-best-film-of-2014.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/sparkle.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89915,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/sparkle.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/sparkle.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/spinning-plates.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 121714,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/spinning-plates.JPG",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/spinning-plates.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/spring-breakers.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 138796,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/spring-breakers.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/spring-breakers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/st-vincent-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 158705,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/st-vincent-contest.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/st-vincent-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/st-vincent-review.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 114995,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/st-vincent-review.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/st-vincent-review.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/st-vincent.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -7438,6 +7794,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/the-valley-below.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90285,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-valley-below.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-valley-below.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/the-villain.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -8391,6 +8758,17 @@
 		"initialSize": 3272,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/5-radical-ways-to-rejuvenate-the-oscars.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/5-radical-ways-to-rejuvenate-the-oscars.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/71-tiff.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9148,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/71-tiff.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/71-tiff.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -14170,6 +14548,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/the-valley-below.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8408,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-valley-below.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-valley-below.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/the-villain.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15090,6 +15479,17 @@
 		"initialSize": 7474,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/5-radical-ways-to-rejuvenate-the-oscars.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/5-radical-ways-to-rejuvenate-the-oscars.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/71-tiff.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20670,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/71-tiff.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/71-tiff.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -20854,6 +21254,17 @@
 		"initialSize": 19407,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-trip-to-italy.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-trip-to-italy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/the-valley-below.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22615,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-valley-below.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-valley-below.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -27337,6 +27748,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/3\/6\/the-valley-below.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/6\/the-valley-below.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/contests\/71-contest.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -33086,6 +33506,17 @@
 		"initialSize": 1225,
 		"inputAbbreviatedPath": "\/assets\/img\/forms\/name.png",
 		"outputAbbreviatedPath": "\/assets\/img\/forms\/name.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/global\/grid\/grid-placeholder.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5456,
+		"inputAbbreviatedPath": "\/assets\/img\/global\/grid\/grid-placeholder.png",
+		"outputAbbreviatedPath": "\/assets\/img\/global\/grid\/grid-placeholder.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -39697,6 +40128,17 @@
 		"initialSize": 73249,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-trip-to-italy.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-trip-to-italy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/the-valley-below.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90285,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-valley-below.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-valley-below.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -46444,6 +46886,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/the-valley-below.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8408,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-valley-below.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-valley-below.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/the-villain.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -53139,6 +53592,17 @@
 		"initialSize": 19407,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-trip-to-italy.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-trip-to-italy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/the-valley-below.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22615,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-valley-below.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-valley-below.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
