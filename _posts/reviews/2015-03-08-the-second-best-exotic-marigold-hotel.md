@@ -12,7 +12,7 @@ stars: 2.5
 excerpt: This is where the short description will go.
 addressee: Judi Dench
 position: "Actor"
-split_name: false
+split_name: true
 tags: 
   - comedy
   - Judi Dench
@@ -21,7 +21,7 @@ tags:
   - british
 ---
 
-One of the things about having watched films for close to fifty years is you occasionally get to watch a performer’s entire career play out in front of you. Sometimes that is a painful thing (Jon Voight), sometimes funny (Jack Nicholson), and every once in a while it is a privilege (You).
+When you’ve watched films for close to fifty years, you occasionally get to see a performer’s entire career play out in front of you. Sometimes it’s painful (Jon Voight), sometimes it’s funny (Jack Nicholson), and every once in a while it’s a privilege (you).
 
 To be clear _The Second Best Exotic Marigold Hotel_ is hardly the best showcase for your work. A meandering, often incoherent mess, it is a film that lurches from moment to moment without a whole lot of intention. 
 

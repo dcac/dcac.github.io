@@ -13,7 +13,7 @@ categories:
   - on-video
 title: "Anchorman 2: The Legend Continues"
 comments: true
-tags: [comedy, Kristen Wiig, Letters, Paul Rudd, Steve Carrell, will ferrell]
+tags: [comedy, Kristen Wiig, Letters, Paul Rudd, Steve Carrell, Will Ferrell, Vince Vaughn]
 ---
 He could have taught sexism to Black Jesus. He might have seduced Madam Curie--with science. Given the chance, he saved no orcas. Ron Burgundy is a unique character, full of possibilities_. Anchorman 2: The Legend Continues_, his newest outing, is a combination of hilarity, confusion, and disappointment. Was it worth it? I think so. Did maybe they need some more time to think the whole thing through? Yes.
 
