@@ -2603,6 +2603,10 @@
         <lastmod>2015-03-09T22:17:01-04:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/3/11/housebound.html</loc>
+        <lastmod>2015-03-11T10:36:36-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
         <lastmod>2015-03-06T15:53:36-05:00</lastmod>
     </url>
@@ -2632,7 +2636,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2015-03-09T22:17:01-04:00</lastmod>
+        <lastmod>2015-03-11T10:36:36-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/features/essays/</loc>
@@ -2717,5 +2721,9 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/the-theory-of-everything-contest.html</loc>
         <lastmod>2015-03-06T15:53:36-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
+        <lastmod>2015-03-09T11:41:14-04:00</lastmod>
     </url>
 </urlset>
