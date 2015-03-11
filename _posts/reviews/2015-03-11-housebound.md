@@ -2,7 +2,7 @@
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - netflix
 published: true
 title: "Housebound"
 image: housebound.jpg
