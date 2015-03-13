@@ -173,6 +173,51 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_includes\/post-grid-interchange\/feature-post.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/post-grid-interchange\/feature-post.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_includes\/post-grid-interchange\/page.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/post-grid-interchange\/page.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_includes\/post-grid-interchange\/post-feature.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/post-grid-interchange\/post-feature.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_includes\/post-grid-interchange\/post-home.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/post-grid-interchange\/post-home.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_includes\/post-grid-interchange\/post.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/post-grid-interchange\/post.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_includes\/post-grid\/feature-post.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -353,6 +398,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_layouts\/default-interchange.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/default-interchange.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_layouts\/default.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -484,6 +538,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/about\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/assets\/css\/app.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/css\/app.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -2622,6 +2685,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/chappie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 231517,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/chappie.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/chappie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/chasing-ice.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2673,6 +2747,17 @@
 		"initialSize": 62870,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/christmas-in-connecticut.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/christmas-in-connecticut.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/cinderella.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 556700,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/cinderella.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/cinderella.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3993,6 +4078,17 @@
 		"initialSize": 145412,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/hotel-transylvania.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/hotel-transylvania.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/housebound.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43919,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/housebound.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/housebound.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -8309,6 +8405,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/unfinished-business.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 303214,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/unfinished-business.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/unfinished-business.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/vampire-academy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -9552,6 +9659,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/chappie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11134,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/chappie.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/chappie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/chasing-ice.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -9603,6 +9721,17 @@
 		"initialSize": 7943,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/christmas-in-connecticut.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/christmas-in-connecticut.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/cinderella.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27833,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/cinderella.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/cinderella.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -10857,6 +10986,17 @@
 		"initialSize": 12095,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/hotel-transylvania.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/hotel-transylvania.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/housebound.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3805,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/housebound.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/housebound.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15052,6 +15192,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/unfinished-business.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25683,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/unfinished-business.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/unfinished-business.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/vampire-academy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -16295,6 +16446,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/chappie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31882,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/chappie.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/chappie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/chasing-ice.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -16346,6 +16508,17 @@
 		"initialSize": 19775,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/christmas-in-connecticut.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/christmas-in-connecticut.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/cinderella.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88093,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/cinderella.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/cinderella.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -17600,6 +17773,17 @@
 		"initialSize": 30839,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hotel-transylvania.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hotel-transylvania.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/housebound.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8059,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/housebound.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/housebound.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -21780,6 +21964,17 @@
 		"initialSize": 20695,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/under-the-skin.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/under-the-skin.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/unfinished-business.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72782,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/unfinished-business.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/unfinished-business.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -26955,6 +27150,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2014\/9\/11\/the-captive.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2014\/9\/11\/the-captive.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2014\/9\/11\/tiff-2014-day-eight.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -27774,6 +27978,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/3\/10\/chappie.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/10\/chappie.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/3\/11\/housebound.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/11\/housebound.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2015\/3\/2\/a-girl-walks-home-alone-at-night.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -27801,11 +28023,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/content\/2015\/3\/8\/the-second-exotic-marigold-hotel.html": {
+	"\/_site\/content\/2015\/3\/8\/2015-03-08-the-second-exotic-marigold-hotel.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/8\/the-second-exotic-marigold-hotel.html",
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/8\/2015-03-08-the-second-exotic-marigold-hotel.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/3\/8\/the-second-best-exotic-marigold-hotel.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/8\/the-second-best-exotic-marigold-hotel.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/3\/9\/unfinished-business.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/9\/unfinished-business.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -29770,6 +30010,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/letters\/2013\/11\/20\/living-images.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/letters\/2013\/11\/21\/catching-fire.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/letters\/2013\/11\/21\/catching-fire.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -32285,6 +32534,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/reviews\/current-releases\/page6\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/reviews\/current-releases\/page6\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/reviews\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -32905,7 +33163,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 953899,
+		"initialSize": 509383,
 		"inputAbbreviatedPath": "\/assets\/img\/error\/404-3.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/error\/404-3.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -35013,6 +35271,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/chappie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 231517,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/chappie.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/chappie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/chasing-ice.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -35064,6 +35333,17 @@
 		"initialSize": 62870,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/christmas-in-connecticut.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/christmas-in-connecticut.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/cinderella.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 556700,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/cinderella.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/cinderella.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -36384,6 +36664,17 @@
 		"initialSize": 145412,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/hotel-transylvania.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/hotel-transylvania.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/housebound.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43919,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/housebound.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/housebound.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -40700,6 +40991,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/unfinished-business.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 303214,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/unfinished-business.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/unfinished-business.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/vampire-academy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -41943,6 +42245,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/chappie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11134,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/chappie.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/chappie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/chasing-ice.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -41994,6 +42307,17 @@
 		"initialSize": 7943,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/christmas-in-connecticut.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/christmas-in-connecticut.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/cinderella.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27833,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/cinderella.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/cinderella.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -43248,6 +43572,17 @@
 		"initialSize": 12095,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/hotel-transylvania.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/hotel-transylvania.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/housebound.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3805,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/housebound.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/housebound.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -47443,6 +47778,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/unfinished-business.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25683,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/unfinished-business.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/unfinished-business.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/vampire-academy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -48686,6 +49032,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/chappie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31882,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/chappie.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/chappie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/chasing-ice.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -48737,6 +49094,17 @@
 		"initialSize": 19775,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/christmas-in-connecticut.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/christmas-in-connecticut.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/cinderella.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88093,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/cinderella.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/cinderella.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -49991,6 +50359,17 @@
 		"initialSize": 30839,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/hotel-transylvania.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/hotel-transylvania.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/housebound.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8059,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/housebound.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/housebound.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -54175,6 +54554,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/unfinished-business.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72782,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/unfinished-business.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/unfinished-business.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/vampire-academy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -57585,6 +57975,15 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/config.rb": {
+		"fileType": 131072,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/config.rb",
+		"outputAbbreviatedPath": "\/config.rb",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/css\/404.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -57796,7 +58195,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1233,
+		"initialSize": 15491,
 		"inputAbbreviatedPath": "\/favicon.png",
 		"outputAbbreviatedPath": "\/favicon.png",
 		"outputPathIsOutsideProject": 0,
@@ -59362,12 +59761,21 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb": {
+	"\/Users\/Casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb": {
 		"fileType": 131072,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
-		"outputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
+		"inputAbbreviatedPath": "\/Users\/Casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
+		"outputAbbreviatedPath": "\/Users\/Casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/Casey\/Dropbox (Personal)\/-- Dear Cast and Crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb": {
+		"fileType": 131072,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Casey\/Dropbox (Personal)\/-- Dear Cast and Crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
+		"outputAbbreviatedPath": "\/Users\/Casey\/Dropbox (Personal)\/-- Dear Cast and Crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -60067,7 +60475,7 @@
 			"followForSyntaxChecking": 1,
 			"linkedFileAbbreviatedPath": "\/vendor\/bLazy\/blazy.min.js",
 			"position": 1,
-			"type": 1
+			"type": 0
 			}
 		],
 	"\/js\/build\/app-top.js": [

@@ -1,0 +1,233 @@
+---
+layout: compress
+---
+
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    {% if page.section == "Content" %}<meta property="og:image" content="http://www.dearcastandcrew.com/assets/img/posts/main/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}" />
+    <meta property="og:title" content="{% if page.categories contains "reviews" %}Dear {{ page.addressee }} {{ page.position }} for {{ page.title |upcase }}{% else %}{{ page.title }}{% endif %}" />{% endif %}
+    <title>{% if page.home %}{% else %}{{page.title}} | {%endif %}Dear Cast & Crew{% if page.home %} | Movie Reviews, Essays, and Exchanges{% endif %}</title>
+    <script type="text/javascript" src="http://fast.fonts.net/jsapi/053a7698-a2e7-4a94-b380-2cfed49d680a.js"></script>
+    <link rel="icon" href="/favicon.png" type="image/png">
+    
+    <!-- Analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-31798116-1', 'auto');
+      ga('require', 'linkid', 'linkid.js');
+      ga('require', 'displayfeatures');
+      ga('send', 'pageview');
+    
+    </script>
+    <link href="/assets/css/app.css" rel="stylesheet" />
+    <script type="text/javascript" src="/assets/js/app-top-min.js"></script>
+    
+    <!--Initialize the menu -->
+
+    <script>
+    $(function() {
+      $('nav#menu-left').mmenu({
+      });
+      $("#nav-toggle").click(function(){
+        $('nav#menu-left').css({'display':'block'});
+        $('#nav-header').css({'display':'block'});
+      });
+      $("#mm-blocker").click(function() {
+        $("#my-menu").trigger("close.mm");
+        $('nav#menu-left').css({'display':'none'});
+        $('#nav-header').css({'display':'none'});
+      });
+    });
+		</script>
+
+    <!-- Custom styles for this template -->
+  
+
+    {% case page.section %}
+    {% when 'Content' %}
+    <style>
+    .title-img-fade {
+    background-image: -webkit-linear-gradient(left, 
+        rgba(0,0,0,0.9) 0%, 
+        rgba(0,0,0,0) 20%,
+        rgba(0,0,0,0) 80%,
+        rgba(0,0,0,0.9) 100%
+      ),
+      url('/assets/img/posts/main/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}');
+    background-image: -moz-linear-gradient(left, 
+        rgba(0,0,0,0.9) 0%, 
+        rgba(0,0,0,0) 20%,
+        rgba(0,0,0,0) 80%,
+        rgba(0,0,0,0.9) 100%
+      ),
+      url('/assets/img/posts/main/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}');
+    background-image: -o-linear-gradient(left, 
+        rgba(0,0,0,0.9) 0%, 
+        rgba(0,0,0,0) 20%,
+        rgba(0,0,0,0) 80%,
+        rgba(0,0,0,0.9) 100%
+      ),
+      url('/assets/img/posts/main/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}');
+    background-image: 
+      linear-gradient(left, 
+        rgba(0,0,0,0.9) 0%, 
+        rgba(0,0,0,0) 20%,
+        rgba(0,0,0,0) 80%,
+        rgba(0,0,0,0.9) 100%
+      ),
+      url('/assets/img/posts/main/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}');
+    }
+    .title-img {
+      background-image: url('/assets/img/posts/main/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}');
+    }
+  </style>
+    {% endcase %}
+  </head>
+
+
+  <body>
+{% include left-nav.html %}
+    <div>
+      <div class="container-shadow{% if post.layout == "review" %} review-fix{% endif %}" id="main-container">    
+        {{layout}}{{content}}
+      </div>
+{% include footer.html %}
+    </div>
+  
+  <!-- Search modal overlay -->
+  
+    <div id="search-modal" class="search-modal">
+       <div class="search-head">
+        <div><button class="close-x"></button></div>
+        <div id="search" class="search-form">
+          <form method="get" id="search-form">
+            <input type="text" id="search-query" class="search-query" name="q" placeholder="type to search" autocomplete="off" autofocus>
+          </form>
+        </div>
+      </div>
+      <section id="search-results" class="search-results">
+        <div class="entries">
+        </div>
+      </section>
+      <!-- <script type="text/javascript" src="/js/search.min.js"></script> -->
+      {% raw %}
+      <script id="search-results-template" class="search-results-template" type="text/mustache">
+        {{#entries}}
+          <div class="search-results-article">
+            <a href="{{url}}"><div class="search-image"><img src="/assets/img/posts/thumb-300/{{image}}" /></div>
+            <div class="search-result">
+              <h1 class="search-title">{{title}}</h1>
+              <p class="search-addressee">Dear {{addressee}}, {{position}}</p>
+              <p class="search-author">By {{author}}</p>
+              <!-- <p class="search-date">{{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}</p> -->
+            </div></a>
+          </div>
+        {{/entries}}
+      </script>
+      (% endraw %}
+      
+      <script type="text/javascript">
+        $(function() {
+          $('#search-query').lunrSearch({
+            index:    '/search.json',
+            results:  '#search-results',
+            entries:  '.entries',
+            template: '#search-results-template'
+          });
+        });
+      </script>
+    
+    </div>
+    <script type="text/javascript">
+      var _gauges = _gauges || [];
+      (function() {
+    	if (window.location.hostname == 'localhost') return;
+    	
+        var t   = document.createElement('script');
+        t.type  = 'text/javascript';
+        t.async = true;
+        t.id    = 'gauges-tracker';
+        t.setAttribute('data-site-id', '4e5d0698f5a1f52b46000001');
+        t.src = '//secure.gaug.es/track.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(t, s);
+      })();
+    </script>
+
+<!-- Search --> 
+    <script>
+      function resetForm($form) {
+        $form.find('input:text, input:password, input:file, select, textarea').val('');
+        $form.find('input:radio, input:checkbox')
+        .removeAttr('checked').removeAttr('selected');
+      }
+      $("#search-form").submit(function(e) {
+          e.preventDefault();
+      });
+      $(document).keyup(function(e){
+        if(e.keyCode === 27) {
+          $("#search-modal").css("display","none");
+          $("body").css("overflow","auto");
+          resetForm($('#search'));
+        }
+      });
+      $('#nav-toggle').click(function(){
+        $("#menu-left").trigger("open");
+            $('#nav-button-container').css({'display':'none'});
+            $('#film-info').fadeOut('fast');
+            $('#side-row').fadeOut('fast');
+      });
+      $('#menu-toggle-top').click(function(){
+        $("#menu-left").trigger("open");
+        $('#film-info').fadeOut('fast');
+        $('#side-row').fadeOut('fast');
+      });
+      $("#menu-left")
+       .mmenu()
+       .on(
+          "closed.mm",
+          function()
+          {
+            $('#nav-button-container').fadeIn('slow');
+            $('#film-info').fadeIn('slow');
+            $('#side-row').fadeIn('slow');
+            $('#body-text').waypoint(function(){
+              $('#nav-button-container').css({'display':'none'});
+            });
+          }
+       );
+      $('#side-search-toggle,#footer-search-toggle,#top-search-toggle,#mini-top-search-toggle').click(function(){
+        $("#search-modal").css("display","block");
+        $('#nav-button-container').css({'display':'none'});
+        $("body").css("overflow","hidden");
+      });
+      $('button.close-x').click(function(){
+        $("#search-modal").css("display","none");
+        $("body").css("overflow","auto");
+        resetForm($('#search'));
+      });
+      
+    </script>
+    <script type="text/javascript" src="/assets/js/app-bottom-min.js"></script>
+  	<script>
+    $(window).bind("load", function() {
+      $.getScript("/assets/js/onload.actions-min.js");
+    });
+    Modernizr.addTest('svgasimg', document.implementation.hasFeature('http://www.w3.org/TR/SVG11/feature#Image', '1.1'));
+
+    if (!Modernizr.svgasimg) {
+      $('img[src*="svg"]').attr('src', function() {
+          return $(this).attr('src').replace('.svg', '.png');
+      });
+    }
+    </script>
+  </body>
+</html>

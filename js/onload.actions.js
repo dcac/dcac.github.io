@@ -111,7 +111,7 @@ function winResized() {
   var scrollOffest = ($("#film-info").height()-$("#review-copy").height())+65;
   //alert(scrollOffest);
   
-  // determine if the viewport is higher than the IMB information, and if so, allow the sidebar to fix itself to the top when scrolled to.
+  // determine if the viewport is higher than the IMDB information, and if so, allow the sidebar to fix itself to the top when scrolled to.
   var fixSidebar;
   if ($('#film-info').height() > $.waypoints('viewportHeight')-65){
       fixSidebar = false;

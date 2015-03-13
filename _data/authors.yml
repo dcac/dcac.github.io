@@ -152,8 +152,13 @@ jenns:
 timm:
   name: Tim McEown
   short-name: Tim
+  profiled: true
   email:
   twitter:
   image: timm.jpg
   signature: timm-sig.png
   bio: "Tim  got his film education the old fashioned way—listening to Di Golding tell him what is good. And working in the same video store for a decade or so as well as partnering with her as a summertime review team for CBC radio's All in a Day. Tim is a writer and photographer and aspires to add a third vocation to that list—just for the sake of symmetry. He lives in Toronto with his wife Sarah, and their cat Finian. Tim has had his work published in the New York Times and Readers Digest. Which yes, is still a thing."
+  
+ankitv:
+  name: Ankit Verma
+  name: Ankit Verma

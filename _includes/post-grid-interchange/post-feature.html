@@ -1,0 +1,19 @@
+<div class="large-6 medium-6 columns small-7 home-feature">  
+                <a href="{{ post.url }}">
+                  <div class="post-image">
+                    <img class="img-size" data-interchange="[/assets/img/posts/thumb-300/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}, (default)], [/assets/img/posts/thumb-600/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}, (retina)]" alt="{{ post.title }} Image" />
+                    <noscript><img class="img-size" src="/assets/img/posts/thumb-300/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}" alt="{{ post.title }} Image" /></noscript>
+                    {% if post.categories contains "essays" and post.categories contains "interviews"  %}<div class="corner-interview"></div>{% elsif post.categories contains "lists" %}<div class="corner-list"></div>{% elsif post.categories contains "essays" %}<div class="corner-essay"></div>{% elsif post.categories contains "series-index" %}<div class="corner-series"></div>{% endif %}
+                  </div>
+                </a>
+              </div>
+              <div class="large-6 medium-6 small-5 columnsgems:
+  - jekyll-sitemap">
+                <a href="{{ post.url }}">
+                  <div class="feature-text-home">
+                    <h1>{{ post.title }}</h1>
+                    <h2 class="author">By {{ author.name }}{{ post._ga }}</h2>
+                    <p>{{ post.excerpt }}</p>
+                  </div>
+                </a>
+              </div>
