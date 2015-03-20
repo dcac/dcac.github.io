@@ -2625,6 +2625,10 @@
         <lastmod>2015-03-19T15:19:38-04:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/3/19/the-gunman.html</loc>
+        <lastmod>2015-03-19T23:03:40-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
@@ -2641,7 +2645,7 @@
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/reviews/current-releases/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/dig/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
@@ -2649,27 +2653,19 @@
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/features/series/</loc>
+        <loc>http://www.dearcastandcrew.com/features/essays/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2015-03-19T15:19:38-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/features/essays/</loc>
-        <lastmod>2015-03-13T12:23:42-04:00</lastmod>
+        <lastmod>2015-03-19T23:03:40-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/features/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/features/lists/</loc>
-        <lastmod>2015-03-13T12:23:42-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/reviews/on-video/</loc>
+        <loc>http://www.dearcastandcrew.com/reviews/current-releases/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
@@ -2677,23 +2673,15 @@
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/caseyt/</loc>
+        <loc>http://www.dearcastandcrew.com/reviews/on-video/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/coryh/</loc>
+        <loc>http://www.dearcastandcrew.com/features/lists/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/dig/</loc>
-        <lastmod>2015-03-13T12:23:42-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/writers/kelany/</loc>
-        <lastmod>2015-03-13T12:23:42-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/writers/timm/</loc>
+        <loc>http://www.dearcastandcrew.com/features/series/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
@@ -2701,11 +2689,11 @@
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/caseyt/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/jaredy/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
@@ -2713,11 +2701,27 @@
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/contact/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/timm/</loc>
+        <lastmod>2015-03-13T12:23:42-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/writers/jaredy/</loc>
+        <lastmod>2015-03-13T12:23:42-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/writers/kelany/</loc>
+        <lastmod>2015-03-13T12:23:42-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/writers/coryh/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/privacy/</loc>
+        <lastmod>2015-03-13T12:23:42-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/contact/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
@@ -2743,5 +2747,9 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/the-theory-of-everything-contest.html</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/contests/woman-in-gold-contest.html</loc>
+        <lastmod>2015-03-19T22:35:56-04:00</lastmod>
     </url>
 </urlset>

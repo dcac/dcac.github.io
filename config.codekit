@@ -542,15 +542,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/assets\/css\/app.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/assets\/css\/app.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/assets\/img\/error\/404-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5567,13 +5558,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/posts\/main\/Pitch-Perfect.jpg": {
+	"\/_site\/assets\/img\/posts\/main\/pitch-perfect.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 197253,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/Pitch-Perfect.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/Pitch-Perfect.jpg",
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/pitch-perfect.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/pitch-perfect.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5882,6 +5873,17 @@
 		"initialSize": 220121,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/ruby-sparks.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/ruby-sparks.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/run-all-night.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 573987,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/run-all-night.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/run-all-night.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -7114,6 +7116,28 @@
 		"initialSize": 234603,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-guilt-trip.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-guilt-trip.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-gunman-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115586,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-gunman-contest.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-gunman-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-gunman.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63906,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-gunman.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-gunman.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -8614,6 +8638,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/will-a-female-comedian-ever-be-a-movie-star.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 251078,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/will-a-female-comedian-ever-be-a-movie-star.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/will-a-female-comedian-ever-be-a-movie-star.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/winters-tale-29.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -8665,6 +8700,17 @@
 		"initialSize": 90465,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/wolves.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/wolves.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/woman-in-gold-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97611,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/woman-in-gold-contest.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/woman-in-gold-contest.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -12772,6 +12818,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/run-all-night.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17165,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/run-all-night.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/run-all-night.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/runner-runner.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -13934,6 +13991,17 @@
 		"initialSize": 15586,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-guilt-trip.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-guilt-trip.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/the-gunman.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6775,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-gunman.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-gunman.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15386,6 +15454,17 @@
 		"initialSize": 7245,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/wild.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/wild.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/will-a-female-comedian-ever-be-a-movie-star.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10803,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/will-a-female-comedian-ever-be-a-movie-star.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/will-a-female-comedian-ever-be-a-movie-star.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -19515,6 +19594,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/run-all-night.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51437,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/run-all-night.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/run-all-night.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/runner-runner.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -20699,6 +20789,17 @@
 		"initialSize": 39499,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-guilt-trip.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-guilt-trip.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/the-gunman.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15170,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-gunman.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-gunman.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -22166,6 +22267,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/will-a-female-comedian-ever-be-a-movie-star.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30214,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/will-a-female-comedian-ever-be-a-movie-star.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/will-a-female-comedian-ever-be-a-movie-star.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/winters-tale-29.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -23186,6 +23298,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2012\/4\/18\/edwin-boyd-citizen-gangster.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2012\/4\/19\/titanic-3d.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2012\/4\/19\/titanic-3d.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -27996,6 +28117,51 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/3\/13\/71.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/13\/71.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/3\/13\/CInderella.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/13\/CInderella.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/3\/16\/run-all-night.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/16\/run-all-night.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/3\/18\/will-a-female-comedian-ever-be-a-movie-star.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/18\/will-a-female-comedian-ever-be-a-movie-star.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/3\/19\/the-gunman.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/19\/the-gunman.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2015\/3\/2\/a-girl-walks-home-alone-at-night.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -28023,20 +28189,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/content\/2015\/3\/8\/2015-03-08-the-second-exotic-marigold-hotel.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/8\/2015-03-08-the-second-exotic-marigold-hotel.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/content\/2015\/3\/8\/the-second-best-exotic-marigold-hotel.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/8\/the-second-best-exotic-marigold-hotel.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/3\/8\/the-second-exotic-marigold-hotel.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/8\/the-second-exotic-marigold-hotel.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -28095,6 +28261,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/contests\/the-gunman-contest.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/contests\/the-gunman-contest.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/contests\/the-imitation-game-contest.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -28109,6 +28284,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/contests\/the-theory-of-everything-contest.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/contests\/woman-in-gold-contest.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/contests\/woman-in-gold-contest.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -33128,6 +33312,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/writers\/timm\/page2\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/writers\/timm\/page2\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/assets\/css\/app.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -33163,7 +33356,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 509383,
+		"initialSize": 953899,
 		"inputAbbreviatedPath": "\/assets\/img\/error\/404-3.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/error\/404-3.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -38153,13 +38346,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/posts\/main\/Pitch-Perfect.jpg": {
+	"\/assets\/img\/posts\/main\/pitch-perfect.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 197253,
-		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/Pitch-Perfect.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/Pitch-Perfect.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/pitch-perfect.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/pitch-perfect.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -38468,6 +38661,17 @@
 		"initialSize": 220121,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/ruby-sparks.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/ruby-sparks.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/run-all-night.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 573987,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/run-all-night.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/run-all-night.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -39700,6 +39904,28 @@
 		"initialSize": 234603,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-guilt-trip.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-guilt-trip.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/the-gunman-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115586,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-gunman-contest.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-gunman-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/the-gunman.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63906,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-gunman.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-gunman.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -41200,6 +41426,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/will-a-female-comedian-ever-be-a-movie-star.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 251078,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/will-a-female-comedian-ever-be-a-movie-star.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/will-a-female-comedian-ever-be-a-movie-star.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/winters-tale-29.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -41251,6 +41488,17 @@
 		"initialSize": 90465,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/wolves.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/wolves.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/woman-in-gold-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97611,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/woman-in-gold-contest.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/woman-in-gold-contest.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -45358,6 +45606,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/run-all-night.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17165,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/run-all-night.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/run-all-night.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/runner-runner.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -46520,6 +46779,17 @@
 		"initialSize": 15586,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-guilt-trip.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-guilt-trip.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/the-gunman.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6775,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-gunman.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-gunman.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -47972,6 +48242,17 @@
 		"initialSize": 7245,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/wild.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/wild.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/will-a-female-comedian-ever-be-a-movie-star.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10803,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/will-a-female-comedian-ever-be-a-movie-star.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/will-a-female-comedian-ever-be-a-movie-star.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -52101,6 +52382,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/run-all-night.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51437,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/run-all-night.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/run-all-night.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/runner-runner.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -53285,6 +53577,17 @@
 		"initialSize": 39499,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-guilt-trip.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-guilt-trip.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/the-gunman.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15170,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-gunman.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-gunman.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -54748,6 +55051,17 @@
 		"initialSize": 16588,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/wild.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/wild.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/will-a-female-comedian-ever-be-a-movie-star.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30214,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/will-a-female-comedian-ever-be-a-movie-star.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/will-a-female-comedian-ever-be-a-movie-star.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -57975,15 +58289,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/config.rb": {
-		"fileType": 131072,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/config.rb",
-		"outputAbbreviatedPath": "\/config.rb",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/css\/404.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -58195,7 +58500,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 15491,
+		"initialSize": 1233,
 		"inputAbbreviatedPath": "\/favicon.png",
 		"outputAbbreviatedPath": "\/favicon.png",
 		"outputPathIsOutsideProject": 0,
@@ -59761,21 +60066,12 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/Users\/Casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb": {
+	"\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb": {
 		"fileType": 131072,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/Casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
-		"outputAbbreviatedPath": "\/Users\/Casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/Users\/Casey\/Dropbox (Personal)\/-- Dear Cast and Crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb": {
-		"fileType": 131072,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/Casey\/Dropbox (Personal)\/-- Dear Cast and Crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
-		"outputAbbreviatedPath": "\/Users\/Casey\/Dropbox (Personal)\/-- Dear Cast and Crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
+		"inputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
+		"outputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
