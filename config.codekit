@@ -3622,6 +3622,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/get-hard.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 303667,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/get-hard.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/get-hard.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/getaway.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4289,6 +4300,28 @@
 		"initialSize": 149445,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/insurgent-contest.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/insurgent-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/insurgent.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72955,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/insurgent.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/insurgent.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/insurgents-big-gay-and-pansexual-metaphor.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80274,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/insurgents-big-gay-and-pansexual-metaphor.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/insurgents-big-gay-and-pansexual-metaphor.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -8286,6 +8319,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/tracks.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 493191,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tracks.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tracks.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/trading-places.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -8961,7 +9005,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 9148,
+		"initialSize": 14412,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/71.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/71.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -11241,6 +11285,28 @@
 		"initialSize": 12211,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/insidious-chapter-2.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/insidious-chapter-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/insurgent.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7334,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/insurgent.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/insurgent.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/insurgents-big-gay-and-pansexual-metaphor.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5672,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/insurgents-big-gay-and-pansexual-metaphor.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/insurgents-big-gay-and-pansexual-metaphor.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15128,6 +15194,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/tracks.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21497,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/tracks.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/tracks.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/trading-places.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -18061,6 +18138,28 @@
 		"initialSize": 24246,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/insidious-chapter-2.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/insidious-chapter-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/insurgent.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17157,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/insurgent.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/insurgent.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/insurgents-big-gay-and-pansexual-metaphor.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13206,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/insurgents-big-gay-and-pansexual-metaphor.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/insurgents-big-gay-and-pansexual-metaphor.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -21933,6 +22032,17 @@
 		"initialSize": 26656,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/touchy-feely.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/touchy-feely.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/tracks.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69665,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/tracks.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/tracks.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -28167,6 +28277,42 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/2\/a-girl-walks-home-alone-at-night.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/3\/21\/insurgent.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/21\/insurgent.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/3\/23\/tracks.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/23\/tracks.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/3\/24\/insurgents-big-gay-and-pansexual-metaphor.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/24\/insurgents-big-gay-and-pansexual-metaphor.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/3\/27\/get-hard.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/27\/get-hard.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -36410,6 +36556,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/get-hard.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 303667,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/get-hard.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/get-hard.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/getaway.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -37077,6 +37234,28 @@
 		"initialSize": 149445,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/insurgent-contest.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/insurgent-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/insurgent.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72955,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/insurgent.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/insurgent.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/insurgents-big-gay-and-pansexual-metaphor.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80274,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/insurgents-big-gay-and-pansexual-metaphor.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/insurgents-big-gay-and-pansexual-metaphor.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -38346,13 +38525,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/posts\/main\/pitch-perfect.jpg": {
+	"\/assets\/img\/posts\/main\/Pitch-Perfect.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 197253,
-		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/pitch-perfect.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/pitch-perfect.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/Pitch-Perfect.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/Pitch-Perfect.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -41070,6 +41249,17 @@
 		"initialSize": 101097,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/touchy-feely.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/touchy-feely.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/tracks.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 493191,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/tracks.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/tracks.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -44029,6 +44219,28 @@
 		"initialSize": 12211,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/insidious-chapter-2.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/insidious-chapter-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/insurgent.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7334,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/insurgent.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/insurgent.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/insurgents-big-gay-and-pansexual-metaphor.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5672,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/insurgents-big-gay-and-pansexual-metaphor.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/insurgents-big-gay-and-pansexual-metaphor.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -47916,6 +48128,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/tracks.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21497,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/tracks.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/tracks.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/trading-places.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -50849,6 +51072,28 @@
 		"initialSize": 24246,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/insidious-chapter-2.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/insidious-chapter-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/insurgent.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17157,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/insurgent.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/insurgent.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/insurgents-big-gay-and-pansexual-metaphor.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13206,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/insurgents-big-gay-and-pansexual-metaphor.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/insurgents-big-gay-and-pansexual-metaphor.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -54721,6 +54966,17 @@
 		"initialSize": 26656,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/touchy-feely.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/touchy-feely.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/tracks.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69665,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/tracks.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/tracks.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

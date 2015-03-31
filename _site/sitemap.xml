@@ -2647,6 +2647,10 @@
         <lastmod>2015-03-27T15:00:41-04:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/3/30/home.html</loc>
+        <lastmod>2015-03-30T20:47:29-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
@@ -2676,7 +2680,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2015-03-27T15:00:41-04:00</lastmod>
+        <lastmod>2015-03-30T20:47:29-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/features/</loc>
@@ -2769,9 +2773,5 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/woman-in-gold-contest.html</loc>
         <lastmod>2015-03-19T22:35:56-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
-        <lastmod>2015-03-19T11:56:45-04:00</lastmod>
     </url>
 </urlset>
