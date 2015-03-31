@@ -10,7 +10,7 @@ comments: true
 categories:
   - features
   - essays
-tags: [comdey,actors,Kristin Wiig,Melissa McCarthy]
+tags: [comdey,sexism,actors,Kristin Wiig,Melissa McCarthy]
 ---
 
 Sometime around the year 2000, I had a sad epiphany. While talking movies with some friends, I realized there was no female equivalent to the big comedy stars of the day: Jim Carrey, Mike Myers, Adam Sandler, Eddie Murphy, etc. The only counterexample we could think of was Cameron Diaz. But other than _There’s Something About Mary,_ there wasn’t much to base that argument on.
