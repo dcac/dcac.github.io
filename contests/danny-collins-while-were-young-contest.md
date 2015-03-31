@@ -17,7 +17,7 @@ We're giving away **last-minute double passes** to two movies: **DANNY COLLINS**
 
 Here's where we have **tickets for this WEDNESDAY, APRIL 1ST.** Click below to enter:
 
-**Danny Collins**
+**Danny Collins**  
 Edmonton  
 Calgary  
 Ottawa  
