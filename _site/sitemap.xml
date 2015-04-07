@@ -2660,7 +2660,11 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2015/4/5/pretend-were-kissing.html</loc>
-        <lastmod>2015-04-05T06:44:20-04:00</lastmod>
+        <lastmod>2015-04-05T13:16:03-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/4/7/furious-7.html</loc>
+        <lastmod>2015-04-07T05:36:32-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
@@ -2698,7 +2702,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2015-04-05T06:44:20-04:00</lastmod>
+        <lastmod>2015-04-07T05:36:32-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/features/</loc>
@@ -2791,5 +2795,9 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/woman-in-gold-contest.html</loc>
         <lastmod>2015-03-19T22:35:56-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
+        <lastmod>2015-03-19T11:56:45-04:00</lastmod>
     </url>
 </urlset>
