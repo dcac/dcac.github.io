@@ -524,15 +524,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/404.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/404.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/about\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1950,6 +1941,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/a-conversation-with-matt-sadowski.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 125179,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/a-conversation-with-matt-sadowski.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/a-conversation-with-matt-sadowski.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/a-discussion-with-jake-paltrow-director.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2896,6 +2898,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/danny-collins-while-were-young-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 142037,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/danny-collins-while-were-young-contest.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/danny-collins-while-were-young-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/dark-shadows.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3589,6 +3602,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/furious-7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 122372,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/furious-7.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/furious-7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/fury.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4051,6 +4075,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/home.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 132982,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/home.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/home.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/hope-springs.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4366,6 +4401,17 @@
 		"initialSize": 131693,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/is-oscarsowhite-or-is-oscarsowrong.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/is-oscarsowhite-or-is-oscarsowrong.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/it-follows.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 271515,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/it-follows.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/it-follows.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5591,13 +5637,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/posts\/main\/pitch-perfect.jpg": {
+	"\/_site\/assets\/img\/posts\/main\/Pitch-Perfect.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 197253,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/pitch-perfect.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/pitch-perfect.jpg",
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/Pitch-Perfect.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/Pitch-Perfect.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5642,6 +5688,17 @@
 		"initialSize": 151371,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/premium-rush.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/premium-rush.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/pretend-were-kissing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100779,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/pretend-were-kissing.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/pretend-were-kissing.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -8759,6 +8816,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/women-dream-smaller.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 142942,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/women-dream-smaller.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/women-dream-smaller.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/world-war-z.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -9005,7 +9073,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 14412,
+		"initialSize": 9148,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/71.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/71.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -9041,6 +9109,17 @@
 		"initialSize": 10815,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/a-conversation-with-jess-gonchor-production-designer.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/a-conversation-with-jess-gonchor-production-designer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/a-conversation-with-matt-sadowski.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13854,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/a-conversation-with-matt-sadowski.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/a-conversation-with-matt-sadowski.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -10596,6 +10675,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/furious-7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7281,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/furious-7.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/furious-7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/fury.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -10625,6 +10715,17 @@
 		"initialSize": 15135,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/gangster-squad.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/gangster-squad.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/get-hard.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15116,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/get-hard.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/get-hard.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -11047,6 +11148,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/home.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10349,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/home.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/home.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/hope-springs.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -11351,6 +11463,17 @@
 		"initialSize": 10371,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/is-oscarsowhite-or-is-oscarsowrong.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/is-oscarsowhite-or-is-oscarsowrong.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/it-follows.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9928,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/it-follows.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/it-follows.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -12616,6 +12739,17 @@
 		"initialSize": 17024,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/premium-rush.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/premium-rush.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/pretend-were-kissing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8317,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/pretend-were-kissing.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/pretend-were-kissing.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15601,6 +15735,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/women-dream-smaller.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11641,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/women-dream-smaller.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/women-dream-smaller.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/world-war-z.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15883,6 +16028,17 @@
 		"initialSize": 28957,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/a-conversation-with-jess-gonchor-production-designer.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/a-conversation-with-jess-gonchor-production-designer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/a-conversation-with-matt-sadowski.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35190,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/a-conversation-with-matt-sadowski.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/a-conversation-with-matt-sadowski.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -17449,6 +17605,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/furious-7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17851,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/furious-7.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/furious-7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/fury.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -17478,6 +17645,17 @@
 		"initialSize": 40649,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/gangster-squad.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/gangster-squad.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/get-hard.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46177,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/get-hard.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/get-hard.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -17900,6 +18078,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/home.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26096,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/home.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/home.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/hope-springs.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -18204,6 +18393,17 @@
 		"initialSize": 25087,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/is-oscarsowhite-or-is-oscarsowrong.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/is-oscarsowhite-or-is-oscarsowrong.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/it-follows.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35232,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/it-follows.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/it-follows.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -19425,6 +19625,17 @@
 		"initialSize": 39731,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/premium-rush.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/premium-rush.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/pretend-were-kissing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19971,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/pretend-were-kissing.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/pretend-were-kissing.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -22439,6 +22650,17 @@
 		"initialSize": 13652,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/wolves.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/wolves.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/women-dream-smaller.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27824,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/women-dream-smaller.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/women-dream-smaller.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -28317,6 +28539,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/3\/30\/home.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/30\/home.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/3\/31\/women-dream-smaller.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/3\/31\/women-dream-smaller.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2015\/3\/4\/the-revolution-is-upon-us.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -28362,6 +28602,42 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/4\/2\/it-follows.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/4\/2\/it-follows.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/4\/5\/pretend-were-kissing.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/4\/5\/pretend-were-kissing.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/4\/7\/furious-7.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/4\/7\/furious-7.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/4\/8\/a-conversation-with-matt-sadowski.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/4\/8\/a-conversation-with-matt-sadowski.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/contests\/71-contest.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -28385,6 +28661,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/contests\/black-or-white-contest.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/contests\/danny-collins-while-were-young-contest.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/contests\/danny-collins-while-were-young-contest.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -33107,6 +33392,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/reviews\/page22\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/reviews\/page22\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/reviews\/page3\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -33440,6 +33734,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/writers\/kelany\/page2\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/writers\/kelany\/page2\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/writers\/natm\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -33502,7 +33805,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 953899,
+		"initialSize": 509383,
 		"inputAbbreviatedPath": "\/assets\/img\/error\/404-3.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/error\/404-3.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -34884,6 +35187,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/a-conversation-with-matt-sadowski.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 125179,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/a-conversation-with-matt-sadowski.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/a-conversation-with-matt-sadowski.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/a-discussion-with-jake-paltrow-director.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -35830,6 +36144,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/danny-collins-while-were-young-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 142037,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/danny-collins-while-were-young-contest.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/danny-collins-while-were-young-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/dark-shadows.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -36523,6 +36848,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/furious-7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 122372,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/furious-7.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/furious-7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/fury.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -36985,6 +37321,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/home.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 132982,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/home.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/home.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/hope-springs.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -37300,6 +37647,17 @@
 		"initialSize": 131693,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/is-oscarsowhite-or-is-oscarsowrong.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/is-oscarsowhite-or-is-oscarsowrong.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/it-follows.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 271515,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/it-follows.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/it-follows.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -38576,6 +38934,17 @@
 		"initialSize": 151371,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/premium-rush.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/premium-rush.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/pretend-were-kissing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100779,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/pretend-were-kissing.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/pretend-were-kissing.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -41693,6 +42062,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/women-dream-smaller.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 142942,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/women-dream-smaller.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/women-dream-smaller.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/world-war-z.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -41975,6 +42355,17 @@
 		"initialSize": 10815,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/a-conversation-with-jess-gonchor-production-designer.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/a-conversation-with-jess-gonchor-production-designer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/a-conversation-with-matt-sadowski.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13854,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/a-conversation-with-matt-sadowski.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/a-conversation-with-matt-sadowski.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -43530,6 +43921,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/furious-7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7281,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/furious-7.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/furious-7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/fury.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -43559,6 +43961,17 @@
 		"initialSize": 15135,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/gangster-squad.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/gangster-squad.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/get-hard.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15116,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/get-hard.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/get-hard.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -43981,6 +44394,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/home.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10349,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/home.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/home.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/hope-springs.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -44285,6 +44709,17 @@
 		"initialSize": 10371,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/is-oscarsowhite-or-is-oscarsowrong.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/is-oscarsowhite-or-is-oscarsowrong.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/it-follows.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9928,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/it-follows.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/it-follows.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -45550,6 +45985,17 @@
 		"initialSize": 17024,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/premium-rush.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/premium-rush.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/pretend-were-kissing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8317,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/pretend-were-kissing.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/pretend-were-kissing.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -48535,6 +48981,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/women-dream-smaller.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11641,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/women-dream-smaller.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/women-dream-smaller.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/world-war-z.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -48817,6 +49274,17 @@
 		"initialSize": 28957,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/a-conversation-with-jess-gonchor-production-designer.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/a-conversation-with-jess-gonchor-production-designer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/a-conversation-with-matt-sadowski.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35190,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/a-conversation-with-matt-sadowski.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/a-conversation-with-matt-sadowski.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -50383,6 +50851,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/furious-7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17851,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/furious-7.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/furious-7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/fury.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -50412,6 +50891,17 @@
 		"initialSize": 40649,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/gangster-squad.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/gangster-squad.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/get-hard.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46177,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/get-hard.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/get-hard.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -50834,6 +51324,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/home.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26096,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/home.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/home.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/hope-springs.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -51138,6 +51639,17 @@
 		"initialSize": 25087,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/is-oscarsowhite-or-is-oscarsowrong.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/is-oscarsowhite-or-is-oscarsowrong.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/it-follows.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35232,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/it-follows.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/it-follows.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -52359,6 +52871,17 @@
 		"initialSize": 39731,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/premium-rush.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/premium-rush.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/pretend-were-kissing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19971,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/pretend-were-kissing.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/pretend-were-kissing.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -55373,6 +55896,17 @@
 		"initialSize": 13652,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/wolves.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/wolves.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/women-dream-smaller.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27824,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/women-dream-smaller.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/women-dream-smaller.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -58545,6 +59079,15 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/config.rb": {
+		"fileType": 131072,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/config.rb",
+		"outputAbbreviatedPath": "\/config.rb",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/css\/404.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -58756,7 +59299,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1233,
+		"initialSize": 15491,
 		"inputAbbreviatedPath": "\/favicon.png",
 		"outputAbbreviatedPath": "\/favicon.png",
 		"outputPathIsOutsideProject": 0,
@@ -60322,12 +60865,12 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb": {
+	"\/Users\/Casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb": {
 		"fileType": 131072,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
-		"outputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
+		"inputAbbreviatedPath": "\/Users\/Casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
+		"outputAbbreviatedPath": "\/Users\/Casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
