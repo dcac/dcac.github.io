@@ -2686,7 +2686,11 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2015/4/15/down-here.html</loc>
-        <lastmod>2015-04-15T14:36:36-04:00</lastmod>
+        <lastmod>2015-04-15T16:33:48-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/4/16/last-nights.html</loc>
+        <lastmod>2015-04-16T11:38:07-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
@@ -2728,7 +2732,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2015-04-15T14:36:36-04:00</lastmod>
+        <lastmod>2015-04-16T11:38:07-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/features/</loc>
@@ -2824,6 +2828,6 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
-        <lastmod>2015-03-29T08:57:00-04:00</lastmod>
+        <lastmod>2015-04-08T14:38:42-04:00</lastmod>
     </url>
 </urlset>
