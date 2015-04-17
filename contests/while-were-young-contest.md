@@ -15,7 +15,7 @@ addressee:
 
 Great news! The new Ben Stiller and Naomi Watts film **WHILE WE'RE YOUNG** is expanding to theatres across Canada!
 
-Enter below to **win a pair of tickets to the advance screening** in the following cities:
+Enter below to **win a pair of tickets** to the advance screening **Wednesday, April 22nd** in the following cities:
 
 **Calgary**  
 **Edmonton**  

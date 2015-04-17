@@ -10,7 +10,7 @@ comments: true
 categories:
   - features
   - interviews
-tags: [Roger Deakins,Ridley Scott, interview,director,writer,writing,sci-fi]
+tags: [Roger Deakins,Denis Villeneuve,Prisoners,Enemy,Ridley Scott, interview,director,writer,writing,sci-fi]
 ---
 On the day _Sicario_ was announced as part of the 2015 Festival de Cannes’ official competition, C. Redmond speaks with the incredible French-Canadian director about his chances of winning, maintaining his signature in Hollywood, and the upcoming _Blade Runner_ prequel. 
 
@@ -19,7 +19,6 @@ On the day _Sicario_ was announced as part of the 2015 Festival de Cannes’ off
 It’s the biggest honour – it’s a massive honour for me to be part of the competition this year. Cannes is the Mecca of cinema. To see the lineup, I go there with humility because just to be part of that lineup I’m already very proud, and grateful for the invitation.
 
 **You kind of got your start at Cannes. You worked your way from the Director’s Fortnight, and then Un Certain Regard. Did you feel it was almost inevitable that you would someday have a film in competition, or are you surprised?**
-
 
 It was my dream but sometimes you feel like dreams are fading because more and more I was making movies in America. So I thought I was going away from that world of film festivals, and right now this movie that was produced in Los Angeles is a nice compliment because it’s very important for me to keep my identity as a filmmaker when I’m shooting abroad. Just to be able to keep my point of view, to stay myself. And the fact that they are inviting me, they recognize the fact that I was able to protect my identity as a filmmaker in another system of production. That for me is a big compliment.
 
