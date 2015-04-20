@@ -31,6 +31,7 @@ layout: default
           </div>
         </div>
       </section>
+        {% include latest-articles.html %}
       {% if page.comments %}{% include disqus.html %}{% endif %}
       <div class="post large-4 medium-4 columns" style="display:none;">
         {% assign author = site.data.authors[page.author] %}
