@@ -10,6 +10,7 @@ comments: true
 categories:
   - features
   - interviews
+  - essays
 tags: [Romance, interview,director,writer,writing]
 ---
 **Di Golding talks to _Pretend We’re Kissing_ writer/director Matt Sadowski  about the challenges of making a “non-rom-com” and how to film a perfectly awkward sex scene.**

@@ -48,7 +48,7 @@ home_feature_display: false
           {% endfor %}
           {% for post in site.categories['features'] limit:1 offset:offsetnum %}
           {% assign author = site.data.authors[post.author] %}
-            <div class="row">
+            <div class="row home-feature-container">
               {% include post-grid/post-feature.html %}
             </div>
             <div class="row">

@@ -10,6 +10,7 @@ comments: true
 categories:
   - features
   - interviews
+  - essays
 tags: [Roger Deakins,Denis Villeneuve,Prisoners,Enemy,Ridley Scott, interview,director,writer,writing,sci-fi]
 ---
 On the day _Sicario_ was announced as part of the 2015 Festival de Cannes’ official competition, C. Redmond speaks with the incredible French-Canadian director about his chances of winning, maintaining his signature in Hollywood, and the upcoming _Blade Runner_ sequel. 
