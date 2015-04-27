@@ -19,7 +19,7 @@ tags:
 ---
 In some ways your book _Far From The Madding Crowd_ could stand as a proto-feminist manifesto. In other ways, important ways, it is an antecedent to some of the worst melodrama know to humanity. That the two things come together so artlessly in the 2015 film adaptation of your novel is unfortunate. 
 
-This iteration of _Far From The Madding Crowd_ begins well. Your awkwardly named protagonist, Bathsheba Everdene, is fiercely independent and, thanks to a timely inheritance from a doting uncle, beholden to no one—thanks to a timely inheritance form a doting uncle. For a woman to be propertied and untethered to any man was a rare circumstance at the end of the 19th Century. 
+This iteration of _Far From The Madding Crowd_ begins well. Your awkwardly named protagonist, Bathsheba Everdene, is fiercely independent and, thanks to a timely inheritance from a doting uncle, beholden to no one. For a woman to be propertied and untethered to any man was a rare circumstance at the end of the 19th Century. 
 
 Unfortunately, the rest of the story is a tangled web of contrivance involving three different Harlequin Romance archetypes. The quiet, self assured cowboy (in this case a shepherd played by Matthias Schoenaerts) the moneyed but damaged bachelor—Michael Sheen, of course—and even a faithless cad of a soldier, played by Tom Sturridge. As the story progresses it becomes hopelessly, and pointlessly, labyrinthine. A film that could have been a fascinating examination of class and gender in Victorian England devolves into a series of romantic mishaps. 
 
