@@ -2699,6 +2699,10 @@
         <lastmod>2015-04-21T22:54:59-04:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/4/20/true-story.html</loc>
+        <lastmod>2015-04-27T10:06:30-04:00</lastmod>
+    </url>
+    <url>
         <loc>
             http://www.dearcastandcrew.com/content/2015/4/22/superman-v-star-wars-the-blockbuster-awakens.html
         </loc>
@@ -2708,7 +2712,11 @@
         <loc>
             http://www.dearcastandcrew.com/content/2015/4/27/far-from-the-madding-crowd.html
         </loc>
-        <lastmod>2015-04-27T09:59:23-04:00</lastmod>
+        <lastmod>2015-04-27T13:36:48-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/4/28/unfriended.html</loc>
+        <lastmod>2015-04-28T14:53:11-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
@@ -2750,7 +2758,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2015-04-27T09:59:23-04:00</lastmod>
+        <lastmod>2015-04-28T14:53:11-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/features/</loc>
@@ -2847,9 +2855,5 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/while-were-young-contest.html</loc>
         <lastmod>2015-04-20T11:55:41-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
-        <lastmod>2015-04-21T23:05:35-04:00</lastmod>
     </url>
 </urlset>
