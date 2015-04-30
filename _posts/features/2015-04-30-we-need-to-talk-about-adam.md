@@ -5,6 +5,7 @@ image: we-need-to-talk-about-adam.jpg
 title: "We Need to Talk About Adam"
 excerpt: "If you're still a fan of Adam Sandler, the joke's on you. Di Golding gives the man-child's fans an overdue spanking."
 author: dig
+addressee: "Adam Sandler Fans"
 comments: true
 categories:
   - features
