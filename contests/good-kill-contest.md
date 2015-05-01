@@ -15,7 +15,7 @@ addressee:
 
 Winning isn't just good - it's great! And we're **giving away tickets** to see the new movie starring Ethan Hawk - **GOOD KILL**.
 
-Screening take place in the following cities on **Thursday, May 14th**:
+Screenings take place in the following cities on **Thursday, May 14th**:
 
 **Toronto**  
 **Vancouver**
