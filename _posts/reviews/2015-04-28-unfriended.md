@@ -14,7 +14,7 @@ addressee: "John McAlary"
 position: "Casting Director"
 split_name: true
 tags: 
-  - ahorror
+  - horror
   - thriller
   - facebook
   - internet
