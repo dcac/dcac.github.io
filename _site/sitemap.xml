@@ -2751,7 +2751,11 @@
         <lastmod>2015-04-20T11:55:41-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/reviews/current-releases/</loc>
+        <loc>http://www.dearcastandcrew.com/contests/good-kill-contest.html</loc>
+        <lastmod>2015-05-01T11:10:38-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/writers/christopherr/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
@@ -2759,7 +2763,7 @@
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/features/series/</loc>
+        <loc>http://www.dearcastandcrew.com/features/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
@@ -2767,11 +2771,11 @@
         <lastmod>2015-04-30T15:29:09-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/features/</loc>
+        <loc>http://www.dearcastandcrew.com/features/series/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/features/essays/</loc>
+        <loc>http://www.dearcastandcrew.com/reviews/streaming/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
@@ -2783,7 +2787,7 @@
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/reviews/streaming/</loc>
+        <loc>http://www.dearcastandcrew.com/features/essays/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
@@ -2791,7 +2795,7 @@
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/christopherr/</loc>
+        <loc>http://www.dearcastandcrew.com/reviews/current-releases/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
@@ -2861,5 +2865,9 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/while-were-young-contest.html</loc>
         <lastmod>2015-04-20T11:55:41-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
+        <lastmod>2015-04-21T23:05:35-04:00</lastmod>
     </url>
 </urlset>
