@@ -2726,13 +2726,13 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2015/5/1/age-of-adaline.html</loc>
-        <lastmod>2015-05-01T14:26:25-04:00</lastmod>
+        <lastmod>2015-05-01T16:01:42-04:00</lastmod>
     </url>
     <url>
         <loc>
-            http://www.dearcastandcrew.com/content/2015/5/1/age-of-adaline%20(Di%20Golding&apos;s%20conflicted%20copy%202015-05-01).html
+            http://www.dearcastandcrew.com/content/2015/5/5/going-clear-scientology-and-the-prison-of-belief.html
         </loc>
-        <lastmod>2015-05-01T14:23:29-04:00</lastmod>
+        <lastmod>2015-05-05T13:45:36-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
@@ -2778,7 +2778,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2015-05-01T14:26:25-04:00</lastmod>
+        <lastmod>2015-05-05T13:45:36-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/features/series/</loc>
@@ -2875,5 +2875,9 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/while-were-young-contest.html</loc>
         <lastmod>2015-04-20T11:55:41-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
+        <lastmod>2015-04-21T23:05:35-04:00</lastmod>
     </url>
 </urlset>
