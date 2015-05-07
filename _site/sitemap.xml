@@ -160,7 +160,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2012/5/11/the-avengers.html</loc>
-        <lastmod>2015-03-13T12:23:42-04:00</lastmod>
+        <lastmod>2015-05-06T14:36:54-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2012/5/14/downhill-racer.html</loc>
@@ -2735,6 +2735,10 @@
         <lastmod>2015-05-05T13:45:36-04:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/5/7/the-avengers-age-of-ultron.html</loc>
+        <lastmod>2015-05-07T15:08:26-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
         <lastmod>2015-04-20T11:55:41-04:00</lastmod>
     </url>
@@ -2778,7 +2782,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2015-05-05T13:45:36-04:00</lastmod>
+        <lastmod>2015-05-07T15:08:26-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/features/series/</loc>
@@ -2875,9 +2879,5 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/while-were-young-contest.html</loc>
         <lastmod>2015-04-20T11:55:41-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
-        <lastmod>2015-04-21T23:05:35-04:00</lastmod>
     </url>
 </urlset>
