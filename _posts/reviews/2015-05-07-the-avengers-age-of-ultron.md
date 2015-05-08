@@ -66,5 +66,5 @@ But, hey, don’t let me ruin the 2012 afterglow. I still enjoyed the movie. Whe
 I got [Steven Sommers](http://www.imdb.com/title/tt1046173/) and [Michael Bay](http://www.imdb.com/title/tt0418279/?ref_=nv_sr_2).
 
 {% contentfor postscript %}
-*I’ll take the liberty here to jump forward a year in time to tell your 32-year old self that you _should_ be excited at the prospect of seeing a super hero movie where the heroes actually _save_ people. In what might be considered cinematic F-U [to Zack Snyder’s _Man of Steel_](http://www.dearcastandcrew.com/content/2013/6/14/man-of-steel.html), Whedon goes out of his way to show various Avengers take the time to bring ordinary folk to safety as the battle rages on.
+*I’ll take the liberty here to jump forward a year in time to tell your 32-year old self that you _should_ be excited at the prospect of seeing a super hero movie where the heroes actually _save_ people. In what might be considered a cinematic F-U [to Zack Snyder’s _Man of Steel_](http://www.dearcastandcrew.com/content/2013/6/14/man-of-steel.html), Whedon goes out of his way to show various Avengers take the time to bring ordinary folk to safety as the battle rages on.
 {% endcontentfor %}

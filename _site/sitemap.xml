@@ -2736,13 +2736,13 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2015/5/7/the-avengers-age-of-ultron.html</loc>
-        <lastmod>2015-05-07T15:08:26-04:00</lastmod>
+        <lastmod>2015-05-07T21:58:07-04:00</lastmod>
     </url>
     <url>
         <loc>
             http://www.dearcastandcrew.com/content/2015/5/7/the-superhero-craze-isnt-superficial.html
         </loc>
-        <lastmod>2015-05-07T16:36:37-04:00</lastmod>
+        <lastmod>2015-05-07T21:57:23-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
@@ -2775,7 +2775,7 @@
         <lastmod>2015-05-01T11:31:22-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/christopherr/</loc>
+        <loc>http://www.dearcastandcrew.com/reviews/current-releases/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
@@ -2788,14 +2788,14 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2015-05-07T16:36:37-04:00</lastmod>
+        <lastmod>2015-05-07T21:58:07-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/features/series/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/reviews/streaming/</loc>
+        <loc>http://www.dearcastandcrew.com/features/essays/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
@@ -2807,7 +2807,7 @@
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/features/essays/</loc>
+        <loc>http://www.dearcastandcrew.com/reviews/streaming/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
@@ -2815,7 +2815,7 @@
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/reviews/current-releases/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/christopherr/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
@@ -2827,7 +2827,11 @@
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/kelany/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/</loc>
+        <lastmod>2015-03-13T12:23:42-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/writers/natm/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
@@ -2835,15 +2839,11 @@
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/kelany/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/writers/jaredy/</loc>
-        <lastmod>2015-03-13T12:23:42-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/writers/natm/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
@@ -2861,6 +2861,10 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/insurgent-contest.html</loc>
         <lastmod>2015-04-20T11:55:41-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/contests/love-and-mercy-contest.html</loc>
+        <lastmod>2015-05-07T23:10:18-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/mortdecai-contest.html</loc>

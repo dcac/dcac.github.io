@@ -16,7 +16,7 @@ One of the most prevalent (and lazy) criticisms of the current spate of superher
 
 The problem with this particular criticism is that it is demonstrably wrong. It is so clearly incorrect that I am often baffled at how people who seem perceptive and well intentioned become so vexed that they lose the use of their critical faculties [(like this guy)](http://www.theguardian.com/commentisfree/2015/may/04/are-the-avengers-really-saving-the-world-if-the-sequels-are-inevitable).
 
-[_Avengers: Age of Ultron_](http://www.dearcastandcrew.com/content/2015/5/7/the-avengers-age-of-ultron.html), [_Captain America: The Winter Soldier_](http://www.dearcastandcrew.com/content/2014/4/4/captain-america-the-winter-soldier.html)or any of the other colon-ridden movies are not (a.) great art or (b.) without strong profit motive. But then again you could say that about almost all of culture since we first decided to tell stories around a campfire. You can, however, make distinctions about good and bad, and those distinctions have nothing to do with the box office returns a particular movie, or set of movies, generates (if they did then Michael Bay would be considered an auteur, and no one wants to live in that universe).
+[_Avengers: Age of Ultron_](http://www.dearcastandcrew.com/content/2015/5/7/the-avengers-age-of-ultron.html), [_Captain America: The Winter Soldier_](http://www.dearcastandcrew.com/content/2014/4/4/captain-america-the-winter-soldier.html) or any of the other colon-ridden movies are not (a.) great art or (b.) without strong profit motive. But then again you could say that about almost all of culture since we first decided to tell stories around a campfire. You can, however, make distinctions about good and bad, and those distinctions have nothing to do with the box office returns a particular movie, or set of movies, generates (if they did then Michael Bay would be considered an auteur, and no one wants to live in that universe).
 
 When you’re talking about the MCU (Marvel Comics Universe) one of the reasons that some miss the forest for the trees has to do with the cross-pollination of sequential comics with traditional filmmaking. Most movies, even when you’re dealing with trilogies and sequels, are hermetically sealed. It is one of the defining features of mainstream cinema—a complete story is told in ninety or one hundred and twenty minutes. Comics work in a slightly different way. And that difference is crucial.
 
@@ -24,7 +24,7 @@ What the comic book movies do differently, on a structural level, is that the ma
 
 There is an obvious caveat to be made here: some people do not want to spend the time, money, and energy necessary to engage with this kind of storytelling. For instance, I have never watched the entirety of [_Berlin Alexanderplatz_](http://en.wikipedia.org/wiki/Berlin_Alexanderplatz_(miniseries)), despite its universal acclaim. But my lack of interest says absolutely nothing about its intrinsic value.
 
-People who read, or have read, comics understand this kind of story telling intuitively because it is in the DNA of the form; broad, sprawling mythologies that often span several different titles and can take years to play out. Sometimes it is well done (see: Neil Gaiman’s_Sandman_ or Marvel’s _Civil War_ series). Other times, not so well (Marvel’s _The Ultimates_). But when executed properly, they manage to tell a big, rambunctious story with some pretty interesting themes and a depth of character that can surprise you.
+People who read, or have read, comics understand this kind of story telling intuitively because it is in the DNA of the form; broad, sprawling mythologies that often span several different titles and can take years to play out. Sometimes it is well done (see: Neil Gaiman’s _Sandman_ or Marvel’s _Civil War_ series). Other times, not so well (Marvel’s _The Ultimates_). But when executed properly, they manage to tell a big, rambunctious story with some pretty interesting themes and a depth of character that can surprise you.
 
 Those responsible for the Marvel films, like Joss Whedon and Kevin Feige, understand this kind of structure intuitively. Whedon in particular wields enormous creative influence and has managed to do something I would have considered impossible even five years ago—he invested these movies with a pretty interesting through-line. 
 
@@ -40,12 +40,12 @@ As well—and this is perhaps where the rubber hits the road—some of this crit
 
 On balance, the people at the helm of this particular Juggernaut have managed to smooth out most of the rough edges and create a body of work that holds up over time. These are thoroughly enjoyable films. They don’t speak to everyone, but what does (other than the truly banal).  
 
-The best of them—[_Avengers_](http://www.dearcastandcrew.com/content/2012/5/11/the-avengers.html), _Iron Man,_ [_Iron Man 3_](http://www.dearcastandcrew.com/content/2013/5/3/iron-man-3.html) and _Captain America: Winter Soldier_—are quality works of genre fiction. They are well-written, well-executed, beautiful to look at, and emotionally compelling. More importantly, they move the whole story towards something that might be truly special. Fingers crossed.
+The best of them—[_Avengers_](http://www.dearcastandcrew.com/content/2012/5/11/the-avengers.html), _Iron Man,_ [_Iron Man 3_](http://www.dearcastandcrew.com/content/2013/5/3/iron-man-3.html), and _Captain America: Winter Soldier_—are quality works of genre fiction. They are well-written, well-executed, beautiful to look at, and emotionally compelling. More importantly, they move the whole story towards something that might be truly special. Fingers crossed.
 
 What I am sure of is that the pointless hand-wringing over these films and their supposed lack of depth is misplaced. They are primarily entertainments, in the same way that most Broadway musicals are—or any kind of music, or most books, or any piece of cultural ephemera we consume. They are worth exactly as much time, energy, and attention as you want to give them. And if you prefer other things one of the very great features of middlebrow culture (at this point in history) is that you can never see a Marvel film as long as you live and still not lose a minute of sleep or lack any number of quality alternatives.
 
 {% contentfor signature %}
-Excelsior,
+**Excelsior,**
 
 Tim
 {% endcontentfor %}
