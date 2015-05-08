@@ -3,7 +3,7 @@ layout: review
 categories: 
   - reviews
   - current-releases
-published: false
+published: true
 title: "Ex Machina"
 image: ex-machina.jpg
 imdb: tt0470752
