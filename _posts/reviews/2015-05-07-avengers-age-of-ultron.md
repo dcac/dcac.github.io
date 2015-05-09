@@ -4,8 +4,8 @@ categories:
   - reviews
   - current-releases
 published: true
-title: "The Avengers: Age of Ultron"
-image: the-avengers-age-of-ultron.jpg
+title: "Avengers: Age of Ultron"
+image: avengers-age-of-ultron.jpg
 imdb: tt2395427
 author: caseyt
 stars: 3.5
