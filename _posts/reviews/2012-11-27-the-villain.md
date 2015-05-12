@@ -14,7 +14,7 @@ categories:
 series-name: schwarzenegger
 title: "The Villain"
 comments: true
-tags: [Ann Margaret, arnold schwarzenegger, Cactus Jack, comedy, Early Arnold, Early Arnold, Kirk Douglas, Looney Toones, Real-life, spoof, The Villain, Western]
+tags: [Ann Margaret, Arnold Schwarzenegger, Cactus Jack, comedy, Early Arnold, Early Arnold, Kirk Douglas, Looney Toones, Real-life, spoof, The Villain, Western]
 ---
 I'm actually nervous writing this. During my most impressionable years, you were the hero that loomed largest in my imagination. A diligently glued together _Terminator 2_ poster-sized puzzle hung proudly on my wall for years. Arnold-themed action figures, trading cards, and books filled my room while I excitedly worked my way through your back-catalogue of R-rated adventures. I never understood how my parents seemed to give any VHS tape with your face on it a free pass, even though so few of your films were suitable for a child. Maybe they somehow only saw _The Villain_, and forever associated you with harmless, over-the-top slapstick humour, and misguided attempts at bringing cartoon sensibilities to real-life.
 

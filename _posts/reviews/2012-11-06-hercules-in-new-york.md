@@ -14,7 +14,7 @@ categories:
 series-name: schwarzenegger
 title: "Hercules in New York"
 comments: true
-tags: [arnold schwarzenegger, Early Arnold, First Film, Hercules in New York, Uncategorized, Zip.ca]
+tags: [Arnold Schwarzenegger, Early Arnold, First Film, Hercules in New York, Uncategorized, Zip.ca]
 ---
 The fact that your voice is no longer dubbed on the DVD release of _Hercules in New York_ shows how far Americans have come. The United States of 1969 could not accept (much less understand) the cardboard delivery coming out of a muscle-brained 22-year-old Austrian bodybuilder. It just shows us how much the world has changed­. In many ways, you have helped change it. Too bad there's no going back to undo the disaster that is your first ever film role.
 

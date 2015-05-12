@@ -14,7 +14,7 @@ categories:
 series-name: schwarzenegger
 title: "Stay Hungry"
 comments: true
-tags: [arnold schwarzenegger, bob rafelson, body-building, cinema, drama, Early Arnold, Jeff Bridges, Letters, sally field, seventies]
+tags: [Arnold Schwarzenegger, bob rafelson, body-building, cinema, drama, Early Arnold, Jeff Bridges, Letters, sally field, seventies]
 ---
 So here we are, seven years after the release of _Hercules in New York._ It looks like the, shall we say, ["interesting" way that film turned][1] out forced you to rethink your Hollywood career trajectory. Instead of rushing headlong into leading roles, it seems you dialed it back and looked for roles that were not only a good fit, but also provided the opportunity to work with some big name directors. Roles that required more than just your Mr. Universe credentials.
 

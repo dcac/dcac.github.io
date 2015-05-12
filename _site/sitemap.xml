@@ -464,7 +464,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2012/11/6/hercules-in-new-york.html</loc>
-        <lastmod>2015-03-13T12:23:42-04:00</lastmod>
+        <lastmod>2015-05-12T10:20:19-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2012/11/7/stories-we-tell.html</loc>
@@ -480,7 +480,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2012/11/14/stay-hungry.html</loc>
-        <lastmod>2015-03-13T12:23:42-04:00</lastmod>
+        <lastmod>2015-05-12T10:23:04-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2012/11/15/holy-motors.html</loc>
@@ -498,7 +498,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2012/11/20/pumping-iron.html</loc>
-        <lastmod>2015-03-13T12:23:42-04:00</lastmod>
+        <lastmod>2015-05-12T10:22:58-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2012/11/21/rise-of-the-guardians.html</loc>
@@ -522,7 +522,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2012/11/27/the-villain.html</loc>
-        <lastmod>2015-03-13T12:23:42-04:00</lastmod>
+        <lastmod>2015-05-12T10:22:53-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2012/11/28/anna-karenina.html</loc>
@@ -2749,6 +2749,10 @@
         <lastmod>2015-05-08T07:58:49-04:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/5/12/maggie.html</loc>
+        <lastmod>2015-05-12T10:13:28-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
         <lastmod>2015-04-20T11:55:41-04:00</lastmod>
     </url>
@@ -2792,7 +2796,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2015-05-09T09:34:36-04:00</lastmod>
+        <lastmod>2015-05-12T10:23:04-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/features/series/</loc>
@@ -2893,5 +2897,9 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/while-were-young-contest.html</loc>
         <lastmod>2015-04-20T11:55:41-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
+        <lastmod>2015-05-09T09:40:41-04:00</lastmod>
     </url>
 </urlset>

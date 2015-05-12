@@ -14,7 +14,7 @@ categories:
 series-name: schwarzenegger
 title: "Pumping Iron"
 comments: true
-tags: [arnold schwarzenegger, bodybuilding, documentary, Early Arnold, First Film, Letters]
+tags: [Arnold Schwarzenegger, bodybuilding, documentary, Early Arnold, First Film, Letters]
 ---
 As someone who was eleven years old in 1991, I can tell you this: in 1991, every eleven year-old wanted to be Eddie Furlong. Sweet bangs, skateboard skills, a laptop that could hack a bank machine, and his own personal cyborg assassin--he had it all. By the end of _Terminator 2: Judgment Day_, when (spoiler alert) you sacrifice yourself to destroy the computer chip inside your head that will give rise to sentient digital overlord SkyNet, it's clear that you've become a proxy for young John Connor's absent father, who, (double spoiler alert) you killed in the first film. 
 
