@@ -13,7 +13,7 @@ series-name: TIFF 2014
 addressee: TIFF
 position: ""
 author: christopherr
-image: good-kill.jpg
+image: good-kill-tiff.jpg
 comments: true
 ---
 Good actors. Good script. Good director. Good timing. Good job.
