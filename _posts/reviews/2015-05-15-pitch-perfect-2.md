@@ -14,11 +14,10 @@ addressee: "Ed Boyer"
 position: "Vocal Producer"
 split_name: true
 tags: 
-  - war
-  - airforce
-  - drones
-  - Ethan Hawke
-  - January Jones
+  - Pitch Perfect
+  - Anna Kendrick
+  - musical
+  - comedy
 ---
 Putting together a vocal arrangement that sounds both perfect and unexpected isn’t easy. Sure, anyone with a basic understanding of music knows which notes sound good together. Just stick to intervals and, to the average ear, things are fine. But they’re also boring, and what gave a cappella groups a bad rap in the first place. You need to take risks.Be brave enough to fail. And if you do fail, own it. Or, like they say in jazz: If you make a mistake, play it twice.
 
