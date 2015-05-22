@@ -2,7 +2,7 @@
 layout: review
 categories: 
   - reviews
-  - current-release
+  - current-releases
 published: true
 title: "Hot Pursuit"
 image: hot-pursuit.jpg
@@ -17,7 +17,6 @@ tags:
   - Reese Witherspoon
   - Sofia Vergara
   - comedy
-  - action
 ---
 You are in a very small club of actresses that can open both a high-concept comedy and a heavyweight Oscar-bait film. In fact, the only other (current) member of that club is Sandra Bullock, who anchored both the Academy Award-nominated _Gravity_ and scored a hit with Melissa McCarthy in the buddy-cop comedy _Heat_ in the same year. So when _Hot Pursuit_ previews started popping up a few months ago I did something I almost never allow my cynical, critic-self to do: I got excited. I realize this isn’t your fault. It wasn’t you that got my expectations up. But after your raw performance in last year’s _Wild_ (which you also produced), it seemed like you were poised to continue the femme-forward momentum with this screwball, odd-couple comedy (co-starring and produced by Sofia Vergara). “It’s not a fluke”, I thought, “women over 35 are finally staking their claim at the box-office!” 
 

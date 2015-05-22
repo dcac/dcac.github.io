@@ -2760,15 +2760,19 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2015/5/14/good-kill.html</loc>
-        <lastmod>2015-05-14T09:43:34-04:00</lastmod>
+        <lastmod>2015-05-21T21:44:21-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2015/5/15/pitch-perfect-2.html</loc>
-        <lastmod>2015-05-15T10:32:45-04:00</lastmod>
+        <lastmod>2015-05-21T21:44:25-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2015/5/20/mad-max-fury-road.html</loc>
-        <lastmod>2015-05-20T15:42:30-04:00</lastmod>
+        <lastmod>2015-05-21T21:44:23-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/5/21/hot-pursuit.html</loc>
+        <lastmod>2015-05-21T21:45:50-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
@@ -2814,7 +2818,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2015-05-20T15:42:30-04:00</lastmod>
+        <lastmod>2015-05-21T21:45:50-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/features/series/</loc>
@@ -2915,5 +2919,9 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/while-were-young-contest.html</loc>
         <lastmod>2015-04-20T11:55:41-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
+        <lastmod>2015-05-09T09:35:58-04:00</lastmod>
     </url>
 </urlset>

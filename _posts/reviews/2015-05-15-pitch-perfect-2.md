@@ -2,7 +2,7 @@
 layout: review
 categories: 
   - reviews
-  - on-video
+  - current-releases
 published: true
 title: "Pitch Perfect 2"
 image: pitch-perfect-2.jpg

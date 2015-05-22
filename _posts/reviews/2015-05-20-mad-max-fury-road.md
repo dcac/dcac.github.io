@@ -2,7 +2,7 @@
 layout: review
 categories: 
   - reviews
-  - on-video
+  - current-releases
 published: true
 title: "Mad Max: Fury Road"
 image: mad-max-fury-road.jpg
