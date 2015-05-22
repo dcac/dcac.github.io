@@ -34,7 +34,7 @@ About your diminutive stature, the film’s repeat gag involving news reports wh
 I’m not mad that you made a shitty movie. A-list actors like Johnny Depp, do it all the time, and he doesn’t even have an Oscar. The problem is that female actors, producers, writers and directors of a certain age don’t just have to work twice as hard to be considered half as good as their male counterparts, they have to work twice as hard just to get a foot in the door. It’s a huge responsibility and it’s not fair, but that’s how it is. I’m disappointed because you had a huge opportunity and you wasted it on _Hot Pursuit_. If you’re disappointed too, give Sandy Bullock a call and ask her how she felt after _All_ _About_ _Steve_ (which she produced and starred in) tanked. At the very least she can give you pointers on how to accept your Razzie gracefully.  
 
 {% contentfor signature %}
-**Still Pulling for you,**
+**Still pulling for you,**
 
 Di
 {%endcontentfor%}
