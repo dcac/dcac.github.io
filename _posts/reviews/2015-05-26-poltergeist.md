@@ -14,11 +14,10 @@ addressee: "Steven Spielberg"
 position: '“Story By” Credit'
 split_name: false
 tags: 
-  - Brad Bird
-  - Damon Lindelof
-  - Disney
-  - George Clooney
-  - nostalgia
+  - Steven Spielberg
+  - horror
+  - remake
+  - Jared Harris
 ---
 This is a milestone in your career – the first time one of your films has ever been re-made. The proposition must have felt… otherworldly. Someone comes along and tells you they can reconnect with a long deceased property and bring it back to life. You were probably confused and skeptical. Could it really be done? Surely these hucksters were only looking to make a buck. But your confusion probably gave way to curiosity, then suspense, culminating with: “Sure, why not give it a try. It can’t hurt, right?”
 
