@@ -2,26 +2,29 @@
 section: Content
 layout: contest
 home-display: false
-share-display: contest
 grid-display: false
 exclude_from_search: true
 published: true
 imdb: tt3195644
-image: insidious-chapter-3.jpg
-title: Win a pass to the Advance Screening of Insidious: Chapter 3!
-addressee: 
+image: insidious-chapter-3-contest.jpg
+title: "Win a pass to the Advance Screening of Insidious: Chapter 3!"
+excerpt: 
+comments: false
+categories:
+  - contests
+tags: [tiff, drama, pride, contest,advance screening]
 ---
-**_Dear Killer Fans,_**
+**_Dear Horror Fans,_**
 
 Looking for case of the summer heebeegeebees? We got you covered.
 
 We're giving away **double passes to see _Insidious: Chapter 3_** on **Wednesday, June 3rd**, in the following Canadian cities:
 
-**Edmonton  
-Calgary  
-Toronto  
-Vancouver  
-Winnipeg  **
+**Edmonton**  
+**Calgary**  
+**Toronto**  
+**Vancouver**  
+**Winnipeg**
 
 Enter below for your chance to win. Good luck!
 
@@ -44,5 +47,3 @@ var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') retu
 try { m1e0vri4102eeqy = new WufooForm();m1e0vri4102eeqy.initialize(options);m1e0vri4102eeqy.display(); } catch (e) {}};
 var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
 })(document, 'script');</script>
-
-

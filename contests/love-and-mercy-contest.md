@@ -9,7 +9,7 @@ imdb: tt0903657
 image: love-and-mercy-contest.jpg
 title: Win a pass to the Advance Screening of Love and Mercy!
 addressee: Toronto and Vancouver
-excerpt: "Randall William Cook talks about what it was like to work on the groundbreaking <em>The Lord of the Rings</em> trilogy, misconceptions about his profession, and the state of blockbuster filmmaking today."
+excerpt: 
 comments: false
 categories:
   - contests
