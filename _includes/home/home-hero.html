@@ -73,7 +73,7 @@
                     {% if post.stars < 1.5 %}Junk<br />Mail{% elsif post.stars >= 1.5 and post.stars < 2.5 %}Return to<br />Sender{% elsif post.stars >= 2.5 and post.stars < 3.5 %}Standard<br />Delivery{% elsif post.stars >= 3.5 and post.stars < 4.5  %}Air<br />Mail{% elsif post.stars >= 4.5 %}Priority<br />Post{% endif %}<br />
                       </div>
                       <div class="large-star-rating-home">
-                        {% for i in (1..post.stars) %}<img class="star-large" src="/assets/img/global/stars/star-blue.svg" alt="" />{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<img class="star-large" src="/assets/img/global/stars/star-blue-half.svg" alt="" />{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img class="star-large" src="/assets/img/global/stars/star-white.svg" alt="" />{% endfor %}{% endif %}
+                        {% for i in (1..post.stars) %}<img class="star-large" src="/assets/img/global/stars/star-blue.svg" alt="" />{% endfor %}{% assign half_star = post.stars | modulo:1 %}{% if half_star > 0 %}<img class="star-large" src="/assets/img/global/stars/star-blue-half.svg" alt="" />{% endif %}{% assign empty_stars = 5 | minus: post.stars %}{% if empty_stars == 5 %}<p class="zero-stars">Zero Stars</p>{% elsif empty_stars != 0 %}{% for i in (1..empty_stars) %}<img class="star-large" src="/assets/img/global/stars/star-white.svg" alt="" />{% endfor %}{% endif %}
                       </div>
                     </div>{% endif %}
                   </div>

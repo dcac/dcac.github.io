@@ -21,6 +21,7 @@ tags:
   - action
   - science fiction
   - sci-fi
+  - summer 2015
 ---
 With all the sequels, remakes, reboots, and general scouring of any and all studio properties, a new Mad Max movie always felt like more of a _when_ than an _if._  And the way your career has gone (i.e.: away), it would have no doubt been a dream to once again strap on the leather and pads, shimmy into a V8 Interceptor and roar into the wastelands once again as Max Rockatansky in _Mad Max: Fury Road_.
 

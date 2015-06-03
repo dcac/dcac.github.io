@@ -19,6 +19,7 @@ tags:
   - Disney
   - George Clooney
   - nostalgia
+  - summer 2015
 ---
 When your primary intention in making a film is advocating for a specific political viewpoint, you’re no longer making art, you’re making a piece of propaganda. That isn’t necessarily a negative. There is some Soviet-era cinema chock full of overt political intentions that works just fine. In the case of _Tomorrowland,_  however, it is a poisonous way to go.
 

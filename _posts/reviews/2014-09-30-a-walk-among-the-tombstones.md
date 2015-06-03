@@ -12,7 +12,7 @@ stars: 2.5
 excerpt: This is where the short description will go.
 position: Editor
 addressee:  Jill Savitt
-tags: [Liam Neeson,action,crime,thriller,Scott Frank,action]
+tags: [Liam Neeson,crime,thriller,Scott Frank,action]
 ---
 There's a sequence halfway through _A Walk Among the Tombstones_ that is astonishingly well put together. It plays out like a typical meet-cute: a young girl walks into the path of two men, time slows down, their gazes lock, and cheery tunes plays on the soundtrack as man stare after her, slack-jawed. Except it's anything but typical, since the girl in question is the daughter of a Russian drug dealer, and the two men she's just entranced are a pair of demented serial killers who target the loved ones of organized crime figures.
 
