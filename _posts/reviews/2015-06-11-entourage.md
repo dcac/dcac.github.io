@@ -24,8 +24,10 @@ tags:
 Eight seasons and a movie. That’s a long run for any creative endeavour. Just keeping up the energy is a feat in and of itself—especially for something as fundamentally empty as _Entourage_. The Hollywood adventures of Vinnie Chase and his gang of charisma-free bros—brother and fellow actor Johnny Drama, his manager E, and driver Turtle (I’d name the actors, but let’s not pretend they’ll have any kind of career outside this)—felt like something that warranted three, maybe four seasons. It was always a trifle of a show, and the longer it went on it was obvious that there never was any _there_ there. Nothing. At all. How could you keep returning to mine something that emptied its reserves so long ago?
 
 What became clear to me while watching your movie version of _Entourage_, though, was that the eight season run is actually the key. In what I can only assume may be the first known instance of cinematic Stockholm Syndrome, at some point you stopped being any kind of observer of your subjects. Instead of viewing them objectively, you started to admire them. You wanted to be them; your own creations became your aspiration. That has to be it. It’s certainly the best way to explain why _Entourage_ is as lazy—and as dumb—as its characters. It takes the easy way out of, well, everything.
+ 
+On the plus side, I suppose, we do have a bit of a field guide for the lazy auteur.
 
-Finally, we have an answer to the age old problem of what to do when a writer needs his character to spout exposition, but can’t be bothered to make it in any way a natural part of dialogue: make them non-sequitors! It leads to awesome exchanges like this:
+For example, we finally have an answer to the age old problem of what to do when a writer needs his character to spout exposition, but can’t be bothered to make it in any way a natural part of dialogue: make them non-sequitors! It leads to awesome exchanges like this:
 
 “It’s great Vinnie invited us to is yacht in Ibiza!”  
 “Yeah. I can’t believe he split up with his wife on their honeymoon!”
