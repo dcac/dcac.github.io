@@ -12,7 +12,7 @@ categories:
 date: 2014-08-18 15:45
 author: jaredy
 comments: true
-tags: [Nicolas Cage,action, joe,  stallone, Uncategorized]
+tags: [ Sylvester Stallone,Nicolas Cage,action, Joe]
 ---
 
 Yeah, I know--you didn't even appear in _The Expendables 3_. But your refusal to participate in the popular geriatric action franchise says something significant about the nature of these films. It's not that you're too good for them. But perhaps that you're too complicated. 

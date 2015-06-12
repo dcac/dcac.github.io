@@ -13,7 +13,7 @@ categories:
   - on-video
 title: "Grudge Match"
 comments: true
-tags: [Bechdel Test, boxing, comedy, drama, feminist, junk, Letters]
+tags: [Sylvester Stallone, Robert DeNiro,Bechdel Test, boxing, comedy, drama, feminist, junk, Letters]
 ---
 I'm not embarrassed to admit I've never met a boxing movie that didn't make me cry, but _Grudge Match_ made me well up for all the wrong reasons. As the baby girl in a family full of brothers, I was born fighting. My dad learned to box in the army and taught us all how to throw an uppercut. In this testosterone-heavy world I was never treated any differently from the boys but I can't assume the same of you. All I can hope is that you have some sense of shame about contributing to a film that has only three female speaking roles, one being that of a prostitute. But hey, a job is a job, right?
 

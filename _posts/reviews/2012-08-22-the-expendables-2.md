@@ -12,7 +12,7 @@ categories:
   - reviews
 title: "The Expendables 2"
 comments: true
-tags: [action, arnold schwarzenegger, bruce willis, chuck norris, expendables, Jason Statham, Letters, sylvester stallone]
+tags: [action,Arnold Schwarzenegger, Bruce Willis, Chuck Norris, Expendables, Jason Statham, Letters, Sylvester Stallone]
 ---
 The movie opens, the gunfire begins, and I can already see problems. You have a star-studded cast of machine guns, rifles, pistols, and hand weapons, wielded by their equally-famous action hero counterparts, and there is no discipline, no control. Everything you, the person responsible for arming these muscleheads, should stand against. As a fan of guns and action, even I know "spray and pray" is the wrong approach in almost every situation. You just make a huge mess and accomplish nothing.
 
