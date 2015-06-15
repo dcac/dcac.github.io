@@ -2,19 +2,19 @@
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - "current-releases"
 published: true
-title: "Jurassic World"
-image: jurassic-world.jpg
+title: Jurassic World
+image: "jurassic-world.jpg"
 imdb: tt0369610
 author: ankitv
-stars: 3.5
+stars: 3
 excerpt: This is where the short description will go.
-addressee: "Jack Horner"
-position: "Palaeontology Consultant"
+addressee: Jack Horner
+position: Palaeontology Consultant
 split_name: true
 tags: 
-  - Chriss Pratt
+  - Chris Pratt
   - dinosaurs
   - Jurassic Park
   - Steven Spielberg
@@ -22,6 +22,7 @@ tags:
   - adventure
   - Summer 2015
 ---
+
 You’re the most famous palaeontologist since Ross from _Friends_. Which is kind of sad because you’re _actually_ a palaeontologist with years of study under your belt. Your behind-the-scenes presence in all the _Jurassic Park_ releases has helped provide a realistic-ish portrayal of what would happen if humans faced off against dinosaurs. 
 
 I say realistic-_ish_ because you yourself admitted that you had to curb your expertise for the sake of entertainment, which is admirable. It’s one thing to be a consultant about dinosaurs, but it’s another to consciously suppress your knowledge for the betterment of the movie. Although, you have to agree, velociraptors are scarier without the feathers. 
