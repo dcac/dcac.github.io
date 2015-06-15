@@ -8,7 +8,7 @@ title: Jurassic World
 image: "jurassic-world.jpg"
 imdb: tt0369610
 author: ankitv
-stars: 3
+stars: 3.5
 excerpt: This is where the short description will go.
 addressee: Jack Horner
 position: Palaeontology Consultant
