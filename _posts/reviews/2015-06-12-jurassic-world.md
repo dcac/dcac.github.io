@@ -36,9 +36,9 @@ It’s the type of ideal scenario for a classic Hollywood monster mash. When our
 
 That type of arc opens doors for even more clichés, blatant and excessive foreshadowing, and inappropriate moments of comedy and romance that strip away realism and predictable character growth.
 
-I for one enjoyed the minor details you helped provide: the velociraptors, using their hind legs to aggressively climb their prey (similar to hungry hyenas) [http://www.dearcastandcrew.com/content/2015/6/11/requiem-for-an-underdog.html](http://www.dearcastandcrew.com/content/2015/6/11/requiem-for-an-underdog.html), or the rotting teeth that can be seen when our antagonist dino sniffs out Chris Pratt. I would have liked to see more of that. 
+I for one enjoyed the minor details you helped provide: the velociraptors, using their hind legs to aggressively climb their prey (similar to hungry hyenas), or the rotting teeth that can be seen when our antagonist dino sniffs out Chris Pratt. I would have liked to see more of that. 
 
-_Jurassic_ World is definitely entertaining. It’s a summer blockbuster. I get that. And as far as summer blockbusters go, it hit the mark. I had fun watching it, as did my girlfriend (who was there for Chris Pratt). I laughed, felt tense, and even jumped out of my seat a couple of times. If this is the trend that any sequel will follow, I’d be okay with it. I just hope if you are to be attached again, that you’ll have more of a say with the how the movie pans out. 
+_Jurassic World_ is definitely entertaining. It’s a summer blockbuster. I get that. And as far as summer blockbusters go, it hit the mark. I had fun watching it, as did my girlfriend (who was there for Chris Pratt). I laughed, felt tense, and even jumped out of my seat a couple of times. If this is the trend that any sequel will follow, I’d be okay with it. I just hope if you are to be attached again, that you’ll have more of a say with the how the movie pans out. 
 
 I’m sure the success of _Jurassic World_ will help finance your goal to bring [Chickenosaurus](http://www.washingtonpost.com/national/health-science/paleontologist-jack-horner-is-hard-at-work-trying-to-turn-a-chicken-into-a-dinosaur/2014/11/10/cb35e46e-4e59-11e4-babe-e91da079cb8a_story.html) to life.
 
