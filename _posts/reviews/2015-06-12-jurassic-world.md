@@ -4,14 +4,14 @@ categories:
   - reviews
   - "current-releases"
 published: true
-title: Jurassic World
+title: "Jurassic World"
 image: "jurassic-world.jpg"
 imdb: tt0369610
 author: ankitv
 stars: 3.5
-excerpt: This is where the short description will go.
-addressee: Jack Horner
-position: Palaeontology Consultant
+excerpt: "This is where the short description will go."
+addressee: "Jack Horner"
+position: "Palaeontology Consultant"
 split_name: true
 tags: 
   - Chris Pratt
