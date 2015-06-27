@@ -9,7 +9,6 @@ image: unfriended.jpg
 imdb: tt3713166
 author: kelany
 stars: 1.5
-excerpt: This is where the short description will go.
 addressee: "John McAlary"
 position: "Casting Director"
 split_name: true

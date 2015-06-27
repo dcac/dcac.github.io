@@ -9,7 +9,6 @@ image: "inherent-vice.jpg"
 imdb: tt1791528
 author: jaredy
 stars: 4
-excerpt: This is where the short description will go.
 addressee: Thomas Pynchon
 position: Author
 tags: 

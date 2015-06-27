@@ -9,7 +9,6 @@ image: entourage.jpg
 imdb: tt1674771
 author: caseyt
 stars: .5
-excerpt: This is where the short description will go.
 addressee: "Doug Ellin"
 position: "Writer/Creator/Director"
 split_name: true

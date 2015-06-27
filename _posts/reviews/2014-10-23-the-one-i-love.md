@@ -9,7 +9,6 @@ image: "the-one-i-love.jpg"
 imdb: tt2756032
 author: christopherr
 stars: 4
-excerpt: This is where the short description will go.
 position: Painter
 addressee:  Jeremy Cisneros
 tags: [art,Mark Duplass, Elizabeth Moss, painting, drama]
@@ -30,7 +29,8 @@ Some people will no doubt take issues with the lack of clarity. McDowell has cho
 
 That's the sign of a great piece of art—painted or otherwise.
 
-{% contentfor signature%}**Signed,**
+{% contentfor signature%}
+**Signed,**
 
 Christopher
 {% endcontentfor %}

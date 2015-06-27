@@ -9,7 +9,6 @@ image: "citizen-marc.jpg"
 imdb: tt3008530
 author: dig
 stars: 4
-excerpt: This is where the short description will go.
 position: Animation Designer
 addressee:  Morgana Duque
 tags: [documentary, indie,marijuana,pot,Marc Emery,animation]
@@ -30,7 +29,8 @@ In all superhero movies there are the innocent bystanders who watch helplessly a
 
 We all know how superheroes get around; Superman is faster than a speeding bullet, Spiderman has his webs, and Batman has a flashy car. _Citizen Marc_ seems content to let The Prince of Pot hoist himself by his own petard.
 
-{% contentfor signature %}**Well drawn,**
+{% contentfor signature %}
+**Well drawn,**
 
 Di
 {% endcontentfor %}

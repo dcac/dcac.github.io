@@ -9,7 +9,6 @@ image: housebound.jpg
 imdb: tt3504048
 author: kelany
 stars: 4.5
-excerpt: This is where the short description will go.
 addressee: "Gerard Johnstone"
 position: "Screenwriter"
 split_name: true

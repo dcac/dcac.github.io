@@ -9,7 +9,6 @@ image: unfinished-business.jpg
 imdb: tt2358925
 author: natm
 stars: 1
-excerpt: This is where the short description will go.
 addressee: "Adam ‘Chip’ Hamilton"
 position: "Master of the Sword"
 split_name: true

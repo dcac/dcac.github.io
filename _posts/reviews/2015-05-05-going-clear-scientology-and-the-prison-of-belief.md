@@ -9,7 +9,6 @@ image: going-clear-scientology-and-the-prison-of-belief.jpg
 imdb: tt4257858
 author: timm
 stars: 4
-excerpt: This is where the short description will go.
 addressee: "Lawrence Wright"
 position: "Interviewee"
 split_name: true

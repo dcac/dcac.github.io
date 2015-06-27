@@ -9,7 +9,6 @@ image: tomorrowland.jpg
 imdb: tt1964418
 author: timm
 stars: 2
-excerpt: This is where the short description will go.
 addressee: "Brad Bird and Damon Lindelof"
 position: "Writers"
 split_name: false

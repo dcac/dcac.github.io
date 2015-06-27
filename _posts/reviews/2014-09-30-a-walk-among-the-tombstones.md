@@ -9,7 +9,6 @@ image: "a-walk-among-the-tombstones.jpg"
 imdb: tt0365907
 author: kelany
 stars: 2.5
-excerpt: This is where the short description will go.
 position: Editor
 addressee:  Jill Savitt
 tags: [Liam Neeson,crime,thriller,Scott Frank,action]

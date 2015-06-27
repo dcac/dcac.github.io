@@ -9,7 +9,6 @@ image: "fifty-shades-of-grey.jpg"
 imdb: tt2322441
 author: christopherr
 stars: 2.5
-excerpt: This is where the short description will go.
 addressee: Liam Helmer
 position: "BDSM Consultant"
 split_name: true

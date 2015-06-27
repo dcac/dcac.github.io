@@ -9,7 +9,6 @@ image: "this-is-where-i-leave-you.jpg"
 imdb: tt1371150
 author: dig
 stars: 3
-excerpt: This is where the short description will go.
 position: Stunt Coordinator
 addressee:  G.A. Aguilar
 tags: [Jason Bateman, Tina Fey, Katherine Hahn,comedy,ensemble]
@@ -28,7 +27,8 @@ You could apply that philosophy to your job, which requires you to coordinate wi
 
 Regardless of a film's genre, when stunts are done well they are suspenseful and clever, and exciting to watch. When done poorly, they're confusing, repetitive and can bring the narrative to a screeching halt. The same can be said for ensemble pieces. The problem isn't that _This Is Where I Leave You_ doesn't hit all its marks, it's that there are just too many marks to hit. And Levy tries to hit them all. Maybe he should have consulted you first.
 
-{% contentfor signature %}**Keep your chin up,**
+{% contentfor signature %}
+**Keep your chin up,**
 
 Di
 {% endcontentfor %}

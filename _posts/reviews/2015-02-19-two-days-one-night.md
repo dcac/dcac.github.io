@@ -9,7 +9,6 @@ image: two-days-one-night.jpg
 imdb: tt2737050
 author: natm
 stars: 4
-excerpt: This is where the short description will go.
 addressee: Marie-Hélène Dozo
 position: "Editor"
 split_name: true

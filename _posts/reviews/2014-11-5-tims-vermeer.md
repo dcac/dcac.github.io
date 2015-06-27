@@ -9,7 +9,6 @@ image: "tims-vermeer.jpg"
 imdb: tt3089388
 author: dig
 stars: 3.5
-excerpt: This is where the short description will go.
 position: Additional Camera
 addressee:  Leslie Jenison
 tags: [documentary,Vermeer,art,painting,]
@@ -27,7 +26,8 @@ As an artist, did you enjoy the opportunity to pick up a camera and focus on som
 
 We learn that not much is known about Johannes Vermeer, and strangely, the film doesn't tell us much about Tim either. Your three daughters were involved in the film (one produced the film and another sits as the model for the painting), but they don't provide any observations about their dad. We only see you once, in a college photograph of you and Tim. Like the _Girl With A Pearl Earring_, you too are a cipher. Then again, the film isn't called _Tim's Wife's Vermeer,_ is it? But your insight into the man who decided to devote half a decade of his life to such a strange hobby would have been welcome, much like the batting in between the layers of your quilt that, instead of just joining the pieces together, provides much needed warmth.
 
-{% contentfor signature %}	Sew On,
+{% contentfor signature %}	
+Sew On,
 
 Di
 {% endcontentfor %}

@@ -9,7 +9,6 @@ image: "the-maze-runner.jpg"
 imdb: tt1790864
 author: dig
 stars: 2
-excerpt: This is where the short description will go.
 position: Studio Teacher
 addressee:  Lauri Mills
 tags: [ya,young adult,science fiction, dystopia,action,divergent,the hunger games]
@@ -28,7 +27,8 @@ I wonder, as an adult authority figure, if you've ever had to utter the phrase, 
 
 Your job exists because child labour laws require that minors working on a film set are supervised at all times. In addition to teaching, you have to ensure the health and welfare of the children in your charge—from watching what they eat at the craft service table, to making sure Teamsters don't curse in front of them. You spend so much time with these kids that I'm sure you grow attached. In the case of _The Maze Runner_, the teen cast is inordinately talented. But instead of being given fully fleshed-out characters to play, they're primarily relegated to physical activity and/or exposition delivery. It doesn't matter how ominous and imposing the maze is, or how terrifying the monster special effects are...if we're not emotionally invested in the kids' future, the whole endeavour is a lesson in futility.
 
-{% contentfor signature %}**Don't let go of the conch,**
+{% contentfor signature %}
+**Don't let go of the conch,**
 
 Di
 {% endcontentfor %}

@@ -9,7 +9,6 @@ image: "left-behind.jpg"
 imdb: tt2467046
 author: dianech
 stars: 2
-excerpt: This is where the short description will go.
 position: Co-writer / Producer
 addressee:  Paul Lalonde
 tags: [Nicolas Cage, rapture,religion,drama,thriller]

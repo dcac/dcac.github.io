@@ -9,7 +9,6 @@ image: last-knights.jpg
 imdb: tt2493486
 author: dig
 stars: 1
-excerpt: This is where the short description will go.
 addressee: "Natacha Atlas"
 position: "Featured Vocalist"
 split_name: true

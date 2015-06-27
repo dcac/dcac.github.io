@@ -9,7 +9,6 @@ image: "escobar-paradise-lost.jpg"
 imdb: tt2515030
 author: caseyt
 stars: 2.5
-excerpt: This is where the short description will go.
 addressee: Zack Stoff
 position: "Research Consultant: Mr. Del Toro"
 tags: 

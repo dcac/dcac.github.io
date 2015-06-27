@@ -9,7 +9,6 @@ image: a-girl-walks-home-alone-at-night.jpg
 imdb: tt2326554
 author: kelany
 stars: 4
-excerpt: This is where the short description will go.
 addressee: Lyle Vincent
 position: "Cinematographer"
 split_name: true

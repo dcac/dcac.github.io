@@ -9,7 +9,6 @@ image: "last-days-in-vietnam.jpg"
 imdb: tt3279124
 author: dig
 stars: 3
-excerpt: This is where the short description will go.
 addressee: Polly Petit and Jane E. Tucker
 position: "Archival Researchers"
 split_name: false

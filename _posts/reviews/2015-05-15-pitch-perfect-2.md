@@ -9,7 +9,6 @@ image: pitch-perfect-2.jpg
 imdb: tt2848292
 author: christopherr
 stars: 4
-excerpt: This is where the short description will go.
 addressee: "Ed Boyer"
 position: "Vocal Producer"
 split_name: true

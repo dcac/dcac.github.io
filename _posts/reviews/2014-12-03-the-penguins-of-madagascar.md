@@ -9,7 +9,6 @@ image: "the-penguins-of-madagascar.jpg"
 imdb: tt1911658
 author: dianech
 stars: 4
-excerpt: This is where the short description will go.
 addressee: Tom McGrath
 position: Voice Actor
 tags: 

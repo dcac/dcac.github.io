@@ -10,7 +10,6 @@ image: "the-hobbit-the-battle-of-the-five-armies.jpg"
 imdb: tt2310332
 author: jaredy
 stars: 2
-excerpt: This is where the short description will go.
 addressee: Akshay Parbhu
 position: IT Support
 tags: 

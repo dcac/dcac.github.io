@@ -10,7 +10,6 @@ image: "the-battered-bastards-of-baseball.jpg"
 imdb: tt3445270
 author: dig
 stars: 4
-excerpt: This is where the short description will go.
 position: Bat Boy
 addressee: Todd Field
 tags: [baseball, sports,documentary,netflix,kurt russell]

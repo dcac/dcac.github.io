@@ -9,7 +9,6 @@ image: kingsmen-the-secret-service.jpg
 imdb: tt2802144
 author: timm
 stars: 3.5
-excerpt: This is where the short description will go.
 addressee: Ayn Rand
 position: "Satirical Target"
 split_name: true

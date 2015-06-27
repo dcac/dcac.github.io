@@ -9,7 +9,6 @@ image: "jupiter-ascending.jpg"
 imdb: tt1617661
 author: dig
 stars: 3.5
-excerpt: This is where the short description will go.
 addressee: Terry Gilliam
 position: "Actor"
 split_name: true

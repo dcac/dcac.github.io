@@ -9,7 +9,6 @@ image: "american-sniper.jpg"
 imdb: tt2179136
 author: christopherr
 stars: 3.5
-excerpt: This is where the short description will go.
 addressee: Sammy Sheik
 position: Al Qaeda Sniper
 tags: 

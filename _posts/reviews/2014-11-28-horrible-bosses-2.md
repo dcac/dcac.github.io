@@ -9,7 +9,6 @@ image: "horrible-bosses-2.jpg"
 imdb: tt2170439
 author: jenns
 stars: 3.5
-excerpt: This is where the short description will go.
 addressee: Katy Perry
 position: Ringtone Artist
 tags: 

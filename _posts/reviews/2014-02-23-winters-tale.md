@@ -10,7 +10,6 @@ tags: reviews
 image: "winters-tale.jpg"
 author: dig
 stars: 1.5
-excerpt: This is where the short description will go.
 position: Foley Artist
 addressee: Marko Costanzo
 ---

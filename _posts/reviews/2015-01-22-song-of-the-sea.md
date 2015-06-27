@@ -9,7 +9,6 @@ image: "song-of-the-sea.jpg"
 imdb: tt1865505
 author: natm
 stars: 4
-excerpt: This is where the short description will go.
 addressee: Ross Stewart
 position: Concept Artist
 tags: 

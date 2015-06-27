@@ -9,7 +9,6 @@ image: "the-interview.jpg"
 imdb: tt2788710
 author: christopherr
 stars: 3.5
-excerpt: This is where the short description will go.
 addressee: Guardians of Peace
 position: Hackers
 tags: 

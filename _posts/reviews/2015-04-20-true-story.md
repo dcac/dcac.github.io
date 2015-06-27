@@ -9,7 +9,6 @@ image: true-story.jpg
 imdb: tt2273657
 author: timm
 stars: 2
-excerpt: This is where the short description will go.
 addressee: "Jonah Hill"
 position: "Actor"
 split_name: true

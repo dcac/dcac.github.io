@@ -9,7 +9,6 @@ image: the-tale-of-princess-kaguya.jpg
 imdb: tt2576852
 author: timm
 stars: 4
-excerpt: This is where the short description will go.
 addressee: Ian MacDougall
 position: "Translator"
 split_name: true

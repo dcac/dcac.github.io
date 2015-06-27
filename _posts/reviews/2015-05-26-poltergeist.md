@@ -9,7 +9,6 @@ image: poltergeist
 imdb: tt1029360
 author: christopherr
 stars: 1.5
-excerpt: This is where the short description will go.
 addressee: "Steven Spielberg"
 position: '“Story By” Credit'
 split_name: false

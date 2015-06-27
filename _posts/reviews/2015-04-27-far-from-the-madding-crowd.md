@@ -9,7 +9,6 @@ image: far-from-the-madding-crowd.jpg
 imdb: tt2935476
 author: timm
 stars: 2.5
-excerpt: This is where the short description will go.
 addressee: "Thomas Hardy"
 position: "Author"
 split_name: true

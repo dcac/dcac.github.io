@@ -9,7 +9,6 @@ image: insurgent.jpg
 imdb: tt2908446
 author: dig
 stars: 2.5
-excerpt: This is where the short description will go.
 addressee: "Shailene Woodley’s Hair"
 position: "Distraction"
 split_name: false

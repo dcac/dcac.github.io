@@ -9,7 +9,6 @@ image: mad-max-fury-road.jpg
 imdb: tt1392190
 author: caseyt
 stars: 5
-excerpt: This is where the short description will go.
 addressee: "Mel Gibson"
 position: "Max Rockatansky (1979-1985)"
 split_name: true

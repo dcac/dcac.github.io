@@ -9,7 +9,6 @@ image: "third-person.jpg"
 imdb: tt2343793
 author: natm
 stars: 2
-excerpt: This is where the short description will go.
 addressee: Cristiano Donzelli
 position: Storyboard Artist
 tags: 

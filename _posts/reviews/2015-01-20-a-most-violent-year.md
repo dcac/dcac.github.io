@@ -9,7 +9,6 @@ image: "a-most-violent-year.jpg"
 imdb: tt2937898
 author: timm
 stars: 4.5
-excerpt: This is where the short description will go.
 addressee: John P. Goldsmith
 position: Production Designer
 tags: 

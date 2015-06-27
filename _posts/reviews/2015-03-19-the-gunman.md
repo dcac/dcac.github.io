@@ -9,7 +9,6 @@ image: the-gunman.jpg
 imdb: tt2515034
 author: timm
 stars: 2
-excerpt: This is where the short description will go.
 addressee: "Male 18-35"
 position: "Target Audience"
 split_name: false

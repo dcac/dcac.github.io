@@ -9,7 +9,6 @@ image: cinderella.jpg
 imdb: tt1661199
 author: ankitv
 stars: 3
-excerpt: This is where the short description will go.
 addressee: Sandy Powell
 position: "Costume Designer"
 split_name: false

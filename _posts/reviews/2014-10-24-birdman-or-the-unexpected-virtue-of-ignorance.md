@@ -9,7 +9,6 @@ image: "birdman-or-the-unexpected-virtue-of-ignorance.jpg"
 imdb: tt2562232
 author: timm
 stars: 5
-excerpt: This is where the short description will go.
 position: Generic Film Critic
 addressee:  John Doe
 tags: [Michael Keaton]
@@ -31,7 +30,9 @@ Ironically, that cynical disregard for the actual content of a particular work w
 A lot will be written about the parallels between the actors and the characters they play; Naomi Watts as the successful but pathologically insecure actress, Keaton's character is a hive of meta-references to both his and Iñárritu's careers, Edward Norton as the brilliant but irredeemably disruptive talent. There is also the feigned single take that takes place over a series of weeks, which was both useful and technically brilliant. But that is all window dressing. What drives the film is the notion that sometimes vain, petty, venal men and women manage to craft some art. Somehow these very characteristics are as essential to creation as dedication, discipline and talent. 
 
 I'm guessing this probably passed you by while you were busy crafting bon mots about the ludicrousness of Ed Norton's prosthetic junk. Because it is not to enough to be petty, venal and vain unless you actually have something to bring to the dance. Otherwise you are just fodder for other people's creative expression.
-{% contentfor signature%}	**So thanks for that, I suppose,**  
+
+{% contentfor signature%}	
+**So thanks for that, I suppose,**  
 
 Tim
 {% endcontentfor %}

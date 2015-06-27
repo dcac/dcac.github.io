@@ -10,7 +10,6 @@ tags: reviews
 image: "dirty-wars.jpg"
 author: erinc
 stars: 3
-excerpt: This is where the short description will go.
 position: Director and Cinematographer
 addressee: Rick Rowly
 ---

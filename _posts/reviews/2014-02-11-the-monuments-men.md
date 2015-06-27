@@ -10,7 +10,6 @@ tags: reviews
 image: "monuments-men.jpg"
 author: caseyt
 stars: 2.5
-excerpt: This is where the short description will go.
 position: Casting
 addressee: Jina Jay
 ---

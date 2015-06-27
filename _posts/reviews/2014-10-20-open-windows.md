@@ -9,7 +9,6 @@ image: "open-windows.jpg"
 imdb: tt2409818
 author: christopherr
 stars: 1
-excerpt: This is where the short description will go.
 position: Documentalist
 addressee:  Guillermo Martel
 tags: [Elijah Wood, Sasha Grey, thriller,negative review]
@@ -30,7 +29,8 @@ If it was doing research to understand what type of 3D rendering is possible by 
 
 There's really nothing to recommend here, other than you need a new job. And a new title.
 
-{% contentfor signature%}**Feeling documentally oppressed,**
+{% contentfor signature%}
+**Feeling documentally oppressed,**
 
 Christopher
 {% endcontentfor %}

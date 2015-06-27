@@ -10,7 +10,6 @@ tags: reviews
 image: "lone-ranger.jpg"
 author: coryh
 stars: 3
-excerpt: This is where the short description will go.
 position: Set Dressing Gangboss
 addressee: Mike Thurman
 ---

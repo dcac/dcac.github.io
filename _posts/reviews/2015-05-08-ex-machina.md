@@ -9,7 +9,6 @@ image: ex-machina.jpg
 imdb: tt0470752
 author: christopherr
 stars: 3
-excerpt: This is where the short description will go.
 addressee: "Laurence Chong"
 position: "Matchmove Artist"
 split_name: true

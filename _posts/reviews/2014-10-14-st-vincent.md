@@ -9,7 +9,6 @@ image: "st-vincent-review.jpg"
 imdb: tt2170593
 author: dig
 stars: 3.5
-excerpt: This is where the short description will go.
 position: Prosthetic Makeup Designer
 addressee:  Michael Marino
 tags: [Bill Murray, indie, tiff,prosthetic,comedy, drama]
@@ -24,7 +23,8 @@ The materials used to create prosthetics haven't changed much in the last few de
 
 You created a scab prosthetic for his forehead. It gradually heals over the course of the film, as Vincent, predictably, grows as a person. But with Murray the progression is never boring.
 
-{% contentfor signature %}**Keep shaping and molding,**
+{% contentfor signature %}
+**Keep shaping and molding,**
 
 Di
 {% endcontentfor %}

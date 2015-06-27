@@ -9,7 +9,6 @@ image: "leviathan.jpg"
 imdb: tt2802154
 author: natm
 stars: 3.5
-excerpt: This is where the short description will go.
 addressee: Mikhail Krichman
 position: "Cinematographer"
 split_name: true

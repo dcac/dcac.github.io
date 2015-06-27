@@ -9,7 +9,6 @@ image: "foxcatcher.jpg"
 imdb: tt1100089
 author: kelany
 stars: 2
-excerpt: This is where the short description will go.
 addressee: Steve Carell
 position: "Actor"
 tags: 

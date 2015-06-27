@@ -9,7 +9,6 @@ image: "into-the-woods.jpg"
 imdb: tt2180411
 author: christopherr
 stars: 2
-excerpt: This is where the short description will go.
 addressee: Randy Miller
 position: Crashing Tree Sounds
 tags: 

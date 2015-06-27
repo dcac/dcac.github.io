@@ -9,7 +9,6 @@ image: pretend-were-kissing.jpg
 imdb: tt2756910
 author: dig
 stars: 3.5
-excerpt: This is where the short description will go.
 addressee: "Toronto"
 position: "Location"
 split_name: true

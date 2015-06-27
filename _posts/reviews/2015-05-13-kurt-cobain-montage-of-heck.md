@@ -9,7 +9,6 @@ image: kurt-cobain-montage-of-heck.jpg
 imdb: tt4229236
 author: christopherr
 stars: 4
-excerpt: This is where the short description will go.
 addressee: "Frances Bean Cobain"
 position: "Executive Producer"
 split_name: true

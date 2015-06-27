@@ -4,13 +4,13 @@ categories:
   - reviews
   - current-releases
 published: true
+
 date: 2014-10-31 09:00
 title: Before I Go To Sleep
 image: "before-i-go-to-sleep.jpg"
 imdb: tt1726592
 author: dig
 stars: 1.5
-excerpt: This is where the short description will go.
 position: Stills Photographer
 addressee:  Laurie Sparham
 tags: [Nicole Kidman,Colin Firth,thriller,British,UK]

@@ -9,7 +9,6 @@ image: "inside-out.jpg"
 imdb: tt2096673
 author: caseyt
 stars: 4
-excerpt: "This is where the short description will go."
 addressee: "Pete Docter"
 position: "Co-Screenwriter"
 split_name: true

@@ -9,7 +9,6 @@ image: the-second-best-exotic-marigold-hotel.jpg
 imdb: tt2555736
 author: timm
 stars: 2.5
-excerpt: This is where the short description will go.
 addressee: Judi Dench
 position: "Actor"
 split_name: true

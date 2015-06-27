@@ -9,7 +9,6 @@ image: "the-imitation-game.jpg"
 imdb: tt2084970
 author: timm
 stars: 3
-excerpt: This is where the short description will go.
 addressee: Alan Turing
 position: Enigma
 tags: 

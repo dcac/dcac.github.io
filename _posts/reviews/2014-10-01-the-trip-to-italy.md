@@ -9,7 +9,6 @@ image: "the-trip-to-italy.jpg"
 imdb: tt2967006
 author: jaredy
 stars: 4.5
-excerpt: This is where the short description will go.
 position: Actor
 addressee:  Steve Coogan
 tags: [Steve Coogan, Rob Bryden, Michael Winterbottom, comdey, british, UK, Italy, food]

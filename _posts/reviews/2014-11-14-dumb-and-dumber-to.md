@@ -9,12 +9,12 @@ image: "dumb-and-dumber-to.jpg"
 imdb: tt2096672
 author: christopherr
 stars: 4
-excerpt: This is where the short description will go.
 position: "Cameo Remover"
 addressee:  Jennifer Lawrence
 tags: [comedy, Jim Carrey, Jennifer Lawrence]
 ---
-Must be nice to have full control of your image for once.
+
+Must be nice to have full control of your image for once.
 
 A lot of the early buzz around _Dumb and Dumber To_ is about how you’re _not_ in the movie. Whether you exercised your contractual right to veto your cameo appearance, or whether the filmmakers made a purely artistic decision to…
 

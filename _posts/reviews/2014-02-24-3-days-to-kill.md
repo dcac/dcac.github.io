@@ -10,7 +10,6 @@ tags: reviews
 image: "3-days-to-kill.jpg"
 author: christopherr
 stars: 3
-excerpt: This is where the short description will go.
 position: Ripper
 addressee: Christophe Chatel
 ---

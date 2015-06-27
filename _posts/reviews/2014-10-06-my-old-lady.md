@@ -9,7 +9,6 @@ image: "my-old-lady.jpg"
 imdb: tt2908856
 author: natm
 stars: 2
-excerpt: This is where the short description will go.
 position: Set Decorator
 addressee:  Daphne Deboaisne
 tags: [Kevin Kline, Maggie Smith,drama,comedy,old age,elderly]

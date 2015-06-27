@@ -9,7 +9,6 @@ image: "the-hunger-games-mockingjay-part-1.jpg"
 imdb: tt1951265
 author: christopherr
 stars: 3.5
-excerpt: This is where the short description will go.
 position: Costume Designers
 addressee: Kurt and Bart
 split_name: false

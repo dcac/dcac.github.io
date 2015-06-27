@@ -9,12 +9,12 @@ image: "rosewater.jpg"
 imdb: tt2752688
 author: timm
 stars: 4
-excerpt: This is where the short description will go.
 position: "Director"
 addressee:  Jon Stewart
 tags: [jon stewart,director,drama,non-fiction]
 ---
-What we usually try to do with these reviews is shine the spotlight on some of the less appreciated players in filmmaking, but _Rosewater_ is so much a child of your making that in this case it would be disingenuous to address this letter to anyone else.
+
+What we usually try to do with these reviews is shine the spotlight on some of the less appreciated players in filmmaking, but _Rosewater_ is so much a child of your making that in this case it would be disingenuous to address this letter to anyone else.
 
 A film that faithfully chronicles the sometimes surreal 118-day imprisonment of journalist (and Canadian educated) Maziar Bahari by Iranian authorities in 2009, _Rosewater_ is an intimate and contemplative film. And it doesn’t surprise me at all that you decided to direct this particular story in the way that you did. Shot in Amman, Jordan with a skeleton crew of often only five or six people, it is small in scale but pretty large in ambition. 
 

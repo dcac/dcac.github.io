@@ -9,7 +9,6 @@ image: "after-tiller.jpg"
 imdb: tt2430104
 author: dig
 stars: 4.5
-excerpt: This is where the short description will go.
 position: "Writer and Editor"
 addressee:  "Greg O’Toole"
 tags: [documentary,abortion,editor]

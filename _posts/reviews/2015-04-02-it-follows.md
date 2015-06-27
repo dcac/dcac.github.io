@@ -9,7 +9,6 @@ image: it-follows.jpg
 imdb: tt3235888
 author: kelany
 stars: 4
-excerpt: This is where the short description will go.
 addressee: "Mike Lanier"
 position: "Actor"
 split_name: true

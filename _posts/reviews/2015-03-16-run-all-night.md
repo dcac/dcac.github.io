@@ -9,7 +9,6 @@ image: run-all-night.jpg
 imdb: tt2199571
 author: caseyt
 stars: 2
-excerpt: This is where the short description will go.
 addressee: Common
 position: "Actor"
 split_name: false

@@ -9,7 +9,6 @@ image: "mortdecai.jpg"
 imdb: tt3045616
 author: dig
 stars: 1.5
-excerpt: This is where the short description will go.
 addressee: Moustache
 position: "Secondary Plot Device"
 tags: 

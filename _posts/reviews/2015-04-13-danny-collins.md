@@ -9,7 +9,6 @@ image: danny-collins.jpg
 imdb: tt1772288
 author: timm
 stars: 3.5
-excerpt: This is where the short description will go.
 addressee: "Jordan Hale"
 position: "Music Coordinator"
 split_name: true

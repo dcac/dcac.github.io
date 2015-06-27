@@ -9,7 +9,6 @@ image: "the-equalizer.jpg"
 imdb: tt0455944
 author: christopherr
 stars: 2
-excerpt: This is where the short description will go.
 position: Tool Man
 addressee:  John Larson
 tags: [Denzel Washington,action,military,Antoine Fuqua,tools]

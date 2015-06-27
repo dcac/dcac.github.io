@@ -9,7 +9,6 @@ image: "finding-vivian-maier.jpg"
 imdb: tt2714900
 author: dig
 stars: 3
-excerpt: This is where the short description will go.
 addressee: Rolleiflex Camera
 position: "Longtime Companion"
 split_name: true

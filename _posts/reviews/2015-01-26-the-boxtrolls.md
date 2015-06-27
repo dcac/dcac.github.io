@@ -10,7 +10,6 @@ image: "the-boxtrolls.jpg"
 imdb: tt0787474
 author: timm
 stars: 5
-excerpt: This is where the short description will go.
 addressee: Sir Ben Kingsley
 position: "Transvestite"
 split_name: false

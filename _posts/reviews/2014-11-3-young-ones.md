@@ -9,7 +9,6 @@ image: "young-ones.jpg"
 imdb: tt2693664
 author: timm
 stars: 2.5
-excerpt: This is where the short description will go.
 position: Production Designer
 addressee:  Sharon Lomofsky
 tags: [Jake Paltrow,Elle Fanning,Michael Shannon,sci-fi,science fiction]

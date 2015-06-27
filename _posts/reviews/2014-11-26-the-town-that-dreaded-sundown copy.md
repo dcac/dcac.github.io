@@ -9,7 +9,6 @@ image: "the-town-that-dreaded-sundown.jpg"
 imdb: tt2561546
 author: kelany
 stars: 3
-excerpt: This is where the short description will go.
 addressee: Hannah Beachler
 position: Production Design
 tags: 

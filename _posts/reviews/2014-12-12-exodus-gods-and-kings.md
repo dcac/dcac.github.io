@@ -9,7 +9,6 @@ image: "exodus-gods-and-kings.jpg"
 imdb: tt1528100
 author: timm
 stars: 2
-excerpt: This is where the short description will go.
 addressee: Yahweh
 position: Petulant God
 tags: 

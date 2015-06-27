@@ -9,7 +9,6 @@ image: "the-babadook.jpg"
 imdb: tt2321549
 author: christopherr
 stars: 4
-excerpt: This is where the short description will go.
 addressee: Lauren Wells-Jones
 position: Casual Assistant Director
 tags: 

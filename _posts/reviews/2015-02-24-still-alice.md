@@ -9,7 +9,6 @@ image: still-alice.jpg
 imdb: tt3316960
 author: dig
 stars: 3.5
-excerpt: This is where the short description will go.
 addressee: Patrick Quinn
 position: "Focus Puller"
 split_name: true

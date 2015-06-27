@@ -9,7 +9,6 @@ image: san-andreas.jpg
 imdb: tt2126355
 author: christopherr
 stars: 4
-excerpt: This is where the short description will go.
 addressee: "Jeanne Bautista"
 position: "Disaster Victim"
 split_name: true

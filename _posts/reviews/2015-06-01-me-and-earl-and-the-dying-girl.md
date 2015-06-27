@@ -9,7 +9,6 @@ image: me-and-earl-and-the-dying-girl.jpg
 imdb: tt2582496
 author: timm
 stars: 3.5
-excerpt: This is where the short description will go.
 addressee: "Gerald Sullivan"
 position: "Production Designer"
 split_name: false

@@ -9,7 +9,6 @@ image: age-of-adaline.jpg
 imdb: tt1655441
 author: dig
 stars: 2.5
-excerpt: This is where the short description will go.
 addressee: "Hugh Ross"
 position: "Narrator"
 split_name: true

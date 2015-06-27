@@ -9,7 +9,6 @@ image: "fading-gigolo.jpg"
 imdb: tt2258345
 author: dig
 stars: 3
-excerpt: This is where the short description will go.
 addressee: Chris Robertson
 position: Music Supervisor
 tags: 

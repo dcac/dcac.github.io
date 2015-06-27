@@ -9,7 +9,6 @@ image: "nightcrawler.jpg"
 imdb: tt2872718
 author: timm
 stars: 4
-excerpt: This is where the short description will go.
 position: Second Unit Director
 addressee:  Mike Smith
 tags: [Jake Gyllenhall,Rene Russo,drama,thriller,crime,tv,journalism]

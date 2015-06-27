@@ -9,7 +9,6 @@ image: "corner-gas-the-movie.jpg"
 imdb: tt3788052
 author: timm
 stars: 2
-excerpt: This is where the short description will go.
 addressee: Brent Butt
 position: Executive Producer
 tags: 

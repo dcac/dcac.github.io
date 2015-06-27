@@ -9,7 +9,6 @@ image: "night-at-the-museum-secret-of-the-tomb.jpg"
 imdb: tt2692250
 author: timm
 stars: 2.5
-excerpt: This is where the short description will go.
 addressee: Hugh O’Brien
 position: Stand-in for Robin Williams
 tags: 

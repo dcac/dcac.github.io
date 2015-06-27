@@ -9,7 +9,6 @@ image: miss-julie.jpg
 imdb: tt2667960
 author: dig
 stars: 3
-excerpt: This is where the short description will go.
 addressee: "Peter Marley"
 position: Prop Hand
 split_name: true

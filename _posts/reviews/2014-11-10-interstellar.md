@@ -9,7 +9,6 @@ image: "interstellar.jpg"
 imdb: tt0816692
 author: jaredy
 stars: 4.5
-excerpt: This is where the short description will go.
 position: Special Advisor
 addressee:  Kip Thorne
 tags: [Christopher Nolan, Mathew McConaughey,science fiction,sci-fi,drama]

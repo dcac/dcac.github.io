@@ -9,7 +9,6 @@ image: "night-moves.jpg"
 imdb: tt2043933
 author: christopherr
 stars: 3
-excerpt: This is where the short description will go.
 position: Production Sound Mixer
 addressee:  Glenn Micallef
 tags: [independent,indie,kelly reichardt,jesse eisenberg]
@@ -26,7 +25,8 @@ Still, this is far from a standard thriller. Reichardt is once again exploring t
 But of course, it's what's _not_ being said or heard that usually makes Reichardt's films unique. After toiling in independent obscurity for years, it's hard to blame her for trying to make something less challenging on the audience. Except easy is never as rewarding – not for a viewer, and not even for a crew member like you.
 
 
-{% contentfor signature %}**Until next time,**
+{% contentfor signature %}
+**Until next time,**
 
 Christopher
 {% endcontentfor %}

@@ -9,7 +9,6 @@ image: avengers-age-of-ultron.jpg
 imdb: tt2395427
 author: caseyt
 stars: 3.5
-excerpt: This is where the short description will go.
 addressee: "Jared Young, Age 31"
 position: "Past Reviewer"
 split_name: true

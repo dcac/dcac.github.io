@@ -9,7 +9,6 @@ image: while-were-young.jpg
 imdb: tt1791682
 author: natm
 stars: 3.5
-excerpt: This is where the short description will go.
 addressee: "Kris Moran"
 position: "Set Decorator"
 split_name: true

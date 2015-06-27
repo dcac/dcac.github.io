@@ -10,7 +10,6 @@ image: "the-wolf-of-wall-street.jpg"
 imdb: tt0993846
 author: caseyt
 stars: 4.5
-excerpt: This is where the short description will go.
 position: Actor
 addressee: Jordan Belfort
 tags: [Martin Scorsese,Leonardo DiCaprio, Jonah Hill, Matthew McConaughey,biopic,drama,drugs,wall street,comedy]

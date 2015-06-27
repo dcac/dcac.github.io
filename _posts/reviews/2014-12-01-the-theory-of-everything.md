@@ -9,7 +9,6 @@ image: "the-theory-of-everything.jpg"
 imdb: tt2980516
 author: christopherr
 stars: 4
-excerpt: This is where the short description will go.
 addressee: Nick Watts
 position: End Rewind Sequence Editor
 tags: 

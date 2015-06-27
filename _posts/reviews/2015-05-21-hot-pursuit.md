@@ -9,7 +9,6 @@ image: hot-pursuit.jpg
 imdb: tt2967224
 author: dig
 stars: 1
-excerpt: This is where the short description will go.
 addressee: "Reese Witherspoon"
 position: "Producer/Actress"
 split_name: true
