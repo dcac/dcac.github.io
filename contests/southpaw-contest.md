@@ -15,7 +15,7 @@ addressee:
 
 Want to fight your way to see the **new Jake Gyllenhaal film**? Then put up your dukes!
 
-We have **tickets for the advance screening of Southpaw** on **Monday, July 22** in the following Canadian cities:
+We have **tickets for the advance screening of Southpaw** on **Monday, July 20** in the following Canadian cities:
 
 Vancouver  
 Victoria  

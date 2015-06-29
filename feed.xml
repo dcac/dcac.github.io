@@ -13,10 +13,11 @@ layout: none
 				<title>{% if post.categories contains "reviews" %}Review{% else %} Feature{% endif %}: {{ post.title | xml_escape }}</title>
 				<description>
   				<![CDATA[
-  				<img src="{{site.url}}/assets/img/posts/thumb-600/{{post.image}}" /></description>
+  				<img src="http://{{site.url}}/assets/img/posts/thumb-600/{{post.image}}" />
   				<p>Dear {{post.addressee | xml_escape }}, {% if post.categories contains "reviews" %}{{post.position | xml_escape }}, {% endif %}<br />
-  				{{ post.excerpt }}</description>p>
+  				{{ post.excerpt }}p>
   		    ]]>
+				</description>
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 				<link>http://{{ site.url }}{{ post.url }}</link>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
