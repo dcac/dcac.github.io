@@ -2879,8 +2879,13 @@
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
     </url>
     <url>
+<<<<<<< HEAD
         <loc>http://www.dearcastandcrew.com/features/</loc>
         <lastmod>2015-03-13T12:23:42-04:00</lastmod>
+=======
+        <loc>http://www.dearcastandcrew.com/</loc>
+        <lastmod>2015-07-03T16:34:36-04:00</lastmod>
+>>>>>>> origin/master
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
