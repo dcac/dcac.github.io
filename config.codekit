@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19033",
+"creatorBuild": "18493",
 "files": {
 	"\/404.html": {
 		"fileType": 8192,
@@ -533,17 +533,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_plugins-unused\/authors.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_plugins-unused\/authors.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/_plugins-unused\/authors-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
 	"\/_site\/404.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -561,17 +550,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/all-posts.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/all-posts.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/_site\/all-posts-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
 		},
 	"\/_site\/assets\/css\/app.css": {
 		"fileType": 16,
@@ -3112,13 +3090,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/posts\/main\/Despicable-Me-2.jpg": {
+	"\/_site\/assets\/img\/posts\/main\/despicable-me-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 189182,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/Despicable-Me-2.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/Despicable-Me-2.jpg",
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/despicable-me-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/despicable-me-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4084,7 +4062,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 79453,
+		"initialSize": 231386,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/good-kill.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/good-kill.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -4542,13 +4520,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/posts\/main\/Insidious-Chapter-2.jpg": {
+	"\/_site\/assets\/img\/posts\/main\/insidious-chapter-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 115672,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/Insidious-Chapter-2.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/Insidious-Chapter-2.jpg",
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/insidious-chapter-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/insidious-chapter-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5279,6 +5257,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/magic-mike-xxl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59479,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/magic-mike-xxl.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/magic-mike-xxl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/maleficent.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5598,358 +5587,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/posts\/main\/need-for-speed.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 241407,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/need-for-speed.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/need-for-speed.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/neighbors.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 209758,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/neighbors.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/neighbors.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/night-at-the-museum-secret-of-the-tomb.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 193113,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/night-at-the-museum-secret-of-the-tomb.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/night-at-the-museum-secret-of-the-tomb.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/night-moves.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 110489,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/night-moves.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/night-moves.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/nightcrawler-contest.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 285065,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/nightcrawler-contest.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/nightcrawler-contest.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/nightcrawler-tiff.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 57166,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/nightcrawler-tiff.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/nightcrawler-tiff.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/nightcrawler.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 129841,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/nightcrawler.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/nightcrawler.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/no-the-trip-to-italy-is-the-best-film-of-the-year.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 85048,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/no-the-trip-to-italy-is-the-best-film-of-the-year.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/no-the-trip-to-italy-is-the-best-film-of-the-year.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/noah.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 136772,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/noah.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/noah.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/non-stop.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 78085,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/non-stop.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/non-stop.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/now-you-see-me.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 132800,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/now-you-see-me.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/now-you-see-me.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/nymphomaniac.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 217685,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/nymphomaniac.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/nymphomaniac.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/oblivion.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 189907,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/oblivion.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/oblivion.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/obvious-child.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 101274,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/obvious-child.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/obvious-child.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/oculus.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 117650,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/oculus.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/oculus.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/olympus-has-fallen.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 201923,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/olympus-has-fallen.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/olympus-has-fallen.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/omar.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 117972,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/omar.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/omar.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/on-the-road.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 190326,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/on-the-road.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/on-the-road.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/only-god-forgives.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 81291,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/only-god-forgives.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/only-god-forgives.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/only-lovers-left-alive.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 133877,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/only-lovers-left-alive.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/only-lovers-left-alive.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/open-windows.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 65497,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/open-windows.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/open-windows.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/out-of-darkness.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 115882,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/out-of-darkness.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/out-of-darkness.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/out-of-the-furnace.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 97386,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/out-of-the-furnace.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/out-of-the-furnace.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/oz-the-great-and-powerful.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 152345,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/oz-the-great-and-powerful.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/oz-the-great-and-powerful.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/pacific-rim.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 159820,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/pacific-rim.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/pacific-rim.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/pain-gain.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 155441,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/pain-gain.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/pain-gain.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/paranorman.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 105179,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/paranorman.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/paranorman.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/paris-texas.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 203049,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/paris-texas.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/paris-texas.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/particle-fever.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 219101,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/particle-fever.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/particle-fever.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/percy-jackson-sea-of-monsters.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 173853,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/percy-jackson-sea-of-monsters.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/percy-jackson-sea-of-monsters.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/phantom-father.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 176792,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/phantom-father.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/phantom-father.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/philomena.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 78989,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/philomena.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/philomena.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_site\/assets\/img\/posts\/main\/phoenix.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5983,13 +5620,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/posts\/main\/Pitch-Perfect.jpg": {
+	"\/_site\/assets\/img\/posts\/main\/pitch-perfect.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 197253,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/Pitch-Perfect.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/Pitch-Perfect.jpg",
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/pitch-perfect.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/pitch-perfect.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6082,24 +5719,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/posts\/main\/Prisoners.jpg": {
+	"\/_site\/assets\/img\/posts\/main\/prisoners.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 117152,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/Prisoners.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/Prisoners.jpg",
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/prisoners.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/prisoners.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/posts\/main\/Project-X.jpg": {
+	"\/_site\/assets\/img\/posts\/main\/project-x.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 204816,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/Project-X.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/Project-X.jpg",
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/project-x.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/project-x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6137,13 +5774,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/posts\/main\/RED-2.jpg": {
+	"\/_site\/assets\/img\/posts\/main\/red-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 204041,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/RED-2.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/RED-2.jpg",
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/red-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/red-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6174,7 +5811,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 136018,
+		"initialSize": 119247,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/requiem-for-an-underdog.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/requiem-for-an-underdog.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -6984,13 +6621,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/posts\/main\/Tammy.jpg": {
+	"\/_site\/assets\/img\/posts\/main\/tammy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 223305,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/Tammy.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/Tammy.jpg",
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tammy.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tammy.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -7006,13 +6643,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/posts\/main\/Ted.jpg": {
+	"\/_site\/assets\/img\/posts\/main\/ted.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 190207,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/Ted.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/Ted.jpg",
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/ted.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/ted.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -7024,6 +6661,17 @@
 		"initialSize": 252379,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/teenage-mutant-ninja-turtles.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/teenage-mutant-ninja-turtles.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/terminator-genysis.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 208625,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/terminator-genysis.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/terminator-genysis.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -9584,7 +9232,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 9148,
+		"initialSize": 14412,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/71.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/71.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -11597,7 +11245,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 7929,
+		"initialSize": 14741,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/good-kill.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/good-kill.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -12755,6 +12403,17 @@
 		"initialSize": 16462,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/maggie.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/maggie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/magic-mike-xxl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6004,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/magic-mike-xxl.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/magic-mike-xxl.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -14449,6 +14108,17 @@
 		"initialSize": 17327,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/teenage-mutant-ninja-turtles.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/teenage-mutant-ninja-turtles.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/terminator-genysis.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11716,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/terminator-genysis.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/terminator-genysis.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -19370,248 +19040,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/insurgent.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 17157,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/insurgent.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/insurgent.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/insurgents-big-gay-and-pansexual-metaphor.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 13206,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/insurgents-big-gay-and-pansexual-metaphor.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/insurgents-big-gay-and-pansexual-metaphor.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/interstellar.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 11978,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/interstellar.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/interstellar.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/into-the-woods.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 33667,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/into-the-woods.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/into-the-woods.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/iron-man-3.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 43519,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/iron-man-3.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/iron-man-3.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/is-oscarsowhite-or-is-oscarsowrong.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 25087,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/is-oscarsowhite-or-is-oscarsowrong.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/is-oscarsowhite-or-is-oscarsowrong.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/it-follows.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 35232,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/it-follows.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/it-follows.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/its-a-disaster.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 49636,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/its-a-disaster.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/its-a-disaster.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/jack-reacher.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 26768,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/jack-reacher.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/jack-reacher.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/jack-ryan-shadow-recruit.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 38618,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/jack-ryan-shadow-recruit.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/jack-ryan-shadow-recruit.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/jackass-presents-bad-grandpa.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 42325,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/jackass-presents-bad-grandpa.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/jackass-presents-bad-grandpa.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/jared-youngs-top-films-of-2014.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 23470,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/jared-youngs-top-films-of-2014.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/jared-youngs-top-films-of-2014.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/jeff-who-lives-at-home-image-2.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 34012,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/jeff-who-lives-at-home-image-2.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/jeff-who-lives-at-home-image-2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/jeff-who-lives-at-home.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 23798,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/jeff-who-lives-at-home.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/jeff-who-lives-at-home.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/jersey-boys.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 23410,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/jersey-boys.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/jersey-boys.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/jobs.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 29268,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/jobs.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/jobs.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/jodorowskys-dune.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 9260,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/jodorowskys-dune.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/jodorowskys-dune.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/joe.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 56545,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/joe.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/joe.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/john-carter.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 42069,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/john-carter.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/john-carter.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/john-wick.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 17176,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/john-wick.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/john-wick.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/jupiter-ascending.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 27433,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/jupiter-ascending.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/jupiter-ascending.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/jurassic-world.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 25588,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/jurassic-world.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/jurassic-world.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/just-aat-it.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -20015,6 +19443,17 @@
 		"initialSize": 42301,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/maggie.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/maggie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/magic-mike-xxl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13099,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/magic-mike-xxl.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/magic-mike-xxl.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -21720,6 +21159,17 @@
 		"initialSize": 43038,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/teenage-mutant-ninja-turtles.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/teenage-mutant-ninja-turtles.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/terminator-genysis.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30419,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/terminator-genysis.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/terminator-genysis.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -30243,6 +29693,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/7\/2\/magic-mike-xxl.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/7\/2\/magic-mike-xxl.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/7\/4\/terminator-genysis.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/7\/4\/terminator-genysis.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/contests\/71-contest.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -30460,17 +29928,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/film-roles.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/film-roles.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/_site\/film-roles-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
 		},
 	"\/_site\/index.html": {
 		"fileType": 8192,
@@ -35206,17 +34663,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/search.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/search.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/_site\/search-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
 	"\/_site\/writers\/caseyt\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -35478,17 +34924,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/all-posts.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/all-posts.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/all-posts-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
 	"\/assets\/css\/app.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -35524,7 +34959,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 509383,
+		"initialSize": 953899,
 		"inputAbbreviatedPath": "\/assets\/img\/error\/404-3.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/error\/404-3.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -38028,13 +37463,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/posts\/main\/Despicable-Me-2.jpg": {
+	"\/assets\/img\/posts\/main\/despicable-me-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 189182,
-		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/Despicable-Me-2.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/Despicable-Me-2.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/despicable-me-2.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/despicable-me-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -39458,13 +38893,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/posts\/main\/Insidious-Chapter-2.jpg": {
+	"\/assets\/img\/posts\/main\/insidious-chapter-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 115672,
-		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/Insidious-Chapter-2.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/Insidious-Chapter-2.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/insidious-chapter-2.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/insidious-chapter-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -40195,6 +39630,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/magic-mike-xxl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59479,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/magic-mike-xxl.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/magic-mike-xxl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/maleficent.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -40393,13 +39839,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/posts\/main\/Monsters-University.jpg": {
+	"\/assets\/img\/posts\/main\/monsters-university.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 168304,
-		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/Monsters-University.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/Monsters-University.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/monsters-university.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/monsters-university.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -40899,13 +40345,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/posts\/main\/Pitch-Perfect.jpg": {
+	"\/assets\/img\/posts\/main\/pitch-perfect.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 197253,
-		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/Pitch-Perfect.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/Pitch-Perfect.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/pitch-perfect.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/pitch-perfect.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -40998,24 +40444,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/posts\/main\/Prisoners.jpg": {
+	"\/assets\/img\/posts\/main\/prisoners.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 117152,
-		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/Prisoners.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/Prisoners.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/prisoners.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/prisoners.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/posts\/main\/Project-X.jpg": {
+	"\/assets\/img\/posts\/main\/project-x.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 204816,
-		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/Project-X.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/Project-X.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/project-x.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/project-x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -41053,13 +40499,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/posts\/main\/RED-2.jpg": {
+	"\/assets\/img\/posts\/main\/red-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 204041,
-		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/RED-2.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/RED-2.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/red-2.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/red-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -41647,6 +41093,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/southpaw-premiere-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 413924,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/southpaw-premiere-contest.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/southpaw-premiere-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/sparkle.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -41900,13 +41357,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/posts\/main\/Tammy.jpg": {
+	"\/assets\/img\/posts\/main\/tammy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 223305,
-		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/Tammy.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/Tammy.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/tammy.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/tammy.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -41922,13 +41379,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/posts\/main\/Ted.jpg": {
+	"\/assets\/img\/posts\/main\/ted.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 190207,
-		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/Ted.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/Ted.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/ted.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/ted.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -41940,6 +41397,17 @@
 		"initialSize": 252379,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/teenage-mutant-ninja-turtles.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/teenage-mutant-ninja-turtles.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/terminator-genysis.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 208625,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/terminator-genysis.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/terminator-genysis.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -47675,6 +47143,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/magic-mike-xxl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6004,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/magic-mike-xxl.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/magic-mike-xxl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/maleficent.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -49365,6 +48844,17 @@
 		"initialSize": 17327,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/teenage-mutant-ninja-turtles.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/teenage-mutant-ninja-turtles.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/terminator-genysis.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11716,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/terminator-genysis.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/terminator-genysis.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -54935,6 +54425,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/magic-mike-xxl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13099,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/magic-mike-xxl.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/magic-mike-xxl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/maleficent.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -56636,6 +56137,17 @@
 		"initialSize": 43038,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/teenage-mutant-ninja-turtles.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/teenage-mutant-ninja-turtles.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/terminator-genysis.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30419,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/terminator-genysis.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/terminator-genysis.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -59192,28 +58704,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/bower.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/bower-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/bower_components\/fastclick\/bower.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/fastclick\/bower.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/bower_components\/fastclick\/bower-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
 	"\/bower_components\/fastclick\/lib\/fastclick.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -59224,17 +58714,6 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
-		},
-	"\/bower_components\/foundation\/bower.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/foundation\/bower.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/bower_components\/foundation\/bower-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
 		},
 	"\/bower_components\/foundation\/css\/foundation.css": {
 		"fileType": 16,
@@ -59515,17 +58994,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/bower_components\/jquery-placeholder\/bower.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/jquery-placeholder\/bower.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/bower_components\/jquery-placeholder\/bower-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
 	"\/bower_components\/jquery-placeholder\/demo.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -59576,17 +59044,6 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
-		},
-	"\/bower_components\/jquery\/bower.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/jquery\/bower.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/bower-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
 		},
 	"\/bower_components\/jquery\/dist\/jquery.js": {
 		"fileType": 64,
@@ -62085,15 +61542,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/config.rb": {
-		"fileType": 131072,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/config.rb",
-		"outputAbbreviatedPath": "\/config.rb",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/css\/404.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -62305,7 +61753,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 15491,
+		"initialSize": 1233,
 		"inputAbbreviatedPath": "\/favicon.png",
 		"outputAbbreviatedPath": "\/favicon.png",
 		"outputPathIsOutsideProject": 0,
@@ -62347,17 +61795,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/film-roles.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/film-roles.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/film-roles-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
 		},
 	"\/index.html": {
 		"fileType": 8192,
@@ -63882,12 +63319,12 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/Users\/Casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb": {
+	"\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb": {
 		"fileType": 131072,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/Casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
-		"outputAbbreviatedPath": "\/Users\/Casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
+		"inputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
+		"outputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -64345,17 +63782,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/vendor\/unveil-master\/bower.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/vendor\/unveil-master\/bower.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/vendor\/unveil-master\/bower-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
 		},
 	"\/vendor\/unveil-master\/index.html": {
 		"fileType": 8192,
@@ -64896,10 +64322,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"futurehostile": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"globalstrict": {
 			"active": 0,
 			"flagValue": -1
@@ -64986,10 +64408,6 @@
 			},
 		"noarg": {
 			"active": 1,
-			"flagValue": -1
-			},
-		"nocomma": {
-			"active": 0,
 			"flagValue": -1
 			},
 		"node": {
@@ -65090,10 +64508,6 @@
 			},
 		"unused": {
 			"active": 1,
-			"flagValue": -1
-			},
-		"varstmt": {
-			"active": 0,
 			"flagValue": -1
 			},
 		"withstmt": {
@@ -65219,14 +64633,6 @@
 			"flagValue": -1
 			}
 		},
-	"jsonAutoOutputPathEnabled": 0,
-	"jsonAutoOutputPathFilenamePattern": "*-min.json",
-	"jsonAutoOutputPathRelativePath": "",
-	"jsonAutoOutputPathReplace1": "",
-	"jsonAutoOutputPathReplace2": "",
-	"jsonAutoOutputPathStyle": 0,
-	"jsonOrderOutput": 0,
-	"jsonOutputStyle": 1,
 	"kitAutoOutputPathEnabled": 1,
 	"kitAutoOutputPathFilenamePattern": "*.html",
 	"kitAutoOutputPathRelativePath": "",
@@ -65254,18 +64660,9 @@
 	"markdownAutoOutputPathReplace1": "",
 	"markdownAutoOutputPathReplace2": "",
 	"markdownAutoOutputPathStyle": 0,
-	"markdownCriticStyle": 0,
 	"markdownEnableFootnotes": 0,
-	"markdownEnableLabels": 1,
-	"markdownEnableSmartQuotes": 1,
-	"markdownEscapeLineBreaks": 0,
-	"markdownMaskEmailAddresses": 1,
-	"markdownOutputFormat": 0,
-	"markdownOutputStyle": 0,
-	"markdownParseMetadata": 1,
-	"markdownProcessHTML": 0,
-	"markdownRandomFootnoteNumbers": 0,
-	"markdownUseCompatibilityMode": 0,
+	"markdownEnableSmartyPants": 1,
+	"markdownExpandTabs": 1,
 	"reloadFileURLs": 0,
 	"sassAutoOutputPathEnabled": 1,
 	"sassAutoOutputPathFilenamePattern": "*.css",
@@ -65321,10 +64718,6 @@
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
 		"ascii-only": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"bare-returns": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -65405,10 +64798,6 @@
 			"flagValue": -1
 			},
 		"keep_fargs": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"keep_fnames": {
 			"active": 0,
 			"flagValue": -1
 			},

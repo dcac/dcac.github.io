@@ -14,7 +14,7 @@ categories:
   - on-video
 title: "A Good Day to Die Hard"
 comments: true
-tags: [action, bruce willis, Die Hard, John McTiernan, Letters, Sequel, shitty sequels]
+tags: [action, bruce willis, Die Hard, John McTiernan, Jai Courtney, Sequel, shitty sequels]
 ---
 *C/O The California Department of Corrections*
 
