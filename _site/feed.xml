@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title> Feature: A Conversation with &lt;em&gt;Big Game&lt;/em&gt; Director Jalmari Helander</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/a-conversation-with-director-jalmari-helander.jpg" />
+  				<p>Dear false, <br />
+  				C. Redmond speaks with Finnish director Jalmari Helander about breaking into the Hollywood game, what’s wrong with most action movies today, and who he wants to make the next big action star.p>
+  		    ]]>
+				</description>
+				<pubDate>Wed, 08 Jul 2015 00:00:00 -0400</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/7/8/a-conversation-with-director-jalmari-helander.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/7/8/a-conversation-with-director-jalmari-helander.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Terminator: Genysis</title>
 				<description>
   				<![CDATA[
@@ -138,21 +152,6 @@ p>
 				<pubDate>Thu, 11 Jun 2015 07:43:00 -0400</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/6/11/requiem-for-an-underdog.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/6/11/requiem-for-an-underdog.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Spy</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/spy.jpg" />
-  				<p>Dear ‘Homophobic Aunt’ Wig, Costume, <br />
-  				<p>The ‘Melissa McCarthy movie’ has almost become a sub-sub-genre in itself; Packaged as comedy but somehow more horrifying than funny. The premise of any Melissa McCarthy movie seems to be ‘How obnoxious, dirty, and pathetic can we make her look? How deeply can we degrade and humiliate her character before people stop laughing?” It has often bugged me that all we seem to get is more <em>Tammy</em>, when all I want is to see her play the President in a remake of <em>Air Force One</em> (come on, you <em>know</em> how hard that movie would bring it).</p>
-p>
-  		    ]]>
-				</description>
-				<pubDate>Thu, 04 Jun 2015 00:00:00 -0400</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/6/4/spy.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/6/4/spy.html</guid>
 			</item>
 		
 	</channel>
