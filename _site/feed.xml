@@ -7,6 +7,21 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Big Game</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/big-game.jpg" />
+  				<p>Dear Jalmari Helander, Writer/Director, <br />
+  				<p>I didn’t like your movie <em>Big Game</em> very much, but my real argument with you is less about the quality of your particular film and more to do with a larger issue.</p>
+p>
+  		    ]]>
+				</description>
+				<pubDate>Thu, 16 Jul 2015 00:00:00 -0400</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/7/16/big-game.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/7/16/big-game.html</guid>
+			</item>
+		
+			<item>
 				<title> Feature: A Conversation with &lt;em&gt;Big Game&lt;/em&gt; Director Jalmari Helander</title>
 				<description>
   				<![CDATA[
@@ -138,20 +153,6 @@ p>
 				<pubDate>Thu, 11 Jun 2015 19:43:00 -0400</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/6/11/entourage.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/6/11/entourage.html</guid>
-			</item>
-		
-			<item>
-				<title> Feature: Requiem for an Underdog</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/requiem-for-an-underdog.jpg" />
-  				<p>Dear 1985, <br />
-  				1985 was the hardest year of my life, and one movie helped me get through it. One gloriously bad movie that celebrates its 30th anniversary this year. That movie is <em>Rocky IV</em>.p>
-  		    ]]>
-				</description>
-				<pubDate>Thu, 11 Jun 2015 07:43:00 -0400</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/6/11/requiem-for-an-underdog.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/6/11/requiem-for-an-underdog.html</guid>
 			</item>
 		
 	</channel>
