@@ -7,6 +7,21 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Trainwreck</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/trainwreck.jpg" />
+  				<p>Dear Alison Jones, Casting Director, <br />
+  				<p>Thank you for taking a chance. </p>
+p>
+  		    ]]>
+				</description>
+				<pubDate>Mon, 20 Jul 2015 00:00:00 -0400</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/7/20/trainwreck.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/7/20/trainwreck.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Big Game</title>
 				<description>
   				<![CDATA[
@@ -138,21 +153,6 @@ p>
 				<pubDate>Fri, 12 Jun 2015 00:00:00 -0400</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/6/12/jurassic-world.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/6/12/jurassic-world.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Entourage</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/entourage.jpg" />
-  				<p>Dear Doug Ellin, Writer/Creator/Director, <br />
-  				<p>Eight seasons and a movie. That’s a long run for any creative endeavour. Just keeping up the energy is a feat in and of itself—especially for something as fundamentally empty as <em>Entourage</em>. The Hollywood adventures of Vinnie Chase and his gang of charisma-free bros—brother and fellow actor Johnny Drama, his manager E, and driver Turtle (I’d name the actors, but let’s not pretend they’ll have any kind of career outside this)—felt like something that warranted three, maybe four seasons. It was always a trifle of a show, and the longer it went on it was obvious that there never was any <em>there</em> there. Nothing. At all. How could you keep returning to mine something that emptied its reserves so long ago?</p>
-p>
-  		    ]]>
-				</description>
-				<pubDate>Thu, 11 Jun 2015 19:43:00 -0400</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/6/11/entourage.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/6/11/entourage.html</guid>
 			</item>
 		
 	</channel>
