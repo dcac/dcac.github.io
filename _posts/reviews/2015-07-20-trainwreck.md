@@ -33,12 +33,12 @@ Amy Schumer has made a living by being a normal human being and pointing out how
 
 Your against-the-norm casting is part of what makes _Trainwreck_ so enjoyable. The film is jam-packed with celebrity cameos (Daniel Radcliffe, Amar’e Stoudemire, Lebron James), any number of whom are considered sex symbols, but they were all fillers. The real attraction is between the slightly awkward, pizza-loving Amy Schumer and the stiff, nerdy Bill Hader. 
 
-Kudos on your peculiar but successful casting of Lebron James as the penny-pinching, emotional best friend and John Cena as the sensitive, closeted homosexual. Choosing athletes in the prime of their career and having them do a complete 180 was not only a pleasant surprise, but also a key element in making _Trainwreck hilarious.
+Kudos on your peculiar but successful casting of Lebron James as the penny-pinching, emotional best friend and John Cena as the sensitive, closeted homosexual. Choosing athletes in the prime of their career and having them do a complete 180 was not only a pleasant surprise, but also a key element in making _Trainwreck_ hilarious.
 
-Given the [importance](http://www.dearcastandcrew.com/content/2015/7/4/terminator-genysis.html) of proper casting in highly anticipated movies, your strategic mixing and matching enhances the overall experience and ensures _Trainwreck will be a sought after addition to the W network’s primetime slot for years to come.
+Given the [importance](http://www.dearcastandcrew.com/content/2015/7/4/terminator-genysis.html) of proper casting in highly anticipated movies, your strategic mixing and matching enhances the overall experience and ensures _Trainwreck_ will be a sought after addition to the W network’s primetime slot for years to come.
 
 With Bill Hader and Amy Schumer hogging the spotlight in this movie -- and Ike Barinholtz appearing as the love interest to Amy Poehler in the upcoming comedy, _Sisters_ -- our traditional rom-com heavyweights might soon be out of a job. Can anyone spare a dime for a smoulder?
 
 **Sincerely,**
 
-Ankt
+Ankit
