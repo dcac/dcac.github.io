@@ -2,7 +2,7 @@
                   <div class="post-image">
                     <img class="b-lazy img-size" src="/assets/img/posts/thumb-300/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}" alt="{{ page.title }} Image" />
                     <div class="corner-stamp"></div>
-                    {% if page.stars %}<div class="small-star-rating">{% for i in (1..page.stars) %}<img src="/assets/img/global/stars/star-blue.svg" class="star-small" alt="Star" />{% endfor %}{% assign half_star = page.stars | modulo:1 %}{% if half_star > 0 %}<img src="/assets/img/global/stars/star-blue-half.svg" class="star-small" alt="Half Star" />{% endif %}{% assign empty_stars = 5 | minus: page.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img src="/assets/img/global/stars/star-white.svg" class="star-small" alt="Empty Star" />{% endfor %}{% endif %}</div>{% endif %}
+                    {% if page.stars %}<div class="small-star-rating">{% if page.stars == 0 %}<img class="zero-star-small" src="/assets/img/global/stars/zero-star-blue.svg" alt="" />{% else %}{% for i in (1..page.stars) %}<img src="/assets/img/global/stars/star-blue.svg" class="star-small" alt="Star" />{% endfor %}{% assign half_star = page.stars | modulo:1 %}{% if half_star > 0 %}<img src="/assets/img/global/stars/star-blue-half.svg" class="star-small" alt="Half Star" />{% endif %}{% assign empty_stars = 5 | minus: page.stars %}{% if empty_stars != 0 %}{% for i in (1..empty_stars) %}<img src="/assets/img/global/stars/star-white.svg" class="star-small" alt="Empty Star" />{% endfor %}{% endif %}{% endif %}</div>{% endif %}
                   </div>
                   <div class="review-text">
                     <h1>{{ page.title }}</h1>

@@ -7,12 +7,27 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Pixels</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/pixels.jpg" />
+  				<p>Dear Adam Sandler, Acolyte of Baal And Star of PIXELS, <br />
+  				<p>Adam Sandler is the Antichrist Adam Sandler is the Antichrist, Adam Sandler is the Antichrist. Adam Sandler is the Antichrist: Adam Sandler is the Antichrist; Adam Sandler is the Antichrist; Adam Sandler is the Antichrist.</p>
+p>
+  		    ]]>
+				</description>
+				<pubDate>Tue, 28 Jul 2015 00:00:00 -0400</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/7/28/pixels.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/7/28/pixels.html</guid>
+			</item>
+		
+			<item>
 				<title> Feature: The Value of a Veteran Filmmaker</title>
 				<description>
   				<![CDATA[
   				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/the-value-of-a-veteran-filmmaker.jpg" />
   				<p>Dear Freshman Filmmakers, <br />
-  				1985 was the hardest year of my life, and one movie helped me get through it. One gloriously bad movie that celebrates its 30th anniversary this year. That movie is <em>Rocky IV</em>.p>
+  				Is Hollywood's rush to give young directors  the key to the blockbuster kingdom robbing them of their chance to grow as artists?p>
   		    ]]>
 				</description>
 				<pubDate>Wed, 22 Jul 2015 00:00:00 -0400</pubDate>
@@ -137,21 +152,6 @@ p>
 				<pubDate>Mon, 22 Jun 2015 00:00:00 -0400</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/6/22/inside-out.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/6/22/inside-out.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Dope</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/dope.jpg" />
-  				<p>Dear McGuffin, Plot Mechanism, <br />
-  				<p><em>Dope</em> is as much a cultural artifact as it is a story. An artifact because it often only makes sense in relationship to the films that it depends on to first inform, and prop up, its central premise—movies like <em>Juice</em>, <em>Boys N’ The Hood</em> and especially <em>Menace II Society.</em></p>
-p>
-  		    ]]>
-				</description>
-				<pubDate>Fri, 19 Jun 2015 00:00:00 -0400</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/6/19/dope.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/6/19/dope.html</guid>
 			</item>
 		
 	</channel>
