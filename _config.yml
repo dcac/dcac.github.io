@@ -87,6 +87,11 @@ prose:
      - name: "imdb"
        field:
          element: "text"
+         label: "title"
+     - name: "author"
+     - name: "imdb"
+       field:
+         element: "text"
          label: "IMDB"
      - name: "author"
        field:
