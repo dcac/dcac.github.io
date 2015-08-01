@@ -7,6 +7,21 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Amy</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/amy.jpg" />
+  				<p>Dear &#39;Rehab&#39;, Song, <br />
+  				<p>This is the verbatim conversation <a href="http://www.dearcastandcrew.com/writers/timm/">Tim McEown</a> and I had on July 23, 2011:</p>
+p>
+  		    ]]>
+				</description>
+				<pubDate>Sat, 01 Aug 2015 00:00:00 -0400</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/8/1/amy.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/8/1/amy.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Pixels</title>
 				<description>
   				<![CDATA[
@@ -137,21 +152,6 @@ p>
 				<pubDate>Thu, 25 Jun 2015 00:00:00 -0400</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/6/25/the-face-of-an-angel.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/6/25/the-face-of-an-angel.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Inside Out</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/inside-out.jpg" />
-  				<p>Dear Pete Docter, Co-Screenwriter, <br />
-  				<p>You did a lot more than write the screenplay for <em>Inside Out</em>. Along with Ronaldo Del Carmen you also developed the original story and co-directed it. But I want to talk about how <em>Inside Out</em> is structured as a story, so “Co-screenwriter” is going to have to do for now.</p>
-p>
-  		    ]]>
-				</description>
-				<pubDate>Mon, 22 Jun 2015 00:00:00 -0400</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/6/22/inside-out.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/6/22/inside-out.html</guid>
 			</item>
 		
 	</channel>
