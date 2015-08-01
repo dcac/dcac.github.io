@@ -84,11 +84,10 @@ prose:
            value: "review"
          - name: "Essay"
            value: "essay"
-     - name: "imdb"
+     - name: "title"
        field:
          element: "text"
-         label: "title"
-     - name: "author"
+         label: "Title"
      - name: "imdb"
        field:
          element: "text"
