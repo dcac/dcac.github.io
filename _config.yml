@@ -126,4 +126,4 @@ prose:
          options:
            - name:"Test"
             value:"test"
-         alterable: "true"
+         alterable: true
