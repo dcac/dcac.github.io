@@ -120,9 +120,8 @@ prose:
          value: "0"
      - name: "tags"
        field:
-         element: "number"
+         element: "multiselect"
          label: "Tags"
-         type: "multiselect"
          options:
            - name:"Test"
             value:"test"
