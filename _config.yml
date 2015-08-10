@@ -123,4 +123,5 @@ prose:
          element: "number"
          label: "Tags"
          type: "multiselect"
+         value:"Test"
          alterable: true
