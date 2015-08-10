@@ -122,7 +122,5 @@ prose:
        field:
          element: "multiselect"
          label: "Tags"
-         options:
-           - name:"Test"
-            value:"test"
+         placeholder: "Enter tags here."
          alterable: true
