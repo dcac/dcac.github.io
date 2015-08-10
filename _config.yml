@@ -84,6 +84,12 @@ prose:
            value: "review"
          - name: "Essay"
            value: "essay"
+         - name: "Interview"
+           value: "interview"
+         - name: "Series"
+           value: "series"
+         - name: "Series Postcard"
+           value: "series-postcard"
      - name: "title"
        field:
          element: "text"
@@ -96,6 +102,12 @@ prose:
        field:
          element: "text"
          label: "Author"
+     - name: "stars"
+       field:
+         element: "number"
+         label: "Star Rating"
+         type: "number"
+         value: "0"
      - name: "addressee"
        field:
          element: "text"
@@ -112,12 +124,6 @@ prose:
        field:
          element: "textarea"
          label: "Excerpt"
-     - name: "stars"
-       field:
-         element: "number"
-         label: "Star Rating"
-         type: "number"
-         value: "0"
      - name: "tags"
        field:
          element: "multiselect"
