@@ -7,7 +7,7 @@ excerpt: null
 author: timm
 addressee: Greta Gerwig and Noah Baumbach
 position: Writers
-split-name: false
+split_name: false
 image: mistress-america.jpg
 tags: 
   - Noah Baumbach
