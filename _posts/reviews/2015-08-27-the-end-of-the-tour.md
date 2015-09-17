@@ -5,7 +5,7 @@ layout: review
 stars: 3.5
 excerpt: null
 author: timm
-addressee: Dear David Foster Wallace
+addressee: David Foster Wallace
 position: "Inspiration for <em>The End of The Tour</em>"
 image: the-end-of-the-tour.jpg
 tags: 
