@@ -2870,11 +2870,31 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2015/8/11/vacation.html</loc>
-        <lastmod>2015-08-16T22:34:41-04:00</lastmod>
+        <lastmod>2015-08-16T22:54:59-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2015/8/16/fantastic-four.html</loc>
-        <lastmod>2015-08-16T22:38:52-04:00</lastmod>
+        <lastmod>2015-08-16T22:54:59-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/8/16/the-man-from-uncle.html</loc>
+        <lastmod>2015-09-17T08:33:45-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/8/17/american-ultra.html</loc>
+        <lastmod>2015-09-17T07:53:09-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/8/27/the-end-of-the-tour.html</loc>
+        <lastmod>2015-09-17T08:14:04-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/9/4/mistress-america.html</loc>
+        <lastmod>2015-09-17T08:08:14-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/9/10/pawn-sacrifice.html</loc>
+        <lastmod>2015-09-17T08:34:25-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
@@ -2924,7 +2944,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2015-08-16T22:38:52-04:00</lastmod>
+        <lastmod>2015-09-17T08:34:25-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/reviews/current-releases/</loc>
@@ -3033,5 +3053,9 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/while-were-young-contest.html</loc>
         <lastmod>2015-04-20T11:55:41-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
+        <lastmod>2015-08-10T06:18:16-04:00</lastmod>
     </url>
 </urlset>
