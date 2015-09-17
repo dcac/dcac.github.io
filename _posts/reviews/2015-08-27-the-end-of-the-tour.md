@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The End of the Tour
 layout: review
 stars: 3.5
