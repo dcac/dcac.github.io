@@ -14,7 +14,7 @@ tags:
   - action
   - drama
   - romance
-imdb: tt1502712
+imdb: tt3316948
 ---
 
 There is an old adage: “a carpenter is only as good as his tools”. If anyone knows the truth of that saying, it is you. Sometimes you get precision-tooled equipment: pristine and flawless, stainless steel and factory fresh. Other times you have to make do with a single, rusty, duct taped POS hammer someone scrounged from Grandpa’s garage. Unfortunately the latter circumstance was the case with _American Ultra_.
