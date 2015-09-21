@@ -6,7 +6,7 @@ stars: 3.5
 excerpt: null
 author: timm
 addressee: David Foster Wallace
-position: "Inspiration for <em>The End of The Tour</em>"
+position: "Inspiration"
 image: the-end-of-the-tour.jpg
 tags: 
   - drama
