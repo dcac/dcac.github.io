@@ -573,6 +573,17 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
+	"\/_site\/apple-touch-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2343,
+		"inputAbbreviatedPath": "\/_site\/apple-touch-icon.png",
+		"outputAbbreviatedPath": "\/_site\/apple-touch-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/css\/app.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -6284,7 +6295,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 136018,
+		"initialSize": 119247,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/requiem-for-an-underdog.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/requiem-for-an-underdog.jpg",
 		"outputPathIsOutsideProject": 0,
