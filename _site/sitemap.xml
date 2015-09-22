@@ -2882,19 +2882,21 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2015/8/17/american-ultra.html</loc>
-        <lastmod>2015-09-17T07:53:09-04:00</lastmod>
+        <lastmod>2015-09-21T10:39:04-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2015/8/27/the-end-of-the-tour.html</loc>
-        <lastmod>2015-09-17T08:14:04-04:00</lastmod>
+        <lastmod>2015-09-21T10:40:21-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2015/9/4/mistress-america.html</loc>
-        <lastmod>2015-09-17T08:08:14-04:00</lastmod>
+        <lastmod>2015-09-17T16:06:18-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/content/2015/9/10/pawn-sacrifice.html</loc>
-        <lastmod>2015-09-17T08:34:25-04:00</lastmod>
+        <loc>
+            http://www.dearcastandcrew.com/content/2015/9/22/maze-runner-the-scorch-trials.html
+        </loc>
+        <lastmod>2015-09-22T09:48:54-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
@@ -2944,7 +2946,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2015-09-17T08:34:25-04:00</lastmod>
+        <lastmod>2015-09-22T09:48:54-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/reviews/current-releases/</loc>
@@ -3053,9 +3055,5 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/while-were-young-contest.html</loc>
         <lastmod>2015-04-20T11:55:41-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
-        <lastmod>2015-08-10T06:18:16-04:00</lastmod>
     </url>
 </urlset>
