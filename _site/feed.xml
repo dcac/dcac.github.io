@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Black Mass</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/black-mass.jpg" />
+  				<p>Dear Howard Samuelsohn and Carla Meyer, Dialect Coaches, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Wed, 23 Sep 2015 00:00:00 -0400</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/9/23/black-mass.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/9/23/black-mass.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Maze Runner: The Scorch Trials</title>
 				<description>
   				<![CDATA[
@@ -131,21 +145,6 @@ p>
 				<pubDate>Sat, 01 Aug 2015 00:00:00 -0400</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/8/1/amy.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/8/1/amy.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Pixels</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/pixels.jpg" />
-  				<p>Dear Adam Sandler, Acolyte of Baal And Star of PIXELS, <br />
-  				<p>Adam Sandler is the Antichrist Adam Sandler is the Antichrist, Adam Sandler is the Antichrist. Adam Sandler is the Antichrist: Adam Sandler is the Antichrist; Adam Sandler is the Antichrist; Adam Sandler is the Antichrist.</p>
-p>
-  		    ]]>
-				</description>
-				<pubDate>Tue, 28 Jul 2015 00:00:00 -0400</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/7/28/pixels.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/7/28/pixels.html</guid>
 			</item>
 		
 	</channel>
