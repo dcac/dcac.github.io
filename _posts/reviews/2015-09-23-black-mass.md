@@ -8,6 +8,7 @@ author: dig
 addressee: Howard Samuelsohn and Carla Meyer
 position: "Dialect Coaches"
 image: black-mass.jpg
+split_name: false
 tags: 
   - biography
   - true crime
