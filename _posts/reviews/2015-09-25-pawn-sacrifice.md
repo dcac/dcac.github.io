@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Pawn Sacrifice
 layout: review
 stars: 3.5
