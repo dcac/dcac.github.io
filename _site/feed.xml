@@ -7,6 +7,34 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: The Intern</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/the-intern.jpg" />
+  				<p>Dear Vegan Chocolate Cake, Metaphor, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Mon, 28 Sep 2015 00:00:00 -0400</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/9/28/the-intern.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/9/28/the-intern.html</guid>
+			</item>
+		
+			<item>
+				<title>Review: Pawn Sacrifice</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/pawn-sacrifice.jpg" />
+  				<p>Dear Bradford Young, Cinematographer, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Fri, 25 Sep 2015 00:00:00 -0400</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/9/25/pawn-sacrifice.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/9/25/pawn-sacrifice.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Black Mass</title>
 				<description>
   				<![CDATA[
@@ -116,35 +144,6 @@
 				<pubDate>Tue, 11 Aug 2015 00:00:00 -0400</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/8/11/vacation.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/8/11/vacation.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Southpaw</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/southpaw.jpg" />
-  				<p>Dear Roy Jones Jr., Bit Player, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Sat, 08 Aug 2015 00:00:00 -0400</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/8/8/southpaw.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/8/8/southpaw.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Amy</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/amy.jpg" />
-  				<p>Dear &#39;Rehab&#39;, Song, <br />
-  				<p>This is the verbatim conversation <a href="http://www.dearcastandcrew.com/writers/timm/">Tim McEown</a> and I had on July 23, 2011:</p>
-p>
-  		    ]]>
-				</description>
-				<pubDate>Sat, 01 Aug 2015 00:00:00 -0400</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/8/1/amy.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/8/1/amy.html</guid>
 			</item>
 		
 	</channel>
