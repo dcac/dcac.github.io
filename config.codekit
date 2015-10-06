@@ -2617,6 +2617,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/black-mass.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97666,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/black-mass.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/black-mass.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/black-or-white-contest.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -8029,6 +8040,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/the-intern.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 267551,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-intern.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-intern.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/the-internets-own-boy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -8179,6 +8201,17 @@
 		"initialSize": 239392,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-man-from-uncle.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-man-from-uncle.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-martian.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 396032,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-martian.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-martian.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -9213,6 +9246,17 @@
 		"initialSize": 96887,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/unfriended.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/unfriended.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/Untitled-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97666,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/Untitled-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/Untitled-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -10423,6 +10467,17 @@
 		"initialSize": 9069,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/birdmans-win-is-bad-news-for-tiff.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/birdmans-win-is-bad-news-for-tiff.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/black-mass.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7615,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/black-mass.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/black-mass.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15586,6 +15641,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/the-intern.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18207,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-intern.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-intern.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/the-internets-own-boy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15736,6 +15802,17 @@
 		"initialSize": 16418,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-man-from-uncle.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-man-from-uncle.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/the-martian.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20042,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-martian.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-martian.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -17925,6 +18002,17 @@
 		"initialSize": 22124,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/birdmans-win-is-bad-news-for-tiff.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/birdmans-win-is-bad-news-for-tiff.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/black-mass.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18886,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/black-mass.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/black-mass.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -23055,6 +23143,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/the-intern.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51929,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-intern.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-intern.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/the-internets-own-boy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -23205,6 +23304,17 @@
 		"initialSize": 46128,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-man-from-uncle.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-man-from-uncle.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/the-martian.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58923,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-martian.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-martian.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -24826,23 +24936,34 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/js\/app-bottom-min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/assets\/js\/app-bottom-min.js",
-		"outputAbbreviatedPath": "\/_site\/assets\/js\/min\/app-bottom-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
 	"\/_site\/assets\/js\/app-top-min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/assets\/js\/app-top-min.js",
 		"outputAbbreviatedPath": "\/_site\/assets\/js\/min\/app-top-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/assets\/js\/min\/app-bottom-min-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/js\/min\/app-bottom-min-min.js",
+		"outputAbbreviatedPath": "\/_site\/assets\/js\/min\/min\/app-bottom-min-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/assets\/js\/min\/blazy-min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/js\/min\/blazy-min.js",
+		"outputAbbreviatedPath": "\/_site\/assets\/js\/min\/min\/blazy-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -30124,6 +30245,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/10\/6\/the-martian.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/10\/6\/the-martian.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2015\/2\/1\/american-snipers-magic-bullet-theory.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -30961,6 +31091,33 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/9\/23\/black-mass.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/9\/23\/black-mass.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/9\/25\/pawn-sacrifice.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/9\/25\/pawn-sacrifice.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/9\/28\/the-intern.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/9\/28\/the-intern.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2015\/9\/4\/mistress-america.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -31122,6 +31279,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/DH-wall.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 156846,
+		"inputAbbreviatedPath": "\/_site\/DH-wall.jpg",
+		"outputAbbreviatedPath": "\/_site\/DH-wall.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/_site\/favicon.png": {
 		"fileType": 32768,
@@ -35825,6 +35993,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/reviews\/page24\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/reviews\/page24\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/reviews\/page3\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -38274,6 +38451,17 @@
 		"initialSize": 120332,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/birdmans-win-is-bad-news-for-tiff.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/birdmans-win-is-bad-news-for-tiff.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/black-mass.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97666,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/black-mass.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/black-mass.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -43690,6 +43878,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/the-intern.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 267551,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-intern.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-intern.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/the-internets-own-boy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -43840,6 +44039,17 @@
 		"initialSize": 239392,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-man-from-uncle.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-man-from-uncle.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/the-martian.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 396032,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-martian.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-martian.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -44874,6 +45084,17 @@
 		"initialSize": 96887,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/unfriended.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/unfriended.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/Untitled-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97666,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/Untitled-1.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/Untitled-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -46084,6 +46305,17 @@
 		"initialSize": 9069,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/birdmans-win-is-bad-news-for-tiff.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/birdmans-win-is-bad-news-for-tiff.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/black-mass.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7615,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/black-mass.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/black-mass.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -51247,6 +51479,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/the-intern.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18207,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-intern.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-intern.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/the-internets-own-boy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -51397,6 +51640,17 @@
 		"initialSize": 16418,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-man-from-uncle.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-man-from-uncle.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/the-martian.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20042,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-martian.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-martian.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -53586,6 +53840,17 @@
 		"initialSize": 22124,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/birdmans-win-is-bad-news-for-tiff.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/birdmans-win-is-bad-news-for-tiff.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/black-mass.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18886,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/black-mass.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/black-mass.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -58716,6 +58981,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/the-intern.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51929,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-intern.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-intern.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/the-internets-own-boy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -58866,6 +59142,17 @@
 		"initialSize": 46128,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-man-from-uncle.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-man-from-uncle.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/the-martian.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58923,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-martian.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-martian.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -63629,6 +63916,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/DH-wall.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 156846,
+		"inputAbbreviatedPath": "\/DH-wall.jpg",
+		"outputAbbreviatedPath": "\/DH-wall.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/favicon.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -65210,14 +65508,16 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/Users\/Casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb": {
-		"fileType": 131072,
+	"\/vendor\/bLazy\/blazy.min-new.js": {
+		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/Casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
-		"outputAbbreviatedPath": "\/Users\/Casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
+		"inputAbbreviatedPath": "\/vendor\/bLazy\/blazy.min-new.js",
+		"outputAbbreviatedPath": "\/vendor\/bLazy\/min\/blazy.min-new-min.js",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		},
 	"\/vendor\/bLazy\/blazy.min.js": {
 		"fileType": 64,
@@ -65225,6 +65525,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/vendor\/bLazy\/blazy.min.js",
 		"outputAbbreviatedPath": "\/vendor\/bLazy\/min\/blazy.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/vendor\/bLazy\/min\/blazy.min-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/vendor\/bLazy\/min\/blazy.min-min.js",
+		"outputAbbreviatedPath": "\/vendor\/bLazy\/min\/min\/blazy.min-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
