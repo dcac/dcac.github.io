@@ -30,6 +30,7 @@ layout: compress
     </script>
     <link href="/assets/css/app.css" rel="stylesheet" />
     <script type="text/javascript" src="/assets/js/app-top-min.js"></script>
+<!--     <script src="/assets/js/Hyphenator.js" type="text/javascript"></script> -->
     
     <!--Initialize the menu -->
 
@@ -47,6 +48,10 @@ layout: compress
         $('#nav-header').css({'display':'none'});
       });
     });
+/*
+    Hyphenator.config({orphancontrol: 2});
+    Hyphenator.run();
+*/
 		</script>
 
     <!-- Custom styles for this template -->
@@ -231,7 +236,7 @@ layout: compress
     }
     $(document).ready(function(){
       var bLazy = new Blazy();
-      bLazy.revalidate();
+      setTimeout(bLazy.revalidate, 100);
     });
     </script>
   </body>

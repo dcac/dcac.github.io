@@ -329,7 +329,7 @@ div.post-list-home.post-image{
 }
 div.post-list-home a:hover > .post-image-home img.img-size, div.post a:hover > .post-image img,div.home-feature-container a:hover > div.home-feature .post-image img.img-size, div.related-post a:hover > .post-image img.img-size, .section-post a:hover > .post-image img.img-size{
   opacity: .5;
-  margin-bottom: 5px;
+  //margin-bottom: -5px;
 }
 div.post-list-home a:hover > .post-image-home, div.post a:hover > .post-image, div.home-feature-container a:hover > div.home-feature .post-image, div.related-post a:hover > .post-image, .section-post a:hover > .post-image {
   background-color: #eee;
@@ -357,6 +357,10 @@ div.post-list-home a:hover > .post-image-home, div.post a:hover > .post-image, d
   width:100%;
   height:100%;
 }
+.img-size:hover{
+  bottom: 10px;
+}
+
 .corner-stamp, .corner-essay, .corner-list, .corner-series, .corner-interview{
   background-size: cover;
   width: @1px*40;
@@ -441,6 +445,7 @@ div.review-text-home{
     margin-left: @20px;
   }
 }
+
 div.home-feature{
   @media @mobile{
     margin-bottom: 0;
