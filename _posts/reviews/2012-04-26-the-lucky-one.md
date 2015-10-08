@@ -18,7 +18,7 @@ tags: [James Dever, Louisiana, marines, Nicholas Sparks, romance, Scott Hicks, T
 ---
 I never thought I'd see you on this side of a war.  You know what I mean - lending credibility to a Zac Efron and Nicholas Sparks film. But here we are.
 
-Sure, people watching war movies expect the characters to hold guns properly, move like real soldiers, and furrow their brows sufficiently when "shit gets real." That this may not actually be a demographic interested in this film is beside the point. When a soldier like you gets called to duty, he obeys orders.
+Sure, people watching war movies expect the characters to hold guns properly, move like real soldiers, and furrow their brows sufficiently when "shit gets real." That these details may not actually be aimed the demographic interested in this film is beside the point. When a soldier like you gets called to duty, he obeys orders.
 
 _The Lucky One_ opens in, of all places, Iraq, where Efron plays Marine Logan Thibault on his third tour. Fair enough. I can see the need for your expertise here. In short order, we see Thibault's unit shot up, blown up, and ambushed.  That Thibault isn't included in the escalating body count is credited to a photo he found in the rubble, a photo of a beautiful woman--his "guardian angel," so to speak.
 
