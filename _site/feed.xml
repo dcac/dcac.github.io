@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Hyena Road</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/hyena-road.jpg" />
+  				<p>Dear Paul Gross, Producer / Writer / Director / Star, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Wed, 14 Oct 2015 00:00:00 -0400</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/10/14/hyena-road.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/10/14/hyena-road.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: The Martian</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Sun, 16 Aug 2015 00:00:00 -0400</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/8/16/the-man-from-uncle.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/8/16/the-man-from-uncle.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Fantastic Four</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/fantastic-four.jpg" />
-  				<p>Dear Josh Trank, Scapegoat/Director, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Sun, 16 Aug 2015 00:00:00 -0400</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/8/16/fantastic-four.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/8/16/fantastic-four.html</guid>
 			</item>
 		
 	</channel>
