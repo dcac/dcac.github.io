@@ -47,7 +47,7 @@
                     <div class="hero-people">
                       {% if post.categories contains "reviews" %}
                       <h2 class="hero-addressee-home hyphenate">
-                        Dear {{ post.addressee }}, <span class="mobile-line-break"><br /></span>{{ post.position }}
+                        Dear {{ post.addressee }}, &#160;<span class="mobile-line-break"><br /></span> {{ post.position }}
                       </h2>
                       {% else %}
                         {% if post.title-display == false %}

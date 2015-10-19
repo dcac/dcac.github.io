@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Goosebumps</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/goosebumps.jpg" />
+  				<p>Dear Slappy, Evil Dummy, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Mon, 19 Oct 2015 00:00:00 -0400</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/10/19/goosebumps.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/10/19/goosebumps.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Hyena Road</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Mon, 17 Aug 2015 00:00:00 -0400</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/8/17/american-ultra.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/8/17/american-ultra.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: The Man from U.N.C.L.E.</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/the-man-from-uncle.jpg" />
-  				<p>Dear BlueBolt, Cinesite and RISE, Visual Effects Posse , <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Sun, 16 Aug 2015 00:00:00 -0400</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/8/16/the-man-from-uncle.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/8/16/the-man-from-uncle.html</guid>
 			</item>
 		
 	</channel>

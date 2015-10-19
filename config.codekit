@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19033",
+"creatorBuild": "18493",
 "files": {
 	"\/404.html": {
 		"fileType": 8192,
@@ -533,17 +533,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_plugins-unused\/authors.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_plugins-unused\/authors.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/_plugins-unused\/authors-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
 	"\/_site\/404.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -561,17 +550,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/all-posts.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/all-posts.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/_site\/all-posts-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
 		},
 	"\/_site\/apple-touch-icon.png": {
 		"fileType": 32768,
@@ -608,7 +586,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 93352,
+		"initialSize": 222876,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-2.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-2.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -619,7 +597,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 509383,
+		"initialSize": 953899,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-3.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-3.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1378,7 +1356,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 16027,
+		"initialSize": 8420,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo-grey.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo-grey.png",
 		"outputPathIsOutsideProject": 0,
@@ -1389,7 +1367,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4154,
+		"initialSize": 4079,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo-white.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo-white.png",
 		"outputPathIsOutsideProject": 0,
@@ -1400,7 +1378,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3514,
+		"initialSize": 3916,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo.png",
 		"outputPathIsOutsideProject": 0,
@@ -1961,7 +1939,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 66793,
+		"initialSize": 167391,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/71.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/71.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -2767,6 +2745,17 @@
 		"initialSize": 161598,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/brooklyn-castle.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/brooklyn-castle.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/burnt-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 133794,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/burnt-contest.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/burnt-contest.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4161,7 +4150,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 79453,
+		"initialSize": 231386,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/good-kill.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/good-kill.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -4197,6 +4186,17 @@
 		"initialSize": 122244,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/goon.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/goon.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/goosebumps.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128153,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/goosebumps.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/goosebumps.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4461,6 +4461,17 @@
 		"initialSize": 128170,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/humpday.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/humpday.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/hyena-road.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 341129,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/hyena-road.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/hyena-road.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -8139,6 +8150,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/the-last-witch-hunter-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 179498,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-last-witch-hunter-contest.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-last-witch-hunter-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/the-lego-movie.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -9114,358 +9136,6 @@
 		"initialSize": 104715,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/transformers-age-of-extinction.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/transformers-age-of-extinction.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/transformers-age-of-extinction.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 657040,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/transformers-age-of-extinction.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/transformers-age-of-extinction.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/trouble-with-the-curve.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 242708,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/trouble-with-the-curve.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/trouble-with-the-curve.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/true-story.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 169119,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/true-story.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/true-story.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/tu-dors-nicole.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 48080,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tu-dors-nicole.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tu-dors-nicole.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/tusk.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 87736,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tusk.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tusk.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/two-days-one-night.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 199323,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/two-days-one-night.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/two-days-one-night.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/unbroken.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 141090,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/unbroken.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/unbroken.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/under-african-skies.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 210495,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/under-african-skies.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/under-african-skies.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/under-the-skin-postcard-edition.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 84952,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/under-the-skin-postcard-edition.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/under-the-skin-postcard-edition.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/under-the-skin.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 168337,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/under-the-skin.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/under-the-skin.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/unfinished-business.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 303214,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/unfinished-business.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/unfinished-business.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/unfriended.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 96887,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/unfriended.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/unfriended.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/Untitled-1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 97666,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/Untitled-1.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/Untitled-1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/vacation.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 243836,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/vacation.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/vacation.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/vampire-academy.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 79223,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/vampire-academy.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/vampire-academy.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/veronica-mars.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 206851,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/veronica-mars.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/veronica-mars.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/vhs-2.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 146931,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/vhs-2.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/vhs-2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/virunga.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 64812,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/virunga.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/virunga.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/wadjda.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 201175,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/wadjda.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/wadjda.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/wanderlust.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 171609,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/wanderlust.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/wanderlust.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/war-witch.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 213029,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/war-witch.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/war-witch.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/warrior.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 155555,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/warrior.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/warrior.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/we-need-to-talk-about-adam.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 523161,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/we-need-to-talk-about-adam.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/we-need-to-talk-about-adam.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/we-steal-secrets-the-story-of-wikileaks.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 441732,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/we-steal-secrets-the-story-of-wikileaks.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/we-steal-secrets-the-story-of-wikileaks.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/we-steal-secrets.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 201971,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/we-steal-secrets.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/we-steal-secrets.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/were-the-millers.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 177982,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/were-the-millers.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/were-the-millers.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/what-to-expect-when-youre-expecting.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 192237,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/what-to-expect-when-youre-expecting.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/what-to-expect-when-youre-expecting.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/where-do-we-go-now.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 201881,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/where-do-we-go-now.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/where-do-we-go-now.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/while-were-young-contest.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 102287,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/while-were-young-contest.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/while-were-young-contest.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/while-were-young.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 209553,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/while-were-young.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/while-were-young.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/whiplash-tiff.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 88551,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/whiplash-tiff.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/whiplash-tiff.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/main\/whiplash.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 42423,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/whiplash.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/whiplash.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -11956,6 +11626,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/goosebumps.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5667,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/goosebumps.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/goosebumps.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/grabbers.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -12216,6 +11897,17 @@
 		"initialSize": 13598,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/humpday.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/humpday.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/hyena-road.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21709,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/hyena-road.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/hyena-road.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -19440,7 +19132,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 47441,
+		"initialSize": 19248,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/good-kill.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/good-kill.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -19476,6 +19168,17 @@
 		"initialSize": 21568,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/goon.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/goon.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/goosebumps.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12649,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/goosebumps.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/goosebumps.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -19740,6 +19443,17 @@
 		"initialSize": 30634,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/humpday.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/humpday.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/hyena-road.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64711,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hyena-road.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hyena-road.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -24953,28 +24667,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/assets\/js\/app-top-min.js",
 		"outputAbbreviatedPath": "\/_site\/assets\/js\/min\/app-top-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/assets\/js\/min\/app-bottom-min-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/assets\/js\/min\/app-bottom-min-min.js",
-		"outputAbbreviatedPath": "\/_site\/assets\/js\/min\/min\/app-bottom-min-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/assets\/js\/min\/app-top-min-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/assets\/js\/min\/app-top-min-min.js",
-		"outputAbbreviatedPath": "\/_site\/assets\/js\/min\/min\/app-top-min-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -30256,6 +29948,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/10\/14\/hyena-road.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/10\/14\/hyena-road.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/10\/19\/goosebumps.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/10\/19\/goosebumps.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2015\/10\/6\/the-martian.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -31174,6 +30884,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/contests\/burnt-contest.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/contests\/burnt-contest.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/contests\/danny-collins-while-were-young-contest.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -31260,6 +30979,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/contests\/the-imitation-game-contest.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/contests\/the-last-witch-hunter-contest.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/contests\/the-last-witch-hunter-contest.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -31375,17 +31103,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/film-roles.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/film-roles.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/_site\/film-roles-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
 		},
 	"\/_site\/index.html": {
 		"fileType": 8192,
@@ -36130,17 +35847,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/search.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/search.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/_site\/search-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
 	"\/_site\/writers\/caseyt\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -36411,17 +36117,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/all-posts.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/all-posts.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/all-posts-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
 	"\/apple-touch-icon.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -36468,7 +36163,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 509383,
+		"initialSize": 953899,
 		"inputAbbreviatedPath": "\/assets\/img\/error\/404-3.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/error\/404-3.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -38620,6 +38315,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/burnt-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 133794,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/burnt-contest.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/burnt-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/byzantium.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -40050,6 +39756,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/goosebumps.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128153,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/goosebumps.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/goosebumps.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/grabbers.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -40310,6 +40027,17 @@
 		"initialSize": 128170,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/humpday.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/humpday.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/hyena-road.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 341129,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/hyena-road.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/hyena-road.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -43984,6 +43712,17 @@
 		"initialSize": 143025,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-last-stand.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-last-stand.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/the-last-witch-hunter-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 179498,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-last-witch-hunter-contest.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-last-witch-hunter-contest.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -47805,6 +47544,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/goosebumps.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5667,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/goosebumps.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/goosebumps.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/grabbers.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -48065,6 +47815,17 @@
 		"initialSize": 13598,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/humpday.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/humpday.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/hyena-road.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21709,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/hyena-road.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/hyena-road.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -55329,6 +55090,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/goosebumps.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12649,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/goosebumps.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/goosebumps.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/grabbers.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -55589,6 +55361,17 @@
 		"initialSize": 30634,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/humpday.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/humpday.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/hyena-road.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64711,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/hyena-road.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/hyena-road.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -60818,28 +60601,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/bower.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/bower-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/bower_components\/fastclick\/bower.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/fastclick\/bower.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/bower_components\/fastclick\/bower-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
 	"\/bower_components\/fastclick\/lib\/fastclick.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -60850,17 +60611,6 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
-		},
-	"\/bower_components\/foundation\/bower.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/foundation\/bower.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/bower_components\/foundation\/bower-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
 		},
 	"\/bower_components\/foundation\/css\/foundation.css": {
 		"fileType": 16,
@@ -61141,17 +60891,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/bower_components\/jquery-placeholder\/bower.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/jquery-placeholder\/bower.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/bower_components\/jquery-placeholder\/bower-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
 	"\/bower_components\/jquery-placeholder\/demo.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -61202,17 +60941,6 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
-		},
-	"\/bower_components\/jquery\/bower.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/jquery\/bower.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/bower_components\/jquery\/bower-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
 		},
 	"\/bower_components\/jquery\/dist\/jquery.js": {
 		"fileType": 64,
@@ -63711,15 +63439,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/config.rb": {
-		"fileType": 131072,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/config.rb",
-		"outputAbbreviatedPath": "\/config.rb",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/css\/404.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -63942,7 +63661,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 15491,
+		"initialSize": 1233,
 		"inputAbbreviatedPath": "\/favicon.png",
 		"outputAbbreviatedPath": "\/favicon.png",
 		"outputPathIsOutsideProject": 0,
@@ -63984,17 +63703,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/film-roles.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/film-roles.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/film-roles-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
 		},
 	"\/index.html": {
 		"fileType": 8192,
@@ -65552,6 +65260,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb": {
+		"fileType": 131072,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
+		"outputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/vendor\/bLazy\/blazy.min-new.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -66028,17 +65745,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/vendor\/unveil-master\/bower.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/vendor\/unveil-master\/bower.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/vendor\/unveil-master\/bower-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
 		},
 	"\/vendor\/unveil-master\/index.html": {
 		"fileType": 8192,
@@ -66579,10 +66285,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"futurehostile": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"globalstrict": {
 			"active": 0,
 			"flagValue": -1
@@ -66669,10 +66371,6 @@
 			},
 		"noarg": {
 			"active": 1,
-			"flagValue": -1
-			},
-		"nocomma": {
-			"active": 0,
 			"flagValue": -1
 			},
 		"node": {
@@ -66773,10 +66471,6 @@
 			},
 		"unused": {
 			"active": 1,
-			"flagValue": -1
-			},
-		"varstmt": {
-			"active": 0,
 			"flagValue": -1
 			},
 		"withstmt": {
@@ -66902,14 +66596,6 @@
 			"flagValue": -1
 			}
 		},
-	"jsonAutoOutputPathEnabled": 0,
-	"jsonAutoOutputPathFilenamePattern": "*-min.json",
-	"jsonAutoOutputPathRelativePath": "",
-	"jsonAutoOutputPathReplace1": "",
-	"jsonAutoOutputPathReplace2": "",
-	"jsonAutoOutputPathStyle": 0,
-	"jsonOrderOutput": 0,
-	"jsonOutputStyle": 1,
 	"kitAutoOutputPathEnabled": 1,
 	"kitAutoOutputPathFilenamePattern": "*.html",
 	"kitAutoOutputPathRelativePath": "",
@@ -66937,18 +66623,9 @@
 	"markdownAutoOutputPathReplace1": "",
 	"markdownAutoOutputPathReplace2": "",
 	"markdownAutoOutputPathStyle": 0,
-	"markdownCriticStyle": 0,
 	"markdownEnableFootnotes": 0,
-	"markdownEnableLabels": 1,
-	"markdownEnableSmartQuotes": 1,
-	"markdownEscapeLineBreaks": 0,
-	"markdownMaskEmailAddresses": 1,
-	"markdownOutputFormat": 0,
-	"markdownOutputStyle": 0,
-	"markdownParseMetadata": 1,
-	"markdownProcessHTML": 0,
-	"markdownRandomFootnoteNumbers": 0,
-	"markdownUseCompatibilityMode": 0,
+	"markdownEnableSmartyPants": 1,
+	"markdownExpandTabs": 1,
 	"reloadFileURLs": 0,
 	"sassAutoOutputPathEnabled": 1,
 	"sassAutoOutputPathFilenamePattern": "*.css",
@@ -67004,10 +66681,6 @@
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
 		"ascii-only": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"bare-returns": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -67088,10 +66761,6 @@
 			"flagValue": -1
 			},
 		"keep_fargs": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"keep_fnames": {
 			"active": 0,
 			"flagValue": -1
 			},
