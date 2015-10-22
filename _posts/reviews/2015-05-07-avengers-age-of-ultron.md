@@ -18,6 +18,11 @@ tags:
   - comics
   - comic books
   - Robert Downey Jr.
+  - Chris Evans
+  - Scarlett Johansson
+  - Thor
+  - Captain America
+  - Iron Man
   - summer 2015
 ---
 If you’ll indulge me for a moment, I’m going to do a little reminiscing of my own. Something along the lines of the [letter you penned to your younger self](http://www.dearcastandcrew.com/content/2012/5/11/the-avengers.html) when you first saw 2012’s _The Avengers._ 
