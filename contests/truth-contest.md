@@ -4,7 +4,7 @@ layout: contest
 home-display: false
 grid-display: false
 exclude_from_search: true
-published: false
+published: true
 imdb: tt3859076
 image: truth-contest.jpg
 title: Win a pass to the Advance Screening of Truth!
