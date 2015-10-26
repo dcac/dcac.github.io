@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Sicario</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/sicario.jpg" />
+  				<p>Dear Emily Blunt, Audience Surrogate/Star, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Mon, 26 Oct 2015 00:00:00 -0400</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/10/26/sicario.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/10/26/sicario.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Before We Go</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Tue, 22 Sep 2015 00:00:00 -0400</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/9/22/maze-runner-the-scorch-trials.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/9/22/maze-runner-the-scorch-trials.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Mistress America</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/mistress-america.jpg" />
-  				<p>Dear Greta Gerwig and Noah Baumbach, Writers, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Fri, 04 Sep 2015 00:00:00 -0400</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/9/4/mistress-america.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/9/4/mistress-america.html</guid>
 			</item>
 		
 	</channel>
