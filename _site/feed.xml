@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Beasts of No Nation</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/beasts-of-no-nation.jpg" />
+  				<p>Dear Ben Shields Caitlin, Acquisitions Executive, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Tue, 27 Oct 2015 00:00:00 -0400</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/10/27/beasts-of-no-nation.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/10/27/beasts-of-no-nation.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Sicario</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Wed, 23 Sep 2015 00:00:00 -0400</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/9/23/black-mass.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/9/23/black-mass.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Maze Runner: The Scorch Trials</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/maze-runner-the-scorch-trials.jpg" />
-  				<p>Dear Dan Dorrance, Production Designer, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Tue, 22 Sep 2015 00:00:00 -0400</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/9/22/maze-runner-the-scorch-trials.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/9/22/maze-runner-the-scorch-trials.html</guid>
 			</item>
 		
 	</channel>
