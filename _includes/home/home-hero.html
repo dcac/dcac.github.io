@@ -54,7 +54,7 @@
                         <h2 class="hero-excerpt-home-title">
                           {{ post.title }}
                         </h2>
-                        {% else %}
+                        {% elsif post.title-display == "image" %}{% else %}
                         <h2 class="hero-excerpt-home">
                           {{ post.excerpt }}
                         </h2>
