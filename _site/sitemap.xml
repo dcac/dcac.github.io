@@ -2945,6 +2945,10 @@
         <lastmod>2015-11-01T09:04:42-05:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/11/3/the-last-witch-hunter.html</loc>
+        <lastmod>2015-11-03T13:54:49-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
@@ -2979,7 +2983,7 @@
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/dig/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/christopherr/</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
@@ -2995,8 +2999,8 @@
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2015-11-01T09:04:42-05:00</lastmod>
+        <loc>http://www.dearcastandcrew.com/features/essays/</loc>
+        <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/reviews/current-releases/</loc>
@@ -3007,19 +3011,19 @@
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/reviews/streaming/</loc>
+        <loc>http://www.dearcastandcrew.com/reviews/on-video/</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/features/essays/</loc>
-        <lastmod>2015-10-07T11:33:18-04:00</lastmod>
+        <loc>http://www.dearcastandcrew.com/</loc>
+        <lastmod>2015-11-03T13:54:49-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/writers/caseyt/</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/reviews/on-video/</loc>
+        <loc>http://www.dearcastandcrew.com/reviews/streaming/</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
@@ -3027,7 +3031,7 @@
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/christopherr/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/dig/</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
@@ -3055,11 +3059,11 @@
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/privacy/</loc>
+        <loc>http://www.dearcastandcrew.com/contact/</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/contact/</loc>
+        <loc>http://www.dearcastandcrew.com/privacy/</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
@@ -3073,6 +3077,10 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/love-and-mercy-contest.html</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/contests/love-the-coopers-contest.html</loc>
+        <lastmod>2015-11-02T09:30:25-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/mortdecai-contest.html</loc>
@@ -3113,9 +3121,5 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/while-were-young-contest.html</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
-        <lastmod>2015-11-02T08:52:17-05:00</lastmod>
     </url>
 </urlset>
