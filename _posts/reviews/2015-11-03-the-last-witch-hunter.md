@@ -1,6 +1,6 @@
 ---
 published: true
-title: The last Witch Hunter
+title: The Last Witch Hunter
 layout: review
 stars: 1.5
 excerpt: null
