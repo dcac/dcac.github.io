@@ -7,7 +7,21 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Review: The last Witch Hunter</title>
+				<title>Review: Truth</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/truth.jpg" />
+  				<p>Dear Jensine Carr, Paperwork PA, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Wed, 04 Nov 2015 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/11/4/truth.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/4/truth.html</guid>
+			</item>
+		
+			<item>
+				<title>Review: The Last Witch Hunter</title>
 				<description>
   				<![CDATA[
   				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/the-last-witch-hunter.jpg" />
@@ -130,20 +144,6 @@
 				<pubDate>Tue, 06 Oct 2015 00:00:00 -0400</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/10/6/the-martian.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/10/6/the-martian.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: The Intern</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/the-intern.jpg" />
-  				<p>Dear Vegan Chocolate Cake, Metaphor, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Mon, 28 Sep 2015 00:00:00 -0400</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/9/28/the-intern.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/9/28/the-intern.html</guid>
 			</item>
 		
 	</channel>
