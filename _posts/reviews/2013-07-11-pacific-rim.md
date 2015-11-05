@@ -13,7 +13,7 @@ categories:
   - on-video
 title: "Pacific Rim"
 comments: true
-tags: [action, blockbuster, Letters, Pacific Rim, sci-fi, summer]
+tags: [Guillermo Del Toro,action, blockbuster, Letters, Pacific Rim, sci-fi, summer]
 ---
 You, more than anyone, can understand why I thought this would be just like all the other big summer movies I've seen lately: a big CGI-slam-bang-action-fest, and a bit of a bummer.  So imagine my surprise: despite the fact that _Pacific Rim_ contains almost every single cliche of a 2013 summer blockbuster movie, it isn't this year's [Battleship][1]. It's actually a huge pile of block-busting fun.
 
