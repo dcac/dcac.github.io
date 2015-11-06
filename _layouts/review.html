@@ -33,7 +33,8 @@ layout: default
             </div>
             <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
-                <h3><span class="{%if page.position == "none"%}{% assign addresseeSize = page.addressee | size %}{% if addresseeSize > 20 %}position-small-txt{%else%}addressee-large{%endif%}{%else%}addressee{%endif%} hyphenate">Dear {{ page.addressee }}</span><br />
+                <h3>{%if page.position == "none"%}<span class="addressee">Dear</span><br />
+<span class="{% assign addresseeSize = page.addressee | size %}{% if addresseeSize > 20 %}position-small-txt{%else%}addressee-large{%endif%} hyphenate">{{ page.addressee }}</span><br />{%else%}<span class="addressee">Dear {{ page.addressee }}<span><br />{%endif%}
                   {%if page.position != "none"%}{% assign positionSize = page.position | size %}{% if positionSize > 20 %}<span class="position-small-txt hyphenate">{% else %}<span class="position hyphenate">{% endif %}{{ page.position }}</span>{%endif%}
                 </h3>
               </div>
