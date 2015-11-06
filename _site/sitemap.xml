@@ -1,30 +1,546 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/2/24/warrior.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/3/1/tinker-tailor-soldier-spy.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/3/2/the-artist.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/3/2/wanderlust.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/3/3/the-help.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/3/3/trading-places.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/3/4/act-of-valor.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/3/4/the-grey.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/3/5/monsieur-lazhar.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/3/5/project-x.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2012/3/5/the-secret-world-of-arrietty.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/3/9/john-carter.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/3/14/brooklyn-castle.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/3/15/21-jump-street.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/3/16/shut-up-and-play-the-hits.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/3/16/the-raid-redemption.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/content/2012/3/17/sxsw-2012.html</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/3/18/under-african-skies.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/3/21/safe-house.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/3/21/salmon-fishing-in-yemen.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/3/24/the-hunger-games.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/3/30/friends-with-kids.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/3/30/wrath-of-the-titans.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/4/2/goon.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/4/12/american-reunion.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/4/13/the-cabin-in-the-woods-1.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/4/13/the-cabin-in-the-woods-2.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/4/16/lockout.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2012/4/18/edwin-boyd-citizen-gangster.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/4/20/chimpanzee.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/4/20/titanic-3d.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/4/26/the-lucky-one.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/4/27/bernie.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2012/5/2/the-pirates-band-of-misfits.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/5/7/shame.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/5/8/safe.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/5/9/the-five-year-engagement.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/5/11/dark-shadows.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/5/11/the-avengers.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/5/14/downhill-racer.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/5/15/the-dictator.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/5/16/paris-texas.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/5/18/battleship.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2012/5/25/what-to-expect-when-youre-expecting.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/5/29/on-the-road.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/6/4/piranha-3dd.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2012/6/4/snow-white-and-the-huntsman.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/6/8/the-intouchables.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/6/12/prometheus.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/6/14/the-hospital.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/6/15/rock-of-ages.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/6/21/thats-my-boy.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/6/26/brave.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/7/6/savages.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/7/6/the-amazing-spider-man.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/7/12/moonrise-kingdom.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/7/13/madman.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/7/16/ted.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/7/17/cosmopolis.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2012/7/18/seeking-a-friend-for-the-end-of-the-world.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/7/19/the-dark-knight-rises.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/7/26/a-good-old-fashioned-orgy.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2012/7/27/the-dark-knight-rises.html</loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/7/31/the-sitter.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/8/1/margaret.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/8/3/total-recall.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2012/8/8/beasts-of-the-southern-wild.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/8/9/hope-springs.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/8/10/the-bourne-legacy.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/8/13/the-campaign.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/8/14/the-burning.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2012/8/15/the-odd-life-of-timothy-green.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/8/16/dream-house.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/8/17/sparkle.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/8/20/paranorman.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/8/21/synecdoche-new-york.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/8/22/the-expendables-2.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/8/23/where-do-we-go-now.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/8/27/premium-rush.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/8/29/lawless.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/8/31/robot-frank.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/9/4/the-possession.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/9/5/hit-run.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/content/2012/9/6/early-schwarzenegger.html</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/9/7/the-words.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/9/10/cloud-atlas.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/9/12/argo.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2012/9/12/tiff-2012.html</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/9/14/amour.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/9/17/silver-linings-playbook.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/9/18/seven-psychopaths.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/9/19/miss-lovely.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/9/21/dredd.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/9/24/end-of-watch.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/9/25/blackbird.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/9/26/trouble-with-the-curve.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/9/28/looper.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/9/30/for-a-good-time-call.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/10/2/hotel-transalvania.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/10/3/pitch-perfect.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/10/4/roller-town.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/10/5/war-witch-rebelle.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/10/9/the-master.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/10/12/here-comes-the-boom.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/10/17/sinister.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/10/19/inescapable.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2012/10/23/eddie-the-sleepwalking-cannibal.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/10/26/the-paperboy.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/10/31/silent-hill-revelation.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/11/1/wreck-it-ralph.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/11/2/flight.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/11/6/hercules-in-new-york.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/11/7/stories-we-tell.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/11/9/skyfall.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/content/2012/11/10/eu-2012.html</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/11/14/stay-hungry.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/11/15/holy-motors.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/11/16/lincoln.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>
             http://www.dearcastandcrew.com/content/2012/11/17/five-reasons-skyfall-fell-flat.html
         </loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/11/20/pumping-iron.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/11/21/rise-of-the-guardians.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/11/22/the-phantom-father.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/11/23/red-dawn.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/11/24/the-sessions.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/11/26/life-of-pi.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/11/27/the-villain.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/11/28/anna-karenina.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/11/30/killing-them-softly.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2012/12/4/the-strange-case-of-angelica.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/12/7/dont-you-forget-about-me.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2012/12/12/the-make-up-of-2012-pt-1.html</loc>
@@ -35,8 +551,110 @@
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2012/12/14/the-hobbit-an-unexpected-journey.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/12/17/christmas-in-connecticut.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/12/18/hitchcock.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/12/19/this-is-40.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/12/20/the-guilt-trip.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/content/2012/12/21/2012-silver-stamps.html</loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/12/26/jack-reacher.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2012/12/28/django-unchained.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/1/2/les-miserables.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/1/7/compliance.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/1/11/gangster-squad.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/1/15/the-impossible.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/1/16/jeff-who-lives-at-home.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/1/17/quartet.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/1/18/zero-dark-thirty.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/1/21/the-last-stand.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/1/22/mirror-mirror.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/1/23/the-invisible-war.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/1/24/the-imposter.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/1/25/frankenweenie.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/1/29/searching-for-sugar-man.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/2/1/humpday.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/2/8/chasing-ice.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/2/11/identity-thief.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/2/13/a-royal-affair.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/2/15/a-good-day-to-die-hard.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>
@@ -57,14 +675,82 @@
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/2/21/5-broken-cameras.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>
             http://www.dearcastandcrew.com/content/2013/2/25/top-tweets-from-the-2013-oscars.html
         </loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/2/26/how-to-survive-a-plague.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/2/28/kon-tiki.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/3/1/inchallah.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/3/6/the-boxing-girls-of-kabul.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/content/2013/3/7/the-2013-flixies.html</loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/3/8/oz-the-great-and-powerful.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/3/9/cloudburst.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/3/13/safety-not-guaranteed.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/3/14/laffaire-dumont.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/3/20/indie-game-the-movie.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/3/22/olympus-has-fallen.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/3/24/admission.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/3/26/side-by-side.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/3/27/stoker.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/3/28/spring-breakers.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/4/2/the-sapphires.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/4/3/the-host.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>
@@ -73,30 +759,466 @@
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/4/5/evil-dead.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/4/9/room-237.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/4/11/42.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2013/4/12/the-place-beyond-the-pines.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2013/4/16/the-incredible-burt-wonderstone.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/4/19/oblivion.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/4/19/still-mine.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/4/22/to-the-wonder.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/4/26/pain-gain.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2013/4/29/my-awkward-sexual-adventure.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/5/3/iron-man-3.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/5/10/the-great-gatsby.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/5/14/aftershock.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/5/15/ruby-sparks.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/5/16/star-trek-into-darkness.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/5/24/the-hangover-part-3.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/5/27/fast-furious-6.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/5/29/behind-the-candelabra.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/5/31/now-you-see-me.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>
             http://www.dearcastandcrew.com/content/2013/6/6/out-of-darkness-revisiting-the-wrath-of-khan.html
         </loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/6/7/after-earth.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/6/11/sarah-prefers-to-run.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/content/2013/6/12/slasher-camp.html</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/6/12/this-is-the-end.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/6/13/the-purge.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/6/14/man-of-steel.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/6/17/the-kings-of-summer.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/6/19/world-war-z.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/6/20/trance.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/6/21/monsters-university.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2013/6/25/we-steal-secrets-the-story-of-wikileaks.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/6/27/before-midnight.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/6/28/white-house-down.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/7/5/despicable-me-2.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/7/11/pacific-rim.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/7/12/grown-ups-2.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2013/7/12/mockbusters.html</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/7/17/sharknado.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/7/20/red-2.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/7/23/the-conjuring.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/8/1/only-god-forgives.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/8/2/the-to-do-list.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/8/6/fruitvale-station.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2013/8/7/percy-jackson-sea-of-monsters.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/8/9/elysium.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/8/14/planes.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/8/15/the-worlds-end.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/8/15/were-the-millers.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/8/20/a-hijacking.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/8/21/jobs.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/8/22/lovelace.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/8/23/in-a-world.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/8/26/blue-jasmine.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/8/27/youre-next.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/8/30/closed-circuit.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/9/3/the-grandmaster.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/9/4/getaway.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/9/5/lee-daniels-the-butler.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/9/10/prisoners.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/9/10/riddick.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/content/2013/9/10/tiff-2013.html</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/9/12/atlantic-rim.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/9/13/the-act-of-killing.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/9/17/insidious-chapter-2.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/9/18/the-grand-seduction.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/9/19/dallas-buyers-club.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/9/20/the-art-of-the-steal.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/9/25/good-ol-freda.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/9/27/don-jon.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/9/30/rhymes-for-young-ghouls.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2013/10/1/cloudy-with-a-chance-of-meatballs-2.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/10/2/rush.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/10/3/resolution.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/10/4/gravity.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/10/7/runner-runner.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/10/8/short-term-12.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/10/9/machete-kills.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/10/14/romeo-juliet.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/10/15/escape-from-tomorrow.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/10/18/captain-phillips.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/10/21/escape-plan.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/10/22/the-fifth-estate.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/10/23/gabrielle.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/10/24/man-of-tai-chi.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/10/25/all-is-lost.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/10/31/vhs-2.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/11/5/wadjda.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2013/11/6/thunderstorm-the-return-of-thor.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/11/7/the-counselor.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/11/8/thor-the-dark-world.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2013/11/10/eu-2013.html</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/11/13/12-years-a-slave.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/11/15/miracle.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2013/11/18/blue-is-the-warmest-colour.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/11/20/living-images.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2013/11/22/the-hunger-games-catching-fire.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/11/25/im-an-old-communist-hag.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/11/26/kill-your-darlings.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/11/28/frozen.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/12/4/shifting-the-blame.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/12/5/out-of-the-furnace.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/12/9/how-i-live-now.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2013/12/13/the-hobbit-the-desolation-of-smaug.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/content/2013/12/14/2013-silver-stamps.html</loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/12/19/grudge-match.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2013/12/20/anchorman-2-the-legend-continues.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/12/23/saving-mr-banks.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2013/12/30/the-secret-life-of-walter-mitty.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2013/12/31/american-hustle.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>
@@ -105,8 +1227,482 @@
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2014/1/2/mandela-long-walk-to-freedom.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/1/7/wolf-of-wall-street.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/1/9/lone-survivor.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/1/10/nebraska.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/1/14/her.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/1/16/drug-war.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/1/17/jack-ryan-shadow-recruit.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/1/20/august-osage-county.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/1/20/the-book-thief.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/1/22/inside-llewyn-davis.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/1/25/the-square.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/1/27/the-hunt.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/1/28/philomena.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/1/30/the-croods.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/1/31/that-awkward-moment.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/2/2/labor-day.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/2/3/dirty-wars.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/2/4/the-invisible-woman.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2014/2/5/the-broken-circle-breakdown.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/2/7/the-lego-movie.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/2/10/vampire-academy.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/2/11/the-monuments-men.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/2/12/robocop.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2014/2/13/jackass-presents-bad-grandpa.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/2/15/20-feet-from-stardom.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/2/17/endless-love.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/2/18/cutie-and-the-boxer.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/2/19/ernest-and-celestine.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/2/21/takedown-the-dna-of-gsp.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/2/22/pompeii.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/2/23/winters-tale.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/2/24/3-days-to-kill.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/2/25/the-lone-ranger.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/2/26/the-armstrong-lie.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/2/27/the-great-beauty.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/2/28/the-wind-rises.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/3/1/the-missing-picture.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/3/2/omar.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/3/4/non-stop.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/3/6/grabbers.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/3/7/300-rise-of-an-empire.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/3/11/enemy.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/3/12/blackfish.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/3/14/need-for-speed.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/3/17/mr-peabody-sherman.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2014/3/18/filthy-gorgeous-the-bob-guccione-story.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/3/19/veronica-mars.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/3/22/divergent.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/3/26/muppets-most-wanted.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/3/28/nymphomanic-vol-1-and-2.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/3/31/noah.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/4/2/the-canyons.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/4/3/bad-words.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2014/4/4/captain-america-the-winter-soldier.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/4/8/mitt.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/4/10/the-raid-2-berendal.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/4/10/oculus.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/4/15/touchy-feely.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/4/17/byzantium.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/4/22/the-grand-budapest-hotel.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/4/29/the-other-woman.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/4/30/the-amazing-spider-man-2.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/5/1/algonquin.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/5/1/the-husband.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/5/2/the-secret-trial-5.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/5/3/the-overnighters.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/5/4/the-theory-of-happiness.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/5/6/just-eat-it.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/5/7/calvary.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/5/8/the-railway-man.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/5/9/neighbors.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/content/2014/5/12/godzilla-week.html</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/5/12/godzilla-vs-king-kong.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/5/13/godzilla-vs-mothra.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/5/14/godzilla-1985.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2014/5/15/godzilla-mothra-and-king-ghidorah-giant-monsters-all-out-attack.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/5/16/godzilla.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/5/19/devils-knot.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/5/20/blue-ruin.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/5/21/somm.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/5/22/joe.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/5/23/blended.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/5/27/contracted.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/5/29/the-birder.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/5/30/x-men-days-of-future-past.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/6/1/only-lovers-left-alive.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/6/3/filth.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/6/4/maleficent.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/6/5/wolfcop.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/6/6/edge-of-tomorrow.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/6/8/chef.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2014/6/9/a-million-ways-to-die-in-the-west.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/6/10/locke.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/6/11/under-the-skin.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/6/12/afflicted.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2014/6/13/how-to-train-your-dragon-2.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/6/16/its-a-disaster.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/6/19/22-jump-street.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2014/6/20/the-young-and-prodigious-ts-spivet.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/6/23/the-fault-in-our-stars.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/6/25/jersey-boys.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2014/6/27/transformers-age-of-extinction.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/6/30/spinning-plates.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/7/2/earth-to-echo.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/7/3/snowpiercer.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/7/4/obvious-child.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/7/7/banshee-chapter.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/7/8/grace-of-monaco.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/7/9/the-internets-own-boy.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/7/10/jodorowskys-dune.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/7/12/life-itself.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2014/7/12/dawn-of-the-planet-of-the-apes.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/7/13/deliver-us-from-evil.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/7/14/the-running-man.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>
@@ -115,14 +1711,104 @@
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/7/17/and-so-it-goes.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/7/18/sex-tape.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/7/21/planes-fire-rescue.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/7/23/wish-i-was-here.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/7/24/supermensch.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/7/24/tammy.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/7/25/lucy.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/7/28/the-zero-theorem.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/7/29/i-origins.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/7/30/kung-fu-elliot.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>
             http://www.dearcastandcrew.com/content/2014/7/31/he-said-she-said-dissecting-the-gender-politics-of-under-the-skin.html
         </loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/8/1/guardians-of-the-galaxy.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/8/4/the-purge-anarchy.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/8/5/boyhood.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/8/6/cheatin.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/8/7/time-lapse.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2014/8/8/teenage-mutant-ninja-turtles.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/content/2014/8/12/dear-robin.html</loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/8/13/hercules.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/8/15/sabotage.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/8/17/lawrence-holloman.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/8/18/the-expendables-3.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/8/19/particle-fever.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/8/21/the-giver.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2014/8/21/summer-of-2014.html</loc>
@@ -131,6 +1817,10 @@
     <url>
         <loc>http://www.dearcastandcrew.com/content/2014/8/22/ghosts-of-ghostbusters.html</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/8/22/the-f-word.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>
@@ -199,10 +1889,18 @@
         <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/9/1/if-i-stay.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>
             http://www.dearcastandcrew.com/content/2014/9/2/summer-of-2014-the-revisitation.html
         </loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/9/4/as-above-so-below.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2014/9/4/tiff-2014.html</loc>
@@ -363,6 +2061,10 @@
         <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/9/11/the-captive.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/content/2014/9/11/tiff-2014-day-eight.html</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
@@ -413,6 +2115,10 @@
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/9/22/frank.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>
             http://www.dearcastandcrew.com/content/2014/9/23/9-things-you-probably-didnt-know-about-the-little-mermaid.html
         </loc>
@@ -420,9 +2126,77 @@
     </url>
     <url>
         <loc>
+            http://www.dearcastandcrew.com/content/2014/9/24/the-battered-bastards-of-baseball.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/9/25/pride.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/9/29/The-equalizer.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2014/9/30/a-walk-among-the-tombstones.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/10/1/the-trip-to-italy.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/10/3/this-is-where-i-leave-you.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/10/6/my-old-lady.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/10/7/the-maze-runner.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/10/8/night-moves.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/10/9/gone-girl.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
             http://www.dearcastandcrew.com/content/2014/10/10/why-gone-girl-makes-me-sad-for-the-state-of-cinema.html
         </loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/10/12/left-behind.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/10/14/st-vincent.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/10/15/citizen-marc.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/10/16/tusk.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/10/17/fury.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/10/20/open-windows.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>
@@ -437,10 +2211,36 @@
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/10/23/the-one-i-love.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2014/10/24/birdman-or-the-unexpected-virtue-of-ignorance.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/10/29/nightcrawler.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/10/30/john-wick.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/10/31/before-i-go-to-sleep.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>
             http://www.dearcastandcrew.com/content/2014/10/31/the-top-5-most-terrifying-scenes-in-movie-history.html
         </loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/11/3/young-ones.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>
@@ -449,14 +2249,136 @@
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/11/5/tims-vermeer.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/11/7/mommy.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/11/10/interstellar.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/11/13/e-team.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/11/14/dumb-and-dumber-to.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/11/17/rosewater.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/11/18/big-hero-6.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/11/19/wolves.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/11/20/after-tiller.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2014/11/21/the-hunger-games-mockingjay-part-1.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/11/24/virunga.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/11/25/gods-pocket.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2014/11/26/the-town-that-dreaded-sundown%20copy.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/11/27/laggies.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/11/28/horrible-bosses-2.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/12/1/the-theory-of-everything.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2014/12/3/the-penguins-of-madagascar.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/12/4/serena.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/12/5/corner-gas-the-movie.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/12/8/the-babadook.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/12/10/third-person.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/12/11/fading-gigolo.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/12/12/exodus-gods-and-kings.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>
             http://www.dearcastandcrew.com/content/2014/12/16/canadas-hottest-filmmaker-is-making-a-hollywood-movie-and-a-classic-mistake.html
         </loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2014/12/17/the-hobbit-the-battle-of-the-five-armies%20copy.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/content/2014/12/18/2014-silver-stamps.html</loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/12/20/annie.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2014/12/22/night-at-the-museum-secret-of-the-tomb.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/12/29/unbroken.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2014/12/30/the-imitation-game.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>
@@ -469,6 +2391,18 @@
             http://www.dearcastandcrew.com/content/2014/12/30/c-redmonds-top-films-of-2014.html
         </loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/1/2/into-the-woods.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/1/4/wild.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/1/5/the-interview.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>
@@ -501,16 +2435,100 @@
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/1/12/taken-3.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/1/12/top-five.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/1/14/the-guest.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/1/15/inherent-vice.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/1/16/american-sniper.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/1/19/blackhat.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/1/20/a-most-violent-year.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/1/21/selma.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/1/22/song-of-the-sea.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/1/23/escobar-paradise-lost.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/1/24/mortdecai.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/1/25/foxcatcher.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/1/25/the-boxtrolls.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>
             http://www.dearcastandcrew.com/content/2015/1/26/is-it-oscarssowhite-or-just-oscarssowrong.html
         </loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/1/28/whiplash.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>
             http://www.dearcastandcrew.com/content/2015/2/1/american-snipers-magic-bullet-theory.html
         </loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/2/2/finding-vivian-maier.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/2/4/leviathan.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/2/5/mr-turner.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/2/6/jupiter-ascending.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/2/9/ida.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/2/12/last-days-in-vietnam.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/2/13/fifty-shades-of-grey.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>
@@ -520,13 +2538,85 @@
     </url>
     <url>
         <loc>
+            http://www.dearcastandcrew.com/content/2015/2/17/kingsmen-the-secret-service.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/2/19/two-days-one-night.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/2/20/timbuktu.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/2/24/still-alice.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
             http://www.dearcastandcrew.com/content/2015/2/24/birdmans-win-is-bad-news-for-tiff.html
         </loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/2/25/the-duff.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2015/2/26/the-tale-of-princess-kaguya.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/3/1/focus.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2015/3/2/a-girl-walks-home-alone-at-night.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/content/2015/3/4/the-revolution-is-upon-us.html</loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/3/6/the-valley-below.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2015/3/8/the-second-best-exotic-marigold-hotel.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/3/9/unfinished-business.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/3/10/chappie.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/3/11/housebound.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/3/13/71.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/3/13/CInderella.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/3/16/run-all-night.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>
@@ -535,14 +2625,46 @@
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/3/19/the-gunman.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/3/21/insurgent.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/3/23/tracks.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>
             http://www.dearcastandcrew.com/content/2015/3/24/insurgents-big-gay-and-pansexual-metaphor.html
         </loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/3/27/get-hard.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/3/30/home.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/content/2015/3/31/women-dream-smaller.html</loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/4/2/it-follows.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/4/5/pretend-were-kissing.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/4/7/furious-7.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>
@@ -551,10 +2673,34 @@
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/4/9/while-were-young.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/4/10/miss-julie.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/4/13/danny-collins.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/4/15/down-here.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/4/16/last-nights.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>
             http://www.dearcastandcrew.com/content/2015/4/17/a-conversation-with-director-denis-villeneuve.html
         </loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/4/20/true-story.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>
@@ -564,9 +2710,33 @@
     </url>
     <url>
         <loc>
+            http://www.dearcastandcrew.com/content/2015/4/27/far-from-the-madding-crowd.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/4/28/unfriended.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
             http://www.dearcastandcrew.com/content/2015/4/30/we-need-to-talk-about-adam.html
         </loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/5/1/age-of-adaline.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2015/5/5/going-clear-scientology-and-the-prison-of-belief.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/5/7/avengers-age-of-ultron.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>
@@ -575,8 +2745,96 @@
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/5/8/ex-machina.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/5/12/maggie.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2015/5/13/kurt-cobain-montage-of-heck.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/5/14/good-kill.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/5/15/pitch-perfect-2.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/5/20/mad-max-fury-road.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/5/21/hot-pursuit.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/5/22/tomorrowland.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/5/26/poltergeist.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2015/6/1/me-and-earl-and-the-dying-girl.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/6/2/aloha.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/6/3/san-andreas.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/6/4/spy.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/content/2015/6/11/requiem-for-an-underdog.html</loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/6/11/entourage.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/6/12/jurassic-world.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/6/19/dope.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/6/22/inside-out.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/6/25/the-face-of-an-angel.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/6/26/ted-2.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/7/2/magic-mike-xxl.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/7/4/terminator-genysis.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>
@@ -585,16 +2843,118 @@
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/7/16/big-game.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/7/20/trainwreck.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>
             http://www.dearcastandcrew.com/content/2015/7/22/the-value-of-a-veteran-filmmaker.html
         </loc>
         <lastmod>2015-11-01T08:58:20-05:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/7/28/pixels.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/8/1/amy.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/8/8/southpaw.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/8/11/vacation.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/8/16/fantastic-four.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/8/16/the-man-from-uncle.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/8/17/american-ultra.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/8/27/the-end-of-the-tour.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/9/4/mistress-america.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2015/9/22/maze-runner-the-scorch-trials.html
+        </loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/9/23/black-mass.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/9/25/pawn-sacrifice.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/9/28/the-intern.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/10/6/the-martian.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/10/14/hyena-road.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/10/19/goosebumps%20copy.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/10/20/pan.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/10/21/before-we-go.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/10/26/sicario.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/10/27/beasts-of-no-nation.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
         <loc>
             http://www.dearcastandcrew.com/content/2015/10/28/the-16-sexiest-roles-on-a-film-set.html
         </loc>
         <lastmod>2015-11-01T09:04:42-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/11/3/the-last-witch-hunter.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/11/4/truth.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/11/5/crimson-peak.html</loc>
+        <lastmod>2015-11-06T15:23:33-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2015/11/6/spectre.html</loc>
