@@ -6,7 +6,7 @@
                   </div>
                   <div class="review-text">
                     <h1>{{ page.title }}</h1>
-                    <h2 class="addressee">Dear {{ page.addressee }}{if post.position != "none" %}, {{ post.position }}{% endif %}</h2>
+                    <h2 class="addressee">Dear {{ page.addressee }}{%if page.position != "none" %}, {{ page.position }}{% endif %}</h2>
                     <h2 class="author">By {{ author.name }}</h2>
                   </div>
                 </a>
