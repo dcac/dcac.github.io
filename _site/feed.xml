@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: The Peanuts Movie</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/the-peanuts-movie.jpg" />
+  				<p>Dear Bryan Schulz, Craig Schulz, and Cornelius Uliano, Writers, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Mon, 09 Nov 2015 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/11/9/the-peanuts-movie.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/9/the-peanuts-movie.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Spectre</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Tue, 20 Oct 2015 00:00:00 -0400</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/10/20/pan.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/10/20/pan.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Goosebumps</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/goosebumps.jpg" />
-  				<p>Dear Slappy, Evil Dummy, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Mon, 19 Oct 2015 00:00:00 -0400</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/10/19/goosebumps%20copy.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/10/19/goosebumps%20copy.html</guid>
 			</item>
 		
 	</channel>
