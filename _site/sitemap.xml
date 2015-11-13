@@ -3003,7 +3003,7 @@
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/coryh/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/jaredy/</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
@@ -3011,11 +3011,11 @@
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/features/lists/</loc>
+        <loc>http://www.dearcastandcrew.com/features/series/</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/features/series/</loc>
+        <loc>http://www.dearcastandcrew.com/features/lists/</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
@@ -3043,15 +3043,15 @@
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/reviews/streaming/</loc>
-        <lastmod>2015-10-07T11:33:18-04:00</lastmod>
-    </url>
-    <url>
         <loc>http://www.dearcastandcrew.com/writers/christopherr/</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/dig/</loc>
+        <loc>http://www.dearcastandcrew.com/reviews/streaming/</loc>
+        <lastmod>2015-10-07T11:33:18-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/writers/coryh/</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
@@ -3059,7 +3059,7 @@
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/jaredy/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/dig/</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
@@ -3075,11 +3075,11 @@
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/privacy/</loc>
+        <loc>http://www.dearcastandcrew.com/contact/</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/contact/</loc>
+        <loc>http://www.dearcastandcrew.com/privacy/</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
     <url>
@@ -3135,6 +3135,10 @@
         <lastmod>2015-10-13T10:10:01-04:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/contests/the-secret-in-their-eyes-contest.html</loc>
+        <lastmod>2015-11-13T01:05:20-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/contests/the-theory-of-everything-contest.html</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
     </url>
@@ -3149,9 +3153,5 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/while-were-young-contest.html</loc>
         <lastmod>2015-10-07T11:33:18-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
-        <lastmod>2015-11-02T08:52:17-05:00</lastmod>
     </url>
 </urlset>
