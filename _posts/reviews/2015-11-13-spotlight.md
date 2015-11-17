@@ -17,6 +17,7 @@ tags:
   - journalism
   - religion
   - scandal
+  - The Wire
 imdb: tt1895587
 ---
 
