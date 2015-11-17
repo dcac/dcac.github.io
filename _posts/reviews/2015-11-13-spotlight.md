@@ -16,6 +16,7 @@ tags:
   - Mark Ruffalo
   - journalism
   - religion
+  - scandal
 imdb: tt1895587
 ---
 
