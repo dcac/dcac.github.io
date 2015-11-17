@@ -29,7 +29,11 @@ h1.contest-title{
 form.wufoo{
   background-color: @white;
 }
-
+.wufoo label.desc{
+  font-size: @font-px*14;
+  color: #575758;
+  font-family: @sans-serif;
+}
 .wufoo input.text{
   border:1px solid #575758;
   font-size: @text-regular;
@@ -78,7 +82,7 @@ form.wufoo .focused{
   padding: 0;
   margin: 0;
   width: auto;
-  display: none;
+  display: none; 
 }
 form.wufoo a:hover{
   padding-top: 40px;
@@ -108,11 +112,15 @@ input#saveForm.btTxt.submit{
   white-space: nowrap;
   width: auto;
 }
+input[type=checkbox]{
+  margin:0;
+}
 form.wufoo label.choice{
   font-size: @font-px*14;
   color: #575758;
   font-family: @sans-serif;
   float: left;
+  margin-left: 1.2rem;
 }
 fieldset{
   margin: 0;
