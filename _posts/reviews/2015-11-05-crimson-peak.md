@@ -9,6 +9,9 @@ addressee: Guillermo Del Toro
 split_name: true
 position: Director
 image: crimson-peak.jpg
+categories: 
+  - reviews
+  - current-releases
 tags: 
   - Jessica Chastain
   - Guillermo Del Toro

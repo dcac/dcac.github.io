@@ -9,6 +9,9 @@ addressee: Cory Goodman
 split_name: true
 position: Writer
 image: the-last-witch-hunter.jpg
+categories: 
+  - reviews
+  - current-releases
 tags: 
   - Vin Diesel
   - horror

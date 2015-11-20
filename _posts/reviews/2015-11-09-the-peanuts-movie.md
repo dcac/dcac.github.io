@@ -9,6 +9,9 @@ addressee: Bryan Schulz, Craig Schulz, and Cornelius Uliano
 split_name: false
 position: Writers
 image: the-peanuts-movie.jpg
+categories: 
+  - reviews
+  - current-releases
 tags: 
   - Charlie Brown
   - animated

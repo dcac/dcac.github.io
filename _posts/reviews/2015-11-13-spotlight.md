@@ -10,6 +10,9 @@ addressee: Tom McCarthy
 split_name: false
 position: Writer/Director
 image: spotlight.jpg
+categories: 
+  - reviews
+  - current-releases
 tags: 
   - Michael Keaton
   - Rachel MacAdams

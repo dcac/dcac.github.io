@@ -9,6 +9,9 @@ addressee: Paul Gross
 split_name: true
 position: Producer / Writer / Director / Star 
 image: hyena-road.jpg
+categories: 
+  - reviews
+  - current-releases
 tags: 
   - Paul Gross
   - Canadian

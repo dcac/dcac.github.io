@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Bridge of Spies</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/bridge-of-spies.jpg" />
+  				<p>Dear Thomas Newman, Composer, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Wed, 18 Nov 2015 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/11/18/bridge-of-spies.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/18/bridge-of-spies.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Man Vs</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Tue, 03 Nov 2015 00:00:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/11/3/the-last-witch-hunter.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/3/the-last-witch-hunter.html</guid>
-			</item>
-		
-			<item>
-				<title> Feature: The 16 Sexiest Roles on a Film Set</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/the-16-sexiest-roles-on-a-film-set.jpg" />
-  				<p>Dear Film Fans, <br />
-  				Is Hollywood's rush to give young directors  the key to the blockbuster kingdom robbing them of their chance to grow as artists?p>
-  		    ]]>
-				</description>
-				<pubDate>Wed, 28 Oct 2015 00:00:00 -0400</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/10/28/the-16-sexiest-roles-on-a-film-set.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/10/28/the-16-sexiest-roles-on-a-film-set.html</guid>
 			</item>
 		
 	</channel>

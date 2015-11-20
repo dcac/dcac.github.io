@@ -8,6 +8,9 @@ author: timm
 addressee: Bradford Young
 position: Cinematographer
 image: pawn-sacrifice.jpg
+categories: 
+  - reviews
+  - current-releases
 tags: 
   - Edward Zwick
   - Tobet Maguire

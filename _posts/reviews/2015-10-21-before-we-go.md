@@ -9,6 +9,9 @@ addressee: C
 split_name: true
 position: The One That Got Away
 image: before-we-go.jpg
+categories: 
+  - reviews
+  - current-releases
 tags: 
   - Chris Evans
   - Captain America

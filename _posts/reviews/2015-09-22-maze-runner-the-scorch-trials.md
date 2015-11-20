@@ -8,6 +8,9 @@ author: timm
 addressee: Dan Dorrance
 position: "Production Designer"
 image: maze-runner-the-scorch-trials.jpg
+categories: 
+  - reviews
+  - current-releases
 tags: 
   - sci-fi
   - dystopian

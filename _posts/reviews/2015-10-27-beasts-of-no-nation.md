@@ -9,6 +9,9 @@ addressee: Ben Shields Caitlin
 split_name: true
 position: Acquisitions Executive
 image: beasts-of-no-nation.jpg
+categories: 
+  - reviews
+  - netflix
 tags: 
   - Idris Elba
   - Netflix

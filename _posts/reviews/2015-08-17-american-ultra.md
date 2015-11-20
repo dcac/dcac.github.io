@@ -8,6 +8,9 @@ author: timm
 addressee: Robert Alonzo
 position:  Fight Coordinator
 image: american-ultra.jpg
+categories: 
+  - reviews
+  - current-releases
 tags: 
   - Jesse Eisenberg
   - Kristin Stewart

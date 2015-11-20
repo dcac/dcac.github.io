@@ -9,6 +9,9 @@ addressee: Slappy
 split_name: true
 position: Evil Dummy
 image: goosebumps.jpg
+categories: 
+  - reviews
+  - current-releases
 tags: 
   - Jack Black
   - nostalgia

@@ -9,6 +9,9 @@ addressee: Greta Gerwig and Noah Baumbach
 position: Writers
 split_name: false
 image: mistress-america.jpg
+categories: 
+  - reviews
+  - current-releases
 tags: 
   - Noah Baumbach
   - Greta Gerwig

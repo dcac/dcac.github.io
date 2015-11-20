@@ -9,6 +9,9 @@ addressee: Jennie Byrne
 split_name: true
 position: Former CPC Campaign Manager
 image: our-brand-is-crisis.jpg
+categories: 
+  - reviews
+  - current-releases
 tags: 
   - Sandra Bullock
   - David Gordon Green

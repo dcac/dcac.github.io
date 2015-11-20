@@ -9,6 +9,9 @@ addressee: Vegan Chocolate Cake
 split_name: false
 position: Metaphor
 image: the-intern.jpg
+categories: 
+  - reviews
+  - current-releases
 tags: 
   - Robert DeNiro
   - Anne Hathaway

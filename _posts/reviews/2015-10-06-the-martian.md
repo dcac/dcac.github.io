@@ -9,6 +9,9 @@ addressee: Oliver Tarney
 split_name: true
 position: Sound Designer
 image: the-martian.jpg
+categories: 
+  - reviews
+  - current-releases
 tags: 
   - Matt Damon
   - Ridley Scott

@@ -8,6 +8,9 @@ author: timm
 addressee: David Foster Wallace
 position: "Inspiration"
 image: the-end-of-the-tour.jpg
+categories: 
+  - reviews
+  - current-releases
 tags: 
   - drama
   - biography

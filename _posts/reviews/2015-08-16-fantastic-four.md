@@ -8,6 +8,9 @@ author: timm
 addressee: Josh Trank
 position: Scapegoat/Director
 image: fantastic-four.jpg
+categories: 
+  - reviews
+  - current-releases
 tags: 
   - reboot
   - comics

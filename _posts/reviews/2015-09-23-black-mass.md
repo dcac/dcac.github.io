@@ -9,6 +9,9 @@ addressee: Howard Samuelsohn and Carla Meyer
 position: "Dialect Coaches"
 image: black-mass.jpg
 split_name: false
+categories: 
+  - reviews
+  - current-releases
 tags: 
   - biography
   - true crime

@@ -9,6 +9,9 @@ addressee: BlueBolt, Cinesite and RISE
 split_name: false
 position: Visual Effects Posse 
 image: the-man-from-uncle.jpg
+categories: 
+  - reviews
+  - current-releases
 tags: 
   - tv
   - tv show

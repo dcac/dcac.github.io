@@ -10,6 +10,9 @@ addressee: Emily Wilding Davison
 split_name: false
 position: Minor Character/Hero
 image: suffragette.jpg
+categories: 
+  - reviews
+  - current-releases
 tags: 
   - history
   - elections
