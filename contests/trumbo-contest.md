@@ -36,7 +36,7 @@ var s = d.createElement(t), options = {
 'async':true,
 'host':'wufoo.com',
 'header':'hide',
-'ssl':false};
+'ssl':true};
 s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
 s.onload = s.onreadystatechange = function() {
 var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;

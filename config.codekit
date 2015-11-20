@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19033",
+"creatorBuild": "19076",
 "files": {
 	"\/404.html": {
 		"fileType": 8192,
@@ -608,7 +608,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 93352,
+		"initialSize": 222876,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-2.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-2.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -619,7 +619,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 509383,
+		"initialSize": 953899,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-3.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-3.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1378,7 +1378,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 16027,
+		"initialSize": 8420,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo-grey.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo-grey.png",
 		"outputPathIsOutsideProject": 0,
@@ -1389,7 +1389,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4154,
+		"initialSize": 4079,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo-white.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo-white.png",
 		"outputPathIsOutsideProject": 0,
@@ -1400,7 +1400,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3514,
+		"initialSize": 3916,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo.png",
 		"outputPathIsOutsideProject": 0,
@@ -5558,7 +5558,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 155796,
+		"initialSize": 172061,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/maze-runner-the-scorch-trials.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/maze-runner-the-scorch-trials.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -19990,7 +19990,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 47441,
+		"initialSize": 19248,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/good-kill.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/good-kill.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -37462,7 +37462,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 509383,
+		"initialSize": 953899,
 		"inputAbbreviatedPath": "\/assets\/img\/error\/404-3.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/error\/404-3.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -65442,15 +65442,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/config.rb": {
-		"fileType": 131072,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/config.rb",
-		"outputAbbreviatedPath": "\/config.rb",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/css\/404.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -65673,7 +65664,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 15491,
+		"initialSize": 1233,
 		"inputAbbreviatedPath": "\/favicon.png",
 		"outputAbbreviatedPath": "\/favicon.png",
 		"outputPathIsOutsideProject": 0,
@@ -67283,6 +67274,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb": {
+		"fileType": 131072,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
+		"outputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/vendor\/bLazy\/blazy.min-new.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -68537,10 +68537,6 @@
 			}
 		},
 	"jsLintFlags2": {
-		"ass": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"bitwise": {
 			"active": 0,
 			"flagValue": -1
@@ -68549,15 +68545,7 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"closure": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"continue": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"debug": {
+		"couch": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -68565,75 +68553,27 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"eqeq": {
+		"es6": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"evil": {
+		"eval": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"forin": {
+		"for": {
 			"active": 0,
 			"flagValue": -1
-			},
-		"indent": {
-			"active": 0,
-			"flagValue": 4
 			},
 		"maxlen": {
 			"active": 0,
 			"flagValue": 150
 			},
-		"newcap": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"node": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"nomen": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"plusplus": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"properties": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"regexp": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"rhino": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"sloppy": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"stupid": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"sub": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"todo": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"unparam": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"vars": {
+		"this": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -68734,7 +68674,9 @@
 	"typescriptAutoOutputPathStyle": 2,
 	"typescriptCreateDeclarationFile": 0,
 	"typescriptCreateSourceMap": 0,
+	"typescriptJSXMode": 0,
 	"typescriptMinifyOutput": 0,
+	"typescriptModuleResolutionType": 0,
 	"typescriptModuleType": 0,
 	"typescriptNoImplicitAny": 0,
 	"typescriptPreserveConstEnums": 0,
