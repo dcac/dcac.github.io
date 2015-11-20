@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Love the Coopers</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/love-the-coopers.jpg" />
+  				<p>Dear Thomas J. Garrigan, Assistant Property Master, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Wed, 18 Nov 2015 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/11/18/love-the-coopers.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/18/love-the-coopers.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Bridge of Spies</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Wed, 04 Nov 2015 00:00:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/11/4/truth.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/4/truth.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: The Last Witch Hunter</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/the-last-witch-hunter.jpg" />
-  				<p>Dear Cory Goodman, Writer, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Tue, 03 Nov 2015 00:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/11/3/the-last-witch-hunter.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/3/the-last-witch-hunter.html</guid>
 			</item>
 		
 	</channel>
