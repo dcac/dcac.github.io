@@ -40,7 +40,3 @@ When we are introduced to Chloe’s bar, we aren’t invited into a seemingly no
 And somehow you had the gall to push it further. Kaulder actually says the word “magic” out loud when he witnesses a spell. Really, Cory? The man has been around for 800 years and is a witch hunter—why the fuck does he have to say “magic” when he sees it? We get it: _The Last Witch Hunter _is a movie about witches. 
 
 The worst part is that I knew it would be bad—yet I still left disappointed. Fantasy fans should be treated to a better representation of the genre in 2015. _The Last Witch Hunter_ was all sorts of toil and trouble.
-
-Sincerely,
-
-Ankit  

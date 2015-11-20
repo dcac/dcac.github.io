@@ -36,6 +36,3 @@ In the trailer, audiences are exposed to the car chase between Illya Kuryakin an
 Still, _Man From U.N.C.L.E._ has its own charm. It is funny and entertaining. Probably because we’re watching a British actor play an American, and an American actor play a Russian (forced accents FTW). But if audiences are expecting an aesthetically breathtaking movie by you, the fine folk at BlueBolt, Cinesite and RISE, only to have the sweet stuff shown during the first 40 minutes, they’ll likely be a little disappointed.  
 
 I know many of these decisions weren’t yours to make. All three of you played an integral part in this creation, but unfortunately your contributions were kind of wasted. If you were left in charge of the creative treatment, I’m sure the finished product would have been a whole lot different.
-
-**Sincerely,**  
-Ankit

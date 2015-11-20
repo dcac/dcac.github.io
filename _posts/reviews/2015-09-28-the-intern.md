@@ -42,7 +42,3 @@ _The Intern_ plays heavily on the emotional end of the scale. It touches on the
 It’s also pretty funny. De Niro and Hathaway have good chemistry, and the tried-but-true comedic interactions between the old, out of touch sage and the tech-savvy Millennials is a great recipe for decent laughs.
 
 Gen X-ers are getting older and Gen Z-ers are making waves. Our world is moving faster and we’re going to need to adapt quicker—and one of the best ways to do that is stick to your guns and order some vegan cake.
-
-**Sincerely,**
-
-Ankit

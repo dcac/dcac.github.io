@@ -35,6 +35,8 @@ If red Starbuck cups have taught us anything, it’s that making changes to a ti
 
 Commercialization of the holidays has been around for many years, and it will no doubt continue for many more. And in a strange twist of fate, it means you will always have income around this time of year to spend on your family. And isn’t that what the holidays are all about?
 
+{% contentfor signature %}
 **Bah humbug,**
 
 Ankit
+{% endcontentfor %}

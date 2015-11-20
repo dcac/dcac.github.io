@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19076",
+"creatorBuild": "19033",
 "files": {
 	"\/404.html": {
 		"fileType": 8192,
@@ -608,7 +608,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 222876,
+		"initialSize": 93352,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-2.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-2.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -619,7 +619,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 953899,
+		"initialSize": 509383,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-3.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-3.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1378,7 +1378,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 8420,
+		"initialSize": 16027,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo-grey.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo-grey.png",
 		"outputPathIsOutsideProject": 0,
@@ -1389,7 +1389,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4079,
+		"initialSize": 4154,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo-white.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo-white.png",
 		"outputPathIsOutsideProject": 0,
@@ -1400,7 +1400,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3916,
+		"initialSize": 3514,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo.png",
 		"outputPathIsOutsideProject": 0,
@@ -2778,6 +2778,17 @@
 		"initialSize": 126356,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/breakup-buddies.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/breakup-buddies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/bridge-of-spies.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 302712,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/bridge-of-spies.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/bridge-of-spies.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5356,6 +5367,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/love-the-coopers.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 193552,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/love-the-coopers.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/love-the-coopers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/lovelace.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5477,6 +5499,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/man-vs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 121179,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/man-vs.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/man-vs.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/mandela-long-walk-to-freedom.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5525,7 +5558,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 172061,
+		"initialSize": 155796,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/maze-runner-the-scorch-trials.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/maze-runner-the-scorch-trials.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -8117,6 +8150,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/the-hunger-games-mockingjay-part-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103873,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-hunger-games-mockingjay-part-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-hunger-games-mockingjay-part-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/the-hunger-games.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -9367,6 +9411,17 @@
 		"initialSize": 169119,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/true-story.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/true-story.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/trumbo-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 144873,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/trumbo-contest.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/trumbo-contest.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -10863,6 +10918,17 @@
 		"initialSize": 13261,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/breakup-buddies.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/breakup-buddies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/bridge-of-spies.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11823,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/bridge-of-spies.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/bridge-of-spies.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -13309,6 +13375,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/love-the-coopers.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12952,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/love-the-coopers.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/love-the-coopers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/lovelace.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -13415,6 +13492,17 @@
 		"initialSize": 14612,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/man-of-tai-chi.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/man-of-tai-chi.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/man-vs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9358,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/man-vs.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/man-vs.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15923,6 +16011,17 @@
 		"initialSize": 9215,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-hunger-games-mockingjay-part-1.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-hunger-games-mockingjay-part-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/the-hunger-games-mockingjay-part-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8666,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-hunger-games-mockingjay-part-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-hunger-games-mockingjay-part-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -18567,6 +18666,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/bridge-of-spies.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37748,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/bridge-of-spies.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/bridge-of-spies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/brooklyn-castle.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -19880,7 +19990,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 19248,
+		"initialSize": 47441,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/good-kill.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/good-kill.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -20954,6 +21064,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/love-the-coopers.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34696,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/love-the-coopers.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/love-the-coopers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/lovelace.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -21060,6 +21181,17 @@
 		"initialSize": 35537,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/man-of-tai-chi.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/man-of-tai-chi.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/man-vs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23788,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/man-vs.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/man-vs.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -23594,6 +23726,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/the-hunger-games-mockingjay-part-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22803,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-hunger-games-mockingjay-part-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-hunger-games-mockingjay-part-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/the-hunger-games.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -25306,6 +25449,28 @@
 		"initialSize": 3251,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/search\/search-icon.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/search\/search-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/writers\/ankitv-sig.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5790,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/writers\/ankitv-sig.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/writers\/ankitv-sig.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/writers\/ankitv.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25603,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/writers\/ankitv.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/writers\/ankitv.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -30905,6 +31070,42 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/11\/17\/man-vs.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/11\/17\/man-vs.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/11\/18\/bridge-of-spies.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/11\/18\/bridge-of-spies.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/11\/18\/love-the-coopers.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/11\/18\/love-the-coopers.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/11\/20\/the-hunger-games-mockingjay-part-2.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/11\/20\/the-hunger-games-mockingjay-part-2.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2015\/11\/3\/the-last-witch-hunter.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -32021,11 +32222,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/contests\/truth-contest.html": {
+	"\/_site\/contests\/trumbo-contest.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/contests\/truth-contest.html",
+		"inputAbbreviatedPath": "\/_site\/contests\/trumbo-contest.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -36500,6 +36701,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/reviews\/current-releases\/page8\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/reviews\/current-releases\/page8\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/reviews\/current-releases\/page9\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/reviews\/current-releases\/page9\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/reviews\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -36889,6 +37108,15 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
+	"\/_site\/writers\/ankitv\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/writers\/ankitv\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/writers\/caseyt\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -37234,7 +37462,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 953899,
+		"initialSize": 509383,
 		"inputAbbreviatedPath": "\/assets\/img\/error\/404-3.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/error\/404-3.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -39393,6 +39621,17 @@
 		"initialSize": 126356,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/breakup-buddies.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/breakup-buddies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/bridge-of-spies.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 302712,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/bridge-of-spies.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/bridge-of-spies.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -41971,6 +42210,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/love-the-coopers.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 193552,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/love-the-coopers.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/love-the-coopers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/lovelace.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -42088,6 +42338,17 @@
 		"initialSize": 141717,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/man-of-tai-chi.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/man-of-tai-chi.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/man-vs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 121179,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/man-vs.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/man-vs.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -44732,6 +44993,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/the-hunger-games-mockingjay-part-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103873,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-hunger-games-mockingjay-part-2.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-hunger-games-mockingjay-part-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/the-hunger-games.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -45982,6 +46254,17 @@
 		"initialSize": 169119,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/true-story.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/true-story.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/trumbo-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 144873,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/trumbo-contest.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/trumbo-contest.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -47478,6 +47761,17 @@
 		"initialSize": 13261,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/breakup-buddies.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/breakup-buddies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/bridge-of-spies.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11823,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/bridge-of-spies.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/bridge-of-spies.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -49924,6 +50218,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/love-the-coopers.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12952,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/love-the-coopers.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/love-the-coopers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/lovelace.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -50030,6 +50335,17 @@
 		"initialSize": 14612,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/man-of-tai-chi.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/man-of-tai-chi.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/man-vs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9358,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/man-vs.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/man-vs.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -52538,6 +52854,17 @@
 		"initialSize": 9215,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-hunger-games-mockingjay-part-1.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-hunger-games-mockingjay-part-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/the-hunger-games-mockingjay-part-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8666,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-hunger-games-mockingjay-part-2.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-hunger-games-mockingjay-part-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -55182,6 +55509,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/bridge-of-spies.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37748,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/bridge-of-spies.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/bridge-of-spies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/brooklyn-castle.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -57569,6 +57907,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/love-the-coopers.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34696,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/love-the-coopers.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/love-the-coopers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/lovelace.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -57675,6 +58024,17 @@
 		"initialSize": 35537,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/man-of-tai-chi.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/man-of-tai-chi.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/man-vs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23788,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/man-vs.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/man-vs.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -60209,6 +60569,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/the-hunger-games-mockingjay-part-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22803,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-hunger-games-mockingjay-part-2.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-hunger-games-mockingjay-part-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/the-hunger-games.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -61921,6 +62292,28 @@
 		"initialSize": 3251,
 		"inputAbbreviatedPath": "\/assets\/img\/search\/search-icon.png",
 		"outputAbbreviatedPath": "\/assets\/img\/search\/search-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/writers\/ankitv-sig.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5790,
+		"inputAbbreviatedPath": "\/assets\/img\/writers\/ankitv-sig.png",
+		"outputAbbreviatedPath": "\/assets\/img\/writers\/ankitv-sig.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/writers\/ankitv.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25603,
+		"inputAbbreviatedPath": "\/assets\/img\/writers\/ankitv.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/writers\/ankitv.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -65049,6 +65442,15 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/config.rb": {
+		"fileType": 131072,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/config.rb",
+		"outputAbbreviatedPath": "\/config.rb",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/css\/404.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -65271,7 +65673,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1233,
+		"initialSize": 15491,
 		"inputAbbreviatedPath": "\/favicon.png",
 		"outputAbbreviatedPath": "\/favicon.png",
 		"outputPathIsOutsideProject": 0,
@@ -66881,15 +67283,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb": {
-		"fileType": 131072,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
-		"outputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/vendor\/bLazy\/blazy.min-new.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -67441,6 +67834,15 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/writers\/ankitv\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/writers\/ankitv\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/writers\/caseyt\/index.html": {
 		"fileType": 8192,
@@ -68135,6 +68537,10 @@
 			}
 		},
 	"jsLintFlags2": {
+		"ass": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"bitwise": {
 			"active": 0,
 			"flagValue": -1
@@ -68143,7 +68549,15 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"couch": {
+		"closure": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"continue": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"debug": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -68151,27 +68565,75 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"es6": {
+		"eqeq": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"eval": {
+		"evil": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"for": {
+		"forin": {
 			"active": 0,
 			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
 			},
 		"maxlen": {
 			"active": 0,
 			"flagValue": 150
 			},
+		"newcap": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"node": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"this": {
+		"nomen": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sloppy": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"stupid": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"todo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unparam": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"vars": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -68272,9 +68734,7 @@
 	"typescriptAutoOutputPathStyle": 2,
 	"typescriptCreateDeclarationFile": 0,
 	"typescriptCreateSourceMap": 0,
-	"typescriptJSXMode": 0,
 	"typescriptMinifyOutput": 0,
-	"typescriptModuleResolutionType": 0,
 	"typescriptModuleType": 0,
 	"typescriptNoImplicitAny": 0,
 	"typescriptPreserveConstEnums": 0,

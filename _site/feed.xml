@@ -7,17 +7,17 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Review: Love the Coopers</title>
+				<title>Review: The Hunger Games: Mockingjay - Part 2</title>
 				<description>
   				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/love-the-coopers.jpg" />
-  				<p>Dear Thomas J. Garrigan, Assistant Property Master, <br />
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/the-hunger-games-mockingjay-part-2.jpg" />
+  				<p>Dear Alexander Kanellokos, Game Programmer, <br />
   				p>
   		    ]]>
 				</description>
-				<pubDate>Wed, 18 Nov 2015 00:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/11/18/love-the-coopers.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/18/love-the-coopers.html</guid>
+				<pubDate>Fri, 20 Nov 2015 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/11/20/the-hunger-games-mockingjay-part-2.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/20/the-hunger-games-mockingjay-part-2.html</guid>
 			</item>
 		
 			<item>
@@ -29,9 +29,23 @@
   				p>
   		    ]]>
 				</description>
-				<pubDate>Wed, 18 Nov 2015 00:00:00 -0500</pubDate>
+				<pubDate>Wed, 18 Nov 2015 06:30:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/11/18/bridge-of-spies.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/18/bridge-of-spies.html</guid>
+			</item>
+		
+			<item>
+				<title>Review: Love the Coopers</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/love-the-coopers.jpg" />
+  				<p>Dear Thomas J. Garrigan, Assistant Property Master, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Wed, 18 Nov 2015 06:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/11/18/love-the-coopers.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/18/love-the-coopers.html</guid>
 			</item>
 		
 			<item>
@@ -130,20 +144,6 @@
 				<pubDate>Thu, 05 Nov 2015 00:00:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/11/5/crimson-peak.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/5/crimson-peak.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Truth</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/truth.jpg" />
-  				<p>Dear Jensine Carr, Paperwork PA, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Wed, 04 Nov 2015 00:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/11/4/truth.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/4/truth.html</guid>
 			</item>
 		
 	</channel>
