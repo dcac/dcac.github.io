@@ -2,7 +2,7 @@
 published: true
 imdb: tt3682448
 image: bridge-of-spies.jpg
-date: 2015-11-13 11:30:00
+date: 2015-11-18 11:30:00
 author: caseyt
 stars: 4
 excerpt: 
