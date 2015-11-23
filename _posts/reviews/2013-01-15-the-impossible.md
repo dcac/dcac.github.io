@@ -13,7 +13,7 @@ categories:
   - on-video
 title: "The Impossible"
 comments: true
-tags: [Boxing Day, Disaster, Ewan McGregor, inspired by, Letters, Namoi Watts, natural, Oscar, The Impossible, true events, true story, tsunami, water]
+tags: [Boxing Day, disaster, Ewan McGregor, inspired by, Letters, Namoi Watts, natural, Oscar, The Impossible, true events, true story, tsunami, water]
 ---
 Not even you could have seen this coming. On December 26th, 2004, one of the deadliest natural disasters in history took near apocalyptic levels of life, claiming close to 240,000 souls. In dramatizing the phenomenon, you were responsible for recreating the raging waters of the Boxing Day tsunami that transfix us in _The Impossible's_ cataclysmic event. And like those unsuspecting people watching the oncoming wave, I found myself unprepared to be so moved by what I saw.
 
