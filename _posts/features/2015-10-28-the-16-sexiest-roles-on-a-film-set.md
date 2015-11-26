@@ -3,7 +3,7 @@ layout: feature
 published: true
 image: the-16-sexiest-roles-on-a-film-set.jpg
 title: "The 16 Sexiest Roles on a Film Set"
-excerpt: "Is Hollywood's rush to give young directors  the key to the blockbuster kingdom robbing them of their chance to grow as artists?"
+excerpt: "You think film is sexy. Actually, you know film is sexy. And you’re right. Check out the full list."
 author: christopherr
 addressee: "Film Fans"
 comments: true
