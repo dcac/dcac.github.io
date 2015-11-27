@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Creed</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/creed.jpg" />
+  				<p>Dear Sylvester Stallone, Actor, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Fri, 27 Nov 2015 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/11/27/creed.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/27/creed.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Secret in Their Eyes</title>
 				<description>
   				<![CDATA[
@@ -15,9 +29,9 @@
   				p>
   		    ]]>
 				</description>
-				<pubDate>Wed, 25 Nov 2015 00:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/11/25/secret-in-their-eyes.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/25/secret-in-their-eyes.html</guid>
+				<pubDate>Thu, 26 Nov 2015 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/11/26/secret-in-their-eyes.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/26/secret-in-their-eyes.html</guid>
 			</item>
 		
 			<item>
@@ -130,20 +144,6 @@
 				<pubDate>Fri, 13 Nov 2015 06:30:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/11/13/spotlight.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/13/spotlight.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Suffragette</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/suffragette.jpg" />
-  				<p>Dear Emily Wilding Davison, Minor Character/Hero, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Fri, 13 Nov 2015 06:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/11/13/suffragette.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/13/suffragette.html</guid>
 			</item>
 		
 	</channel>

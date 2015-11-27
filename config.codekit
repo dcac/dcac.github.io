@@ -6577,6 +6577,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/room.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106034,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/room.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/room.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/rosewater-contest.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -6749,6 +6760,17 @@
 		"initialSize": 65047,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/searching-for-sugar-man.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/searching-for-sugar-man.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/secret-in-their-eyes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 125994,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/secret-in-their-eyes.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/secret-in-their-eyes.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -7431,6 +7453,17 @@
 		"initialSize": 152514,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-2013-flixies.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-2013-flixies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-33.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72409,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-33.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-33.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -8487,6 +8520,17 @@
 		"initialSize": 169310,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-missing-picture.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-missing-picture.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-night-before.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 300977,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-night-before.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-night-before.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -14541,6 +14585,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/room.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8858,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/room.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/room.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/rosewater-contest.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -14713,6 +14768,17 @@
 		"initialSize": 8053,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/searching-for-sugar-man.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/searching-for-sugar-man.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/secret-in-their-eyes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10595,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/secret-in-their-eyes.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/secret-in-their-eyes.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15340,6 +15406,17 @@
 		"initialSize": 17844,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-2013-flixies.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-2013-flixies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/the-33.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6322,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-33.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-33.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -16330,6 +16407,17 @@
 		"initialSize": 41063,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-missing-picture.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-missing-picture.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/the-night-before.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16458,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-night-before.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-night-before.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -22230,6 +22318,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/room.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21318,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/room.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/room.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/rosewater-contest.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -22402,6 +22501,17 @@
 		"initialSize": 16638,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/searching-for-sugar-man.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/searching-for-sugar-man.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/secret-in-their-eyes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27764,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/secret-in-their-eyes.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/secret-in-their-eyes.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -23051,6 +23161,17 @@
 		"initialSize": 39510,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-2013-flixies.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-2013-flixies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/the-33.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15021,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-33.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-33.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -24041,6 +24162,17 @@
 		"initialSize": 41063,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-missing-picture.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-missing-picture.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/the-night-before.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49244,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-night-before.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-night-before.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -31106,6 +31238,51 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/11\/23\/room.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/11\/23\/room.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/11\/23\/the-33.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/11\/23\/the-33.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/11\/23\/the-night-before.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/11\/23\/the-night-before.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/11\/25\/secret-in-their-eyes.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/11\/25\/secret-in-their-eyes.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/11\/26\/secret-in-their-eyes.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/11\/26\/secret-in-their-eyes.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2015\/11\/3\/the-last-witch-hunter.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -36976,6 +37153,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/reviews\/page24\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/reviews\/page25\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/reviews\/page25\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -43420,6 +43606,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/room.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106034,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/room.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/room.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/rosewater-contest.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -43592,6 +43789,17 @@
 		"initialSize": 65047,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/searching-for-sugar-man.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/searching-for-sugar-man.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/secret-in-their-eyes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 125994,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/secret-in-their-eyes.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/secret-in-their-eyes.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -44274,6 +44482,17 @@
 		"initialSize": 152514,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-2013-flixies.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-2013-flixies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/the-33.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72409,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-33.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-33.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -45330,6 +45549,17 @@
 		"initialSize": 169310,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-missing-picture.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-missing-picture.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/the-night-before.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 300977,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-night-before.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-night-before.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -51384,6 +51614,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/room.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8858,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/room.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/room.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/rosewater-contest.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -51556,6 +51797,17 @@
 		"initialSize": 8053,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/searching-for-sugar-man.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/searching-for-sugar-man.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/secret-in-their-eyes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10595,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/secret-in-their-eyes.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/secret-in-their-eyes.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -52183,6 +52435,17 @@
 		"initialSize": 17844,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-2013-flixies.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-2013-flixies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/the-33.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6322,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-33.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-33.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -53173,6 +53436,17 @@
 		"initialSize": 41063,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-missing-picture.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-missing-picture.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/the-night-before.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16458,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-night-before.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-night-before.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -59073,6 +59347,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/room.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21318,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/room.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/room.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/rosewater-contest.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -59245,6 +59530,17 @@
 		"initialSize": 16638,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/searching-for-sugar-man.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/searching-for-sugar-man.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/secret-in-their-eyes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27764,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/secret-in-their-eyes.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/secret-in-their-eyes.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -59894,6 +60190,17 @@
 		"initialSize": 39510,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-2013-flixies.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-2013-flixies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/the-33.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15021,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-33.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-33.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -60884,6 +61191,17 @@
 		"initialSize": 41063,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-missing-picture.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-missing-picture.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/the-night-before.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49244,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-night-before.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-night-before.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -65760,6 +66078,17 @@
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
+	"\/js\/color-thief.min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/color-thief.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/color-thief.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/js\/film-roles.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -68047,6 +68376,12 @@
 			"followForSyntaxChecking": 1,
 			"linkedFileAbbreviatedPath": "\/js\/hyphenate.js",
 			"position": 3,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/js\/color-thief.min.js",
+			"position": 4,
 			"type": 0
 			}
 		]
