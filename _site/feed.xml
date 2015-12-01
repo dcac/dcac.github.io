@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Trumbo</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/trumbo.jpg" />
+  				<p>Dear Malcolm Cumming, Script Researcher, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Tue, 01 Dec 2015 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/12/1/trumbo.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/1/trumbo.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: The Good Dinosaur</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Wed, 18 Nov 2015 06:30:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/11/18/bridge-of-spies.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/18/bridge-of-spies.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Love the Coopers</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/love-the-coopers.jpg" />
-  				<p>Dear Thomas J. Garrigan, Assistant Property Master, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Wed, 18 Nov 2015 06:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/11/18/love-the-coopers.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/18/love-the-coopers.html</guid>
 			</item>
 		
 	</channel>

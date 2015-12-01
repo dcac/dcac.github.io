@@ -7204,6 +7204,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/steve-jobs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71352,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/steve-jobs.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/steve-jobs.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/still-alice.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -7970,6 +7981,17 @@
 		"initialSize": 211372,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-giver.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-giver.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-good-dinosaur.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 261453,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-good-dinosaur.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-good-dinosaur.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15179,6 +15201,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/steve-jobs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6638,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/steve-jobs.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/steve-jobs.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/still-alice.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15901,6 +15934,17 @@
 		"initialSize": 17095,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-giver.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-giver.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/the-good-dinosaur.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14530,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-good-dinosaur.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-good-dinosaur.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -22934,6 +22978,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/steve-jobs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15352,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/steve-jobs.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/steve-jobs.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/still-alice.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -23667,6 +23722,17 @@
 		"initialSize": 37047,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-giver.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-giver.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/the-good-dinosaur.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43065,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-good-dinosaur.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-good-dinosaur.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -31321,6 +31387,24 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2015\/11\/27\/creed.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/11\/29\/steve-jobs.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/11\/29\/steve-jobs.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/11\/29\/the-good-dinosaur.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/11\/29\/the-good-dinosaur.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -44275,6 +44359,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/steve-jobs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71352,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/steve-jobs.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/steve-jobs.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/still-alice.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -45041,6 +45136,17 @@
 		"initialSize": 211372,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-giver.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-giver.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/the-good-dinosaur.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 261453,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-good-dinosaur.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-good-dinosaur.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -52250,6 +52356,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/steve-jobs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6638,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/steve-jobs.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/steve-jobs.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/still-alice.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -52972,6 +53089,17 @@
 		"initialSize": 17095,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-giver.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-giver.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/the-good-dinosaur.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14530,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-good-dinosaur.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-good-dinosaur.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -60005,6 +60133,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/steve-jobs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15352,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/steve-jobs.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/steve-jobs.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/still-alice.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -60738,6 +60877,17 @@
 		"initialSize": 37047,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-giver.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-giver.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/the-good-dinosaur.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43065,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-good-dinosaur.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-good-dinosaur.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

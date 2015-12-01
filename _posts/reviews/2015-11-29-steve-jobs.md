@@ -3,7 +3,7 @@ published: true
 date: 2015-11-29 12:00:00
 imdb: tt2080374
 image: steve-jobs.jpg
-author: matt
+author: mattj
 stars: 3.5
 excerpt: 
 position: "Screenwriter"
@@ -20,6 +20,8 @@ tags:
   - Steve Jobs
   - Ashton Kutcher
   - Jobs
+  - bio
+  - biopic
   - Danny Boyle
   - computers
   - Apple

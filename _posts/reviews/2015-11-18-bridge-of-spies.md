@@ -18,6 +18,7 @@ tags:
   - Steven Spielberg
   - Tom Hanks
   - drama
+  - communism
   - historical
   - cold war
   - spies
