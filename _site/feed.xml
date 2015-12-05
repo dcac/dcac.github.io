@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Legend</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/victor-frankenstein.jpg" />
+  				<p>Dear Tom Hardy, Actor, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Fri, 04 Dec 2015 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/12/4/legend.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/4/legend.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Victor Frankenstein</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Mon, 23 Nov 2015 00:00:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/11/23/room.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/23/room.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: The Hunger Games: Mockingjay - Part 2</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/the-hunger-games-mockingjay-part-2.jpg" />
-  				<p>Dear Alexander Kanellokos, Game Programmer, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Fri, 20 Nov 2015 00:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/11/20/the-hunger-games-mockingjay-part-2.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/20/the-hunger-games-mockingjay-part-2.html</guid>
 			</item>
 		
 	</channel>
