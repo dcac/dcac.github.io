@@ -7,10 +7,24 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: I Smile Back</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/i-smile-back.jpg" />
+  				<p>Dear Paige Dylan, Writer, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Tue, 08 Dec 2015 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/12/8/i-smile-back.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/8/i-smile-back.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Legend</title>
 				<description>
   				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/victor-frankenstein.jpg" />
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/legend.jpg" />
   				<p>Dear Tom Hardy, Actor, <br />
   				p>
   		    ]]>
@@ -130,20 +144,6 @@
 				<pubDate>Mon, 23 Nov 2015 00:00:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/11/23/the-33.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/23/the-33.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Room</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/room.jpg" />
-  				<p>Dear Dr. John Brier, Trauma Consultant, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Mon, 23 Nov 2015 00:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/11/23/room.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/23/room.html</guid>
 			</item>
 		
 	</channel>
