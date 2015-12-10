@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19076",
+"creatorBuild": "19102",
 "files": {
 	"\/404.html": {
 		"fileType": 8192,
@@ -61,6 +61,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_includes\/head-style.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_includes\/home\/home-feature-old.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/home\/home-feature-old.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -544,6 +553,15 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
+	"\/_site\/404.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/404.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/about\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -564,6 +582,26 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
+	"\/_site\/apple-touch-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2343,
+		"inputAbbreviatedPath": "\/_site\/apple-touch-icon.png",
+		"outputAbbreviatedPath": "\/_site\/apple-touch-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/css\/app.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/css\/app.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/assets\/img\/error\/404-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -579,7 +617,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 222876,
+		"initialSize": 93352,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-2.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-2.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -590,7 +628,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 953899,
+		"initialSize": 509383,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-3.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/error\/404-3.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1349,7 +1387,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 8420,
+		"initialSize": 16027,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo-grey.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo-grey.png",
 		"outputPathIsOutsideProject": 0,
@@ -1360,7 +1398,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4079,
+		"initialSize": 4154,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo-white.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo-white.png",
 		"outputPathIsOutsideProject": 0,
@@ -1371,7 +1409,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3916,
+		"initialSize": 3514,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo.png",
 		"outputPathIsOutsideProject": 0,
@@ -1748,6 +1786,83 @@
 		"initialSize": 3421,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/netflix_small.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/netflix_small.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/home\/sw-feature\/1-nav.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20400,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/1-nav.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/1-nav.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/home\/sw-feature\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113997,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/1.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/home\/sw-feature\/calendar-square-future.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 262,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/calendar-square-future.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/calendar-square-future.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/home\/sw-feature\/calendar-square-over.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 503,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/calendar-square-over.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/calendar-square-over.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/home\/sw-feature\/calendar-square-today-over.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1101,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/calendar-square-today-over.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/calendar-square-today-over.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/home\/sw-feature\/calendar-square-today.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 867,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/calendar-square-today.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/calendar-square-today.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/home\/sw-feature\/calendar-square.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 495,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/calendar-square.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/calendar-square.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5573,7 +5688,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 172061,
+		"initialSize": 155796,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/maze-runner-the-scorch-trials.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/maze-runner-the-scorch-trials.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -5917,6 +6032,17 @@
 		"initialSize": 129841,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/nightcrawler.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/nightcrawler.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/no-i-am-your-father.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 125631,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/no-i-am-your-father.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/no-i-am-your-father.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -8997,6 +9123,358 @@
 		"initialSize": 132133,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-top-5-most-terrifying-scenes-in-movie-history.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-top-5-most-terrifying-scenes-in-movie-history.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-town-that-dreaded-sundown.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47070,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-town-that-dreaded-sundown.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-town-that-dreaded-sundown.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-trip-to-italy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73249,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-trip-to-italy.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-trip-to-italy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-valley-below.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90285,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-valley-below.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-valley-below.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-value-of-a-veteran-filmmaker.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 700671,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-value-of-a-veteran-filmmaker.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-value-of-a-veteran-filmmaker.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-villain.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 305410,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-villain.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-villain.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-water-diviner-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 152892,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-water-diviner-contest.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-water-diviner-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-wind-rises.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47006,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-wind-rises.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-wind-rises.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-wolf-of-wall-street.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 175155,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-wolf-of-wall-street.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-wolf-of-wall-street.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-words.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 170949,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-words.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-words.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-worlds-end.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 179996,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-worlds-end.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-worlds-end.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-young-and-prodigious-t-s-spivet.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160242,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-young-and-prodigious-t-s-spivet.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-young-and-prodigious-t-s-spivet.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-young-and-prodigious-ts-spivet.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 302162,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-young-and-prodigious-ts-spivet.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-young-and-prodigious-ts-spivet.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-zero-theorem.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 221019,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-zero-theorem.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-zero-theorem.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/third-person.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89861,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/third-person.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/third-person.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/this-is-40.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 146116,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/this-is-40.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/this-is-40.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/this-is-forty-picture06.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 172438,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/this-is-forty-picture06.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/this-is-forty-picture06.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/this-is-the-end.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 203173,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/this-is-the-end.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/this-is-the-end.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/this-is-where-i-leave-you.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99428,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/this-is-where-i-leave-you.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/this-is-where-i-leave-you.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/thor-the-dark-world.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 191013,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/thor-the-dark-world.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/thor-the-dark-world.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/thunderstorm-the-return-of-thor.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 165989,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/thunderstorm-the-return-of-thor.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/thunderstorm-the-return-of-thor.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/tiff-2012.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113886,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tiff-2012.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tiff-2012.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/tiff-2013.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 149780,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tiff-2013.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tiff-2013.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/tiff-2014.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50949,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tiff-2014.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tiff-2014.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/timbuktu.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75935,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/timbuktu.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/timbuktu.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/time-lapse.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 137688,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/time-lapse.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/time-lapse.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/tims-vermeer.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128731,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tims-vermeer.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tims-vermeer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/tinker-tailor-soldier-spy copy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 367292,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tinker-tailor-soldier-spy copy.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tinker-tailor-soldier-spy copy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/tinker-tailor-soldier-spy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 179269,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tinker-tailor-soldier-spy.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tinker-tailor-soldier-spy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/titanic-3d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 203804,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/titanic-3d.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/titanic-3d.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/to-the-wonder.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 188387,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/to-the-wonder.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/to-the-wonder.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/tomorrowland.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 205249,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tomorrowland.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tomorrowland.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/top-10-uncredited-heroes-of-jurassic-park.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 202095,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/top-10-uncredited-heroes-of-jurassic-park.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/top-10-uncredited-heroes-of-jurassic-park.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -13650,6 +14128,17 @@
 		"initialSize": 13689,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/nightcrawler.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/nightcrawler.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/no-i-am-your-father.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13727,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/no-i-am-your-father.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/no-i-am-your-father.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -19873,7 +20362,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 19248,
+		"initialSize": 47441,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/good-kill.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/good-kill.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -21460,6 +21949,17 @@
 		"initialSize": 35564,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/nightcrawler.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/nightcrawler.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/no-i-am-your-father.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34871,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/no-i-am-your-father.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/no-i-am-your-father.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -31225,6 +31725,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/12\/10\/no-i-am-your-father.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/12\/10\/no-i-am-your-father.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2015\/12\/3\/victor-frankenstein.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -37581,7 +38090,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 953899,
+		"initialSize": 509383,
 		"inputAbbreviatedPath": "\/assets\/img\/error\/404-3.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/error\/404-3.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -38739,6 +39248,83 @@
 		"initialSize": 7012,
 		"inputAbbreviatedPath": "\/assets\/img\/home\/netflix_small.png",
 		"outputAbbreviatedPath": "\/assets\/img\/home\/netflix_small.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/home\/sw-feature\/1-nav.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20400,
+		"inputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/1-nav.png",
+		"outputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/1-nav.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/home\/sw-feature\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113997,
+		"inputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/1.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/home\/sw-feature\/calendar-square-future.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 262,
+		"inputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/calendar-square-future.png",
+		"outputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/calendar-square-future.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/home\/sw-feature\/calendar-square-over.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 503,
+		"inputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/calendar-square-over.png",
+		"outputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/calendar-square-over.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/home\/sw-feature\/calendar-square-today-over.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1101,
+		"inputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/calendar-square-today-over.png",
+		"outputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/calendar-square-today-over.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/home\/sw-feature\/calendar-square-today.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 867,
+		"inputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/calendar-square-today.png",
+		"outputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/calendar-square-today.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/home\/sw-feature\/calendar-square.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 495,
+		"inputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/calendar-square.png",
+		"outputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/calendar-square.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -42908,6 +43494,17 @@
 		"initialSize": 129841,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/nightcrawler.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/nightcrawler.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/no-i-am-your-father.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 125631,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/no-i-am-your-father.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/no-i-am-your-father.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -50997,6 +51594,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/no-i-am-your-father.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13727,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/no-i-am-your-father.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/no-i-am-your-father.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/no-the-trip-to-italy-is-the-best-film-of-the-year.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -58807,6 +59415,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/no-i-am-your-father.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34871,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/no-i-am-your-father.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/no-i-am-your-father.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/no-the-trip-to-italy-is-the-best-film-of-the-year.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -65935,6 +66554,15 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/config.rb": {
+		"fileType": 131072,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/config.rb",
+		"outputAbbreviatedPath": "\/config.rb",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/css\/404.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -66157,7 +66785,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1233,
+		"initialSize": 15491,
 		"inputAbbreviatedPath": "\/favicon.png",
 		"outputAbbreviatedPath": "\/favicon.png",
 		"outputPathIsOutsideProject": 0,
@@ -67778,15 +68406,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb": {
-		"fileType": 131072,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
-		"outputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/vendor\/bLazy\/blazy.min-new.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -68658,8 +69277,16 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"no_nested_string_interpolation": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"no_plusplus": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"no_private_function_fat_arrows": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"no_stand_alone_at": {
@@ -68668,6 +69295,10 @@
 			},
 		"no_tabs": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"no_this": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_throwing_strings": {

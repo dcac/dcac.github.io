@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title> Feature: No, &lt;em&gt;I&lt;/em&gt; Am Your Father!</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/no-i-am-your-father.jpg" />
+  				<p>Dear Obi-Wannabes, <br />
+  				How to Avoid the Star Wars Syndrome.p>
+  		    ]]>
+				</description>
+				<pubDate>Thu, 10 Dec 2015 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/12/10/no-i-am-your-father.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/10/no-i-am-your-father.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: I Smile Back</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Mon, 23 Nov 2015 00:00:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/11/23/the-night-before.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/23/the-night-before.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: The 33</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/the-33.jpg" />
-  				<p>Dear Omaira Olarte, Health &amp; Safety, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Mon, 23 Nov 2015 00:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/11/23/the-33.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/23/the-33.html</guid>
 			</item>
 		
 	</channel>

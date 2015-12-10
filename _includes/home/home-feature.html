@@ -1,51 +1,71 @@
-<style>
-      .title-img-fade {
-      background-image: -webkit-linear-gradient(left, 
-          rgba(0,0,0,0.9) 0%, 
-          rgba(0,0,0,0) 20%,
-          rgba(0,0,0,0) 80%,
-          rgba(0,0,0,0.9) 100%
-        ),
-        url('/assets/img/home/custom/best-of-2014/the-lego-movie.jpg');
-      background-image: -moz-linear-gradient(left, 
-          rgba(0,0,0,0.9) 0%, 
-          rgba(0,0,0,0) 20%,
-          rgba(0,0,0,0) 80%,
-          rgba(0,0,0,0.9) 100%
-        ),
-        url('/assets/img/home/custom/best-of-2014/the-lego-movie.jpg');
-      background-image: -o-linear-gradient(left, 
-          rgba(0,0,0,0.9) 0%, 
-          rgba(0,0,0,0) 20%,
-          rgba(0,0,0,0) 80%,
-          rgba(0,0,0,0.9) 100%
-        ),
-        url('/assets/img/home/custom/best-of-2014/the-lego-movie.jpg');
-      background-image: 
-        linear-gradient(left, 
-          rgba(0,0,0,0.9) 0%, 
-          rgba(0,0,0,0) 20%,
-          rgba(0,0,0,0) 80%,
-          rgba(0,0,0,0.9) 100%
-        ),
-        url('/assets/img/home/custom/best-of-2014/the-lego-movie.jpg');
-      }
-      .title-img {
-        background-image: url('/assets/img/home/custom/best-of-2014/the-lego-movie.jpg');
-      }
-    </style>
-    <section id="hero-home">
-      <div id="story-title" class="title-info">
-         <a href="/content/2015/1/9/sorry-the-lego-movie-is-the-best-film-of-2014.html">
-            <div id="title-img" class="title-img" style=""></div>
-            <div class="row collapse">
-              
-              <div class="large-4 medium-4 columns home-title-height">
-                <div class="hero-title-text">
-                  <!-- <h1 class="hero-home-best-of-title">No, The Trip To Italy is the Best Film of the Year</h1> -->
+<section id="hero-home">
+        <div id="home-feature" class="title-info">
+          <a href="/content/2014/09/05/tiff-2014.html">
+            <div id="home-feature-img" class="home-feature-img" style="background-image: url('/assets/img/posts/main/tiff-2014.jpg');"></div>
+          </a>
+          <div class="row collapse">
+            <div class="hero-height">
+              <div class="link-container" id="link-container"data-stellar-ratio="1.1">
+                <div class="slide-container">
+                <a class="slide-left hide-for-small-only" id="slide-left" href="#"></a>
+                  <div id="weeks">
+                    <ul id="week-one">
+                      <li><a href="/content/2014/9/4/tiff-2014-day-one.html"><span class="month">Sep</span><span class="day">4</span><img src="/assets/img/home/feature/4.jpg" /></span></a></li>
+                      <li><a href="/content/2014/9/5/tiff-2014-day-two.html"><span class="day">5</span><img src="/assets/img/home/feature/5.jpg" /></a></li>
+                      <li><a href="/content/2014/9/6/tiff-2014-day-three.html"><span class="day">6</span><img src="/assets/img/home/feature/6.jpg" /></a></li>
+                      <li><a href="/content/2014/9/7/tiff-2014-day-four.html"><span class="day">7</span><img src="/assets/img/home/feature/7.jpg" /></a></li>
+                      <li><a href="/content/2014/9/8/tiff-2014-day-five.html"><span class="day">8</span><img src="/assets/img/home/feature/8.jpg" /></a></li>
+                    </ul>
+                    <ul id="week-two">
+                      <li><a href="/content/2014/9/9/tiff-2014-day-six.html"><span class="month">Sep</span><span class="day">9</span><img src="/assets/img/home/feature/9.jpg" /></span></a></li>
+                      <li><a href="/content/2014/9/10/tiff-2014-day-seven.html"><span class="day">10</span><img src="/assets/img/home/feature/10.jpg" /></span></a></li>
+                      <li><a href="/content/2014/9/11/tiff-2014-day-eight.html"><span class="day">11</span><img src="/assets/img/home/feature/11.jpg" /></span></a></li>
+                      <li><a href="/content/2014/9/12/tiff-2014-day-nine.html"><span class="day">12</span><img src="/assets/img/home/feature/12.jpg" /></span></a></li>
+                      <li class="today"><a href="/content/2014/9/13/tiff-2014-day-ten.html"><span class="day">13</span><img src="/assets/img/home/feature/13.jpg" /></span></a></li>
+                    </ul>
+                  </div>
+                <a class="slide-right-off hide-for-small-only" id="slide-right" href="#"></a>
                 </div>
+                <p>The Toronto International Film Festival. Day Ten.</p>
               </div>
             </div>
-          </a>
+          </div>
         </div>
       </section>
+      <script>
+        $('#slide-left').click(function() {
+  
+          $("#week-one").animate({
+              left: '16'
+          }, 500, function() {
+              $(this).css('left', '16');
+          });
+      
+          $('#week-two').animate({
+              left: '100%'
+          }, 500);
+          $('#slide-left').addClass('slide-left-off');
+          $('#slide-left').removeClass('slide-left');
+          $('#slide-right').addClass('slide-right');
+          $('#slide-right').removeClass('slide-right-off');
+        });
+        $('#slide-right').click(function() {
+      
+          $('#week-two').animate({
+              left: '0'
+          }, 500, function() {
+              $(this).css('left', '0');
+          });
+          $('#week-one').animate({
+              left: '-100%'
+          }, 500);
+          $('#slide-left').addClass('slide-left');
+          $('#slide-left').removeClass('slide-left-off');
+          $('#slide-right').addClass('slide-right-off');
+          $('#slide-right').removeClass('slide-right');
+        });
+        $(window).load(function () {
+          $('#home-feature .hero-height').hide().fadeIn('slow');
+        
+        });
+      </script>

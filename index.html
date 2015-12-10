@@ -8,8 +8,8 @@ home_feature_display: false
 ---
       
       {% include top-nav.html %}
-      {% if page.home_feature_display == true %}
-        {% include home/home-feature.html %}
+      {% if page.home_feature_display %}
+        {% include home/home-feature-star-wars.html %}
       {% else %}
         {% for post in site.posts limit:1 %}
           {%include home/home-hero.html %}
