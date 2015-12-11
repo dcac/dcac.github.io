@@ -83,20 +83,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_includes\/home\/home-feature-star-wars.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/home\/home-feature-star-wars.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_includes\/home\/home-feature-tiff.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_includes\/home\/home-feature-tiff.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_includes\/home\/home-feature.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_includes\/home\/home-feature.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -592,6 +592,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
+		},
+	"\/_site\/assets\/css\/app (Casey Tourangeau's conflicted copy 2015-12-11).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/css\/app (Casey Tourangeau's conflicted copy 2015-12-11).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/_site\/assets\/css\/app.css": {
 		"fileType": 16,
@@ -1764,6 +1773,17 @@
 		"initialSize": 495,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/calendar-square.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/calendar-square.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/home\/feature\/star-wars-week\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99658,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/1.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5688,7 +5708,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 155796,
+		"initialSize": 172061,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/maze-runner-the-scorch-trials.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/maze-runner-the-scorch-trials.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -7319,6 +7339,17 @@
 		"initialSize": 338618,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/star-trek-into-darkness.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/star-trek-into-darkness.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/star-wars.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91378,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/star-wars.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/star-wars.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15375,6 +15406,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/star-wars.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6893,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/star-wars.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/star-wars.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/stay-hungry.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -23203,6 +23245,17 @@
 		"initialSize": 65316,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/star-trek-into-darkness.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/star-trek-into-darkness.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/star-wars.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17180,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/star-wars.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/star-wars.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -38055,6 +38108,15 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/css\/app (Casey Tourangeau's conflicted copy 2015-12-11).css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/css\/app (Casey Tourangeau's conflicted copy 2015-12-11).css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/assets\/css\/app.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -39226,6 +39288,17 @@
 		"initialSize": 3364,
 		"inputAbbreviatedPath": "\/assets\/img\/home\/feature\/calendar-square.png",
 		"outputAbbreviatedPath": "\/assets\/img\/home\/feature\/calendar-square.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/home\/feature\/star-wars-week\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99658,
+		"inputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/1.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -44781,6 +44854,17 @@
 		"initialSize": 338618,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/star-trek-into-darkness.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/star-trek-into-darkness.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/star-wars.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91378,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/star-wars.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/star-wars.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -52837,6 +52921,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/star-wars.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6893,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/star-wars.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/star-wars.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/stay-hungry.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -60665,6 +60760,17 @@
 		"initialSize": 65316,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/star-trek-into-darkness.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/star-trek-into-darkness.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/star-wars.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17180,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/star-wars.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/star-wars.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

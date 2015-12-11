@@ -40,6 +40,7 @@ defaults:
       title-display: true
       share-display: standard
       custom-header: false
+      essay_subject: false
 
 sitemap:
     file: "/sitemap.xml"
