@@ -2,8 +2,8 @@
 layout: feature
 published: true
 image: no-i-am-your-father.jpg
-title: "No, <em>I</em> Am Your Father!"
-excerpt: "How to Avoid the Star Wars Syndrome."
+title: "How to Avoid the Star Wars Syndrome"
+excerpt: "No, <em>I</em> Am Your Father!"
 essay_subject: true
 author: christopherr
 addressee: "Obi-Wannabes"
