@@ -4,7 +4,7 @@ author: all
 image: star-wars-week.jpg
 addressee: George
 stars: 
-excerpt: 
+excerpt: "Review, we will, a film each day until The Force Awakens!"
 position: 
 layout: series
 categories:
@@ -14,4 +14,4 @@ title: Star Wars Week
 comments: true
 tags: [Star Wars, science-fiction, sci-fi]
 ---
-In the lead-up to the release of _The Force Awakens_, Dear Cast & Crew takes a look back at all six films in the saga.
+Review, we will, a film each day until The Force Awakens!
