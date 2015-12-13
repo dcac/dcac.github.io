@@ -7,17 +7,45 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title> Feature: No, &lt;em&gt;I&lt;/em&gt; Am Your Father!</title>
+				<title>Review: Star Wars</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/star-wars.jpg" />
+  				<p>Dear Carrie Fisher, Actor, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Sat, 12 Dec 2015 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/12/12/star-wars.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/12/star-wars.html</guid>
+			</item>
+		
+			<item>
+				<title> Feature: Star Wars Week</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/star-wars-week.jpg" />
+  				<p>Dear George, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Fri, 11 Dec 2015 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/12/11/star-wars-week.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/11/star-wars-week.html</guid>
+			</item>
+		
+			<item>
+				<title> Feature: How to Avoid the Star Wars Syndrome</title>
 				<description>
   				<![CDATA[
   				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/no-i-am-your-father.jpg" />
   				<p>Dear Obi-Wannabes, <br />
-  				How to Avoid the Star Wars Syndrome.p>
+  				No, <em>I</em> Am Your Father!p>
   		    ]]>
 				</description>
 				<pubDate>Thu, 10 Dec 2015 00:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/12/10/no-i-am-your-father.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/10/no-i-am-your-father.html</guid>
+				<link>http://www.dearcastandcrew.com/content/2015/12/10/how-to-avoid-the-star-wars-syndrome.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/10/how-to-avoid-the-star-wars-syndrome.html</guid>
 			</item>
 		
 			<item>
@@ -116,34 +144,6 @@
 				<pubDate>Fri, 27 Nov 2015 00:00:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/11/27/creed.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/27/creed.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Secret in Their Eyes</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/secret-in-their-eyes.jpg" />
-  				<p>Dear Carla White, Makeup Artist for Julia Roberts, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Thu, 26 Nov 2015 00:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/11/26/secret-in-their-eyes.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/26/secret-in-their-eyes.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: The Night Before</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/the-night-before.jpg" />
-  				<p>Dear Josh Fagen, Assistant to Producers, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Mon, 23 Nov 2015 00:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/11/23/the-night-before.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/23/the-night-before.html</guid>
 			</item>
 		
 	</channel>

@@ -60,7 +60,7 @@ layout: default
             {% if page.categories contains "series" %}
               {% for post in site.categories['series-index'] %}
               {% if post.series-name == page.series-name %}
-              <p><a href="{{ post.url }}">Read all of Dear Cast &amp; Crew's {{ page.series-name }} coverage.</a></p>
+              <p><a href="{{ post.url }}">Read all of Dear Cast &amp; Crew's {{ page.series-title }} coverage.</a></p>
               {% endif %}
               {% endfor %}
             {% endif %}

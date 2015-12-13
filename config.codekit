@@ -1768,6 +1768,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/home\/feature\/star-wars-week\/1-nav.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20400,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/1-nav.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/1-nav.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/home\/feature\/star-wars-week\/1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1775,6 +1786,72 @@
 		"initialSize": 99658,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/1.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-future.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 262,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-future.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-future.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-over.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 503,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-over.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-over.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-today-over.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1101,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-today-over.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-today-over.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-today.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 867,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-today.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-today.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/home\/feature\/star-wars-week\/calendar-square.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 495,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/calendar-square.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/calendar-square.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/home\/feature\/star-wars-week\/iv-sub.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2505,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/iv-sub.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/iv-sub.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1797,83 +1874,6 @@
 		"initialSize": 3421,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/netflix_small.png",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/netflix_small.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/home\/sw-feature\/1-nav.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 20400,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/1-nav.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/1-nav.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/home\/sw-feature\/1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 113997,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/1.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/home\/sw-feature\/calendar-square-future.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 262,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/calendar-square-future.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/calendar-square-future.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/home\/sw-feature\/calendar-square-over.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 503,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/calendar-square-over.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/calendar-square-over.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/home\/sw-feature\/calendar-square-today-over.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1101,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/calendar-square-today-over.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/calendar-square-today-over.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/home\/sw-feature\/calendar-square-today.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 867,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/calendar-square-today.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/calendar-square-today.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/home\/sw-feature\/calendar-square.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 495,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/calendar-square.png",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/sw-feature\/calendar-square.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4676,7 +4676,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 88732,
+		"initialSize": 977610,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/i-smile-back.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/i-smile-back.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -7334,6 +7334,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/star-wars-week.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98602,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/star-wars-week.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/star-wars-week.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/star-wars.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -8265,6 +8276,17 @@
 		"initialSize": 262417,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-hangover-part-3.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-hangover-part-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-hateful-eight-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 122758,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-hateful-eight-contest.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-hateful-eight-contest.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15397,6 +15419,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/star-wars-week.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10477,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/star-wars-week.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/star-wars-week.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/star-wars.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -20395,7 +20428,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 47441,
+		"initialSize": 19248,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/good-kill.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/good-kill.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -23236,6 +23269,17 @@
 		"initialSize": 65316,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/star-trek-into-darkness.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/star-trek-into-darkness.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/star-wars-week.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24657,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/star-wars-week.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/star-wars-week.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -31769,11 +31813,38 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/12\/10\/how-to-avoid-the-star-wars-syndrome.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/12\/10\/how-to-avoid-the-star-wars-syndrome.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2015\/12\/10\/no-i-am-your-father.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2015\/12\/10\/no-i-am-your-father.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/12\/11\/star-wars-week.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/12\/11\/star-wars-week.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/12\/12\/star-wars.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/12\/12\/star-wars.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -32836,6 +32907,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/contests\/the-gunman-contest.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/contests\/the-hateful-eight-contest.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/contests\/the-hateful-eight-contest.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -38134,7 +38214,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 509383,
+		"initialSize": 953899,
 		"inputAbbreviatedPath": "\/assets\/img\/error\/404-3.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/error\/404-3.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -39274,13 +39354,90 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/home\/feature\/star-wars-week\/1-nav.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20400,
+		"inputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/1-nav.png",
+		"outputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/1-nav.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/home\/feature\/star-wars-week\/1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 99658,
+		"initialSize": 89765,
 		"inputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/1.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-future.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 262,
+		"inputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-future.png",
+		"outputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-future.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-over.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 503,
+		"inputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-over.png",
+		"outputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-over.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-today-over.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1101,
+		"inputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-today-over.png",
+		"outputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-today-over.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-today.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 867,
+		"inputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-today.png",
+		"outputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-today.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/home\/feature\/star-wars-week\/calendar-square.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 495,
+		"inputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/calendar-square.png",
+		"outputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/calendar-square.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/home\/feature\/star-wars-week\/iv-sub.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2505,
+		"inputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/iv-sub.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/iv-sub.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -39303,83 +39460,6 @@
 		"initialSize": 7012,
 		"inputAbbreviatedPath": "\/assets\/img\/home\/netflix_small.png",
 		"outputAbbreviatedPath": "\/assets\/img\/home\/netflix_small.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/home\/sw-feature\/1-nav.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 20400,
-		"inputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/1-nav.png",
-		"outputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/1-nav.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/home\/sw-feature\/1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 113997,
-		"inputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/1.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/home\/sw-feature\/calendar-square-future.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 262,
-		"inputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/calendar-square-future.png",
-		"outputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/calendar-square-future.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/home\/sw-feature\/calendar-square-over.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 503,
-		"inputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/calendar-square-over.png",
-		"outputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/calendar-square-over.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/home\/sw-feature\/calendar-square-today-over.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1101,
-		"inputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/calendar-square-today-over.png",
-		"outputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/calendar-square-today-over.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/home\/sw-feature\/calendar-square-today.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 867,
-		"inputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/calendar-square-today.png",
-		"outputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/calendar-square-today.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/home\/sw-feature\/calendar-square.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 495,
-		"inputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/calendar-square.png",
-		"outputAbbreviatedPath": "\/assets\/img\/home\/sw-feature\/calendar-square.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -44836,6 +44916,17 @@
 		"initialSize": 338618,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/star-trek-into-darkness.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/star-trek-into-darkness.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/star-wars-week.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98602,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/star-wars-week.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/star-wars-week.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -52914,6 +53005,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/star-wars-week.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10477,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/star-wars-week.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/star-wars-week.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/star-wars.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -60757,6 +60859,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/star-wars-week.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24657,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/star-wars-week.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/star-wars-week.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/star-wars.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -66653,15 +66766,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/config.rb": {
-		"fileType": 131072,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/config.rb",
-		"outputAbbreviatedPath": "\/config.rb",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/css\/404.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -66884,7 +66988,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 15491,
+		"initialSize": 1233,
 		"inputAbbreviatedPath": "\/favicon.png",
 		"outputAbbreviatedPath": "\/favicon.png",
 		"outputPathIsOutsideProject": 0,
@@ -67255,6 +67359,26 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/less\/feature.less",
 		"outputAbbreviatedPath": "\/css\/feature.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/less\/home-feature-old.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/less\/home-feature-old.less",
+		"outputAbbreviatedPath": "\/css\/home-feature-old.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -68504,6 +68628,15 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
+		},
+	"\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb": {
+		"fileType": 131072,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
+		"outputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/vendor\/bLazy\/blazy.min-new.js": {
 		"fileType": 64,

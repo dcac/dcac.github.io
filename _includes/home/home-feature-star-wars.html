@@ -1,66 +1,42 @@
-<section id="hero-home">
-        <div id="home-feature" class="title-info">
-          <a href="/content/2014/09/05/tiff-2014.html">
-            <div id="home-feature-img" class="home-feature-img" style="background-image: url('/assets/img/home/feature/star-wars-week/1.jpg');"></div>
-          </a>
-          <div class="row collapse">
-            <div class="hero-height">
-              <div class="link-container" id="link-container"data-stellar-ratio="1.1">
-                <div class="slide-container">
-                <a class="slide-left hide-for-small-only" id="slide-left" href="#"></a>
-                  <div id="weeks">
-                    <ul id="week-one">
-                      <li><a href="/content/2014/9/4/tiff-2014-day-one.html"><span class="month">Sep</span><span class="day">4</span><img src="/assets/img/home/feature/4.jpg" /></span></a></li>
-                      <li><a href="/content/2014/9/5/tiff-2014-day-two.html"><span class="day">5</span><img src="/assets/img/home/feature/5.jpg" /></a></li>
-                      <li><a href="/content/2014/9/6/tiff-2014-day-three.html"><span class="day">6</span><img src="/assets/img/home/feature/6.jpg" /></a></li>
-                      <li><a href="/content/2014/9/7/tiff-2014-day-four.html"><span class="day">7</span><img src="/assets/img/home/feature/7.jpg" /></a></li>
-                      <li><a href="/content/2014/9/8/tiff-2014-day-five.html"><span class="day">8</span><img src="/assets/img/home/feature/8.jpg" /></a></li>
-                    </ul>
-                    </ul>
-                  </div>
-                <a class="slide-right-off hide-for-small-only" id="slide-right" href="#"></a>
+<section id="feature-hero-home">
+              <div id="home-feature" class="title-info">
+                <div class="row collapse">
+                    <div class="section-header">
+                        <section class="feature-top-nav" id="feature-top-nav">
+                            <a href="/" class="feature-logo-link"></a>
+                            <ul>
+                                <li><a href="/reviews/" class="nav-text">Reviews</a></li>
+                                <li><a href="/features/" class="slash nav-text">Features</a></li>
+                                <!-- <li><a href="/podcast/">Podcast</a></li> -->
+                                <li><a href="/writers/" class="slash nav-text">Writers</a></li>
+                                <li><a href="#" id="top-search-toggle" class="top-search-toggle slash nav-text"><i class="fa fa-search"></i></a></li>
+                            </ul>
+                        </section>
+                    </div>
                 </div>
-                <p>Star Wars Week - Star Wars</p>
-                <p class="feature-author">by Di Golding</p>
+                <div id="home-feature-img" class="home-feature-img" style="background-image: url('/assets/img/home/feature/star-wars-week/1.jpg');"></div>
+              <div class="row collapse">
+                <div class="hero-height-stamps">
+                  <div class="film-strip">
+                    <div id="film-links">
+                      <ul id="sw-films">
+                          <li class="other-day"><span class="day">I</span></li>
+                          <li class="other-day"><span class="day">II</span></li>
+                          <li class="other-day"><span class="day">III</span></li>
+                          <li class="today"><a href="/content/2015/12/12/star-wars.html"><img src="/assets/img/home/feature/star-wars-week/iv-sub.jpg" /><span class="day">IV</span></a></li>
+                          <li class="other-day"><span class="day">V</span></li>
+                          <li class="other-day"><span class="day">VI</span></li>
+                          <li class="other-day"><span class="day">VII</span></li>
+                      </ul>
+                    </div>
+                  </div>
+                  <a href="/content/2015/12/12/star-wars.html">
+                    <div id="stamps-title">
+                      <p class="stamps">Star Wars Week - Star Wars<br />
+                        <span class="home-feature-author">By Di Golding</span></p>
+                    </div>
+                  </a>
+                </div>
               </div>
             </div>
-          </div>
-        </div>
-      </section>
-      <script>
-        $('#slide-left').click(function() {
-  
-          $("#week-one").animate({
-              left: '16'
-          }, 500, function() {
-              $(this).css('left', '16');
-          });
-      
-          $('#week-two').animate({
-              left: '100%'
-          }, 500);
-          $('#slide-left').addClass('slide-left-off');
-          $('#slide-left').removeClass('slide-left');
-          $('#slide-right').addClass('slide-right');
-          $('#slide-right').removeClass('slide-right-off');
-        });
-        $('#slide-right').click(function() {
-      
-          $('#week-two').animate({
-              left: '0'
-          }, 500, function() {
-              $(this).css('left', '0');
-          });
-          $('#week-one').animate({
-              left: '-100%'
-          }, 500);
-          $('#slide-left').addClass('slide-left');
-          $('#slide-left').removeClass('slide-left-off');
-          $('#slide-right').addClass('slide-right-off');
-          $('#slide-right').removeClass('slide-right');
-        });
-        $(window).load(function () {
-          $('#home-feature .hero-height').hide().fadeIn('slow');
-        
-        });
-      </script>
+          </section>

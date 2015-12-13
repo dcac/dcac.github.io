@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 author: all
 image: star-wars-week.jpg
-addressee: Arnold
+addressee: George
 stars: 
 excerpt: 
 position: 
@@ -12,6 +12,6 @@ categories:
 series-name: star-wars-week
 title: Star Wars Week
 comments: true
-tags: [horror, joe giannone, madman, Postcards, special series, summer camp, Summer Camp]
+tags: [Star Wars, science-fiction, sci-fi]
 ---
-At Dear Cast & Crew, few movies stars loom larger in our collective childhood than Arnold Schwarzenegger. But before Arnie made a name for himself playing _Conan the Barbarian_, he made a few other hilarious attempts to breakout as a star. Behold: the completionist’s guide everything Early Arnold.
+In the lead-up to the release of _The Force Awakens_, Dear Cast & Crew takes a look back at all six films in the saga.
