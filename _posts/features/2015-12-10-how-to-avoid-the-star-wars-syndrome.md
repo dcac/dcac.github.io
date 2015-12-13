@@ -11,7 +11,9 @@ comments: true
 categories:
   - features
   - essays
+  - series
 series-name: star-wars-week
+series-title: "Star Wars Week"
 tags: [Star Wars, science fiction,sci-fi,George Lucas, J.J. Abrams, mythology]
 ---
 In the Star Wars universe, it’s called manifest destiny. But on this planet, it’s just lazy storytelling.

@@ -45,6 +45,13 @@ layout: default
             {% assign author-sig = page.author %}{{ content | replace_first: '<p>','<p class="intro">' }}
             {% if author.bio %}{% include signature.html %}{% endif %}
             {% contentblock postscript %}
+            {% if page.categories contains "series" %}
+              {% for post in site.categories['series-index'] %}
+              {% if post.series-name == page.series-name %}
+              <p><a href="{{ post.url }}">Read all of Dear Cast &amp; Crew's {{ page.series-title }} coverage.</a></p>
+              {% endif %}
+              {% endfor %}
+            {% endif %}
           </div>
           <div class="large-2 medium-2 columns side-spacer hide-for-small-only"></div>
         </div>
