@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: The Empire Strikes Back</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/the-empire-strikes-back.jpg" />
+  				<p>Dear Gary Kurtzr, Producer, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Sun, 13 Dec 2015 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/12/13/the-empire-strikes-back.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/13/the-empire-strikes-back.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Star Wars</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Sun, 29 Nov 2015 07:00:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/11/29/steve-jobs.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/29/steve-jobs.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Creed</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/creed.jpg" />
-  				<p>Dear Sylvester Stallone, Actor, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Fri, 27 Nov 2015 00:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/11/27/creed.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/27/creed.html</guid>
 			</item>
 		
 	</channel>

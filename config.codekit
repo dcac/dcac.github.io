@@ -1790,6 +1790,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/home\/feature\/star-wars-week\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64120,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/2.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-future.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1852,6 +1863,17 @@
 		"initialSize": 2505,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/iv-sub.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/iv-sub.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/home\/feature\/star-wars-week\/v-sub.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2604,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/v-sub.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/v-sub.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4676,7 +4698,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 977610,
+		"initialSize": 88732,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/i-smile-back.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/i-smile-back.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -8034,6 +8056,17 @@
 		"initialSize": 112251,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-duff.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-duff.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-empire-strikes-back.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105325,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-empire-strikes-back.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-empire-strikes-back.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -16079,6 +16112,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/the-empire-strikes-back.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8631,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-empire-strikes-back.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-empire-strikes-back.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/the-end-of-the-tour.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -20428,7 +20472,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 19248,
+		"initialSize": 47441,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/good-kill.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/good-kill.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -23940,6 +23984,17 @@
 		"initialSize": 19814,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-duff.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-duff.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/the-empire-strikes-back.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22551,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-empire-strikes-back.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-empire-strikes-back.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -31849,6 +31904,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/12\/13\/the-empire-strikes-back.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/12\/13\/the-empire-strikes-back.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2015\/12\/3\/victor-frankenstein.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -38214,7 +38278,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 953899,
+		"initialSize": 509383,
 		"inputAbbreviatedPath": "\/assets\/img\/error\/404-3.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/error\/404-3.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -39369,9 +39433,20 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 89765,
+		"initialSize": 99658,
 		"inputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/1.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/home\/feature\/star-wars-week\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64120,
+		"inputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/2.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -39438,6 +39513,17 @@
 		"initialSize": 2505,
 		"inputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/iv-sub.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/iv-sub.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/home\/feature\/star-wars-week\/v-sub.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2604,
+		"inputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/v-sub.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/v-sub.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -45620,6 +45706,17 @@
 		"initialSize": 112251,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-duff.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-duff.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/the-empire-strikes-back.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105325,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-empire-strikes-back.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-empire-strikes-back.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -53665,6 +53762,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/the-empire-strikes-back.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8631,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-empire-strikes-back.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-empire-strikes-back.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/the-end-of-the-tour.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -61530,6 +61638,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/the-empire-strikes-back.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22551,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-empire-strikes-back.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-empire-strikes-back.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/the-end-of-the-tour.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -66766,6 +66885,15 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/config.rb": {
+		"fileType": 131072,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/config.rb",
+		"outputAbbreviatedPath": "\/config.rb",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/css\/404.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -66988,7 +67116,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1233,
+		"initialSize": 15491,
 		"inputAbbreviatedPath": "\/favicon.png",
 		"outputAbbreviatedPath": "\/favicon.png",
 		"outputPathIsOutsideProject": 0,
@@ -68628,15 +68756,6 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
-		},
-	"\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb": {
-		"fileType": 131072,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
-		"outputAbbreviatedPath": "\/Users\/casey\/Dropbox (Personal)\/-- dear cast and crew\/Website\/2014 Redesign\/dcac.github.io\/config.rb",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/vendor\/bLazy\/blazy.min-new.js": {
 		"fileType": 64,
