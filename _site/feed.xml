@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Return of the Jedi</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/return-of-the-jedi.jpg" />
+  				<p>Dear Lawrence Kasdan, Writer, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Mon, 14 Dec 2015 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/12/14/return-of-the-jedi.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/14/return-of-the-jedi.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: The Empire Strikes Back</title>
 				<description>
   				<![CDATA[
@@ -32,6 +46,20 @@
 				<pubDate>Sat, 12 Dec 2015 00:00:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/12/12/star-wars.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/12/star-wars.html</guid>
+			</item>
+		
+			<item>
+				<title>Review: Youth</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/youth.jpg" />
+  				<p>Dear Paolo Sorrentino, Director, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Fri, 11 Dec 2015 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/12/11/youth.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/11/youth.html</guid>
 			</item>
 		
 			<item>
@@ -116,34 +144,6 @@
 				<pubDate>Tue, 01 Dec 2015 00:00:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/12/1/trumbo.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/1/trumbo.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: The Good Dinosaur</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/the-good-dinosaur.jpg" />
-  				<p>Dear Gaston Ugarte, Set Modeling Lead, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Sun, 29 Nov 2015 07:00:01 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/11/29/the-good-dinosaur.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/29/the-good-dinosaur.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Steve Jobs</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/steve-jobs.jpg" />
-  				<p>Dear Aaron Sorkin, Screenwriter, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Sun, 29 Nov 2015 07:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/11/29/steve-jobs.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/11/29/steve-jobs.html</guid>
 			</item>
 		
 	</channel>

@@ -1801,6 +1801,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/home\/feature\/star-wars-week\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64448,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/3.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-future.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1874,6 +1885,17 @@
 		"initialSize": 2604,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/v-sub.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/v-sub.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/home\/feature\/star-wars-week\/vi-sub.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2725,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/vi-sub.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/vi-sub.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6641,6 +6663,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/return-of-the-jedi.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 77157,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/return-of-the-jedi.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/return-of-the-jedi.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/revenge-of-the-green-dragons.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -10267,6 +10300,17 @@
 		"initialSize": 126142,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/youre-next.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/youre-next.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/youth.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 205764,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/youth.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/youth.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -14781,6 +14825,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/return-of-the-jedi.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6661,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/return-of-the-jedi.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/return-of-the-jedi.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/revenge-of-the-green-dragons.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -18165,6 +18220,17 @@
 		"initialSize": 12958,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/youre-next.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/youre-next.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/youth.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13636,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/youth.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/youth.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -22635,6 +22701,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/return-of-the-jedi.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16559,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/return-of-the-jedi.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/return-of-the-jedi.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/revenge-of-the-green-dragons.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -26063,6 +26140,17 @@
 		"initialSize": 30595,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/youre-next.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/youre-next.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/youth.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39921,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/youth.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/youth.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -31895,6 +31983,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/12\/11\/youth.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/12\/11\/youth.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2015\/12\/12\/star-wars.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -31909,6 +32006,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2015\/12\/13\/the-empire-strikes-back.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/12\/14\/return-of-the-jedi.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/12\/14\/return-of-the-jedi.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -39451,6 +39557,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/home\/feature\/star-wars-week\/3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64448,
+		"inputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/3.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-future.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -39524,6 +39641,17 @@
 		"initialSize": 2604,
 		"inputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/v-sub.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/v-sub.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/home\/feature\/star-wars-week\/vi-sub.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2725,
+		"inputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/vi-sub.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/vi-sub.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -44291,6 +44419,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/return-of-the-jedi.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85837,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/return-of-the-jedi.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/return-of-the-jedi.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/revenge-of-the-green-dragons.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -47917,6 +48056,17 @@
 		"initialSize": 126142,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/youre-next.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/youre-next.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/youth.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 205764,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/youth.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/youth.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -52431,6 +52581,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/return-of-the-jedi.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6661,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/return-of-the-jedi.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/return-of-the-jedi.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/revenge-of-the-green-dragons.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -55815,6 +55976,17 @@
 		"initialSize": 12958,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/youre-next.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/youre-next.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/youth.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13636,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/youth.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/youth.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -60285,6 +60457,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/return-of-the-jedi.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16559,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/return-of-the-jedi.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/return-of-the-jedi.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/revenge-of-the-green-dragons.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -63713,6 +63896,17 @@
 		"initialSize": 30595,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/youre-next.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/youre-next.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/youth.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39921,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/youth.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/youth.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
