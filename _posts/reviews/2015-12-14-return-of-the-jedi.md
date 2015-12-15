@@ -40,7 +40,7 @@ I’ve always thought that the cultural significance of the Star Wars films is m
 Still. I’m really stoked about December 17<sup>th</sup> .
 
 {% contentfor signature %}
-**Sincerely (and ever the optimist)**
+**Sincerely (and ever the optimist),**
 
 Tim
 {% endcontentfor %}
