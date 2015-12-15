@@ -2,6 +2,7 @@
 published: true
 author: all
 image: star-wars-week.jpg
+link_image: star-wars-week.png
 addressee: George
 stars: 
 excerpt: "Review, we will, a film each day until The Force Awakens!"

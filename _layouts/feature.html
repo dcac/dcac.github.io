@@ -48,7 +48,15 @@ layout: default
             {% if page.categories contains "series" %}
               {% for post in site.categories['series-index'] %}
               {% if post.series-name == page.series-name %}
-              <p><a href="{{ post.url }}">Read all of Dear Cast &amp; Crew's {{ page.series-title }} coverage.</a></p>
+              <div class="read-all-container">
+              	<a href="{{ post.url }}">
+                	{% if post.link_image %}<img class="read-all-img" src="/assets/img/features/series/{{ post.link_image }}" />{% endif %}
+                	<div class="read-all-inside-box">
+                  	<p class="read-all-text"><strong>Read all of</strong> Dear Cast & Crew's<br />
+                  	{{ post.title }} coverage.</p>
+                  </div>
+              	</a>
+            	</div>
               {% endif %}
               {% endfor %}
             {% endif %}

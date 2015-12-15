@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: The Phantom Menace</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/the-phantom-menace.jpg" />
+  				<p>Dear Rick McCallum, Producer, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Tue, 15 Dec 2015 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/12/15/the-phantom-menace.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/15/the-phantom-menace.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Return of the Jedi</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Thu, 03 Dec 2015 00:00:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/12/3/victor-frankenstein.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/3/victor-frankenstein.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Trumbo</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/trumbo.jpg" />
-  				<p>Dear Malcolm Cumming, Script Researcher, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Tue, 01 Dec 2015 00:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/12/1/trumbo.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/1/trumbo.html</guid>
 			</item>
 		
 	</channel>
