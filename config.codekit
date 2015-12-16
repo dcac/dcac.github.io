@@ -39696,6 +39696,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/home\/feature\/star-wars-week\/5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 77758,
+		"inputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/5.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-future.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -39758,6 +39769,17 @@
 		"initialSize": 2520,
 		"inputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/i-sub.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/i-sub.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/home\/feature\/star-wars-week\/ii-sub.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2763,
+		"inputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/ii-sub.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/ii-sub.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -40495,6 +40517,17 @@
 		"initialSize": 80483,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/atlantic-rim.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/atlantic-rim.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/attack-of-the-clones.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 138960,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/attack-of-the-clones.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/attack-of-the-clones.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -48870,6 +48903,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/attack-of-the-clones.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13463,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/attack-of-the-clones.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/attack-of-the-clones.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/august-osage-county.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -56808,6 +56852,17 @@
 		"initialSize": 23978,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/atlantic-rim.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/atlantic-rim.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/attack-of-the-clones.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34282,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/attack-of-the-clones.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/attack-of-the-clones.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
