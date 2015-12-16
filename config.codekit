@@ -1405,6 +1405,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/global\/logo\/dcac-full-logo-cream.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7894,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo-cream.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/global\/logo\/dcac-full-logo-cream.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/global\/logo\/dcac-full-logo-grey.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1845,6 +1856,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/home\/feature\/star-wars-week\/5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 77758,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/5.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-future.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1907,6 +1929,17 @@
 		"initialSize": 2520,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/i-sub.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/i-sub.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/home\/feature\/star-wars-week\/ii-sub.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2763,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/ii-sub.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/ii-sub.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2644,6 +2677,17 @@
 		"initialSize": 80483,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/atlantic-rim.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/atlantic-rim.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/attack-of-the-clones.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 138960,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/attack-of-the-clones.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/attack-of-the-clones.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5787,7 +5831,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 172061,
+		"initialSize": 155796,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/maze-runner-the-scorch-trials.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/maze-runner-the-scorch-trials.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -11015,6 +11059,17 @@
 		"initialSize": 23978,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/atlantic-rim.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/atlantic-rim.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/attack-of-the-clones.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13463,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/attack-of-the-clones.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/attack-of-the-clones.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -18470,7 +18525,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 20670,
+		"initialSize": 36448,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/71.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/71.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -18957,6 +19012,17 @@
 		"initialSize": 23978,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/atlantic-rim.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/atlantic-rim.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/attack-of-the-clones.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34282,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/attack-of-the-clones.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/attack-of-the-clones.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -32105,6 +32171,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/12\/16\/attack-of-the-clones.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/12\/16\/attack-of-the-clones.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2015\/12\/3\/victor-frankenstein.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -39252,6 +39327,17 @@
 		"initialSize": 565,
 		"inputAbbreviatedPath": "\/assets\/img\/global\/icons\/stamp-white.png",
 		"outputAbbreviatedPath": "\/assets\/img\/global\/icons\/stamp-white.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/global\/logo\/dcac-full-logo-cream.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7894,
+		"inputAbbreviatedPath": "\/assets\/img\/global\/logo\/dcac-full-logo-cream.png",
+		"outputAbbreviatedPath": "\/assets\/img\/global\/logo\/dcac-full-logo-cream.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
