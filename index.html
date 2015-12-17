@@ -61,7 +61,7 @@ top_nav: false
             </div>
           {% endfor %}
           {% for post in site.posts limit:1 %}
-            {% if post.categories contains "features" %}
+            {% if post.categories contains "features" or page.home_feature_display %}
             {% assign offsetnum = 4 %}
             {% else %}
             {% assign offsetnum = 5 %}
