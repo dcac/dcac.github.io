@@ -5,7 +5,7 @@ image: revenge-of-the-sith.jpg
 author: natm
 stars: 1.5
 excerpt: ""
-position: "Third Assistant Director (dailies)"
+position: "Third Assistant Director"
 addressee: Fraser Fennell-Ball
 layout: review
 categories: 
