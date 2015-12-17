@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Revenge of the Sith</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/revenge-of-the-sith.jpg" />
+  				<p>Dear Fraser Fennell-Ball, Third Assistant Director (dailies), <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Thu, 17 Dec 2015 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/12/17/revenge-of-the-sith.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/17/revenge-of-the-sith.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Attack of the Clones</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Tue, 08 Dec 2015 00:00:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/12/8/i-smile-back.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/8/i-smile-back.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Legend</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/legend.jpg" />
-  				<p>Dear Tom Hardy, Actor, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Fri, 04 Dec 2015 00:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/12/4/legend.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/4/legend.html</guid>
 			</item>
 		
 	</channel>
