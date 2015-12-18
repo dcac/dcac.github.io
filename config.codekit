@@ -1878,6 +1878,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/home\/feature\/star-wars-week\/7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75828,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/7.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-future.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1995,6 +2006,17 @@
 		"initialSize": 2725,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/vi-sub.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/vi-sub.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/home\/feature\/star-wars-week\/vii-sub.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2208,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/vii-sub.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/home\/feature\/star-wars-week\/vii-sub.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4452,6 +4474,358 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/gone-girl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 133305,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/gone-girl.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/gone-girl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/good-kill-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 119192,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/good-kill-contest.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/good-kill-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/good-kill-tiff.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79453,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/good-kill-tiff.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/good-kill-tiff.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/good-kill.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 231386,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/good-kill.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/good-kill.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/good-ol-freda.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 176573,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/good-ol-freda.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/good-ol-freda.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/goodbye-to-language-3d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103303,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/goodbye-to-language-3d.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/goodbye-to-language-3d.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/goon.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 122244,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/goon.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/goon.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/goosebumps.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128153,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/goosebumps.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/goosebumps.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/grabbers.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 302675,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/grabbers.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/grabbers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/grace-of-monaco.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 150930,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/grace-of-monaco.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/grace-of-monaco.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/gravity.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 264562,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/gravity.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/gravity.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/grown-ups-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 137101,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/grown-ups-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/grown-ups-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/grudge-match.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160652,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/grudge-match.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/grudge-match.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/guardians-of-the-galaxy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 211175,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/guardians-of-the-galaxy.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/guardians-of-the-galaxy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/he-she-under-the-skin.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44530,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/he-she-under-the-skin.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/he-she-under-the-skin.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/her.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123703,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/her.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/her.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/hercules-in-new-york.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 207733,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/hercules-in-new-york.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/hercules-in-new-york.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/hercules.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 154884,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/hercules.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/hercules.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/here-comes-the-boom.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 167918,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/here-comes-the-boom.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/here-comes-the-boom.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/hit-and-run.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110694,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/hit-and-run.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/hit-and-run.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/hitchcock.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110698,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/hitchcock.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/hitchcock.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/holy-motors.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107589,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/holy-motors.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/holy-motors.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/home.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 132982,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/home.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/home.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/hope-springs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 215750,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/hope-springs.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/hope-springs.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/horrible-bosses-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 185217,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/horrible-bosses-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/horrible-bosses-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/hot-pursuit.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 135323,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/hot-pursuit.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/hot-pursuit.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/hotel-transylvania.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 145412,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/hotel-transylvania.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/hotel-transylvania.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/housebound.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43919,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/housebound.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/housebound.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/how-i-live-now.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 252716,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/how-i-live-now.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/how-i-live-now.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/how-to-survive-a-plague.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 195576,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/how-to-survive-a-plague.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/how-to-survive-a-plague.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/how-to-train-your-dragon-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80876,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/how-to-train-your-dragon-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/how-to-train-your-dragon-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/humpday.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128170,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/humpday.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/humpday.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/hyena-road.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5853,7 +6227,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 125631,
+		"initialSize": 112694,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/no-i-am-your-father.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/no-i-am-your-father.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -7968,6 +8342,17 @@
 		"initialSize": 157559,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-five-year-engagement.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-five-year-engagement.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-force-awakens.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160527,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-force-awakens.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-force-awakens.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -13175,6 +13560,160 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/kahlil-gibrans-the-prophet.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10527,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/kahlil-gibrans-the-prophet.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/kahlil-gibrans-the-prophet.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/kill-your-darlings.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15116,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/kill-your-darlings.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/kill-your-darlings.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/killing-them-softly.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17125,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/killing-them-softly.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/killing-them-softly.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/kingsmen-the-secret-service.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8700,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/kingsmen-the-secret-service.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/kingsmen-the-secret-service.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/kon-tiki.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16842,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/kon-tiki.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/kon-tiki.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/kung-fu-elliot.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17440,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/kung-fu-elliot.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/kung-fu-elliot.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/kurt-cobain-montage-of-heck.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65555,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/kurt-cobain-montage-of-heck.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/kurt-cobain-montage-of-heck.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/la-et-mn-martin-scorsese-revenge-of-the-green-dragons-release-date-20140813.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26830,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/la-et-mn-martin-scorsese-revenge-of-the-green-dragons-release-date-20140813.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/la-et-mn-martin-scorsese-revenge-of-the-green-dragons-release-date-20140813.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/labor-day.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15400,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/labor-day.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/labor-day.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/laffaire-dumont.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14997,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/laffaire-dumont.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/laffaire-dumont.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/laggies.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10157,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/laggies.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/laggies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/last-days-in-vietnam.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11468,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/last-days-in-vietnam.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/last-days-in-vietnam.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/last-knights.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6616,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/last-knights.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/last-knights.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/lawless.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14387,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/lawless.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/lawless.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/lawrence-holloman.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15921,6 +16460,17 @@
 		"initialSize": 13220,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-five-year-engagement.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-five-year-engagement.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/the-force-awakens.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12721,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-force-awakens.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-force-awakens.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -23856,6 +24406,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/the-force-awakens.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31926,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-force-awakens.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-force-awakens.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/the-giver.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -31738,6 +32299,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/12\/18\/the-force-awakens.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/12\/18\/the-force-awakens.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2015\/12\/3\/victor-frankenstein.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -39362,6 +39932,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/home\/feature\/star-wars-week\/7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75828,
+		"inputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/7.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/home\/feature\/star-wars-week\/calendar-square-future.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -39479,6 +40060,17 @@
 		"initialSize": 2725,
 		"inputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/vi-sub.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/vi-sub.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/home\/feature\/star-wars-week\/vii-sub.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2208,
+		"inputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/vii-sub.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/home\/feature\/star-wars-week\/vii-sub.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -45804,6 +46396,17 @@
 		"initialSize": 157559,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-five-year-engagement.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-five-year-engagement.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/the-force-awakens.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160527,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-force-awakens.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-force-awakens.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -53915,6 +54518,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/the-force-awakens.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12721,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-force-awakens.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-force-awakens.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/the-giver.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -61842,6 +62456,17 @@
 		"initialSize": 30401,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-five-year-engagement.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-five-year-engagement.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/the-force-awakens.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31926,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-force-awakens.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-force-awakens.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
