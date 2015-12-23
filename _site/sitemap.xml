@@ -3078,7 +3078,11 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2015/12/18/the-force-awakens.html</loc>
-        <lastmod>2015-12-18T09:29:51-05:00</lastmod>
+        <lastmod>2015-12-18T11:49:10-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/12/22/2015-silver-stamps.html</loc>
+        <lastmod>2015-12-23T07:02:50-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
@@ -3164,7 +3168,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2015-12-18T09:29:51-05:00</lastmod>
+        <lastmod>2015-12-23T07:02:50-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/writers/christopherr/</loc>
@@ -3277,5 +3281,9 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/while-were-young-contest.html</loc>
         <lastmod>2015-11-27T10:56:21-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
+        <lastmod>2015-12-23T06:54:13-05:00</lastmod>
     </url>
 </urlset>

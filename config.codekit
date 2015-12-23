@@ -553,15 +553,6 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
-	"\/_site\/404.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/404.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/about\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -581,26 +572,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
-		},
-	"\/_site\/apple-touch-icon.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2343,
-		"inputAbbreviatedPath": "\/_site\/apple-touch-icon.png",
-		"outputAbbreviatedPath": "\/_site\/apple-touch-icon.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/css\/app.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/assets\/css\/app.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/_site\/assets\/img\/error\/404-1.jpg": {
 		"fileType": 16384,
@@ -2116,6 +2087,17 @@
 		"initialSize": 106103,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/2014-silver-stamps.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/2014-silver-stamps.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/2015-silver-stamps.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76184,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/2015-silver-stamps.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/2015-silver-stamps.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -10557,6 +10539,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/2015-silver-stamps.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5691,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/2015-silver-stamps.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/2015-silver-stamps.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/21-jump-street.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -18517,6 +18510,17 @@
 		"initialSize": 18908,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/2014-silver-stamps.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/2014-silver-stamps.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/2015-silver-stamps.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16065,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/2015-silver-stamps.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/2015-silver-stamps.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -32308,6 +32312,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/12\/22\/2015-silver-stamps.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/12\/22\/2015-silver-stamps.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2015\/12\/3\/victor-frankenstein.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -40170,6 +40183,17 @@
 		"initialSize": 106103,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/2014-silver-stamps.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/2014-silver-stamps.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/2015-silver-stamps.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76184,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/2015-silver-stamps.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/2015-silver-stamps.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -48611,6 +48635,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/2015-silver-stamps.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5691,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/2015-silver-stamps.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/2015-silver-stamps.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/21-jump-street.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -56571,6 +56606,17 @@
 		"initialSize": 18908,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/2014-silver-stamps.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/2014-silver-stamps.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/2015-silver-stamps.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16065,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/2015-silver-stamps.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/2015-silver-stamps.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
