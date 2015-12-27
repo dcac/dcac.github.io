@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Sisters</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/sisters.jpg" />
+  				<p>Dear Lee Haxall, Editor, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Sun, 27 Dec 2015 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/12/27/sisters.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/27/sisters.html</guid>
+			</item>
+		
+			<item>
 				<title> Feature: 2015 Silver Stamps</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Fri, 11 Dec 2015 00:00:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/12/11/youth.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/11/youth.html</guid>
-			</item>
-		
-			<item>
-				<title> Feature: Star Wars Week</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/star-wars-week.jpg" />
-  				<p>Dear George, <br />
-  				Review, we will, a film each day until The Force Awakens!p>
-  		    ]]>
-				</description>
-				<pubDate>Fri, 11 Dec 2015 00:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/12/11/star-wars-week.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/11/star-wars-week.html</guid>
 			</item>
 		
 	</channel>

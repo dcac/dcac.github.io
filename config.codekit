@@ -7312,6 +7312,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/sisters.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 229152,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/sisters.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/sisters.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/skyfall.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -32350,6 +32361,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/12\/27\/sisters.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/12\/27\/sisters.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2015\/12\/3\/victor-frankenstein.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -45408,6 +45428,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/sisters.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 229152,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/sisters.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/sisters.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/skyfall.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -53625,6 +53656,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/sisters.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10718,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/sisters.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/sisters.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/skyfall.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -61552,6 +61594,17 @@
 		"initialSize": 33668,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/sinister.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/sinister.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/sisters.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27711,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/sisters.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/sisters.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
