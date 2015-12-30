@@ -14,75 +14,75 @@ title: "C. Redmond's Top Films of 2015"
 comments: true
 tags: [Awards, awesome, Best, Canadian, critic, films, good, list, movies, Top films 2015, worst, year end]
 ---
-We gave up on trying to create a single year-end Top 10 on Dear Cast and Crew long ago, and good riddance. Critics secretly love these year-end assessments, as reductive as they might be. Ranking and categorizing films help us to not only define the year in cinema, in some ways, define ourselves over the past year. So feel free to puzzle together my personal psychology through list, or just keep it handy when you’re looking for what to see in the coming months, and what to avoid.
+We gave up on trying to create a single year-end Top 10 on Dear Cast and Crew long ago. And good riddance.  Critics secretly love these year-end assessments, as reductive as they might be. Ranking and categorizing films help us to not only define the year in cinema, but, in some ways, define ourselves over the past year. So feel free to puzzle together my personal psychology through my list(s), or just keep this page handy when you’re looking for what to see in the coming months – and what to avoid.
 
 **Top** **10** **Films of 2015**
 
-1. Inside Out
-1. Mad Max: Fury Road
+1. [Inside Out](http://www.dearcastandcrew.com/content/2015/6/22/inside-out.html)
+1. [Mad Max: Fury Road](http://www.dearcastandcrew.com/content/2015/5/20/mad-max-fury-road.html)
 1. Wild Tales
-1. The Look of Silence
-1. Furious 7
+1. [The Look of Silence](http://www.dearcastandcrew.com/content/2014/9/10/tiff-postcard-4-the-look-of-silence.html)
+1. [Furious 7](http://www.dearcastandcrew.com/content/2015/4/7/furious-7.html)
 1. Deephan
-1. Kurt Cobain: Montage of Heck
-1. Room
-1. The Martian
+1. [Kurt Cobain: Montage of Heck](http://www.dearcastandcrew.com/content/2015/5/13/kurt-cobain-montage-of-heck.html)
+1. [Room](http://www.dearcastandcrew.com/content/2015/11/23/room.html)
+1. [The Martian](http://www.dearcastandcrew.com/content/2015/10/6/the-martian.html)
 1. What We Do in the Shadows
 
 **Better Than They Needed To Be:**
 
-1. Pitch Perfect 2
-1. Spy
-1. The DUFF
-1. Straight Outta Compton
-1. The Man from U.N.C.L.E.
+[Pitch Perfect 2](http://www.dearcastandcrew.com/content/2015/5/15/pitch-perfect-2.html)
+[Spy](http://www.dearcastandcrew.com/content/2015/6/4/spy.html)  
+[The DUFF](http://www.dearcastandcrew.com/content/2015/2/25/the-duff.html)  
+Straight Outta Compton  
+[The Man from U.N.C.L.E](http://www.dearcastandcrew.com/content/2015/8/16/the-man-from-uncle.html).
 
 **Inexplicably Underseen**
 
-1. Black Sea
-1. Red Army
-1. Love and Mercy
+Black Sea  
+[Red Army](http://www.dearcastandcrew.com/content/2014/9/7/tiff-postcard-2-red-army.html)  
+Love and Mercy
 
 **Overrated Everywhere Else:**
 
-1. Ex Machina
-1. It Follows
-1. Slow West
+[Ex Machina](http://www.dearcastandcrew.com/content/2015/5/8/ex-machina.html)  
+[It Follows](http://www.dearcastandcrew.com/content/2015/4/2/it-follows.html)  
+Slow West
 
 **Unexpectedly Awesome**
 
-1. Creed
-1. San Andreas
-1. Kingsmen: The Secret Service
+[Creed](http://www.dearcastandcrew.com/content/2015/11/27/creed.html)  
+[San Andreas](http://www.dearcastandcrew.com/content/2015/6/3/san-andreas.html)  
+[Kingsmen: The Secret Service](http://www.dearcastandcrew.com/content/2015/2/17/kingsmen-the-secret-service.html)
 
 **Didn’t Disappoint**
 
-1. Star Wars: The Force Awakens
-1. Mission Impossible: Rogue Nation
-1. Trainwreck
+[Star Wars: The Force Awakens](http://www.dearcastandcrew.com/content/2015/12/18/the-force-awakens.html)  
+Mission Impossible: Rogue Nation  
+[Trainwreck](http://www.dearcastandcrew.com/content/2015/7/20/trainwreck.html)
 
 **Extra Special Indies**
 
-1. Backcountry
-1. Man Vs.
-1. 99 Homes
+Backcountry  
+[Man Vs.](http://www.dearcastandcrew.com/content/2015/11/17/man-vs.html)  
+[99 Homes](http://www.dearcastandcrew.com/content/2014/9/12/tiff-postcard-1-99-homes.html)
 
 **Wasted Potential**
 
-1. Steve Jobs
-1. Black Mass
-1. Tomorrowland
+[Steve Jobs](http://www.dearcastandcrew.com/content/2015/11/29/steve-jobs.html)  
+[Black Mass](http://www.dearcastandcrew.com/content/2015/9/23/black-mass.html)  
+[Tomorrowland](http://www.dearcastandcrew.com/content/2015/5/22/tomorrowland.html)
 
 **Avoid at All Costs**
 
-1. Hot Tub Time Machine 2
-1. Blackhat
-1. Preggoland
+Hot Tub Time Machine 2  
+[Blackhat](http://www.dearcastandcrew.com/content/2015/1/19/blackhat.html)  
+Preggoland
 
 **This Year I Finally Saw (And Loved)**
 
-1. The Sting (1973)
-1. The Bridge on the River Kwai (1957)
-1. Serpico (1973)
-1. Tokyo Story (1953)
-1. Mr. Smith Goes to Washington (1939)
+The Sting (1973)  
+The Bridge on the River Kwai (1957)  
+Serpico (1973)  
+Tokyo Story (1953) 
+ Mr. Smith Goes to Washington (1939)
