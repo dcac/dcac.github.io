@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title> Feature: C. Redmond&#39;s Top Films of 2015</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/c-redmonds-top-films-of-2015.jpg" />
+  				<p>Dear Readers, <br />
+  				What happens when the writers of Dear Cast and Crew try to come to a consensus about the year's best films? We decide to make individual lists.p>
+  		    ]]>
+				</description>
+				<pubDate>Wed, 30 Dec 2015 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2015/12/30/c-redmonds-top-films-of-2015.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/30/c-redmonds-top-films-of-2015.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Carol</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Sun, 13 Dec 2015 00:00:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/12/13/the-empire-strikes-back.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/13/the-empire-strikes-back.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Star Wars</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/star-wars.jpg" />
-  				<p>Dear Carrie Fisher, Actor, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Sat, 12 Dec 2015 00:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/12/12/star-wars.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/12/star-wars.html</guid>
 			</item>
 		
 	</channel>
