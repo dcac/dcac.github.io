@@ -3086,7 +3086,11 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2015/12/27/sisters.html</loc>
-        <lastmod>2015-12-27T12:37:52-05:00</lastmod>
+        <lastmod>2015-12-27T12:45:19-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2015/12/29/carol.html</loc>
+        <lastmod>2015-12-29T22:40:20-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
@@ -3172,7 +3176,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2015-12-27T12:42:16-05:00</lastmod>
+        <lastmod>2015-12-29T22:40:20-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/writers/christopherr/</loc>
@@ -3285,9 +3289,5 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/while-were-young-contest.html</loc>
         <lastmod>2015-11-27T10:56:21-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
-        <lastmod>2015-12-27T12:42:16-05:00</lastmod>
     </url>
 </urlset>
