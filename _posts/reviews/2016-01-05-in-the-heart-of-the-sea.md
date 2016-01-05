@@ -15,7 +15,7 @@ title: "In the Heart of the Sea"
 comments: true
 tags: [drama, Chris Hemsworth,adaptation,Moby Dick,Ron Howard,ocean, boats,sea]
 ---
-There’s something about the sea that invites meditation and personal reflection. The undulating ripples, soothing repetition, brilliant blues. But that same sea can be terrifying. Crushing waves, a deafening roar, inky depths that have welcomed countless men down to sleep in Davy Jones Locker. This dichotomy is why seafaring adventures have captured our imagination for centuries. From _Rime_ _of the Ancient Mariner_ to _The Perfect Storm,_ audiences know: when something goes wrong at sea, it often goes horribly wrong. 
+There’s something about the sea that invites meditation and personal reflection. The undulating ripples, soothing repetition, brilliant blues. But that same sea can be terrifying. Crushing waves, a deafening roar, inky depths that have welcomed countless men down to sleep in Davy Jones Locker. This dichotomy is why seafaring adventures have captured our imagination for centuries. From _Rime of the Ancient Mariner_ to _The Perfect Storm,_ audiences know: when something goes wrong at sea, it often goes horribly wrong. 
 
 The same can be said of big-budget films. 
 
