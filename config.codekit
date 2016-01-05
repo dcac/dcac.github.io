@@ -3132,6 +3132,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/c-redmonds-top-films-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 180974,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/c-redmonds-top-films-of-2015.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/c-redmonds-top-films-of-2015.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/calvary.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3183,6 +3194,17 @@
 		"initialSize": 87973,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/carol-contest.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/carol-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/carol.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 140142,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/carol.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/carol.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -11536,6 +11558,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/c-redmonds-top-films-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11425,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/c-redmonds-top-films-of-2015.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/c-redmonds-top-films-of-2015.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/calvary.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -11576,6 +11609,17 @@
 		"initialSize": 15229,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/captain-phillips.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/captain-phillips.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/carol.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10437,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/carol.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/carol.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15536,6 +15580,17 @@
 		"initialSize": 15390,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/sinister.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/sinister.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/sisters.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10718,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/sisters.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/sisters.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -19522,6 +19577,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/c-redmonds-top-films-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30565,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/c-redmonds-top-films-of-2015.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/c-redmonds-top-films-of-2015.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/calvary.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -19562,6 +19628,17 @@
 		"initialSize": 36316,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/captain-phillips.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/captain-phillips.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/carol.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27932,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/carol.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/carol.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -23467,6 +23544,17 @@
 		"initialSize": 33668,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/sinister.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/sinister.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/sisters.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27711,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/sisters.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/sisters.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -32370,11 +32458,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2015\/12\/29\/carol.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/12\/29\/carol.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2015\/12\/3\/victor-frankenstein.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2015\/12\/3\/victor-frankenstein.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2015\/12\/30\/c-redmonds-top-films-of-2015.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2015\/12\/30\/c-redmonds-top-films-of-2015.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -40170,6 +40276,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/joy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28899,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/joy.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/joy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/10-questions-with-randall-william-cook.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -41248,6 +41365,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/c-redmonds-top-films-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 180974,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/c-redmonds-top-films-of-2015.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/c-redmonds-top-films-of-2015.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/calvary.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -41299,6 +41427,17 @@
 		"initialSize": 87973,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/carol-contest.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/carol-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/carol.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 140142,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/carol.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/carol.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -43393,6 +43532,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/joy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100965,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/joy.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/joy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/jupiter-ascending.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -43822,6 +43972,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/love.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 224565,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/love.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/love.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/lovelace.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -43840,6 +44001,17 @@
 		"initialSize": 225458,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/lucy.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/lucy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/macbeth.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67901,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/macbeth.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/macbeth.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -46645,6 +46817,17 @@
 		"initialSize": 122758,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-hateful-eight-contest.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-hateful-eight-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/the-hateful-eight.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 271607,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-hateful-eight.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-hateful-eight.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -49652,6 +49835,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/c-redmonds-top-films-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11425,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/c-redmonds-top-films-of-2015.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/c-redmonds-top-films-of-2015.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/calvary.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -49692,6 +49886,17 @@
 		"initialSize": 15229,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/captain-phillips.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/captain-phillips.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/carol.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10437,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/carol.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/carol.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -51665,6 +51870,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/joy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11624,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/joy.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/joy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/jupiter-ascending.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -52094,6 +52310,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/love.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11600,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/love.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/love.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/lovelace.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -52112,6 +52339,17 @@
 		"initialSize": 17302,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/lucy.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/lucy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/macbeth.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5165,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/macbeth.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/macbeth.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -54763,6 +55001,17 @@
 		"initialSize": 19801,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-hangover-part-3.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-hangover-part-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/the-hateful-eight.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12721,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-hateful-eight.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-hateful-eight.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -57649,6 +57898,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/c-redmonds-top-films-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30565,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/c-redmonds-top-films-of-2015.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/c-redmonds-top-films-of-2015.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/calvary.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -57689,6 +57949,17 @@
 		"initialSize": 36316,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/captain-phillips.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/captain-phillips.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/carol.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27932,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/carol.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/carol.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -59651,6 +59922,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/joy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28899,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/joy.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/joy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/jupiter-ascending.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -60036,6 +60318,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/love.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33722,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/love.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/love.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/lovelace.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -60054,6 +60347,17 @@
 		"initialSize": 49346,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/lucy.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/lucy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/macbeth.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12333,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/macbeth.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/macbeth.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -62727,6 +63031,17 @@
 		"initialSize": 51893,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-hangover-part-3.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-hangover-part-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/the-hateful-eight.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40672,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-hateful-eight.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-hateful-eight.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
