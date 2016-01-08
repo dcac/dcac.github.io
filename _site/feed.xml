@@ -7,7 +7,21 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Review: In The Heart of the Sea</title>
+				<title>Review: Hitchcock/Truffaut</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/hitchcock-truffaut.jpg" />
+  				<p>Dear Kent Jones, Director, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Fri, 08 Jan 2016 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2016/1/8/hitchcock-truffaut.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/1/8/hitchcock-truffaut.html</guid>
+			</item>
+		
+			<item>
+				<title>Review: In the Heart of the Sea</title>
 				<description>
   				<![CDATA[
   				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/in-the-heart-of-the-sea.jpg" />
@@ -16,8 +30,8 @@
   		    ]]>
 				</description>
 				<pubDate>Tue, 05 Jan 2016 00:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2016/1/5/the-heart-of-the-sea.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/1/5/the-heart-of-the-sea.html</guid>
+				<link>http://www.dearcastandcrew.com/content/2016/1/5/in-the-heart-of-the-sea.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/1/5/in-the-heart-of-the-sea.html</guid>
 			</item>
 		
 			<item>
@@ -130,20 +144,6 @@
 				<pubDate>Tue, 22 Dec 2015 01:00:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/12/22/2015-silver-stamps.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/22/2015-silver-stamps.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: The Force Awakens</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/the-force-awakens.jpg" />
-  				<p>Dear Andrew Share, Craft Services, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Fri, 18 Dec 2015 00:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/12/18/the-force-awakens.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/18/the-force-awakens.html</guid>
 			</item>
 		
 	</channel>

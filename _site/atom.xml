@@ -5,7 +5,7 @@
   <title type="text" xml:lang="en">Dear Cast & Crew</title>
     <link type="application/atom+xml" href="/atom.xml" rel="self"/>
     <link href="/"/>
-  <updated>2016-01-05T09:29:12Z</updated>
+  <updated>2016-01-08T09:21:53Z</updated>
   <id>/</id>
   <author>
     <name></name>
@@ -14,12 +14,32 @@
   <rights type="text">Copyright © 2016 . All rights reserved.</rights>
   
   <entry>
-    <title>In The Heart of the Sea</title>
-    <link rel="alternate" type="text/html" href="/content/2016/1/5/the-heart-of-the-sea.html/?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=InTheHeartoftheSea" />
+    <title>Hitchcock/Truffaut</title>
+    <link rel="alternate" type="text/html" href="/content/2016/1/8/hitchcock-truffaut.html/?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Hitchcock/Truffaut" />
+    <published>2016-01-08T00:00:00Z</published>
+    <updated>2016-01-08T00:00:00-05:00</updated>
+    <id>/content/2016/1/8/hitchcock-truffaut</id>
+    <content type="html"><![CDATA[ <p>About a third of the way through your documentary <em>Hitchcock/Truffaut</em>, the point is made that one of cinema’s strengths is its ability to both slow down and speed up time whenever it fits the filmmaker’s needs. And watching your own film, it struck me that speeding things up is also what you’ve done in this examination of François Truffaut’s seminal study of the works of Alfred Hitchcock. <em>Hitchcock/Truffaut</em>, the film, condenses Truffaut’s book-length interview into a brief (80 minute) overview of the book itself and what it means to its admirers.</p>
+
+<p>Obviously the book’s central conceit – critic-turned-director Truffaut interviewing Alfred Hitchcock in detail about each of his films – clearly spoke to you. And for obvious reasons. As a film critic and essayist, the kind of detailed analysis therein must have been a kind of movie-nerd Nirvana for you, as well as a kind of call to arms. As explained in your film, the book <em>Hitchcock/Truffaut</em> was the publication that finally put Hitchcock’s films on the critical map as Important Works. Before that, his films were seen as popular, well-executed genre pieces, which left them removed from the realm of serious critical discourse. Truffaut&#39;s book changed that—not only for Hitchcock, but for film in general. Great art could be found anywhere, even coming out of Hollywood’s factory-like studios.</p>
+
+<p>When it comes to critical examination, you, like Truffaut, subscribe to the <em>auteur</em> theory, which sees the director as the guiding force behind every aspect of a film. And to back that theory up, you’ve assembled a wide-ranging collection of directors to speak on how the book <em>Hitchcock/Truffaut</em> influenced their understandings of cinema as an art form. Watching Martin Scorsese, David Fincher, Wes Anderson, Kiyoshi Kurosawa, Richard Linklater, and a host of others wax nostalgic on their first experiences with Truffaut’s book offers terrific insight into their development as artists. In hindsight, it seems obvious that this is where Fincher learned his laser-focused scene construction, or where Anderson’s love of image composition was born. In a way, their relationship to the book provides some of the same insight that Truffaut’s book does. The simple act of expressing their love for it is a form of (self-)critical analysis.  </p>
+
+<p>But it may be that your deference towards directors, not just Truffaut and Hitchcock, gets the better of you in the end. Although <em>Hitchcock/Truffaut</em>’s first half crosscuts between both directors equally, placing them in their own historical and cultural landscapes, the film gradually pushes Truffaut into the background. Instead, <em>Hitchcock/Truffaut</em> starts to seem more like <em>Hitchcock/Scorsese/Fincher/Anderson/Linklater/Kurosawa</em> etc. Hitchcock’s style and technique becomes the focal point, with barely a mention of Truffaut. </p>
+
+<p>I realize this may have been on purpose. Perhaps the strategy was to shift the focus from interviewer to his subject, as Truffaut does in his own book. But as narrator Bob Balaban describes the later careers of both artists, wrapping the film up, I realized that the <em>Hitchcock/Truffaut</em> had become less about the book itself – it’s place in history, its influence on others – and more about Hitchcock’s importance as a filmmaker. </p>
+
+<p>Simply put, it ends up trying to do a job Truffaut’s book already completed almost 50 years ago.</p>
+ ]]></content>
+  </entry>
+  
+  <entry>
+    <title>In the Heart of the Sea</title>
+    <link rel="alternate" type="text/html" href="/content/2016/1/5/in-the-heart-of-the-sea.html/?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=IntheHeartoftheSea" />
     <published>2016-01-05T00:00:00Z</published>
     <updated>2016-01-05T00:00:00-05:00</updated>
-    <id>/content/2016/1/5/the-heart-of-the-sea</id>
-    <content type="html"><![CDATA[ <p>There’s something about the sea that invites meditation and personal reflection. The undulating ripples, soothing repetition, brilliant blues. But that same sea can be terrifying. Crushing waves, a deafening roar, inky depths that have welcomed countless men down to sleep in Davy Jones Locker. This dichotomy is why seafaring adventures have captured our imagination for centuries. From <em>Rime</em> <em>of the Ancient Mariner</em> to <em>The Perfect Storm,</em> audiences know: when something goes wrong at sea, it often goes horribly wrong. </p>
+    <id>/content/2016/1/5/in-the-heart-of-the-sea</id>
+    <content type="html"><![CDATA[ <p>There’s something about the sea that invites meditation and personal reflection. The undulating ripples, soothing repetition, brilliant blues. But that same sea can be terrifying. Crushing waves, a deafening roar, inky depths that have welcomed countless men down to sleep in Davy Jones Locker. This dichotomy is why seafaring adventures have captured our imagination for centuries. From <em>Rime of the Ancient Mariner</em> to <em>The Perfect Storm,</em> audiences know: when something goes wrong at sea, it often goes horribly wrong. </p>
 
 <p>The same can be said of big-budget films. </p>
 
@@ -351,50 +371,6 @@ Tokyo Story (1953)<br>
 <p><strong>Best Everything:</strong> <a href="http://www.dearcastandcrew.com/content/2015/5/20/mad-max-fury-road.html"><em>Mad Max: Fury Road</em></a></p>
 
 <p><strong>Worst Everything:</strong> <em>Hot Tub Time Machine 2</em></p>
- ]]></content>
-  </entry>
-  
-  <entry>
-    <title>The Force Awakens</title>
-    <link rel="alternate" type="text/html" href="/content/2015/12/18/the-force-awakens.html/?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=TheForceAwakens" />
-    <published>2015-12-18T00:00:00Z</published>
-    <updated>2015-12-18T00:00:00-05:00</updated>
-    <id>/content/2015/12/18/the-force-awakens</id>
-    <content type="html"><![CDATA[ <p>Surely you served milk during those long days of shooting in dusty yellow deserts and crowded green-screen studios. And surely some of the cast and crew drank it, poured it on their cereal, stirred it into their coffee. And surely others didn’t.</p>
-
-<p>Trying to apply any sort of objective critical thought to <em>Star Wars</em> is like trying to evaluate milk. There is no objective angle from which to approach it. You either grew up drinking milk, or you didn’t. You’re lactose intolerant, or you’re not. There are no rational metrics by which to measure milk’s thickness or sweetness or creaminess. Milk is simply milk. Just like the air is simply air, and the blue sky simply blue. <em>Star Wars</em> is <em>Star Wars</em>: you either love it, or you don’t. And if you love it, it’s impossible to explain why, and even more impossible to understand why other people don’t.</p>
-
-<p><em>Star Wars: The Force Awakens</em> is a tall, cold, delicious glass of milk. If you’re a milk drinker, it may be one of the best glasses of milk you’ve ever had. If you’re agnostic about milk, you might find it thirst-quenching, or you might find it flavorless. And if your body can’t digest lactose, you’ll still get sick. </p>
-
-<p>So what can I really say about this movie? I am a lifelong milk-drinking <em>Star Wars</em> fan. I didn’t see the original trilogy in theaters – I was too young – but nonetheless grew up wearing out VHS cassettes and playing with Tusken Raider action figures and scraping my eyelids with cardboard stormtrooper masks cut out from the backs of cereal boxes. But I was never obsessed enough to delve too deeply into the expanded universe. All those novels and comics and out-of-continuity characters had no heft for me; it was scripture written by apostles, and I cared only for The Word of God. I convinced myself to get excited about the prequels, saw them all, and tried hard to appreciate the (few) things they got right. And the disappointment I felt at the (many) things they got wrong only intensified my affection for the whole wonderful universe that, in my youth, had helped me through so many dreary, depressive teenage afternoons. </p>
-
-<p>In short, when I walked into the theater to see <em>The</em> <em>Force Awakens</em>, I was, like many others, bringing a lot of baggage with me. Because this is the first Star Wars film in a decade. The first post-prequel apologia. The first Star Wars revival to take place in the Era of Nostalgic Revivals. It’s a big deal.  </p>
-
-<p>And what’s my verdict? How do I rate this film?  </p>
-
-<p>Well, it’s a new Star Wars film, and, as is the case with all new Star Wars films, it’s the best of all the Star Wars film. Why? Merely because it <em>exists</em>. There are X-wings and lightsabers and wookies and tie fighters and stormtroopers with terrible aim and massive death-ray space-stations and lots of new-age intergalactic mysticism. I love all those things, and therefore loved this movie. I frankly can’t bring myself to give it any less than five stars.</p>
-
-<p>Yes, it’s good. Maybe great. The more time elapses between me the actual experience of sitting there in the theater, the more perspective I have for all the things it does well. And it does many, many things well (not the least of which is managing to surprise an audience that is expecting surprises).  </p>
-
-<p>But it’s important to remember the intoxicating daze that close proximity to a Star Wars film elicits. Audiences rightly loved <em>The Empire Strikes Back</em> when it was first released. Our Prime Minister said that <em>Return of the Jedi</em> was <a href="https://www.youtube.com/watch?v=XqjQ6gqgi0w">“better than Empire Strikes Back and Star Wars”</a> after stepping out of a screening in 1983. <a href="http://www.slashfilm.com/fans-react-to-the-phantom-menace/">Fans were ecstatic</a> about <em>The Phantom Menace</em> when it first hit theaters, and I can even recall feeling somewhat buoyed after emerging from <em>Attack of the Clones</em> (which, looking back, was probably the same relief a prisoner of war feels after the waterboarding is finally over). And then there was <em>Revenge of the</em> <em>Sith</em>, which, with its much-vaunted Tom Stoppard script-polish and Spielberg-directed Yoda/Emperor fight-scene, seemed to be such a step above the other two prequels that it was immediately bestowed the not-entirely-trivial title of <a href="http://boards.theforce.net/threads/revenge-of-the-sith-vs-return-of-the-jedi.50016954/">Third-Best Star Wars Movie</a>.</p>
-
-<p>Director J.J. Abrams faced an even more difficult task than George Lucas did in the late-90s when the <em>Star Wars</em> creator began his billion-dollar vanity project (and turned the word <em>prequel</em> into a pejorative) . Not only must Abrams live up to the impossible-to-live-up-to originals (the sublimity of which are inflated by nostalgia with every passing year), but he has to make up for the prequels. And has there ever been a greater pop culture disappointment than Lucas’ ill-conceived trilogy of economics melodramas? Abrams has been tasked to atone for those sins, to rescue a franchise brought low by <a href="http://www.dearcastandcrew.com/content/2015/12/15/the-phantom-menace.html">Gungans</a> and <a href="http://www.dearcastandcrew.com/content/2015/12/16/attack-of-the-clones.html">digital backgrounds</a>.  </p>
-
-<p>Is <em>The Force Awakens</em> perfect? No. But the flaws are the same flaws that every blockbuster epic suffers these days: it sometimes feels like there’s too much happening onscreen, and there’s a thinness and weightlessness to some of the CGI, and there are too many references to things that have (or are about to happen). The narrative and mythological simplicity of that very first film has been lost. But those are contextual complaints; this is simply how movies are made in 2015. In this manner, <em>The Force Awakens</em> is a film of its time. </p>
-
-<p>Which is perhaps my only nonpartisan disappointment. The original <em>Star Wars</em> franchise was so out of place in the late 1970s; earnest, eager, optimistic—with its innocent moral code of light vs. dark, it seemed almost subversive, a response to the cynicism and verisimilitude of the New Hollywood movement. <em>The Force Awakens</em>, however, seems, by the standards of blockbuster filmmaking in this early part of the century, pretty conventional. For better and worse.  </p>
-
-<p>But here is the best part. Perhaps the most unexpected part.</p>
-
-<p>Harrison Ford. </p>
-
-<p>He seemed so utterly bored with Han Solo by the end of the original trilogy; some of his line readings in <em>Return of the Jedi</em> have the flavor of an insubordinate kid trying to ruin the school play. And over the course of the last three decades he made no secret of his antipathy. But here he is, back behind the wheel of the Millennium Falcon, wisecracking, blasting stormtroopers, and even providing a bit of gravitas. I don’t know what reinvigorated him (maybe it was the food you were serving, or maybe it was a particular plot point late in the film), but, watching this, you realize that this is the same guy who played Richard Kimble and Rick Deckard and Jack Ryan, and that, yes, he can act.</p>
-
-<p>The other familiar faces acquit themselves well. Carrie Fisher’s gravelly voice suggests that the preceding decades have been hard on poor Princess Leia. Chewbacca and Threepio are simply themselves, which is all you can possibly ask for. The new faces, too, are terrific. Much has been made of the cast’s diversity, but it’s their enthusiastic, unpretentious performances that make this new band of heroes feel special. </p>
-
-<p>But none of this will be clear to me for another few months, or years, or perhaps even longer. <em>Star Wars</em> is all about legacy – in both its subject matter and its cultural significance – and only the passage of time can provide the necessary perspective. As a true believer, it’s impossible for me to guess whether this film will convert any non-believers. But I’m fairly certain it might recruit some new ones. </p>
-
-<p>In fact, that might be the best way for fans like me to approach <em>The Force Awakens</em>. To imagine that this is the first <em>Star Wars</em> film you’ve ever seen. To think of it as your very first taste of an essential nutritional substance full of vitamins and complex proteins that will either keep you healthy or turn your stomach. To ask yourself: is this the glass of milk that will turn me into an instinctive milk-drinker?</p>
  ]]></content>
   </entry>
   
