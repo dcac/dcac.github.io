@@ -3123,8 +3123,14 @@
         <lastmod>2016-01-08T09:23:47-05:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2016/1/11/star-wars-the-score-awakens.html
+        </loc>
+        <lastmod>2016-01-11T09:47:56-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/content/2016/1/11/the-revenant.html</loc>
-        <lastmod>2016-01-11T08:11:46-05:00</lastmod>
+        <lastmod>2016-01-11T08:14:41-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
@@ -3210,7 +3216,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2016-01-11T08:11:46-05:00</lastmod>
+        <lastmod>2016-01-11T09:47:56-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/writers/christopherr/</loc>
@@ -3323,9 +3329,5 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/while-were-young-contest.html</loc>
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
-        <lastmod>2016-01-09T14:04:31-05:00</lastmod>
     </url>
 </urlset>

@@ -1,12 +1,12 @@
 ---
 layout: feature
-published: false
-image: no-i-am-your-father.jpg
-title: "Star Wars: The Score Awakens"
+published: true
+image: score-wars-john-williams-strikes-back.jpg
+title: "Score Wars: John Williams Strikes Back"
 excerpt: "The Star Wars  franchise is one of those rare cultural products where even casual fans have a fairly nuanced understanding of its accompanying music. Does <em>The Force Awakens</em> measure up to its predecessors?"
 essay_subject: true
 author: jordang
-addressee: "Obi-Wannabes"
+addressee: "John Williams"
 comments: true
 categories:
   - features
@@ -31,3 +31,7 @@ Listening track-by-track to _The Force Awakens_ is incredibly rewarding, as the 
 But if there's one criticism I have, it's how you handled the film’s other most recognizable musical piece: [“Rey's Theme”](https://www.youtube.com/watch?v=65As1V0vQDM). While “March of the Resistance” demonstrates your nuance and restraint, with “Rey's Theme” you pull an age-old film scoring move by giving the pretty young heroine the pretty little instruments: a bouncy flute here, a twinkly celeste there. But she's not a dainty little girl – she's a feisty, mind-controlling, lightsaber-wielding, scavenger-engineer-fighter-pilot jedi-in-the-making – and while this impressive resume is assembled over two hours and sixteen minutes, she's a badass from her very first scene. It may be a long, long time ago in a galaxy far away, but she's a modern woman. J.J. Abrams and company manage to make that abundantly clear, whether it's with her refusal to be led by the hand or her knowing just as much about spacefaring circuitry as perennial man's man Han Solo, so I can't help but think that your choice of instruments for Rey is missing the point a little.
 
 That being said, the rest of the score more than makes up for that misstep. [“The Jedi Steps and Finale”](https://www.youtube.com/watch?v=cUBUlKgsNK8) is a thrilling journey through themes both new and old alike, and ends the film with a hype-inducing punch. So while your score may leave moviegoers without something new to hum as they exit the cinemas, it's still easily one of the best scores of the year. 
+
+**Sincerely,**
+
+Jordan
