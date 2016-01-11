@@ -3,10 +3,11 @@ layout: feature
 published: true
 image: score-wars-john-williams-strikes-back.jpg
 title: "Score Wars: John Williams Strikes Back"
-excerpt: "The Star Wars  franchise is one of those rare cultural products where even casual fans have a fairly nuanced understanding of its accompanying music. Does <em>The Force Awakens</em> measure up to its predecessors?"
-essay_subject: true
+excerpt: "Does <em>The Force Awakens</em> measure up to its predecessors?"
+essay_subject: false
 author: jordang
 addressee: "John Williams"
+date: 2016-01-11 09:00:00
 comments: true
 categories:
   - features
