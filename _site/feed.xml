@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: The Revenant</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/the-revenant.jpg" />
+  				<p>Dear Alejandro González Iñárritu, Director, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Mon, 11 Jan 2016 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2016/1/11/the-revenant.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/1/11/the-revenant.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Hitchcock/Truffaut</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Sun, 27 Dec 2015 00:00:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2015/12/27/sisters.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/27/sisters.html</guid>
-			</item>
-		
-			<item>
-				<title> Feature: 2015 Silver Stamps</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/2015-silver-stamps.jpg" />
-  				<p>Dear , <br />
-  				A brand-spanking-new list of winners and losers who helped define the last year in cinema.p>
-  		    ]]>
-				</description>
-				<pubDate>Tue, 22 Dec 2015 01:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2015/12/22/2015-silver-stamps.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2015/12/22/2015-silver-stamps.html</guid>
 			</item>
 		
 	</channel>

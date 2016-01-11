@@ -2054,6 +2054,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/joy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28899,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/joy.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/joy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/10-questions-with-randall-william-cook.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4727,6 +4738,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/hitchcock-truffaut.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 171289,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/hitchcock-truffaut.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/hitchcock-truffaut.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/hitchcock.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4965,6 +4987,17 @@
 		"initialSize": 100530,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/in-a-world.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/in-a-world.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/in-the-heart-of-the-sea.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 140372,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/in-the-heart-of-the-sea.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/in-the-heart-of-the-sea.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5295,6 +5328,17 @@
 		"initialSize": 78046,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/john-wick.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/john-wick.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/joy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100965,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/joy.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/joy.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5728,6 +5772,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/love.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 224565,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/love.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/love.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/lovelace.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5746,6 +5801,17 @@
 		"initialSize": 225458,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/lucy.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/lucy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/macbeth.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67901,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/macbeth.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/macbeth.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -8551,6 +8617,17 @@
 		"initialSize": 122758,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-hateful-eight-contest.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-hateful-eight-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-hateful-eight.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 271607,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-hateful-eight.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-hateful-eight.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -13054,6 +13131,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/hitchcock-truffaut.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7050,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/hitchcock-truffaut.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/hitchcock-truffaut.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/hitchcock.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -13292,6 +13380,17 @@
 		"initialSize": 11376,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/in-a-world.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/in-a-world.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/in-the-heart-of-the-sea.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12730,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/in-the-heart-of-the-sea.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/in-the-heart-of-the-sea.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -13589,6 +13688,17 @@
 		"initialSize": 6647,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/john-wick.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/john-wick.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/joy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11624,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/joy.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/joy.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -14022,6 +14132,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/love.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11600,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/love.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/love.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/lovelace.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -14040,6 +14161,17 @@
 		"initialSize": 17302,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/lucy.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/lucy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/macbeth.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5165,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/macbeth.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/macbeth.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -16691,6 +16823,17 @@
 		"initialSize": 19801,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-hangover-part-3.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-hangover-part-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/the-hateful-eight.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12721,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-hateful-eight.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-hateful-eight.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -21062,6 +21205,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/hitchcock-truffaut.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19160,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hitchcock-truffaut.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hitchcock-truffaut.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/hitchcock.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -21300,6 +21454,17 @@
 		"initialSize": 24180,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/in-a-world.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/in-a-world.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/in-the-heart-of-the-sea.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32869,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/in-the-heart-of-the-sea.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/in-the-heart-of-the-sea.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -21597,6 +21762,17 @@
 		"initialSize": 17176,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/john-wick.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/john-wick.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/joy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28899,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/joy.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/joy.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -21986,6 +22162,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/love.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33722,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/love.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/love.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/lovelace.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -22004,6 +22191,17 @@
 		"initialSize": 49346,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/lucy.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/lucy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/macbeth.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12333,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/macbeth.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/macbeth.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -23772,7 +23970,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 17180,
+		"initialSize": 19712,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/star-wars.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/star-wars.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -24677,6 +24875,17 @@
 		"initialSize": 51893,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-hangover-part-3.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-hangover-part-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/the-hateful-eight.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40672,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-hateful-eight.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-hateful-eight.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -33372,6 +33581,69 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2015\/9\/4\/mistress-america.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/1\/4\/joy.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/1\/4\/joy.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/1\/4\/love.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/1\/4\/love.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/1\/4\/macbeth.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/1\/4\/macbeth.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/1\/4\/the-hateful-eight.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/1\/4\/the-hateful-eight.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/1\/5\/in-the-heart-of-the-sea.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/1\/5\/in-the-heart-of-the-sea.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/1\/5\/the-heart-of-the-sea.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/1\/5\/the-heart-of-the-sea.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/1\/8\/hitchcock-truffaut.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/1\/8\/hitchcock-truffaut.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -42960,6 +43232,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/hitchcock-truffaut.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 171289,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/hitchcock-truffaut.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/hitchcock-truffaut.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/hitchcock.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -43198,6 +43481,17 @@
 		"initialSize": 100530,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/in-a-world.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/in-a-world.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/in-the-heart-of-the-sea.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 140372,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/in-the-heart-of-the-sea.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/in-the-heart-of-the-sea.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -51331,6 +51625,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/hitchcock-truffaut.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7050,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/hitchcock-truffaut.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/hitchcock-truffaut.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/hitchcock.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -51569,6 +51874,17 @@
 		"initialSize": 11376,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/in-a-world.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/in-a-world.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/in-the-heart-of-the-sea.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12730,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/in-the-heart-of-the-sea.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/in-the-heart-of-the-sea.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -59383,6 +59699,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/hitchcock-truffaut.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19160,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/hitchcock-truffaut.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/hitchcock-truffaut.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/hitchcock.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -59621,6 +59948,17 @@
 		"initialSize": 24180,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/in-a-world.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/in-a-world.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/in-the-heart-of-the-sea.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32869,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/in-the-heart-of-the-sea.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/in-the-heart-of-the-sea.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
