@@ -154,6 +154,3 @@ DEPENDENCIES
   jekyll-redirect-from
   json
   s3_website
-
-BUNDLED WITH
-   1.11.2
