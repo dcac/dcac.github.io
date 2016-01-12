@@ -12,7 +12,7 @@ date: 2016-01-11 12:00:00
 categories:
   - features
   - essays
-tags: [Best of 2015,Pixar]
+tags: [Best of 2015,2015,best of,Pixar]
 ---
 Most of the time, we film critics are guided by four key emotions: anger (how does [this shit](http://www.dearcastandcrew.com/content/2012/8/16/dream-house.html) get made?), disgust (who is [this shit](http://www.dearcastandcrew.com/content/2015/4/30/we-need-to-talk-about-adam.html) made for?), fear (will they ever stop making [this shit](http://www.dearcastandcrew.com/content/2013/2/15/a-good-day-to-die-hard.html)?), and sadness (why did [this have to be so shitty](http://www.dearcastandcrew.com/content/2015/12/15/the-phantom-menace.html)?) . But once in a while, a film comes along that evokes pure joy (no, not [_Joy_](http://www.dearcastandcrew.com/content/2016/1/4/joy.html)). It cuts through all cynicism, speaks volumes about the human condition, and is nothing but a delight for the senses.  
 

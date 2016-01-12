@@ -11,7 +11,7 @@ comments: true
 categories:
   - features
   - essays
-tags: [Best of 2015,drama,drugs]
+tags: [Best of 2015,2015,best of,drama,drugs]
 ---
 I’ll spare you my usual end-of-year trepidation about [critical subjectivity](http://www.dearcastandcrew.com/content/2013/8/2/the-to-do-list.html) and [ethical dilemmas](http://www.dearcastandcrew.com/content/2015/1/6/no-the-trip-to-italy-is-the-best-film-of-2014.html) and simply say this: there was only one movie in 2015 that thrilled me to the point of physical response—had me grinning, and clapping my hands, and clenching my fists, and holding my breath. You may be surprised to know that it wasn’t _Mad Max: Fury Road_ (just like _I_ was surprised that it wasn’t _The Force Awakens_). 
 
