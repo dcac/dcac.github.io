@@ -1,6 +1,7 @@
 ---
 layout: feature
 published: true
+date: 2016-01-15 12:00:00
 image: mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.jpg
 title: "Mad Max: Fury Road is Obviously the Best Film of 2015"
 excerpt: "Casey Tourangeau finds his passion for the cinema reignited in the most unlikely of films."
