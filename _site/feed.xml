@@ -7,12 +7,26 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title> Feature: Mad Max: Fury Road is Obviously the Best Film of 2015</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.jpg" />
+  				<p>Dear Fellow Film Critics, <br />
+  				Casey Tourangeau rediscovered his passion for the craft of cinema in the most unlikely of films.p>
+  		    ]]>
+				</description>
+				<pubDate>Fri, 15 Jan 2016 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2016/1/15/mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/1/15/mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.html</guid>
+			</item>
+		
+			<item>
 				<title> Feature: Creed is Surprisingly the Best Film of 2015</title>
 				<description>
   				<![CDATA[
   				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/creed-is-surprisingly-the-best-film-of-2015.jpg" />
   				<p>Dear Fellow Film Critics, <br />
-  				Who could have expected the seventh film in the <em>Rocky</em> Franchise to be the best film of year? Certainly not Di Golding. Find out how the underdog won her over.p>
+  				Who could have expected the seventh film in the <em>Rocky</em> Franchise to be the best film of year? Certainly not Di Golding. Find out why the underdog won her over.p>
   		    ]]>
 				</description>
 				<pubDate>Thu, 14 Jan 2016 00:00:00 -0500</pubDate>
@@ -130,20 +144,6 @@
 				<pubDate>Mon, 04 Jan 2016 00:00:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2016/1/4/the-hateful-eight.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/1/4/the-hateful-eight.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Macbeth</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/macbeth.jpg" />
-  				<p>Dear Adam Arkapaw, Cinematographer, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Mon, 04 Jan 2016 00:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2016/1/4/macbeth.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/1/4/macbeth.html</guid>
 			</item>
 		
 	</channel>
