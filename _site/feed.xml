@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Svengali</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/svengali.jpg" />
+  				<p>Dear Alice Hobden, Focus Puller, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Fri, 22 Jan 2016 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2016/1/22/svengali.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/1/22/svengali.html</guid>
+			</item>
+		
+			<item>
 				<title> Feature: Iñárritu Or (The Expected Defect Of Film Twitter)</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Mon, 11 Jan 2016 04:01:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2016/1/11/the-revenant.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/1/11/the-revenant.html</guid>
-			</item>
-		
-			<item>
-				<title> Feature: Score Wars: John Williams Strikes Back</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/score-wars-john-williams-strikes-back.jpg" />
-  				<p>Dear John Williams, <br />
-  				Does <em>The Force Awakens</em> measure up to its predecessors?p>
-  		    ]]>
-				</description>
-				<pubDate>Mon, 11 Jan 2016 04:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2016/1/11/score-wars-john-williams-strikes-back.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/1/11/score-wars-john-williams-strikes-back.html</guid>
 			</item>
 		
 	</channel>
