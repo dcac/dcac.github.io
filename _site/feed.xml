@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: The 5th Wave</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/the-5th-wave.jpg" />
+  				<p>Dear Ron Livingston, Supporting Actor, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Tue, 26 Jan 2016 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2016/1/26/the-5th-wave.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/1/26/the-5th-wave.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Svengali</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Mon, 11 Jan 2016 07:00:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2016/1/11/inside-out-is-easily-the-best-film-of-2015.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/1/11/inside-out-is-easily-the-best-film-of-2015.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: The Revenant</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/the-revenant.jpg" />
-  				<p>Dear Alejandro González Iñárritu, Director, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Mon, 11 Jan 2016 04:01:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2016/1/11/the-revenant.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/1/11/the-revenant.html</guid>
 			</item>
 		
 	</channel>

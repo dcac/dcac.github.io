@@ -2087,6 +2087,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/13-hours-the-secret-soldiers-of-benghazi.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106597,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/13-hours-the-secret-soldiers-of-benghazi.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/13-hours-the-secret-soldiers-of-benghazi.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/20-feet-from-stardom.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2193,6 +2204,17 @@
 		"initialSize": 259722,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/42.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/42.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/45-years-is-ununconditionally-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82535,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/45-years-is-ununconditionally-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/45-years-is-ununconditionally-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3414,6 +3436,17 @@
 		"initialSize": 95258,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/cosmopolis.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/cosmopolis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/creed-is-surprisingly-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 207953,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/creed-is-surprisingly-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/creed-is-surprisingly-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5002,6 +5035,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/inarritu-or-the-unexpected-defect-of-film-twitter.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 177283,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/inarritu-or-the-unexpected-defect-of-film-twitter.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/inarritu-or-the-unexpected-defect-of-film-twitter.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/inchallah.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5053,6 +5097,17 @@
 		"initialSize": 136627,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/inside-llewyn-davis.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/inside-llewyn-davis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/inside-out-is-easily-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100306,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/inside-out-is-easily-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/inside-out-is-easily-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5823,6 +5878,28 @@
 		"initialSize": 210184,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/machete-kills.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/machete-kills.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 296823,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/mad-max-fury-road-is-unapologetically-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 210521,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/mad-max-fury-road-is-unapologetically-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/mad-max-fury-road-is-unapologetically-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6762,6 +6839,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/pride-and-prejudice-and-zombies-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93461,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/pride-and-prejudice-and-zombies-contest.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/pride-and-prejudice-and-zombies-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/pride-contest.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -7202,6 +7290,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/score-wars-john-williams-strikes-back.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44874,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/score-wars-john-williams-strikes-back.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/score-wars-john-williams-strikes-back.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/searching-for-sugar-man.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -7341,6 +7440,17 @@
 		"initialSize": 150550,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/shut-up-and-play-the-hits.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/shut-up-and-play-the-hits.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/sicario-is-defnitelythe-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92958,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/sicario-is-defnitelythe-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/sicario-is-defnitelythe-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -7803,6 +7913,17 @@
 		"initialSize": 168505,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/supermensch.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/supermensch.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/svengali.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83735,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/svengali.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/svengali.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -9292,6 +9413,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/the-revenant.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 168961,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-revenant.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-revenant.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/the-revolution-is-upon-us.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -10634,6 +10766,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/13-hours-the-secret-soldiers-of-benghazi.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9956,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/13-hours-the-secret-soldiers-of-benghazi.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/13-hours-the-secret-soldiers-of-benghazi.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/20-feet-from-stardom.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -10740,6 +10883,17 @@
 		"initialSize": 19417,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/42.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/42.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/45-years-is-ununconditionally-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8970,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/45-years-is-ununconditionally-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/45-years-is-ununconditionally-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -11884,6 +12038,17 @@
 		"initialSize": 10744,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/cosmopolis.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/cosmopolis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/creed-is-surprisingly-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10262,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/creed-is-surprisingly-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/creed-is-surprisingly-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -13395,6 +13560,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/inarritu-or-the-unexpected-defect-of-film-twitter.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10431,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/inarritu-or-the-unexpected-defect-of-film-twitter.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/inarritu-or-the-unexpected-defect-of-film-twitter.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/inchallah.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -13446,6 +13622,17 @@
 		"initialSize": 15734,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/inside-llewyn-davis.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/inside-llewyn-davis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/inside-out-is-easily-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10455,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/inside-out-is-easily-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/inside-out-is-easily-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -14183,6 +14370,28 @@
 		"initialSize": 18039,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/machete-kills.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/machete-kills.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12902,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/mad-max-fury-road-is-unapologetically-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8388,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/mad-max-fury-road-is-unapologetically-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/mad-max-fury-road-is-unapologetically-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15518,6 +15727,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/score-wars-john-williams-strikes-back.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4881,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/score-wars-john-williams-strikes-back.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/score-wars-john-williams-strikes-back.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/searching-for-sugar-man.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15657,6 +15877,17 @@
 		"initialSize": 13577,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/shut-up-and-play-the-hits.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/shut-up-and-play-the-hits.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/sicario-is-defnitelythe-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9245,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/sicario-is-defnitelythe-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/sicario-is-defnitelythe-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -16064,6 +16295,17 @@
 		"initialSize": 16784,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/supermensch.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/supermensch.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/svengali.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8843,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/svengali.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/svengali.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -17476,6 +17718,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/the-revenant.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10087,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-revenant.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-revenant.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/the-revolution-is-upon-us.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -18708,6 +18961,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/13-hours-the-secret-soldiers-of-benghazi.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27027,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/13-hours-the-secret-soldiers-of-benghazi.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/13-hours-the-secret-soldiers-of-benghazi.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/20-feet-from-stardom.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -18814,6 +19078,17 @@
 		"initialSize": 51244,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/42.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/42.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/45-years-is-ununconditionally-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21578,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/45-years-is-ununconditionally-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/45-years-is-ununconditionally-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -19969,6 +20244,17 @@
 		"initialSize": 23165,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/cosmopolis.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/cosmopolis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/creed-is-surprisingly-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28503,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/creed-is-surprisingly-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/creed-is-surprisingly-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -21469,6 +21755,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/inarritu-or-the-unexpected-defect-of-film-twitter.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27910,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/inarritu-or-the-unexpected-defect-of-film-twitter.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/inarritu-or-the-unexpected-defect-of-film-twitter.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/inchallah.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -21520,6 +21817,17 @@
 		"initialSize": 34711,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/inside-llewyn-davis.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/inside-llewyn-davis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/inside-out-is-easily-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27489,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/inside-out-is-easily-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/inside-out-is-easily-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -22213,6 +22521,28 @@
 		"initialSize": 46221,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/machete-kills.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/machete-kills.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40406,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/mad-max-fury-road-is-unapologetically-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21793,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/mad-max-fury-road-is-unapologetically-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/mad-max-fury-road-is-unapologetically-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -23548,6 +23878,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/score-wars-john-williams-strikes-back.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9868,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/score-wars-john-williams-strikes-back.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/score-wars-john-williams-strikes-back.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/searching-for-sugar-man.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -23687,6 +24028,17 @@
 		"initialSize": 32436,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/shut-up-and-play-the-hits.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/shut-up-and-play-the-hits.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/sicario-is-defnitelythe-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21296,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/sicario-is-defnitelythe-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/sicario-is-defnitelythe-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -23970,7 +24322,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 19712,
+		"initialSize": 17180,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/star-wars.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/star-wars.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -24105,6 +24457,17 @@
 		"initialSize": 42256,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/supermensch.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/supermensch.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/svengali.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23163,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/svengali.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/svengali.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -25524,6 +25887,17 @@
 		"initialSize": 40957,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-railway-man.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-railway-man.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/the-revenant.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27809,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-revenant.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-revenant.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -33585,6 +33959,105 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2016\/1\/11\/inside-out-is-easily-the-best-film-of-2015.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/1\/11\/inside-out-is-easily-the-best-film-of-2015.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/1\/11\/score-wars-john-williams-strikes-back.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/1\/11\/score-wars-john-williams-strikes-back.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/1\/11\/the-revenant.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/1\/11\/the-revenant.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/1\/12\/sicario-is-definitely-the-best-film-of-2015.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/1\/12\/sicario-is-definitely-the-best-film-of-2015.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/1\/13\/mad-max-fury-road-is-unapologetically-the-best-film-of-2015.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/1\/13\/mad-max-fury-road-is-unapologetically-the-best-film-of-2015.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/1\/14\/creed-is-surprisingly-the-best-film-of-2015.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/1\/14\/creed-is-surprisingly-the-best-film-of-2015.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/1\/15\/45-years-is-ununconditionally-the-best-film-of-2015.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/1\/15\/45-years-is-ununconditionally-the-best-film-of-2015.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/1\/15\/mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/1\/15\/mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/1\/19\/13-hours-the-secret-soldiers-of-benghazi.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/1\/19\/13-hours-the-secret-soldiers-of-benghazi.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/1\/21\/inarritu-or-the-unexpected-defect-of-film-twitter.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/1\/21\/inarritu-or-the-unexpected-defect-of-film-twitter.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/1\/22\/svengali.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/1\/22\/svengali.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2016\/1\/4\/joy.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -33774,6 +34247,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/contests\/pride-and-prejudice-and-zombies-contest.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/contests\/pride-and-prejudice-and-zombies-contest.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/contests\/southpaw-contest.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -33954,6 +34436,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/features\/page3\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/features\/page4\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/features\/page4\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -38640,6 +39131,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/reviews\/page26\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/reviews\/page26\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/reviews\/page3\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -40581,6 +41081,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/13-hours-the-secret-soldiers-of-benghazi.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106597,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/13-hours-the-secret-soldiers-of-benghazi.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/13-hours-the-secret-soldiers-of-benghazi.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/20-feet-from-stardom.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -40687,6 +41198,17 @@
 		"initialSize": 259722,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/42.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/42.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/45-years-is-ununconditionally-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82535,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/45-years-is-ununconditionally-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/45-years-is-ununconditionally-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -41908,6 +42430,17 @@
 		"initialSize": 95258,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/cosmopolis.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/cosmopolis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/creed-is-surprisingly-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 207953,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/creed-is-surprisingly-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/creed-is-surprisingly-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -43496,6 +44029,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/inarritu-or-the-unexpected-defect-of-film-twitter.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 177283,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/inarritu-or-the-unexpected-defect-of-film-twitter.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/inarritu-or-the-unexpected-defect-of-film-twitter.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/inchallah.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -43547,6 +44091,17 @@
 		"initialSize": 136627,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/inside-llewyn-davis.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/inside-llewyn-davis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/inside-out-is-easily-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100306,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/inside-out-is-easily-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/inside-out-is-easily-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -44317,6 +44872,28 @@
 		"initialSize": 210184,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/machete-kills.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/machete-kills.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 296823,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/mad-max-fury-road-is-unapologetically-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 210521,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/mad-max-fury-road-is-unapologetically-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/mad-max-fury-road-is-unapologetically-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -45256,6 +45833,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/pride-and-prejudice-and-zombies-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 93461,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/pride-and-prejudice-and-zombies-contest.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/pride-and-prejudice-and-zombies-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/pride-contest.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -45696,6 +46284,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/score-wars-john-williams-strikes-back.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44874,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/score-wars-john-williams-strikes-back.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/score-wars-john-williams-strikes-back.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/searching-for-sugar-man.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -45835,6 +46434,17 @@
 		"initialSize": 150550,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/shut-up-and-play-the-hits.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/shut-up-and-play-the-hits.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/sicario-is-defnitelythe-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92958,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/sicario-is-defnitelythe-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/sicario-is-defnitelythe-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -46297,6 +46907,17 @@
 		"initialSize": 168505,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/supermensch.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/supermensch.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/svengali.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83735,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/svengali.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/svengali.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -47786,6 +48407,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/the-revenant.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 168961,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-revenant.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-revenant.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/the-revolution-is-upon-us.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -49128,6 +49760,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/13-hours-the-secret-soldiers-of-benghazi.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9956,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/13-hours-the-secret-soldiers-of-benghazi.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/13-hours-the-secret-soldiers-of-benghazi.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/20-feet-from-stardom.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -49234,6 +49877,17 @@
 		"initialSize": 19417,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/42.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/42.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/45-years-is-ununconditionally-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8970,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/45-years-is-ununconditionally-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/45-years-is-ununconditionally-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -50378,6 +51032,17 @@
 		"initialSize": 10744,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/cosmopolis.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/cosmopolis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/creed-is-surprisingly-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10262,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/creed-is-surprisingly-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/creed-is-surprisingly-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -51889,6 +52554,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/inarritu-or-the-unexpected-defect-of-film-twitter.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10431,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/inarritu-or-the-unexpected-defect-of-film-twitter.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/inarritu-or-the-unexpected-defect-of-film-twitter.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/inchallah.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -51940,6 +52616,17 @@
 		"initialSize": 15734,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/inside-llewyn-davis.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/inside-llewyn-davis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/inside-out-is-easily-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10455,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/inside-out-is-easily-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/inside-out-is-easily-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -52677,6 +53364,28 @@
 		"initialSize": 18039,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/machete-kills.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/machete-kills.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12902,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/mad-max-fury-road-is-unapologetically-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8388,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/mad-max-fury-road-is-unapologetically-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/mad-max-fury-road-is-unapologetically-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -54012,6 +54721,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/score-wars-john-williams-strikes-back.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4881,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/score-wars-john-williams-strikes-back.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/score-wars-john-williams-strikes-back.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/searching-for-sugar-man.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -54151,6 +54871,17 @@
 		"initialSize": 13577,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/shut-up-and-play-the-hits.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/shut-up-and-play-the-hits.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/sicario-is-defnitelythe-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9245,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/sicario-is-defnitelythe-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/sicario-is-defnitelythe-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -54558,6 +55289,17 @@
 		"initialSize": 16784,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/supermensch.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/supermensch.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/svengali.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8843,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/svengali.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/svengali.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -55970,6 +56712,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/the-revenant.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10087,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-revenant.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-revenant.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/the-revolution-is-upon-us.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -57202,6 +57955,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/13-hours-the-secret-soldiers-of-benghazi.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27027,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/13-hours-the-secret-soldiers-of-benghazi.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/13-hours-the-secret-soldiers-of-benghazi.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/20-feet-from-stardom.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -57308,6 +58072,17 @@
 		"initialSize": 51244,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/42.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/42.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/45-years-is-ununconditionally-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21578,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/45-years-is-ununconditionally-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/45-years-is-ununconditionally-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -58463,6 +59238,17 @@
 		"initialSize": 23165,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/cosmopolis.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/cosmopolis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/creed-is-surprisingly-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28503,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/creed-is-surprisingly-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/creed-is-surprisingly-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -59963,6 +60749,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/inarritu-or-the-unexpected-defect-of-film-twitter.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27910,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/inarritu-or-the-unexpected-defect-of-film-twitter.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/inarritu-or-the-unexpected-defect-of-film-twitter.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/inchallah.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -60014,6 +60811,17 @@
 		"initialSize": 34711,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/inside-llewyn-davis.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/inside-llewyn-davis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/inside-out-is-easily-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27489,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/inside-out-is-easily-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/inside-out-is-easily-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -60707,6 +61515,28 @@
 		"initialSize": 46221,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/machete-kills.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/machete-kills.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40406,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/mad-max-fury-road-is-obvioulsy-the-best-film-of-2015.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/mad-max-fury-road-is-unapologetically-the-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21793,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/mad-max-fury-road-is-unapologetically-the-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/mad-max-fury-road-is-unapologetically-the-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -62042,6 +62872,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/score-wars-john-williams-strikes-back.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9868,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/score-wars-john-williams-strikes-back.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/score-wars-john-williams-strikes-back.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/searching-for-sugar-man.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -62181,6 +63022,17 @@
 		"initialSize": 32436,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/shut-up-and-play-the-hits.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/shut-up-and-play-the-hits.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/sicario-is-defnitelythe-best-film-of-2015.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21296,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/sicario-is-defnitelythe-best-film-of-2015.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/sicario-is-defnitelythe-best-film-of-2015.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -62599,6 +63451,17 @@
 		"initialSize": 42256,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/supermensch.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/supermensch.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/svengali.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23163,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/svengali.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/svengali.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -64018,6 +64881,17 @@
 		"initialSize": 40957,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-railway-man.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-railway-man.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/the-revenant.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27809,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-revenant.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-revenant.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
