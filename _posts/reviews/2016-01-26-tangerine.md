@@ -6,7 +6,7 @@ image: tangerine.jpg
 author: timm
 stars: 4
 excerpt: ""
-position: "Camera operator/Directorr"
+position: "Camera Operator/Director"
 addressee: "Sean Baker"
 layout: review
 categories: 
