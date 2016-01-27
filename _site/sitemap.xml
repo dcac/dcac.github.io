@@ -3185,8 +3185,12 @@
         <lastmod>2016-01-21T23:02:49-05:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2016/1/26/tangerine.html</loc>
+        <lastmod>2016-01-26T20:26:39-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/content/2016/1/26/the-5th-wave.html</loc>
-        <lastmod>2016-01-26T06:16:18-05:00</lastmod>
+        <lastmod>2016-01-26T06:19:06-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
@@ -3276,7 +3280,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2016-01-26T06:16:18-05:00</lastmod>
+        <lastmod>2016-01-26T20:26:39-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/writers/coryh/</loc>
@@ -3391,9 +3395,5 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/while-were-young-contest.html</loc>
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
-        <lastmod>2016-01-25T13:28:25-05:00</lastmod>
     </url>
 </urlset>
