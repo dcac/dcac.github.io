@@ -3185,12 +3185,12 @@
         <lastmod>2016-01-21T23:02:49-05:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/content/2016/1/26/tangerine.html</loc>
-        <lastmod>2016-01-26T20:26:39-05:00</lastmod>
+        <loc>http://www.dearcastandcrew.com/content/2016/1/26/the-5th-wave.html</loc>
+        <lastmod>2016-01-26T20:29:55-05:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/content/2016/1/26/the-5th-wave.html</loc>
-        <lastmod>2016-01-26T06:19:06-05:00</lastmod>
+        <loc>http://www.dearcastandcrew.com/content/2016/1/26/tangerine.html</loc>
+        <lastmod>2016-01-27T16:27:14-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
@@ -3231,15 +3231,15 @@
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/jaredy/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/</loc>
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/</loc>
+        <lastmod>2016-01-27T16:27:14-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/features/</loc>
-        <lastmod>2016-01-03T22:23:56-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/features/series/</loc>
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
     </url>
     <url>
@@ -3263,7 +3263,7 @@
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/features/lists/</loc>
+        <loc>http://www.dearcastandcrew.com/features/series/</loc>
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
     </url>
     <url>
@@ -3279,19 +3279,19 @@
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2016-01-26T20:26:39-05:00</lastmod>
-    </url>
-    <url>
         <loc>http://www.dearcastandcrew.com/writers/coryh/</loc>
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/dig/</loc>
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/dig/</loc>
+        <loc>http://www.dearcastandcrew.com/features/lists/</loc>
+        <lastmod>2016-01-03T22:23:56-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/writers/jaredy/</loc>
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
     </url>
     <url>
@@ -3311,11 +3311,11 @@
         <lastmod>2016-01-03T22:23:54-05:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/contact/</loc>
+        <loc>http://www.dearcastandcrew.com/privacy/</loc>
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/privacy/</loc>
+        <loc>http://www.dearcastandcrew.com/contact/</loc>
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
     </url>
     <url>
@@ -3361,6 +3361,10 @@
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/contests/the-choice-contest.html</loc>
+        <lastmod>2016-01-27T22:54:14-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/contests/the-gunman-contest.html</loc>
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
     </url>
@@ -3395,5 +3399,9 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/while-were-young-contest.html</loc>
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
+        <lastmod>2016-01-25T13:28:25-05:00</lastmod>
     </url>
 </urlset>

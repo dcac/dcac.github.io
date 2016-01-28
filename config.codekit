@@ -7983,6 +7983,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/tangerine.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63860,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tangerine.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/tangerine.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/ted-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -8078,6 +8089,17 @@
 		"initialSize": 72409,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-33.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-33.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-5th-wave.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 161204,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-5th-wave.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-5th-wave.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -8331,6 +8353,17 @@
 		"initialSize": 181297,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-case-against-andy-serkis.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-case-against-andy-serkis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-choice-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124370,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-choice-contest.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-choice-contest.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -16365,6 +16398,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/tangerine.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7081,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/tangerine.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/tangerine.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/ted-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -16460,6 +16504,17 @@
 		"initialSize": 6322,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-33.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-33.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/the-5th-wave.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12138,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-5th-wave.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-5th-wave.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -24322,7 +24377,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 17180,
+		"initialSize": 19712,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/star-wars.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/star-wars.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -24527,6 +24582,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/tangerine.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17838,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/tangerine.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/tangerine.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/ted-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -24633,6 +24699,17 @@
 		"initialSize": 15021,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-33.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-33.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/the-5th-wave.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30973,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-5th-wave.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-5th-wave.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -34058,6 +34135,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2016\/1\/26\/tangerine.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/1\/26\/tangerine.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/1\/26\/the-5th-wave.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/1\/26\/the-5th-wave.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2016\/1\/4\/joy.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -34279,6 +34374,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/contests\/spotlight-contest.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/contests\/the-choice-contest.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/contests\/the-choice-contest.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -46977,6 +47081,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/tangerine.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63860,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/tangerine.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/tangerine.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/ted-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -47072,6 +47187,17 @@
 		"initialSize": 72409,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-33.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-33.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/the-5th-wave.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 161204,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-5th-wave.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-5th-wave.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -47325,6 +47451,17 @@
 		"initialSize": 181297,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-case-against-andy-serkis.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-case-against-andy-serkis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/the-choice-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124370,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-choice-contest.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-choice-contest.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -55359,6 +55496,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/tangerine.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7081,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/tangerine.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/tangerine.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/ted-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -55454,6 +55602,17 @@
 		"initialSize": 6322,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-33.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-33.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/the-5th-wave.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12138,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-5th-wave.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-5th-wave.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -63521,6 +63680,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/tangerine.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17838,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/tangerine.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/tangerine.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/ted-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -63627,6 +63797,17 @@
 		"initialSize": 15021,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-33.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-33.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/the-5th-wave.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30973,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-5th-wave.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-5th-wave.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
