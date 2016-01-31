@@ -13,7 +13,7 @@ categories:
   - series
 title: "The Hateful Eight"
 comments: true
-tags: [Quentin Tarantino, western, drama, Kurt Russell]
+tags: [Quentin Tarantino, western, Jennifer Jason Leigh, drama, Kurt Russell]
 ---
 Normally I don’t have much interest in whether a movie is shot on film or digital—in the sense that neither format is intrinsically superior to the other. Watching what Roger Deakins does with _Sicario_ (a movie shot digitally) or the kind of storytelling vérité facilitated by the amped up iPhones of _Tangerine,_ it is glaringly obvious that it is a po-tay-toe, po-tah-toe situation. But in the case of _The Hateful Eight_ it would be much less interesting as a film without the distinctive flavor you bring to the table.
 
