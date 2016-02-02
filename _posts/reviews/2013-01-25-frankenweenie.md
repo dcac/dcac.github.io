@@ -13,7 +13,7 @@ categories:
   - on-video
 title: "Frankenweenie"
 comments: true
-tags: [Animation, Christopher Lee, Disney, horror, Letters, Tim Burton]
+tags: [Animation, Frankenstein, Christopher Lee, Disney, horror, Letters, Tim Burton]
 ---
 _**Dear Christopher Lee**, Movie Dracula (archive footage, uncredited)_
 

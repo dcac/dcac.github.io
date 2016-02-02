@@ -37,7 +37,7 @@ layout: default
         <div class="more-reviews">
           <div class="row collapse">
             <div class="large-12 columns collapse writer-head-block">
-              <h1 class="more-reviews-title">The Movies</h1>
+              <h1 class="more-reviews-title">The Articles</h1>
               <hr class="more-reviews-rule">
             </div>
           </div>
@@ -47,7 +47,11 @@ layout: default
     {% if post.series-name == page.series-name %}
           <div class=" section-post large-4 medium-4 small-6 columns left{% if forloop.last %} end{% endif %}">
     {% assign author = site.data.authors[post.author] %}
+            {% if post.categories contains 'features' %}
+            {% include post-grid/feature-post.html %}
+            {% else %}
             {% include post-grid/post.html %}
+            {% endif %}
           </div>
           {% endif %}
           {% endfor %}

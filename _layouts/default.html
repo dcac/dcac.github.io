@@ -13,6 +13,7 @@ layout: compress
     <title>{% if page.home %}{% else %}{{page.title}} | {%endif %}Dear Cast & Crew{% if page.home %} | Movie Reviews, Essays, and Exchanges{% endif %}</title>
     <script type="text/javascript" src="http://fast.fonts.net/jsapi/053a7698-a2e7-4a94-b380-2cfed49d680a.js"></script>
     <link rel="icon" href="/favicon.png" type="image/png">
+    <link rel="mask-icon" href="/dcac-logo-stamp.svg" color="#000000">
     
     <!-- Analytics -->
     <script>
@@ -29,6 +30,7 @@ layout: compress
     </script>
     <link href="/assets/css/app.css" rel="stylesheet" />
     <script type="text/javascript" src="/assets/js/app-top-min.js"></script>
+<!--     <script src="/assets/js/Hyphenator.js" type="text/javascript"></script> -->
     
     <!--Initialize the menu -->
 
@@ -46,11 +48,22 @@ layout: compress
         $('#nav-header').css({'display':'none'});
       });
     });
+
+    Hyphenator.config({orphancontrol: 2});
+    Hyphenator.run();
+
 		</script>
 
     <!-- Custom styles for this template -->
   
-
+    <script type="text/javascript">
+      var sourceImage = '/assets/img/posts/main/{{page.image }}';
+      var colorThief = new ColorThief();
+      colorThief.getColor(sourceImage[0]);
+      getColor(sourceImage[, quality]);
+      returns {r: num, g: num, b: num};
+      var red = color[0];
+    </script>
     {% case page.section %}
     {% when 'Content' %}
     <style>
@@ -230,7 +243,7 @@ layout: compress
     }
     $(document).ready(function(){
       var bLazy = new Blazy();
-      bLazy.revalidate();
+      setTimeout(bLazy.revalidate, 100);
     });
     </script>
   </body>

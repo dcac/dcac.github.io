@@ -50,7 +50,7 @@ dig:
   email: di@dearcastandcrew.com
   twitter:
   image: dig.jpg
-  bio: 'Di got most of her film education the old fashion way - by working in a video store (for more years than she''s willing to admit). She studied scriptwriting at Algonquin College, and comedy screenwriting under SCTV scribe Dave Flaherty of Humber College. She was a film columnist for CBC Radio''s All In A Day, and has been published in The Daily Beast and Ottawa Magazine. She has what psychiatrists and her husband would describe as an ''unhealthy obsession'' with Jeff Bridges. She has exactly one <a href="http://www.imdb.com/title/tt2624344/fullcredits?ref_=tt_ov_st_sm">IMDb</a> credit.'
+  bio: 'Di got most of her film education the old fashioned way - by working at an independent video store (for more years than she''s willing to admit). She studied scriptwriting at Algonquin College, and comedy screenwriting under SCTV scribe Dave Flaherty of Humber College. She is a replacement film columnist for CBC Radio Ottawa, and LiVE 88.5FM, and is a regular contributor for Ottawa Magazine. She has what psychiatrists and her husband would describe as an ''unhealthy obsession'' with Jeff Bridges. She has exactly one <a href="http://www.imdb.com/title/tt2624344/fullcredits?ref_=tt_ov_st_sm">IMDb</a> credit.'
   signature: dig-sig.png
   
 kelany:
@@ -161,4 +161,19 @@ timm:
   
 ankitv:
   name: Ankit Verma
-  name: Ankit Verma
+  short-name: Ankit
+  profiled: true
+  email:
+  twitter:
+  image: ankitv.jpg
+  signature: ankitv-sig.png
+  bio: "Ankit began reviewing films after suffering through <em>Anchorman 2</em>. His disgruntled Facebook status after the viewing received 18 likes which was enough validation to start up a film review blog. The blog eventually caught the eye of veteran Dear Cast & Crew writer, Jared Young. Ankit studied Copywriting and Social Strategy through the Advertising & Marketing Communications Management program at Algonquin College. "
+
+meganf:
+  name: Megan Findlay
+
+mattj:
+  name: Matt Joyce
+
+jordang:
+  name: Jordan Gagné

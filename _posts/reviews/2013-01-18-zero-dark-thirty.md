@@ -13,7 +13,7 @@ categories:
   - on-video
 title: "Zero Dark Thirty"
 comments: true
-tags: [controversy, drama, Jessica Chastain, Kathryn Bigelow, Letters, war]
+tags: [Jessica Chastain, Kathryn Bigelow, controversy, drama, war]
 ---
 Scanning the credits for _Zero Dark Thirty_, I noticed yours: "technical consultant." It seemed, let's say, noncommittal. Consultants are by nature pretty specialized, hired for their expertise in a given field. But your title implied a refusal to be pigeon-holed; you were defining your expertise on your own terms. And it struck me: what could be more perfect for someone working on a film that refuses the same basic consideration? In telling the story of the decade-long hunt for Osama Bin Laden, _Zero Dark Thirty_ doesn't spell out what it's supposed to mean--it leaves that work to the audience.
 

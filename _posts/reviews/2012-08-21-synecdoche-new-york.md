@@ -12,7 +12,7 @@ categories:
   - reviews
 title: "Synecdoche, New York"
 comments: true
-tags: [Arthouse, Charlie Kauffman, Philip Seymour Hoffman, Uncategorized]
+tags: [Arthouse, Charlie Kaufman, Philip Seymour Hoffman, Uncategorized]
 ---
 What a job! You had to clean up after the most brazenly _defiled_ movies in recent memory. There are no unsoiled nooks or crannies, no moments of clarity, and certainly no tidy resolutions to be found. This isn't an artsy film you can just watch for clean-cut profanity or nudity (though there is some). This is a grimy, heart-wrenchingly authentic and baroque mess. This is a movie that muddies the divide between American and "foreign" films. This is a project that's touching, dangerous, tentatively rewarding, and drenched in self-indulgence. Your task to keep things pristine was therefore impossible, which somehow feels perfect.
 

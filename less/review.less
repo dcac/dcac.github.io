@@ -435,6 +435,28 @@ h3 span.addressee{
     text-shadow: none;
   }
 }
+h3 span.addressee-large{
+  color: @white; 
+  text-align: left;
+  font-size: @font-px*100;
+  line-height: @font-px*72;
+  font-family: @sans-serif;
+  font-weight: bold;
+  text-shadow: 0 0 2px @dark-grey;
+  @media @medium{
+    font-size: @font-px*60;
+    line-height: @font-px*50;
+  }
+  @media @mobile{
+    color: #000; 
+    text-align: left;
+    font-size: @font-px*60;
+    line-height: @font-px*50;
+    font-family: @sans-serif;
+    font-weight: bold;
+    text-shadow: none;
+  }
+}
 h3 span.position{
   color: @white; 
   text-align: left;

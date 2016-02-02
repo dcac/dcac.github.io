@@ -33,8 +33,9 @@ layout: default
             </div>
             <div class="large-8 medium-8 columns collapse people-row" data-stellar-ratio="1.1">
               <div class="review-people">
-                <h3><span class="addressee hyphenate">Dear {{ page.addressee }}</span><br />
-                  {% assign positionSize = page.position | size %}{% if positionSize > 20 %}<span class="position-small-txt hyphenate">{% else %}<span class="position hyphenate">{% endif %}{{ page.position }}</span>
+                <h3>{%if page.position == "none"%}<span class="addressee">Dear</span><br />
+<span class="{% assign addresseeSize = page.addressee | size %}{% if addresseeSize > 20 %}position-small-txt{%else%}addressee-large{%endif%} hyphenate">{{ page.addressee }}</span><br />{%else%}<span class="addressee">Dear {{ page.addressee }}<span><br />{%endif%}
+                  {%if page.position != "none"%}{% assign positionSize = page.position | size %}{% if positionSize > 20 %}<span class="position-small-txt hyphenate">{% else %}<span class="position hyphenate">{% endif %}{{ page.position }}</span>{%endif%}
                 </h3>
               </div>
             </div>
@@ -59,7 +60,15 @@ layout: default
             {% if page.categories contains "series" %}
               {% for post in site.categories['series-index'] %}
               {% if post.series-name == page.series-name %}
-              <p><a href="{{ post.url }}">Read all of Dear Cast &amp; Crew's {{ page.series-name }} coverage.</a></p>
+              <div class="read-all-container">
+              	<a href="{{ post.url }}">
+                	{% if post.link_image %}<img class="read-all-img" src="/assets/img/features/series/{{ post.link_image }}" />{% endif %}
+                	<div class="read-all-inside-box">
+                  	<p class="read-all-text"><strong>Read all of</strong> Dear Cast & Crew's<br />
+                  	{{ post.title }} coverage.</p>
+                  </div>
+              	</a>
+            	</div>
               {% endif %}
               {% endfor %}
             {% endif %}

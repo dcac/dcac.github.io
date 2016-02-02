@@ -6,7 +6,7 @@ author: jaredy
 stars: 5
 excerpt: "Tell me, Jared: how am I supposed to compose a fair review of a movie that seems &ndash; from start to finish, in tone and content, in the quiet beats between loud explosions and the loud beatings between quiet expositions &ndash; plucked directly from your twelve year-old brain? And, more than that, treats your Slurpee-induced reveries with such respect, such <em>veneration</em>?&nbsp;"
 position: Future Reviewer
-addressee: Jared Young, Age 12,
+addressee: Jared Young, Age 12
 layout: review
 categories:
   - reviews

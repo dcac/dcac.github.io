@@ -33,8 +33,11 @@ You and director Kenneth Branagh clearly used the 1950 version as a template for
 
 Ultimately, though, this film is good. Not great, but good. Hell, all I know is that it’s been years since I’ve seen the old animated version, and you made me remember what it was like to feel the bippity, the boppity, and most definitely the boo. 
 
+{% contentfor signature %}
 **Have Courage and Be Kind,**  
+
 Ankit
+{% endcontentfor %}
 
 {% contentfor postscript %}	
 PS. Oh, and I’m sorry to hear about [the backlash surrounding Lily’s waistline](http://www.businessinsider.com/cinderella-lily-james-controversy-tiny-waist-diet-2015-3). I for one really appreciated your use of the corset to achieve the kind of exaggerated hourglass figure usually only found in the realm of animation.

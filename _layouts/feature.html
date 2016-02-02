@@ -15,7 +15,10 @@ layout: default
           <div class="row collapse">
             <div class="large-4 medium-4 columns feature-title-height">
               <div class="feature-title-text">
-                <h1 class="feature-hero">{{ page.title }}</h1>
+                <h1 class="{% if page.title-display == "image"%}feature-hero-hidden{%else%}feature-hero{%endif%}">
+                {{ page.title }}</h1>{% if page.essay_subject %}
+                <h2 class="hero-excerpt-home">{{ page.excerpt }}</h2>
+                {% endif %}
                 <div class="translucent-box clearfix">
                   <div class="feature-info">
                     <h2 class="feature-hero-author">
@@ -42,6 +45,21 @@ layout: default
             {% assign author-sig = page.author %}{{ content | replace_first: '<p>','<p class="intro">' }}
             {% if author.bio %}{% include signature.html %}{% endif %}
             {% contentblock postscript %}
+            {% if page.categories contains "series" %}
+              {% for post in site.categories['series-index'] %}
+              {% if post.series-name == page.series-name %}
+              <div class="read-all-container">
+              	<a href="{{ post.url }}">
+                	{% if post.link_image %}<img class="read-all-img" src="/assets/img/features/series/{{ post.link_image }}" />{% endif %}
+                	<div class="read-all-inside-box">
+                  	<p class="read-all-text"><strong>Read all of</strong> Dear Cast & Crew's<br />
+                  	{{ post.title }} coverage.</p>
+                  </div>
+              	</a>
+            	</div>
+              {% endif %}
+              {% endfor %}
+            {% endif %}
           </div>
           <div class="large-2 medium-2 columns side-spacer hide-for-small-only"></div>
         </div>

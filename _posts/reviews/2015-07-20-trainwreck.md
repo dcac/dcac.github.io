@@ -38,7 +38,3 @@ Kudos on your peculiar but successful casting of Lebron James as the penny-pinch
 Given the [importance](http://www.dearcastandcrew.com/content/2015/7/4/terminator-genysis.html) of proper casting in highly anticipated movies, your strategic mixing and matching enhances the overall experience and ensures _Trainwreck_ will be a sought after addition to the W network’s primetime slot for years to come.
 
 With Bill Hader and Amy Schumer hogging the spotlight in this movie -- and Ike Barinholtz appearing as the love interest to Amy Poehler in the upcoming comedy, _Sisters_ -- our traditional rom-com heavyweights might soon be out of a job. Can anyone spare a dime for a smoulder?
-
-**Sincerely,**
-
-Ankit

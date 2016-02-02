@@ -13,7 +13,7 @@ categories:
   - lists
 title: "Five Reasons Skyfall Fell Flat"
 comments: true
-tags: [Ending, essay, Essays, James Bond, Javier Bardem, Jui Dench, M, reasons, Skyfall, spoilers, top 5]
+tags: [James Bond, Daniel Craig, Skyfall, Javier Bardem, Jui Dench, M, reasons,  spoilers, top 5]
 ---
 If you haven't seen the new James Bond film _Skyfall _yet, do it. There's [plenty to love][1] in this 23rd official installment of the series. The following, however, is a SPOILER-filled analysis of the final act to discuss why some of us at _Dear Cast and Crew_ thought the ending didn't work.
 

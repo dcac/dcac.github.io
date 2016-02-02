@@ -1,5 +1,80 @@
+#feature-hero-home{
+  height: 620px;
+  margin-bottom: 2.8125rem;
+  @media @mobile{
+    height: @1px*320;
+  }
+  @media @large-height{
+    height: @1px*850;
+  }
+}
+  #home-feature section.feature-top-nav{
+  color: #fff;
+  font-size: @text-small;
+  font-family: @sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  position: relative;
+  height: 100%;
+  width: 100%;
+  z-index: 15;
+  text-shadow: 0 0 .125rem #333;
+  @media @mobile{
+    display:none;
+  }  
+}
+#home-feature section.feature-top-nav ul {
+  position: absolute;
+  font-size: @text-small;
+  font-weight: bold;
+  bottom: 0;
+  right: @1px*30;
+  margin: 0;
+  display:table;
+  width:auto;
+  text-shadow: 0 0 .125rem #333;
+}
+#home-feature section.feature-top-nav ul li, #home-feature section.feature-top-nav ul li a {
+  display: table-cell;
+  list-style: none;
+  color: #fff;
+  vertical-align: bottom;
+  height:@text-small;
+  width: auto;
+  line-height: @text-tiny; 
+  font-weight: bold;
+  text-shadow: 0 0 .125rem #333;
+}
+#home-feature section.feature-top-nav ul li a.top-search-toggle:hover{
+  color:#f4efcb;
+}
+#home-feature section.feature-top-nav ul li a.slash,#home-feature section.feature-top-nav ul li a.slash:hover{
+  .make-bg-svg('global/slash-white',@10px);
+  padding-left: @1px*30;
+  text-shadow: 0 0 .125rem #333;
+}
+#home-feature section.feature-top-nav a.nav-text:hover, #home-feature section.feature-top-nav ul li:hover{
+  color: #f4efcb;
+  text-decoration: none;
+  background:none;
+  text-shadow: 0 0 .125rem #333;
+}
+a.feature-logo-link {
+  .make-bg-svg(@logo-xl);
+  background-size: cover;
+  height: @1px*72;
+  width:@1px*170;
+  display: block;
+}
+a.feature-logo-link:hover {
+  .make-bg-svg(@logo-xl-cream);
+  background-size: cover;
+  height: @1px*72;
+  width:@1px*170;
+  display: block;
+}
 .home-feature-img{
-  height: @1px*500;
+  height: 100%;
   width: 100%;
   display: block;
   position: absolute;
@@ -18,11 +93,12 @@
   }
 }
 #home-feature{
-  background-image: url('/assets/img/home/custom/2014-silver-stamps/bg.jpg');
+  background-color: #eee;
   background-repeat: repeat-x;
+  height: 100%;
 }
 .home-feature-img-fade{
-  width:1200px;
+  width:100%;
   display: block;
   position: absolute;
   top: 0;
@@ -42,13 +118,15 @@
   }
 }
 #home-feature .hero-height{
-  height:500px;
+  height:720px;
   position: relative;
   z-index: 2;
   text-align: center;
-  display:none;
   @media @mobile{
     height: 300px;
+  }
+  @media @large-height{
+    height: @1px*850;
   }
 }#home-feature .hero-height-stamps{
   height:500px;
@@ -62,24 +140,11 @@
 #home-feature .feature-spacer{
   min-height: 30px;
 }
-#week-one{
+#sw-films{
   position: absolute;
-  left:-575px;
+  left:50%;
   top:16px;
-  width:520px;
-  margin: 0;
-  padding: 0;
-  @media @mobile{
-    width:300px;
-    margin:auto;
-    padding:auto;
-  }
-}
-#week-two{
-  position: absolute;
-  left:0;
-  top:0;
-  width:560px;
+  width:800px;
   margin: 0;
   padding: 0;
   @media @mobile{
@@ -181,34 +246,44 @@ a.slide-left-off:hover,a.slide-right-off:hover{
   list-style: none;
   text-align: center;
   display: inline;
+  @media @mobile{
+    display:none;
+  }  
 }
 #home-feature li{
   color: @white;
   display: inline-block;
   width:90px;
   height:90px;
-  margin: 0 4px;
-  .make-bg-svg(home/feature/calendar-square);
-  position: relative;
+  margin: 0 4px;  position: relative;
   margin-bottom:15px;
   .text-shadow;
   @media @mobile{
     width: 45px;
-  height:45px;
-  margin-bottom:7px;
-  margin-right: 2px;
-  margin-left: 2px;
+    height:45px;
+    margin-bottom:7px;
+    margin-right: 2px;
+    margin-left: 2px;
   }
 }
 #home-feature li.future{
-  .make-bg-svg(home/feature/calendar-square-future);
+  .make-bg-svg('home/feature/star-wars-week/calendar-square-future');
   .text-shadow;
+  margin-bottom: 0;
+  opacity: .65;
+}
+#home-feature li.future:hover{
+  opacity: 1;
+}
+#home-feature li.top-nav{
+  
 }
 #home-feature li.today{
   width:120px;
   height:120px;
   margin: 0 2px;
-  .make-bg-svg(home/feature/calendar-square-today);
+  margin-bottom:-16px;
+  .make-bg-svg('home/feature/star-wars-week/calendar-square-today');
   position: relative;
   .text-shadow;
   @media @mobile{
@@ -216,23 +291,39 @@ a.slide-left-off:hover,a.slide-right-off:hover{
     height:60px;
   }
 }
+#home-feature li.other-day{
+  width:90px;
+  height:90px;
+  margin: 0 2px;
+  .make-bg-svg('home/feature/star-wars-week/calendar-square');
+  position: relative;
+  .text-shadow;
+  @media @mobile{
+    width: 60px;
+    height:60px;
+  }
+}
+/*
 #home-feature li:hover{
   color: #f4efcb;
-  .make-bg-svg('home/feature/calendar-square-over',0,0,no-repeat,rgba(255,255,255,.25));
+  .make-bg-svg('home/feature/star-wars-week/calendar-square-over',0,0,no-repeat,rgba(255,255,255,.25));
   .text-shadow-none;
 }
+*/
 #home-feature li.today:hover{
   background-color: transparent;
   color: @white;
-  .make-bg-svg('home/feature/calendar-square-today-over');
+  .make-bg-svg('home/feature/star-wars-week/calendar-square-today-over');
   .text-shadow-none;
 }
+/*
 #home-feature li.future:hover{
   background-color: transparent;
   color: @white;
-  .make-bg-svg('home/feature/calendar-square-future');
+  .make-bg-svg('home/feature/star-wars-week/calendar-square-future');
   .text-shadow-none;
 }
+*/
 #home-feature  li > a{
   display: block;
   width:100%;
@@ -246,12 +337,12 @@ a.slide-left-off:hover,a.slide-right-off:hover{
 #home-feature li.today span.day{
   font-family: @sans-serif;
   z-index: 1;
-  font-size: 40px;
-  line-height: 40px;
+  font-size: 32px;
+  line-height: 32px;
   font-weight: 700;
   position: absolute;
-  right:25px;
-  top: 25px;
+  right:23px;
+  top: 20px;
   @media @mobile{
     font-size: 20px;
     line-height: 20px;
@@ -311,18 +402,18 @@ a.slide-left-off:hover,a.slide-right-off:hover{
 }
 #home-feature li span.day{
   font-family: @sans-serif;
-  font-size: 40px;
-  line-height: 40px;
+  font-size: 32px;
+  line-height: 32px;
   font-weight: 700;
   position: absolute;
-  right:10px;
-  top: 10px;
+  right:5px;
+  top: 5px;
   z-index: 1;
   .text-shadow;
   @media @mobile{
     font-size: 20px;
     line-height: 20px;
-    right:5px;
+    right:8px;
     top: 5px;
   }
 }
@@ -362,6 +453,26 @@ a.slide-left-off:hover,a.slide-right-off:hover{
   }
 }
 */
+.film-strip{
+  z-index: 15;
+  display: block;
+  width: 150px;
+  height: 150px;
+  //background-image: url('/assets/img/home/custom/2014-silver-stamps/stamp-icon.png');
+  background-size: 150px 150px;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 275px;
+  @media @mobile{
+    width: 100px;
+    height: 100px;
+    top: 100px;
+    background-size: 100px 100px;
+  }
+  @media @large-height{
+    top: 450px;
+  }
+}
 .stamp-outline{
   z-index: 15;
   display: block;
@@ -401,27 +512,46 @@ a.slide-left-off:hover,a.slide-right-off:hover{
 }
 #stamps-title{
   position: absolute;
-  bottom: 75px;
+  bottom: 25px;
   width:100%;
   text-align: center;
-  display: none;
   @media @mobile{
     bottom: 30px;
+  }
+  @media @large-height{
+    top: 620px;
   }
 }
 p.stamps{
   font-family: @sans-serif;
-  font-size: 60px;
+  font-size: 24px;
   line-height: 20px;
   font-weight: 700;
   letter-spacing: -1px;
   color: @white;
-  margin-top: @1px*400;
+  //margin-top: @1px*400;
   margin-bottom: 0;
   .text-shadow;
   @media @mobile{
-    font-size: 32px;
-    line-height: 32px;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: normal;
+  }
+}
+p.stamps:hover, span.home-feature-author:hover{
+  color: #f4efcb;
+}
+span.home-feature-author{
+  font-weight: 400;
+  font-family: @serif;
+  color: #fff;
+  font-size: .875rem;
+  line-height: 1rem;
+  font-style: italic;
+  .text-shadow;
+  @media @mobile{
+    font-size: 16px;
+    line-height: 20px;
     letter-spacing: normal;
   }
 }

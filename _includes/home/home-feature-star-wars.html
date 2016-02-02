@@ -1,0 +1,61 @@
+<div class="mini-top-nav-hidden mm-fixed-top" id="mini-top-nav">
+      <nav class="top-bar">
+        <ul class="title-area">
+          <li class="name dcac-logo" id="nav-toggle"></li>
+        </ul>
+        <section class="top-bar-section">
+          <!-- Right Nav Section -->
+          <ul class="right">
+            <li class="search" id="mini-top-search-toggle"><a href="#" class="mini-search-link"><i class="fa fa-search"></i></a></li>
+          </ul>
+          <ul class="left">
+            {% for post in site.categories['reviews'] limit:1 %}
+            {% assign author = site.data.authors[post.author] %}
+            <li><a href="{{ post.url }}" class="latest-review"><strong>Latest review: </strong><em>{{ post.title }}</em> - Dear {{ post.addressee }}, {{ post.position }}</a></li>
+            {% endfor %}
+          </ul>
+        </section>
+      </nav>
+    </div>
+            <section id="feature-hero-home">
+              <div id="home-feature" class="title-info">
+                <div class="row collapse">
+                    <div class="section-header">
+                        <section class="feature-top-nav" id="feature-top-nav">
+                            <a href="/" class="feature-logo-link"></a>
+                            <ul>
+                                <li><a href="/reviews/" class="nav-text">Reviews</a></li>
+                                <li><a href="/features/" class="slash nav-text">Features</a></li>
+                                <!-- <li><a href="/podcast/">Podcast</a></li> -->
+                                <li><a href="/writers/" class="slash nav-text">Writers</a></li>
+                                <li><a href="#" id="top-search-toggle" class="top-search-toggle slash nav-text"><i class="fa fa-search"></i></a></li>
+                            </ul>
+                        </section>
+                    </div>
+                </div>
+                <div id="home-feature-img" class="home-feature-img" style="background-image: url('/assets/img/home/feature/star-wars-week/7.jpg');"></div>
+              <div class="row collapse">
+                <div class="hero-height-stamps">
+                  <div class="film-strip">
+                    <div id="film-links">
+                      <ul id="sw-films">
+                          <li class="future"><a href="/content/2015/12/15/the-phantom-menace.html"><img src="/assets/img/home/feature/star-wars-week/i-sub.jpg" /><span class="day">I</span></a></li>
+                          <li class="future"><a href="/content/2015/12/16/attack-of-the-clones.html"><img src="/assets/img/home/feature/star-wars-week/ii-sub.jpg" /><span class="day">II</span></a></li>
+                          <li class="future"><a href="/content/2015/12/17/revenge-of-the-sith.html"><img src="/assets/img/home/feature/star-wars-week/iii-sub.jpg" /><span class="day">III</span></a></li>
+                          <li class="future"><a href="/content/2015/12/12/star-wars.html"><img src="/assets/img/home/feature/star-wars-week/iv-sub.jpg" /><span class="day">IV</span></a></li>
+                          <li class="future"><a href="/content/2015/12/13/the-empire-strikes-back.html"><img src="/assets/img/home/feature/star-wars-week/v-sub.jpg" /><span class="day">V</span></a></li>
+                          <li class="future"><a href="/content/2015/12/14/return-of-the-jedi.html"><img src="/assets/img/home/feature/star-wars-week/vi-sub.jpg" /><span class="day">VI</span></a></li>
+                          <li class="today"><a href="/content/2015/12/18/the-force-awakens.html"><img src="/assets/img/home/feature/star-wars-week/vii-sub.jpg" /><span class="day">VII</span></a></li>
+                      </ul>
+                    </div>
+                  </div>
+                  <a href="/content/2015/12/18/the-force-awakens.html">
+                    <div id="stamps-title">
+                      <p class="stamps">Star Wars Week - The Force Awakens<br />
+                        <span class="home-feature-author">By Jared Young</span></p>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </section>

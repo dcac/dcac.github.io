@@ -2,6 +2,7 @@
 published: true
 author: all
 image: ghostbusters-week.jpg
+link_image: ghosts-of-ghostbusters.png
 addressee: Ghostbusters Crew
 excerpt: "They came, they saw, they kicked it’s ass… And then they died. A 10-part series dedicated to the memory of the people who helped make the film a classic.  "
 position: 

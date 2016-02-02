@@ -15,6 +15,7 @@ module Jekyll
         site.config['authors'] = post_key_hash(site, 'author', '/writers/kelany/index.html', 'kelany')
         site.config['authors'] = post_key_hash(site, 'author', '/writers/natm/index.html', 'natm')
         site.config['authors'] = post_key_hash(site, 'author', '/writers/timm/index.html', 'timm')
+        site.config['authors'] = post_key_hash(site, 'author', '/writers/ankitv/index.html', 'ankitv')
       end
   
       ##
