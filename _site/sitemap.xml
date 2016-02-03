@@ -3202,7 +3202,15 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2016/2/1/the-big-short.html</loc>
-        <lastmod>2016-02-01T20:53:54-05:00</lastmod>
+        <lastmod>2016-02-01T23:07:56-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2016/2/2/the-finest-hours.html</loc>
+        <lastmod>2016-02-03T07:40:29-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2016/2/3/the-danish-girl.html</loc>
+        <lastmod>2016-02-03T08:10:21-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
@@ -3243,12 +3251,12 @@
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/jaredy/</loc>
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2016-02-01T20:53:54-05:00</lastmod>
+        <lastmod>2016-02-03T08:10:21-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/features/</loc>
@@ -3299,11 +3307,11 @@
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/features/lists/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/</loc>
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/jaredy/</loc>
+        <loc>http://www.dearcastandcrew.com/features/lists/</loc>
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
     </url>
     <url>
@@ -3319,16 +3327,16 @@
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/about/</loc>
-        <lastmod>2016-01-03T22:23:54-05:00</lastmod>
-    </url>
-    <url>
         <loc>http://www.dearcastandcrew.com/privacy/</loc>
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contact/</loc>
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/about/</loc>
+        <lastmod>2016-01-03T22:23:54-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/insidious-chapter-3-contest.html</loc>
@@ -3359,6 +3367,14 @@
             http://www.dearcastandcrew.com/contests/pride-and-prejudice-and-zombies-contest.html
         </loc>
         <lastmod>2016-01-25T12:10:23-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/contests/race-contest.html</loc>
+        <lastmod>2016-02-03T07:58:27-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/contests/race-premiere-contest.html</loc>
+        <lastmod>2016-02-03T08:03:54-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/southpaw-contest.html</loc>
@@ -3411,5 +3427,9 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/while-were-young-contest.html</loc>
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
+        <lastmod>2016-01-25T13:28:25-05:00</lastmod>
     </url>
 </urlset>
