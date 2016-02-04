@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2016-02-03
 imdb: tt0810819
 image: the-danish-girl.jpg
