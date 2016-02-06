@@ -3,7 +3,7 @@ published: true
 date: 2016-02-03
 imdb: tt0810819
 image: the-danish-girl.jpg
-author: chistopherr
+author: christopherr
 stars: 2.5
 excerpt: ""
 position: "Movement Choreographer"
