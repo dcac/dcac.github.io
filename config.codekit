@@ -2054,17 +2054,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/assets\/img\/posts\/joy.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 28899,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/joy.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/joy.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_site\/assets\/img\/posts\/main\/10-questions-with-randall-william-cook.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2736,6 +2725,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/anomalisa.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 118800,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/anomalisa.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/anomalisa.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/argo.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3121,6 +3121,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/brooklyn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 499734,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/brooklyn.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/brooklyn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/burnt-contest.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3238,6 +3249,17 @@
 		"initialSize": 140142,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/carol.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/carol.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/cartel-land.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32593,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/cartel-land.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/cartel-land.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6850,6 +6872,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/pride-and-prejudice-and-zombies.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95310,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/pride-and-prejudice-and-zombies.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/pride-and-prejudice-and-zombies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/pride-contest.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -6923,6 +6956,28 @@
 		"initialSize": 183376,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/quartet.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/quartet.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/race-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204678,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/race-contest.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/race-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/race-premiere-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 70470,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/race-premiere-contest.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/race-premiere-contest.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -8203,6 +8258,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/the-big-short.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 208275,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-big-short.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-big-short.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/the-birder.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -8445,6 +8511,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/the-danish-girl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 170717,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-danish-girl.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-danish-girl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/the-dark-knight-rises-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -8595,6 +8672,17 @@
 		"initialSize": 99087,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-fifth-estate.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-fifth-estate.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/the-finest-hours.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 212703,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-finest-hours.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-finest-hours.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -11415,6 +11503,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/anomalisa.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9570,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/anomalisa.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/anomalisa.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/argo.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -11789,6 +11888,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/brooklyn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25290,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/brooklyn.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/brooklyn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/brooklyn.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100246,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/brooklyn.png",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/brooklyn.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/byzantium.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -11884,6 +12005,17 @@
 		"initialSize": 10437,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/carol.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/carol.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/cartel-land.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3394,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/cartel-land.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/cartel-land.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15320,6 +15452,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/pride-and-prejudice-and-zombies.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9971,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/pride-and-prejudice-and-zombies.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/pride-and-prejudice-and-zombies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/pride-contest.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -16618,6 +16761,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/the-big-short.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11738,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-big-short.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-big-short.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/the-birder.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -16827,6 +16981,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/the-danish-girl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10946,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-danish-girl.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-danish-girl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/the-dark-knight-rises-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -16966,6 +17131,17 @@
 		"initialSize": 11713,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-fifth-estate.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-fifth-estate.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/the-finest-hours.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8386,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-finest-hours.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-finest-hours.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -19643,6 +19819,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/anomalisa.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25170,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/anomalisa.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/anomalisa.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/argo.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -20017,6 +20204,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/brooklyn.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/brooklyn.jpeg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/brooklyn.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/brooklyn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68960,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/brooklyn.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/brooklyn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/byzantium.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -20112,6 +20321,17 @@
 		"initialSize": 27932,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/carol.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/carol.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/cartel-land.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6605,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/cartel-land.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/cartel-land.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -21300,358 +21520,6 @@
 		"initialSize": 47152,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/godzilla-vs-mothra.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/godzilla-vs-mothra.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/godzilla-week.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 19060,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/godzilla-week.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/godzilla-week.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/godzilla.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 27655,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/godzilla.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/godzilla.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/going-clear-scientology-and-the-prison-of-belief.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 31850,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/going-clear-scientology-and-the-prison-of-belief.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/going-clear-scientology-and-the-prison-of-belief.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/gone-girl.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 27004,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/gone-girl.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/gone-girl.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/good-kill-tiff.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 19248,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/good-kill-tiff.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/good-kill-tiff.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/good-kill.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 47441,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/good-kill.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/good-kill.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/good-ol-freda.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 29888,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/good-ol-freda.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/good-ol-freda.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/goodbye-to-language-3d.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 28963,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/goodbye-to-language-3d.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/goodbye-to-language-3d.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/goon.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 21568,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/goon.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/goon.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/goosebumps.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 12649,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/goosebumps.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/goosebumps.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/grabbers.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 36089,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/grabbers.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/grabbers.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/grace-of-monaco.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 37729,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/grace-of-monaco.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/grace-of-monaco.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/gravity.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 54224,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/gravity.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/gravity.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/grown-ups-2.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 32516,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/grown-ups-2.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/grown-ups-2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/grudge-match.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 33836,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/grudge-match.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/grudge-match.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/guardians-of-the-galaxy.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 39087,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/guardians-of-the-galaxy.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/guardians-of-the-galaxy.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/he-she-under-the-skin.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 12781,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/he-she-under-the-skin.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/he-she-under-the-skin.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/her.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 31989,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/her.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/her.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/hercules-in-new-york.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 45549,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hercules-in-new-york.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hercules-in-new-york.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/hercules.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 38154,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hercules.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hercules.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/here-comes-the-boom.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 29863,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/here-comes-the-boom.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/here-comes-the-boom.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/hit-and-run.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 27818,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hit-and-run.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hit-and-run.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/hitchcock-truffaut.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 19160,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hitchcock-truffaut.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hitchcock-truffaut.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/hitchcock.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 19245,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hitchcock.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hitchcock.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/holy-motors.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 25489,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/holy-motors.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/holy-motors.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/home.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 26096,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/home.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/home.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/hope-springs.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 41887,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hope-springs.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hope-springs.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/horrible-bosses-2.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 31898,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/horrible-bosses-2.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/horrible-bosses-2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/hot-pursuit.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 28285,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hot-pursuit.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hot-pursuit.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/hotel-transylvania.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 30839,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hotel-transylvania.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hotel-transylvania.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/housebound.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 8059,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/housebound.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/housebound.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/assets\/img\/posts\/thumb-600\/how-i-live-now.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 42677,
-		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/how-i-live-now.jpg",
-		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/how-i-live-now.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -23493,6 +23361,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/pride-and-prejudice-and-zombies.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26853,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/pride-and-prejudice-and-zombies.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/pride-and-prejudice-and-zombies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/pride-contest.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -24813,6 +24692,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/the-big-short.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30869,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-big-short.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-big-short.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/the-birder.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -25022,6 +24912,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/the-danish-girl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30806,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-danish-girl.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-danish-girl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/the-dark-knight-rises-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -25161,6 +25062,17 @@
 		"initialSize": 26787,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-fifth-estate.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-fifth-estate.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/the-finest-hours.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22881,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-finest-hours.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-finest-hours.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -34153,6 +34065,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2016\/1\/29\/anomalisa.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/1\/29\/anomalisa.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/1\/29\/cartel-land.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/1\/29\/cartel-land.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2016\/1\/4\/joy.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -34212,6 +34142,51 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2016\/1\/8\/hitchcock-truffaut.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/2\/1\/the-big-short.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/2\/1\/the-big-short.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/2\/2\/the-finest-hours.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/2\/2\/the-finest-hours.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/2\/3\/the-danish-girl.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/2\/3\/the-danish-girl.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/2\/4\/brooklyn.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/2\/4\/brooklyn.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/2\/9\/pride-and-prejudice-and-zombies.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/2\/9\/pride-and-prejudice-and-zombies.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -34347,6 +34322,24 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/contests\/pride-and-prejudice-and-zombies-contest.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/contests\/race-contest.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/contests\/race-contest.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/contests\/race-premiere-contest.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/contests\/race-premiere-contest.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -38893,6 +38886,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/reviews\/current-releases\/page10\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/reviews\/current-releases\/page10\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/reviews\/current-releases\/page2\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -41152,17 +41154,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/posts\/joy.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 28899,
-		"inputAbbreviatedPath": "\/assets\/img\/posts\/joy.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/posts\/joy.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/assets\/img\/posts\/main\/10-questions-with-randall-william-cook.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -41834,6 +41825,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/anomalisa.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 118800,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/anomalisa.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/anomalisa.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/argo.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -42219,6 +42221,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/brooklyn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 499734,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/brooklyn.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/brooklyn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/burnt-contest.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -42336,6 +42349,17 @@
 		"initialSize": 140142,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/carol.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/carol.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/cartel-land.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32593,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/cartel-land.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/cartel-land.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -45948,6 +45972,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/pride-and-prejudice-and-zombies.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95310,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/pride-and-prejudice-and-zombies.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/pride-and-prejudice-and-zombies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/pride-contest.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -46021,6 +46056,28 @@
 		"initialSize": 183376,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/quartet.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/quartet.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/race-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 204678,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/race-contest.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/race-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/race-premiere-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 70470,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/race-premiere-contest.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/race-premiere-contest.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -47301,6 +47358,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/the-big-short.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 208275,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-big-short.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-big-short.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/the-birder.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -47543,6 +47611,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/the-danish-girl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 170717,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-danish-girl.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-danish-girl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/the-dark-knight-rises-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -47693,6 +47772,17 @@
 		"initialSize": 99087,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-fifth-estate.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-fifth-estate.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/the-finest-hours.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 212703,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-finest-hours.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-finest-hours.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -50513,6 +50603,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/anomalisa.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9570,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/anomalisa.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/anomalisa.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/argo.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -50887,6 +50988,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/brooklyn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25290,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/brooklyn.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/brooklyn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/brooklyn.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100246,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/brooklyn.png",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/brooklyn.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/byzantium.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -50982,6 +51105,17 @@
 		"initialSize": 10437,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/carol.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/carol.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/cartel-land.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3394,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/cartel-land.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/cartel-land.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -54418,6 +54552,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/pride-and-prejudice-and-zombies.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9971,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/pride-and-prejudice-and-zombies.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/pride-and-prejudice-and-zombies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/pride-contest.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -55716,6 +55861,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/the-big-short.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11738,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-big-short.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-big-short.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/the-birder.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -55925,6 +56081,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/the-danish-girl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10946,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-danish-girl.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-danish-girl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/the-dark-knight-rises-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -56064,6 +56231,17 @@
 		"initialSize": 11713,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-fifth-estate.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-fifth-estate.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/the-finest-hours.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8386,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-finest-hours.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-finest-hours.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -58741,6 +58919,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/anomalisa.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25170,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/anomalisa.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/anomalisa.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/argo.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -59115,6 +59304,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/brooklyn.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/brooklyn.jpeg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/brooklyn.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/brooklyn.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 68960,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/brooklyn.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/brooklyn.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/byzantium.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -59210,6 +59421,17 @@
 		"initialSize": 27932,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/carol.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/carol.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/cartel-land.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6605,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/cartel-land.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/cartel-land.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -62591,6 +62813,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/pride-and-prejudice-and-zombies.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26853,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/pride-and-prejudice-and-zombies.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/pride-and-prejudice-and-zombies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/pride-contest.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -63911,6 +64144,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/the-big-short.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30869,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-big-short.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-big-short.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/the-birder.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -64120,6 +64364,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/the-danish-girl.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30806,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-danish-girl.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-danish-girl.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/the-dark-knight-rises-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -64259,6 +64514,17 @@
 		"initialSize": 26787,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-fifth-estate.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-fifth-estate.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/the-finest-hours.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22881,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-finest-hours.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-finest-hours.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

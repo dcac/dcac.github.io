@@ -27,7 +27,7 @@ Just as bland cooking is brightened by the adding of spice and seasoning, I have
 
 Alas, whatever bite there may be at the start, the film is rendered toothless by the finish. The incongruous presence of zombie creatures and well-born country girls up to their corsets in gore is an entertaining novelty at first, but becomes repetitive by the halfway point. I fear the boring, marriage-obsessed plot is ultimately not saved even by a whist party that ends in smashed skulls and guests spattered with the viscera of the undead. That being said, I lend my voice in support of introducing zombies to other well-loved period pieces; _Northanger Abbey and Zombies_ would be marvellous. _Downton Abbey and Zombies_ would, in modern parlance, be simply off the hook. 
 
-{%contentfor postscript %}
+{%contentfor signature %}
 **With sincerest regards,**
 
 Nat.

@@ -7,11 +7,25 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Winter On Fire: Ukraine’s Fight for Freedom</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/winter-on-fire-ukraines-fight-for-freedom.jpg" />
+  				<p>Dear Ukrainian Youth, Heroes of &lt;em&gt;Winter On Fire: Ukraine’s Fight for Freedom&lt;/em&gt;, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Tue, 09 Feb 2016 00:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2016/2/9/winter-on-fire-ukraines-fight-for-freedom.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/2/9/winter-on-fire-ukraines-fight-for-freedom.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Pride and Prejudice and Zombies</title>
 				<description>
   				<![CDATA[
   				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/pride-and-prejudice-and-zombies.jpg" />
-  				<p>Dear My Dear Mr. Burr Steers, Writer, <br />
+  				<p>Dear Mr. Burr Steers, Writer, <br />
   				p>
   		    ]]>
 				</description>
@@ -130,20 +144,6 @@
 				<pubDate>Tue, 26 Jan 2016 04:01:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2016/1/26/the-5th-wave.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/1/26/the-5th-wave.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Svengali</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/svengali.jpg" />
-  				<p>Dear Alice Hobden, Focus Puller, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Fri, 22 Jan 2016 00:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2016/1/22/svengali.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/1/22/svengali.html</guid>
 			</item>
 		
 	</channel>
