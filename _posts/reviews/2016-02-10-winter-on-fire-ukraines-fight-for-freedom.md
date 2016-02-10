@@ -1,10 +1,10 @@
 ---
 published: false
-date: 2016-02-09
-imdb: tt1374989
+date: 2016-02-10 9:00:00
+imdb: tt4908644
 image: winter-on-fire-ukraines-fight-for-freedom.jpg
-author: natm
-stars: 2.5
+author: timm
+stars: 4
 excerpt: ""
 position: "Heroes of <em>Winter On Fire: Ukraine’s Fight for Freedom</em>"
 addressee: "Ukrainian Youth"
@@ -15,7 +15,7 @@ categories:
   - current-releases
 title: "Winter On Fire: Ukraine’s Fight for Freedom"
 comments: true
-tags: [zombies,horror,Jane Austen,adaptation,action,period drama,historical]
+tags: [documentary,Ukraine,Russia,politics,war,]
 ---
 Normally I’m suspicious of large groups of pale young people gathering together to subvert what they see as a repressive regime. Too often—in a North American context at least—such an insurgency is embodied by Oberlin college students boycotting the campus cafeteria, because they believe serving General Tso’s chicken is a type of [cultural appropriation](http://www.vanityfair.com/news/2015/12/oberlin-protest-dining-hall-food). 
 

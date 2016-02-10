@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Racing Extinction</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/racing-extinction.jpg" />
+  				<p>Dear Asteroid, Bringer of death, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Wed, 10 Feb 2016 07:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2016/2/10/racing-extinction.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/2/10/racing-extinction.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Winter On Fire: Ukraine’s Fight for Freedom</title>
 				<description>
   				<![CDATA[
@@ -15,9 +29,9 @@
   				p>
   		    ]]>
 				</description>
-				<pubDate>Tue, 09 Feb 2016 00:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2016/2/9/winter-on-fire-ukraines-fight-for-freedom.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/2/9/winter-on-fire-ukraines-fight-for-freedom.html</guid>
+				<pubDate>Wed, 10 Feb 2016 04:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2016/2/10/winter-on-fire-ukraines-fight-for-freedom.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/2/10/winter-on-fire-ukraines-fight-for-freedom.html</guid>
 			</item>
 		
 			<item>
@@ -130,20 +144,6 @@
 				<pubDate>Tue, 26 Jan 2016 17:30:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2016/1/26/tangerine.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/1/26/tangerine.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: The 5th Wave</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/the-5th-wave.jpg" />
-  				<p>Dear Ron Livingston, Supporting Actor, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Tue, 26 Jan 2016 04:01:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2016/1/26/the-5th-wave.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/1/26/the-5th-wave.html</guid>
 			</item>
 		
 	</channel>
