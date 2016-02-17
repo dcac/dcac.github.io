@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Racing Extinction</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/racing-extinction.jpg" />
+  				<p>Dear Asteroid, Bringer of death, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Wed, 17 Feb 2016 07:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2016/2/17/racing-extinction.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/2/17/racing-extinction.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Deadpool</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Fri, 29 Jan 2016 04:45:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2016/1/29/cartel-land.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/1/29/cartel-land.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Tangerine</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/tangerine.jpg" />
-  				<p>Dear Sean Baker, Camera Operator/Director, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Tue, 26 Jan 2016 17:30:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2016/1/26/tangerine.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/1/26/tangerine.html</guid>
 			</item>
 		
 	</channel>
