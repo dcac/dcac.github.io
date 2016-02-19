@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Hail Caesar!</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/hail-caesar.jpg" />
+  				<p>Dear Donna J. Anderson, Hair Stylist, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Fri, 19 Feb 2016 04:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2016/2/19/hail-caesar.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/2/19/hail-caesar.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Racing Extinction</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Fri, 29 Jan 2016 11:45:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2016/1/29/anomalisa.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/1/29/anomalisa.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Cartel Land</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/cartel-land.jpg" />
-  				<p>Dear Daniel Carter, Camera Operator, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Fri, 29 Jan 2016 04:45:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2016/1/29/cartel-land.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/1/29/cartel-land.html</guid>
 			</item>
 		
 	</channel>

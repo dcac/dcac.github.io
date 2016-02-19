@@ -6,7 +6,7 @@ image: racing-extinction.jpg
 author: ankitv
 stars: 5
 excerpt: ""
-position: "Bringer of death"
+position: "Bringer of Death"
 addressee: "Asteroid"
 split_name: false
 layout: review
@@ -23,7 +23,7 @@ That’s a pretty bold claim, but after watching _Racing Extinction_, it’s a h
 
 We’re often quick to dust environmental impact off our shoulders; we see it as a small price to pay for modern luxuries. This is alarming considering not only are we the ones causing another extinction—we’re also the only ones who can stop it. So, unless dolphins finally get tired of our shit and revolt out of the oceans and fix the world, it’s up to us to become aware of our footprint. Which is why I believe everyone should take an hour and twenty minutes of their week to watch _Racing Extinction_. 
 
-We’re not a sudden force of nature. We’re not an improbable cause like you. We’re unconsciously, yet consciously bringing about our end in increments. In the back of our minds, we know all the wrong we’re doing, but we choose to suppress it. For those who do know what we’re doing and choose to accept it, only a handful of them are actually willing to put the first foot forward and make a change. I’m writing this letter but I certainly haven’t done anything of value to save the planet after watching _Racing Extinction—w_hich is awful because _Racing Extinction_ is an excellently crafted documentary. Director Louie Psihoyos does a great job of threading the audience along, informing and shocking along the way. 
+We’re not a sudden force of nature. We’re not an improbable cause like you. We’re unconsciously, yet consciously bringing about our end in increments. In the back of our minds, we know all the wrong we’re doing, but we choose to suppress it. For those who do know what we’re doing and choose to accept it, only a handful of them are actually willing to put the first foot forward and make a change. I’m writing this letter but I certainly haven’t done anything of value to save the planet after watching _Racing Extinction—which is awful because _Racing Extinction_ is an excellently crafted documentary. Director Louie Psihoyos does a great job of threading the audience along, informing and shocking along the way. 
 
 I was forced to take a hard look at myself and society around me, just like _Happy_ and _Zeitgeist: The Movie_ did; two of my favourite documentaries. And in that hard look, I found the lethargic human in me—the one who’s too used to public transportation and pre-cut chicken breast to want to change. 
 
