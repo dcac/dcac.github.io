@@ -2,7 +2,7 @@
 published: false
 date: 2016-02-26 8:00:00
 imdb: tt4284010
-image: what-happened-to-miss-simone.jpg
+image: what-happened-miss-simone.jpg
 author: dig
 stars: 4
 excerpt: ""
@@ -13,15 +13,15 @@ layout: review
 categories: 
   - reviews
   - current-releases
-title: "What Happened to Miss Simone?"
+title: "What Happened, Miss Simone?"
 comments: true
 tags: [documentary,music,jazz,race,racism]
 ---
-When trying to tell the story of someone who was a musical genius, a ground-breaking artist, and an African-American icon, where does one even begin? Nina Simone’s career and personal life had so many ups and downs that it must have been near impossible to choose an appropriate jumping off point for the documentary, _What Happened Miss Simone?_. I’m sure it was especially difficult for you, not just as a producer and an interview subject, but as Nina Simone’s only child. 
+When trying to tell the story of someone who was a musical genius, a ground-breaking artist, and an African-American icon, where does one even begin? Nina Simone’s career and personal life had so many ups and downs that it must have been near impossible to choose an appropriate jumping off point for the documentary, _What Happened, Miss Simone?_. I’m sure it was especially difficult for you, not just as a producer and an interview subject, but as Nina Simone’s only child. 
 
 Like [_Kurt Cobain: Montage of Heck_](http://www.dearcastandcrew.com/content/2015/5/13/kurt-cobain-montage-of-heck.html), this is an unflinching documentary produced by the daughter of its subject. But Kurt’s daughter, Francis Bean Cobain, was almost two when she lost her father, and has had to construct a one-sided relationship with her famous musician parent. You, Lisa, have a lifetime of less than happy memories to inform your relationship with the legend you knew as mom. Kurt Cobain is worshiped as a grunge deity. But your mother’s musical legacy is even more significant. With this film, Nina SImone – the woman and the artist – finally gets the veneration she so richly deserves.
 
-_What Happened Miss Simone?_ begins with footage from the 1968 Montreux Jazz Festival in Switzerland. Your mother walks out to cheers and applause, but seems ill at ease, possibly under the influence of medication, and definitely unsure of herself. She looks offstage, as though she’s waiting to be told what to do. She speaks awkwardly, and stares blankly. It is both utterly compelling and deeply unsettling. But it is a fascinating way to begin to tell the story of a powerful woman who was constantly searching for, but was unable to find, true freedom.
+_What Happened, Miss Simone?_ begins with footage from the 1968 Montreux Jazz Festival in Switzerland. Your mother walks out to cheers and applause, but seems ill at ease, possibly under the influence of medication, and definitely unsure of herself. She looks offstage, as though she’s waiting to be told what to do. She speaks awkwardly, and stares blankly. It is both utterly compelling and deeply unsettling. But it is a fascinating way to begin to tell the story of a powerful woman who was constantly searching for, but was unable to find, true freedom.
 
 You were born into better circumstances than your mother was in 1933. She displayed a talent for classical piano at a very young age in segregated North Carolina, and with the help of wealthy white benefactors, she eventually made her way to the Julliard School of Music in New York City. Only when she was denied acceptance to the Curtis School of Music in Philadelphia did she change her name and pursue a career as a nightclub entertainer in order to support her family. She only began to sing when prompted by a club owner. She rocketed to stardom when she met your father, who became her manager. In fact, the more we learn about your mother, the more it seems her life was shaped largely by the choices made for her by others.
 
