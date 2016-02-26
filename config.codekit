@@ -3561,6 +3561,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/deadpool.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 134867,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/deadpool.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/deadpool.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/dear-robin-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4723,6 +4734,17 @@
 		"initialSize": 211175,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/guardians-of-the-galaxy.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/guardians-of-the-galaxy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/hail-caesar.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 77955,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/hail-caesar.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/hail-caesar.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6982,6 +7004,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/race.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120835,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/race.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/race.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/racing-extinction.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105590,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/racing-extinction.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/racing-extinction.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/red-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -7891,6 +7935,17 @@
 		"initialSize": 160525,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/stories-we-tell.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/stories-we-tell.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/straight-outa-compton.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80668,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/straight-outa-compton.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/straight-outa-compton.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -9853,6 +9908,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/main\/the-witch.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79578,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-witch.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/the-witch.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/main\/the-wolf-of-wall-street.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -10685,6 +10751,17 @@
 		"initialSize": 251078,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/will-a-female-comedian-ever-be-a-movie-star.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/will-a-female-comedian-ever-be-a-movie-star.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/main\/winter-on-fire-ukraines-fight-for-freedom.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 118854,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/winter-on-fire-ukraines-fight-for-freedom.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/main\/winter-on-fire-ukraines-fight-for-freedom.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -12295,6 +12372,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/deadpool.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9160,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/deadpool.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/deadpool.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/dear-robin-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -13391,6 +13479,17 @@
 		"initialSize": 15073,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/guardians-of-the-galaxy.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/guardians-of-the-galaxy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/hail-caesar.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6316,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/hail-caesar.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/hail-caesar.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15540,6 +15639,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/race.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11771,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/race.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/race.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/racing-extinction.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8132,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/racing-extinction.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/racing-extinction.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/red-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -16405,6 +16526,17 @@
 		"initialSize": 14877,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/stories-we-tell.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/stories-we-tell.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/straight-outa-compton.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5799,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/straight-outa-compton.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/straight-outa-compton.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -18246,6 +18378,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/the-witch.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6224,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-witch.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/the-witch.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-300\/the-wolf-of-wall-street.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -19001,6 +19144,17 @@
 		"initialSize": 10803,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/will-a-female-comedian-ever-be-a-movie-star.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/will-a-female-comedian-ever-be-a-movie-star.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-300\/winter-on-fire-ukraines-fight-for-freedom.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10141,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/winter-on-fire-ukraines-fight-for-freedom.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-300\/winter-on-fire-ukraines-fight-for-freedom.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -20611,6 +20765,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/deadpool.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22918,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/deadpool.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/deadpool.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/dear-robin-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -21696,6 +21861,17 @@
 		"initialSize": 39087,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/guardians-of-the-galaxy.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/guardians-of-the-galaxy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/hail-caesar.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14242,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hail-caesar.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/hail-caesar.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -23801,6 +23977,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/race.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30830,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/race.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/race.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/racing-extinction.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23414,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/racing-extinction.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/racing-extinction.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/red-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -24608,7 +24806,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 19712,
+		"initialSize": 17180,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/star-wars.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/star-wars.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -24677,6 +24875,17 @@
 		"initialSize": 36475,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/stories-we-tell.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/stories-we-tell.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/straight-outa-compton.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12618,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/straight-outa-compton.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/straight-outa-compton.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -26529,6 +26738,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/the-witch.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14442,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-witch.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/the-witch.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/assets\/img\/posts\/thumb-600\/the-wolf-of-wall-street.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -27306,6 +27526,17 @@
 		"initialSize": 30214,
 		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/will-a-female-comedian-ever-be-a-movie-star.jpg",
 		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/will-a-female-comedian-ever-be-a-movie-star.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/assets\/img\/posts\/thumb-600\/winter-on-fire-ukraines-fight-for-freedom.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26988,
+		"inputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/winter-on-fire-ukraines-fight-for-freedom.jpg",
+		"outputAbbreviatedPath": "\/_site\/assets\/img\/posts\/thumb-600\/winter-on-fire-ukraines-fight-for-freedom.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -34507,11 +34738,74 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/content\/2016\/2\/10\/winter-on-fire-ukraines-fight-for-freedom.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/2\/10\/winter-on-fire-ukraines-fight-for-freedom.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/2\/12\/deadpool.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/2\/12\/deadpool.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/2\/17\/racing-extinction.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/2\/17\/racing-extinction.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/2\/19\/hail-caesar.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/2\/19\/hail-caesar.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/2\/19\/the-witch.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/2\/19\/the-witch.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/content\/2016\/2\/2\/the-finest-hours.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2016\/2\/2\/the-finest-hours.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/2\/23\/race.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/2\/23\/race.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/content\/2016\/2\/23\/straight-outa-comptopn.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/content\/2016\/2\/23\/straight-outa-comptopn.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -34539,15 +34833,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/content\/2016\/2\/9\/pride-and-prejudice-and-zombies.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/content\/2016\/2\/9\/winter-on-fire-ukraines-fight-for-freedom.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/content\/2016\/2\/9\/winter-on-fire-ukraines-fight-for-freedom.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -39735,6 +40020,168 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
+	"\/_site\/test\/contact.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/test\/contact.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/test\/css\/reset.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/test\/css\/reset.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/test\/css\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/test\/css\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/test\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/test\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/test\/js\/jquery-2.1.4.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/test\/js\/jquery-2.1.4.js",
+		"outputAbbreviatedPath": "\/_site\/test\/js\/min\/jquery-2.1.4-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/test\/js\/main.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/test\/js\/main.js",
+		"outputAbbreviatedPath": "\/_site\/test\/js\/min\/main-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/test\/js\/modernizr.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/test\/js\/modernizr.js",
+		"outputAbbreviatedPath": "\/_site\/test\/js\/min\/modernizr-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/test\/js\/velocity.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/test\/js\/velocity.min.js",
+		"outputAbbreviatedPath": "\/_site\/test\/js\/min\/velocity.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/_site\/test\/partials\/_layout.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/test\/partials\/_layout.scss",
+		"outputAbbreviatedPath": "\/css\/_layout.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/_site\/test\/partials\/_mixins.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/test\/partials\/_mixins.scss",
+		"outputAbbreviatedPath": "\/css\/_mixins.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/_site\/test\/partials\/_variables.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/test\/partials\/_variables.scss",
+		"outputAbbreviatedPath": "\/css\/_variables.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/_site\/test\/projects.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/test\/projects.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/test\/scss\/style.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/test\/scss\/style.scss",
+		"outputAbbreviatedPath": "\/css\/style.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/_site\/test\/services.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/test\/services.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/writers\/ankitv\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -43022,6 +43469,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/deadpool.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 134867,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/deadpool.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/deadpool.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/dear-robin-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -44184,6 +44642,17 @@
 		"initialSize": 211175,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/guardians-of-the-galaxy.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/guardians-of-the-galaxy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/hail-caesar.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 77955,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/hail-caesar.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/hail-caesar.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -46443,6 +46912,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/race.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120835,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/race.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/race.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/racing-extinction.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105590,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/racing-extinction.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/racing-extinction.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/red-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -47352,6 +47843,17 @@
 		"initialSize": 160525,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/stories-we-tell.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/stories-we-tell.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/straight-outta-compton.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80668,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/straight-outta-compton.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/straight-outta-compton.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -49310,6 +49812,17 @@
 		"initialSize": 47006,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-wind-rises.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-wind-rises.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/the-witch.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79578,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-witch.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/the-witch.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -51767,6 +52280,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/deadpool.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9160,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/deadpool.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/deadpool.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/dear-robin-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -52863,6 +53387,17 @@
 		"initialSize": 15073,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/guardians-of-the-galaxy.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/guardians-of-the-galaxy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/hail-caesar.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6316,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/hail-caesar.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/hail-caesar.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -55012,6 +55547,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/race.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11771,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/race.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/race.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/racing-extinction.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8132,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/racing-extinction.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/racing-extinction.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/red-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -55877,6 +56434,17 @@
 		"initialSize": 14877,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/stories-we-tell.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/stories-we-tell.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/straight-outta-compton.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5799,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/straight-outta-compton.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/straight-outta-compton.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -57714,6 +58282,17 @@
 		"initialSize": 20458,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-wind-rises.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-wind-rises.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/the-witch.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6224,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-witch.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/the-witch.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -60094,6 +60673,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/deadpool.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22918,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/deadpool.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/deadpool.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/dear-robin-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -61179,6 +61769,17 @@
 		"initialSize": 39087,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/guardians-of-the-galaxy.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/guardians-of-the-galaxy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/hail-caesar.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14242,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/hail-caesar.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/hail-caesar.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -63284,6 +63885,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/race.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30830,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/race.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/race.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/racing-extinction.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23414,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/racing-extinction.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/racing-extinction.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/red-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -64160,6 +64783,17 @@
 		"initialSize": 36475,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/stories-we-tell.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/stories-we-tell.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/straight-outta-compton.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12618,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/straight-outta-compton.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/straight-outta-compton.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -66008,6 +66642,17 @@
 		"initialSize": 20458,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-wind-rises.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-wind-rises.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/the-witch.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14442,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-witch.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/the-witch.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -70308,7 +70953,7 @@
 		},
 	"\/css\/style.css": {
 		"fileType": 16,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/style.css",
 		"outputAbbreviatedPath": "No Output Path",
@@ -72006,6 +72651,168 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
+		},
+	"\/test\/contact.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/test\/contact.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/test\/css\/reset.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/test\/css\/reset.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/test\/css\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/test\/css\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/test\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/test\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/test\/js\/jquery-2.1.4.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/test\/js\/jquery-2.1.4.js",
+		"outputAbbreviatedPath": "\/test\/js\/min\/jquery-2.1.4-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/test\/js\/main.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/test\/js\/main.js",
+		"outputAbbreviatedPath": "\/test\/js\/min\/main-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/test\/js\/modernizr.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/test\/js\/modernizr.js",
+		"outputAbbreviatedPath": "\/test\/js\/min\/modernizr-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/test\/js\/velocity.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/test\/js\/velocity.min.js",
+		"outputAbbreviatedPath": "\/test\/js\/min\/velocity.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/test\/partials\/_layout.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/test\/partials\/_layout.scss",
+		"outputAbbreviatedPath": "\/css\/_layout.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/test\/partials\/_mixins.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/test\/partials\/_mixins.scss",
+		"outputAbbreviatedPath": "\/css\/_mixins.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/test\/partials\/_variables.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/test\/partials\/_variables.scss",
+		"outputAbbreviatedPath": "\/css\/_variables.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/test\/projects.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/test\/projects.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/test\/scss\/style.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/test\/scss\/style.scss",
+		"outputAbbreviatedPath": "\/css\/style.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/test\/services.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/test\/services.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/vendor\/bLazy\/blazy.min-new.js": {
 		"fileType": 64,
