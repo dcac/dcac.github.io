@@ -1,6 +1,6 @@
 ---
-published: false
-date: 2016-02-26 8:00:00
+published: true
+date: 2016-02-27 8:00:00
 imdb: tt4284010
 image: what-happened-miss-simone.jpg
 author: dig
