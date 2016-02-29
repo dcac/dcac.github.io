@@ -15,7 +15,7 @@ categories:
   - current-releases
 title: "Gods of Egypt"
 comments: true
-tags: [epic,religion,moses,Egypt,controversy,Aloha,Pan, racism]
+tags: [epic,religion,bible,moses,Egypt,controversy,Aloha,Pan, racism]
 ---
 As _Gods of Egypt_ gets torn by critics of all kinds, I hope you’re sitting in a room, preferably a dark room with a glass of scotch and lit cigarette resting next to you. And in this room, I hope you’re contemplating the events in your life that brought you to pitch, fund, cast, and direct what I can only describe as the worst movie of 2016. The fact it’s only February, be damned.
 
