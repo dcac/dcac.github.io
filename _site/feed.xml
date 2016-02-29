@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Gods of Egypt</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/gods-of-egypt.jpg" />
+  				<p>Dear Alex Proyas, Director / Producer, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Mon, 29 Feb 2016 08:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2016/2/29/gods%20of%20egypt.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/2/29/gods%20of%20egypt.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Risen</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Fri, 12 Feb 2016 07:00:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2016/2/12/deadpool.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/2/12/deadpool.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Winter On Fire: Ukraine’s Fight for Freedom</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/winter-on-fire-ukraines-fight-for-freedom.jpg" />
-  				<p>Dear Ukrainian Youth, Heroes of &lt;em&gt;Winter On Fire: Ukraine’s Fight for Freedom&lt;/em&gt;, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Wed, 10 Feb 2016 04:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2016/2/10/winter-on-fire-ukraines-fight-for-freedom.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/2/10/winter-on-fire-ukraines-fight-for-freedom.html</guid>
 			</item>
 		
 	</channel>
