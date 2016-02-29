@@ -27,7 +27,7 @@ _Exodus: Gods and Kings_, another Egyptian epic plagued by white actors was a bo
 
 Racial blunders aside, _Gods of Egypt_ is a plot-hole ridden nightmare. I couldn’t count how many times I leaned over to my girlfriend with a confused look on my face. There are so many egregious attempts at mysticism, I couldn’t tell up from down. The only way I could make sense of anything featured in _Gods of Egypt_ was to start laughing and convince myself that I’m watching a comedy. I was very tempted to walk out but my occupation as a critic sometimes means I have to witness shit. So I stuck through it. 
 
-I witnessed you turn a mythical adventure about gods turn into a space odyssey, complete with flying robots, space vessels and strange, extra-terrestrial beasts—at which point I threw up my hands and said ‘fuck it’. 
+I witnessed you turn a mythical adventure about gods into a space odyssey, complete with flying robots, space vessels and strange, extra-terrestrial beasts—at which point I threw up my hands and said ‘fuck it’. 
 
 How could you let this happen? What compelled you to believe this was a good idea? Were you driven by creativity? Did you want to create something that turned the ‘sword and sandal’ saga on its head? Well, if that was your attempt, you failed. You ended up creating a film infested with banality. I sound surprised, but I shouldn’t be. You only hired Matt Sazama and Burk Sharpless, two of the three writers behind[ _The Last Witch_ _Hunter_](http://www.dearcastandcrew.com/content/2015/11/3/the-last-witch-hunter.html)_—_a gothic cliché of epic proportions. 
 
