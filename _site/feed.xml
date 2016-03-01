@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Shaun the Sheep Movie</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/shaun-the-sheep-movie.jpg" />
+  				<p>Dear Kate Anderson, Puppet Designer, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Tue, 01 Mar 2016 04:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2016/3/1/shaun-the-sheep-movie.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/3/1/shaun-the-sheep-movie.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Gods of Egypt</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Wed, 17 Feb 2016 07:00:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2016/2/17/racing-extinction.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/2/17/racing-extinction.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Deadpool</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/deadpool.jpg" />
-  				<p>Dear Tim Miller, Director, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Fri, 12 Feb 2016 07:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2016/2/12/deadpool.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/2/12/deadpool.html</guid>
 			</item>
 		
 	</channel>
