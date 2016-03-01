@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title> Feature: The Black Mark of the 2016 Oscars</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/the-black-mark-of-the-2016-oscars.jpg" />
+  				<p>Dear Future Black Acting Nominees, <br />
+  				The 88th Academy Awards will go down in history for bluntly and relentlessly addressing the #OscarSoWhite issue. But did Chris Rock help or hurt the cause?p>
+  		    ]]>
+				</description>
+				<pubDate>Tue, 01 Mar 2016 16:30:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2016/3/1/the-black-mark-of-the2016-oscars.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/3/1/the-black-mark-of-the2016-oscars.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Shaun the Sheep Movie</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Fri, 19 Feb 2016 04:00:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2016/2/19/hail-caesar.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/2/19/hail-caesar.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Racing Extinction</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/racing-extinction.jpg" />
-  				<p>Dear Asteroid, Bringer of Death, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Wed, 17 Feb 2016 07:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2016/2/17/racing-extinction.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/2/17/racing-extinction.html</guid>
 			</item>
 		
 	</channel>
