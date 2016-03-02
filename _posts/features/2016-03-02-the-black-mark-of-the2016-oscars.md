@@ -1,7 +1,7 @@
 ---
 layout: feature
 published: true
-date: 2016-03-01 16:30:00:00
+date: 2016-03-02 00:00:00:00
 image: the-black-mark-of-the-2016-oscars.jpg
 title: "The Black Mark of the 2016 Oscars"
 excerpt: "The 88th Academy Awards will go down in history for bluntly and relentlessly addressing the #OscarSoWhite issue. But did Chris Rock help or hurt the cause?"
