@@ -10,21 +10,20 @@ image: allegiant-contest.jpg
 title: "Win a pass to the premiere of The Divergent Series: Allegiant!"
 addressee: 
 ---
-
 **_Dear Initiates,_**
 
 Were you born a winner? There's only one way to find out! We're **giving away passes** to the premiere of **_THE DIVERGENT SERIES: ALLEGIANT_** across Canada in the following cities:
 
-Toronto  
-Vancouver  
-Victoria  
-Calgary  
-Edmonton  
-Winnipeg  
-Ottawa  
-Halifax  
+**Toronto**  
+**Vancouver**  
+**Victoria**  
+**Calgary**  
+**Edmonton**  
+**Winnipeg**  
+**Ottawa**  
+**Halifax**  
 
-Screenings will take place on **Wednesday, Mar. 14**. Enter below for your chance to win.
+Screenings will take place on **Monday, Mar. 14**. Enter below for your chance to win.
 
 Good luck!
 
