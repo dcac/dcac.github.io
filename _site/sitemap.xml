@@ -3273,6 +3273,16 @@
         <lastmod>2016-03-01T06:58:40-05:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://www.dearcastandcrew.com/content/2016/3/2/the-black-mark-of-the-2016-oscars.html
+        </loc>
+        <lastmod>2016-03-02T00:05:53-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2016/3/2/triple-9.html</loc>
+        <lastmod>2016-03-02T00:49:29-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
     </url>
@@ -3290,7 +3300,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/allegiant-contest.html</loc>
-        <lastmod>2016-03-01T23:22:46-05:00</lastmod>
+        <lastmod>2016-03-01T23:32:28-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/black-or-white-contest.html</loc>
@@ -3324,7 +3334,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2016-03-01T06:58:40-05:00</lastmod>
+        <lastmod>2016-03-02T00:49:29-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/features/lists/</loc>
@@ -3495,5 +3505,9 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/while-were-young-contest.html</loc>
         <lastmod>2016-01-03T22:23:56-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
+        <lastmod>2016-02-25T16:55:25-05:00</lastmod>
     </url>
 </urlset>
