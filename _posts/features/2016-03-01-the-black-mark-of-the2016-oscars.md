@@ -1,6 +1,6 @@
 ---
 layout: feature
-published: false
+published: true
 date: 2016-03-01 16:30:00:00
 image: the-black-mark-of-the-2016-oscars.jpg
 title: "The Black Mark of the 2016 Oscars"
