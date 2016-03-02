@@ -7,7 +7,7 @@ title: "The Black Mark of the 2016 Oscars"
 excerpt: "The 88th Academy Awards will go down in history for bluntly and relentlessly addressing the #OscarSoWhite issue. But did Chris Rock help or hurt the cause?"
 essay_subject: false
 author: christopherr
-addressee: "Future Black Acting Nominees"
+addressee: "Future Black Oscar Nominees"
 comments: true
 categories:
   - features
