@@ -14,7 +14,7 @@ categories:
   - on-video
 title: "Olympus Has Fallen"
 comments: true
-tags: [Aaron Eckart, action, composer, Gerard Butler, Letters, president, white house]
+tags: [Aaron Eckart, action, composer, Gerard Butler, Trevor MOrris,president, white house]
 ---
 In junior high, while my peers were awakened by the atonal notes of the early-90s alt-rock movement and the emigration of hip-hop from the inner city to the suburbs, I spent my time at the local record store flipping through the soundtracks bin. James Horner and James Newton Howard were my Pearl Jam and Nirvana. Hans Zimmer's gang of synth-inspired virtuosos were my Wu-Tang Clan. I made mix-tapes that cleverly segued between the militaristic pan flutes from the [opening scene of _Clear and Present Danger_][1] to the [theme from _Con Air_][2] to Basil Poledouris's weirdly brilliant score for the [decidedly unbrilliant Under Siege 2: Dark Territory][3]. Clearly, Trevor, you're likewise an aficionado of action movie musicology.
 
