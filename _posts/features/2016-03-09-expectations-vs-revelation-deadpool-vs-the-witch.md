@@ -14,7 +14,7 @@ categories:
   - essays
 tags: [Deadpool, The Witch, Ryan Reynolds, Marvel, horror,comic books]
 ---
-One of the more interesting bits of culture clash going on these days is the contrast between fan centric entertainments like [_Deadpool_](), and films like [_The Witch_](), [_Crimson Peak_](), or even last years’ [_Under the Skin_]()—films that spring, unasked for, from a singular vision.
+One of the more interesting bits of culture clash going on these days is the contrast between fan centric entertainments like [_Deadpool_](http://www.dearcastandcrew.com/content/2016/2/12/deadpool.html), and films like [_The Witch_](http://www.dearcastandcrew.com/content/2016/2/19/the-witch.html), [_Crimson Peak_](http://www.dearcastandcrew.com/content/2015/11/5/crimson-peak.html), or even last years’ [_Under the Skin_](http://www.dearcastandcrew.com/content/2014/6/11/under-the-skin.html)—films that spring, unasked for, from a singular vision.
 
 It is true that very few people were clamoring for a film like _The Witch_: a historical psychodrama involving puritans, witches and the most talented goat ever to grace the screen. Conversely _Deadpool_ only became more than Ryan Reynolds’ wet dream because its creators were able to convince their studio that a significant audience for their product already existed.
 
