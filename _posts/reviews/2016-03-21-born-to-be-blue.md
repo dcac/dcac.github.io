@@ -15,7 +15,7 @@ categories:
   - current-releases
 title: "Born to be Blue"
 comments: true
-tags: [jazz,EThan Hawke,music,drugs,heroin]
+tags: [jazz,Ethan Hawke,music,drugs,heroin]
 ---
 You never lose, do you? As the most insidious daughter of the poppy, you seem to trump every other consideration: wife, career, teeth, (more on that later). And you do seem to have a particular affinity for Jazz.
 
