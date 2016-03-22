@@ -7,7 +7,7 @@ exclude_from_search: true
 published: true
 imdb: tt2057392
 image: eye-in-the-sky-contest.jpg
-title: Win a pass to see Eyen in the Sky!
+title: Win a pass to see Eye in the Sky!
 addressee: 
 ---
 _**Dear Fans**_,
