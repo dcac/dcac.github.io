@@ -8,7 +8,7 @@ stars: 2
 excerpt: ""
 position: "Key Hair Stylist"
 addressee: "Cheryl Daniels"
-split_name: false
+split_name: TRUE
 layout: review
 categories: 
   - reviews
