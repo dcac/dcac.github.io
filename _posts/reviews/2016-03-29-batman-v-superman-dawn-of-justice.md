@@ -15,7 +15,7 @@ categories:
   - current-releases
 title: "Batman v Superman: Dawn of Justice"
 comments: true
-tags: [Superman,Man of Steele,Zack Snyder,DC,superhero,The Avengers,comics,comic books]
+tags: [Superman,Man of Steel,Zack Snyder,DC,superhero,The Avengers,comics,comic books]
 ---
 Much is being made of your [glum response](https://youtu.be/cwXfv25xJUw) to _Batman v Superman: Dawn of Justice_’s critical beating at the hands of professional film reviewers. As of this writing, it’s [running at 28-percent on Rotten Tomatoes](http://www.rottentomatoes.com/m/batman_v_superman_dawn_of_justice/).
 
