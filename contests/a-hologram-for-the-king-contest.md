@@ -12,7 +12,7 @@ addressee:
 ---
 **_Dear Tom Hanks Fans,_**
 
-This isn't an mirage - we're **giving away free passes** to **_A HOLOGRAM FOR THE KING_**! We have tickets for the exclusive advance screenings **in the following cities**:
+This isn't an mirage - we're **giving away free passes** to **_A HOLOGRAM FOR THE KING_**! We have tickets for the exclusive advance screenings **in the following cities**on **Thursday April 21**:
 
 **Toronto  
 Vancouver**
