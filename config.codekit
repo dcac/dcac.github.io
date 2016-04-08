@@ -43044,6 +43044,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/allegiant.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100739,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/allegiant.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/allegiant.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/aloha.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -43524,6 +43535,17 @@
 		"initialSize": 63717,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/born-to-be-blue-contest.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/born-to-be-blue-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/born-to-be-blue.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75670,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/born-to-be-blue.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/born-to-be-blue.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -44536,6 +44558,17 @@
 		"initialSize": 156462,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/expectations-vs-revelation-deadpool-vs-the-witch.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/expectations-vs-revelation-deadpool-vs-the-witch.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/eye-in-the-sky-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79885,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/eye-in-the-sky-contest.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/eye-in-the-sky-contest.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -52042,6 +52075,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/allegiant.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6640,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/allegiant.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/allegiant.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/aloha.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -52500,6 +52544,17 @@
 		"initialSize": 9358,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/blue-ruin.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/blue-ruin.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/born-to-be-blue.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5439,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/born-to-be-blue.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/born-to-be-blue.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -60556,6 +60611,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/allegiant.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16325,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/allegiant.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/allegiant.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/aloha.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -61025,6 +61091,17 @@
 		"initialSize": 20623,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/blue-ruin.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/blue-ruin.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/born-to-be-blue.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12579,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/born-to-be-blue.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/born-to-be-blue.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
