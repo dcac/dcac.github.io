@@ -13,7 +13,7 @@ categories:
   - on-video
 title: "Vampire Academy"
 comments: true
-tags: [horror, Letters, teen, Vampire Academy]
+tags: [horror, Letters, teen, Vampire Academy,Zoey Deutch]
 ---
 A film with the title '_Vampire Academy'_ is a license to print money. The only other two words likely to get the core demographic this excited might be 'Free Uggs'. You could have written this script on a cocktail napkin, drunk, and it still would have put Lulu Lemon-clad butts in the seats. Unfortunately, you did something even worse. You actually tried to write a vampire movie that didn't suck--and you failed.
 
