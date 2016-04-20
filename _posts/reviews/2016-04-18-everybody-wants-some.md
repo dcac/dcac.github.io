@@ -8,7 +8,7 @@ stars: 4.5
 excerpt: ""
 position: "Casting Director"
 addressee: "Justine Baddeley"
-split_name: false
+split_name: true
 layout: review
 categories: 
   - reviews
