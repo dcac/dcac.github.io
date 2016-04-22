@@ -17,7 +17,7 @@ title: "The Devil's Horn"
 comments: true
 tags: [documentary,music,jazz,saxophone]
 ---
-A documentary like _The Devil’s Horn lives or dies by the quality—and sometimes bizarreness—of its revelations. That this film is engaging as it is has a great deal to do with the sheer amount of strange and often tragic history you managed to unearth about something as seemingly mundane as the Saxophone.
+A documentary like _The Devil’s Horn_ lives or dies by the quality—and sometimes bizarreness—of its revelations. That this film is engaging as it is has a great deal to do with the sheer amount of strange and often tragic history you managed to unearth about something as seemingly mundane as the Saxophone.
 
 _The Devil’s Horn_ is a reference to the notorious behavior that this instrument ostensibly inspires. A particular favorite in Jazz circles, its range and emotional power were seen as almost magical and created an enormous stir within the European musical community when first introduced in the mid-19th century. Disruptive enough that the inventor, a talented but ultimately ill-fated Belgian named Adolphe Sax was the target of failed assassinations, malignant and ill-founded lawsuits, and general character smearing at the hands of many of Europe’s instrument manufactures.
 
