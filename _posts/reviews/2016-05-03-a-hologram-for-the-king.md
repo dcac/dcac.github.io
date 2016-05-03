@@ -4,7 +4,7 @@ date: 2016-05-03 15:00:00
 imdb: tt2980210
 image: a-hologram-for-the-king.jpg
 author: natm
-stars: 4.5
+stars: 4
 excerpt: ""
 addressee: "Jassim al Saady"
 position: "Cultural Advisor / 1st A.D.: Saudi Unit"
