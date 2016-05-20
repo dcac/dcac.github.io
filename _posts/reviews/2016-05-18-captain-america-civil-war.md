@@ -8,7 +8,7 @@ stars: 4
 excerpt: ""
 addressee: "Critical Faculties"
 position: "Wet Blanket"
-split_name: true
+split_name: false
 layout: review
 categories: 
   - reviews
