@@ -4,11 +4,11 @@ layout: contest
 home-display: false
 grid-display: false
 exclude_from_search: true
-published: false
+published: true
 imdb: tt3110958
 image: now-you-see-me-2-contest.jpg
 title: Win a pass to the Advance Screening of Now You See Me 2!
-addressee: Toronto and Vancouver
+addressee: Magic Fans
 excerpt: ""
 comments: false
 categories:
