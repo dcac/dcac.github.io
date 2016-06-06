@@ -32,3 +32,9 @@ Once I started picking up on the cartoon call backs, I was slightly disappointed
 At the end of the day, that’s what anyone wants from an adaption. We just want to make sure you give credit where credit is due and don’t tarnish the memories we have. That’s one area where _Teenage Mutant Ninja Turtles: Out of the Shadows_’ [predecessor](http://www.dearcastandcrew.com/content/2014/8/8/teenage-mutant-ninja-turtles.html) messed up. It was more concerned with bringing another adaption to life than it was with paying homage. The end title sequence that time featured Wiz Khalifa and Juicy J rapping to ‘Shell Shock’, an original song created for the movie. There wasn’t anything fans could grasp onto. It was mainstream music on top of mainstream moviemaking and nothing classic.
 
 There were some aspects of _Teenage Mutant Ninja Turtles: Out of the Shadows_ that I wasn’t too thrilled about, like the cheesy dialogue and the ever emotion-less Megan Fox, but that’s not something you can control. I’m just happy you had the wherewithal to inject that last bit of turtle power and give TMNT the tribute it deserved.
+
+{% contentfor signature %}
+**Cowabunga,**
+
+Ankit
+{% endcontentfor %}
