@@ -15,7 +15,7 @@ categories:
   - current-releases
 title: "Neon Demon"
 comments: true
-tags: [Nicholas Winding Refn,horror,Elle Fanning,Christina Hendricks]
+tags: [Nicholas Winding Refn,horror,Keanu Reeves,Elle Fanning,Christina Hendricks]
 ---
 You were waiting with the rep in the lobby of the multiplex, tall and languid, wearing a perfectly-fitted Chanel dress, red lips perfectly limned. After each critic signed in, you escorted us to the boxy theatre for our screening Of _Neon Demon._ At first it struck me as gauche nonsense. Now though, it seems a bit of genius.
 
