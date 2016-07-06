@@ -17,7 +17,7 @@ title: "Independence Day: Resurgence"
 comments: true
 tags: [Jeff Goldblum,Bill Paxton, aliens,invasion,action,Roland Emmerich]
 ---
-The way Hollywood spends money is a growing matter of contention. I don’t just mean which states and countries get productions based on tax credits and exchange rates, but what _types_ of films get greenlit in the first place. Much has been said about how the middle has fallen out of cinema – you’re either making an independent film for less than $5M and hoping for a modest return, or you’re pumping up a $150M tent-pole production with a P&A budget (prints and advertising)that [doubles down on that investment](). In other words, for every _Independence Day: Resurgence_, the world is getting anywhere from five to 50 _less_ mid- and low-budget films. 
+The way Hollywood spends money is a growing matter of contention. I don’t just mean which states and countries get productions based on tax credits and exchange rates, but what _types_ of films get greenlit in the first place. Much has been said about how the middle has fallen out of cinema – you’re either making an independent film for less than $5M and hoping for a modest return, or you’re pumping up a $150M tent-pole production with a P&A budget (prints and advertising)that [doubles down on that investment](http://www.hollywoodreporter.com/news/200-million-rising-hollywood-struggles-721818). In other words, for every _Independence Day: Resurgence_, the world is getting anywhere from five to 50 _less_ mid- and low-budget films. 
 
 How’s that for an apocalyptic scenario?
 
