@@ -5,7 +5,7 @@ date: 2016-06-15 12:00:00
 image: still-not-over-the-canyon-thelma-and-louise-at-25.jpg
 title: "Still Not Over the Canyon - Thelma and Louise at 25"
 excerpt: "<em>Thelma and Louise</em> should have been a game changer. But it wasn’t. Di Golding explains how, in the last quarter century, so little has changed for women in movies and in real life."
-essay_subject: false
+essay_subject: true
 author: dig
 addressee: "Thelma and Louise"
 comments: true
