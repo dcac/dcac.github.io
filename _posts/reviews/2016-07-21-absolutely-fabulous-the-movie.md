@@ -8,7 +8,7 @@ stars: 2
 excerpt: ""
 addressee: "Early 1990s"
 position: "Sweet Spot"
-split_name: true
+split_name: false
 layout: review
 categories: 
   - reviews
