@@ -15,4 +15,3 @@ categories:
   - essays
 tags: [De Palma,Brian De Palma,Noah Baumbach,Jake Paltrow]
 ---
-TBD.
