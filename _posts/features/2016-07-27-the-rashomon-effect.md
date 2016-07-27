@@ -1,7 +1,7 @@
 ---
 layout: feature
-published: false
-date: 2016-07-27 9:00:00
+published: true
+date: 2016-07-27 13:00:00
 image: the-rashomon-effect.jpg
 title: "My De Palma is Better Than Your De Palma"
 excerpt: "C. Redmond argues that critics need the same rigour and discipline as professional athletes."
