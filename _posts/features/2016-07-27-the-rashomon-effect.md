@@ -4,7 +4,7 @@ published: true
 date: 2016-07-27 10:00:00
 image: the-rashomon-effect.jpg
 title: "The Rashomon Effect"
-excerpt: ""
+excerpt: "Tim McEown finds it both fascinating and crazy frustrating that two people can experience the same film in such entirely different ways."
 essay_subject: true
 author: timm
 addressee: "Jared and Christopher"
@@ -15,8 +15,7 @@ categories:
   - essays
 tags: [De Palma,Brian De Palma,Noah Baumbach,Jake Paltrow]
 ---
-The Rashomon Effect
-
+The Rashomon Effect  
 _The Rashomon effect is contradictory interpretations of the same event by different people. The phrase derives from the film Rashomon, where the accounts of the witnesses, suspects, and victims of a murder and possible rape are all different._
 
 Since I have a little bit more to say about [Jared’s piece](http://www.dearcastandcrew.com/content/2016/7/26/my-de-palma-is-better-than-your-de-palma.html) I’ll start with that, and then I’ll have a run at [Christopher’s take](http://www.dearcastandcrew.com/content/2016/7/27/there-are-two-ways-to-watch-a-film-and-the-other-one-is-wrong.html).
