@@ -1,7 +1,7 @@
 ---
 layout: feature
 published: true
-date: 2016-07-27 9:00:00
+date: 2016-07-27 7:00:00
 image: there-are-two-ways-to-watch-a-film-and-the-other-one-is-wrong.jpg
 title: "There Are Two Ways to Judge a Film. And the Other One is Wrong."
 excerpt: "C. Redmond argues that critics need the same rigour and discipline as professional athletes."
