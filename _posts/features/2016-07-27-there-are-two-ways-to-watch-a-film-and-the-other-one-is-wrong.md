@@ -21,7 +21,7 @@ There are micro conditions (popcorn quality, sleep deprivation, theatre setting)
 
 Our job as critics is not to dive inward and explain why a certain moment at our junior high dance made us feel a certain way about a certain scene. The more you try to decode your subjectivity, the more you abdicate your role as a critic. You become an investigative reporter on your own emotions, and the result (while often pleasant to read) is ultimately only relevant to a single viewing experience. If you’re always interrogating your personal history and circumstances in relation to a film, then you’re still just reacting to films. You’re not being a critic. 
 
-No one is asking you to divorce yourself from your subjectivity (that which makes your perspective unique), but you do have a responsibility to control it. In fact, you _have_ to if you want to build trust with your audience. 
+No one is asking you to divorce yourself from your subjectivity ([that which makes your perspective unique](http://www.dearcastandcrew.com/content/2016/7/26/my-de-palma-is-better-than-your-de-palma.html)), but you do have a responsibility to control it. In fact, you _have_ to if you want to build trust with your audience. 
 
 There’s a reason professional critics are creatures of routine. They usually sit in the same theatre seats, arrive at approximately the same time before a screening, and get used to the hallow of empty press screenings or the over-enthused energy of advance public screenings. Like a professional athlete, you need to learn how to tune out as many distractions as possible. And the more you’re able to do that without losing your talent and energy, the more you become a star. Everything else is bush league.
 
