@@ -2,7 +2,7 @@
 layout: feature
 published: false
 date: 2016-07-27 9:00:00
-image: there-are-two-ways-to-watch-a-film-and-the-other-one-is-wrong.jpg
+image: the-rashomon-effect.jpg
 title: "My De Palma is Better Than Your De Palma"
 excerpt: "C. Redmond argues that critics need the same rigour and discipline as professional athletes."
 essay_subject: true
