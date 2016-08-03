@@ -7,13 +7,13 @@ author: timm
 stars: 3.5
 excerpt: ""
 addressee: "Anton Yelchin"
-position: “Actor”
+position: "Actor"
 split_name: true
 layout: review
 categories: 
   - reviews
   - current-releases
-title: “Star Trek: Beyond”
+title: "Star Trek: Beyond"
 comments: true
 tags: [Star Trek,sci-fi,Chris Pine,Anton Yeltsin,Green Room]
 ---
