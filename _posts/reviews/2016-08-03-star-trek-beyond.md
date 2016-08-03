@@ -15,7 +15,7 @@ categories:
   - current-releases
 title: “Star Trek: Beyond”
 comments: true
-tags: [Star Trek, ci-fi,Chris Pine,Anton Yeltsin,Green Room]
+tags: [Star Trek,sci-fi,Chris Pine,Anton Yeltsin,Green Room]
 ---
 Star Trek has been a pop culture institution for more than fifty years, now. Since its initial television run in 1966, it has been the North Star for legions of nerds and/or geeks. But that love used to come at a cost. For most of that fifty years to admit that you liked Star Trek was akin to claiming comics were a viable art form—more often than not you would be laughed out of the room.
 
