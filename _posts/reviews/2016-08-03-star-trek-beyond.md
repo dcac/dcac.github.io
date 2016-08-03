@@ -1,7 +1,7 @@
 ---
 published: true
 date: 2016-08-03 15:00:00
-imdb: tt3531824
+imdb: tt2660888
 image: star-trek-beyond.jpg
 author: timm
 stars: 3.5
