@@ -12,7 +12,7 @@ categories:
   - reviews
 title: "ParaNorman"
 comments: true
-tags: [Animation, claymation, comedy, Family, Uncategorized]
+tags: [Animation, Laika,claymation, comedy, Family, Uncategorized]
 ---
 I have to admit, I was surprised. In this post-_Toy Story _world, where computer animation has become the expected norm, you can forgive one for becoming slightly normalized to the unceasing advances of technology. Every new animated movie seems to come accompanied by new innovations in realism: hair, clothes, even fingerprints. So I was surprised to still marvel at just how tangible everything looked, and felt, in _ParaNorman_.
 

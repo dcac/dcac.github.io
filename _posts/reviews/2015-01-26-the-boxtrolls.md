@@ -15,6 +15,7 @@ position: "Transvestite"
 split_name: false
 tags: 
   - Ben kinghsley
+  - Laika
   - animation
   - Paranorman
   - Oscars
