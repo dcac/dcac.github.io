@@ -45,6 +45,22 @@ layout: default
             {% assign author-sig = page.author %}{{ content | replace_first: '<p>','<p class="intro">' }}
             {% if author.bio %}{% include signature.html %}{% endif %}
             {% contentblock postscript %}
+            {% if page.amazon_link %}
+            <style>
+			.amazon-link{
+			margin-top:25px;width:100%;background-color:#e5e5e5;padding:10px;
+			}
+			.amazon-link:hover{
+			background-color: #d9d9d9;
+			}
+			</style>         
+			<a style="color:#000000;" href="{{ page.amazon_link }}" target="_blank">
+			  <div class="amazon-link">
+			    <p style="line-height:8px;size:8px;font-variant: small-caps;font-family:'Helvetica Neue';text-align:right;color:#999999;margin:0;">advertisement</p>
+			    <p style="font-size:1rem;text-align:center;font-family:'Helvetica Neue';font-weight:800;line-height:1rem;padding:0;margin:0;">{{ page.amazon_text }}</p>
+		      </div>
+			</a>
+            {% endif %}
             {% if page.categories contains "series" %}
               {% for post in site.categories['series-index'] %}
               {% if post.series-name == page.series-name %}
