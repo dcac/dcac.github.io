@@ -15,8 +15,8 @@ categories:
   - current-releases
 title: "Bridget Jones's Baby"
 comments: true
-amazon_link: 
-amazon_text: 
+amazon_link: "https://www.amazon.com/gp/product/B0047ZKDP6/ref=as_li_tl?ie=UTF8&tag=decacr0c-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0047ZKDP6&linkId=d75e11348045e4935841d30592748dea"
+amazon_text: "Why can't Bridget Jones just listen to this album?"
 tags: [comedy, Renée Zellweger,Colin Firth,British]
 ---
 As a woman who is child-free by choice, I doubt our paths will ever cross. Professionally, at least—I decided long ago that my ovaries would just be for show. I suppose I view motherhood the same way I view the _Bridget Jones_ series: some women seem to enjoy it but I just don’t understand what all the fuss is about. 
