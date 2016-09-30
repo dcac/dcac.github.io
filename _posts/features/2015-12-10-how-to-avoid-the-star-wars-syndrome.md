@@ -14,6 +14,8 @@ categories:
   - series
 series-name: star-wars-week
 series-title: "Star Wars Week"
+amazon_link: "https://www.amazon.com/gp/product/B019H2M3U6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019H2M3U6&linkCode=as2&tag=decacr0c-20&linkId=1def899d93c553ccc6610f54e58003d0"
+amazon_text: "Get another take on Star Wars family values."
 tags: [Star Wars, science fiction,sci-fi,George Lucas, J.J. Abrams, mythology]
 ---
 In the Star Wars universe, it’s called manifest destiny. But on this planet, it’s just lazy storytelling.

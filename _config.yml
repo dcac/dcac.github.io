@@ -44,6 +44,8 @@ defaults:
       custom-header: false
       essay_subject: false
       link_image: false
+      amazon_link: false
+      amazon_text: false
 
 sitemap:
     file: "/sitemap.xml"
