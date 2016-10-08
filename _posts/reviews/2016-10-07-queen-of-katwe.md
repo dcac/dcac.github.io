@@ -1,7 +1,7 @@
 ---
 published: true
 date: 2016-10-07 23:00:00
-imdb: tt1860357
+imdb: tt4341582
 image: queen-of-katwe.jpg
 author: ankitv
 stars: 2.5
