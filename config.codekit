@@ -46127,6 +46127,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/main\/american-honey-contest.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55242,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/american-honey-contest.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/american-honey-contest.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/main\/american-hustle.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -47267,6 +47278,17 @@
 		"initialSize": 110452,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/dear-robin-5.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/dear-robin-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/deepwater-horizon.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130929,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/deepwater-horizon.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/deepwater-horizon.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -51029,6 +51051,17 @@
 		"initialSize": 183376,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/quartet.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/quartet.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/main\/queen-of-katwe.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 102048,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/main\/queen-of-katwe.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/main\/queen-of-katwe.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -56929,6 +56962,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-300\/deepwater-horizon.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8354,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/deepwater-horizon.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/deepwater-horizon.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-300\/deliver-us-from-evil.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -60544,6 +60588,17 @@
 		"initialSize": 16274,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/quartet.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/quartet.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-300\/queen-of-katwe.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10942,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/queen-of-katwe.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-300\/queen-of-katwe.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -66191,6 +66246,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/posts\/thumb-600\/deepwater-horizon.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19733,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/deepwater-horizon.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/deepwater-horizon.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/posts\/thumb-600\/deliver-us-from-evil.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -69751,6 +69817,17 @@
 		"initialSize": 37578,
 		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/quartet.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/quartet.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/posts\/thumb-600\/queen-of-katwe.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27168,
+		"inputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/queen-of-katwe.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/posts\/thumb-600\/queen-of-katwe.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

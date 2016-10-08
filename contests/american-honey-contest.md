@@ -11,6 +11,8 @@ title: Win a pass to the Advance Screening of American Honey!
 addressee: Fans
 excerpt: ""
 comments: false
+amazon_link: "http://amzn.to/2dGSgzK"
+amazon_text: "You thought American Honey was going to be about this, didn't you?"
 categories:
   - contests
 tags: [drama,road,Shia LaBeouf,TIFF]

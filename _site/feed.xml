@@ -7,6 +7,34 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Queen of Katwe</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/queen-of-katwe.jpg" />
+  				<p>Dear Eniola Dawodu, Assistant Costume Designer, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Fri, 07 Oct 2016 19:00:00 -0400</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2016/10/7/queen-of-katwe.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/10/7/queen-of-katwe.html</guid>
+			</item>
+		
+			<item>
+				<title>Review: Deepwater Horizon</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/deepwater-horizon.jpg" />
+  				<p>Dear Guy Barnes, Clean Up Artist, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Thu, 06 Oct 2016 11:45:00 -0400</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2016/10/6/deepwater-horizon.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/10/6/deepwater-horizon.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Denial</title>
 				<description>
   				<![CDATA[
@@ -16,8 +44,8 @@
   		    ]]>
 				</description>
 				<pubDate>Mon, 03 Oct 2016 05:30:00 -0400</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2016/10/3/snowden.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/10/3/snowden.html</guid>
+				<link>http://www.dearcastandcrew.com/content/2016/10/3/denial.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/10/3/denial.html</guid>
 			</item>
 		
 			<item>
@@ -63,6 +91,20 @@
 			</item>
 		
 			<item>
+				<title>Review: Snowden</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/snowden.jpg" />
+  				<p>Dear Mateusz Szczesniak, Data Wrangler, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Fri, 23 Sep 2016 04:45:00 -0400</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2016/9/23/snowden.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/9/23/snowden.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Bridget Jones&#39;s Baby</title>
 				<description>
   				<![CDATA[
@@ -102,48 +144,6 @@
 				<pubDate>Fri, 09 Sep 2016 03:15:00 -0400</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2016/9/9/sully.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/9/9/sully.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Hunt for the Wilderpeople</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/hunt-for-the-wilderpeople.jpg" />
-  				<p>Dear Tony Monk, Helicopter Camera Pilot, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Wed, 07 Sep 2016 10:30:00 -0400</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2016/9/7/hunt-for-the-wilderpeople.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/9/7/hunt-for-the-wilderpeople.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Morgan</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/morgan.jpg" />
-  				<p>Dear Rob Lock, Fight Trainer, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Wed, 31 Aug 2016 07:20:00 -0400</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2016/8/31/morgan.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/8/31/morgan.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Don&#39;t Breathe</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/dont-breathe.jpg" />
-  				<p>Dear Christopher Bonis, Sound Editor, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Mon, 29 Aug 2016 09:00:00 -0400</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2016/8/29/dont-breathe.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2016/8/29/dont-breathe.html</guid>
 			</item>
 		
 	</channel>
