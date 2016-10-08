@@ -4,7 +4,7 @@ date: 2016-10-07 23:00:00
 imdb: tt4341582
 image: queen-of-katwe.jpg
 author: ankitv
-stars: 2.5
+stars: 4.5
 excerpt: ""
 addressee: "Eniola Dawodu"
 position: "Assistant Costume Designer"
