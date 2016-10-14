@@ -13,7 +13,7 @@ layout: review
 categories: 
   - reviews
   - current-releases
-title: "Denial"
+title: "The Girl on the Train"
 comments: true
 tags: [Emily Blunt,adaptation,drama,Gone Girl]
 ---

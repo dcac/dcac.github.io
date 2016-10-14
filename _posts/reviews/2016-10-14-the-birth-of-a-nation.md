@@ -13,7 +13,7 @@ layout: review
 categories: 
   - reviews
   - current-releases
-title: "Denial"
+title: "The Birth of a Nation"
 comments: true
 tags: [Nate Parker,historical,racism,controversy]
 ---
