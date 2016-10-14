@@ -15,6 +15,8 @@ categories:
   - current-releases
 title: "The Girl on the Train"
 comments: true
+amazon_link: "http://amzn.to/2dPEQ6m"
+amazon_text: "Now YOU can be the Girl on the Train with this!"
 tags: [Emily Blunt,adaptation,drama,Gone Girl]
 ---
 I’ve praised the [minimal makeup](http://www.dearcastandcrew.com/content/2015/1/4/wild.html) look here before, if [not the film](http://www.dearcastandcrew.com/content/2015/11/26/secret-in-their-eyes.html) it came from. Just because a role requires an actor to look worn out and undone doesn’t mean that your job is any less challenging than having a lead who needs to spend hours in your chair. And just because a film looks really, really pretty doesn’t mean it has any substance below the surface.

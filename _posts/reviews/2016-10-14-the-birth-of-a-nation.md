@@ -15,6 +15,8 @@ categories:
   - current-releases
 title: "The Birth of a Nation"
 comments: true
+amazon_link: "http://amzn.to/2efK0H2"
+amazon_text: "Think version of Nat Turner's story is graphic? Check this out."
 tags: [Nate Parker,historical,racism,controversy]
 ---
 I feel like everyone dissected and discussed _The Birth of a Nation_ half to death long before most of us even saw it. 
