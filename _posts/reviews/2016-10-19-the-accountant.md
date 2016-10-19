@@ -16,7 +16,7 @@ categories:
 title: "The Accountant"
 comments: true
 amazon_link: "http://amzn.to/2el1qCi"
-amazon_text: "You can be damn sure The Accountant files his tax returns with this sexy."
+amazon_text: "You can be damn sure The Accountant files his tax returns with this sexy accessory."
 tags: [Ben Affleck,Anna Kendrick,action,thriller, Jack Reacher, John Wick]
 ---
 It’s been a while since an accountant has played the role of hero in Hollywood, hasn’t it? They had a good run in the early 90s, with characters like Andy Dufresne in _The Shawshank Redemption_, Itzhak Stern in _Schindler’s List_, and the shotgun-toting G-man Oscar Wallace in _The Untouchables_. But since then, money men are usually portrayed as greasy stock brokers and scummy drug launderers. Not today, though. Not _your_ accountant; not _The Accountant_. He’s a man who can balance books and settle scores without breaking a sweat. He crunches numbers and bones with the same cold, calculated precision. 
