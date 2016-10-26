@@ -15,8 +15,8 @@ categories:
   - Netflix
 title: "Keeping Up with the Joneses"
 comments: true
-amazon_link: "http://amzn.to/2dFl8N3"
-amazon_text: "If only everyone had this in the face of sexual assault."
+amazon_link: "http://amzn.to/2f73W2G"
+amazon_text: "Who are the Joneses anyway? If only there was a  book on the subject..."
 tags: [Jon Hamm,Zach Galifianakis,Isla Fisher,comedy]
 ---
 Trying to create the kind of onscreen rapport necessary to make a comedy work can be a complicated task, especially when half your movie depends on people that are not known as comedic actors.
