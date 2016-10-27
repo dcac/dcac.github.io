@@ -1,6 +1,6 @@
 ---
 published: true
-date: 2016-10-25 08:45:00
+date: 2016-10-26 08:45:00
 imdb: tt2387499
 image: keeping-up-with-the-joneses.jpg
 author: timm
@@ -12,7 +12,7 @@ split_name: true
 layout: review
 categories: 
   - reviews
-  - Netflix
+  - current-releases
 title: "Keeping Up with the Joneses"
 comments: true
 amazon_link: "http://amzn.to/2f73W2G"
