@@ -15,8 +15,8 @@ categories:
   - current-releases
 title: "Jack Reacher: Never Go Back"
 comments: true
-amazon_link: "http://amzn.to/2f73W2G"
-amazon_text: "Who are the Joneses anyway? If only there was a  book on the subject..."
+amazon_link: "http://amzn.to/2dP9Lw0"
+amazon_text: "Jack Reacher never goes back... unless he's buying one of these."
 tags: [Tom Cruise,Jack Reacher,Cobie Smulders,action,military]
 ---
 Your job is the cornerstone to the action genre. Pyrotechnics in shoot ‘em ups are what laser beams are to sci-fi epics. They’re a tried and true method that became established in the 80’s and 90’s – a time when baggy denim jeans and long, grungy hair were all the rage. Given that _Jack Reacher: Never Go Back_ takes every 90’s action movie staple and formats it into a 2016 screen, your responsibilities represent the ultimate throwback to fans of the genre.
