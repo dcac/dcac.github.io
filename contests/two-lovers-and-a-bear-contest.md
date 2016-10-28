@@ -23,8 +23,8 @@ This is your chance to **win exclusive tickets** to a **red carpet screening** o
 
 **To enter, there are TWO STEPS:**
 
-1) Follow [@CdnMovieNightson Twitter](https://twitter.com/CdnMovieNights) **or** [Like their page on Facebook](https://www.facebook.com/CdnMovieNights/)
-2) Enter below for your chance to win
+**1)** Follow [@CdnMovieNightson Twitter](https://twitter.com/CdnMovieNights) **or** [Like their page on Facebook](https://www.facebook.com/CdnMovieNights/)  
+**2)** Enter below for your chance to win
 
 Good luck! 
 
