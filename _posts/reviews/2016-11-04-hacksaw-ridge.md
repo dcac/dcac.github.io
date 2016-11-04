@@ -15,7 +15,9 @@ categories:
   - current-releases
 title: "Hacksaw Ridge"
 comments: true
-tags: [Mel Gibson,World War 2,war,action,drama,WWII]
+amazon_link: "http://amzn.to/2fCickz"
+amazon_text: "Here's a safe gift for the pyromaniac in your life..."
+tags: [Mel Gibson,World War 2,Andrew Garfield,war,action,drama,WWII]
 ---
 If you look up overwrought in the dictionary I’m pretty sure Mel Gibson will reach up from the page and punch you.
 
