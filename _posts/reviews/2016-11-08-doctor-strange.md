@@ -15,9 +15,9 @@ categories:
   - current-releases
 title: "Doctor Strange"
 comments: true
-amazon_link: "http://amzn.to/2fCickz"
-amazon_text: "Here's a safe gift for the pyromaniac in your life..."
-tags: [Marvel,Benedict Cumberbatch,comics,Madds Mikkelsen,action,magic, Tilda Swinton,Chiwetel Ejiofor]
+amazon_link: "http://amzn.to/2gkw3eI"
+amazon_text: "Try on the Eye of Agamotto yourself - strange things could happen!"
+tags: [Marvel,Benedict Cumberbatch,comics,Madds Mikkelsen,action,magic,Tilda Swinton,Chiwetel Ejiofor]
 ---
 There’s an interesting line in the first act of Marvel’s latest blockbuster, delivered by a character named The Ancient One (whose ancientness and oneness with the universe are pretty convincingly embodied by an even paler-than-usual Tilda Swinton), in which she compares the casting of spells to the writing of computer code. To paraphrase: the universe has rules, and those rules are determined by a programming language; learn to speak that language, and you can bend – and even change – those rules. 
 
