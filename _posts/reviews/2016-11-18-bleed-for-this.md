@@ -4,7 +4,7 @@ date: 2016-11-18 08:00:00
 imdb: tt1620935
 image: bleed-for-this.jpg
 author: timm
-stars: 5
+stars: 3.5
 excerpt: ""
 addressee: "Goro Koyama"
 position: "Foley Artist"
