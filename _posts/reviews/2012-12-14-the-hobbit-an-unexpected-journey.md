@@ -13,7 +13,7 @@ categories:
   - on-video
 title: "The Hobbit: An Unexpected Journey"
 comments: true
-tags: [adventure, andy seriks, fantasy, ian mckellan, Letters, Lord of the Rings, peter jackson, the hobit]
+tags: [adventure, andy seriks, fantasy, ian mckellan, Letters, Lord of the Rings, peter jackson, the hobbit,high framerate]
 ---
 I know, I know: it seems like I should write this letter to a member of the camera team, not someone from the editorial department. _The Hobbit: An Unexpected Journey_'s use of high frame-rate photography--capturing images at 48 frames per second rather than the traditional 24--has generated almost as much pre-release buzz as Peter Jackson's return to Middle Earth itself.
 
