@@ -14,6 +14,8 @@ categories:
   - reviews
   - current-releases
 title: "Billy Lynn's Long Halftime Walk"
+amazon_link: "http://amzn.to/2gCVglp"
+amazon_text: "Top rated U.S. Army boots for long halftime walks and Iraqi field patrols."
 comments: true
 tags: [Ang Lee,war,Iraq,politics,football,high framerate]
 ---
