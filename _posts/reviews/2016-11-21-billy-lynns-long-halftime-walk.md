@@ -15,7 +15,7 @@ categories:
   - current-releases
 title: "Billy Lynn's Long Halftime Walk"
 comments: true
-tags: [Ang Lee,war,Iraq,politics,football,high framerate]
+tags: [Ang Lee,war,Iraq,politics,football,high framerate,cheerleaders]
 ---
 While mulling over _Billy Lynn’s Long Halftime Walk_, the word ‘choreographed’ kept popping into my head. It made me think back to the dance lessons I took when I was a kid. When learning a routine, there was always a point at which I had performed the steps so many times I was dancing on autopilot, no longer thinking about what I was doing nor putting all that much care into it, just as long as I got it right enough that my teacher wouldn’t give me a hard time. The characters in Ang Lee’s film seem bound to a sort of choreography in much the same way; be it the soldiers on a PR tour, or the public that can’t thank them enough for their sacrifices. 
 
