@@ -14,6 +14,8 @@ categories:
   - reviews
   - current-releases
 title: "American Honey"
+amazon_link: "http://amzn.to/2h7ilcG"
+amazon_text: "Looking for an even sweeter American honey?"
 comments: true
 tags: [Shia Leboeuf,independent,drama,romance]
 ---
