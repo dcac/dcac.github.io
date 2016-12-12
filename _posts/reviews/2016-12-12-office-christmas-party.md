@@ -14,7 +14,7 @@ categories:
   - reviews
   - current-releases
 title: "Office Christmas Party"
-amazon_link: "http://amzn.to/2hrFM3z""
+amazon_link: "http://amzn.to/2hrFM3z"
 amazon_text: "Offend your co-workers at your upcoming Christmas party with this raunchy sweater."
 comments: true
 tags: [Jason Bateman,Jennifer Aniston,Olivia Munn,T.J. Miller,comedy]
