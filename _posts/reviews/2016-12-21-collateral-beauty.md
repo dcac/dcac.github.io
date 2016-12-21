@@ -35,3 +35,6 @@ This isn’t a bad Christmas movie the way _Jingle All the Way_ is bad. It’s b
 
 This is the part of the letter when I typically justify my reasons for writing to the chosen addressee, and wrap up my premise with a tight little bow. Well, fuck that. This movie doesn’t deserve my wit. It doesn’t even deserve my smarm. This movie is the worst kind of pandering pap. It is garbage psycho-babble masquerading as pop-philosophy, set in a Pottery Barn. Your domino set ups were cool. They were the best part of the movie, even though they were completely superfluous and had nothing to do with the plot. People should save their money and watch your [Youtube videos](https://www.youtube.com/watch?v=lo6x4eulY9g) instead.
 
+{% contentfor postscript %}
+P.S. Half a star because I liked Helen Mirren’s coat.
+{% endcontentfor %}
