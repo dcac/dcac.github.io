@@ -6,8 +6,8 @@ image: rogue-one-a-star-wars-story.jpg
 author: jaredy
 stars: 3
 excerpt: ""
-addressee: "Composer"
-position: "Michael Giacchnino"
+addressee: "Michael Giacchnino"
+position: "Composer"
 split_name: true
 layout: review
 categories: 
