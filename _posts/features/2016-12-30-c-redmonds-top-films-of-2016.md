@@ -20,16 +20,16 @@ It all comes down to this! Over the past 12 months, I do my best to see as many 
 Let’s get judgey!
 
 **Top 10 Films of 2016**  
-1. Swiss Army Man
-1. The Witch
-1. The Lobster
-1. La La Land
-1. Green Room
-1. American Honey
-1. Edge of Seventeen
-1. The Handmaiden
-1. Moonlight
-1. The Brothers Grimsby
+1. Swiss Army Man   
+2. The Witch  
+3. The Lobster  
+4. La La Land  
+5. Green Room  
+6. American Honey  
+7. Edge of Seventeen  
+8. The Handmaiden  
+9. Moonlight  
+10.	The Brothers Grimsby
 
 **Better Than They Needed to Be**  
 Nerve  
