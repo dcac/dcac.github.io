@@ -3,7 +3,7 @@ published: true
 date: 2017-01-06 09:45:00
 imdb: tt2582782
 image: hell-or-high-water.jpg
-author: fig
+author: dig
 stars: 4
 excerpt: ""
 addressee: "Loyd Catlett"
