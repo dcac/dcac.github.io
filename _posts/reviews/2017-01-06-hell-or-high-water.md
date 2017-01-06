@@ -15,7 +15,7 @@ categories:
   - current-releases
 title: "Hell or High Water"
 comments: true
-tags: [Hailee Steinfeld,Woody Harrelson,teen,drama]
+tags: [Jeff Bridges,Chris Pine,Taylor Sheridan,western,crime]
 ---
 You’re listed as Stunt Utility, but everyone knows you’re Jeff Bridges’ double. Well maybe not _everyone_.  But [obsessive Jeff fans like me](http://www.dearcastandcrew.com/content/2014/8/21/the-giver.html) are used to seeing your name in the credits of his films. You have been Jeff’s double on more than sixty movies. When Jeff swept the awards season in 2009/10 for _Crazy Heart_ he thanked you, often. Circumstance may have brought you two together but you are more than co-workers, more than partners. You’re brothers. And sometimes the bonds of brotherhood are both a blessing and a curse.
 
