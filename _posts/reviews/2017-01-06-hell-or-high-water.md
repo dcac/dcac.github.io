@@ -13,7 +13,7 @@ layout: review
 categories: 
   - reviews
   - current-releases
-title: "Hell Oor Hight Water"
+title: "Hell or High Water"
 comments: true
 tags: [Hailee Steinfeld,Woody Harrelson,teen,drama]
 ---
