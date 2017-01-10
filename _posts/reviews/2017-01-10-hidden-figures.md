@@ -2,7 +2,7 @@
 published: true
 date: 2017-01-10 9:00:00
 imdb: tt4846340
-image: Hidden Figures.jpg
+image: hidden-figures.jpg
 author: timm
 stars: 3
 excerpt: ""
