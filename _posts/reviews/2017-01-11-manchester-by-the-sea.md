@@ -1,0 +1,38 @@
+---
+published: true
+date: 2017-01-11 16:00:00
+imdb: tt4034228
+image: manchester-by-the-sea.jpg
+author: jaredy
+stars: 5
+excerpt: ""
+addressee: "Jennifer Lame"
+position: "Editor"
+split_name: true
+layout: review
+categories: 
+  - reviews
+  - current-releases
+title: "Manchester by the Sea"
+comments: true
+tags: [Casey Affleck,drama,Kenneth Lonergan,Michelle Williams]
+---
+There is much magic to be found in Kenneth Lonergan’s latest film. It’s a story of grief and reckoning and the radical life moments that change everything despite the fact that nothing seems to change (or maybe it’s the other way around: things remain the same, even though that sameness feels radically different). Such contradictions are the lifeblood of Lonergan’s worldview, and they are particularly evident in _Manchester By the Sea_. It is devastating and hilarious; the characters are loathsome and lovable; the pace at which the story plays out is, at once, languid and breathless. 
+
+This last bit of magic is yours. I can’t recall a film that lingers so purposefully, regards its characters with such unblinking intensity, is so patient with its dramatic beats yet unfolds with such unrelenting speed. Years pass in the course of minutes; minutes drag on (often painfully) in real-time. This compression and protraction of time is stupendously crafted—and that’s just the big-picture view; within that framework, there are individual cuts that are totally delightful: I smiled, there in the theatre, at one particular transition from scene to scene. Where other directors might cut away after a climactic moment – a revelation, a confrontation, some resolute final statement – you and Lonergan choose to loiter. You force the audience to gawk. 
+
+Lee, our cloistered blue-collar hero, played stupendously by Casey Affleck, arrives at a hospital to discover his brother has died. But instead of moving on after this news has been delivered, we get his reaction; we see him swim through the initial shock, then begin to consider the logistics: who to call next; how to begin arranging a funeral; what exactly to do with the body. We learn, in this superfluous moment, significantly more about his character than any bit of exposition or dialogue could possibly reveal.
+
+Later, Lee must share this news with his brother’s son. This exchange occurs in the middle of a hockey practice, and you cut back and forth between a long shot of the boy talking to his uncle and a rubbernecking crowd of teenage players. Traditionally, we’d be up close, hear the words spoken, get a reaction and then you’d cut away. Instead, you keep us in the moment. We watch, from afar, as the boy absorbs the news; we watch him skate back to his friends, who, in an unexpected moment of tenderness, embrace him the way that teenage boys embrace, with half a hug, a pat on the back, a hand on the back of the neck. That small interaction, which in any other film would have been lost, is so genuine and true it seems impossible that it wasn’t improvised. It’s the stuff of a documentary. It suspends our disbelief at impossible heights. How could anyone fabricate a moment like that? It’s too perfectly imperfect to be the conceit of a filmmaker. But, of course, it is. _Manchester By_ _the Sea_ is replete with these small/big moments. 
+
+Like my other favourite film of 2016, _Arrival_, this one treats the passage of time as a malleable substance. The revelatory sequence that occurs in the middle of the film plays out over the span of, oh, maybe a minute—though, in screen time, it might be close to twenty. It would be a disservice to call it a flashback, because the way you weave the two scenes together – one of which, yes, occurs years before – so viscerally evokes the way autobiographical memory works in the interior of our heads that it feels like an entirely new method of visual storytelling.  
+
+Lee is sitting in a chair, in a lawyer’s office, and has just learned that he has been named legal guardian to his nephew. In the thirty seconds or so that it takes him to comprehend this news, we learn his entire backstory. Again, here, a tragic thing happens. Something so horrific, in fact, that to omit any details in describing it feels less like avoiding spoilers than it does avoiding a painful recollection. You’d think, for the purposes of telling this story, that it would be enough to know what happened, to catch a glimpse of it from afar, to see the anguish on people’s faces as they react to it. But, no, you and Lonergan once again force us to stay at the scene, you force us to watch everything that happens, the whole horrible aftermath of the aftermath. Just like Lee. There’s no cutting away from life’s great agonies; when terrible things happen, we don’t get to simply jump to the next scene. In this manner, _Manchester by the Sea_ feels utterly unlike a film and unsettlingly like real life.   
+
+The final beat of this present/past sequence, in which Lee finds himself walking out of a police interrogation room, is the cinematic moment of the year. Maybe the decade. Watching it in a theater was like suddenly finding oneself in the vacuum of outer space: the air was sucked out of the room; the surface of earth felt a million miles away.  It was one of the most surprising, and frightening, and heartbreaking few seconds of film I’ve ever experienced. 
+
+Oh, but it all sounds terribly slow and boring, doesn’t it? All this lingering and loitering and sticking around. Being forced to endure the unendurable. But you found a way to make it thrilling. In and around the methodical beats, _Manchester by the Sea_ moves at a breakneck pace. A car pulls out of a parking lot, then suddenly we’re in a kitchen, and the transition doesn’t feel jarring at all, even though we’ve arrived there a few frames early, the roar of the car’s engine still echoing. These might be the usual flourished from an editor’s bag of tricks, but you apply them masterfully.  
+
+That’s true of just about everything in this film. It’s difficult to describe in superlatives. It’s a small movie about a small town. But that doesn’t mean that it takes place entirely in a small town (though much of it does) or that it’s about the social politics of a close-knit community (though at times it is), simply that it is enclosed, almost like a stage play, and must invoke cosmic truths from a limited set of people/places/circumstances. Though the premise might seem like it was spit out of a feel-good indie-film plot-generator (lonely working class guy must care for his nephew after his brother dies, secrets are revealed, bonding ensues), the story is much more complex than that. And much darker. And, in many ways, much funnier. Lonergan’s magic is the way he makes room for desolation and humour to occupy the same tonal space. Even during the film’s darkest moment there is a sick bit of physical comedy that is somehow neither tasteless nor alleviates the cruel burden of knowledge the audience is being forced to bear. 
+
+Together, you’ve created something special. _Manchester by the Sea_ is piece of cinematic art that transcends the usual limits of the form; a movie so deep with meaning that it’s akin to a literary experience; a story that is not mapped out in plot points but in unexpected moments of naked, harrowing, edifying truth. Of all the magic the cast and crew conjured for this film, that was the most impressive trick: to reveal the bigness in small things.
