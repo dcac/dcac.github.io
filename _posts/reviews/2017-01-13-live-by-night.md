@@ -15,7 +15,7 @@ categories:
   - current-releases
 title: "Live by Night"
 comments: true
-tags: [Ben Affleck,Elle Fanning,drama,adaptation,gangster]
+tags: [Ben Affleck,Elle Fanning,Zoe Saldana,drama,adaptation,gangster]
 ---
 Show don’t tell. That’s the first commandment of screenwriting. Why say something when you can show it in any number of exciting ways? That’s why visual storytelling has always been so popular, from the first cave drawings to today’s bombastic, special effects-heavy superhero films. But as thrilling or breathtaking as a film might look, without a solid story as its foundation, it becomes nothing more than eye-candy and empty calories. 
 
