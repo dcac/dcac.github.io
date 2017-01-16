@@ -42,7 +42,7 @@ Throughout the film, your camera pans over different neighbourhoods, over buildi
 Time has given us the perspective we needed to see things more clearly and confront an uneasy yet stark reality. The question of “who made O.J.?” is not unanswered by the end of this magnum opus. The answer is simple; we did.
 
 {% contentfor signature %}
-With highest regards,
+**With highest regards,**
 
 Di
 {% endcontentfor %}
