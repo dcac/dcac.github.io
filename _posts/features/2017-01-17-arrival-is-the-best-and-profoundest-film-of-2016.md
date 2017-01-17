@@ -3,7 +3,7 @@ layout: feature
 published: true
 image: arrival-is-the-best-and-profoundest-film-of-2016.jpg
 title: "Arrival is the Best (and Profoundest) Film of 2016"
-excerpt: "Jared Young gives Denis Villeneuve master status after making back-to-back best films of the year."
+excerpt: "Jared Young has a religious experience while watching an alien invasion flick."
 essay_subject: false
 author: jaredy
 addressee: "Fellow Critics"
