@@ -6,7 +6,7 @@ title: "Swiss Army Man is the Best (and Ballsiest) Film of 2016"
 excerpt: "C. Redmond fights for survival (as a film critic) by defending the multi-faceted <em>Swiss Army Man</em>."
 essay_subject: false
 author: christopherr
-addressee: "Fellow  Critics"
+addressee: "Fellow Critics"
 comments: true
 date: 2017-01-16 16:30:00
 categories:
