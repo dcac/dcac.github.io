@@ -2,7 +2,7 @@
 layout: feature
 published: true
 image: moonlight-is-the-best-and-brightest-film-of-2016.jpg
-title: "SMoonlight is the Best (and Ballsiest) Film of 2016"
+title: "Moonlight is the Best (and Ballsiest) Film of 2016"
 excerpt: "Tim McEown argues that <em>Moonlight</em> isn't just the best film of 2016, but a piece of great \"capital A\" art."
 essay_subject: false
 author: timm
@@ -14,7 +14,7 @@ categories:
   - essays
 tags: [Best of 2016,2016,best of,Moonlight]
 ---
-Usually when someone references the Roger Ebert quote “...for me, the movies are like a machine that generates empathy...” they’re applying those words to a movie that fails to reach that standard. In the case of[_Moonlight_](http://www.dearcastandcrew.com/content/2016/11/3/moonlight.html), it seems that Ebert time-travelled forward, saw this film, and then had his eureka moment. 
+Usually when someone references the Roger Ebert quote “...for me, the movies are like a machine that generates empathy...” they’re applying those words to a movie that fails to reach that standard. In the case of [_Moonlight_](http://www.dearcastandcrew.com/content/2016/11/3/moonlight.html), it seems that Ebert time-travelled forward, saw this film, and then had his eureka moment. 
 
 _Moonlight_, like Picasso’s _Guernica_, or Kenji Mizoguchi’s _Sansho The Baliff_, evokes the universal while engaging in a granular depiction of the specific. Chiron (_Moonlight_’s singular protagonist—although he is played by three different actors) is inextricably linked to particular times and places and has a specificity that feels utterly genuine. Yet the movie somehow managed to unearth memories from _my_ life, some of which are over forty years old.
 
