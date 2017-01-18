@@ -3,7 +3,7 @@ layout: feature
 published: true
 image: moonlight-is-the-best-and-brightest-film-of-2016.jpg
 title: "SMoonlight is the Best (and Ballsiest) Film of 2016"
-excerpt: "Tim McEown argues that <em>Moonlight</em> isn't just the best film of 2016, but a piece of great "capital A" art."
+excerpt: "Tim McEown argues that <em>Moonlight</em> isn't just the best film of 2016, but a piece of great \"capital A\" art."
 essay_subject: false
 author: timm
 addressee: "Fellow Critics"
