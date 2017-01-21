@@ -7,7 +7,7 @@ exclude_from_search: true
 published: true
 imdb: tt4276820
 image: the-founder-contest.jpg
-title: Win a run of engagement pass for The Founder!
+title: Win a run of engagement pass to see The Founder!
 addressee: McFans
 excerpt: ""
 comments: false
