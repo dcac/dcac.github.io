@@ -6,7 +6,7 @@ image: the-founder.jpg
 author: timm
 stars: 3.5
 excerpt: ""
-addressee: "Weinstein Brothersl"
+addressee: "Weinstein Brothers"
 position: "Executive Producers"
 split_name: true
 layout: review
