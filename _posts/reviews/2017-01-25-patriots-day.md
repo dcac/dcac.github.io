@@ -1,6 +1,6 @@
 ---
 published: true
-date: 2017-01-25 09.45:00
+date: 2017-01-25 09:45:00
 imdb: tt4572514
 image: patriots-day.jpg
 author: christopherr
