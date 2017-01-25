@@ -12,6 +12,8 @@ date: 2017-01-17 10:00:00
 categories:
   - features
   - essays
+  - series
+series-name: Best of 2016
 tags: [Best of 2016,2016,best of,Denis Villeneuve,Amy Adams]
 ---
 _Warning: spoilers ahead._ 

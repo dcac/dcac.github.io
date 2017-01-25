@@ -12,6 +12,8 @@ date: 2017-01-16 16:30:00
 categories:
   - features
   - essays
+  - series
+series-name: Best of 2016
 tags: [Best of 2016,2016,best of,Daniel Radcliffe,Paul Dano]
 ---
 Go ahead, say it. I know what you’re all thinking: only a juvenile jackoff would seriously go to bat for _Swiss Army Man_ as the best film of the year. Normally, my tastes are disconcertingly populist. I’m the guy who regularly defends the Oscars’ [Best Picture winners](http://www.dearcastandcrew.com/content/2012/3/2/the-artist.html) as the _actual_ [best pictures](http://www.dearcastandcrew.com/content/2012/9/12/argo.html) of the year. Then along comes _Swiss Army Man_, rocking a painfully low 48% from Top Critics on Rotten Tomatoes. It might be the most poorly reviewed film I’ve ever thought was truly great. 

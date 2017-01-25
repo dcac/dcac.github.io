@@ -12,6 +12,8 @@ date: 2017-01-23 9:30:00
 categories:
   - features
   - essays
+  - series
+series-name: Best of 2016
 tags: [Best of 2016,2016,best of,Marvel]
 ---
 If all my years of high school English taught me anything, it’s that a good essay should start off with a loud, emphatic statement that will draw a reader in. So, here we go:

@@ -12,6 +12,8 @@ date: 2017-01-19 10:15:00
 categories:
   - features
   - essays
+  - series
+series-name: Best of 2016
 tags: [Best of 2016,2016,best of,Paul Verhoeven,Isabelle Hupert]
 ---
 Given the dumpster fire of misery and regression that was 2016, you would think my pick for the year’s best film would be something optimistic or uplifting – anything to temporarily forget that we probably won’t be writing about our favourite films of 2017 next year because we’ll have all been accidentally nuked by a blob of talking nacho cheese that likes to throw tantrums on Twitter. 

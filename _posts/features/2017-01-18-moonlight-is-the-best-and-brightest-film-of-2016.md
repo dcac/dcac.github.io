@@ -12,6 +12,8 @@ date: 2017-01-18 9:45:00
 categories:
   - features
   - essays
+  - series
+series-name: Best of 2016
 tags: [Best of 2016,2016,best of,Moonlight]
 ---
 Usually when someone references the Roger Ebert quote “...for me, the movies are like a machine that generates empathy...” they’re applying those words to a movie that fails to reach that standard. In the case of [_Moonlight_](http://www.dearcastandcrew.com/content/2016/11/3/moonlight.html), it seems that Ebert time-travelled forward, saw this film, and then had his eureka moment. 
