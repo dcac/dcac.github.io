@@ -2,7 +2,8 @@
 layout: feature
 published: true
 image: oj-made-in-america-is-the-best-and-longest-film-of-2016.jpg
-title: "The 8-hour opus on O.J. Simpson isn't just the best film of the year, argues Di Golding – it's a treatise on America itself."
+title: "O.J.: Made in America is the Best (and Longest) Film of 2016"
+excerpt: "The 8-hour opus on O.J. Simpson isn't just the best film of the year, argues Di Golding – it's a treatise on America itself."
 essay_subject: false
 author: dig
 addressee: "Fellow Critics"
