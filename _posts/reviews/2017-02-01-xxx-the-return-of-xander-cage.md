@@ -13,7 +13,7 @@ layout: review
 categories: 
   - reviews
   - current-releases
-title: "Patriots Day"
+title: "xXx: The Return of Xander Cage"
 comments: true
 tags: [Vin Diesel,Samuel L. Jackson,action,sequel]
 ---
