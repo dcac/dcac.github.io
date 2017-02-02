@@ -4,7 +4,7 @@ date: 2017-02-02 08:00:00
 imdb: tt4385888
 image: 20th-century-women.jpg
 author: dig
-stars: 3
+stars: 5
 excerpt: ""
 addressee: "Annette Bening"
 position: "Actor"
