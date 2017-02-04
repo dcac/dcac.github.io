@@ -13,7 +13,7 @@ layout: review
 categories: 
   - reviews
   - current-releases
-title: "20th Century Woman"
+title: "20th Century Women"
 comments: true
 tags: [Annette Benning,Greta Gerwig,drama,comedy,feminism]
 ---
