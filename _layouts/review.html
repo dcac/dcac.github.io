@@ -116,7 +116,7 @@ layout: default
     <script>
     $.ajax({
       
-      url: "http://omdbapi.com/?i={{ page.imdb }}",
+      url: "http://svr2.omdbapi.com/?i={{ page.imdb }}",
       dataType: 'jsonp',
       success: function(data) {
         var html = '<div class="row imdb-info-row no-border full-width">';
