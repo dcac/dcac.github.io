@@ -13,7 +13,7 @@ layout: review
 categories: 
   - reviews
   - current-releases
-title: "A Cure for Wellness"
+title: "I Am Not Your Negro"
 comments: true
 tags: [documentary,race,racism,history,martin Luther King Jr.,Maclom X]
 ---
