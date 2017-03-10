@@ -4,10 +4,10 @@ layout: contest
 home-display: false
 grid-display: false
 exclude_from_search: true
-published: false
-imdb: tt2911666
+published: true
+imdb: tt2417712
 image: goon-last-of-the-enforcers-contest.jpg
-title: Win a pass to see Goon: Last of the Enforcers!
+title: "Win a pass to see Goon: Last of the Enforcers!"
 addressee: Goonies
 excerpt: ""
 comments: false
@@ -15,7 +15,6 @@ categories:
   - contests
 tags: [hockey,sports,Canadian]
 ---
-
 ***Dear Goonies,***
 
 Did you love the **Canadian hockey clobber-fest GOON** as much as we did? Good! Because we have chances for you to **check out the sequel: GOON: LAST OF THE ENFORCERS**!
@@ -54,5 +53,3 @@ var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') retu
 try { s2x9ecx0jowcw3 = new WufooForm();s2x9ecx0jowcw3.initialize(options);s2x9ecx0jowcw3.display(); } catch (e) {}};
 var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
 })(document, 'script');</script>
-
-

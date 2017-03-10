@@ -7,6 +7,20 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Review: Table 19</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/table-19.jpg" />
+  				<p>Dear Oberhofer, Band at Wedding, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Wed, 08 Mar 2017 04:00:00 -0500</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2017/3/8/table-19.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2017/3/8/table-19.html</guid>
+			</item>
+		
+			<item>
 				<title>Review: Logan</title>
 				<description>
   				<![CDATA[
@@ -130,20 +144,6 @@
 				<pubDate>Thu, 02 Feb 2017 03:00:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2017/2/2/20th-century-women.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2017/2/2/20th-century-women.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: xXx: The Return of Xander Cage</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/xxx-the-return-of-xander-cage.jpg" />
-  				<p>Dear Thomas Iwan, Head Welder, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Wed, 01 Feb 2017 06:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2017/2/1/xxx-the-return-of-xander-cage.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2017/2/1/xxx-the-return-of-xander-cage.html</guid>
 			</item>
 		
 	</channel>
