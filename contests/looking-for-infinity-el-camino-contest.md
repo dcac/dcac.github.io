@@ -13,7 +13,7 @@ excerpt: ""
 comments: false
 categories:
   - contests
-tags: [hockey,sports,Canadian]
+tags: [documentary]
 ---
 **_Dear Ottawa Fans,_**
 
