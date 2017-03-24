@@ -19,7 +19,9 @@ So here they are, each critic’s **favourite reviews they’ve written** during
 
 Please note: not ranked – but with a small description for each.
 
-**Christopher Redmond’s  Top 5 Fav Reviews**
+** **
+
+<u>**Christopher Redmond’s  Top 5 Fav Reviews**</u>
 
 [_Prisoners_](http://www.dearcastandcrew.com/content/2013/9/10/prisoners.html)  
 Jared once said he liked this review, which automatically makes it one of my favourites. Plus, when I [interviewed Denis Villeneuve](http://www.dearcastandcrew.com/content/2015/4/17/a-conversation-with-director-denis-villeneuve.html) a few months later, I asked him to shout-out a below-the-line crew member that he thought wouldn’t otherwise be recognized. He praised Bruce Hamme. Blew my mind.
@@ -33,8 +35,6 @@ When you have a chance to take your anger against the sub-prime mortgage crisis 
 [_American Reunion_](http://www.dearcastandcrew.com/content/2012/4/12/american-reunion.html)  
 It’s so simple, but it works. At 149 words, it’s one of our shortest reviews too.
 
-** **
-
 [_The 16 Sexiest Roles on a Film Set_](http://www.dearcastandcrew.com/content/2015/10/28/the-16-sexiest-roles-on-a-film-set.html)  
 I’ve written a few dozen essays over the years, so I wanted some representation of that. They aren’t usually this silly, but the real goal was to give every on-set department some praise, peppered with a bit of insight. That’s the whole goal of the site, after all.
 
@@ -43,9 +43,9 @@ _Honourable mention:_
 [_The Artist_](http://www.dearcastandcrew.com/content/2012/3/2/the-artist.html)  
 Not only my first review, but the first DC&C review, period. It was intended as a proof-point that we could make the site’s concept work writ-large and a template I personally tried to follow for not including a standard plot synopsis, taking a slightly ironic approach (writing to a sound tech on a silent film), and referencing the recipient’s previous work. Not my favourite review by any means, but a meaningful one.
 
-
-
-**Jared Young’s  Top 5 Fav Reviews**
+** **
+  
+<u>**Jared Young’s  Top 5 Fav Reviews**</u>
 
 [_Olympus Has Fallen_](http://www.dearcastandcrew.com/content/2013/3/22/olympus-has-fallen.html)  
 I still can’t decide how sarcastic I was being with this five-star review, but I nonetheless enjoyed writing a little paean to the awesome action soundtracks of my youth.
@@ -61,6 +61,8 @@ I still struggle with some of the questions I posed in this review: how do you r
 
 [_Mr. Turner_](http://www.dearcastandcrew.com/content/2015/2/5/mr-turner.html)  
 I’m not sure I can clearly explain why I’m so fond of this particular review; it was a tough one to write, but it turned out to feel (to me, at least) very genuine. Also, it’s written to a guy named Dick Pope.
+
+** **
 
 **Casey Tourangeau’s Top 5 Fav Reviews**
 
@@ -79,6 +81,8 @@ As much fun as I had systematically taking this apart, I wish my review could ha
 [_Cloudy with a Chance of Meatballs 2_](http://www.dearcastandcrew.com/content/2013/10/1/cloudy-with-a-chance-of-meatballs-2.html)  
 This must be the most aggressive I’ve ever felt writing a review. The fact that it was aimed at a cynical children’s film made it feel all the better.
 
+** **
+
 **Di Golding’s Top 5 Fav Reviews**
 
 [_Grudge Match_](http://www.dearcastandcrew.com/content/2013/12/19/grudge-match.html)  
@@ -95,6 +99,8 @@ My DC&amp;C compatriots revere a film from the mid-70s that went on to spawn a f
 
 [_We Need to Talk About Adam_](http://www.dearcastandcrew.com/content/2015/4/30/we-need-to-talk-about-adam.html)  
 As long as his movies keep getting greenlit, we will never not need to talk about Adam.
+
+** **
 
 **Tim McEown’s Top 5 Fav Reviews**
 
@@ -132,7 +138,7 @@ You guys don’t even know how many truly awful 3D dick puns there were in my or
 [_A Hologram for the King_](http://www.dearcastandcrew.com/content/2016/5/3/a-hologram-for-the-king.html)  
 The guy I addressed the review to actually sent us a lovely, gracious email expressing thanks for my comments, which was so nice because I am constantly paranoid that addressees will be super-offended by my reviews and @ me all like, “Hey, fuck you!”
 
-
+** **
 
 **Ankit Verma’s Top 5 Fav Reviews**
 
