@@ -64,7 +64,7 @@ I’m not sure I can clearly explain why I’m so fond of this particular review
 
 ** **
 
-**Casey Tourangeau’s Top 5 Fav Reviews**
+<u>**Casey Tourangeau’s Top 5 Fav Reviews**</u>
 
 [_The Lucky One_](http://www.dearcastandcrew.com/content/2012/4/26/the-lucky-one.html)  
 My first full-length review for the site. Sometimes the first time is the best.
@@ -83,7 +83,7 @@ This must be the most aggressive I’ve ever felt writing a review. The fact tha
 
 ** **
 
-**Di Golding’s Top 5 Fav Reviews**
+<u>**Di Golding’s Top 5 Fav Reviews**</u>
 
 [_Grudge Match_](http://www.dearcastandcrew.com/content/2013/12/19/grudge-match.html)  
 My first review for DC&amp;C. I showed my first draft to Tim McEown (my friend of 16 years who lovingly refers to me as Her Vagesty, Queen of Ascerbia), and he recommended I maybe scale back my hostility until I’d established a rapport with the rest of the team. So I sent a toned down revised draft to Christopher Redmond who asked if I could maybe amp up my vitriol. I knew then that I’d found my people.
@@ -102,7 +102,7 @@ As long as his movies keep getting greenlit, we will never not need to talk abou
 
 ** **
 
-**Tim McEown’s Top 5 Fav Reviews**
+<u>**Tim McEown’s Top 5 Fav Reviews**</u>
 
 [_Kubo and The Two Strings_](http://www.dearcastandcrew.com/content/2016/8/22/kubo-and-the-two-strings.html)  
 Most fun review because I got to talk about Noh theatre, Ray Harryhausen, Samurai and Monkeys. Hard to beat that.
@@ -119,9 +119,9 @@ This was the first review where I began to understand what exactly I wanted to d
 [_Hail, Caesar!_](http://www.dearcastandcrew.com/content/2016/2/19/hail-caesar.html)  
 Best time at the movies I’ve had in a very long time. So easy to write.
 
+** **
 
-
-**Nat Master’s Top 5 Fav Reviews**
+<u>**Nat Master’s Top 5 Fav Reviews**</u>
 
 [_Elle is the Best (and Angriest) Film of 2016_](http://www.dearcastandcrew.com/content/2017/1/19/elle-is-the-best-and-angriest-film-of-2016.html)  
 I got to rage against The Patriarchy, which is always fun (and essential).
@@ -140,7 +140,7 @@ The guy I addressed the review to actually sent us a lovely, gracious email expr
 
 ** **
 
-**Ankit Verma’s Top 5 Fav Reviews**
+<u>**Ankit Verma’s Top 5 Fav Reviews**</u>
 
 [_Gods of Egypt_](http://www.dearcastandcrew.com/content/2016/2/29/gods-of-egypt.html)  
 I love going on a good rant. I find it therapeutic. Chicken soup for the soul. _Gods of Egypt_ gave me so much ammo to unleash, I found myself in a zen-like state of pure bliss by the end.
