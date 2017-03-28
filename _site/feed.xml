@@ -7,6 +7,48 @@
 		<atom:link href="http://www.dearcastandcrew.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title> Feature: Top 5 Reviews: Personal Favourites</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/top-five-reviews-personal-favourites.jpg" />
+  				<p>Dear Fans of DC&amp;C, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Fri, 24 Mar 2017 06:30:00 -0400</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2017/3/24/top-five-reviews-personal-favourites.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2017/3/24/top-five-reviews-personal-favourites.html</guid>
+			</item>
+		
+			<item>
+				<title>Review: Hello Destroyer</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/hello-destroyer.jpg" />
+  				<p>Dear Eugenio Battaglia, Sound Designer, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Wed, 22 Mar 2017 12:15:00 -0400</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2017/3/22/hello-destroyer.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2017/3/22/hello-destroyer.html</guid>
+			</item>
+		
+			<item>
+				<title>Review: Goon: Last of the Enforcers</title>
+				<description>
+  				<![CDATA[
+  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/goon-last-of-the-enforcers.jpg" />
+  				<p>Dear Emily McHugh, Uniform Coordinator, <br />
+  				p>
+  		    ]]>
+				</description>
+				<pubDate>Tue, 21 Mar 2017 09:30:00 -0400</pubDate>
+				<link>http://www.dearcastandcrew.com/content/2017/3/21/goon-last-of-the-enforcers.html</link>
+				<guid isPermaLink="true">www.dearcastandcrew.com/content/2017/3/21/goon-last-of-the-enforcers.html</guid>
+			</item>
+		
+			<item>
 				<title> Feature: Top 5 Reviews: By the Numbers</title>
 				<description>
   				<![CDATA[
@@ -102,48 +144,6 @@
 				<pubDate>Tue, 14 Feb 2017 03:00:00 -0500</pubDate>
 				<link>http://www.dearcastandcrew.com/content/2017/2/14/the-lego-batman-movie.html</link>
 				<guid isPermaLink="true">www.dearcastandcrew.com/content/2017/2/14/the-lego-batman-movie.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Toni Erdmann</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/toni-erdmann.jpg" />
-  				<p>Dear Brad Grey, U.S. Rights Holder, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Mon, 13 Feb 2017 04:30:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2017/2/13/toni-erdmann.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2017/2/13/toni-erdmann.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: Fifty Shades Darker</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/fifty-shades-darker.jpg" />
-  				<p>Dear Maggie Martin, Production Assistant (uncredited), <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Fri, 10 Feb 2017 03:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2017/2/10/fifty-shades-darker.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2017/2/10/fifty-shades-darker.html</guid>
-			</item>
-		
-			<item>
-				<title>Review: War On Everyone</title>
-				<description>
-  				<![CDATA[
-  				<img src="http://www.dearcastandcrew.com/assets/img/posts/thumb-600/war-on-everyone.jpg" />
-  				<p>Dear Terry Anderson, Costume Design, <br />
-  				p>
-  		    ]]>
-				</description>
-				<pubDate>Thu, 09 Feb 2017 03:00:00 -0500</pubDate>
-				<link>http://www.dearcastandcrew.com/content/2017/2/9/war-on-everyone.html</link>
-				<guid isPermaLink="true">www.dearcastandcrew.com/content/2017/2/9/war-on-everyone.html</guid>
 			</item>
 		
 	</channel>

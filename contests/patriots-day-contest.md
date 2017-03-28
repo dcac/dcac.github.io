@@ -5,9 +5,9 @@ home-display: false
 grid-display: false
 exclude_from_search: true
 published: true
-imdb: tt5157886
+imdb: tt4572514
 image: patriots-day-contest.jpg
-title: "Win a Patriots Day Blu-ray!
+title: "Win a Patriots Day Blu-ray!"
 addressee: Patriots Fans
 excerpt: ""
 comments: false
