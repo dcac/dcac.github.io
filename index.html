@@ -4,15 +4,15 @@ css: dcac.css
 home: true
 section: Home
 exclude_from_search: true
-home_feature_display: false
-top_nav: true
+home_feature_display: true
+top_nav: false
 ---
       
       {% if page.top_nav %}
       {% include top-nav.html %}
       {% endif %}
       {% if page.home_feature_display %}
-        {% include home/home-feature-5th-anniversaary.html %}
+        {% include home/home-feature-5th-anniversary.html %}
       {% else %}
         {% for post in site.posts limit:1 %}
           {%include home/home-hero.html %}
