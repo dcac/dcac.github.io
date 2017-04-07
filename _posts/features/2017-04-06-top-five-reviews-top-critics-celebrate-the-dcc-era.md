@@ -3,7 +3,7 @@ layout: feature
 published: true
 date: 2017-04-06 10:30:00
 image: top-five-reviews-top-critics-celebrate-the-dcc-era.jpg
-title: "Top 5: Top CriticsCelebrate the DC&C Era"
+title: "Top 5: Top Critics Celebrate the DC&C Era"
 addressee: "Film Lovers"
 excerpt: ""
 author: all
@@ -120,6 +120,8 @@ An engrossing movie about the creation of art, the exploitation of art and the m
 _Inside Llewyn Davis_ (2013)  
 Imagine the cover of &quot;The Freewheelin&#39; Bob Dylan&quot; come to life.
 
+** **
+
 <u>**Jay Stone – Ex-Press.ca**</u>
 
 _Boyhood_ (2014)  
@@ -197,18 +199,14 @@ Sharper eyes than mine caught Sarah Polley&#39;s fictionalized conceit from the 
 <u>**Rad Simonpillai – Your Morning (CTV)**</u>
 
 1. _The Master_ (2012)
-
 2. _Inherent Vice_ (2013)
-
 3. _Tabu_ (2012)
-
 4. _Phoenix_ (2014)
-
 5. _Gone Girl_ (2014)
 
 ** **
 
-<u>**Greg Klymkiw –** [**The Film Corner**](https://klymkiwfilmcorner.blogspot.ca/) </u>
+<u>**Greg Klymkiw – The Film Corner** </u>
 
 [_The Act of Killing_ (2012)](https://klymkiwfilmcorner.blogspot.ca/2013/07/the-act-of-killing-review-by-greg.html)  
 This work&#39;s importance as art is matched only by its truly formidable significance as a document of humanity/inhumanity amidst a collection of the most repugnant individuals ever profiled in any film. Focusing upon several notorious members of a Indonesian death squad who committed unspeakable acts of torture and murder almost fifty years ago, we witness, our jaws to the floor, as these men continue to live - free, wealthy and revered as heroes. They not only discuss their activities in detail, they do so with pride. Director Joshua Oppenheimer then allows them to recreate their horrors dramatically. This is an iron-clad guarantee. You have not seen, nor will you EVER see a movie like _The Act of Killing_.
@@ -331,16 +329,16 @@ Jia Zhang-ke goes pulp.
 
 <u>**Jason Stettner – Gamer Headquarters**</u>
 
-_The Grand Budapest Hotel_ (2014)
+_The Grand Budapest Hotel_ (2014)  
 My absolute favorite film of all time provides the best of Wes Andersen not only in terms of visuals, but in the magic of the charming and entertaining story. It&#39;s got every big name that&#39;s ever worked with Wes in the past and there&#39;s something new with every viewing.
 
  [_La La Land_](http://movies.gamerheadquarters.com/review75lalaland.html) (2016)  
 I love musicals and I find that _La La Land_ is a masterpiece capturing that classic Hollywood feeling while providing an emotional modern story. The music is amazing and the film is filled with glorious colors that highlight every scene.
 
-_Birdman_ (2014). 
+_Birdman_ (2014)  
 A rather dark tale that follows an actor past his prime that is held to the standard of a worn out super hero that he no longer wants to be. Featuring many stunning long shots and some of Keaton&#39;s best work this is a great film.
 
-_The LEGO Movie_ (2014). 
+_The LEGO Movie_ (2014)  
 This one deserves great praise for being a film that surprised me on so many levels. I was curious what exactly they were going to do with a movie about LEGO bricks, but they created a strong universe with characters you care about and even had some surprising emotional aspects that made many go pull out their LEGO bricks to build.
 
  [_Hail, Caesar!_](http://movies.gamerheadquarters.com/review8hailcaesar.html) (2015)  
@@ -369,13 +367,13 @@ Art, meet Entertainment. I know you&#39;re strange bedfellows, but somehow this 
 
 <u>**Dave Becker – 2,500 Movies Challenge**</u>
 
-5 - Django Unchained (2012)
+5 - _Django Unchained_ (2012)  
 Tarantino does it again with this witty, violent, and incredibly engaging western. A great cast and an equally impressive soundtrack helped make this one of QT&#39;s all-time best.
 
-4 - Train to Busan (2016)
+4 - _Train to Busan_ (2016)  
 Despite the influx of zombie movies in the past 10-15 years, this Korean flick still managed to distinguish itself. A high-energy horror film that&#39;s as fun as it is frightening.
 
-3 - [_The Perks of Being a Wallflower_](http://www.dvdinfatuation.com/search?q=wallflower) (2012)
+3 - [_The Perks of Being a Wallflower_](http://www.dvdinfatuation.com/search?q=wallflower) (2012)  
 I went in expecting a very different kind of movie, and was genuinely surprised by this poignant, romantic, and life-affirming film.
 
 2 - [_Birdman, or (The Unexpected Virtue of Ignorance)_](http://www.dvdinfatuation.com/2015/02/1650-birdman-2014.html)  
