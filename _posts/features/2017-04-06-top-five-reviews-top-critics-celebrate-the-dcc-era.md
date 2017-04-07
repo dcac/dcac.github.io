@@ -346,7 +346,7 @@ I&#39;m not sure why this one was so overlooked in 2016, it was a beautiful look
 
 ** **
 
-<u>**Noah Taylor – Dork Shelf**</u>
+<u>**Noah R. Taylor – Dork Shelf**</u>
 
 _Killing Them Softly_ (2012)  
 While there&#39;s nothing subtle about this low level crime story updated by Andrew Dominik to reflect America&#39;s financial crisis, there&#39;s something infinitely watchable about the ensemble&#39;s performances paired with the style and dark humour Dominik brings to the screen. James Gandolfini&#39;s completely inconsequential hitman is just one of several digressions that make _Killing Them Softly_ dynamic, even if it is trivial at times.
