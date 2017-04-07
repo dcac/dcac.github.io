@@ -13,9 +13,9 @@ categories:
   - lists
 tags: [5th anniversary,Dear Cast & Crew, top 5]
 ---
-We&#39;d like to interrupt all this [fifth anniversary](http://www.dearcastandcrew.com/content/2017/3/16/top-five-reviews-by-the-numbers.html) [naval-gazing](http://www.dearcastandcrew.com/content/2017/3/24/top-five-reviews-personal-favourites.html) with some outside Top 5 submissions.
+We&#39;d like to interrupt all this [fifth anniversary](http://www.dearcastandcrew.com/content/2017/3/16/top-five-reviews-by-the-numbers.html) [navel-gazing](http://www.dearcastandcrew.com/content/2017/3/24/top-five-reviews-personal-favourites.html) with some special contributions from some of our favourite critics in the world.
 
-We asked some of our favourite critics to submit their Top 5 films released in the DC&amp;C Era (since 2012). Most of the below lists aren&#39;t ranked, but simply a chance for some trust-worthy fellow film nuts to re-laude the movies they loved in the past five years. So consider this a cheat sheet for deciding 1) what to (finally) watch, and 2) who else you can trust besides our own grab-bag of letter writers.
+We asked them to share their Top 5 Films of the DC&amp;C Era (2012 - Today). Consider this an all-star cheat sheet for deciding (a) what films to finally catch up on, and (b) who you can trust (you know, besides us) when it comes to naviagting the world of cinema. 
 
 ** **
 
