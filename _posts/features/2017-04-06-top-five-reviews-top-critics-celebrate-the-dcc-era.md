@@ -383,8 +383,11 @@ A perfect storm of creativity, with style to spare and excellent performances by
 
 1 - _The Wolf of Wall Street_ (2013)  
 Even at 70 years old, Martin Scorsese can still turn out an edgy, stylish film, with all the bells and whistles we&#39;ve come to expect from a guy I consider one of the greatest directors of all-time. DiCaprio is superb, and the movie is so well-paced that its 3-hour run time seems to fly by.
+<<<<<<< HEAD
 
 ** **
 <u>**Susan G. Cole - Now Magazine**</u>
 
 [_Manchester by the Sea_](https://nowtoronto.com/movies/reviews/manchester-by-the-sea-will-gut-you/) (2016)In a film anchored by Casey Affleck’s heartbreaking performance as a man broken by grief, writer-director Lonergan mines complex family relationships to devastating effect. A scene in which Affleck and Michelle Williams try to reconnect is one of the best written I’ve ever seen.[Mr. Turner](https://nowtoronto.com/movies/mr-turner/) (2014)This visually sumptuous portrait of the painter J.M.W. Turner at the peak of his powers features Timothy Spall spewing and grunting his way through the role that won him best actor in Cannes.[Phoenix](https://nowtoronto.com/movies/reviews/phoenix_1/) (2014)Nelly, a concentration camp survivor, returns to her hometown in Germany and finds her husband, Johnny (Ronald Zehrfeld), who may have betrayed her to the Nazis – and doesn’t recognize her. As Nelly, who fantasizes she can go back to her old life, Nina Hoss embodies trauma as if she's actually experienced it herself. The last scene is jaw-droppingly intense. [Mustang](https://nowtoronto.com/movies/mustang/) (2015)A first-time director transforms her fury at Turkey’s patriarchal system into a powerful work of art in this story of five teenagers confined to their home after they’ve had too much fun celebrating the end of the school year. [The Great Beauty](https://nowtoronto.com/movies/reviews/the-great-beauty/) (2013)Toni Servillo stars as 60-something journalist Jep, who wrote a bestselling novel when he was in his 20s but hasn't written a thing that matters since, immersing himself in all things shallow instead. Garish party sequences collide with serene images of Rome's ancient art; beautiful, inspirational music meets club bangers.Just let the damn thing wash over you.
+=======
+>>>>>>> origin/master
