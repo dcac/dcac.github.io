@@ -156,3 +156,20 @@ Call it nostalgia or call it bad taste; I have a strange soft-spot for lame 90�
 
 [_Captain America: Civil War is the Best (and Worthiest) Film of 2016_](http://www.dearcastandcrew.com/content/2017/1/23/captain-america-civil-war-is-the-best-and-worthiest-film-of-2016.html)  
 2016 was a fantastic year for critically-acclaimed movies. So, when it came down to choosing the best of the best, I stuck with my gut and chose a superhero movie that transcended its genre and exceeded all of my expectations. I still get death threats to this day. Good times.
+
+<u>**Cory Haggart’s Top 5 Fav Reviews**</u>
+
+[_Tinker Tailor Soldier Spy_](http://www.dearcastandcrew.com/content/2012/3/1/tinker-tailor-soldier-spy.html)  
+Humility is important, and revisiting your past mistakes keeps any critic in their place. Coming off of watching the BBC series, I was downright angry about the liberties taken with the story. Every day since that review, I've grown to like this movie more and more and can honestly say that I was _mostly _wrong.
+
+[_Trading Places_](http://www.dearcastandcrew.com/content/2012/3/1/tinker-tailor-soldier-spy.html)  
+Brevity is the soul of...
+
+[_The Expendables 2_](http://www.dearcastandcrew.com/content/2012/8/22/the-expendables-2.html)  
+Easily my most SEO-friendly piece, I had a ton of fun with stretching the concept way past the breaking point. I think I was inspired by Jared Young's early review work.
+
+[_Rock of Ages_](http://www.dearcastandcrew.com/content/2012/6/15/rock-of-ages.html)  
+I in no way expected to like this movie, which made me have to think really hard about what exactly was happening to me.
+
+[_Synecdoche, New York_](http://www.dearcastandcrew.com/content/2012/8/21/synecdoche-new-york.html)  
+A great movie, so fun to review, but I see that I called PSH's death two years before it happened. It wasn't _The Master_ or a confusion of drugs that did him in. It was this movie.
