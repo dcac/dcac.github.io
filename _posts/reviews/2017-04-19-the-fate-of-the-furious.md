@@ -17,10 +17,6 @@ title: "The Fate of the Furious"
 comments: true
 tags: [Vin Diesel,The Rock,Dwayne Johnson,cars,action]
 ---
-**Fate of the Furious**
-
-Dear Lisandra Delgado, Sexy Race Starter
-
 Eight laps into the Fast and Furious franchise, there are several signposts that fans like me look forward to – Vin Diesel&#39;s matte or metallic black Dodge Charger in various souped up forms, Tyrese Gibson&#39;s baffled reactions and one-liners, the villain from a previous film becoming an ally, and of course (my personal favourite), you. Or, more specifically, whomever happens to have won the latest Sexy Race Starter position from a casting process I can only dream about.
 
 You&#39;re not just a face, or an ass, or a body (though there are tightly defined prerequisites for each). You actually need to be able to speak. In a crowded market place with countless lookalikes, you need to hold back insane levels of horse power, command everyone&#39;s attention, and then signal the film&#39;s most put-upon race sequence. All this, while quickly proving your worthiness of such a lauded and lusted after position in the spotlight. And in that sense, you embody the very spirit of the entire Fast and the Furious franchise: incredible eye candy that comes out of nowhere with boundless energy, unbridled confidence, and a winking sense of humour.
