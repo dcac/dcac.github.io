@@ -4,7 +4,7 @@ date: 2017-04-19 09:30:00
 imdb: tt4630562
 image: the-fate-of-the-furious.jpg
 author: christopherr
-stars: 4
+stars: 3.5
 excerpt: ""
 addressee: "Lisandra Delgado"
 position: "Sexy Race Starter"
