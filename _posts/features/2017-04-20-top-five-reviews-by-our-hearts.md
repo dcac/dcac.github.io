@@ -40,7 +40,7 @@ I&#39;ve never fallen in love with a movie so hard and so fast. _Swiss Army Man_
 [_Arrival_](http://www.dearcastandcrew.com/content/2017/1/17/arrival-is-the-best-and-profoundest-film-of-2016.html)(2016)  
 A profound mind-altering experience disguised as an alien invasion thriller; I think back to it often, and still, months later, genuinely believe it has changed my perception of the world around me.
 
- [_Sicario_](http://www.dearcastandcrew.com/content/2016/1/12/sicario-is-definitely-the-best-film-of-2015.html)(2015)  
+ [_Sicario_](http://www.dearcastandcrew.com/content/2016/1/12/sicario-is-definitely-the-best-film-of-2015.html) (2015)  
 It&#39;s the Michael Mann-iest film of the last five years (sorry _Blackhat_) and for that reason alone belongs on this list.
 
  [_This Is the End_](http://www.dearcastandcrew.com/content/2013/6/12/this-is-the-end.html) (2013)  
