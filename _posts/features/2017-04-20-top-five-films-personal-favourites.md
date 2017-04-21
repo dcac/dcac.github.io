@@ -152,8 +152,7 @@ There are movies that you enjoy, and then there are movies that fundamentally ch
 
 [_Her_](http://www.dearcastandcrew.com/content/2014/1/14/her.html) (2013)  
 As the credits began to roll on _Her_, I just sat there, speechless. I needed to take a second and process the events that brought out such raw, unfiltered emotion on my part. Simply beautiful and tragic.
-
-_99 Homes_ (2015)  
+[_99 Homes_](http://www.dearcastandcrew.com/content/2014/9/12/tiff-2014-day-nine.html) (2015)  
 _99 Homes_ flew under the radar and straight into my psyche. What a deliciously twisted tale of corruption and capitalism led by Michael Shannon&#39;s performance as a greedy, power-hungry glutton.
 
 _When Marnie Was There_ (2014)  
