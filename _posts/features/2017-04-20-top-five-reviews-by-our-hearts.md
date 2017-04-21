@@ -17,7 +17,7 @@ Last week we happily ceded the floor to fellow critics who submitted their [top 
 
 Unlike our previous lists in the anniversary bonanza, these aren&#39;t [our favourite reviews](http://www.dearcastandcrew.com/content/2017/3/24/top-five-reviews-personal-favourites.html), or the ones that got us [the most traffic](http://www.dearcastandcrew.com/content/2017/3/16/top-five-reviews-by-the-numbers.html). This Top 5 is all about the films themselves. The ones that moved us, wowed us, shocked us, and reminded us why we dedicate so many hours to cinema&#39;s hypnotic spell.
 
-<u>**Christopher Redmond&#39;s Top 5 Films**</u>
+<u>**Christopher Redmond&#39;s Top Five Films**</u>
 
 [_The Act of Killing_](http://www.dearcastandcrew.com/content/2013/9/13/the-act-of-killing.html) (2012)  
 Few films have ever made me feel so… _much_. Angry, horrified, mesmerized, baffled, shocked, confounded, and, ultimately, inspired. Entertained, even. An unparalleled achievement in filmmaking. Considering the subject matter, it&#39;s also surprisingly re-watchable.
@@ -35,7 +35,7 @@ The animation is eye-popping and beautiful, the voice casting is pitch-perfect, 
 I&#39;ve never fallen in love with a movie so hard and so fast. _Swiss Army Man_ takes body humour to such absurd lengths in order to reach an insanely ambitious goal. &quot;We want to make a movie where the first fart makes you laugh,&quot; the original pitch went, &quot;and the last one makes you cry.&quot; Well, fuck. Mission accomplished. It might be the most poorly reviewed film I&#39;ve ever thought was truly great. The film is pure cinema, and delightfully puerile.
 
 ** **
-<u>**Jared Young&#39;s Top 5 films**</u>
+<u>**Jared Young&#39;s Top Five Films**</u>
 
 [_Arrival_](http://www.dearcastandcrew.com/content/2017/1/17/arrival-is-the-best-and-profoundest-film-of-2016.html)(2016)  
 A profound mind-altering experience disguised as an alien invasion thriller; I think back to it often, and still, months later, genuinely believe it has changed my perception of the world around me.
@@ -61,7 +61,7 @@ A film that I am unlikely to watch again, so devastating is the middle act. Case
 [_The Trip to Italy_](http://www.dearcastandcrew.com/content/2015/1/6/no-the-trip-to-italy-is-the-best-film-of-2014.html) [ ](http://www.dearcastandcrew.com/content/2015/1/6/no-the-trip-to-italy-is-the-best-film-of-2014.html)(2014)
 
 ** **
-<u>**Casey Tourangeau&#39;s Top 5 films**</u>
+<u>**Casey Tourangeau&#39;s Top Five Films**</u>
 
 In alphabetical order:
 
@@ -89,7 +89,7 @@ Somehow, Martin Scorsese manages to have his cake and eat it too: A biting, angr
  [_The LEGO Movie_](http://www.dearcastandcrew.com/content/2015/1/9/sorry-the-lego-movie-is-the-best-film-of-2014.html) (2014)
 
 ** **
-<u>**Di Golding&#39;s Top 5**</u>
+<u>**Di Golding&#39;s Top Five Films**</u>
 
 [_Amour_](http://www.dearcastandcrew.com/content/2012/9/14/amour.html) (2012)  
 A masterpiece that should be required viewing for any newly engaged couple.
@@ -107,7 +107,7 @@ A deeply flawed female character seeking agency over her life drives this simple
 Before _Serial_ and _Making a Murderer_ gripped my existence, this thrilling, creep-fest of a documentary had me yelling &quot;WTF!&quot; at the screen. Couldn&#39;t stop thinking/talking about it for ages after viewing. Absolutely riveting.
 
 ** **
-<u>**Tim McEown&#39;s Top 5**</u>
+<u>**Tim McEown&#39;s Top Five Films**</u>
 
 In no particular order:
 
@@ -127,7 +127,7 @@ This was one of the most compelling and subtly horrifying experiences I&#39;ve e
 Fury Road in Black and White. Speaks for itself.
 
 ** **
-<u>**Nat Master&#39;s Top 5 Films of the Last Five Years**</u>
+<u>**Nat Master&#39;s Top Five Films**</u>
 
 [_Inside Llewyn Davis_](http://www.dearcastandcrew.com/content/2014/1/22/inside-llewyn-davis.html)(2013)  
 Because I am a sucker for folk music and Oscar Isaac&#39;s eyes (not necessarily in that order), and because that cat was goddamn robbed of an Oscar nomination.
@@ -145,7 +145,7 @@ _Phoenix_ (2015)
 Because you won&#39;t find a more perfect ending to a film if you spent the rest of your life searching for one.
 
 ** **
-<u>**Ankit Verma&#39;s Top 5 Films of the Last Five Years**</u>
+<u>**Ankit Verma&#39;s Top Five Films**</u>
 
 [_Interstellar_](http://www.dearcastandcrew.com/content/2014/11/10/interstellar.html) (2014)  
 There are movies that you enjoy, and then there are movies that fundamentally change the way you perceive the world. _Interstellar_ was that movie for me. Embrace the 5th dimension!
