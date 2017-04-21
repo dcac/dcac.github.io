@@ -3,7 +3,7 @@ layout: feature
 published: true
 date: 2017-04-20 06:30:00
 image: top-five-films-personal-favourites.jpg
-title: "Top 5: Top Films: Personal Favourites"
+title: "Top 5 Films: Personal Favourites"
 addressee: "Film Lovers"
 excerpt: ""
 author: all
