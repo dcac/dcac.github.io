@@ -15,7 +15,7 @@ layout: none
   				<![CDATA[
   				<img src="http://{{site.url}}/assets/img/posts/thumb-600/{{post.image}}" />
   				<p>Dear {{post.addressee | xml_escape }}, {% if post.categories contains "reviews" %}{{post.position | xml_escape }}, {% endif %}<br />
-  				{{ post.excerpt }}p>
+  				{{ post.body }}
   		    ]]>
 				</description>
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
