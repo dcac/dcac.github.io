@@ -8,7 +8,7 @@ stars: 3.5
 excerpt: ""
 addressee: "David and Walter"
 position: "Synthetics"
-split_name: true
+split_name: false
 layout: review
 categories: 
   - reviews
