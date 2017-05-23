@@ -47,7 +47,7 @@
     //get the movie info from IMDB
     $.ajax({
       
-      url: "http://omdbapi.com/?i={{ post.imdb }}",
+      url: "http://www.omdbapi.com/?i={{ post.imdb }}&apikey=9b0fdefb",
       dataType: 'jsonp',
       success: function(data) {
         var html = '<div class="row imdb-info-row no-border full-width">';
