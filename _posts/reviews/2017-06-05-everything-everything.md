@@ -2,7 +2,7 @@
 published: true
 date: 2017-06-05 8:30:00
 imdb: tt5001718
-image:everything-everything.jpg
+image: everything-everything.jpg
 author: ankitv
 stars: 3
 excerpt: ""
