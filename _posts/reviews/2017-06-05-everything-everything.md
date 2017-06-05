@@ -8,7 +8,7 @@ stars: 3
 excerpt: ""
 addressee: "Tiffany Mack"
 position: "Casting Director"
-split_name: false
+split_name: true
 layout: review
 categories: 
   - reviews
