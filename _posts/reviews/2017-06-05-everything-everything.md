@@ -18,7 +18,7 @@ comments: true
 tags: [drama,romance,adaptation,Nicholas Sparks]
 ---
 
-A week or two ago, I came across this hilarious meme that highlighted how attractive male teens are in pop-culture. It got me thinking about Young Adult (YA) films and how your involvement in _Everything, Everything_ served as a remedy to a casting epidemic that has plagued the genre for years.
+A week or two ago, I came across this [hilarious meme](http://mashable.com/2017/04/19/13-reasons-why-sophomore-teens-meme/?utm_cid=mash-com-fb-main-link%23pQPkOMqOx5qN#WP94zRdBb5qo) that highlighted how attractive male teens are in pop-culture. It got me thinking about Young Adult (YA) films and how your involvement in _Everything, Everything_ served as a remedy to a casting epidemic that has plagued the genre for years.
 
 YA films, if you don’t already know, are teen-based romances spliced with another genre (comedy, fantasy, action, etc.). These films feature teenagers in the leading roles and are geared towards other teens in their most hormonal of stages; anywhere between the ages of 13-17. The epidemic comes when we’re led to believe that the 6’2”, 220-pound 25-year old with a five-o’clock shadow is considered a ‘teenager’.
 
@@ -26,7 +26,7 @@ Think about it. How many instances have there been where instead of casting acto
 
 I’m only giving examples of males since they are the most evident in their miscasting. Generally, in YA epics, female actors are chosen based on their ability to look young, so the lines between high schooler and grown-ass adult with an RRSP fund are hard to differentiate. 
 
-That’s why _Everything, Everything_  for . The relationship between Maddy, played by Amandla Stenberg, and Olly, played by Nick Robinson, seemed so natural and authentic because they looked and acted like teenagers. They were reckless in their pursuits and driven by an emotion that is so unknown for someone of their age. In short: their love was believable. At no point did I ever snap out of my movie-going experience and wonder, “Hey, you know what? I think she’s just into him because he can bench press a small car.”
+That’s why _Everything, Everything_  stood out for me. The relationship between Maddy, played by Amandla Stenberg, and Olly, played by Nick Robinson, seemed so natural and authentic because they looked and acted like teenagers. They were reckless in their pursuits and driven by an emotion that is so unknown for someone of their age. In short: their love was believable. At no point did I ever snap out of my movie-going experience and wonder, “Hey, you know what? I think she’s just into him because he can bench press a small car.”
 
 If I compare back to “High School” hunks like Theo James or Taylor Lautner, Nick Robinson seems frail and awkward -- which is _perfect_. His long, parted hair, his preference for black clothing (clearly a phase), and the way he slightly slouches and drags his feet; everything about Olly screams “teenager in revolt”. His lack of an Adonis-like physique gives the audience a reason to watch him as a boy trying to get the attention of girl. We laugh at his lame gestures and see the nervousness in his eyes when he professes his love.
 
