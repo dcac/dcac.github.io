@@ -13,7 +13,7 @@ layout: review
 categories: 
   - reviews
   - current-releases
-title: "Everything, Everything"
+title: "Pirates of the Caribbean: Dead Men Tell No Tales"
 comments: true
 tags: [adventure,pirates,Johnny Depp,Javier Bardem,Pirates of the Caribbean,Disney]
 ---
