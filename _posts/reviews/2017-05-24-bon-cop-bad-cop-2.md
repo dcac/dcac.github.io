@@ -3,7 +3,7 @@ published: true
 date: 2017-05-24 13:00:00
 imdb: tt4738174
 image: bon-cop-bad-cop-2.jpg
-author: christopher
+author: christopherr
 stars: 3.5
 excerpt: ""
 addressee: "Brian Turpin"
