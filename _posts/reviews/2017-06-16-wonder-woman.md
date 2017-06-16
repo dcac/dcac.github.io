@@ -39,4 +39,4 @@ Was the ending Snyder wresting control of the project away form Jenkins, draping
 
 So yes, let’s hear it for baby steps of progress. The title change in your profession may seem cosmetic, but it creates inclusivity by taking gender out of the balance. _Wonder Woman_ creates equality by punching and body-slamming her way into established superhero-dom. And while it’s great to see it finally happen, it’s a little sad that it had to be accomplished in the most typically male way possible.
 
-{% contentfor postrcript %}\*_Which raised the question: did DC get a bulk special on generic CGI nighttime backgrounds that they are trying to get their money’s worth out of? I know — not your department._{% endcontenfor %}
+{% contentfor postrcript %}\*_Which raised the question: did DC get a bulk special on generic CGI nighttime backgrounds that they are trying to get their money’s worth out of? I know — not your department._{% endcontentfor %}
