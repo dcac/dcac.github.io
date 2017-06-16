@@ -21,7 +21,7 @@ A lot of the hype surrounding _Wonder Woman_ has had to do with its progressive 
 
 Let’s not get too far ahead of ourselves.
 
-For all its bold pronouncements, _Wonder Woman_ is still a superhero movie, and therefore a studio tent-pole film, s,  which means it needs to reign back lofty ambitions with careful world (a.k.a franchise) building. . More specifically, it’s a superhero film that’s part of the nascent DC Extended Universe overseen by Zack Snyder. That’s a pretty stacked deck.
+For all its bold pronouncements, _Wonder Woman_ is still a superhero movie, and therefore a studio tent-pole film,  which means it needs to reign back lofty ambitions with careful world (a.k.a franchise) building. More specifically, it’s a superhero film that’s part of the nascent DC Extended Universe overseen by Zack Snyder. That’s a pretty stacked deck.
 
 Let’s start with the good, though, which I’m happy to report outweighs the less-than-good by a decent margin. Most importantly, Gal Gadot brings a level of charisma to said Wonder Woman that I hadn’t felt since Christopher Reeves’ Superman. Chris Pine also provides a fine sparring partner for Gadot, proving he can flirt with more than just Vulcan first officers, and helps ground their chemistry in something approaching authenticity, instead of the obligatory box-ticking these relationships often feel like.
 
