@@ -6,7 +6,7 @@ image: the-great-canadian-supercut.jpg
 title: "The Great Canadian Supercut"
 addressee: "Canadians and Canada-Lovers"
 excerpt: ""
-author: all
+author: caseyt
 comments: true
 categories:
   - features
@@ -32,6 +32,7 @@ Enjoy the video, let us know what you think, and use the handy guide below to fi
 
 {% contentfor postscript %}
 
+##Full list of films##  
 **Click each link to see the clip:**
 
 [_Knocked Up_](https://youtu.be/1iDnJOq_5yo?t=2s) (2007)  
