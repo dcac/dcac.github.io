@@ -29,7 +29,7 @@ We also tried to limit clip selections to times "Canada" or "Canadian" is specif
 
 Enjoy the video, let us know what you think, and use the handy guide below to figure out where we took each clip.
 
-{% contentfor postscript %}Contact [redmond@dearcastandcrew.com](mailto:redmond@dearcastandcrew.com) for media requests.
+{% contentfor postscript %}
 
 **Click each link to see the clip:**
 
