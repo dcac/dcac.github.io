@@ -13,9 +13,10 @@ categories:
   - lists
 tags: [Canada,CanadaDay,Hollywood,video,supercut,Brad Pitt,Allied,Tom Cruise]
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1iDnJOq_5yo?ecver=1" frameborder="0" allowfullscreen></iframe>
 
 You know that strange tickle you get when Canada gets mentioned in a movie? Sometimes you cringe, sometimes you giggle, but you always react. We do, anyway – and we thought Canada’s 150<sup>th</sup> birthday was the perfect time to release a supercut showing some hilarious, ridiculous and surprising times Canada and Canadian characters are mentioned in Hollywood films.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1iDnJOq_5yo?ecver=1" frameborder="0" allowfullscreen></iframe>
 
 A little background:
 
