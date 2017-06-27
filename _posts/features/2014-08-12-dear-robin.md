@@ -5,19 +5,13 @@ layout: feature
 excerpt: "The crew from Dear Cast and Crew writes one last letter to the great Robin Williams, sharing their thoughts and memories on everything from <em>The Survivors</em> to <em>World’s Greatest Dad</em>—and just about every film in between"
 published: true
 image: dear-robin-2.jpg
-
 title: Dear Robin
-
 date: 2014-08-12 14:05
-
 author: all
-
 comments: true
-
 categories: 
   - essays
   - features
-
 tags: [eulogy, Robin Williams, Steven Spielberg, Hook, Jeff Bridges, Terry Gilliam, Christopher Nolan, Al Pacino, Walter Matthau]
 
 ---
