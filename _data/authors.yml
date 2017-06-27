@@ -2,7 +2,6 @@ all:
   name: Dear Cast & Crew
   short-name: <strong>Dear Cast & Crew</strong>
   signature: dcac-sig.png
-  bio: 'The whole gang.'
   
 caseyt:
   name: Casey Tourangeau
