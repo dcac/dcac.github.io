@@ -6,21 +6,21 @@ image: the-great-canadian-supercut.jpg
 title: "The Great Canadian Supercut"
 addressee: "Canadians and Canada-Lovers"
 excerpt: ""
-author: caseyt
+author: all
 comments: true
 categories:
   - features
   - lists
-tags: [Canada,CanadaDay,Hollywood,video,supercut,Brad Pitt,Allied,Tom Cruise]
+tags: [Canada,Canada Day,Hollywood,video,supercut,Brad Pitt,Allied,Tom Cruise]
 ---
 
 You know that strange tickle you get when Canada gets mentioned in a movie? Sometimes you cringe, sometimes you giggle, but you always react. We do, anyway – and we thought Canada’s 150<sup>th</sup> birthday was the perfect time to release a supercut showing some hilarious, ridiculous and surprising times Canada and Canadian characters are mentioned in Hollywood films.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1iDnJOq_5yo?ecver=1" frameborder="0" allowfullscreen></iframe>
 
-A little background:
+**A little background**
 
-Our inspiration came from the film [_Allied_](http://www.dearcastandcrew.com/content/2016/12/2/allied.html) [(2016)](http://www.dearcastandcrew.com/content/2016/12/2/allied.html), where Brad Pitt portrays a Canadian soldier in WWII.  After seeing the film, we tried to name other films that featured (better yet, starred) Canadian characters. We could only come up with a handful, but decided to dig deeper. Much deeper.  After months and months of research, what we found was wildly entertaining and enlightening.
+Our inspiration came from the film [_Allied_](http://www.dearcastandcrew.com/content/2016/12/2/allied.html) (2016), where Brad Pitt portrays a Canadian soldier in WWII.  After seeing the film, we tried to name other films that featured (better yet, starred) Canadian characters. We could only come up with a handful, but decided to dig deeper. Much deeper.  After months and months of research, what we found was wildly entertaining and enlightening.
 
 Yes, it’s true that Canada is often used as a punchline or a place of refuge for feeling Americans. Also, our passports constantly protect undercover spies.  But our military is also highly regarded, we make a lovely honeymoon destination, our national anthem is sung with unlikely enthusiasm, and "revealed as a Canadian" is apparently a go-to movie trope.
 
@@ -32,8 +32,8 @@ Enjoy the video, let us know what you think, and use the handy guide below to fi
 
 {% contentfor postscript %}
 
-##Full list of films##  
-**Click each link to see the clip:**
+**All of the films in this video**  
+(Click each link to see the clip)
 
 [_Knocked Up_](https://youtu.be/1iDnJOq_5yo?t=2s) (2007)  
 [_Love in the Afternoon_](https://youtu.be/1iDnJOq_5yo?t=10s) (1957)  

@@ -1,7 +1,8 @@
 all:
   name: Dear Cast & Crew
-  short-name: <strong>The Dear Cast & Crew crew</strong>
+  short-name: <strong>Dear&nbsp;Cast & Crew</strong>
   signature: dcac-sig.png
+  bio: ''
   
 caseyt:
   name: Casey Tourangeau
