@@ -3985,10 +3985,14 @@
         <lastmod>2017-06-20T11:15:14-04:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/content/2017/6/30/baby-driver.html</loc>
+        <lastmod>2017-06-30T11:36:33-04:00</lastmod>
+    </url>
+    <url>
         <loc>
-            http://www.dearcastandcrew.com/content/2017/6/26/the-great-canadian-supercut.html
+            http://www.dearcastandcrew.com/content/2017/6/30/the-great-canadian-supercut.html
         </loc>
-        <lastmod>2017-06-27T00:24:44-04:00</lastmod>
+        <lastmod>2017-06-30T11:36:33-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
@@ -4098,7 +4102,7 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2017-06-27T00:24:44-04:00</lastmod>
+        <lastmod>2017-06-30T11:36:33-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/writers/ankitv/</loc>
@@ -4275,9 +4279,5 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/while-were-young-contest.html</loc>
         <lastmod>2017-05-23T09:14:23-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
-        <lastmod>2017-04-27T09:17:19-04:00</lastmod>
     </url>
 </urlset>
