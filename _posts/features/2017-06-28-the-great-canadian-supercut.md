@@ -1,7 +1,7 @@
 ---
 layout: feature
 published: true
-date: 2017-06-26 22:00:00
+date: 2017-06-30 11:35:00
 image: the-great-canadian-supercut.jpg
 title: "The Great Canadian Supercut"
 addressee: "Canadians and Canada-Lovers"
