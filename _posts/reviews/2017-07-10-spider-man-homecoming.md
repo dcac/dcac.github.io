@@ -13,9 +13,9 @@ layout: review
 categories: 
   - reviews
   - current-releases
-title: "Spider-man: Homecoming"
+title: "Spider-Man: Homecoming"
 comments: true
-tags: [Spider-man,Marvel,comics,Robert Downey Jr.,Iron Man,Captain America]
+tags: [Spider-Man,Marvel,comics,Robert Downey Jr.,Iron Man,Captain America]
 ---
 
 On a many headed Hydra like _Spiderman: Homecoming_, everyone needs to be on the same page. These kinds of productions have countless departments involving hundreds of people and multiple locations across the globe.
