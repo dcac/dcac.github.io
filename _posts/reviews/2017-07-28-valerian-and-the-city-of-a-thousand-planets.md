@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2017-07-28 12:00:00
 imdb: tt2239822
 image: "valerian-and-the-city-of-a-thousand-planets.jpeg"
