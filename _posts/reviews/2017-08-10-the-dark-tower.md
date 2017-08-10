@@ -1,6 +1,6 @@
 ---
 published: true
-date: 2017-08-10 17:00:00
+date: 2017-08-10 00:00:00
 imdb: tt1648190
 image: the-dark-tower.jpg
 author: timm
