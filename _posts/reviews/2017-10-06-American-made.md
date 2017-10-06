@@ -13,7 +13,7 @@ layout: review
 categories: 
   - reviews
   - current-releases
-title: "American MAde"
+title: "American Made"
 comments: true
 tags: [Tom Cruise,Doug Liman,darma,drugs]
 ---
