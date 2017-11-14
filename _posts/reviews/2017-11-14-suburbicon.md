@@ -13,7 +13,7 @@ layout: review
 categories: 
   - reviews
   - current-releases
-title: "Thor: Ragnarok"
+title: "Suburbicon"
 comments: true
 tags: [Matt Damon,Julianne Moore,GeorgeClooney,Joel Doen,Ethan Coen,drama,satire]
 ---
