@@ -2,7 +2,7 @@
 published: true
 date: 2017-11-21 08:30:00
 imdb: tt5962210
-image: singrid-goes-west.jpg
+image: ingrid-goes-west.jpg
 author: dig
 stars: 4
 excerpt: ""
