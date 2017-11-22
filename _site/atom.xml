@@ -5,7 +5,11 @@
   <title type="text" xml:lang="en">Dear Cast & Crew</title>
     <link type="application/atom+xml" href="/atom.xml" rel="self"/>
     <link href="/"/>
+<<<<<<< HEAD
   <updated>2017-11-16T08:56:17Z</updated>
+=======
+  <updated>2017-11-16T10:21:04Z</updated>
+>>>>>>> 5b6def060a51b53540b047031b0811a20d40efab
   <id>/</id>
   <author>
     <name></name>
