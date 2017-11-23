@@ -22,7 +22,7 @@ You know that strange tickle you get when Canada gets mentioned in a movie? Some
 
 Our inspiration came from the film [_Allied_](http://www.dearcastandcrew.com/content/2016/12/2/allied.html) (2016), where Brad Pitt portrays a Canadian soldier in WWII.  After seeing the film, we tried to name other films that featured (better yet, starred) Canadian characters. We could only come up with a handful, but decided to dig deeper. Much deeper.  After months and months of research, what we found was wildly entertaining and enlightening.
 
-Yes, it’s true that Canada is often used as a punchline or a place of refuge for feeling Americans. Also, our passports constantly protect undercover spies.  But our military is also highly regarded, we make a lovely honeymoon destination, our national anthem is sung with unlikely enthusiasm, and "revealed as a Canadian" is apparently a go-to movie trope.
+Yes, it’s true that Canada is often used as a punchline or a place of refuge for fleeing Americans. Also, our passports constantly protect undercover spies.  But our military is also highly regarded, we make a lovely honeymoon destination, our national anthem is sung with unlikely enthusiasm, and "revealed as a Canadian" is apparently a go-to movie trope.
 
 In fact, we found so many times Canada is name-dropped that we could have made at least _three_ supercuts each using 150 different films. But we’ve curated our favourites to tell a story of how Hollywood – and by extension, much of the world – sees us on film.
 
