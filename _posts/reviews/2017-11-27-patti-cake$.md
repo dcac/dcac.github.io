@@ -31,7 +31,7 @@ _Patti Cake$_ is the first feature from writer/director Geremy Jasper, who opens
 
 You, more than anyone would know that there really is no such thing as an overnight success. _Patti Cake$_ has been picking up accolades on the awards circuit (including a nomination for the Grand Jury Prize at Sundance, and a Best First Feature nomination from the Independent Spirit Awards) not just because it’s a crowd-pleaser that audiences have wholly embraced, but because it celebrates the dreams of an ordinary person who, it turns out, is rather extraordinary. That’s the kind of story, hackneyed or not, that we really need more of right now.
 
-{% contentfor signatire %}
+{% contentfor signature %}
 **DDHD,**
 
 Di,
