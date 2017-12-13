@@ -3,7 +3,7 @@ published: true
 date: 2017-12-13 011:30:00
 imdb: tt5649144
 image: the-florida-project.jpg
-author: christohperr
+author: christopherr
 stars: 4
 excerpt: ""
 addressee: "Samantha Quan"
