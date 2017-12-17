@@ -7,7 +7,7 @@ author: jaredy
 stars: 5
 excerpt: ""
 addressee: "Charlotte Anthony"
-position: " Art Department Assistant"
+position: "Art Department Assistant"
 split_name: true
 layout: review
 categories: 
