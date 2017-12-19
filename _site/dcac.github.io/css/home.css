@@ -1,0 +1,648 @@
+*:focus {outline: none;}
+html, body {
+  height: auto;
+}
+a:hover{
+  text-decoration: none;
+}
+img.hero-image{
+  z-index: 0;
+  top:0;
+  display:block; 
+}
+a{
+  display:block ;
+}
+.hero-container{
+  position: relative;
+  padding:0;
+}
+.hero-title{
+  z-index: 1;
+  position: relative;
+  top:60%;
+  left:0;
+  padding-left:15px;
+  padding-right:15px;
+}
+
+.hero-title h1{
+  width:100%;
+  font-family: "Helvetica Neue", sans-serif;
+  color:#333;
+  text-transform: uppercase;
+  font-weight: 800;
+  font-size: 20pt;
+  line-height: 18pt;
+}
+.hero-title h2.star-rating{
+  font-family: "Georgia", "Helvetica",sans-serif;
+  line-height: 22pt;
+  color:#333;
+  font-size: 10pt;
+  font-style: italic;
+}
+
+.hero-title h2.addressee{
+  font-family: "Georgia", "Helvetica",sans-serif;
+  line-height: 22pt;
+  color:#333;
+  font-size: 12pt;
+  font-weight: 800;
+  font-size: 14pt;
+  font-style: italic;
+}
+
+.hero-title h2.author{
+  z-index: 2;
+  color:#333;
+  font-family: "Georgia", "Helvetica",sans-serif;
+  font-size: 10pt;
+  font-weight: 200;
+  height:auto;
+}
+.col-md-6 img, .col-md-4{
+  display: none;
+}
+.col-md-6{
+  border-top: 1px solid #333;
+  background-color: #eee;
+}
+.review-text-full{
+  margin-left:15px;
+}
+div.review-text h1{
+  font-size:12pt;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 5px;
+}
+div.review-text h2{
+  font-size:10pt;
+  color: #333;
+  font-family: "Georgia", "Helvetica",sans-serif;
+  margin-top: 0;
+}
+div.review-text h2.addressee{
+  font-size:10pt;
+  font-style: italic;
+}
+div.review-text h2.author{
+  margin-bottom: 5px;
+}
+div.review-text h2.author{
+  margin-bottom: 5px;
+}
+div.review-text-full h1{
+  font-size:16pt;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 5px;
+  margin-top: 0;
+}
+div.review-text-full h2{
+  font-size:10pt;
+  color: #333;
+  font-family: "Georgia", "Helvetica",sans-serif;
+  margin-top: 0;
+}
+div.review-text-full h2.addressee{
+  font-size:12pt;
+  font-style: italic;
+}
+div.review-text-full h2.author{
+  margin-bottom: 5px;
+}
+div.review-text-full h2.author{
+  margin-bottom: 5px;
+}
+div.review-text-full p.excerpt{
+  font-size:10pt;
+  color: #333;
+  font-family: "Georgia", "Helvetica",sans-serif;
+  margin-top: 0;
+}
+.dcac-hero-button{
+  background-color: #eee;
+  border-radius: 5px;
+  color:#333;
+  padding:2px;
+}
+.dcac-hero-button:hover{
+  background-color: #333;
+  color:#eee;
+}
+.navbar-inverse{
+  height: 30px;
+}
+.navbar-brand{
+  background: url('../img/logo-sm.png') 15px 15px no-repeat;
+  height:110px;
+  width:138px;
+}
+.navbar .nav > li > a{
+  line-height: 6;
+  color:#fff;
+  background-color: #333;
+  /*margin-top: 35px;*/
+}
+.nav > li {
+  font-size: 12pt;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.nav > li > a:hover,
+.nav > li > a:focus {
+  background-color: #333;
+}
+.sub-review {
+  font-size: 12pt;
+  text-transform: uppercase;
+  padding: 10px;
+}
+@media (min-width: 768px){
+
+  .container{
+    width: 100%;
+    background-color: #fff;
+    padding: 0;
+    margin-bottom: 250px;
+  }
+  .img-responsive{
+    width:940px;
+    margin-left: 15px;
+  }
+  .home-feature{
+    margin-bottom: 45px;
+  }
+  div.review-text{
+    padding: 0 10px;
+    -o-transition:.75s;
+    -ms-transition:.75s;
+    -moz-transition:.75s;
+    -webkit-transition:.75s;
+  }
+    div.review-text h1{
+    font-size:12pt;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 5px;
+  }
+    div.review-text h2{
+    font-size:8pt;
+    color: #333;
+    font-family: "Georgia", "Helvetica",sans-serif;
+    margin-top: 0;
+  }
+  div.review-text h2.addressee{
+    font-size:10pt;
+    font-style: italic;
+  }
+  div.review-text p {
+    font-size:8pt;
+    font-family: "Georgia", serif;
+    color: #333;
+  }
+  div.review-text h2.star-rating {
+    font-size:8pt;
+  }
+  .dcac-logo{
+    background: url('../img/logo-top-nav.png') 5px 5px no-repeat;
+    color: transparent;
+  }
+  .top-bar .name h1 a{
+    color: transparent;
+  }
+  .navbar-inverse{
+    height: 125px;
+    /*background-color: rgba(51,51,51,.9);*/
+    background-color: #333;
+    border-bottom: none;
+    z-index: 4;
+  }
+  .hero-title h2.author, .hero-title h2.addressee, .hero-title h2.star-rating  {
+    font-size: 12pt;
+    line-height: 16px;
+    color:#fff;
+    text-transform: none;
+    text-shadow: 0 0 2px #333;
+    font-family: "Georgia", "Helvetica",sans-serif;
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  .hero-title h2.star-rating {
+    font-size: 12pt;
+  }
+  .navbar, .navbar-brand{
+  -o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  }
+  .hero-title h1 {
+    font-size: 32pt;
+    line-height: 28pt;
+    letter-spacing: 3px;
+    color:#fff;
+    text-shadow: 0 0 2px #333;
+  }
+  img.hero-image{
+    z-index: 0;
+    top:0;
+    display: block;
+  }
+  .hero-container{
+    position: relative;
+    padding:0;
+  }
+  .hero-title{
+    z-index: 1;
+    position: absolute;
+    top:60%;
+    left:0;
+    padding-left:15px;
+    padding-right:15px;
+  }
+  
+  /* Section titles and Nav */
+  
+  /* Section header */
+  .full-black{
+    width: 100%;
+    background-color: #333;
+  }
+  .section-header{
+    width:100%;
+    background: #333 url('../img/footer/logo.png') no-repeat 0px 25px;
+    height: 200px;
+  }
+  section.top-nav{
+    color: #eee;
+    font-size: 12pt;
+    font-family: "Helvetica Neue", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    position: relative;
+    height: 100%;
+    width: 100%;
+  }
+  section.top-nav ul {
+    left: 200px;
+    position: absolute;
+    bottom: 10px;
+  }
+  section.top-nav ul li, section.top-nav ul li a {
+    display: inline;
+    list-style: none;
+    margin-right: 25px;
+    color: #fff;
+  }
+  section.top-nav a:hover{
+    text-decoration: underline;
+  }
+  .section-title{
+    width: 100%;
+    border-bottom: 1px solid black;
+    position: relative;
+  }
+  .section-title h1{
+    font-size: 36pt;
+    line-height: 32pt;
+    font-family: "Georgia", serif;
+    font-weight: 100;
+    color: #333;
+    display: block;
+    text-align: left;
+    margin: 0;
+    margin-bottom: 5px;
+  }
+  .mini-top-nav-hidden{
+    display:none;
+    position: absolute;
+    top:-50px;
+  }
+  .mini-top-nav-visible{
+    display:block;
+    margin-top:0;
+  }
+ /*
+ .section-right-nav{
+    right: 0;
+    top:0;
+    width:300px;
+    position: absolute;
+  }
+*/
+  ul.section-right-nav {
+  line-height: 1;
+    list-style: none;
+    display: inline;
+    position: absolute;
+    right:0;
+    bottom: 0;
+    margin-bottom: 5px;
+  }
+  li.section-right-nav{
+    font-size: 14pt;
+    font-family: "Helvetica Neue", sans-serif;
+    color: #333;
+    font-weight: 200;
+    text-align: left;
+    margin-left: 10px;
+    list-style: none;
+    display: inline;
+    margin-bottom: 0;
+  }
+  li.section-right-nav a{
+    display: inline;
+    color:#999;
+  }
+  
+  li.section-right-nav a:hover,li.section-right-nav a.current{
+    display: inline;
+    color:#333;
+  }
+  .section-grid{
+    height: auto;
+  }
+  .section-post{
+    min-height: 275px;
+    margin-bottom: 25px;
+  }
+  div.section-review-text h1{
+    font-size:12pt;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 5px;
+  }
+  div.section-review-text h2{
+    font-size:10pt;
+    color: #333;
+    font-family: "Georgia",serif;
+    margin-top: 0;
+  }
+  div.section-review-text h2.addressee{
+    font-size:10pt;
+    font-style: italic;
+  }
+  div.section-review-text h2.author{
+    margin-bottom: 5px;
+  }
+  div.section-review-text h2.author{
+    margin-bottom: 5px;
+  }
+  ul.pagination{
+    display: inline-block;
+  }
+  ul.pagination li{
+    font-size: 10pt;
+    display: inline;
+    background-color: #eee;
+    color: #333;
+    padding: 1px;
+    border:1px solid #333;
+    min-width:25px;
+    text-align: center;
+    font-family: "Helvetica Neue",sans-serif;
+  }
+  ul.pagination li.current{
+    font-size: 10pt;
+    display: inline;
+    background-color: #666;
+    color: #eee;
+    padding: 1px;
+    border:1px solid #333;
+    min-width:25px;
+    text-align: center
+  }
+  ul.pagination li.off{
+    font-size: 10pt;
+    background-color: #eee;
+    color: #999;
+  }
+  ul.pagination li a{
+    display: inline;
+    color: #333;
+    padding: 1px;
+  }
+  .center{
+    text-align: center;
+  }
+
+  /*.col-md-6 img, .col-md-8,.col-md-4{
+    display: block;
+    margin: 0;
+    padding: 0;
+  }
+  .col-md-4{
+    padding:0;
+  }
+  .col-md-6{
+    border-top: none;
+    background-color: transparent;
+  }*/
+   .sub-review{
+    width:100%;
+  }
+  .col-feature{
+    margin-bottom: 25px;
+  }
+  .row{
+    margin-bottom: 45px;
+  }
+  div.film-credits{
+    background-color: #ccc;
+    margin-bottom: 25px;
+    min-height:200px;
+  }
+  div.film-credits h1{
+    margin:0;
+    font-size: 10pt;
+    line-height: 20pt;
+    font-family: "Helvetica Neue", "Helvetica",sans-serif;
+    font-weight: 100;
+    letter-spacing: 2px;
+    color: #333;
+    display: block;
+    text-align: center;
+  }
+  article h1.film-credits-title{
+    font-size: 14pt;
+    font-style: italic;
+    font-family: "Georgia", serif;
+    font-weight: 100;
+    color: #333;
+    display: block;
+    text-align: left;
+    margin-left: 10px;
+  }
+  article h2.film-credits-description{
+    font-size: 12pt;
+    line-height: 20pt;
+    font-family: "Georgia", serif;
+    font-weight: 100;
+    color: #333;
+    display: block;
+    text-align: left;
+    margin-left: 10px;
+  }
+  div.film-credits article a {
+    margin-left: 10px;
+  }
+  div.film-credits-nav{
+    text-align:center;
+    background-color: #999;
+    color: #eee;
+  }
+  div.now-streaming{
+    background-color: #ccc;
+    margin-bottom: 25px;
+    margin-top: 0;
+  }
+  div.now-streaming h1{
+    margin:0;
+    font-size: 10pt;
+    line-height: 10pt;
+    font-family: "Helvetica Neue", "Helvetica",sans-serif;
+    font-weight: 100;
+    letter-spacing: 2px;
+    color: #333;
+    display: block;
+    text-align: center;
+  }
+  article h1.now-streaming-title{
+    font-size: 14pt;
+    line-height: 20pt;
+    font-style: italic;
+    font-family: "Georgia", serif;
+    font-weight: 100;
+    color: #333;
+    display: block;
+    text-align: left;
+    margin-left: 10px;
+  }
+  article h2.now-streaming-description{
+    font-size: 12pt;
+    line-height: 20pt;
+    font-family: "Georgia", serif;
+    font-weight: 100;
+    color: #333;
+    display: block;
+    text-align: left;
+    margin-left: 10px;
+  }
+  ul.now-streaming-list{
+    list-style: none;
+  }
+  
+  ul.now-streaming-list li.now-streaming-title span.star-rating{
+    color:#333;
+    font-size: 8pt;
+  }
+  li.now-streaming-title a {
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+  .thumbnail{
+    margin-bottom: 0;
+  }
+  .stuck{
+    position: fixed;
+    top:75px;
+    width:319px;
+  }
+  .unstuck{
+    position: absolute;
+    bottom: 0;
+  }
+  .home-sidebar{
+  }
+  .more-reviews{
+    font-family: "Georgia", serif;
+    font-size: 18pt;
+    color: #333;  
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #333;
+    margin-top: 10px;
+    margin-bottom: 25px;
+  }
+  .load-posts-div,.goto-posts-div{
+    text-align: center;
+  }
+  #goto-posts{
+    display: none;
+  }
+  .load-posts-button, .goto-posts-button{
+    background-color: #eee;
+    border-style : none;
+    border-width : medium;
+    border-color : inherit;
+    border : 2px solid #ccc;
+    padding-right: 75px;
+    padding-left: 75px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: "Helvetica Neue", "Helvetica",sans-serif;
+    font-size: 12pt;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+    color: #999;
+    font-weight: 500;
+    text-transform: uppercase;
+  }
+  .load-posts-button:hover,.goto-posts-button:hover{
+    background-color: #ccc;
+  }
+
+  .thumbnail{
+    border:none;
+    padding:0;
+  }
+  .post{
+    min-height: 300px;
+    margin-bottom: 25px;
+  }
+  .post-list{
+/*     min-height: 320px; */
+    margin-bottom: 45px;
+  }
+  #unstick-side{
+    height: 1px;
+    width: 100%;
+    position: relative;
+  }
+}
+/* Infinite scroll stylings */
+
+.infinite-spinner {
+  display: block;
+  width: 40px;
+  height: 40px;
+  border-radius: 40px;
+  background-color: #333;
+  margin: 60px auto;
+  
+  -webkit-animation: scaleout 1.0s infinite ease-in-out;
+  animation: scaleout 1.0s infinite ease-in-out;
+}
+
+@-webkit-keyframes scaleout {
+  0% { -webkit-transform: scale(0.0) }
+  100% {
+    -webkit-transform: scale(1.0);
+    opacity: 0;
+  }
+}
+
+@keyframes scaleout {
+  0% {
+    transform: scale(0.0);
+    -webkit-transform: scale(0.0);
+  } 100% {
+    transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    opacity: 0;
+  }
+}
