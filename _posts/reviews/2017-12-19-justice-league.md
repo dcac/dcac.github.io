@@ -13,7 +13,7 @@ layout: review
 categories: 
   - reviews
   - current-releases
-title: "Justic League"
+title: "Justice League"
 comments: true
 tags: [Ben Affleck,Henry Cavill, Gal Gadot,Superman,Batman,Wonder Woman, DC,comics]
 ---
