@@ -26,7 +26,7 @@ This year I’m including my full diet as a film critic. Not a list of the films
 
 And as always, this list represents my _personal_ highlights from the past year and does not reflect an editorial consensus from the other writers on the site. You’ll also notice we don’t have a review for my #1 film on the website, but my essay will be available shortly.
 
-**Total films:**** 160**
+**Total films: 160**
 
 **Venue:**
 
@@ -46,7 +46,8 @@ Classic: **19** (12%)
 **New vs. Old**
 
 First-time viewing: **151** (94%)  
-Repeat Viewing: **9** (6%)  
+Repeat Viewing: **9** (6%)
+
 **Specialty Genres** :  
 Canadian: **14** (9%)  
 Documentary: **11** (7%)  
