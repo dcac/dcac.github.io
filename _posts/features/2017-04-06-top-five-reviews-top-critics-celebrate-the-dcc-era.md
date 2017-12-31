@@ -15,7 +15,7 @@ tags: [5th anniversary,Dear Cast & Crew, top 5]
 ---
 We&#39;d like to interrupt all this [fifth anniversary](http://www.dearcastandcrew.com/content/2017/3/16/top-five-reviews-by-the-numbers.html) [navel-gazing](http://www.dearcastandcrew.com/content/2017/3/24/top-five-reviews-personal-favourites.html) with some special contributions from some of our favourite critics in the world.
 
-We asked them to share their Top 5 Films of the DC&amp;C Era (2012 - Today). Consider this an all-star cheat sheet for deciding (a) what films to finally catch up on, and (b) who you can trust (you know, besides us) when it comes to naviagting the world of cinema. 
+We asked them to share their Top 5 Films of the DC&amp;C Era (2012 - Today). Consider this an all-star cheat sheet for deciding (a) what films to finally catch up on, and (b) who you can trust (you know, besides us) when it comes to navigating the world of cinema. 
 
 ** **
 
