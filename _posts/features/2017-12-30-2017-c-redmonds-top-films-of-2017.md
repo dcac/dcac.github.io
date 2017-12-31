@@ -12,7 +12,7 @@ layout: feature
 categories: 
   - features
   - lists
-title: "2017 Silver Stamps"
+title: "C. Redmond’s Top Films of 2017"
 comments: true
 tags: [Awards, awesome, Best, Canadian, critic, films, good, list, movies, Top films 2017, worst, year end, 2017]
 ---
@@ -68,7 +68,7 @@ Animation: **3** (2%)
 
 **Better Than They Needed to Be**
 
-[_Spider-Man: Homecomin_](http://www.dearcastandcrew.com/content/2017/7/10/spider-man-homecoming.html) [_g_](http://www.dearcastandcrew.com/content/2017/7/10/spider-man-homecoming.html)  
+[_Spider-Man: Homecoming_](http://www.dearcastandcrew.com/content/2017/7/10/spider-man-homecoming.html) [_g_](http://www.dearcastandcrew.com/content/2017/7/10/spider-man-homecoming.html)  
 [_Patriot’s Day_](http://www.dearcastandcrew.com/content/2017/1/25/patriots-day.html)  
 [_Wonder Woman_](http://www.dearcastandcrew.com/content/2017/6/16/wonder-woman.html)
 
