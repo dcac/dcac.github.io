@@ -1,7 +1,7 @@
 ---
 published: true
 date: 2018-01-03 07:00:00
-imdb: tt5580390
+imdb: tt5294550
 image: all-the-money-in-the-world.jpg
 author: natm
 stars: 3.5
