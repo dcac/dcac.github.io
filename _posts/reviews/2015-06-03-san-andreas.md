@@ -16,7 +16,7 @@ tags:
   - The Rock
   - Dwayne Johnson
   - disaster
-  - vlockbuster
+  - blockbuster
   - action
   - summer 2015
 ---
