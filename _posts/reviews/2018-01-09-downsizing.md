@@ -7,7 +7,7 @@ author: christopherr
 stars: 2.5
 excerpt: ""
 addressee: "Ann-Marie Ferney-Tellez"
-position: "Production Designer"
+position: "Props Buyer"
 split_name: true
 layout: review
 categories: 
