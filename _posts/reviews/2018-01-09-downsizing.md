@@ -13,7 +13,7 @@ layout: review
 categories: 
   - reviews
   - current-releases
-title: "Props Buyer"
+title: "Downsizing"
 comments: true
 tags: [Matt Damon, Alexander Payne,Cristoph Waltz,Kristen Wiig,comedy,satire]
 ---
