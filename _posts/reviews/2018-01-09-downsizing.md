@@ -15,7 +15,7 @@ categories:
   - current-releases
 title: "Props Buyer"
 comments: true
-tags: [Matt Damon, Alexander Payne.comedy,satire]
+tags: [Matt Damon, Alexander Payne,Cristoph Waltz,Kristen Wiig,comedy,satire]
 ---
 
 I will not be giving you props for your work on this movie. I understand the buck doesn’t stop with you (in fact, as a buyer, it _starts_ with you), but someone in the art department really should have cared more about how a downsized world should look. Far too many times sloppy decisions were allowed through the cracks. Writer/Director Alexander Payne is nothing if not an expert in tone and handling multiple complex human emotions, but when it comes to production design… well let’s just say, I’ve never longed for a movie to be directed by Tim Burton in my life. Until now.
