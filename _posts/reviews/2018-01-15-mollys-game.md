@@ -13,7 +13,7 @@ layout: review
 categories: 
   - reviews
   - current-releases
-title: "Molly's Game
+title: "Molly's Game"
 comments: true
 tags: [Jessica Chastain,Idris Elba,Aaron Sorkin,gambling,poker,drama]
 ---
