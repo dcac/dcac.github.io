@@ -5,7 +5,7 @@ imdb:
 image: get-out-is-unreal-and-the-best-film-of-2017.jpg
 author: christopherr 
 stars: 
-excerpt: "At the end of the year, what raised the bar for cinema writ large, and what failed to clear the baseline of quality control?"
+excerpt: "C. Redmond had no intention of calling <em>Get Out</em> the best film of the year until it simply became inevitable."
 position: 
 addressee: 
 layout: feature
