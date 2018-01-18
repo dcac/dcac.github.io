@@ -16,8 +16,6 @@ title: "Call Me By Your Name is Unapologetically the Best Film of 2017"
 comments: true
 tags: [ Best,Top films 2017,year end, 2017]
 ---
-Dear Fellow Critics,
-
 2017, for me, was a bullshit year. I lived for ten months in a gutted house undergoing renos. I lost one of my best friends very suddenly. I took in an ill family member, spent an exorbitant amount of money and sleepless nights on a beloved dog with an unknown illness, all while personally enduring medically induced menopause and its inherent delights (weight gain, hot flashes, mood swings).
 
 And that’s just the bullshit I’m willing to share. Honestly, there were days when I felt like I was _in_ a movie (the kind I’d pan for being too contrived).
