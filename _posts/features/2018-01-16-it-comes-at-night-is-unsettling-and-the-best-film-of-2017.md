@@ -7,7 +7,7 @@ author: timm
 stars: 
 excerpt: "Tim McEown shares how a personal connection can elevate a film to the very top."
 position: 
-addressee: 
+addressee:  "Fellow Critics"
 layout: feature
 categories: 
   - features
@@ -16,8 +16,6 @@ title: "It Comes at Night is Unsettling and the Best Film of 2017"
 comments: true
 tags: [ Best,Top films 2017,year end, 2017]
 ---
-Dear Fellow Critics,
-
 When people talk about “best films”, the number of people having the conversation is usually equal to the number of different criteria involved. More and more I find that when a film connects with me on a personal level, reaching inside and pulling out something I wasn’t even aware was there, it jumps to the top of my list.
 
 That doesn’t mean it has to be about anything in particular, or be made by someone with whom I have a shared cultural or social history. What it does mean is that the people responsible for it have managed to express something profound and new in a way that is accessible. But that’s the case with any interaction with a piece of art—it’s substance, or lack of it, is always contained in that intimate back-and-forth. To be able to do that requires technical skill, great writing, superb performances and adept storytelling. Not an easy or simple task. But the thing that really makes the difference is the intention to connect, and the ambition to do so in a significant way. All the other elements are simply tools the film makers use to achieve that end.

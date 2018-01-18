@@ -7,7 +7,7 @@ author: christopherr
 stars: 
 excerpt: "At the end of the year, what raised the bar for cinema writ large, and what failed to clear the baseline of quality control?"
 position: 
-addressee: 
+addressee:  "Readers"
 layout: feature
 categories: 
   - features

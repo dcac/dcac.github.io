@@ -7,7 +7,7 @@ author: christopherr
 stars: 
 excerpt: "C. Redmond had no intention of calling <em>Get Out</em> the best film of the year until it simply became inevitable."
 position: 
-addressee: 
+addressee:  "Fellow Critics"
 layout: feature
 categories: 
   - features
@@ -16,8 +16,6 @@ title: "Get Out is Unreal and the Best Film of 2017"
 comments: true
 tags: [ Best,Top films 2017,year end, 2017]
 ---
-Dear Fellow Critics,
-
 It’s tough when the best film of the year comes out in February. Even worse when you don’t yet know it will be the best film. I’ve seen films as early as [June](http://www.dearcastandcrew.com/content/2016/1/11/inside-out-is-easily-the-best-film-of-2015.html) and [July](http://www.dearcastandcrew.com/content/2017/1/16/swiss-army-man-is-the-best-and-ballsiest-film-of-2016.html) that have pretty quickly declared themselves #1 in my heart, but traditionally we look forward to the festival circuit in [September](http://www.dearcastandcrew.com/content/2015/1/5/yes-nightcrawler-is-the-best-film-of-2014.html), or maybe an end of the year surprise, to really give us something special. So I had no intention of calling _Get Out_ the best film of the year until it simply became inevitable.
 
 I surprised myself with my [year-end Top 10](http://www.dearcastandcrew.com/content/2017/12/30/2017-c-redmonds-top-films-of-2017.html). I kept slotting other films at the top just to try it out, but nothing felt right and I couldn’t figure out why. White guilt? Why else did we not even review _Get Out_ on the site in 2017? Personally, I may have felt somehow unqualified to tackle this racially-charged [milestone](http://www.indiewire.com/2017/04/get-out-breaks-record-jordan-peele-debut-screenplay-highest-grossing-1201799905/) movie - like it wasn’t _my_ movie to claim. After all, isn’t appropriation what the whole film’s about?
