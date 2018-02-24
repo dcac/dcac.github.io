@@ -12,6 +12,8 @@ layout: feature
 categories: 
   - features
   - lists
+  - series
+series-name: Best of 2017
 title: "Raw is Unhinged and the Best Film of 2017"
 comments: true
 tags: [ Best,Top films 2017,year end, 2017]
