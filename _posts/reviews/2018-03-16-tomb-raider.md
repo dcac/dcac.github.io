@@ -33,8 +33,8 @@ _Tomb Raider_ is silly to be sure, but Vikander and its strong cast – Dominic 
 
 Not every film can be Academy Award-worthy, and not every film needs to be. Not every actress can be an Oscar winner like Alicia Vikander, and that’s okay too.  Sometimes  - whether you’re a stand-in, or a genre flick - doing exactly what is expected is commendable in its own way.
 
-<% contentfor signature %>
+{% contentfor signature %}
 **Cheers,**
 
 Di
-<% endcontentfor %>
+{% endcontentfor %}
