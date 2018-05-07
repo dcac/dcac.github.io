@@ -1,8 +1,8 @@
 ---
 published: true
-date: 2018-05-17 15:40:00
+date: 2018-05-07 13:45:00
 imdb: tt4686844
-image: -the-death-of-stalin.jpg
+image: the-death-of-stalin.jpg
 author: dig
 stars: 4
 excerpt: ""
