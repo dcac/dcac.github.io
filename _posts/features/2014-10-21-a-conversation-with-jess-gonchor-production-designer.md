@@ -92,7 +92,7 @@ It was also a sense of being desperate. To me, the whole movie was about the col
 
 I started looking at negative space for that movie. I don't want to get too deep, but I was just embracing the sky in everything we did. So instead of looking at the outline of a trailer, I sort of looked at it upside down like, "what's the outline of the sky?".It helped me to define the landscape. The landscape of West Texas and how hot it was and how thirsty you were out there. Getting that message across of space and dessert.
 
-![Jess Gonchor's colour palette for No Country for Old Men](/img/features/inline/a-conversation-with-jess-gonchor-production-designer.jpg)
+![Jess Gonchor's colour palette for No Country for Old Men](/assets/img/features/inline/a-conversation-with-jess-gonchor-production-designer.jpg)
 
 I remember the colour palette I made for that: I knocked off a Rothko painting and had pretty much just the colours you would find in the West Texas desert. I put a splatter of blood to top it off. So it was a few shades of brown, a shade of rust, and shade of concrete, and then a spatter of blood.
 
