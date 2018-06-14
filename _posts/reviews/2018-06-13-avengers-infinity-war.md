@@ -41,7 +41,7 @@ Settings feel generic and ill-defined. A climactic battle set on a grassy plain 
 
 Still, I’m coming off as more down on this than I mean to. There is fun to be had — and if someone’s invested over 38 hours in the previous entries, what’s another two hours and forty minutes? Besides, if this really is a stand-in for the real show to come, we all know it’s the next few hours that will count.
 
-Or else I’ll be angry. And you won’t like me when I’m-- See? Now I’m even doing joining in.
+Or else I’ll be angry. And you won’t like me when I’m-- See? Now I’m even joining in.
 
 Fine, Marvel, you win.
 
