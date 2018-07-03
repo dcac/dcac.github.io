@@ -32,7 +32,7 @@ _Hereditary_ is reminiscent of some of the most iconic 20<sup>th</sup> century h
 But these are tiny quibbles that could fit into one of your tiny rooms. _Hereditary_ is a kitchen-sink drama disguised as a horror film, employing the intensity of both genres to full effect. The larger themes outweigh the smaller contrivances, which, when assembled together constructed one of the most surprising films of the year so far.
 
 {% contentfor signature %}
-Regards,
+**Regards,**
 
 Di
 {% endcontentfor %}
