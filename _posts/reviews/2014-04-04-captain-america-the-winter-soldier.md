@@ -10,7 +10,8 @@ addressee: Kevin Feige
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - streaming
+  - netflix
 title:  "Captain America: The Winter Soldier"
 date: 2014-04-04 19:34
 comments: true

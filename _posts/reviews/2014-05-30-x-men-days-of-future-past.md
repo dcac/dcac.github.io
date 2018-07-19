@@ -10,7 +10,8 @@ addressee: Christine Wilson
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - streaming
+  - netflix
 title:  "X-Men: Days of Future Past"
 date: 2014-05-30 14:04
 comments: true

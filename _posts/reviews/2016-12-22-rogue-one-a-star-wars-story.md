@@ -12,7 +12,8 @@ split_name: true
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - streaming
+  - netflix
 title: "Rogue One: A Star Wars Story"
 comments: true
 tags: [Star Wars, George Lucas,sci-fi,The Force Awakens]
