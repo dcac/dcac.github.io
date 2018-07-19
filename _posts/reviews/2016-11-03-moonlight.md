@@ -12,7 +12,8 @@ split_name: true
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - streaming
+  - netflix
 title: "Moonlight"
 comments: true
 amazon_link: "http://amzn.to/2ehNd7g"

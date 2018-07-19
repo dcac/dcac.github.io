@@ -12,7 +12,8 @@ split_name: true
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - streaming
+  - netflix
 title: "Suburbicon"
 comments: true
 tags: [Matt Damon,Julianne Moore,GeorgeClooney,Joel Doen,Ethan Coen,drama,satire]

@@ -12,7 +12,8 @@ split_name: true
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - streaming
+  - netflix
 title: "Swiss Army Man"
 comments: true
 tags: [Daniel Radcliffe,Paul Dano,Mary Elizabeth Winstead,comedy]

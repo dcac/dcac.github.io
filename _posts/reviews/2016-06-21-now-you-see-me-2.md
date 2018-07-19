@@ -12,7 +12,8 @@ split_name: true
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - streaming
+  - netflix
 title: "Now You See Me 2"
 comments: true
 tags: [action,magic,Jesse Eisenberg,Morgan Freeman,Lizzy Caplan,Woody Harrelson]

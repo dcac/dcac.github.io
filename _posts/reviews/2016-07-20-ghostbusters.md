@@ -12,7 +12,8 @@ split_name: true
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - streaming
+  - netflix
 title: "Ghostbusters"
 comments: true
 tags: [Ghostbusters, comedy, remake,Kristen Wiig,Melissa McCarthy,Leslie Jones,Kate McKinnon]
