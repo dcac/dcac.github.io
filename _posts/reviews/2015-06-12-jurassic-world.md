@@ -2,7 +2,8 @@
 layout: review
 categories: 
   - reviews
-  - "current-releases"
+  - streaming
+  - netflix
 published: true
 title: "Jurassic World"
 image: "jurassic-world.jpg"

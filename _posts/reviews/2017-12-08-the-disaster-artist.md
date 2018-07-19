@@ -12,7 +12,8 @@ split_name: true
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - streaming
+  - netflix
 title: "The Disaster Artist"
 comments: true
 tags: [James Franco,The Room,Tommy Wiseau,comedy,filmmaking]

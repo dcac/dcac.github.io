@@ -10,7 +10,8 @@ addressee: "70mm"
 layout: review
 categories: 
   - reviews
-  - series
+  - streaming
+  - netflix
 title: "The Hateful Eight"
 comments: true
 tags: [Quentin Tarantino, western, Jennifer Jason Leigh, drama, Kurt Russell]

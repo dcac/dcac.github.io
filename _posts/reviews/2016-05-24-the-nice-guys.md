@@ -12,7 +12,8 @@ split_name: false
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - streaming
+  - netflix
 title: "The Nice Guys"
 comments: true
 tags: [Ryan Gosling,Russell Crowe,Shane Black,comedy,crime,detectives,action]

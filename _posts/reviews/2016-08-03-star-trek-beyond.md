@@ -12,7 +12,8 @@ split_name: true
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - streaming
+  - netflix
 title: "Star Trek Beyond"
 comments: true
 tags: [Star Trek,sci-fi,Chris Pine,Anton Yelchin,Green Room]
