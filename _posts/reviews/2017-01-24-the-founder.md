@@ -12,7 +12,8 @@ split_name: true
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - streaming
+  - netflix
 title: "The Founder"
 comments: true
 tags: [Michael Keaton,Nick Offerman,biography,drama,food]

@@ -12,7 +12,8 @@ split_name: true
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - streaming
+  - netflix
 title: "Jack Reacher: Never Go Back"
 comments: true
 amazon_link: "http://amzn.to/2dP9Lw0"
