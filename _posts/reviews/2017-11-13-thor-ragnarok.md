@@ -12,7 +12,8 @@ split_name: true
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - streaming
+  - netflix
 title: "Thor: Ragnarok"
 comments: true
 tags: [Thor,Marvel,Chris Hemsworth,Tom Hiddleston,Marke Ruffalo,Cate Blanchett,comics,superhero]

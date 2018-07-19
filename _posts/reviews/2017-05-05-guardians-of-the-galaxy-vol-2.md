@@ -12,7 +12,8 @@ split_name: true
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - streaming
+  - netflix
 title: "Guardians of the Galaxy Vol. 2"
 comments: true
 tags: [Marvel,Chris Pratt,Zoe Saldana,Bradley Cooper, comics,action,science fiction]

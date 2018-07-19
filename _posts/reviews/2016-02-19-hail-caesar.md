@@ -12,7 +12,8 @@ split_name: true
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - streaming
+  - netflix
 title: "Hail Caesar!"
 comments: true
 tags: [comedy, Hollywood, movies, Coen Brothers, George Clooney,Scarlett Johansson, Channing Tatum, Josh Brolin]

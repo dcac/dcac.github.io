@@ -12,7 +12,8 @@ split_name: true
 layout: review
 categories: 
   - reviews
-  - current-releases
+  - streaming
+  - netflix
 title: "The Last Jedi"
 comments: true
 tags: [Star Wars,The Empire Strikes Back,Rian Johnson]
