@@ -15,7 +15,7 @@ categories:
   - current-releases
 title: "A Star is Born"
 comments: true
-tags: [Bradley Cooper,Lady Gaga,musical,drama,remake,romance)
+tags: [Bradley Cooper,Lady Gaga,musical,drama,remake,romance]
 ---
 You might have the [longest IMDb resume](https://www.imdb.com/name/nm0745448/) I’ve ever seen. A couple of producing credits, 13 gigs as a composer, and (as of October 2018) a whopping 879 credits as a music contractor. That’s 879 separate films and TV series you’ve worked on - _not_ counting individual episodes (where the numbers get out of control: 38 episodes of _Nashville_, 50 episodes of _Empire_, 152 episodes _Once Upon a Time_, etc.). With so many contracts flying across your desk and rights being cleared, I can’t imagine a movie like _A Star is Born_ made much of an impression on you. On paper, it probably felt like just another music-themed project hoping to lock down a few new tunes and cash in on their breakout potential.
 
