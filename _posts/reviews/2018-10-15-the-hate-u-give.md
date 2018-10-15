@@ -13,7 +13,7 @@ layout: review
 categories: 
   - reviews
   - current-releases
-title: "Mandy"
+title: "The Hate U Give"
 comments: true
 tags: [drama,women,crime,african american]
 ---
