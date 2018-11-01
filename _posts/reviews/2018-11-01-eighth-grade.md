@@ -31,7 +31,7 @@ Your score is Kayla’s heartbeat, and it rises and falls with her triumphs and 
 
 Being a teen girl in the 21st century is exhausting, and Elsie Fisher’s unaffected and earnest portrayal makes Kayla’s experience universal.  But the challenge of telling a story whose narrative relies so heavily on the technology of the moment, is to find a way to make Kayla’s journey seem timeless. Your electronica compositions mirror Kayla’s digital world, but they do more than that. They are a bold and orchestral accoutrement highlighting the rollercoaster ride of her life yet with a softly searching and hopeful undercurrent. It is a sonic representation of the sheer confusion of being a teen. It is as personal as it is inclusive but most importantly, it is cinematic in the way every young girl believes her life to be.
 
-{%.contentfor signature %}
+{% contentfor signature %}
 **Brava,**
 
 Di
