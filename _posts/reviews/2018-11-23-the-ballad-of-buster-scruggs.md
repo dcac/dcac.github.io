@@ -6,8 +6,8 @@ image: the-ballad-of-buster-scruggs.jpg
 author: christopherr
 stars: 4
 excerpt: ""
-addressee: Harry Melling"
-position: "Artist ('“Meal Ticket'” segment)"
+addressee: Harry Melling
+position: 'Artist (“Meal Ticket” segment)'
 split_name: true
 layout: review
 categories: 
