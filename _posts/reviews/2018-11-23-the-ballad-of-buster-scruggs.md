@@ -7,7 +7,7 @@ author: christopherr
 stars: 4
 excerpt: ""
 addressee: Harry Melling"
-position: "Artist (\“Meal Ticket\” segment)"
+position: "Artist ('“Meal Ticket'” segment)"
 split_name: true
 layout: review
 categories: 
