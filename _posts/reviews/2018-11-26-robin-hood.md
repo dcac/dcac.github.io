@@ -70,5 +70,5 @@ Much like you chose to shine a light onto Marian, I’m shining a light on what 
 {% contentfor signature %}
 **Yours Truly,**
 
--Ankit
+Ankit
 {% endcontentfor %}
