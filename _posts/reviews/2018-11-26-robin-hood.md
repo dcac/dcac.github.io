@@ -67,6 +67,8 @@ The cleavage shot in _Robin Hood_ is just one of the many exhaustive things wron
 
 Much like you chose to shine a light onto Marian, I’m shining a light on what I consider to be one of the worst pictures of 2018.
 
-Yours Truly,
+{% contentfor signature %}
+**Yours Truly,**
 
 -Ankit
+{% endcontentfor %}
