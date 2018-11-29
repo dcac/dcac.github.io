@@ -13,7 +13,7 @@ layout: review
 categories: 
   - reviews
   - current-releases
-title: "The Ballad of Buster Scruggs"
+title: "Green Book"
 comments: true
 tags: [drama,Viggo Mortensen]
 ---
