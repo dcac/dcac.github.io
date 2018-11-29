@@ -20,7 +20,7 @@ tags: [drama,Viggo Mortensen]
 ****
 You authored the original Green Book, or, as it was first known in 1936, The Negro Motorist Green Book. This annually updated tour guide was a tool for African-American travelers to find lodging, restaurants, and services willing to accommodate them in Jim Crow-era United States.  In the introduction to the guide you wrote:
 
-[]“There will be a day sometime in the near future when this guide will not have to be published. That is when we as a race will have equal rights and privileges in the United States.”](https://en.wikipedia.org/wiki/Victor_Hugo_Green#cite_note-open-3)
+“There will be a day sometime in the near future when this guide will not have to be published. That is when we as a race will have equal rights and privileges in the United States.”](https://en.wikipedia.org/wiki/Victor_Hugo_Green#cite_note-open-3)
 
 Well I’ve got some good news, and some bad news…
 

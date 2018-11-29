@@ -37,31 +37,31 @@ The argument could be made that I’m being too sensitive. That I’m blowing th
 
 Spoilers ahead but nobody should see this movie so it doesn’t matter:
 
-- Robin Hood has PTSD after viewing the horrors of war, but that doesn’t stop him from using innocent bystanders as human shields against a barrage of arrows.
+* Robin Hood has PTSD after viewing the horrors of war, but that doesn’t stop him from using innocent bystanders as human shields against a barrage of arrows.
 
-- Jamie Foxx’s Little John stows away on a boat for three months without any access to food or water
+* Jamie Foxx’s Little John stows away on a boat for three months without any access to food or water
 
-- Despite being Arabic, Little John has a British accent which seems to turn on and off as the movie progresses.
+* Despite being Arabic, Little John has a British accent which seems to turn on and off as the movie progresses.
 
-- Robin Hood’s first appearance is a straight copy and paste of the shipyard fight scene in _Batman Begins._
+* Robin Hood’s first appearance is a straight copy and paste of the shipyard fight scene in _Batman Begins._
 
-- Will Scarlet tells Ben Mendelsohn’s Sheriff of Nottingham that he has ambition and is a man of the people despite only voicing his opinion, once.
+* Will Scarlet tells Ben Mendelsohn’s Sheriff of Nottingham that he has ambition and is a man of the people despite only voicing his opinion, once.
 
-- Will Scarlet turns to the dark side after seeing his love interest, Marian, kissing Robin Hood. Tough loss for a man who did jack shit when his girlfriend got punched in the face by an armed guard and kidnapped earlier on in the film.
+* Will Scarlet turns to the dark side after seeing his love interest, Marian, kissing Robin Hood. Tough loss for a man who did jack shit when his girlfriend got punched in the face by an armed guard and kidnapped earlier on in the film.
 
-- Will Scarlet also gets half his face burned a-la Harvey Dent in _The Dark Knight_ (more Batman plagiarism).
+* Will Scarlet also gets half his face burned a-la Harvey Dent in _The Dark Knight_ (more Batman plagiarism).
 
-- Ben Mendelsohn’s Sheriff of Nottingham is the most powerful man in his district but chooses to use a common friar as his personal assistant. That friar also happens to have close ties to Robin Hood. What a coincidence.
+* Ben Mendelsohn’s Sheriff of Nottingham is the most powerful man in his district but chooses to use a common friar as his personal assistant. That friar also happens to have close ties to Robin Hood. What a coincidence.
 
-- The villains love to laugh maniacally only for one of them to scream, “silence” at the top of his lungs and kill the mood. This happened twice.
+* The villains love to laugh maniacally only for one of them to scream, “silence” at the top of his lungs and kill the mood. This happened twice.
 
-- The villains are also cartoonishly evil. Not on purpose. They’re just awfully written.
+* The villains are also cartoonishly evil. Not on purpose. They’re just awfully written.
 
-- The Sheriff orders his men to go into town and steal money and possessions from the people. A dick move which quickly turns into little girls getting shoved into the back of a carriage? Is she a prized possession or did some guard just go way overboard?
+* The Sheriff orders his men to go into town and steal money and possessions from the people. A dick move which quickly turns into little girls getting shoved into the back of a carriage? Is she a prized possession or did some guard just go way overboard?
 
-- Robin Hood is chased up a stairwell on horseback. The shot is cool but it would’ve been way more efficient to just run up the stairs on foot and not maneuver a 1000-pound animal through a tight space.
+* Robin Hood is chased up a stairwell on horseback. The shot is cool but it would’ve been way more efficient to just run up the stairs on foot and not maneuver a 1000-pound animal through a tight space.
 
-- Robin Hood says he leaves no man behind even though his grand scheme is to lead a rebellion army into battle against the military. Did Robin Hood not think that maybe one or two people might get arrested or killed in the process?
+* Robin Hood says he leaves no man behind even though his grand scheme is to lead a rebellion army into battle against the military. Did Robin Hood not think that maybe one or two people might get arrested or killed in the process?
 
 The cleavage shot in _Robin Hood_ is just one of the many exhaustive things wrong with it. It’s a metaphor for the low-brow decision-making that went into _Robin Hood_’s entire production. I am a huge fan of Taron Egerton but even his charisma and natural charm can’t make up for how bored, annoyed, and frustrated I was.
 
