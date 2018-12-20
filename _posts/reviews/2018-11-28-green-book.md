@@ -1,6 +1,6 @@
 ---
 published: true
-date: 2018-11-26 18:30:00
+date: 2018-11-28 18:30:00
 imdb: tt6966692
 image: green-book.jpg
 author: dig
