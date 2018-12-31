@@ -5,7 +5,7 @@ imdb:
 image: c-redmonds-top-films-of-2018.jpg
 author: christopherr 
 stars: 
-excerpt: ""
+excerpt: "The best movies, the biggest disappointments, and all the peak television C. Redmond could consume are laid out in his annual year-end round-up."
 position: 
 addressee:  "Readers"
 layout: feature
