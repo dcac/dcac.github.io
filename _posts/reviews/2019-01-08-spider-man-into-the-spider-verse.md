@@ -1,6 +1,6 @@
 ---
 published: true
-date: 2018-01-08 15:00:00
+date: 2019-01-08 15:00:00
 imdb: tt4633694
 image: spider-man-into-the-spider-verse.jpg
 author: timm
