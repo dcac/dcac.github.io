@@ -15,7 +15,7 @@ categories:
   - current-releases
 title: "Spider-Man: Into The Spider-Verse"
 comments: true
-tags: [Robin Hood, Kingsmen,adventure,zero stars, Taron Egerton,Jamie Foxx]
+tags: [animation,Spider-man,Phil Lord,Christopher Miller,Marvel,comics]
 ---
 Given that storyboard artists use comic panels to help the director visualize the film that they’re creating, I imagine your involvement with _Spider-Man: Into The Spider-Verse_ was pretty goddamn satisfying.
 
@@ -33,6 +33,6 @@ Watching this film felt like six year old me reading Kirby/Lee’s “Annilihus 
 
 I haven’t had this much fun or so throughly disengaged from my usual remove while watching a movie in a very long time. And while that might harm the value of my critical engagement some, I was perfectly happy to let that slide in this case.
 
-Watching _Spider-Man: Into The Spider-Verse_ was easily the most rewarding experience I’ve had in a movie theatre this year, if not the last decade or two _(_[_Mad Max: Fury Road_](http://www.dearcastandcrew.com/content/2016/1/13/mad-max-fury-road-is-unapologetically-the-best-film-of-2015.html)being the only exception). I hope it was the same for you, because this is definitely a movie where the joy in experiencing it simply as it happens far outweighs the value of trying to pick it apart. That will happen anyway, probably exhaustively, over the next weeks and even months. And that’s as it should be, but I recommend everyone just allow it wash over you the first time out, because it’s worth the effort.
+Watching _Spider-Man: Into The Spider-Verse_ was easily the most rewarding experience I’ve had in a movie theatre this year, if not the last decade or two ([_Mad Max: Fury Road_](http://www.dearcastandcrew.com/content/2016/1/13/mad-max-fury-road-is-unapologetically-the-best-film-of-2015.html)being the only exception). I hope it was the same for you, because this is definitely a movie where the joy in experiencing it simply as it happens far outweighs the value of trying to pick it apart. That will happen anyway, probably exhaustively, over the next weeks and even months. And that’s as it should be, but I recommend everyone just allow it wash over you the first time out, because it’s worth the effort.
 
 Thank you for this unexpected gift.
