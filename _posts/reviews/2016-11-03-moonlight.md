@@ -18,7 +18,7 @@ title: "Moonlight"
 comments: true
 amazon_link: "http://amzn.to/2ehNd7g"
 amazon_text: "How did Moonlight create such a colourful story? These... maybe?"
-tags: [drama,independent,gay,]
+tags: [Barry Jenkins,drama,independent,gay]
 ---
 _Moonlight_ is an unalloyed work of art. You have created a story that is filled with homoerotic yearning, complex but clearly articulated themes, and the minutiae of a gay African American man’s perilous existence, but have told it in a way that is utterly universal. There is nothing that any human being capable of empathy will not recognize and respond to while watching this film.
 
