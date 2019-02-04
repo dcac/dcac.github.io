@@ -35,7 +35,3 @@ In the foreground throughout are several non-actors, among them the lead, Yalitz
 _Roma_ is one of two truly great humanist films to come out this year that prioritize a triumph of spirit. But even _Shoplifters_ is a more tightly-plotted story. In _Roma_, the seeming looseness of the narrative and unaffected mannerisms of the cast, along with the wildly detailed production design and rich black and white cinematography, creates a perfect alchemy that cannot, and will not, be repeated. Frankly, it should have been unachievable in the first place.
 
 But Cuaron knows (and now I do, too) that when you believe in something, you just have to go for it, and trust others come along.
-
-Sincerely,
-
-Christopher
