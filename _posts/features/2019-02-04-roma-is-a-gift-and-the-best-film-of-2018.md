@@ -1,11 +1,11 @@
 ---
 published: true
-date: 2019-012-04 9:00:00
+date: 2019-02-04 9:00:00
 imdb: 
 image: roma-is-a-gift-and-the-best-film-of-2018.jpg
 author: christopherr 
 stars: 
-excerpt: ""
+excerpt: "C. Redmond unwraps the reasons every country should be so lucky as to have their own Roma."
 position: 
 addressee:  "Fellow Critics"
 layout: feature
