@@ -14,7 +14,7 @@ categories:
   - lists
   - series
 series-name: Best of 2018
-title: "<span style='"font-size:50%'">Roma is a Gift</a></br>(and the Best Film of 2018)"
+title: ""
 comments: true
 tags: [ Best,Top films 2018,year end, 2018]
 ---
