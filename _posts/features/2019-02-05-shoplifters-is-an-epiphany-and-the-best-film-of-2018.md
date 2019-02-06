@@ -5,7 +5,7 @@ imdb:
 image: shoplifters-is-an-epiphany-and-the-best-film-of-2018.jpg
 author: jaredy 
 stars: 
-excerpt: ""
+excerpt: "In a year of films that explored the excesses of cinema, Kore-Eda’s masterpiece stands out by keeping it simple."
 position: 
 addressee:  "Fellow Critics"
 layout: feature
