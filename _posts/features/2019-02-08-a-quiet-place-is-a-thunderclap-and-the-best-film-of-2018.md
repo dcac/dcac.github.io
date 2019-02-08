@@ -20,6 +20,7 @@ tags: [Best,Top films 2018,year end, 2018]
 ---
 Ridiculous, right?
 
+In a year filled with so many consequential and artful films, a middlebrow genre picture, aspiring to not much more than precisely 130 minutes of entertainment, might seem an odd choice.
 
 But.
 
