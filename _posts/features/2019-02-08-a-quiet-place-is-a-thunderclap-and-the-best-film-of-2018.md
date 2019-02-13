@@ -14,12 +14,13 @@ categories:
   - lists
   - series
 series-name: Best of 2018
-title: "Shoplifters is an Epiphany (and the Best Film of 2018)"
+title: "A Quiet Place is a Thunderclap (and the Best Film of 2018)"
 comments: true
 tags: [Best,Top films 2018,year end, 2018]
 ---
 Ridiculous, right?
 
+In a year filled with so many consequential and artful films, a middlebrow genre picture, aspiring to not much more than precisely 130 minutes of entertainment, might seem an odd choice.
 
 But.
 
