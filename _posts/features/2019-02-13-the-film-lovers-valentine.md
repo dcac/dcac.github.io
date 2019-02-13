@@ -2,7 +2,7 @@
 layout: feature
 published: true
 date: 2019-02-13 11:35:00
-image: the-great-canadian-supercut.jpg
+image: the-film-lovers-valentine.jpg
 title: "TheFilm-Lover's Valentine"
 addressee: "Film Lovers"
 excerpt: ""
