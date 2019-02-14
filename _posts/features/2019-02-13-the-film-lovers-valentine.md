@@ -22,6 +22,7 @@ Watch. Share. Spread the love.
 
 In our research, we came to learn a few things about [the history of being handcuffed together](http://anthonybalducci.blogspot.com/2013/10/stuck-on-you-handcuffs-routine.html) in Hollywood.  Not every movie we found made the cut, and not every movie that promised the handcuff routine delivered on the promise. Below you'll find some of the best movie poster examples of the genre, including the "cuff teases" that don't deliver the goods (shame on you *Skiptrace* and *Bounty Hunter*!)
 
+{% contentfor postscript %}
 ![][1]
 
    [1]: /assets/img/features/inline/the-film-lovers-valentine/1.jpg
@@ -36,5 +37,5 @@ In our research, we came to learn a few things about [the history of being handc
    
 ![][4]
 
-   [4]: /assets/img/features/inline/the-film-lovers-valentine/4.jpg
-
+   [4]: /assets/img/features/inline/the-film-lovers-valentine/4.jpg  
+{% endcontentfor %}
