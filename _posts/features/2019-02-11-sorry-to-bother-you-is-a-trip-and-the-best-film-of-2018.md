@@ -5,7 +5,7 @@ imdb:
 image: sorry-to-bother-you-is-a-trip-and-the-best-film-of-2018.jpg
 author: dig 
 stars: 
-excerpt: "Di Golding makes her case for why Sorry to Bother You, despite (or maybe because of) its Oscar shutout, is the Best Film of 2018."
+excerpt: "Di Golding makes her case for why Sorry to Bother You, despite (or maybe evidenced by) its Oscar shutout, is the Best Film of 2018."
 position: 
 addressee:  "Fellow Critics"
 layout: feature
