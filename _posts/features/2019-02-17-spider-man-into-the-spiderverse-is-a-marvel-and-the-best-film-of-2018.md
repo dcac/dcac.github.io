@@ -14,7 +14,7 @@ categories:
   - lists
   - series
 series-name: Best of 2018
-title: "A Quiet Place is a Thunderclap (and the Best Film of 2018)"
+title: "Spider-Man: Into the Spider-Verse is a Marvel (and the Best Film of 2018)"
 comments: true
 tags: [Best,Top films 2018,year end, 2018]
 ---
