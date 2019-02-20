@@ -1,11 +1,11 @@
 ---
-published: false
-date: 2019-02-08 07:30:00
+published: true
+date: 2019-02-20 10:30:00
 imdb: 
-image: the-favourite-is-and-the-best-film-of-2018.jpg
+image: the-favourite-is-a-rarity-and-the-best-film-of-2018.jpg
 author: natm 
 stars: 
-excerpt: "Nat Master lays out her case for why The Favourite kinldly deserves to be called the Best Film of 2018."
+excerpt: "Nat Master lays out her case for why The Favourite kindly deserves to be called the Best Film of 2018."
 position: 
 addressee:  "Fellow Critics"
 layout: feature
@@ -14,7 +14,7 @@ categories:
   - lists
   - series
 series-name: Best of 2018
-title: "The Favourite is (and the Best Film of 2018)"
+title: "The Favourite is a Rarity (and the Best Film of 2018)"
 comments: true
 tags: [Best,Top films 2018,year end, 2018]
 ---
