@@ -15,7 +15,7 @@ categories:
   - current-releases
 title: "Captain Marvel"
 comments: true
-tags: [Liam Neeson,action,thriller,revenge,Laura Dern]
+tags: [Marvel,Brie Larsen,Samuel L. Jackson,Avengers,comics]
 ---
 
 We’re the people _Captain Marvel_ star Brie Larson [wanted to see more of](https://www.cbc.ca/radio/q/blog/brie-larson-wants-to-save-her-captain-marvel-press-tour-from-being-overwhelmingly-white-1.5016087) at her press screenings and publicity junkets. For daring to express her desire to include more women and people of colour in the conversation, Larson was subjected to an onslaught of online vitriol, the worst of which compared her to Hitler. 
