@@ -2,7 +2,7 @@
 published: true
 date: 2019-03-10 10:00:00
 imdb: tt4154664
-image: captain-marevl.jpg
+image: captain-marvel.jpg
 author: dig
 stars: 3
 excerpt: ""
