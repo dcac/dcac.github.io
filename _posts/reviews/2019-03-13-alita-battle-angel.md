@@ -1,7 +1,7 @@
 ---
 published: true
 date: 2019-03-13 10:20:00
-imdb: tt7043012
+imdb: tt0437086
 image: alita-battle-angel.jpg
 author: natm
 stars: 3.5
