@@ -7,13 +7,13 @@ author: natm
 stars: 3.5
 excerpt: ""
 addressee: "Shaun Friedberg"
-position: "Senior Motion R&D Technical Director"
+position: "Senior Motion R\&D Technical Director"
 split_name: true
 layout: review
 categories: 
   - reviews
   - current-releases
-title: "Alita: Battle Angel"
+title: "Alita\: Battle Angel"
 comments: true
 tags: [Robert Rodriguez, James Cameron,anime,science fiction]
 ---
