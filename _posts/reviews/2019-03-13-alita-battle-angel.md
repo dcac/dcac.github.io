@@ -4,7 +4,7 @@ date: 2019-03-13 10:20:00
 imdb: tt0437086
 image: alita-battle-angel.jpg
 author: natm
-stars: 3.5
+stars: 3
 excerpt: ""
 addressee: "Shaun Friedberg"
 position: "Senior Motion R&D Technical Director"
