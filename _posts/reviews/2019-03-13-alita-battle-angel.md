@@ -7,13 +7,13 @@ author: natm
 stars: 3.5
 excerpt: ""
 addressee: "Shaun Friedberg"
-position: "Senior Motion R\&D Technical Director"
+position: "Senior Motion R&D Technical Director"
 split_name: true
 layout: review
 categories: 
   - reviews
   - current-releases
-title: "Alita\: Battle Angel"
+title: "Alita: Battle Angel"
 comments: true
 tags: [Robert Rodriguez, James Cameron,anime,science fiction]
 ---
@@ -23,4 +23,4 @@ Obviously, the main attraction is Alita herself, even though she isn’t the onl
 
 Adapted from a nine-volume manga series, there is obviously plenty of text to mine, and a lot to condense into a two-hour introduction. The aim here is to push for sequels, to get as much mileage out of the potential franchise as possible. But the film doesn’t strike enough of a balance between story and special effects for that.  After key questions are raised in the first few scenes, the rest of the film merely showcases its VFX magic in scene after scene with a bare minimum of plot or character development. There are a couple of intriguing reveals right at the end, along with an amusing cameo leading into the film’s cliff-hanger conclusion – if you can even call it that. An ending that should have made me go, “Wait! What happens next?!” just made me go, “Oh, it’s over?” When the audience pretty much knows nothing final will happen to the protagonist, either because we have read the source material, or simply because we know the filmmakers are setting up for a sequel, there need to be other stakes high enough for us to care. However, the film’s romantic plot is way too corny, and other supporting characters that could have been better utilized are not given enough time or attention. The narrative gamble of leaving too much until the end doesn’t pay off. In fact, I felt like the story didn’t really get going until the last couple of scenes. 
 
-I enjoyed _Alita_ a lot more than I’m probably letting on. There is no disputing that it is a visually stunning film. It is heavily stacked towards mindless action and violence, but this is thoroughly entertaining mindless action and violence, and hats off to you and everyone else who made it so. At this point, it is uncertain if there will be a sequel, and if they do make one, I doubt I’ll see it. While _Alita_ certainly made my eyes happy, it just isn’t enough to make me come back for more. 
+I enjoyed _Alita_ a lot more than I’m probably letting on. There is no disputing that it is a visually stunning film. It is heavily stacked towards mindless action and violence, but this is thoroughly entertaining mindless action and violence, and hats off to you and everyone else who made it so. At this point, it is uncertain if there will be a sequel, and if they do make one, I doubt I’ll see it. While _Alita_ certainly made my eyes happy, it just isn’t enough to make me come back for more.
