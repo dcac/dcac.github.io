@@ -6,7 +6,7 @@ image: avengers-endgame.jpg
 author: jaredy
 stars: 5
 excerpt: ""
-addressee: "Jared YoungAge 32"
+addressee: "Jared Young, Age 32"
 position: "Past Reviewer"
 split_name: false
 layout: review
