@@ -5,14 +5,13 @@ imdb:
 image: film-vs-tv-endgame.jpg
 author: christopherr 
 stars: 
-excerpt: "In one weekend, The Avengers and Game of Thrones teamed up to take down traditional definitions film and television."
+excerpt: "In one weekend, The Avengers and Game of Thrones teamed up to take down traditional definitions of film and television."
 position: 
 addressee:  "Film and TV Lovers"
 layout: feature
 categories: 
   - features
-  - lists
-  - series
+  - essays
 series-name: Best of 2018
 title: "Film vs. TV: Endgame"
 comments: true
