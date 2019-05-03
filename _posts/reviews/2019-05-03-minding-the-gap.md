@@ -4,11 +4,11 @@ date: 2019-03-27 08:15:00
 imdb: tt7476236
 image: minding-the-gap.jpg
 author: mitchk
-stars: 1.5
+stars: 4
 excerpt: ""
 addressee: "Nathan Halpern & Chris Ruggiero"
 position: "Composers"
-split_name: true
+split_name: false
 layout: review
 categories: 
   - reviews
