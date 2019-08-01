@@ -1,21 +1,21 @@
 ---
 published: true
-date: 2019-07-30 13:25:00
-imdb: tt6105098
-image: the-lion-king.jpg
-author: christopherr
-stars: 2.5
+date: 2019-07-11 6:00:00
+imdb: tt7734218
+image: stuber.jpg
+author: ankitv
+stars: 3.5
 excerpt: ""
-addressee: "Asad Ayaz"
-position: "President of Marketing"
+addressee: "Katherine Steets"
+position: "Script Supervisor"
 split_name: true
 layout: review
 categories: 
   - reviews
   - current-releases
-title: "The Lion King"
+title: "Stuber"
 comments: true
-tags: [Disney, Aladdin,animation,Beyoncé Knowles,Seth Rogen,Bily Eichner]
+tags: [Karen Gillan,Kumail Nanjiani,action,comedy]
 ---
 Talk about taking the easy road. Almost every film on your resume is a remake, reboot, or re-imagining of Disney/Marvel property. The only wrinkle in your whole filmography might be _A Wrinkle in Time_, a high-profile flop that no doubt had you doubling down on your profit-obsessed strategy to reduce, reuse, and recycle whatever’s already in the vaults of the Magic Kingdom. 
 
