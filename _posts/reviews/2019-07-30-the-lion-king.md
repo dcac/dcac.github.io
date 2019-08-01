@@ -15,7 +15,7 @@ categories:
   - current-releases
 title: "The Lion King"
 comments: true
-tags: [Disney,Aladdin,animation,Beyoncé Knowles,Seth Rogen,Bily Eichner]
+tags: [Disney, Aladdin,animation,Beyoncé Knowles,Seth Rogen,Bily Eichner]
 ---
 Talk about taking the easy road. Almost every film on your resume is a remake, reboot, or re-imagining of Disney/Marvel property. The only wrinkle in your whole filmography might be _A Wrinkle in Time_, a high-profile flop that no doubt had you doubling down on your profit-obsessed strategy to reduce, reuse, and recycle whatever’s already in the vaults of the Magic Kingdom. 
 
