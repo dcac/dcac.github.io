@@ -2,7 +2,7 @@
 published: true
 date: 2019-07-30 17:00:00
 imdb: tt7131622
-image: once_upon_a_time_in_hollywood.jpg
+image: once-upon-a-time-in-hollywood.jpg
 author: natm
 stars: 2.5
 excerpt: ""
