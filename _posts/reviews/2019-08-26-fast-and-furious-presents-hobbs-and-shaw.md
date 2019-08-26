@@ -4,7 +4,7 @@ date: 2019-08-26 12:45:00
 imdb: tt6806448
 image: fast-and-furious-presents-hobbs-and-shaw.jpg
 author: mitchk
-stars: 4
+stars: 2
 excerpt: ""
 addressee: "Faujja Singh"
 position: "Armourer"
