@@ -8,7 +8,7 @@ stars: 4
 excerpt: ""
 addressee: "Casa Loma"
 position: "Location"
-split_name: true
+split_name: false
 layout: review
 categories: 
   - reviews
