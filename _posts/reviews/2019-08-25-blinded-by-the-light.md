@@ -29,8 +29,4 @@ Filmmaker Gurinder Chadha isn’t mining new territory here, and that’s for th
 
 _Blinded by the Light_ has a delightfully 80s DIY vibe to its musical numbers. Nothing feels too polished, and that’s points in its favour. When Javed and his friends sing and dance in a flea-market, or _Madness_-style dance over a freeway bridge, we know we are cheering for a scrappy underdog in an unforgiving world. Despite beats which dip their toes into sentimental predictability, the film is buoyed by lead Viveik Kalra’s exuberant performance, which portrays Javed’s sincerity as his strength. As your words “I’m just living in a dump like this. There’s something happening somewhere, babe I just know there is” swirl around his head they become _his_ words and rooting for him becomes irresistible. 
 
-A few years ago, cynical me might have scoffed at such a relentlessly feel-good flick. But cynicism has never provided a release so sweet and necessary. Many films remind us to reach for our dreams, no matter how impossible they seem. But few have done it so pleasingly, and none have done it with the enthusiasm and pure hope that we all need right now, which could only come from the man we call The Boss. 
-
-
- 
-
+A few years ago, cynical me might have scoffed at such a relentlessly feel-good flick. But cynicism has never provided a release so sweet and necessary. Many films remind us to reach for our dreams, no matter how impossible they seem. But few have done it so pleasingly, and none have done it with the enthusiasm and pure hope that we all need right now, which could only come from the man we call The Boss.

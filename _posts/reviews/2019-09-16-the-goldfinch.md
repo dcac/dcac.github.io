@@ -33,5 +33,3 @@ If _The Goldfinch_ succeeded at eliciting an emotion from me at all it was pity 
 The fact that the director John Crowley had so much magic to work with and failed so epically hard is almost impressive. Almost. 
 
 What a colossal waste.
- 
-
