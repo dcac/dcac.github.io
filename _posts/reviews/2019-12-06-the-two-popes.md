@@ -8,7 +8,7 @@ stars: 4.5
 excerpt: ""
 addressee: "Marcela Marambio"
 position: "Dialect Coach"
-split_name: false
+split_name: true
 layout: review
 categories: 
   - reviews
