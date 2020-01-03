@@ -16,8 +16,6 @@ title: "C. Redmond’s Top Films of 2019"
 comments: true
 tags: [Awards, awesome, Best, Canadian, TIFF, critic, films, good, list, movies, Top films 2019, worst, year end, 2019]
 ---
-Dear Readers,
-
 Keeping track of everything I watch helps me understand why consume so much in the first place. Like many people, I’m often just looking for entertainment/escape/distraction. I also want to keep up with the cultural conversation, and be a reliable source of recommendations. But as someone who makes TV for a living, I’m also always looking for inspiration, references, and even cautionary examples. And 2019 had a whole lot to love and learn from. 
 
 In a nutshell: foreign films dominate the top of my list, indicating once again how strong the movies are that make the leap to North American theaters. And since there was so much good TV this year, I decided to rank shows based on their channel/service. HBO and Amazon Prime have the highest batting averages for greatness, while Netflix still manages to take a disproportionately high amount of actual shows watched. 
