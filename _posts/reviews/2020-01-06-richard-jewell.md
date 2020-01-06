@@ -44,5 +44,3 @@ It’s unfortunate that you didn’t get the chance to bring your vision of this
 
 Di
 {% endcontentfor %}
-
-Di
