@@ -13,6 +13,7 @@ layout: review
 categories: 
   - reviews
   - current-releases
+  - netflix
 title: "The Irishman"
 comments: true
 tags: [drama,Martin Scorsese,gangster,crime,Robert DeNiro,Al Pacino,Joe Pesci]

@@ -39,7 +39,7 @@ He pays particular attention to crafting Francis’ arc, bouncing back and forth
 _The Two Popes_ is a gentle and mature meditation on the merits of finding common ground. Whether these two men did indeed bond over music, football, and Fanta is irrelevant when the fictional fly-on-the-wall retelling of their relationship is imagined with such tenderness. Their verbal tango between progress and tradition, faith and fallacy, ultimately leads to a deepened acceptance of their own pasts, and the future they want for the world. Hopefully, it’s a message we can all understand.
 
 {% contentfor signature %}
-**Ad summum,,**
+**Ad summum,**
 
 Di
 {% endcontentfor %}

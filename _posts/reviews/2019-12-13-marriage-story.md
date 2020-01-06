@@ -13,6 +13,7 @@ layout: review
 categories: 
   - reviews
   - current-releases
+  - netflix
 title: "Marriage Story"
 comments: true
 tags: [drama,Adam Driver,Scarlett Johannsson,Noah Baumbach,Laura Dern]
