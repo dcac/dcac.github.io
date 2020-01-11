@@ -15,7 +15,7 @@ categories:
   - current-releases
 title: "Little Women"
 comments: true
-tags: [drama,Greta Gerwig,Saoirse Ronan,Emma Watson,Timothee Chalumet,adaptation]
+tags: [drama,Greta Gerwig,Saoirse Ronan,Emma Watson,Timothee Chalamet,adaptation]
 ---
 The latest version of your _Little Women_ seems to have come exactly when we needed it. At the tail end of a decade whose sociopolitical and cultural climate might be described by some (ok, by me) as a dumpster we all set on fire and shoved down a steep, greased mountain, I am a little surprised that there is still an appetite for what I call ‘warm hug’ movies. You wrote the ultimate warm hug of a book, so in that sense, the timing of Greta Gerwig’s adaptation is perfect. It arrived at a time when there is just so much going on that is soul-suckingly awful, so I think audiences are in just the right mood to embrace an earnest, sentimental period piece – at least, if the noisy sniffles and hanky blows I heard in the theatre are any indication. 
 
