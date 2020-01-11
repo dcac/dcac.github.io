@@ -3,7 +3,7 @@ published: true
 date: 2020-01-10 16:10:00
 imdb: tt3281548
 image: little-women.jpg
-author: dig
+author: natm
 stars: 3.5
 excerpt: ""
 addressee: "Louisa May Alcott"
