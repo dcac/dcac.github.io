@@ -5,7 +5,7 @@ imdb:
 image: embrace-it-little-women-is-the-best-film-of-2019.jpg
 author: jaredy 
 stars: 
-excerpt: "In a year of exceptional cinema, C. Redmond explains why he went with an unexpected and virtually unknown Indian film for his best of 2019."
+excerpt: "Find out why Greta Gerwig's new adaptation of _Little Women_ is the film that stayed with Jared Young the longest, this year."
 position: 
 addressee:  "Fellow Critics"
 layout: feature
