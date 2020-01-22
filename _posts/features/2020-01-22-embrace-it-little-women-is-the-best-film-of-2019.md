@@ -14,7 +14,7 @@ categories:
   - lists
   - series
 series-name: Best of 2019
-title: "Embrace It LITTLE WOMEN is the Best Film of 2019**Embrace** **It, LITTLE WOMEN is the Best Film of 2019**
+title: "Embrace It LITTLE WOMEN is the Best Film of 2019"
 
 “Little boys like shootouts and car chases, but real men like _Little Women_.”
 
