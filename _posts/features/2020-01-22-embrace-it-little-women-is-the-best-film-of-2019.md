@@ -18,7 +18,6 @@ title: "Embrace It LITTLE WOMEN is the Best Film of 2019"
 comments: true
 tags: [Best,Top films 2019,year end, 2019]
 ---
-
 “Little boys like shootouts and car chases, but real men like _Little Women_.”
 
 Tracey Letts said this in a recent [GQ essay](https://www.gq.com/story/tracy-letts-little-women-essay), and while my list of favourite films from this past year includes at least one film that is essentially nothing but shootouts and car chases, it sits far behind the one I loved the most: Greta Gerwig’s [ingenious, subversive, joyous adaptation of _Little Women_. ](http://www.dearcastandcrew.com/content/2020/1/10/little-women.html) 
