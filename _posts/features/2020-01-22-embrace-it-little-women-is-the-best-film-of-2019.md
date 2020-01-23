@@ -35,23 +35,17 @@ That _Once Upon a Time in Hollywood_ and _Hobbs & Shaw_ are also on my list migh
 I loved _Once Upon a Time in Hollywood_ for all the reasons that some people hate it: how meandering it was, how focused on the trials and anxieties of a person to whom we’re supposed to withhold our empathy: a white middle-aged man who wants more from the world. And yet: I myself am a white middle-aged man who wants more from the world, and _Little Women_ spoke to me even more directly. Why? Because I loved it, and there is no logic to why and how you love the things you love; the heart simply wants what it wants, and my heart wants to be in Concord, Massachusetts, among the March girls as they find their way into the future. 
 
 **Jared Young’s Top 10 Films of 2019**
+<ol reversed> 
+   <li>Ford vs Ferrari</li>
+   <li><a href="http://www.dearcastandcrew.com/content/2019/12/12/knives-out.html">Knives Out</a></li>
+   <li><a href="http://www.dearcastandcrew.com/content/2019/3/25/us.html">Us</a></li>
+   <li><a href="http://www.dearcastandcrew.com/content/2019/8/26/fast-and-furious-presents-hobbs-and-shaw.html">Hobbs &amp; Shaw</a></li>
+   <li><a href="http://www.dearcastandcrew.com/content/2019/11/15/the-irishman.html">The Irishman</a></li>
+   <li><a href="http://www.dearcastandcrew.com/content/2019/4/28/avengers-endgame.html">Avengers: Endgame</a></li>
+   <li><a href="http://www.dearcastandcrew.com/content/2019/7/30/once-upon-a-time-in-hollywood.html">Once Upon a Time in Hollywood</a></li>
+   <li>Booksmart</li>
+   <li><a href="http://www.dearcastandcrew.com/content/2019/12/13/marriage-story.html">Marriage Story</a></li>
+   <li><a href="http://www.dearcastandcrew.com/content/2020/1/10/little-women.html">Little Women</a></li>
+</ol>
 
-10. Ford vs Ferrari
-
-9. [Knives Out](http://www.dearcastandcrew.com/content/2019/12/12/knives-out.html)
-
-8. Us
-
-7. [Hobbs & Shaw](http://www.dearcastandcrew.com/content/2019/8/26/fast-and-furious-presents-hobbs-and-shaw.html)
-
-6. [The Irishman](http://www.dearcastandcrew.com/content/2019/11/15/the-irishman.html)
-
-5. [Avengers: Endgame](http://www.dearcastandcrew.com/content/2019/4/28/avengers-endgame.html)
-
-4. [Once Upon a Time in Hollywood](http://www.dearcastandcrew.com/content/2019/7/30/once-upon-a-time-in-hollywood.html)
-
-3. Booksmart
-
-2. [Marriage Story](http://www.dearcastandcrew.com/content/2019/12/13/marriage-story.html)
-
-1. [Little Women](http://www.dearcastandcrew.com/content/2020/1/10/little-women.html)
+<p> </p>
