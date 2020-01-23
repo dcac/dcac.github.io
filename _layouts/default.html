@@ -14,7 +14,7 @@ layout: compress
     <meta property="og:title" content="{% if page.categories contains "reviews" %}Dear {{ page.addressee }}, {{ page.position }} for {{ page.title |upcase }}{% else %}{{ page.title }}{% endif %}" />
     <meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:site" content="@dearcastandcrew">
-    <meta name="twitter:creator" content="{{ author.twitter }}">
+    <meta name="twitter:creator" content="@{{ author.twitter }}">
 	<meta name="twitter:title" content="{% if page.categories contains "reviews" %}Dear {{ page.addressee }}, {{ page.position }} for {{ page.title |upcase }}{% else %}{{ page.title }}{% endif %}">
 	<meta name="twitter:description" content="{{ page.excerpt }}">
 	<meta name="twitter:image" content="http://www.dearcastandcrew.com/assets/img/posts/main/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}">{% endif %}
