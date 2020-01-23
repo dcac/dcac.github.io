@@ -5,7 +5,7 @@ imdb:
 image: embrace-it-little-women-is-the-best-film-of-2019.jpg
 author: jaredy 
 stars: 
-excerpt: "Find out why Greta Gerwig's new adaptation of _Little Women_ is the film that stayed with Jared Young the longest, this year."
+excerpt: "Find out why Greta Gerwig's new adaptation of <em>Little Women</em> is the film that stayed with Jared Young the longest, this year."
 position: 
 addressee:  "Fellow Critics"
 layout: feature
@@ -47,5 +47,4 @@ I loved _Once Upon a Time in Hollywood_ for all the reasons that some people hat
    <li><a href="http://www.dearcastandcrew.com/content/2019/12/13/marriage-story.html">Marriage Story</a></li>
    <li><a href="http://www.dearcastandcrew.com/content/2020/1/10/little-women.html">Little Women</a></li>
 </ol>
-
 <p> </p>
