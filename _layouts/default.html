@@ -10,7 +10,11 @@ layout: compress
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png">
     {% if page.section == "Content" %}<meta property="og:image" content="http://www.dearcastandcrew.com/assets/img/posts/main/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}" />
-    <meta property="og:title" content="{% if page.categories contains "reviews" %}Dear {{ page.addressee }}, {{ page.position }} for {{ page.title |upcase }}{% else %}{{ page.title }}{% endif %}" />{% endif %}
+    <meta property="og:title" content="{% if page.categories contains "reviews" %}Dear {{ page.addressee }}, {{ page.position }} for {{ page.title |upcase }}{% else %}{{ page.title }}{% endif %}" />
+    <meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@dearcastandcrew">
+	<meta name="twitter:title" content="{% if page.categories contains "reviews" %}Dear {{ page.addressee }}, {{ page.position }} for {{ page.title |upcase }}{% else %}{{ page.title }}{% endif %}">
+	<meta name="twitter:image" content="http://www.dearcastandcrew.com/assets/img/posts/main/{% if page.image contains ".jpg" %}{{page.image }}{% else %}{{ page.title | handleize }}.jpg{% endif %}">{% endif %}
     <title>{% if page.home %}{% else %}{{page.title}} | {%endif %}Dear Cast & Crew{% if page.home %} | Movie Reviews, Essays, and Exchanges{% endif %}</title>
     <script type="text/javascript" src="http://fast.fonts.net/jsapi/053a7698-a2e7-4a94-b380-2cfed49d680a.js"></script>
     <link rel="icon" href="/favicon.png" type="image/png">
