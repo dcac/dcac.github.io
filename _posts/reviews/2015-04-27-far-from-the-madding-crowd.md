@@ -16,7 +16,7 @@ tags:
   - adaptation
   - drama
 ---
-In some ways your book _Far From The Madding Crowd_ could stand as a proto-feminist manifesto. In other ways, important ways, it is an antecedent to some of the worst melodrama know to humanity. That the two things come together so artlessly in the 2015 film adaptation of your novel is unfortunate. 
+In some ways your book _Far From The Madding Crowd_ could stand as a proto-feminist manifesto. In other ways, important ways, it is an antecedent to some of the worst melodrama known to humanity. That the two things come together so artlessly in the 2015 film adaptation of your novel is unfortunate. 
 
 This iteration of _Far From The Madding Crowd_ begins well. Your awkwardly named protagonist, Bathsheba Everdene, is fiercely independent and, thanks to a timely inheritance from a doting uncle, beholden to no one. For a woman to be propertied and untethered to any man was a rare circumstance at the end of the 19th Century. 
 
