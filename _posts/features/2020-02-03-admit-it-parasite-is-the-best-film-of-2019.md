@@ -5,7 +5,7 @@ imdb:
 image: admit-it-parasite-is-the-best-film-of-2019.jpg
 author: ankitv 
 stars: 
-excerpt: "Ankit Verma's pick for the year's best isn't just for technical merit, he says it's driven by all the things that make a movie great. "
+excerpt: "Ankit Verma's pick for the year's best isn't just for its technical merit, he says it's because <em>Parasite</em> isdriven by all the things that make a movie great. "
 position: 
 addressee:  "Fellow Critics"
 layout: feature
