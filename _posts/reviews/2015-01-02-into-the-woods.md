@@ -31,7 +31,7 @@ I know the man is considered nothing short of a musical messiah in the theatre c
 
 The fault may be mine for wanting [_Les Misérables_](http://www.dearcastandcrew.com/content/2013/1/2/les-miserables.html) gravitas in a story that was never designed as such, but I still found myself vastly preferring the mediocre remake of [_Annie_](http://www.dearcastandcrew.com/content/2014/12/20/annie.html) over this. I would have much preferred the money going into better effects than bigger stars. Nobody needed to see Johnny Depp’s knee-jerk interpretation of The Wolf – that kind of casting is about as obvious and lazy as, well, rhyming a word with itself.
 
-Make no mistake, those crashing tree sounds you created were as crackling as we would expect in any film. But as the old saying goes – if I hadn’t been there to here it, I could have believed it all never happened.
+Make no mistake, those crashing tree sounds you created were as crackling as we would expect in any film. But as the old saying goes – if I hadn’t been there to hear it, I could have believed it all never happened.
 
 {% contentfor signature %}
 **Crashing,**
