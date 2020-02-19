@@ -1,10 +1,11 @@
 ---
 published: true
 date: 2015-01-02 08:00:00
+imdb: tt8579674
 image: into-the-woods.jpg
-imdb: tt2180411
 author: christopherr
 stars: 2
+excerpt: ""
 addressee: "Randy Miller"
 position: "Crashing Tree Sounds"
 split_name: true
@@ -13,8 +14,9 @@ categories:
   - reviews
   - current-releases
 title: "Into the Woods"
+comments: true
 tags: [musical,Meryl Streep,Emily Blunt,Anna Kendrick,Chris Pine,Rob Marshall,fairy tale]
- ---
+--- 
 Your [CV is amazing](http://www.imdb.com/name/nm0589174/?ref_=ttfc_fc_cr497). You’ve brought lions, tigers, bears, and pretty much every other man-eating predator to Hollywood’s biggest film sets (which explains your upcoming consultant role on [_Jurassic World_](http://www.imdb.com/title/tt0369610/fullcredits?ref_=tt_ov_st_sm)). Yet that’s not why you were hired on _Into the Woods_. Rather than actually bringing something authentic to the screen, it seems the filmmakers wanted you to create a passable facsimile of an authentically powerful auditory experience.
 
 Oh. Now I get it.
