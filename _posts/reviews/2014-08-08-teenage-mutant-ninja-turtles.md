@@ -2,9 +2,9 @@
 layout: post
 title: Teenage Mutant Ninja Turtles
 imdb: tt1291150
-addressee: Dawn Barkan
-position: Rat Trainer
-image: teenage-mutant-ninja-turtles.jpg
+addressee: "Dawn Barkan"
+position: "Rat Trainer"
+image: "teenage-mutant-ninja-turtles.jpg"
 stars: 2.5
 layout: review 
 categories: 
