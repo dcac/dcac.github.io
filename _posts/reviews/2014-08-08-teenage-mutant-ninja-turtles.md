@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Teenage Mutant Ninja Turtles"
-excerpt:""
+excerpt: ""
 imdb: tt1291150
 addressee: "Dawn Barkan"
 position: "Rat Trainer"
@@ -23,7 +23,7 @@ Seems like a dangerous time to be training animals. Apes are [riding horses and 
 
 Business is really booming, huh?
 
-Luckily you had a much safer job: working with the wise old rat, Splinter, spiritual leader and father figure to the _Teenage Mutant Ninja Turtles_. He's a much more frail presence than his young green protegees, and it's his new found vulnerability that spurs the turtles into action…
+Luckily you had a much safer job: working with the wise old rat, Splinter, spiritual leader and father figure to the _Teenage Mutant Ninja Turtles_. He's a much more frail presence than his young green protegées, and it's his new found vulnerability that spurs the turtles into action…
 
 Oh, what am I talking about? This is a Michael Bay joint. Everyone is an action star. Splinter was obviously enrolled in the same parkour classes that Yoda took in preparation for the prequels--he's just as badass as the teenagers he raised. It must have taken you years to train that beady-eyed martial arts master to move so quickly! Or did you just use a regular rat for the flashback sequences and let the special effects team go wild on the older version of the sensei?
 
