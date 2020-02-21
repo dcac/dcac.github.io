@@ -1,6 +1,7 @@
 ---
 title: "Guardians of the Galaxy"
 imdb: tt2015381
+excerpt: ""
 addressee: "Stan Lee"
 position: "Cameo Appearance Maker"
 image: "guardians-of-the-galaxy.jpg"

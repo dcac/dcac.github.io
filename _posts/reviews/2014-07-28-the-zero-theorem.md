@@ -1,9 +1,10 @@
 ---
-title: The Zero Theorem
+title: "The Zero Theorem"
 imdb: tt2333804
-addressee: Andre Jacquemin
-position: Sound Designer
-image: the-zero-theorem.jpg
+addressee: "Andre Jacquemin"
+position: "Sound Designer"
+image: "the-zero-theorem.jpg"
+excerpt: ""
 stars: 3
 layout: review 
 categories: 
