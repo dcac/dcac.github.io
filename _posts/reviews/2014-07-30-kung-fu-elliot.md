@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Kung Fu Elliot
 imdb: tt3228302
 addressee: Matthew Bauckman and Jaret Belliveau

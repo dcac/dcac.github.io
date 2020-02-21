@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Guardians of the Galaxy
 imdb: tt2015381
 addressee: Stan Lee

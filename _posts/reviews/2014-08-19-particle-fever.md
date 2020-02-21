@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Particle Fever
 imdb: tt1385956
 addressee: Alan Friedman

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Zero Theorem
 imdb: tt2333804
 addressee: Andre Jacquemin

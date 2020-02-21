@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Teenage Mutant Ninja Turtles"
 excerpt: ""
 imdb: tt1291150

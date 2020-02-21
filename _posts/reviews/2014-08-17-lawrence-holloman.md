@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Lawrence & Holloman
 image: lawrence-holloman.jpg
 imdb: tt2473624
