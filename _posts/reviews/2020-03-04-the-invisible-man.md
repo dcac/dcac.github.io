@@ -3,7 +3,7 @@ published: true
 date: 2020-03-04 09:15:00
 imdb: tt1051906
 image: the-invisible-man.jpg
-author: credmond
+author: christopherr
 stars: 4.5
 excerpt: ""
 addressee: "Harry Dakanalis"
