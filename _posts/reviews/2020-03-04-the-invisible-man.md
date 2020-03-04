@@ -13,7 +13,7 @@ layout: review
 categories: 
   - reviews
   - current-releases
-title: "The Invisible Mam"
+title: "The Invisible Man"
 comments: true
 tags: [Elisabeth Moss,horror,Blumhouse]
 ---
