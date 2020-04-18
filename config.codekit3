@@ -7,7 +7,7 @@
 		"uuidString": "14BE945A-A377-4061-8393-14BD7800DEEE"
 		}
 	],
-"creatorBuild": "31934",
+"creatorBuild": "32001",
 "files": {
 	"/.gitignore": {
 		"cB": 0,
@@ -21129,6 +21129,25 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_posts/reviews/2020-01-14-1917.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"/_posts/reviews/2020-03-04-the-invisible-man.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 0,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_posts/reviews/2020-03-04-the-invisible-man.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -63256,6 +63275,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_site/content/2014/12/18/2014-silver-stamps.html",
+		"oF": 0
+		},
+	"/_site/content/2014/12/18/the-hobbit-the-battle-of-the-five-armies copy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/content/2014/12/18/the-hobbit-the-battle-of-the-five-armies copy.html",
 		"oF": 0
 		},
 	"/_site/content/2014/12/20/annie.html": {
@@ -113747,6 +113774,14 @@
 		"oAP": "/_site/letters/2013/1/22/2mirror-mirror.html",
 		"oF": 0
 		},
+	"/_site/letters/2013/1/22/mirror-mirror.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/letters/2013/1/22/mirror-mirror.html",
+		"oF": 0
+		},
 	"/_site/letters/2013/1/23/the-invisible-war.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -115987,6 +116022,14 @@
 		"oAP": "/_site/letters/2014/8/15/sabotage.html",
 		"oF": 0
 		},
+	"/_site/letters/2014/8/17/lawrence-holloman.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/letters/2014/8/17/lawrence-holloman.html",
+		"oF": 0
+		},
 	"/_site/letters/2014/8/18/the-expendables-3.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -117419,6 +117462,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_site/test/services.html",
+		"oF": 0
+		},
+	"/_site/valentine/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_site/valentine/index.html",
 		"oF": 0
 		},
 	"/_site/writers/ankitv/index.html": {
@@ -134028,6 +134079,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/img/posts/main/the-invisible-man.jpg": {
+		"ft": 16384,
+		"iS": 70936,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/posts/main/the-invisible-man.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/img/posts/main/the-invisible-war.jpg": {
 		"ft": 16384,
 		"iS": 169877,
@@ -146139,6 +146201,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/img/posts/thumb-300/the-invisible-man.jpg": {
+		"ft": 16384,
+		"iS": 7409,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/posts/thumb-300/the-invisible-man.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/img/posts/thumb-300/the-invisible-war.jpg": {
 		"ft": 16384,
 		"iS": 14330,
@@ -158107,6 +158180,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/img/posts/thumb-600/the-invisible-man.jpg": {
+		"ft": 16384,
+		"iS": 16981,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/posts/thumb-600/the-invisible-man.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/img/posts/thumb-600/the-invisible-war.jpg": {
 		"ft": 16384,
 		"iS": 36770,
@@ -168373,6 +168457,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"grouped-accessor-pairs": {
+			"active": 0,
+			"optionString": "'anyOrder'"
+			},
 		"guard-for-in": {
 			"active": 0,
 			"optionString": ""
@@ -168549,6 +168637,10 @@
 			"active": 1,
 			"optionString": "{'checkLoops': true}"
 			},
+		"no-constructor-return": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-continue": {
 			"active": 0,
 			"optionString": ""
@@ -168574,6 +168666,10 @@
 			"optionString": ""
 			},
 		"no-dupe-class-members": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-else-if": {
 			"active": 1,
 			"optionString": ""
 			},
@@ -168877,6 +168973,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-setter-return": {
+			"active": 1,
+			"optionString": ""
+			},
 		"no-shadow": {
 			"active": 0,
 			"optionString": "{'builtinGlobals': false, 'hoist': 'functions', 'allow': []}"
@@ -169080,6 +169180,10 @@
 		"prefer-destructuring": {
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
+			},
+		"prefer-exponentiation-operator": {
+			"active": 0,
+			"optionString": ""
 			},
 		"prefer-named-capture-group": {
 			"active": 0,
