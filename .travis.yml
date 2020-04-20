@@ -7,7 +7,7 @@ env:
 language: ruby
 sudo: false
 rvm:
-- 2.3
+- 2.3.8
 dist: trusty
 before_install:
   - export S3_CREDENTIALS="${S3_ACCESS_KEY_ID}:${S3_SECRET_KEY}"
