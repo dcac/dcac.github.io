@@ -24,9 +24,9 @@ layout: default
               {% else %}
               <div class="feature-title-text" style="bottom: 2rem;">
                 {{ page.alt-title }}
-				  <h2  style="font-weight: 400;width: 100%;font-family: Georgia,serif;color: #fff;font-size: 1rem;text-align: center;font-style:italic;">
+				  {% if page.show_author %}<h2  style="font-weight: 400;width: 100%;font-family: Georgia,serif;color: #fff;font-size: 1rem;text-align: center;font-style:italic;">
 				   A Dear Cast &amp; Crew Series
-				  </h2>
+				  </h2>{% endif %}
                 {% endif %}
               </div>
             </div>

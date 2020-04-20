@@ -45,6 +45,7 @@ defaults:
       essay_subject: false
       link_image: false
       show_series_name: true
+      show_author: true
       amazon_link: false
       amazon_text: false
 
