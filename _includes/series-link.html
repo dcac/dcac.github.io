@@ -1,0 +1,26 @@
+{% if page.categories contains "series" %}
+              {% for post in site.categories['series-index'] %}
+              {% if post.series-name == page.series-name %}
+              <div style="width:375px;margin:4rem auto 0 auto;">
+				  <div class="read-all-container">
+					<a href="{{ post.url }}">
+					    {% if page.series-link-override %}
+					      <img class="read-all-img" width="120" height="120" src="/assets/img/features/series/{{ page.series-link-override }}" />
+					    {% else %}
+						  {% if post.link_image %}<img class="read-all-img" width="120" height="120" src="/assets/img/features/series/{{ post.link_image }}" />
+						  {%  else %}<img class="read-all-img" width="120" height="120" src="/assets/img/global/icons/series-black.png" />{% endif %}
+						{% endif %}
+						<div class="read-all-inside-box">
+						{% if post.series-link %}
+						<p class="read-all-text" style="padding-top:1.5rem;padding-bottom:1.5rem;"><strong>{{ post.series-link }}</strong></p>
+						{% else %}
+						<p class="read-all-text" style="padding-top:1rem;padding-bottom:1rem;"><strong>Read all of</strong> Dear Cast & Crew's<br />
+						{{ post.title }} coverage.</p>
+						{% endif %} 
+					  </div>
+					</a>
+					</div>
+				  {% endif %}
+				  {% endfor %}
+			  </div>
+			{% endif %}

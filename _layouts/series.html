@@ -11,8 +11,8 @@ layout: default
             <div id="title-img" data-stellar-background-ratio=".25" alt="Main Image"></div>
             <div class="row collapse">
               <div class="large-4 medium-4 columns feature-title-height">
+                {% if page.show_series_name %}<h1 class="feature-hero">{{ page.title }}</h1>
                 <div class="feature-title-text">
-                  <h1 class="feature-hero">{{ page.title }}</h1>
                   <div class="translucent-box clearfix">
                     <div class="feature-info">
                       <h2 class="feature-sub-title">
@@ -21,6 +21,13 @@ layout: default
                     </div>
                   </div>
                 </div>
+              {% else %}
+              <div class="feature-title-text" style="bottom: 2rem;">
+                {{ page.alt-title }}
+				  <h2  style="font-weight: 400;width: 100%;font-family: Georgia,serif;color: #fff;font-size: 1rem;text-align: center;font-style:italic;">
+				   A Dear Cast &amp; Crew Series
+				  </h2>
+                {% endif %}
               </div>
             </div>
           </a>
@@ -37,7 +44,7 @@ layout: default
         <div class="more-reviews">
           <div class="row collapse">
             <div class="large-12 columns collapse writer-head-block">
-              <h1 class="more-reviews-title">The Articles</h1>
+              <h1 class="more-reviews-title">The Features</h1>
               <hr class="more-reviews-rule">
             </div>
           </div>

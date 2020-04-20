@@ -44,6 +44,7 @@ defaults:
       custom-header: false
       essay_subject: false
       link_image: false
+      show_series_name: true
       amazon_link: false
       amazon_text: false
 

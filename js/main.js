@@ -33,7 +33,7 @@ $(document).ready(function () {
       });if($(window).width() < 1200){
         $('#home-feature-img').addClass('home-feature-img');
         $('#home-feature-img').removeClass('home-feature-img-fade');
-        $('#home-feature').css({'background-color':'transparent'});
+        $('#home-feature').css({'background-color':'#000'});
         //$.stellar('refresh');
       } 
       else{

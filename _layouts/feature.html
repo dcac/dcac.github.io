@@ -15,6 +15,11 @@ layout: default
           <div class="row collapse">
             <div class="large-4 medium-4 columns feature-title-height">
               <div class="feature-title-text">
+                {% if page.alt-title %}{{ page.alt-title }}
+				<h2 style="color: #fff;font-size: .8rem;line-height: 1.75rem;font-family: dcac-serif,Georgia,serif;text-shadow: 0 0 2px #333;font-style: italic;padding-left: 1.5rem;">
+				  By {{ author.name }} 
+				</h2>
+                {% else %}
                 <h1 class="{% if page.title-display == "image"%}feature-hero-hidden{%else%}feature-hero{%endif%}">
                 {{ page.title }}</h1>{% if page.essay_subject %}
                 <h2 class="hero-excerpt-home">{{ page.excerpt }}</h2>
@@ -29,6 +34,7 @@ layout: default
                     </h2>
                   </div>
                 </div>
+                {% endif %}
               </div>
             </div>
           </div>
@@ -77,22 +83,8 @@ layout: default
 			  </div>
 			</a> 
             {% endif %}
-            {% if page.categories contains "series" %}
-              {% for post in site.categories['series-index'] %}
-              {% if post.series-name == page.series-name %}
-              <div class="read-all-container">
-              	<a href="{{ post.url }}">
-                	{% if post.link_image %}<img class="read-all-img" src="/assets/img/features/series/{{ post.link_image }}" />{% endif %}
-                	<div class="read-all-inside-box">
-                  	<p class="read-all-text"><strong>Read all of</strong> Dear Cast & Crew's<br />
-                  	{{ post.title }} coverage.</p>
-                  </div>
-              	</a>
-            	</div>
-              {% endif %}
-              {% endfor %}
-            {% endif %}
-          </div>
+            {% include series-link.html %}
+			</div>
           <div class="large-2 medium-2 columns side-spacer hide-for-small-only"></div>
         </div>
         {% include related-articles.html %}

@@ -49,7 +49,9 @@ layout: default
             {% if author.bio %}{% include signature.html %}{% endif %}
             {% contentblock postscript %}
           </div>
-        </div>
+          
+            {% include series-link.html %}
+		  </div>
         {% include related-articles.html %}
       </section>
       {% if page.comments %}{% include disqus.html %}{% endif %}

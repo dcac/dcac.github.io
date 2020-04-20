@@ -51,7 +51,8 @@ layout: default
             </div>
           </div>
           <div class="large-8 medium-8 columns" id="review-copy">
-            {% if page.split_name %}{% assign name = page.addressee | split: ' ' %}
+            
+            {% if page.split_name == true %}{% assign name = page.addressee | split: ' ' %}
             <p class="intro hide-for-small">Dear {{ name.first }},</p>
             {% else %}<p class="intro hide-for-small">Dear {{ page.addressee }},</p>{% endif %}
             {{ content | replace_first: '<p>','<p class="intro">' }}
@@ -89,21 +90,7 @@ layout: default
 			  </div>
 			</a> 
             {% endif %}
-            {% if page.categories contains "series" %}
-              {% for post in site.categories['series-index'] %}
-              {% if post.series-name == page.series-name %}
-              <div class="read-all-container">
-              	<a href="{{ post.url }}">
-                	{% if post.link_image %}<img class="read-all-img" src="/assets/img/features/series/{{ post.link_image }}" />{% endif %}
-                	<div class="read-all-inside-box">
-                  	<p class="read-all-text"><strong>Read all of</strong> Dear Cast & Crew's<br />
-                  	{{ post.title }} coverage.</p>
-                  </div>
-              	</a>
-            	</div>
-              {% endif %}
-              {% endfor %}
-            {% endif %}
+            {% include series-link.html %}
           </div>
         </div>
         {% include related-articles.html %}

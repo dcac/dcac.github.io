@@ -1,11 +1,9 @@
 <a href="{{ post.url }}">
                   <div class="post-image">
-                  <img class="b-lazy img-size" 
-         src="/assets/img/global/grid/grid-placeholder.svg"
-         data-src="/assets/img/posts/thumb-300/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %} | /assets/img/posts/thumb-600/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}"
+                  <img class="b-lazy img-size" src="/assets/img/global/grid/grid-placeholder.svg" data-src="/assets/img/posts/thumb-300/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %} | /assets/img/posts/thumb-600/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}"
          alt="{{post.title }} image"
     />
-                    <noscript><img class="img-size" src="/assets/img/posts/thumb-300/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}" alt="{{ post.title }} Image" /></noscript>
+                    <noscript><img class="img-size"{% if post.coming-soon %} style="opacity:0.3;" {% endif %} src="/assets/img/posts/thumb-300/{% if post.image contains ".jpg" %}{{post.image }}{% else %}{{ post.title | handleize }}.jpg{% endif %}" alt="{{ post.title }} Image" /></noscript>
                     {% if post.categories contains "essays" and post.categories contains "interviews"  %}<div class="corner-interview"></div>{% elsif post.categories contains "lists" %}<div class="corner-list"></div>{% elsif post.categories contains "essays" %}<div class="corner-essay"></div>{% elsif post.categories contains "series-index" %}<div class="corner-series"></div>{% endif %}
                   </div>
                   <div class="review-text">
