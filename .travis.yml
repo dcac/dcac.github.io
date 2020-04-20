@@ -6,6 +6,8 @@ env:
   - secure: FWucSUZsFrtVwxXCG1Tb7DoxVkakcJvbovS+6d9n+tV6Uo6XWi6K4Xbkt728CDBB0phMMoDOAnQJ5vJbM8xoCBB9x0HquYtBb0BqnAcj3vBW/36mVQeRdbMgIZuqf0QoAujY1HB1saVVDsPt1R4y1cp2cOaD/gfFGkm0P6qKtRs=
 language: ruby
 sudo: false
+rvm:
+~ 2.4
 dist: trusty
 before_install:
   - export S3_CREDENTIALS="${S3_ACCESS_KEY_ID}:${S3_SECRET_KEY}"
