@@ -4706,7 +4706,11 @@
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/content/2020/4/21/a-z-comedy.html</loc>
-        <lastmod>2020-04-21T20:14:35-04:00</lastmod>
+        <lastmod>2020-04-21T22:06:09-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/content/2020/4/21/a-z-z-animation.html</loc>
+        <lastmod>2020-04-22T15:34:55-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/contests/71-contest.html</loc>
@@ -4791,15 +4795,7 @@
         <lastmod>2020-01-23T11:04:21-05:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/christopherr/</loc>
-        <lastmod>2020-01-23T11:04:21-05:00</lastmod>
-    </url>
-    <url>
         <loc>http://www.dearcastandcrew.com/features/series/</loc>
-        <lastmod>2020-01-23T11:04:21-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/writers/jaredy/</loc>
         <lastmod>2020-01-23T11:04:21-05:00</lastmod>
     </url>
     <url>
@@ -4807,7 +4803,11 @@
         <lastmod>2020-01-23T11:04:21-05:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/timm/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/natm/</loc>
+        <lastmod>2020-01-23T11:04:21-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/writers/jaredy/</loc>
         <lastmod>2020-01-23T11:04:21-05:00</lastmod>
     </url>
     <url>
@@ -4819,16 +4819,12 @@
         <lastmod>2020-01-23T11:04:21-05:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/natm/</loc>
-        <lastmod>2020-01-23T11:04:21-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.dearcastandcrew.com/writers/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/christopherr/</loc>
         <lastmod>2020-01-23T11:04:21-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/</loc>
-        <lastmod>2020-04-21T20:14:35-04:00</lastmod>
+        <lastmod>2020-04-22T15:34:55-04:00</lastmod>
     </url>
     <url>
         <loc>http://www.dearcastandcrew.com/writers/caseyt/</loc>
@@ -4847,11 +4843,19 @@
         <lastmod>2020-01-23T11:04:21-05:00</lastmod>
     </url>
     <url>
+        <loc>http://www.dearcastandcrew.com/writers/coryh/</loc>
+        <lastmod>2020-01-23T11:04:21-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/writers/</loc>
+        <lastmod>2020-01-23T11:04:21-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dearcastandcrew.com/reviews/streaming/</loc>
         <lastmod>2020-01-23T11:04:21-05:00</lastmod>
     </url>
     <url>
-        <loc>http://www.dearcastandcrew.com/writers/coryh/</loc>
+        <loc>http://www.dearcastandcrew.com/writers/timm/</loc>
         <lastmod>2020-01-23T11:04:21-05:00</lastmod>
     </url>
     <url>
@@ -5001,5 +5005,9 @@
     <url>
         <loc>http://www.dearcastandcrew.com/contests/while-were-young-contest.html</loc>
         <lastmod>2020-01-23T11:04:21-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dearcastandcrew.com/letters/:year/:i_month/:i_day/</loc>
+        <lastmod>2020-04-20T15:58:13-04:00</lastmod>
     </url>
 </urlset>
