@@ -24,7 +24,7 @@ Not all heroes wear capes. But in this case, it definitely helps.
 
 As you’ll see, we wanted to include superheroes in our **Greatest Movies A-Z** series with [WatchMojo](https://www.youtube.com/channel/UCaWd5_7JhbQBe4dknZhsHJg). But pulling it off required some creativity. Did we save your favourite movie?  
 
-<div class="video-container"><iframe width="624" height="351" src="https://www.youtube.com/embed/F_P3LFGi47U?ecver=1" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-container"><iframe width="624" height="351" src="https://www.youtube.com/embed/2CYaxeY3Sgw?ecver=1" frameborder="0" allowfullscreen></iframe></div>
 
 As you see, we played by the same set of rules as all the other videos:
 
