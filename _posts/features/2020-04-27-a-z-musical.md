@@ -11,7 +11,7 @@ layout: feature
 categories: 
   - features
   - series
-title: "Superhero Movies: A-Z"
+title: "Musical Movies: A-Z"
 alt-title: "<div class=\"hide-for-small\" style=\"font-weight: 300;width: 16rem;margin: -10rem auto 0 auto;font-family: Helvetica Neue;color: #fff;font-size: 1.5rem;padding-left: 2rem;text-align: center;\">The greatest movies of all time</div>
 	                  <div class=\"show-for-small\" style=\"font-weight: 300;width: 10rem;margin: 3.5rem auto 0 auto;font-family: Helvetica Neue;color: #fff;font-size: 1rem;padding-left: 1rem;text-align: center;\">The greatest movies of all time</div>"
 series-name: "a-z-movies"
@@ -25,6 +25,12 @@ Get ready to either sing our praises, or start singing the blues.
 As we continued our **Greatest Movies A-Z** series with [WatchMojo](https://www.youtube.com/channel/UCaWd5_7JhbQBe4dknZhsHJg), we had to do a Musical video. It’s being posted on their MsMojo page, where we hope to get a standing ovation for our choices. Enjoy. 
 
 <div class="video-container"><iframe width="624" height="351" src="https://www.youtube.com/embed/tZSH0NASKRE?ecver=1" frameborder="0" allowfullscreen></iframe></div>
+
+Again, we gave ourselves some guidelines:
+
+1. One film per letter
+1. Articles don’t count (the, an, a, etc.)
+1. Final list should encapsulate the genre
 
 The last rule dictated a lot of our hardest decisions. And it’s also worth remembering that these are best _movie_ musicals, not broadway musicals. So lackluster adaptations into the new medium won’t make the grade (sorry, _Rent_). 
 
