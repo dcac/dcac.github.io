@@ -24,7 +24,7 @@ The thriller song might make you dance, but a thriller movie will have you glued
 
 This list could rival any of our best genres in the **Greatest Movies A-Z** series with [WatchMojo](https://www.youtube.com/channel/UCaWd5_7JhbQBe4dknZhsHJg). It’s just non-stop great movies, including some recent Best Picture winners and all-time classics. Enjoy. 
 
-<div class="video-container"><iframe width="624" height="351" src="https://www.youtube.com/embed/2_3SCsyCD90?ecver=1" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-container"><iframe width="624" height="351" src="https://www.youtube.com/embed/XbRT800iazk?ecver=1" frameborder="0" allowfullscreen></iframe></div>
 
 Again, we gave ourselves some guidelines:
 
