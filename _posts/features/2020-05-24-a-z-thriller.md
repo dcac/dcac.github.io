@@ -11,7 +11,7 @@ layout: feature
 categories: 
   - features
   - series
-title: "Fantasy Movies: A-Z"
+title: "Thriller Movies: A-Z"
 alt-title: "<div class=\"hide-for-small\" style=\"font-weight: 300;width: 16rem;margin: -10rem auto 0 auto;font-family: Helvetica Neue;color: #fff;font-size: 1.5rem;padding-left: 2rem;text-align: center;\">The greatest movies of all time</div>
 	                  <div class=\"show-for-small\" style=\"font-weight: 300;width: 10rem;margin: 3.5rem auto 0 auto;font-family: Helvetica Neue;color: #fff;font-size: 1rem;padding-left: 1rem;text-align: center;\">The greatest movies of all time</div>"
 series-name: "a-z-movies"
