@@ -43,7 +43,7 @@ So here’s some take-aways from our decision-making process. If your favorite m
 
 <div class="clearfix" style="margin-top:4rem;width:100%;">
 	<div style="height:100%;float:left;width:40%;">
-		<img style="vertical-align: top;display: inline-block;" src="/assets/img/features/inline/a-z-fantasy/top-decade.jpg"> 
+		<img style="vertical-align: top;display: inline-block;" src="/assets/img/features/inline/a-z-thriller/top-decade.jpg"> 
 	</div>
 	<p style="margin-top:0;float:left;width:60%;padding-left: 20px;">
 		<strong>TOP DECADE: 1990s</strong><br />
@@ -53,7 +53,7 @@ So here’s some take-aways from our decision-making process. If your favorite m
 
 <div class="clearfix"  style="margin-top:4rem;width:100%;">
 	<div style="height:100%;float:left;width:40%;">
-		<img style="vertical-align: top;display: inline-block;" src="/assets/img/features/inline/a-z-fantasy/hardest-letter.jpg"> 
+		<img style="vertical-align: top;display: inline-block;" src="/assets/img/features/inline/a-z-thriller/hardest-letter.jpg"> 
 	</div>
 	<p style="margin-top:0;float:left;width:60%;padding-left: 20px;">
 		<strong>HARDEST LETTER: M</strong><br />
@@ -63,7 +63,7 @@ So here’s some take-aways from our decision-making process. If your favorite m
 
 <div class="clearfix"  style="margin-top:4rem;width:100%;">
 	<div style="height:100%;float:left;width:40%;">
-		<img style="vertical-align: top;display: inline-block;" src="/assets/img/features/inline/a-z-fantasy/cheated-out.jpg"> 
+		<img style="vertical-align: top;display: inline-block;" src="/assets/img/features/inline/a-z-thriller/cheated-out.jpg"> 
 	</div>
 	<p style="margin-top:0;float:left;width:60%;padding-left: 20px;">
 		<strong>CHEATED OUT: <em>Basic Instinct</em></strong><br />
@@ -73,7 +73,7 @@ So here’s some take-aways from our decision-making process. If your favorite m
 
 <div class="clearfix" style="margin-top:4rem;width:100%;">
 	<div style="height:100%;float:left;width:40%;">
-		<img style="vertical-align: top;display: inline-block;" src="/assets/img/features/inline/a-z-fantasy/best-battle.jpg"> 
+		<img style="vertical-align: top;display: inline-block;" src="/assets/img/features/inline/a-z-thriller/best-battle.jpg"> 
 	</div>
 	<p style="margin-top:0;float:left;width:60%;padding-left: 20px;">
 		<strong>BEST BATTLE: <em>Duel</em> vs <em>Deliverence</em></strong><br />
@@ -83,7 +83,7 @@ So here’s some take-aways from our decision-making process. If your favorite m
 
 <div class="clearfix"  style="margin:4rem 0;width:100%;">
 	<div style="height:100%;float:left;width:40%;">
-		<img style="vertical-align: top;display: inline-block;" src="/assets/img/features/inline/a-z-fantasy/special-consideration.jpg"> 
+		<img style="vertical-align: top;display: inline-block;" src="/assets/img/features/inline/a-z-thriller/special-consideration.jpg"> 
 	</div>
 	<p style="margin-top:0;float:left;width:60%;padding-left: 20px;">
 		<strong>SPECIAL CONSIDERATION: <em>Verigo</em></strong><br />
