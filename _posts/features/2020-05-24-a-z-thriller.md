@@ -86,7 +86,7 @@ So here’s some take-aways from our decision-making process. If your favorite m
 		<img style="vertical-align: top;display: inline-block;" src="/assets/img/features/inline/a-z-thriller/special-consideration.jpg"> 
 	</div>
 	<p style="margin-top:0;float:left;width:60%;padding-left: 20px;">
-		<strong>SPECIAL CONSIDERATION: <em>Verigo</em></strong><br />
+		<strong>SPECIAL CONSIDERATION: <em>Vertigo</em></strong><br />
 	    It already made the Crime video, and you could argue that John Ferguson is police, but he’s a <em>retired</em> police officer - so there! And one Hitchcock film for the thriller video (with <em>Rear Window</em>) just wasn’t enough.
 	</p>
 </div>
