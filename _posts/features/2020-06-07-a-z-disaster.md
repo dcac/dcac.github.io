@@ -41,7 +41,7 @@ The last point is pretty self-explanatory, but the first one is worth diving int
 
 So here’s some take-aways from our decision-making process, with a bit more detail than you’ll find in the “takeaways” section of the video:
 
-<p class="intro" style="margin-top:4rem">LESSONS FROM THRILLER A-Z</p>
+<p class="intro" style="margin-top:4rem">LESSONS FROM DISASTER A-Z</p>
 
 <div class="clearfix" style="margin-top:4rem;width:100%;">
 	<div style="height:100%;float:left;width:40%;">
