@@ -1,7 +1,7 @@
 ---
 published: true
 visible: 1
-image: "a-z-didaster.jpg"
+image: "a-z-disaster.jpg"
 author: all
 stars: 
 excerpt: "A video series dedicated to the greatest films of all-time. Made In partnership with our friends at WatchMojo."
