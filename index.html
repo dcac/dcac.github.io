@@ -12,7 +12,7 @@ top_nav: false
       {% include top-nav.html %}
       {% endif %}
       {% if page.home_feature_display %}
-        {% include home/home-feature-a-z.html %}
+        {% include home/home-feature-a-z-worst.html %}
       {% else %}
         {% for post in site.posts limit:1 %}
           {%include home/home-hero.html %}
