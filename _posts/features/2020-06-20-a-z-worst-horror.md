@@ -20,7 +20,7 @@ series-link-override: "a-z-worst-horror.png"
 comments: true
 tags: [best of,a-z]
 ---
-s you know, the only thing better than a great horror movie, is a terrible one.
+As you know, the only thing better than a great horror movie, is a terrible one.
 
 That’s why we decided to change gears in our **A-Z** series with [WatchMojo](https://www.youtube.com/channel/UCaWd5_7JhbQBe4dknZhsHJg). This will be the first of a series of “worst” movies from A-Z for some of our favourite genres. What makes them “the worst”, exactly? See for yourself: 
 
