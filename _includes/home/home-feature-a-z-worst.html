@@ -1,0 +1,49 @@
+<div class="mini-top-nav-hidden mm-fixed-top" id="mini-top-nav">
+      <nav class="top-bar">
+        <ul class="title-area">
+          <li class="name dcac-logo" id="nav-toggle"></li>
+        </ul>
+        <section class="top-bar-section">
+          <!-- Right Nav Section -->
+          <ul class="right">
+            <li class="search" id="mini-top-search-toggle"><a href="#" class="mini-search-link"><i class="fa fa-search"></i></a></li>
+          </ul>
+          <ul class="left">
+            {% for post in site.categories['reviews'] limit:1 %}
+            {% assign author = site.data.authors[post.author] %}
+            <li><a href="{{ post.url }}" class="latest-review"><strong>Latest review: </strong><em>{{ post.title }}</em> - Dear {{ post.addressee }}, {{ post.position }}</a></li>
+            {% endfor %}
+          </ul>
+        </section>
+      </nav>
+    </div>
+            <section id="feature-hero-home">
+              <div id="home-feature" class="title-info">
+                <div class="row collapse">
+                    <div class="section-header">
+                        <section class="feature-top-nav" id="feature-top-nav">
+                            <a href="/" class="feature-logo-link"></a>
+                            <ul>
+                                <li><a href="/reviews/" class="nav-text">Reviews</a></li>
+                                <li><a href="/features/" class="slash nav-text">Features</a></li>
+                                <!-- <li><a href="/podcast/">Podcast</a></li> -->
+                                <li><a href="/writers/" class="slash nav-text">Writers</a></li>
+                                <li><a href="#" id="top-search-toggle" class="top-search-toggle slash nav-text"><i class="fa fa-search"></i></a></li>
+                            </ul>
+                        </section>
+                    </div>
+                </div>
+                  <a href="/a-z-worst/">
+	                <div id="home-feature-img" class="home-feature-img" aria-labelledby="The best movies ever made: A to Z" style="background-image: url('/assets/img/posts/main/a-z-worst-main.jpg');">
+	                  <div class="hide-for-small" style="position: absolute;bottom: 6rem;width:100%;">
+	                  	<p style="color: #fff;font-size: 2.5rem;text-align: center;width: 100%;font-weight: 800;margin:0"><span style="font-weight:300">The</span> worst movies <span style="font-weight:300">of all time</span></p>
+	                    <p style="color: #fff;font-size: 1rem;text-align: center;width: 100%;font-weight: 400;font-family: Georgia,serif;margin:0; font-style: italic;">A series by Dear Cast & Crew</p>
+	                  </div>
+	                  <div class="show-for-small" style="position: absolute;bottom: 2rem;width:100%;">
+	                  	<p style="color: #fff;font-size: 1.5rem;text-align: center;width: 100%;font-weight: 800;margin:0"><span style="font-weight:300">The</span> worst movies <span style="font-weight:300">of all time</span></p>
+	                    <p style="color: #fff;font-size: .75rem;text-align: center;width: 100%;font-weight: 400;font-family: Georgia,serif;margin:0; font-style: italic;">A series by Dear Cast & Crew</p>
+	                  </div>
+	                </div>
+                  </a>
+            </div>
+          </section>
