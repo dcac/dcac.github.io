@@ -4,7 +4,7 @@ name: Dear Cast & Crew
 markdown: redcarpet
 highlighter: true
 baseurl: www.dearcastandcrew.com
-future: false
+future: true
 
 
 #RSS info
