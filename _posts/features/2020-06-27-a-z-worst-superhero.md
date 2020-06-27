@@ -32,12 +32,6 @@ As you can see, we gave ourselves some guidelines:
 1. Skip articles in the title (the, an, a, etc.)
 1. Big let-downs more likely to be picked
 
-As you can see, we gave ourselves some guidelines:
-
-1. Worst film per letter
-1. Skip articles in the title (the, an, a, etc.)
-1. Big let-downs more likely to be picked
-
 Proportionally, superhero films probably have the biggest budget of any genre. So the fun here is we’re always punching up. That doesn’t mean we completely ignored the early regrettable movies of, say _Captain America_ and _Nick Fury_, but we certainly weren’t afraid to also call out the movies that had every chance to succeed - in some cases, _multiple_ chances *cough cough” _Fantastic Four_.
 
 Plus, they say failure is the best teacher, so here’s a bit of what we learned along the way: 
