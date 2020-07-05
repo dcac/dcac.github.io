@@ -4,7 +4,7 @@ visible: 1
 image: "a-z-worst-horror.jpg"
 author: all
 stars: 
-excerpt: "A video series dedicated to the greatest films of all-time. Made In partnership with our friends at WatchMojo."
+excerpt: "A video series dedicated to the worst films of all-time. Made In partnership with our friends at WatchMojo."
 position: 
 addressee: "Horror Fans"
 layout: feature
