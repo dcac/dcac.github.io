@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 visible: 1
 image: "a-z-worst-action.jpg"
 author: all
