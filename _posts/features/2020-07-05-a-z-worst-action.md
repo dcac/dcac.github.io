@@ -72,7 +72,7 @@ But, as they say, failure is the best teacher, so here’s a bit of what we lear
 		<img style="vertical-align: top;display: inline-block;" src="/assets/img/features/inline/a-z-worst-action/best-battle.jpg"> 
 	</div>
 	<p style="margin-top:0;float:left;width:60%;padding-left: 20px;">
-		<strong>BEST BATTLE: <em>A Good Day to Die Hard</em> <strong>vs</strong> <em>Getaway</em><br />
+		<strong>BEST BATTLE: <em>A Good Day to Die Hard</em> <strong>vs</strong> <em>Getaway</em></strong><br />
 	  What’s worse? A peak action franchise phoning it in with a completely regrettable fifth instalment, or a smart(ish) simple premise executed with enough budget and star power to not have any excuse to be so GD bad? We called Getaway the greater offender, because it’s just an insult to editing and action filmmaking. Plus, Bruce Willis already had a few more entries on the list 0 his whole career has turned into C-movie videos, so there’s only so much picking on the man we could do.
 	</p>
 </div>
