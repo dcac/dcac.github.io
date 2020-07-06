@@ -22,7 +22,7 @@ tags: [best of,a-z]
 ---
 Sometimes, the action just falls flat. 
 
-For this instalment of our **Worst Movies** **A-Z** series with [WatchMojo](https://www.youtube.com/channel/UCaWd5_7JhbQBe4dknZhsHJg), we’re looking at the lamest action films ever made. He kind of movies that felt like they were only kicking the audience in the teeth for getting their hopes up. Enjoy:
+For this instalment of our **Worst Movies** **A-Z** series with [WatchMojo](https://www.youtube.com/channel/UCaWd5_7JhbQBe4dknZhsHJg), we’re looking at the lamest action films ever made. The kind of movies that felt like they were only kicking the audience in the teeth for getting their hopes up. Enjoy:
 
 <div class="video-container"><iframe width="624" height="351" src="https://www.youtube.com/embed/aO1LmymRcJc?ecver=1" frameborder="0" allowfullscreen></iframe></div>
 
