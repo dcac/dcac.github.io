@@ -20,8 +20,6 @@ series-link-override: "a-z-worst-sci-fi.png"
 comments: true
 tags: [best of,a-z]
 ---
-Sometimes, the action just falls flat. 
-
 We love it when science goes wrong in movies, but when the script and special effects go wrong - look out. 
 
 For this instalment of our **Worst Movies** **A-Z** series with [WatchMojo](https://www.youtube.com/channel/UCaWd5_7JhbQBe4dknZhsHJg), we’re looking at the most disastrous science fiction films ever made. Movies that feel like they came from another planet. Enjoy:
