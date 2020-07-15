@@ -15,7 +15,7 @@ categories:
   - current-releases
 title: "The Outpost"
 comments: true
-tags: [airplane,flight,Joseph Gordon-Levitt,thriller]
+tags: [Scott Eastwood,war.military,action]
 ---
 You’ve been involved in some extremely impressive “how the hell did they find this guy/girl?” choices. 
 
