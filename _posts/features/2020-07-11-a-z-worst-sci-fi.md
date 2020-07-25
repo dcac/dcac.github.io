@@ -54,7 +54,7 @@ But, as they say, failure is the best teacher, so here’s a bit of what we lear
 	</div>
 	<p style="margin-top:0;float:left;width:60%;padding-left: 20px;">
 		<strong>WORST LETTER: B</strong><br />
-	    Seems appropriate, since when you think “B-movie”, you probably picture a cheesy sci-fi flick. And while no one was going to dethrone <em>Battlefield Earth</em> as the big daddy of bad sci-fi movies, many tried: <em>Battle for Skylark</em>, <em>Battle for the Planet of the Apes</em>, _Battle: Los Angeles_… are you sensing a theme there? You don’t have to be a <em>Baby Genius</em> to know that having the world “battle” in your sci-fi movie title is a bad idea	</p>
+	    Seems appropriate, since when you think “B-movie”, you probably picture a cheesy sci-fi flick. And while no one was going to dethrone <em>Battlefield Earth</em> as the big daddy of bad sci-fi movies, many tried: <em>Battle for Skylark</em>, <em>Battle for the Planet of the Apes</em>, _Battle: Los Angeles_… are you sensing a theme there? You don’t have to be a <em>Baby Genius</em> to know that having the world “battle” in your sci-fi movie title is a bad idea.	</p>
 </div>
 
 <div class="clearfix"  style="margin-top:4rem;width:100%;">
@@ -83,7 +83,7 @@ But, as they say, failure is the best teacher, so here’s a bit of what we lear
 	</div>
 	<p style="margin-top:0;float:left;width:60%;padding-left: 20px;">
 		<strong>SPECIAL CONSIDERATION: <em>Jason X</em></strong><br />
-	    It would have been satisfying to put <em>Jurassic World: Fallen Kingdom</em> on this list, but unfortunately the top notch special effects, and our residual love for the original, ranked it just a notch above the last (and worst) <em>Friday the 13th</em> movie; <em>Jason X</em>. Suddenly setting your franchise <em>in space</em> is the ultimate jump-the-shark moment in a franchise, and this movie is about as bad as they come - but that hologram scene going back to Crystal Lake sure is the right kind of dumb fun
+	    It would have been satisfying to put <em>Jurassic World: Fallen Kingdom</em> on this list, but unfortunately the top notch special effects, and our residual love for the original, ranked it just a notch above the last (and worst) <em>Friday the 13th</em> movie; <em>Jason X</em>. Suddenly setting your franchise <em>in space</em> is the ultimate jump-the-shark moment in a franchise, and this movie is about as bad as they come - but that hologram scene going back to Crystal Lake sure is the right kind of dumb fun.
 	</p>
 </div>
 

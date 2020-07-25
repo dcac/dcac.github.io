@@ -33,4 +33,4 @@ Not to say all the casting choices didn’t work. Caleb Landry tries 150 percent
 
 It’s a back-handed way to say _The Outpost_ is one of the most effective Afghanistan War films I’ve ever seen. The oners (single take action-sequences) are disciplined and motivated, the action itself is coherent, and the scale of the battle is quite breathtaking. Modern warfare will (hopefully) never replicate the scale of storming the beaches of Normandy, the trenches of the Western Front, or the Empirical Wars of centuries past, but seeing hundreds of Taliban descend from the hills is enough to make anyone in the audience sit up straight and say “oh shit.” 
 
-I just wished I wasn’t also saying that about some of the casting choices.
+I just wished I wasn’t also saying that about some of the casting choices. 
