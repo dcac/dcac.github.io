@@ -71,7 +71,7 @@ But, as they say, failure is the best teacher, so here’s a bit of what we lear
 	<div style="height:100%;float:left;width:40%;">
 		<img style="vertical-align: top;display: inline-block;" src="/assets/img/features/inline/a-z-worst-comedy/best-battle.jpg"> 
 	</div>
-	<p style="margin-top:0;float:left;width:60%;padding-left: 20px;">
+	<p style="margin-top:0;float:left;width:60%;padding-left: 20px;"> 
 		<strong>BEST BATTLE: <em>Master of Disguise</em> vs <em>Movie 43</em></strong><br />
 	  A lot of critics have a lot of hate for <em>Master of Disguise</em>, but the otherwise loveable Dana Carvey really doesn’t deserve so much wrath. Instead, let that burden be carried by the way-too-many movie stars in <em>Movie 43</em>, a complete abomination of cinema. It’s a comedy anthology film, and every entry is attempting to outdo the next in terms of over-the-top antics. They all fall flat.
 	</p>
