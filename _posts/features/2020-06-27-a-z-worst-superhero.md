@@ -65,7 +65,7 @@ Plus, they say failure is the best teacher, so here’s a bit of what we learned
 	</div>
 	<p style="margin-top:0;float:left;width:60%;padding-left: 20px;">
 		<strong>CHEATED OUT: <em>Catwoman</em></strong><br />
-		It’s maybe the first movie people think of when they think bad superhero movies, but know what we think of? Haller Barry in the cat suit. And that alone is more redeeming than anything you will find in the 1990 version of <em>Captain America</em>. <em>Elektra</em> also gets a lot of deserved derision, but it was only competing against the abominable <em>Elf-Man</em> for the “best” list, so them's the breaks.
+		It’s maybe the first movie people think of when they think bad superhero movies, but know what we think of? Halle Barry in the cat suit. And that alone is more redeeming than anything you will find in the 1990 version of <em>Captain America</em>. <em>Elektra</em> also gets a lot of deserved derision, but it was only competing against the abominable <em>Elf-Man</em> for the “best” list, so them's the breaks.
 	</p>
 </div>
 

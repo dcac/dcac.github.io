@@ -54,7 +54,7 @@ But, as they say, failure is the best teacher, so here’s a bit of what we lear
 	</div>
 	<p style="margin-top:0;float:left;width:60%;padding-left: 20px;">
 		<strong>WORST LETTER: R</strong><br />
-	    We love a good Rated R comedy, but starting with the letter R just seems to get funny movies off on the wrong. From <em>The</em> <em>Ridiculous 6</em> to <em>Reno 911!: Miami</em>, <em>RV</em> to <em>Repossessed</em>, the misses just keep on coming. <em>Rabbit Test</em>, directed by Joan Crawford and starting Billy Crystal as the first man to get pregnant, is particularly incompetent. And let’s not forget horrendous sequels like <em>Revenge of the Nerds II: Nerds in Paradise</em>. But the big daddy of embarrassment is still Sylvester Stallone in <em>Rhinestone</em>.	</p>
+	    We love a good Rated R comedy, but starting with the letter R just seems to get funny movies off on the wrong. From <em>The</em> <em>Ridiculous 6</em> to <em>Reno 911!: Miami</em>, <em>RV</em> to <em>Repossessed</em>, the misses just keep on coming. <em>Rabbit Test</em>, directed by Joan Rivers and starting Billy Crystal as the first man to get pregnant, is particularly incompetent. And let’s not forget horrendous sequels like <em>Revenge of the Nerds II: Nerds in Paradise</em>. But the big daddy of embarrassment is still Sylvester Stallone in <em>Rhinestone</em>.	</p>
 </div>
 
 <div class="clearfix"  style="margin-top:4rem;width:100%;">
