@@ -22,7 +22,7 @@ tags: [best of,a-z]
 ---
 Who knew debates over the best animated films of all-time would get so…. animated?
 
-As we continue our **Greatest Movies A-Z** series with [WatchMojo](https://www.youtube.com/channel/UCaWd5_7JhbQBe4dknZhsHJg), we made sure to draw from a long history of classic animation feature films. EWven though for this first season we are focusing on genres, and animation is a medium, it’s a category we just couldn’t ignore. Enjoy. 
+As we continue our **Greatest Movies A-Z** series with [WatchMojo](https://www.youtube.com/channel/UCaWd5_7JhbQBe4dknZhsHJg), we made sure to draw from a long history of classic animation feature films. Even though for this first season we are focusing on genres, and animation is a medium, it’s a category we just couldn’t ignore. Enjoy. 
 
 <div class="video-container"><iframe width="624" height="351" src="https://www.youtube.com/embed/gPBwj6mD-Qg?ecver=1" frameborder="0" allowfullscreen></iframe></div>
 
