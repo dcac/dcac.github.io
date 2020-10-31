@@ -31,7 +31,7 @@ GEM
     gemoji (2.1.0)
     github-pages (22)
       RedCloth (= 4.2.9)
-      jekyll (= 3.6.3.0)
+      jekyll (= 2.2.0)
       jekyll-coffeescript (= 1.0.0)
       jekyll-mentions (= 0.1.3)
       jekyll-redirect-from (= 0.4.0)
