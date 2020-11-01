@@ -110,6 +110,7 @@ GEM
     pygments.rb (1.2.1)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.2.0)
+      multi_json (>= 1.0.0)
     rack (1.5.2)
     rb-fsevent (0.9.4)
     rb-inotify (0.9.5)
