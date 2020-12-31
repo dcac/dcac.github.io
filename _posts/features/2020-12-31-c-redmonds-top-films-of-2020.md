@@ -16,13 +16,11 @@ title: "C. Redmond’s Top Films of 2020"
 comments: true
 tags: [Awards, awesome, Best, Canadian, critic, films, good, list, movies, Top films 2020, worst, year end, 2020]
 ---
-Keeping track of everything I watch helps me understand why consume so much in the first place. Like many people, I’m often just looking for entertainment/escape/distraction. I also want to keep up with the cultural conversation, and be a reliable source of recommendations. But as someone who makes TV for a living, I’m also always looking for inspiration, references, and even cautionary examples. And 2019 had a whole lot to love and learn from. 
+I’ve made it a tradition to always post my top films of each year on Dec 31st , and more recently, to also break down my TV diet in an attempt to make sense of all my rabid media consumption. Except, unlike most people (without kids, I can only guess), 2020 actually saw a slight drop in the amount of films I watched (158 vs. 200+ last year, for example). But after the dark days of March and April, that mainly just has to do with less new movies being released. 
 
-In a nutshell: foreign films dominate the top of my list, indicating once again how strong the movies are that make the leap to North American theaters. And since there was so much good TV this year, I decided to rank shows based on their channel/service. HBO and Amazon Prime have the highest batting averages for greatness, while Netflix still manages to take a disproportionately high amount of actual shows watched. 
+Let’s not kid ourselves. 2020 was a bad year for movies. And my #1 pick is unapologetically political - the film itself no doubt earned a [full extra star](http://www.dearcastandcrew.com/content/2020/9/2/tenet.html) just based on the conditions it was seen. Because at the end of the day, I don’t think a true five-star film was released in 2020. _First Cow_ was damn close, but in the end, I went with the film we already can’t separate from the year it was released - for better or worse. It’s _the_ movie of 2020 - and it’s awesome.
 
-Also, the best comedy of the year was a (French) Canadian film. It had to make the list. 
-
-Here’s a full breakdown, based on having seen 205 movies and 501 episodes of television this year: 
+Also - since we’re all still home with most movie theatres not planning to release new films for months, I’m also including how and where I saw each of these films. With just a couple subscriptions, you can watch 90% of this entire list.
 
 **Top 10 Films of 2020**
 
