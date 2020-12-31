@@ -39,98 +39,98 @@ Here’s a full breakdown, based on having seen 205 movies and 501 episodes of t
 
 **Better Than Necessary** 
 
-The Happiest Season – _Amazon Prime_ 
-Mulan – _Disney+_ 
-The Way Back – _Crave_ 
+The Happiest Season – _Amazon Prime_  
+Mulan – _Disney+_  
+The Way Back – _Crave_  
 
 **Overrated By Everyone Else** 
 
-Mank – _Netflix_ 
-I’m Thinking of Ending Things – _Netflix_ 
-Totally Under Control – _Amazon Prime_ 
+Mank – _Netflix_  
+I’m Thinking of Ending Things – _Netflix_  
+Totally Under Control – _Amazon Prime_  
 
 **Inexplicably Underseen** 
 
-The Lovebirds – _Netflix_ 
-Greyhound – _Apple TV+_ 
-7500 – _Amazon Prime_ 
+The Lovebirds – _Netflix_  
+Greyhound – _Apple TV+_  
+7500 – _Amazon Prime_  
 
 **Foreign But Not Forgotten** 
 
 The Platform - Netflix 
-Les Miserables – _Crave_ 
+Les Miserables – _Crave_  
 
 **Unapologetically Awesome** 
 
-The Informer – _Netflix_ 
-Guns Akimbo – _Amazon Prime_ 
-Extraction – _Netflix_ 
+The Informer – _Netflix_  
+Guns Akimbo – _Amazon Prime_  
+Extraction – _Netflix_  
 
 **Satisfying Sequels** 
 
-Wonder Woman 1984 – _Rent $29.99_
-Bad Boys for Life – _Amazon Prime_ 
+Wonder Woman 1984 – _Rent $29.99_  
+Bad Boys for Life – _Amazon Prime_  
 
 **Didn’t Disappoint** 
-Mangrove – _Amazon Prime_ 
-Ma Rainey’s Black Bottom – _Netflix_ 
-The Sound of Metal – _Theatre_ 
+Mangrove – _Amazon Prime_  
+Ma Rainey’s Black Bottom – _Netflix_  
+The Sound of Metal – _Theatre_  
 
 **Extra Special Indies** 
 
-The Vast of Night – _Amazon Prime_ 
-The Climb – _Theatre_ 
-The Assistant – _Crave_ 
-Time – _Amazon Prime_ 
+The Vast of Night – _Amazon Prime_  
+The Climb – _Theatre_  
+The Assistant – _Crave_  
+Time – _Amazon Prime_  
 
 **Kick-Ass Canadian Films**
 
-Antigone – _Crave_ 
-Blood Quantum – _Crave_ 
-James vs His Future Self – _Crave_ 
-The Twentieth Century – _Crave_ 
-Jusqu’au déclin – _Netflix_ 
+Antigone – _Crave_  
+Blood Quantum – _Crave_  
+James vs His Future Self – _Crave_  
+The Twentieth Century – _Crave_  
+Jusqu’au déclin – _Netflix_  
 
 **Wasted My Time Watching**
 
-Spencer Confidential – _Netflix_ 
-Run This Town – _Crave_ 
-The Rhythm Section – _Amazon Prime_ 
-Hillbilly Elegy – _Netflix_ 
-The Devil All the Time – _Netflix_ 
-Downhill – _Crave_ 
-Project Power – _Netflix_ 
+Spencer Confidential – _Netflix_  
+Run This Town – _Crave_  
+The Rhythm Section – _Amazon Prime_  
+Hillbilly Elegy – _Netflix_  
+The Devil All the Time – _Netflix_  
+Downhill – _Crave_  
+Project Power – _Netflix_  
 
 **This Year I Finally Saw (and Loved)** 
 
-Boy (2010) – _Amazon Prime_ 
-A Simple Plan (1998) – _TV_ 
-My Cousin Vinny (1992) – _TV_ 
-King of New York (1990) – _Netflix_ 
-Clue (1985) – _Amazon Prime_ 
-Gallipoli (1981) – _Amazon Prime_ 
-Barry Lyndon (1975) – _TV_ 
-Once Upon a Time in the West (1968) – _Netflix_ 
-Sunset Boulevard (1950) – _TV_ 
+Boy (2010) – _Amazon Prime_  
+A Simple Plan (1998) – _TV_  
+My Cousin Vinny (1992) – _TV_  
+King of New York (1990) – _Netflix_  
+Clue (1985) – _Amazon Prime_  
+Gallipoli (1981) – _Amazon Prime_  
+Barry Lyndon (1975) – _TV_  
+Once Upon a Time in the West (1968) – _Netflix_  
+Sunset Boulevard (1950) – _TV_  
 
 **A Year Late to the Party (but Wow!)** 
 
-Portrait of a Lady on Fire – _Crave_ 
-Little Women – _Amazon Prime_ 
-Richard Jewell – _Crave_ 
-Shepherds and Butchers – _Netflix_ 
-A Hidden Life – _Crave_ 
+Portrait of a Lady on Fire – _Crave_  
+Little Women – _Amazon Prime_  
+Richard Jewell – _Crave_  
+Shepherds and Butchers – _Netflix_  
+A Hidden Life – _Crave_  
 Danger Close – _Amazon Prime_
 
 **Best Quarantine-Themed/Stuck-At-Home Movies I Watched** 
 
-Contagion
-Five Feet Apart
-Honey I Shrunk the Kids
-Sunset Boulevard
-Vivarium
-The Platform
-Palm Springs
+Contagion  
+Five Feet Apart  
+Honey I Shrunk the Kids  
+Sunset Boulevard  
+Vivarium  
+The Platform  
+Palm Springs  
 
 **Top 20 TV Series of 2020**
 
@@ -165,37 +165,42 @@ Palm Springs
 
 **Don't Regret, but Don’t Really Recommend** 
 
-The Right Stuff – _Disney+_ 
-Devs – _FX_ 
-The Undoing – _HBO_ 
-Messiah – _Netflix_ 
-The Wilds – _Amazon Prime_ 
-The Flight Attendant – _Crave_ 
+The Right Stuff – _Disney+_  
+Devs – _FX_  
+The Undoing – _HBO_  
+Messiah – _Netflix_  
+The Wilds – _Amazon Prime_  
+The Flight Attendant – _Crave_  
 
 **Finished but Forgettable** 
 
-Giri/Haji Netflix
-The Comey Rule Showtime
-The Trials of Gabriel Hernandez Netflix
-Feel Good Netflix
+Giri/Haji – _Netflix_  
+The Comey Rule – _Showtime_  
+The Trials of Gabriel Hernandez – _Netflix_  
+Feel Good – _Netflix_  
+
 **Why Can't I Quit You?** 
-Black Monday (Season 2) Crave
-Homeland (Season 8) Showtime
-Billions (Season 5) Showtime
+Black Monday (Season 2) – _Crave_  
+Homeland (Season 8) – _Showtime_  
+Billions (Season 5)  – _Showtime_  
 
 **One-Episode-and-Done (I Did Quit You!)** 
 
-Fortunate Son CBC
-Medical Police Netflix
-Avenue 5 HBO
-Picard CBS (Crave)
-Space Force Netflix
+Fortunate Son – _CBC_  
+Medical Police – _Netflix_  
+Avenue 5 – _HBO_  
+Picard CBS – _(Crave)_  
+Space Force – _Netflix_  
 
 **Stuck in the Middle with You** **(Struggling to Get Through)** 
 
-Lovecraft County - HBO 
-Raised by Wolves - HBO Max 
-I May Destroy You - HBO 
-The Good Lord Bird - Showtime (Crave) 
-Snowpiercer - Netflix 
-The Boys (Season 2) - Amazon Prime 
+Lovecraft County – _HBO_  
+Raised by Wolves – _HBO Max_  
+I May Destroy You – _HBO_  
+The Good Lord Bird – _Showtime (Crave)_  
+Snowpiercer   Netflix_  
+The Boys (Season 2) – _Amazon Prime_  
+
+**Special Award for Decade-Old Danish TV Series that's Just the Best:** 
+
+Borgen – _Netflix_
