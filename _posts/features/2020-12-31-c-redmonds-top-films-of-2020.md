@@ -55,7 +55,7 @@ Greyhound – _Apple TV+_
 
 **Foreign But Not Forgotten** 
 
-The Platform - Netflix 
+The Platform – _Netflix_  
 Les Miserables – _Crave_  
 
 **Unapologetically Awesome** 
