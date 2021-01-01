@@ -24,7 +24,7 @@ Also - since we’re all still home with most movie theatres not planning to rel
 
 **Top 10 Films of 2020**
 
-1. Tenet _- Theatre_
+1. Tenet – _Theatre_
 1. First Cow – _Rent on Apple TV $4.99_
 1. Never Rarely Sometimes Always – _Crave_ 
 1. Borat Subsequent Moviefilm – _Amazon Prime_ 
@@ -69,7 +69,8 @@ Extraction – _Netflix_
 Wonder Woman 1984 – _Rent $29.99_  
 Bad Boys for Life – _Amazon Prime_  
 
-**Didn’t Disappoint** 
+**Didn’t Disappoint**
+
 Mangrove – _Amazon Prime_  
 Ma Rainey’s Black Bottom – _Netflix_  
 The Sound of Metal – _Theatre_  
@@ -178,6 +179,7 @@ The Trials of Gabriel Hernandez – _Netflix_
 Feel Good – _Netflix_  
 
 **Why Can't I Quit You?** 
+
 Black Monday (Season 2) – _Crave_  
 Homeland (Season 8) – _Showtime_  
 Billions (Season 5)  – _Showtime_  
@@ -187,7 +189,7 @@ Billions (Season 5)  – _Showtime_
 Fortunate Son – _CBC_  
 Medical Police – _Netflix_  
 Avenue 5 – _HBO_  
-Picard CBS – _(Crave)_  
+Picard – _CBS (Crave)_  
 Space Force – _Netflix_  
 
 **Stuck in the Middle with You** **(Struggling to Get Through)** 
@@ -196,7 +198,7 @@ Lovecraft County – _HBO_
 Raised by Wolves – _HBO Max_  
 I May Destroy You – _HBO_  
 The Good Lord Bird – _Showtime (Crave)_  
-Snowpiercer   Netflix_  
+Snowpiercer – _Netflix_  
 The Boys (Season 2) – _Amazon Prime_  
 
 **Special Award for Decade-Old Danish TV Series that's Just the Best:** 
