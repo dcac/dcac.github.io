@@ -6,7 +6,7 @@ image: promising-young-woman.jpg
 author: dig
 stars: 4.5
 excerpt: ""
-addressee: "Nice Guys
+addressee: "Nice Guys"
 position: "Antagonists"
 split_name: true
 layout: review
@@ -69,3 +69,5 @@ Good.
 
 Di
 {% endcontentfor %}
+
+_*title is a nod to convicted rapist Brock Turner being referred to as a ‘promising young man’._
