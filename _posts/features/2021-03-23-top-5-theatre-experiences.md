@@ -16,7 +16,7 @@ title: "Top Five Theatre Experiences"
 series-link: "See the complete Top 5 series"
 title-display: true
 alt-title: 
-show_series_name: false
+show_series_name: true
 show_author: false
 comments: true
 tags: [series,theatre,cinema]
