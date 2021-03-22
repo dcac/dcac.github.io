@@ -21,4 +21,4 @@ show_author: false
 comments: true
 tags: [series,theatre,cinema]
 ---
-It's been any full year since any of us have enjoyed a packed screening on opening night, a raucous midnight movie, or the thrill of discovering a new movie at a buzzing festival. Those days will return. Until then, here's a tribute to what makes going to the movies magic.
+It's been a full year since any of us have enjoyed a packed screening on opening night, a raucous midnight movie, or the thrill of discovering a new movie at a buzzing festival. Those days will return. Until then, here's a tribute to what makes going to the movies magic.
