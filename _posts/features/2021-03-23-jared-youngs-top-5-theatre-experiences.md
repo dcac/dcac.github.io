@@ -2,7 +2,7 @@
 published: true
 date: 2021-03-23 23:59:00
 visible: 1
-image: "yared-youngss-top-5-theatre-experiences.jpg"
+image: "yared-youngs-top-5-theatre-experiences.jpg"
 author: jaredy
 stars: 
 excerpt: "From theatres in Ottawa to Paris, see CD Redmond's list of what makes going to the movies magic"
