@@ -5,7 +5,7 @@ visible: 1
 image: "jared-youngs-top-5-theatre-experiences.jpg"
 author: jaredy
 stars: 
-excerpt: "From theatres in Ottawa to Paris, see CD Redmond's list of what makes going to the movies magic"
+excerpt: "Read the top five times Jared Young enjoyed a movie <em>because</em> he watched it in the dark with strangers."
 position: 
 addressee: "Cinema Lovers"
 layout: feature

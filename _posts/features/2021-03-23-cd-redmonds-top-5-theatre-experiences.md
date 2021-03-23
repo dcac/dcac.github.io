@@ -4,7 +4,7 @@ visible: 1
 image: "cd-redmonds-top-5-theatre-experiences.jpg"
 author: christopherr
 stars: 
-excerpt: "From theatres in Ottawa to Paris, see CD Redmond's list of what makes going to the movies magic"
+excerpt: "From theatres in Ottawa to Paris, see CD Redmond's list of what makes going to the movies magic."
 position: 
 addressee: "Cinema Lovers"
 layout: feature
