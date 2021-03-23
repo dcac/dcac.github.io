@@ -93,4 +93,4 @@ And why did it matter that this happened in a theatre? Because it pulled me outs
 
 And we did. That night, at least. I’ve seen _Skyfall_ a few times since, and, though I still think it’s pretty good, it hasn’t lived up to that first viewing. It couldn’t. Because the best and worst thing about seeing a movie in the theatre is that it’s a temporary experience; you can’t take the feeling with you, only the memory. And right now, all we have are these memories.
 
-I like getting to the movies early. I like sitting in the dim light while others shuffle in. And then that lovely moment when the lights dim and the speakers crackle. It incites a physical reaction in me—every single time: a chill, a clench, a throb, a shiver. I live for it. I hope to feel it again soon.
+I like getting to the movies early. I like sitting in the dim light while others shuffle in. And then that lovely moment when the lights dim and the speakers crackle. It incites a physical reaction in me—every single time: a chill, a clench, a throb, a shiver. I live for it. I hope to feel it again soon. 
