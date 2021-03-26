@@ -17,7 +17,7 @@ series-name: "top-5-theatre-experiences"
 series-title: "Top Five Theatre Experiences"
 series-link-override: "top-5-theatre-experiences.png"
 comments: true
-tags: [best of,a-z,monsters]
+tags: [series,theatre,cinema]
 ---
 The pandemic may have taken movie theatres away from us but it can’t take away our feelings for them. As the months drag on, and repertoire venues close all over the world (including our beloved Bytowne Theatre in Ottawa), it’s important to remember why we used to leave our homes to go see movies. With the right crowd, great films can become sublime, and middling ones -- seen the right way, with the right people -- can become unforgettable.
 
