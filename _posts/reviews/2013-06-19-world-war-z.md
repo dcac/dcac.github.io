@@ -6,7 +6,7 @@ author: jaredy
 stars: 2.5
 excerpt: "We love you, Marc. You know that, don&rsquo;t you? We care for you. We just want the best for you. That&rsquo;s why we&rsquo;re writing this letter. Because you have a problem. Everyone sees it. They see it, but they don&rsquo;t necessarily understand it&mdash;and that&rsquo;s the heart of the issue: common sense, comprehension, spatial logic. You&rsquo;ve given up on these things. You&rsquo;ve given up on <em>us</em>, Marc. You&rsquo;ve given up on your audience."
 position: Director
-addressee: Marc Foster
+addressee: Marc Forster
 layout: review
 categories:
   - reviews
