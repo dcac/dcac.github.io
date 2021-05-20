@@ -14,7 +14,7 @@ categories:
   - reviews
   - netflix
   - current-releases
-title: "The Assistant"
+title: "The Woman in the Window"
 comments: true
 tags: [netflix,thriller,mystery]
 ---
