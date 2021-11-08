@@ -40,3 +40,9 @@ There’s a lack of build-up to establish Cletus Kasady and Shriek’s (Naomie H
 Even the big climactic battle at the end—the thing that embodies the superhero third act—lasts only a couple of minutes followed by an _immediate_ jump cut to a sunset by the beach.
 
 All this says to me is that _Venom 2_ was never a standalone priority for Sony. I doubt anyone who has seen _Venom 2_ will disagree when I say, if the events of this film never happened, minus the post-credit scene, it would not impact Sony's plans for their Spider-Man Universe.
+
+{% contentfor signature %}
+**Infectiously yours,**
+
+Ankit
+{% endcontentfor %}
