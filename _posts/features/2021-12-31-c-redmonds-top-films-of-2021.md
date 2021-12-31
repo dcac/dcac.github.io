@@ -211,8 +211,8 @@ _The War of the Worlds_ (1953)
 **_The Morning Show_** (Season 2) - _Apple+_  
 **_Curb Your Enthusiasm_** (Season 11) - _HBO/Crave_
 
-**<u>One-Episode-and-Done (I Did Quit You!)</u>**
-**The Serpent_** - _Netflix_  
+**<u>One-Episode-and-Done (I Did Quit You!)</u>**  
+**_The Serpent_** - _Netflix_  
 **_Heels_** - _Disney+_  
 **_The Shrink Next Door_** - _Apple+_  
 **_Stuck in the Middle with You (Struggling to Get Through)_**  
