@@ -24,7 +24,8 @@ In terms of TV, it’s once again a gluttony of options from the major streamers
 
 These lists are pulled from my seeing 235 films this year, and 58 full seasons of television (521 episodes). The Oscar eligibility window leaked into 2021 last year, so save for a few late releases, these are all fresh 2021 picks. 
 
-**<u>TOP 10 FILMS of 2021</u>**  
+**<u>TOP 10 FILMS of 2021</u>**
+
 1. _West Side Story_
 1. _Escape from Mogadishu_
 1. _Quo Vadis, Aida?_
@@ -157,7 +158,8 @@ _The Candidate_ (1972)
 _The Night of the Hunter_ (1955)  
 _The War of the Worlds_ (1953)
 
-**<u>TOP 10 TV Shows of 2021</u>**  
+**<u>TOP 10 TV Shows of 2021</u>**
+
 1. **_Money Heist_** (Season 5) - _Netflix_
 1. **_Beartown_** - _HBO/Crave_
 1. **_Mare of Easttown_** - _HBO/Crave_
@@ -169,7 +171,8 @@ _The War of the Worlds_ (1953)
 1. **_Hacks_** - _HBO/Crave_
 1. **_How to with John Wilson_** (Season 2) - _HBO/Crave_
 
-**<u>The Next 10 Best TV Shows of 2021</u>**  
+**<u>The Next 10 Best TV Shows of 2021</u>**
+
 1. **_Mythic Quest_** (Season 2) - _Apple+_
 1. **_White Lotus_** - _HBO/Crave_
 1. **_Narcos: Mexico_** (Season 3) - _Netflix_
