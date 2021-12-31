@@ -184,7 +184,8 @@ _The War of the Worlds_ (1953)
 1. **_Cobra Kai_** (Season 3) - _Netflix_
 1. **_It’s a Sin_** - _Amazon Prime_
 
-**<u>Top 5 Doc Series</u>**  
+**<u>Top 5 Doc Series</u>**
+
 1. **_100 Foot Wave_** - _HBO/Crave_
 1. **_Watch the Sound_** - _Apple+_
 1. **_Voir_** - _Netflix_
