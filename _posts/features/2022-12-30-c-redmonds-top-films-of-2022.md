@@ -29,6 +29,7 @@ Case in point: it was a strange gut-punch for the venerable [Sight and Sound pol
 
 **<u>TOP 10 FILMS of 2022</u>**
 
+
 1. _RRR_
 1. _Triangle of Sadness_
 1. _All Quiet on the Western Front_
