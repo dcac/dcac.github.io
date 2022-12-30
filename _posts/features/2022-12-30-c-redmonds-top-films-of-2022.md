@@ -197,7 +197,7 @@ _Rashomon (1951)_
 _All Quiet on the Western Front (1930)_  
 **_The Passion of Joan of Arc (1928)_**
 
-***Bold = My Favourite 10 of these 50**
+_Bold = My Favourite 10 of these 50_
 
 **_TOP 10 TV Shows of 2021</u>**
 
