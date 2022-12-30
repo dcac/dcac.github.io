@@ -233,7 +233,7 @@ _Bold = My Favourite 10 of these 50_
 1. **_Only Murders in the Building_** (Season 2) — _Disney+_
 1. **_Children Ruin Everything_** — _CTV_
 
-**<u>Don't Regret, but Don’t Really Recommend</u>**
+**<u>Don't Regret, but Don’t Really Recommend</u>**  
 **_Pam & Tommy_** - _Disney+_  
 **_Physical_** (Season 2) - _Apple TV+_  
 **_The Dropout_** - _Disney+_  
