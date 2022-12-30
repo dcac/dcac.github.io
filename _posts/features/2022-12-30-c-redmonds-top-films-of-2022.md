@@ -27,7 +27,8 @@ I like [clear goals](https://film500.wordpress.com/about/), and sticking to a fi
 
 Case in point: it was a strange gut-punch for the venerable [Sight and Sound poll](https://www.bfi.org.uk/news/revealed-results-2022-sight-sound-greatest-films-all-time-poll) to come out this year (once every decade) and declare the Greatest Film of All-Time to be not only a film I hadn’t seen - but hadn’t heard of: _Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles_ (1975) by Chantal Ackerman. Even after that kind of accolade, I might struggle to find time to watch a 3.5 hour ultra-low budget, Belgian feminist film with virtually no plot, no score, no camera movement, no dialogue for huge stretches of time, etc. But part of committing yourself to watching a film a day means you can stop putting off the films you’ll “get to eventually” or feel like you “have to be in the mood for.” Good movies get you in the mood every time, so here's the ones from this year that did that the best:
 
-<u>**TOP 10 FILMS of 2022**</u>  
+**<u>TOP 10 FILMS of 2022</u>**
+
 1. _RRR_
 1. _Triangle of Sadness_
 1. _All Quiet on the Western Front_
@@ -39,87 +40,87 @@ Case in point: it was a strange gut-punch for the venerable [Sight and Sound pol
 1. _Viking_
 1. _The Northman_
 
-<u>**_Didn’t Disappoint_**</u>  
+**<u>Didn’t Disappoint</u>**  
 _Avatar: The Way of Water_  
 _Women Talking_  
 _Top Gun: Maverick_  
 
-<u>**_Better Than Necessary_**</u>  
+**<u>Better Than Necessary</u>**  
 _Dog_  
 _The Batman_  
 _Everything, Everywhere All at Once_  
 
-<u>**_Overrated By Everyone Else_**</u>  
+**<u>Overrated By Everyone Else</u>**  
 _TAR_  
 _Aftersun_  
 _Confess, Fletch_  
 
-<u>**_Want to Love, But Not There Yet_**</u>  
+**<u>Want to Love, But Not There Yet</u>**  
 _The Fablemans_  
 _Nope_  
 _Decision to Leave_  
 
-<u>**_Inexplicably Underseen_**</u>  
+**<u>Inexplicably Underseen</u>**  
 _The Greatest Beer Run Ever_  
 _Devotion_  
 _Smile_  
 
-<u>**_Satisfying Sequels_**</u>  
+**<u>Satisfying Sequels</u>**  
 _Jackass Forever_  
 _Glass Onion: A Knives Out Mystery_  
 _Enola Holmes 2_  
 
-<u>**_Foreign But Not Forgotten_**</u>  
+**<u>Foreign But Not Forgotten</u>**  
 _Athena_  
 _Argentina, 1985_  
 _Silverton Siege_  
 
-<u>**_Extra Special Indies_**</u>  
+**<u>Extra Special Indies</u>**  
 _Emily the Criminal_  
 _The Stranger_  
 _Fall_  
 
-<u>**_Unapologetically Awesome_**</u>  
+**<u>Unapologetically Awesome</u>**  
 _Ambulance_  
 _The Menu_  
 _Barbarian_  
 
-<u>**_Big Swing (and a Miss)_**</u>  
+**<u>Big Swing (and a Miss)</u>**  
 _The Gray Man_  
 _Bullet Train_  
 _Moonfall_  
 
-<u>**_Best of the B-Movies_**</u>  
+**<u>Best of the B-Movies</u>**  
 _Beast_  
 _Last Seen Alive_  
 _Black Crab_  
 
-<u>**_Top-Notch Animation_**</u>  
+**<u>Top-Notch Animation</u>**  
 _Guillermo del Toro's Pinocchio_  
 _Chip 'n Dale: Rescue Rangers_  
 _Turning Red_  
 
-<u>**_Kick-Ass Canadian Films_**</u>  
+**<u>Kick-Ass Canadian Films</u>**  
 _Crimes of the Future_  
 _Black Ice_  
 _Bandit_  
 
-<u>**_Funny Enough_**</u>  
+**<u>Funny Enough</u>**  
 _Bros_  
 _I Love You Dad_  
 _Weird: The Al Yankovic Story_  
 
-<u>**_Docs to Watch Now_**</u>  
+**<u>Docs to Watch Now</u>**  
 _Navalny_  
 _The Princess_  
 _Jennifer Lopez: Halftime_  
 
-<u>**_Diamonds in the Rough Stuff_**</u>  
+**<u>Diamonds in the Rough Stuff</u>**  
 _Pearl_  
 _X_  
 _Orphan: First Kill_  
 
-<u>**_A Year Late to the Party (but Wow!)_**</u>  
+**<u>A Year Late to the Party (but Wow!)</u>**  
 _Ascension_  
 _A Hero_  
 _PleasureThe Shadow in My Eye (aka The Bombardment)_  
@@ -132,7 +133,7 @@ _The Novice_
 _Drive My Car_  
 _Malignant_  
 
-<u>**_Wasted My Time Watching_**</u>  
+**<u>Wasted My Time Watching</u>**  
 _Interceptor_  
 _Deep Water_  
 _Cha Cha Real Smooth_  
@@ -143,7 +144,7 @@ _The Man from Toronto_
 _Blacklight_  
 _See How They Run_
 
-<u>**_50 Great Films I Finally Saw (from 20th Century)_**</u>
+**<u>50 Great Films I Finally Saw (from 20th Century)</u>**
 _But I’m a Cheerleader (1999)_  
 _Croupier (1998)_  
 _The Cutting Edge (1992)_  
@@ -197,38 +198,41 @@ _All Quiet on the Western Front (1930)_
 
 ***Bold = My Favourite 10 of these 50**
 
-**_TOP 10 TV Shows of 2021_**</u>
-1. **_The Rehearsal_** - _HBO/Crave_  
+**_TOP 10 TV Shows of 2021</u>**
+
+1. **_The Rehearsal_** - _HBO/Crave_
 1. **_The Bear_** — _Disney+_
-1. **_Andor_** — _Disney+_  
-1. **_Euphoria_** (Season 2) — _HBO/Crave_  
-1. **_We Own This City_** — _HBO/Crave_  
-1. **_Barry** (Season 3) — _HBO/Crave_  
-1. **_Station Eleven_** — _HBO/Crave_  
-1. **_Cheer_** (Season 2) — _Netflix_  
-1. **_The White Lotus** (Season 2) — _HBO/Crave_  
-1. **_Severance_** — _Apple TV+_  
+1. **_Andor_** — _Disney+_
+1. **_Euphoria_** (Season 2) — _HBO/Crave_
+1. **_We Own This City_** — _HBO/Crave_
+1. **_Barry** (Season 3) — _HBO/Crave_
+1. **_Station Eleven_** — _HBO/Crave_
+1. **_Cheer_** (Season 2) — _Netflix_
+1. **_The White Lotus** (Season 2) — _HBO/Crave_
+1. **_Severance_** — _Apple TV+_
 
-<u>**_The Next 10 Best TV Shows of 2022_**</u>
-1. **_The House of the Dragon_** — _HBO/Crave_  
-1. **_Industry** (Season 2) — _HBO/Crave_  
+**<u>The Next 10 Best TV Shows of 2022</u>**
+
+1. **_The House of the Dragon_** — _HBO/Crave_
+1. **_Industry** (Season 2) — _HBO/Crave_
 1. **_After Life_** (Season 3) — _Netflix_  
-1. **_Borgen: Power and Glory** (Season 4) — _Netflix_  
-1. **_Better Call Saul** (Season 6) — _AMC_  
-1. **_Jack Ryan_** (Season 3) — _Amazon Prime_  
-1. **_Cobra Kai_** (Season 4) — _Netflix_  
-1. **_How to with John Wilson** (Season 2) — _HBO/Crave_  
-1. **_Stranger Things** (Season 4) — _Netflix_  
-1. **_Winning Time_** — _HBO/Crave_  
+1. **_Borgen: Power and Glory** (Season 4) — _Netflix_
+1. **_Better Call Saul** (Season 6) — _AMC_
+1. **_Jack Ryan_** (Season 3) — _Amazon Prime_
+1. **_Cobra Kai_** (Season 4) — _Netflix_
+1. **_How to with John Wilson** (Season 2) — _HBO/Crave_
+1. **_Stranger Things** (Season 4) — _Netflix_
+1. **_Winning Time_** — _HBO/Crave_
 
-<u>**_Top 5 Funnies_**</u>
-1. **_Hacks_** (Season 2) - _HBO/Crave_  
-1. **_Life & Beth_** — _Disney+_  
-1. **_Sex Lives of College Girls_** - _HBO/Crave_  
-1. **_Only Murders in the Building_** (Season 2) — _Disney+_  
-1. **_Children Ruin Everything_** — _CTV_  
+**<u>Top 5 Funnies</u>**
 
-<u>**_Don't Regret, but Don’t Really Recommend_**</u>
+1. **_Hacks_** (Season 2) - _HBO/Crave_
+1. **_Life & Beth_** — _Disney+_
+1. **_Sex Lives of College Girls_** - _HBO/Crave_
+1. **_Only Murders in the Building_** (Season 2) — _Disney+_
+1. **_Children Ruin Everything_** — _CTV_
+
+**<u>Don't Regret, but Don’t Really Recommend</u>**
 **_Pam & Tommy_** - _Disney+_  
 **_Physical_** (Season 2) - _Apple TV+_  
 **_The Dropout_** - _Disney+_  
@@ -246,5 +250,5 @@ _All Quiet on the Western Front (1930)_
 **_For All Mankind_** (Season 3) — _Apple TV+_  
 **_Mythic Quest_**  (Season 3)- _Apple TV+_  
 
-<u>**_Peer-Pressured into Watching_**</u>  
+**<u>Peer-Pressured into Watching</u>**  
 **_Dahmer_** — _Netflix_  
