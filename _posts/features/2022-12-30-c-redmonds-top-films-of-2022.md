@@ -37,7 +37,7 @@ Case in point: it was a strange gut-punch for the venerable [Sight and Sound pol
 1. _Elvis_
 1. _Broker_
 1. _The Woman King_
-1. _Babylon__
+1. _Babylon_
 1. _Viking_
 1. _The Northman_
 
