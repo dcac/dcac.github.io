@@ -145,7 +145,7 @@ _The Man from Toronto_
 _Blacklight_  
 _See How They Run_
 
-**<u>50 Great Films I Finally Saw (from 20th Century)</u>**
+**<u>50 Great Films I Finally Saw (from 20th Century)</u>**  
 _But I’m a Cheerleader (1999)_  
 _Croupier (1998)_  
 _The Cutting Edge (1992)_  
