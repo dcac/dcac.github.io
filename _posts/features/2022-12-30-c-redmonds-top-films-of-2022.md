@@ -199,17 +199,17 @@ _All Quiet on the Western Front (1930)_
 
 _Bold = My Favourite 10 of these 50_
 
-**_TOP 10 TV Shows of 2022</u>**
+**<uLTOP 10 TV Shows of 2022</u>**
 
 1. **_The Rehearsal_** - _HBO/Crave_
 1. **_The Bear_** — _Disney+_
 1. **_Andor_** — _Disney+_
 1. **_Euphoria_** (Season 2) — _HBO/Crave_
 1. **_We Own This City_** — _HBO/Crave_
-1. **_Barry** (Season 3) — _HBO/Crave_
+1. **_Barry_** (Season 3) — _HBO/Crave_
 1. **_Station Eleven_** — _HBO/Crave_
 1. **_Cheer_** (Season 2) — _Netflix_
-1. **_The White Lotus** (Season 2) — _HBO/Crave_
+1. **_The White Lotus_** (Season 2) — _HBO/Crave_
 1. **_Severance_** — _Apple TV+_
 
 **<u>The Next 10 Best TV Shows of 2022</u>**
@@ -238,14 +238,16 @@ _Bold = My Favourite 10 of these 50_
 **_Physical_** (Season 2) - _Apple TV+_  
 **_The Dropout_** - _Disney+_  
 **_Outer Range_** - _Amazon Prime_  
-**_Tokyo Vice_** — _HBO/Crave_  
-**_Finished but Forgettable_**
+**_Tokyo Vice_** — _HBO/Crave_
+
+**<u>Finished but Forgettable</u>**  
 **_Yellowjackets_** — _HBO/Crave_  
 **_WeCrashed_** — _Apple TV+_  
 **_SuperPumped_** — _HBO/Crave_  
 **_Roar_** — _Amazon Prime_  
-**_Lord of the Rings: Rings of Power_** - _Amazon Prime_  
-**_Boy, That Went Downhill_**
+**_Lord of the Rings: Rings of Power_** - _Amazon Prime_
+
+**<u>Boy, That Went Downhill</u>**  
 **_Ozark_** (Season 4) - _Netflix_  
 **_Atlanta_** (Season 3) — _Disney+_  
 **_For All Mankind_** (Season 3) — _Apple TV+_  
