@@ -225,7 +225,7 @@ _Bold = My Favourite 10 of these 50_
 1. **_Stranger Things** (Season 4) — _Netflix_
 1. **_Winning Time_** — _HBO/Crave_
 
-**<u>Top 5 Funnies</u>** 
+**<u>Top 5 Funnies</u>**
 
 1. **_Hacks_** (Season 2) - _HBO/Crave_
 1. **_Life & Beth_** — _Disney+_
