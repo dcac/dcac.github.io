@@ -199,7 +199,7 @@ _All Quiet on the Western Front (1930)_
 
 _Bold = My Favourite 10 of these 50_
 
-**<uLTOP 10 TV Shows of 2022</u>**
+**<u>TOP 10 TV Shows of 2022</u>**
 
 1. **_The Rehearsal_** - _HBO/Crave_
 1. **_The Bear_** — _Disney+_
