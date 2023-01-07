@@ -243,7 +243,7 @@ _Bold = My Favourite 10 of these 50_
 **<u>Finished but Forgettable</u>**  
 **_Yellowjackets_** — _HBO/Crave_  
 **_WeCrashed_** — _Apple TV+_  
-**_SuperPumped_** — _HBO/Crave_  
+**_SuperPumped_** — _HBO/Crave_  fatal: bad object refs/heads/master
 **_Roar_** — _Amazon Prime_  
 **_Lord of the Rings: Rings of Power_** - _Amazon Prime_
 
